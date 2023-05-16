@@ -1,0 +1,48 @@
+[
+    {
+        "ballot_box_number": 2347,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/49973_cb_1093706081_1684081348436349443.jpg",
+            "submission_id": 188061,
+            "total_vote": 156,
+            "votes": {
+                "1": 93,
+                "2": 2,
+                "3": 53,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/49973_mv_1083706081_1684083078764087610.jpg",
+            "submission_id": 210063,
+            "total_vote": 152,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 25,
+                "12": 0,
+                "13": 0,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 34,
+                "22": 13,
+                "23": 0,
+                "24": 3,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 3,
+                "9": 61
+            }
+        },
+        "school_name": "UĞURLU İLK ÖĞRETİM OKULU"
+    }
+]

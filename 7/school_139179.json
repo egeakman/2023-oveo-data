@@ -1,0 +1,88 @@
+[
+    {
+        "ballot_box_number": 1060,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/10264_cb_1093698574_1684085968329404583.jpg",
+            "submission_id": 283992,
+            "total_vote": 216,
+            "votes": {
+                "1": 149,
+                "2": 2,
+                "3": 53,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/10264_mv_1083698574_1684086134732863017.jpg",
+            "submission_id": 289293,
+            "total_vote": 209,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 18,
+                "12": 1,
+                "13": 4,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 32,
+                "22": 21,
+                "23": 0,
+                "24": 3,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 2,
+                "9": 120
+            }
+        },
+        "school_name": "DOYRAN AYTEN ŞEVKET GÜLVEREN İLK ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1059,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/9937_cb_1093698573_1684079413549139321.jpg",
+            "submission_id": 176907,
+            "total_vote": 206,
+            "votes": {
+                "1": 123,
+                "2": 2,
+                "3": 62,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/9937_mv_1083698573_1684079573089641442.jpg",
+            "submission_id": 177498,
+            "total_vote": 203,
+            "votes": {
+                "10": 9,
+                "11": 18,
+                "12": 0,
+                "13": 5,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "20": 0,
+                "21": 34,
+                "22": 26,
+                "23": 0,
+                "24": 3,
+                "7": 5,
+                "8": 1,
+                "9": 100
+            }
+        },
+        "school_name": "DOYRAN AYTEN ŞEVKET GÜLVEREN İLK ORTA OKULU"
+    }
+]

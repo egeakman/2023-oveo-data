@@ -1,0 +1,52 @@
+[
+    {
+        "ballot_box_number": 1095,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "AYŞE ÇINAR ÖZAYDIN MESLEKİ EĞİTİM MERKEZİ"
+    },
+    {
+        "ballot_box_number": 1096,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "AYŞE ÇINAR ÖZAYDIN MESLEKİ EĞİTİM MERKEZİ"
+    },
+    {
+        "ballot_box_number": 1092,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8487d591-a2b8-4ba2-b2e2-c1ba96500920-1684105695649869737.jpg",
+            "submission_id": 680975,
+            "total_vote": 285,
+            "votes": {
+                "1": 179,
+                "2": 1,
+                "3": 93,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "AYŞE ÇINAR ÖZAYDIN MESLEKİ EĞİTİM MERKEZİ"
+    },
+    {
+        "ballot_box_number": 1094,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "AYŞE ÇINAR ÖZAYDIN MESLEKİ EĞİTİM MERKEZİ"
+    },
+    {
+        "ballot_box_number": 1093,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0c66934a-5ba8-43e3-a316-10aeb44d34e8-1684105545802686374.jpg",
+            "submission_id": 656842,
+            "total_vote": 295,
+            "votes": {
+                "1": 128,
+                "2": 7,
+                "3": 124,
+                "4": 36
+            }
+        },
+        "mv_result": null,
+        "school_name": "AYŞE ÇINAR ÖZAYDIN MESLEKİ EĞİTİM MERKEZİ"
+    }
+]

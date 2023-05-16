@@ -1,0 +1,62 @@
+[
+    {
+        "ballot_box_number": 1112,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/6426_cb_1093700446_1684089097306826958.jpg",
+            "submission_id": 385291,
+            "total_vote": 294,
+            "votes": {
+                "1": 91,
+                "3": 186,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "FARUK TUGAYOĞLU İLK/ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1111,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/6426_cb_1093700445_1684089174893654646.jpg",
+            "submission_id": 387434,
+            "total_vote": 293,
+            "votes": {
+                "1": 91,
+                "3": 185,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/6426_bulk_999999999_1684099815552086021.jpg",
+            "submission_id": 534516,
+            "total_vote": 287,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 16,
+                "12": 7,
+                "13": 17,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 129,
+                "22": 30,
+                "23": 2,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 0,
+                "8": 1,
+                "9": 68
+            }
+        },
+        "school_name": "FARUK TUGAYOĞLU İLK/ORTA OKULU"
+    }
+]

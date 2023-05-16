@@ -1,0 +1,24 @@
+[
+    {
+        "ballot_box_number": 2342,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "TÜRKLER YANIKLAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2343,
+        "cm_result": {
+            "image_url": "https://source2-secim-images.oyveotesi.org/raw/Photos-001 (14)/d5bd4ec1-ec94-4fd3-913e-ee5add9ae94e.jpg",
+            "submission_id": 1008562,
+            "total_vote": 192,
+            "votes": {
+                "1": 64,
+                "2": 2,
+                "3": 112,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "TÜRKLER YANIKLAR İLKOKULU"
+    }
+]

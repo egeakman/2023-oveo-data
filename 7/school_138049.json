@@ -1,0 +1,64 @@
+[
+    {
+        "ballot_box_number": 1048,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16268_cb_1093698442_1684082440721593362.jpg",
+            "submission_id": 200170,
+            "total_vote": 269,
+            "votes": {
+                "1": 180,
+                "2": 0,
+                "3": 72,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16268_mv_1083698442_1684083799090279920.jpg",
+            "submission_id": 224003,
+            "total_vote": 245,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 23,
+                "12": 0,
+                "13": 6,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 51,
+                "22": 15,
+                "23": 1,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 6,
+                "8": 1,
+                "9": 132
+            }
+        },
+        "school_name": "HİLMİ CANER SARACOĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1049,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16268_cb_1093698443_1684085840315209682.jpg",
+            "submission_id": 279798,
+            "total_vote": 277,
+            "votes": {
+                "1": 159,
+                "2": 2,
+                "3": 98,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "HİLMİ CANER SARACOĞLU İLKOKULU"
+    }
+]

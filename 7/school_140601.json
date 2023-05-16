@@ -1,0 +1,48 @@
+[
+    {
+        "ballot_box_number": 1020,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/921729d0-c0d0-4841-8ecb-02acc63a268b-1684105264862404313.jpg",
+            "submission_id": 607978,
+            "total_vote": 102,
+            "votes": {
+                "1": 87,
+                "2": 0,
+                "3": 12,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/79e11dec-1670-40d7-99da-76a51b22f9d5-1684105096603104582.jpg",
+            "submission_id": 569634,
+            "total_vote": 101,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 17,
+                "12": 1,
+                "13": 1,
+                "14": 2,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 10,
+                "22": 1,
+                "23": 0,
+                "24": 1,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 0,
+                "9": 61
+            }
+        },
+        "school_name": "BAHÇEYAKA MAH DÜĞÜN SALONU"
+    }
+]

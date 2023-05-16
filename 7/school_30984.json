@@ -1,0 +1,608 @@
+[
+    {
+        "ballot_box_number": 1290,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "(ÜNSAL MAH) ÜNSAL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1289,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/12482_bulk_999999999_1684096330737838436.jpeg",
+            "submission_id": 511577,
+            "total_vote": 331,
+            "votes": {
+                "1": 165,
+                "2": 1,
+                "3": 142,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "(ÜNSAL MAH) ÜNSAL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1282,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/13237_bulk_999999999_1684099834893967776.jpeg",
+            "submission_id": 534598,
+            "total_vote": 337,
+            "votes": {
+                "1": 144,
+                "2": 3,
+                "3": 173,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/13237_bulk_999999999_1684099835002202212.jpeg",
+            "submission_id": 534599,
+            "total_vote": 332,
+            "votes": {
+                "10": 2,
+                "11": 35,
+                "12": 19,
+                "13": 5,
+                "21": 118,
+                "22": 29,
+                "24": 6,
+                "3": 1,
+                "5": 1,
+                "6": 4,
+                "7": 6,
+                "9": 106
+            }
+        },
+        "school_name": "(ÜNSAL MAH) ÜNSAL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1283,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "(ÜNSAL MAH) ÜNSAL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1280,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/13237_bulk_999999999_1684099834605654284.jpeg",
+            "submission_id": 534593,
+            "total_vote": 325,
+            "votes": {
+                "1": 169,
+                "2": 3,
+                "3": 128,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/13237_bulk_999999999_1684099834689460410.jpeg",
+            "submission_id": 534594,
+            "total_vote": 318,
+            "votes": {
+                "10": 9,
+                "11": 42,
+                "12": 10,
+                "13": 13,
+                "19": 1,
+                "20": 1,
+                "21": 77,
+                "22": 29,
+                "23": 1,
+                "24": 15,
+                "7": 3,
+                "8": 4,
+                "9": 113
+            }
+        },
+        "school_name": "(ÜNSAL MAH) ÜNSAL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1274,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/12840_bulk_999999999_1684095947355847580.jpeg",
+            "submission_id": 508165,
+            "total_vote": 345,
+            "votes": {
+                "1": 160,
+                "2": 1,
+                "3": 153,
+                "4": 31
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/13237_bulk_999999999_1684099748402364191.jpeg",
+            "submission_id": 534191,
+            "total_vote": 335,
+            "votes": {
+                "1": 0,
+                "10": 9,
+                "11": 31,
+                "12": 10,
+                "13": 13,
+                "14": 2,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 2,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 98,
+                "22": 31,
+                "23": 2,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 5,
+                "8": 2,
+                "9": 118
+            }
+        },
+        "school_name": "(ÜNSAL MAH) ÜNSAL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1273,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/51201_cb_1093704847_1684085016413161022.jpg",
+            "submission_id": 254649,
+            "total_vote": 331,
+            "votes": {
+                "1": 152,
+                "2": 2,
+                "3": 148,
+                "4": 29
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/51201_mv_1083704847_1684085227543822614.jpg",
+            "submission_id": 260648,
+            "total_vote": 329,
+            "votes": {
+                "1": 3,
+                "10": 3,
+                "11": 30,
+                "12": 11,
+                "13": 10,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 0,
+                "21": 89,
+                "22": 41,
+                "23": 0,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 4,
+                "7": 3,
+                "8": 3,
+                "9": 118
+            }
+        },
+        "school_name": "(ÜNSAL MAH) ÜNSAL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1277,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/12482_bulk_999999999_1684093276035246862.jpeg",
+            "submission_id": 467879,
+            "total_vote": 330,
+            "votes": {
+                "1": 171,
+                "2": 2,
+                "3": 125,
+                "4": 32
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/12482_bulk_999999999_1684093276129493742.jpeg",
+            "submission_id": 467880,
+            "total_vote": 325,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 31,
+                "12": 13,
+                "13": 13,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 1,
+                "21": 77,
+                "22": 29,
+                "23": 2,
+                "24": 13,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 3,
+                "9": 134
+            }
+        },
+        "school_name": "(ÜNSAL MAH) ÜNSAL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1291,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/12482_bulk_999999999_1684096296806557223.jpeg",
+            "submission_id": 511243,
+            "total_vote": 316,
+            "votes": {
+                "1": 144,
+                "2": 4,
+                "3": 128,
+                "4": 40
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/12482_bulk_999999999_1684096296708904286.jpeg",
+            "submission_id": 511242,
+            "total_vote": 316,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 37,
+                "12": 15,
+                "13": 15,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 74,
+                "22": 38,
+                "23": 0,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 4,
+                "7": 10,
+                "8": 5,
+                "9": 104
+            }
+        },
+        "school_name": "(ÜNSAL MAH) ÜNSAL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1275,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/13237_bulk_999999999_1684099748494464692.jpeg",
+            "submission_id": 534192,
+            "total_vote": 341,
+            "votes": {
+                "1": 1,
+                "10": 5,
+                "11": 31,
+                "12": 13,
+                "13": 15,
+                "2": 1,
+                "20": 1,
+                "21": 93,
+                "22": 42,
+                "24": 8,
+                "6": 2,
+                "7": 3,
+                "8": 3,
+                "9": 123
+            }
+        },
+        "school_name": "(ÜNSAL MAH) ÜNSAL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1284,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/12482_bulk_999999999_1684096331180582702.jpeg",
+            "submission_id": 511588,
+            "total_vote": 328,
+            "votes": {
+                "1": 152,
+                "2": 2,
+                "3": 146,
+                "4": 28
+            }
+        },
+        "mv_result": null,
+        "school_name": "(ÜNSAL MAH) ÜNSAL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1286,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/76298_cb_1093705340_1684098108377837130.jpeg",
+            "submission_id": 525253,
+            "total_vote": 324,
+            "votes": {
+                "1": 138,
+                "2": 0,
+                "3": 153,
+                "4": 33
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/76298_mv_1083705340_1684098379750219816.jpeg",
+            "submission_id": 526892,
+            "total_vote": 317,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 38,
+                "12": 9,
+                "13": 11,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "21": 108,
+                "22": 24,
+                "23": 1,
+                "24": 20,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 2,
+                "7": 2,
+                "8": 2,
+                "9": 92
+            }
+        },
+        "school_name": "(ÜNSAL MAH) ÜNSAL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1285,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/12482_bulk_999999999_1684096331148998074.jpeg",
+            "submission_id": 511587,
+            "total_vote": 325,
+            "votes": {
+                "1": 142,
+                "2": 1,
+                "3": 159,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "(ÜNSAL MAH) ÜNSAL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1292,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/12482_bulk_999999999_1684096296851758436.jpeg",
+            "submission_id": 511244,
+            "total_vote": 327,
+            "votes": {
+                "1": 124,
+                "2": 3,
+                "3": 165,
+                "4": 35
+            }
+        },
+        "mv_result": null,
+        "school_name": "(ÜNSAL MAH) ÜNSAL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1293,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/12482_bulk_999999999_1684096296887088331.jpeg",
+            "submission_id": 511245,
+            "total_vote": 332,
+            "votes": {
+                "1": 161,
+                "2": 1,
+                "3": 147,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "(ÜNSAL MAH) ÜNSAL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1287,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/12482_bulk_999999999_1684096331041489668.jpeg",
+            "submission_id": 511581,
+            "total_vote": 322,
+            "votes": {
+                "1": 156,
+                "2": 2,
+                "3": 131,
+                "4": 33
+            }
+        },
+        "mv_result": null,
+        "school_name": "(ÜNSAL MAH) ÜNSAL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1294,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/12482_bulk_999999999_1684096296432407136.jpeg",
+            "submission_id": 511237,
+            "total_vote": 343,
+            "votes": {
+                "1": 185,
+                "2": 7,
+                "3": 124,
+                "4": 27
+            }
+        },
+        "mv_result": null,
+        "school_name": "(ÜNSAL MAH) ÜNSAL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1288,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/12482_bulk_999999999_1684096331010903726.jpeg",
+            "submission_id": 511579,
+            "total_vote": 343,
+            "votes": {
+                "1": 178,
+                "2": 3,
+                "3": 132,
+                "4": 30
+            }
+        },
+        "mv_result": null,
+        "school_name": "(ÜNSAL MAH) ÜNSAL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1278,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/13237_bulk_999999999_1684099833966853096.jpeg",
+            "submission_id": 534582,
+            "total_vote": 321,
+            "votes": {
+                "1": 148,
+                "2": 3,
+                "3": 149,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "(ÜNSAL MAH) ÜNSAL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1295,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/12482_bulk_999999999_1684096296572259829.jpeg",
+            "submission_id": 511240,
+            "total_vote": 330,
+            "votes": {
+                "1": 170,
+                "2": 1,
+                "3": 131,
+                "4": 28
+            }
+        },
+        "mv_result": null,
+        "school_name": "(ÜNSAL MAH) ÜNSAL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1276,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/12482_bulk_999999999_1684093276265758977.jpeg",
+            "submission_id": 467883,
+            "total_vote": 342,
+            "votes": {
+                "1": 169,
+                "2": 3,
+                "3": 129,
+                "4": 41
+            }
+        },
+        "mv_result": null,
+        "school_name": "(ÜNSAL MAH) ÜNSAL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1271,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/13237_bulk_999999999_1684098161132467665.jpeg",
+            "submission_id": 525525,
+            "total_vote": 309,
+            "votes": {
+                "1": 154,
+                "2": 2,
+                "3": 128,
+                "4": 25
+            }
+        },
+        "mv_result": null,
+        "school_name": "(ÜNSAL MAH) ÜNSAL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1279,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/13237_bulk_999999999_1684099834320290632.jpeg",
+            "submission_id": 534585,
+            "total_vote": 331,
+            "votes": {
+                "1": 161,
+                "2": 3,
+                "3": 135,
+                "4": 32
+            }
+        },
+        "mv_result": null,
+        "school_name": "(ÜNSAL MAH) ÜNSAL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1272,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/13237_bulk_999999999_1684099747926135692.jpeg",
+            "submission_id": 534185,
+            "total_vote": 290,
+            "votes": {
+                "1": 131,
+                "2": 2,
+                "3": 137,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/13237_bulk_999999999_1684099748030554826.jpeg",
+            "submission_id": 534186,
+            "total_vote": 282,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 20,
+                "12": 4,
+                "13": 4,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 2,
+                "21": 88,
+                "22": 36,
+                "23": 2,
+                "24": 9,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 7,
+                "8": 2,
+                "9": 101
+            }
+        },
+        "school_name": "(ÜNSAL MAH) ÜNSAL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1281,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/13237_bulk_999999999_1684099834790985328.jpeg",
+            "submission_id": 534596,
+            "total_vote": 329,
+            "votes": {
+                "1": 140,
+                "2": 3,
+                "3": 165,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "(ÜNSAL MAH) ÜNSAL İLKOKULU"
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "ballot_box_number": 1090,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/3359_cb_1093698824_1684085891026308456.jpg",
+            "submission_id": 281528,
+            "total_vote": 334,
+            "votes": {
+                "1": 150,
+                "2": 3,
+                "3": 152,
+                "4": 29
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/3359_mv_1083698824_1684085945790698908.jpg",
+            "submission_id": 283263,
+            "total_vote": 325,
+            "votes": {
+                "10": 4,
+                "11": 43,
+                "12": 3,
+                "13": 11,
+                "21": 91,
+                "22": 49,
+                "23": 2,
+                "24": 15,
+                "7": 2,
+                "8": 1,
+                "9": 104
+            }
+        },
+        "school_name": "ELMALI MESLEK VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1091,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/3359_cb_1093698825_1684085967078372723.jpg",
+            "submission_id": 283956,
+            "total_vote": 323,
+            "votes": {
+                "1": 145,
+                "2": 4,
+                "3": 152,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "ELMALI MESLEK VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1089,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/3359_cb_1093698823_1684085849553811211.jpg",
+            "submission_id": 280111,
+            "total_vote": 316,
+            "votes": {
+                "1": 146,
+                "2": 6,
+                "3": 140,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/3359_mv_1083698823_1684085873404017843.jpg",
+            "submission_id": 280933,
+            "total_vote": 309,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 38,
+                "13": 5,
+                "14": 1,
+                "15": 1,
+                "18": 2,
+                "21": 83,
+                "22": 51,
+                "23": 5,
+                "24": 10,
+                "7": 8,
+                "8": 4,
+                "9": 98
+            }
+        },
+        "school_name": "ELMALI MESLEK VE TEKNİK ANADOLU LİSESİ"
+    }
+]

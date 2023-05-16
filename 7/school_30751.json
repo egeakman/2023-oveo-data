@@ -1,0 +1,104 @@
+[
+    {
+        "ballot_box_number": 1101,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/70236_bulk_999999999_1684084715948255266.jpg",
+            "submission_id": 246324,
+            "total_vote": 274,
+            "votes": {
+                "1": 172,
+                "2": 4,
+                "3": 87,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/70236_mv_1083700095_1684084185749446434.jpg",
+            "submission_id": 232457,
+            "total_vote": 270,
+            "votes": {
+                "10": 2,
+                "11": 44,
+                "13": 7,
+                "14": 1,
+                "21": 57,
+                "22": 20,
+                "23": 1,
+                "24": 3,
+                "6": 1,
+                "7": 7,
+                "8": 2,
+                "9": 125
+            }
+        },
+        "school_name": "EMİNE İLHAN KADAM MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1099,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/34353_cb_1093699573_1684082767245357862.jpg",
+            "submission_id": 204909,
+            "total_vote": 263,
+            "votes": {
+                "1": 119,
+                "3": 135,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/70236_mv_1083699573_1684086153936598967.jpg",
+            "submission_id": 289875,
+            "total_vote": 261,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 19,
+                "12": 2,
+                "13": 6,
+                "15": 1,
+                "21": 94,
+                "22": 29,
+                "24": 9,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 94
+            }
+        },
+        "school_name": "EMİNE İLHAN KADAM MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1100,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/34353_cb_1093699574_1684083513703176511.jpg",
+            "submission_id": 218070,
+            "total_vote": 273,
+            "votes": {
+                "1": 167,
+                "2": 3,
+                "3": 92,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/70236_mv_1083699574_1684085048408504194.jpg",
+            "submission_id": 255563,
+            "total_vote": 263,
+            "votes": {
+                "1": 1,
+                "11": 35,
+                "12": 2,
+                "13": 4,
+                "19": 2,
+                "21": 57,
+                "22": 23,
+                "23": 2,
+                "24": 5,
+                "7": 2,
+                "8": 1,
+                "9": 129
+            }
+        },
+        "school_name": "EMİNE İLHAN KADAM MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    }
+]

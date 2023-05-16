@@ -1,0 +1,549 @@
+[
+    {
+        "ballot_box_number": 1050,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16278_cb_1093698444_1684094334100529590.jpg",
+            "submission_id": 490738,
+            "total_vote": 302,
+            "votes": {
+                "1": 156,
+                "2": 5,
+                "3": 125,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16278_mv_1083698444_1684095343911293664.jpg",
+            "submission_id": 502097,
+            "total_vote": 281,
+            "votes": {
+                "1": 3,
+                "10": 5,
+                "11": 21,
+                "12": 5,
+                "13": 6,
+                "14": 1,
+                "15": 1,
+                "19": 1,
+                "2": 1,
+                "21": 77,
+                "22": 30,
+                "23": 1,
+                "24": 10,
+                "3": 1,
+                "5": 1,
+                "7": 3,
+                "8": 3,
+                "9": 111
+            }
+        },
+        "school_name": "DÖŞEMEALTI TOKİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1058,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/83355_cb_1093698452_1684081100908890893.jpg",
+            "submission_id": 186072,
+            "total_vote": 333,
+            "votes": {
+                "1": 133,
+                "2": 1,
+                "3": 172,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/83355_mv_1083698452_1684086831279845171.jpg",
+            "submission_id": 313126,
+            "total_vote": 333,
+            "votes": {
+                "1": 1,
+                "10": 28,
+                "11": 22,
+                "12": 13,
+                "13": 0,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 99,
+                "22": 31,
+                "23": 0,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 5,
+                "7": 4,
+                "8": 109,
+                "9": 8
+            }
+        },
+        "school_name": "DÖŞEMEALTI TOKİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1059,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1986_bulk_999999999_1684080577742635380.jpeg",
+            "submission_id": 182494,
+            "total_vote": 326,
+            "votes": {
+                "1": 187,
+                "2": 2,
+                "3": 110,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16278_mv_1083698453_1684087476128548808.jpg",
+            "submission_id": 335092,
+            "total_vote": 327,
+            "votes": {
+                "1": 1,
+                "10": 19,
+                "11": 38,
+                "12": 11,
+                "13": 13,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 5,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 58,
+                "23": 2,
+                "24": 15,
+                "3": 1,
+                "4": 9,
+                "5": 0,
+                "6": 4,
+                "7": 7,
+                "8": 0,
+                "9": 143
+            }
+        },
+        "school_name": "DÖŞEMEALTI TOKİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1061,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/40898_bulk_999999999_1684083721687171964.jpg",
+            "submission_id": 222324,
+            "total_vote": 321,
+            "votes": {
+                "1": 151,
+                "2": 1,
+                "3": 148,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "DÖŞEMEALTI TOKİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1051,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16278_cb_1093698445_1684089203211681690.jpg",
+            "submission_id": 388242,
+            "total_vote": 311,
+            "votes": {
+                "1": 160,
+                "2": 3,
+                "3": 129,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16278_mv_1083698445_1684090754990751274.jpg",
+            "submission_id": 426727,
+            "total_vote": 300,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 30,
+                "12": 8,
+                "13": 9,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 85,
+                "22": 28,
+                "23": 0,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 3,
+                "9": 121
+            }
+        },
+        "school_name": "DÖŞEMEALTI TOKİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1056,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/83355_cb_1093698450_1684084889394945558.jpg",
+            "submission_id": 251001,
+            "total_vote": 326,
+            "votes": {
+                "1": 167,
+                "2": 3,
+                "3": 136,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/83355_mv_1083698450_1684086495488769304.jpg",
+            "submission_id": 301337,
+            "total_vote": 319,
+            "votes": {
+                "1": 1,
+                "10": 10,
+                "11": 33,
+                "12": 24,
+                "13": 9,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 75,
+                "22": 25,
+                "23": 2,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 9,
+                "8": 2,
+                "9": 120
+            }
+        },
+        "school_name": "DÖŞEMEALTI TOKİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1062,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/40898_bulk_999999999_1684085430298217788.jpg",
+            "submission_id": 266552,
+            "total_vote": 329,
+            "votes": {
+                "1": 153,
+                "2": 2,
+                "3": 146,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16278_mv_1083699036_1684098117191178173.jpg",
+            "submission_id": 525293,
+            "total_vote": 327,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 35,
+                "12": 19,
+                "13": 17,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 84,
+                "22": 20,
+                "23": 1,
+                "24": 15,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 7,
+                "7": 6,
+                "8": 7,
+                "9": 111
+            }
+        },
+        "school_name": "DÖŞEMEALTI TOKİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1054,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16278_cb_1093698448_1684090844387725180.jpg",
+            "submission_id": 428613,
+            "total_vote": 337,
+            "votes": {
+                "1": 170,
+                "2": 1,
+                "3": 137,
+                "4": 29
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/40898_bulk_999999999_1684175547038662408.jpg",
+            "submission_id": 1024786,
+            "total_vote": 330,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 28,
+                "12": 9,
+                "13": 9,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 7,
+                "20": 7,
+                "21": 94,
+                "24": 15,
+                "3": 0,
+                "4": 7,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 7,
+                "9": 140
+            }
+        },
+        "school_name": "DÖŞEMEALTI TOKİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1053,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16278_cb_1093698447_1684086951930422807.jpg",
+            "submission_id": 317280,
+            "total_vote": 337,
+            "votes": {
+                "1": 159,
+                "2": 2,
+                "3": 155,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16278_mv_1083698447_1684088611399644877.jpg",
+            "submission_id": 370957,
+            "total_vote": 338,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 42,
+                "12": 16,
+                "13": 16,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 93,
+                "22": 23,
+                "23": 0,
+                "24": 15,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 6,
+                "8": 2,
+                "9": 115
+            }
+        },
+        "school_name": "DÖŞEMEALTI TOKİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1063,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/40898_bulk_999999999_1684082452472749352.jpg",
+            "submission_id": 200337,
+            "total_vote": 339,
+            "votes": {
+                "1": 174,
+                "2": 1,
+                "3": 145,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/83355_mv_1083699037_1684087621846555127.jpg",
+            "submission_id": 339759,
+            "total_vote": 334,
+            "votes": {
+                "10": 3,
+                "11": 31,
+                "12": 15,
+                "13": 14,
+                "19": 1,
+                "21": 80,
+                "22": 35,
+                "24": 10,
+                "6": 1,
+                "7": 1,
+                "8": 2,
+                "9": 141
+            }
+        },
+        "school_name": "DÖŞEMEALTI TOKİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1057,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/83355_cb_1093698451_1684086597053375862.jpg",
+            "submission_id": 304926,
+            "total_vote": 323,
+            "votes": {
+                "1": 171,
+                "2": 5,
+                "3": 128,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/33792_bulk_999999999_1684085816414051705.jpg",
+            "submission_id": 278984,
+            "total_vote": 317,
+            "votes": {
+                "10": 9,
+                "11": 32,
+                "12": 12,
+                "13": 15,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "20": 0,
+                "21": 70,
+                "22": 32,
+                "23": 2,
+                "24": 10,
+                "6": 2,
+                "7": 2,
+                "8": 1,
+                "9": 129
+            }
+        },
+        "school_name": "DÖŞEMEALTI TOKİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1055,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/83355_cb_1093698449_1684080821084467649.jpg",
+            "submission_id": 184002,
+            "total_vote": 331,
+            "votes": {
+                "1": 172,
+                "2": 3,
+                "3": 126,
+                "4": 30
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/83355_mv_1083698449_1684085942305900704.jpg",
+            "submission_id": 283151,
+            "total_vote": 321,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 35,
+                "12": 12,
+                "13": 8,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 76,
+                "22": 26,
+                "23": 1,
+                "24": 16,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 7,
+                "8": 2,
+                "9": 131
+            }
+        },
+        "school_name": "DÖŞEMEALTI TOKİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1052,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1986_bulk_999999999_1684080597348351998.jpeg",
+            "submission_id": 182593,
+            "total_vote": 324,
+            "votes": {
+                "1": 165,
+                "2": 3,
+                "3": 140,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/23274_mv_1083698446_1684082515524803198.jpg",
+            "submission_id": 201201,
+            "total_vote": 317,
+            "votes": {
+                "1": 1,
+                "10": 8,
+                "11": 29,
+                "12": 11,
+                "13": 16,
+                "21": 83,
+                "22": 21,
+                "24": 12,
+                "3": 1,
+                "5": 1,
+                "6": 1,
+                "7": 9,
+                "9": 124
+            }
+        },
+        "school_name": "DÖŞEMEALTI TOKİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1060,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1986_bulk_999999999_1684083706381299788.jpeg",
+            "submission_id": 222012,
+            "total_vote": 330,
+            "votes": {
+                "1": 174,
+                "2": 2,
+                "3": 130,
+                "4": 24
+            }
+        },
+        "mv_result": null,
+        "school_name": "DÖŞEMEALTI TOKİ İLKOKULU"
+    }
+]

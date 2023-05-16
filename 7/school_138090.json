@@ -1,0 +1,53 @@
+[
+    {
+        "ballot_box_number": 1075,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/22190_cb_1093699049_1684083238831468245.jpg",
+            "submission_id": 212851,
+            "total_vote": 252,
+            "votes": {
+                "1": 99,
+                "2": 1,
+                "3": 127,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/22190_mv_1083699049_1684084874081301823.jpg",
+            "submission_id": 250590,
+            "total_vote": 245,
+            "votes": {
+                "10": 3,
+                "11": 10,
+                "12": 8,
+                "13": 4,
+                "17": 1,
+                "20": 1,
+                "21": 89,
+                "22": 34,
+                "24": 3,
+                "3": 1,
+                "7": 2,
+                "8": 1,
+                "9": 88
+            }
+        },
+        "school_name": "ILICAKÖY ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1076,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/22190_cb_1093699050_1684083031268507479.jpg",
+            "submission_id": 209272,
+            "total_vote": 254,
+            "votes": {
+                "1": 118,
+                "2": 3,
+                "3": 117,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "ILICAKÖY ORTAOKULU"
+    }
+]

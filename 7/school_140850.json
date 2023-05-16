@@ -1,0 +1,80 @@
+[
+    {
+        "ballot_box_number": 1106,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/22204_cb_1093700100_1684090481937955405.jpg",
+            "submission_id": 420921,
+            "total_vote": 319,
+            "votes": {
+                "1": 156,
+                "2": 3,
+                "3": 142,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source2-secim-images.oyveotesi.org/raw/romeo/2eb3263b-b461-4a8e-ac1c-70375df58baf.jpg",
+            "submission_id": 549214,
+            "total_vote": 302,
+            "votes": {
+                "1": 1,
+                "10": 5,
+                "11": 26,
+                "12": 12,
+                "13": 13,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 2,
+                "21": 78,
+                "22": 26,
+                "23": 0,
+                "24": 11,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 2,
+                "9": 121
+            }
+        },
+        "school_name": "NURSEL AYHAN KADAM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1107,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/22204_cb_1093700101_1684087100997310054.jpg",
+            "submission_id": 322579,
+            "total_vote": 323,
+            "votes": {
+                "1": 170,
+                "2": 2,
+                "3": 134,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "NURSEL AYHAN KADAM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1108,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/22204_cb_1093700102_1684089107102230976.jpg",
+            "submission_id": 385549,
+            "total_vote": 337,
+            "votes": {
+                "1": 192,
+                "2": 1,
+                "3": 114,
+                "4": 30
+            }
+        },
+        "mv_result": null,
+        "school_name": "NURSEL AYHAN KADAM İLKOKULU"
+    }
+]

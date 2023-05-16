@@ -1,0 +1,573 @@
+[
+    {
+        "ballot_box_number": 1302,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3322fb21-fd5e-4839-8673-c5f1777841a0-1684105462035213913.jpeg",
+            "submission_id": 642933,
+            "total_vote": 338,
+            "votes": {
+                "1": 58,
+                "2": 1,
+                "3": 254,
+                "4": 25
+            }
+        },
+        "mv_result": null,
+        "school_name": "AKDENİZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1289,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/37635_cb_1093705483_1684085502273616283.jpg",
+            "submission_id": 268660,
+            "total_vote": 328,
+            "votes": {
+                "1": 79,
+                "3": 236,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/37635_mv_1083705483_1684085421623259020.jpg",
+            "submission_id": 266309,
+            "total_vote": 323,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 29,
+                "12": 13,
+                "13": 23,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 165,
+                "22": 26,
+                "23": 0,
+                "24": 6,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 0,
+                "9": 58
+            }
+        },
+        "school_name": "AKDENİZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1293,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/399ad78f-b81c-43e5-8bfc-610b9efc09d4-1684105418931405229.jpeg",
+            "submission_id": 636568,
+            "total_vote": 338,
+            "votes": {
+                "1": 64,
+                "2": 0,
+                "3": 252,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8fa90e0e-bceb-4adf-a23d-0e63d9a86dd4-1684105412316691776.jpeg",
+            "submission_id": 635157,
+            "total_vote": 335,
+            "votes": {
+                "10": 2,
+                "11": 20,
+                "12": 7,
+                "13": 21,
+                "21": 169,
+                "22": 49,
+                "24": 11,
+                "3": 4,
+                "6": 1,
+                "7": 1,
+                "8": 4,
+                "9": 46
+            }
+        },
+        "school_name": "AKDENİZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1296,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5f256a26-6527-44fa-9dbf-58b8237bae2a-1684105750846923486.jpeg",
+            "submission_id": 688997,
+            "total_vote": 346,
+            "votes": {
+                "1": 63,
+                "2": 2,
+                "3": 259,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/13299_bulk_999999999_1684090087400885176.jpeg",
+            "submission_id": 411845,
+            "total_vote": 348,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 8,
+                "12": 17,
+                "13": 31,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 162,
+                "22": 54,
+                "23": 0,
+                "24": 12,
+                "3": 4,
+                "4": 1,
+                "5": 2,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 51
+            }
+        },
+        "school_name": "AKDENİZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1303,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/37635_cb_1093706037_1684088678861817253.jpg",
+            "submission_id": 373077,
+            "total_vote": 338,
+            "votes": {
+                "1": 59,
+                "2": 1,
+                "3": 268,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/37635_bulk_999999999_1684091571251301433.jpeg",
+            "submission_id": 442329,
+            "total_vote": 335,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 14,
+                "12": 12,
+                "13": 37,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 175,
+                "22": 46,
+                "23": 1,
+                "24": 3,
+                "3": 4,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 0,
+                "8": 0,
+                "9": 38
+            }
+        },
+        "school_name": "AKDENİZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1291,
+        "cm_result": {
+            "image_url": "https://source1-secim-images.oyveotesi.org/raw/1000987_cb_3705485_1684086281.jpeg",
+            "submission_id": 294211,
+            "total_vote": 347,
+            "votes": {
+                "1": 81,
+                "2": 3,
+                "3": 250,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "AKDENİZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1306,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/53668_cb_1093706040_1684079549034009662.jpg",
+            "submission_id": 177407,
+            "total_vote": 345,
+            "votes": {
+                "1": 77,
+                "2": 1,
+                "3": 249,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/53668_mv_1083706040_1684084683855113068.jpg",
+            "submission_id": 245444,
+            "total_vote": 343,
+            "votes": {
+                "10": 2,
+                "11": 13,
+                "12": 12,
+                "13": 39,
+                "14": 1,
+                "18": 1,
+                "19": 2,
+                "21": 156,
+                "22": 43,
+                "23": 1,
+                "24": 13,
+                "3": 2,
+                "7": 2,
+                "9": 56
+            }
+        },
+        "school_name": "AKDENİZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1288,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/b48e1593-55f0-495d-a68c-206b59ed9869-1684105551987997101.jpeg",
+            "submission_id": 658600,
+            "total_vote": 316,
+            "votes": {
+                "1": 69,
+                "2": 1,
+                "3": 240,
+                "4": 6
+            }
+        },
+        "mv_result": null,
+        "school_name": "AKDENİZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1294,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0c149c50-0f86-4ede-9ca6-02e59804cdeb-1684105401050567657.jpeg",
+            "submission_id": 633237,
+            "total_vote": 343,
+            "votes": {
+                "1": 72,
+                "2": 1,
+                "3": 253,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "AKDENİZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1297,
+        "cm_result": {
+            "image_url": "https://source1-secim-images.oyveotesi.org/raw/1000987_cb_3705491_1684084640.jpeg",
+            "submission_id": 244320,
+            "total_vote": 351,
+            "votes": {
+                "1": 60,
+                "2": 1,
+                "3": 281,
+                "4": 9
+            }
+        },
+        "mv_result": null,
+        "school_name": "AKDENİZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1290,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0f10c095-d6d1-4c4c-8cb7-0de062984916-1684105525229308806.jpeg",
+            "submission_id": 652649,
+            "total_vote": 329,
+            "votes": {
+                "1": 68,
+                "2": 0,
+                "3": 239,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/68dd27a0-858f-43bf-ad37-d435dfaf5ccd-1684105518994458993.jpeg",
+            "submission_id": 651985,
+            "total_vote": 327,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 11,
+                "12": 12,
+                "13": 45,
+                "14": 1,
+                "21": 141,
+                "22": 36,
+                "23": 1,
+                "24": 12,
+                "3": 2,
+                "7": 9,
+                "8": 1,
+                "9": 53
+            }
+        },
+        "school_name": "AKDENİZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1301,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/54411_cb_1093706035_1684086352257441155.jpg",
+            "submission_id": 296442,
+            "total_vote": 353,
+            "votes": {
+                "1": 76,
+                "2": 2,
+                "3": 256,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "AKDENİZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1305,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/37635_cb_1093706039_1684086959608138588.jpg",
+            "submission_id": 317545,
+            "total_vote": 333,
+            "votes": {
+                "1": 85,
+                "2": 2,
+                "3": 231,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/37635_mv_1083706039_1684086934260701730.jpg",
+            "submission_id": 316702,
+            "total_vote": 324,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 16,
+                "12": 12,
+                "13": 32,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 133,
+                "22": 49,
+                "23": 0,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 0,
+                "9": 63
+            }
+        },
+        "school_name": "AKDENİZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1298,
+        "cm_result": {
+            "image_url": "https://source1-secim-images.oyveotesi.org/raw/1000987_cb_3705492_1684083998.jpeg",
+            "submission_id": 228108,
+            "total_vote": 348,
+            "votes": {
+                "1": 61,
+                "2": 1,
+                "3": 269,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "AKDENİZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1304,
+        "cm_result": {
+            "image_url": "https://source1-secim-images.oyveotesi.org/raw/1000987_cb_3706038_1684085472.jpeg",
+            "submission_id": 267842,
+            "total_vote": 343,
+            "votes": {
+                "1": 56,
+                "2": 2,
+                "3": 266,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "AKDENİZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1292,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/14063_cb_1093705486_1684080504590432415.jpg",
+            "submission_id": 182080,
+            "total_vote": 349,
+            "votes": {
+                "1": 70,
+                "2": 1,
+                "3": 263,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/14063_mv_1083705486_1684084966082507882.jpg",
+            "submission_id": 253119,
+            "total_vote": 345,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 23,
+                "12": 16,
+                "13": 53,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 150,
+                "22": 45,
+                "23": 1,
+                "24": 6,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 1,
+                "9": 45
+            }
+        },
+        "school_name": "AKDENİZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1299,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/37635_cb_1093705493_1684079255973758079.jpg",
+            "submission_id": 176402,
+            "total_vote": 330,
+            "votes": {
+                "1": 56,
+                "2": 0,
+                "3": 257,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/37635_mv_1083705493_1684084508062420310.jpg",
+            "submission_id": 240679,
+            "total_vote": 326,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 11,
+                "12": 12,
+                "13": 40,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 4,
+                "2": 0,
+                "20": 0,
+                "21": 163,
+                "22": 43,
+                "23": 1,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 42
+            }
+        },
+        "school_name": "AKDENİZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1295,
+        "cm_result": {
+            "image_url": "https://source1-secim-images.oyveotesi.org/raw/1000987_cb_3705489_1684085285.jpeg",
+            "submission_id": 262394,
+            "total_vote": 348,
+            "votes": {
+                "1": 56,
+                "2": 2,
+                "3": 283,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "AKDENİZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1300,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/b253a5b7-03a8-4f83-a241-fe00c6bfadd4-1684106310748988202.jpeg",
+            "submission_id": 769999,
+            "total_vote": 346,
+            "votes": {
+                "1": 68,
+                "2": 1,
+                "3": 251,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a6ea6bac-8164-4538-9430-c372e4be9f33-1684106260927281909.jpg",
+            "submission_id": 763018,
+            "total_vote": 342,
+            "votes": {
+                "1": 1,
+                "10": 6,
+                "11": 16,
+                "12": 24,
+                "13": 34,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 143,
+                "22": 44,
+                "23": 0,
+                "24": 18,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 3,
+                "9": 46
+            }
+        },
+        "school_name": "AKDENİZ ANADOLU LİSESİ"
+    }
+]

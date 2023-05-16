@@ -1,0 +1,97 @@
+[
+    {
+        "ballot_box_number": 1039,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/fa83b839-841b-4240-9d8c-87240a8a1775-1684105557314972262.jpg",
+            "submission_id": 659083,
+            "total_vote": 243,
+            "votes": {
+                "1": 113,
+                "2": 3,
+                "3": 110,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c86bd6f0-02e5-4e02-8297-fe455d2a82ac-1684105152847402490.jpg",
+            "submission_id": 583269,
+            "total_vote": 239,
+            "votes": {
+                "10": 7,
+                "11": 45,
+                "13": 3,
+                "21": 66,
+                "22": 46,
+                "23": 1,
+                "24": 2,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "9": 65
+            }
+        },
+        "school_name": "DEREKÖY İLKÖĞRETİM OKULU"
+    },
+    {
+        "ballot_box_number": 1038,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d15e782a-98b9-43a3-b2e2-797ae8ef653d-1684105176987110979.jpg",
+            "submission_id": 589487,
+            "total_vote": 238,
+            "votes": {
+                "1": 144,
+                "2": 2,
+                "3": 79,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "DEREKÖY İLKÖĞRETİM OKULU"
+    },
+    {
+        "ballot_box_number": 1040,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ad59da84-607b-440f-9479-0ffe74f6efe9-1684105206329190223.jpg",
+            "submission_id": 594579,
+            "total_vote": 258,
+            "votes": {
+                "1": 134,
+                "2": 3,
+                "3": 105,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/24885010-812b-4e61-8844-aac728334fbb-1684105208009532376.jpg",
+            "submission_id": 594991,
+            "total_vote": 253,
+            "votes": {
+                "1": 1,
+                "10": 9,
+                "11": 36,
+                "12": 0,
+                "13": 1,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 2,
+                "20": 0,
+                "21": 68,
+                "22": 38,
+                "23": 0,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 0,
+                "9": 88
+            }
+        },
+        "school_name": "DEREKÖY İLKÖĞRETİM OKULU"
+    }
+]

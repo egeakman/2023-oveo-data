@@ -1,0 +1,393 @@
+[
+    {
+        "ballot_box_number": 1010,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/23095_cb_1093697204_1684081525476803774.jpg",
+            "submission_id": 189605,
+            "total_vote": 296,
+            "votes": {
+                "1": 105,
+                "2": 3,
+                "3": 156,
+                "4": 32
+            }
+        },
+        "mv_result": null,
+        "school_name": "BANU UFUK CÖMERTOĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1005,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/23095_cb_1093697199_1684082628947478605.jpg",
+            "submission_id": 202775,
+            "total_vote": 299,
+            "votes": {
+                "1": 124,
+                "2": 1,
+                "3": 163,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/23095_mv_1083697199_1684089516465366409.jpg",
+            "submission_id": 396678,
+            "total_vote": 292,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 30,
+                "12": 23,
+                "13": 14,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 88,
+                "22": 32,
+                "23": 1,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 1,
+                "9": 88
+            }
+        },
+        "school_name": "BANU UFUK CÖMERTOĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1013,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/23095_cb_1093697207_1684086180943056767.jpg",
+            "submission_id": 290794,
+            "total_vote": 307,
+            "votes": {
+                "1": 136,
+                "2": 0,
+                "3": 145,
+                "4": 26
+            }
+        },
+        "mv_result": null,
+        "school_name": "BANU UFUK CÖMERTOĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1008,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/23122_cb_1093697202_1684086546354798533.jpg",
+            "submission_id": 303162,
+            "total_vote": 313,
+            "votes": {
+                "1": 137,
+                "2": 0,
+                "3": 160,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/23122_mv_1083697202_1684088081586269874.jpg",
+            "submission_id": 354629,
+            "total_vote": 303,
+            "votes": {
+                "10": 4,
+                "11": 25,
+                "12": 14,
+                "13": 23,
+                "19": 1,
+                "20": 1,
+                "21": 92,
+                "22": 29,
+                "24": 7,
+                "7": 3,
+                "8": 3,
+                "9": 101
+            }
+        },
+        "school_name": "BANU UFUK CÖMERTOĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1015,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/46209_bulk_999999999_1684087014207874682.jpeg",
+            "submission_id": 319460,
+            "total_vote": 304,
+            "votes": {
+                "1": 117,
+                "2": 3,
+                "3": 158,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/23095_mv_1083697209_1684086821095734229.jpg",
+            "submission_id": 312813,
+            "total_vote": 294,
+            "votes": {
+                "10": 7,
+                "11": 35,
+                "12": 27,
+                "13": 19,
+                "14": 1,
+                "21": 85,
+                "22": 24,
+                "24": 15,
+                "7": 5,
+                "8": 6,
+                "9": 70
+            }
+        },
+        "school_name": "BANU UFUK CÖMERTOĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1011,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/23095_cb_1093697205_1684084559562996196.jpg",
+            "submission_id": 242025,
+            "total_vote": 292,
+            "votes": {
+                "1": 117,
+                "2": 6,
+                "3": 151,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/23095_mv_1083697205_1684085533296253455.jpg",
+            "submission_id": 269635,
+            "total_vote": 284,
+            "votes": {
+                "10": 6,
+                "11": 18,
+                "12": 23,
+                "13": 7,
+                "21": 97,
+                "22": 28,
+                "24": 12,
+                "6": 1,
+                "7": 5,
+                "8": 1,
+                "9": 86
+            }
+        },
+        "school_name": "BANU UFUK CÖMERTOĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1004,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/23095_cb_1093697198_1684088129168157448.jpg",
+            "submission_id": 356144,
+            "total_vote": 279,
+            "votes": {
+                "1": 122,
+                "2": 4,
+                "3": 137,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "BANU UFUK CÖMERTOĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1014,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/24243_cb_1093697208_1684085810675420429.jpg",
+            "submission_id": 278782,
+            "total_vote": 291,
+            "votes": {
+                "1": 100,
+                "2": 1,
+                "3": 168,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/23095_bulk_999999999_1684088918941881267.jpeg",
+            "submission_id": 380201,
+            "total_vote": 288,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 29,
+                "12": 25,
+                "13": 15,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 2,
+                "20": 0,
+                "21": 96,
+                "22": 36,
+                "23": 2,
+                "24": 11,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 2,
+                "9": 62
+            }
+        },
+        "school_name": "BANU UFUK CÖMERTOĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1009,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/23110_cb_1093697203_1684083026811229380.jpg",
+            "submission_id": 209187,
+            "total_vote": 298,
+            "votes": {
+                "1": 95,
+                "2": 2,
+                "3": 184,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/23110_mv_1083697203_1684084472517826457.jpg",
+            "submission_id": 239797,
+            "total_vote": 294,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 22,
+                "12": 24,
+                "13": 17,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 111,
+                "22": 33,
+                "23": 0,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 3,
+                "9": 71
+            }
+        },
+        "school_name": "BANU UFUK CÖMERTOĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1006,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/23095_cb_1093697200_1684081602657693026.jpg",
+            "submission_id": 190366,
+            "total_vote": 298,
+            "votes": {
+                "1": 128,
+                "2": 4,
+                "3": 152,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/46209_mv_1083697200_1684085132230787056.jpg",
+            "submission_id": 257879,
+            "total_vote": 289,
+            "votes": {
+                "10": 4,
+                "11": 32,
+                "12": 23,
+                "13": 13,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 90,
+                "22": 22,
+                "23": 2,
+                "24": 3,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 5,
+                "7": 3,
+                "8": 0,
+                "9": 88
+            }
+        },
+        "school_name": "BANU UFUK CÖMERTOĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1012,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/23095_cb_1093697206_1684083237483124721.jpg",
+            "submission_id": 212824,
+            "total_vote": 298,
+            "votes": {
+                "1": 123,
+                "3": 150,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/23095_mv_1083697206_1684083376183764256.jpg",
+            "submission_id": 215422,
+            "total_vote": 230,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 51,
+                "12": 11,
+                "13": 11,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 11,
+                "22": 29,
+                "23": 2,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 9,
+                "8": 1,
+                "9": 91
+            }
+        },
+        "school_name": "BANU UFUK CÖMERTOĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1007,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/22082_cb_1093697201_1684085910066172110.jpg",
+            "submission_id": 282132,
+            "total_vote": 290,
+            "votes": {
+                "1": 108,
+                "3": 160,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "BANU UFUK CÖMERTOĞLU İLKOKULU"
+    }
+]

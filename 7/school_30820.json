@@ -1,0 +1,134 @@
+[
+    {
+        "ballot_box_number": 1134,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/34134_bulk_999999999_1684095837663221526.jpg",
+            "submission_id": 507233,
+            "total_vote": 314,
+            "votes": {
+                "1": 142,
+                "2": 4,
+                "3": 142,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source2-secim-images.oyveotesi.org/raw/november/448d48ec-6704-4606-9f1c-22a421a5878b.jpg",
+            "submission_id": 515332,
+            "total_vote": 310,
+            "votes": {
+                "10": 10,
+                "11": 34,
+                "12": 5,
+                "13": 10,
+                "14": 1,
+                "15": 1,
+                "18": 1,
+                "19": 1,
+                "21": 92,
+                "22": 37,
+                "23": 2,
+                "24": 14,
+                "6": 2,
+                "7": 12,
+                "8": 1,
+                "9": 87
+            }
+        },
+        "school_name": "ÇOLAKLI YAHYA KURT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1135,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/34134_bulk_999999999_1684095837777797735.jpg",
+            "submission_id": 507236,
+            "total_vote": 333,
+            "votes": {
+                "1": 157,
+                "2": 2,
+                "3": 152,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/15010de2-fc75-4cb6-9e71-2c71ac8ee38f-1684105761383198512.jpg",
+            "submission_id": 691466,
+            "total_vote": 325,
+            "votes": {
+                "10": 1,
+                "11": 36,
+                "12": 6,
+                "13": 8,
+                "14": 1,
+                "19": 1,
+                "2": 1,
+                "21": 105,
+                "22": 46,
+                "24": 8,
+                "6": 1,
+                "7": 7,
+                "8": 2,
+                "9": 102
+            }
+        },
+        "school_name": "ÇOLAKLI YAHYA KURT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1131,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/34134_cb_1093700905_1684079186865067817.jpg",
+            "submission_id": 176199,
+            "total_vote": 299,
+            "votes": {
+                "1": 120,
+                "2": 2,
+                "3": 154,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇOLAKLI YAHYA KURT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1132,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "ÇOLAKLI YAHYA KURT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1133,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/34134_bulk_999999999_1684095837476047708.jpg",
+            "submission_id": 507228,
+            "total_vote": 336,
+            "votes": {
+                "1": 154,
+                "2": 6,
+                "3": 153,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source2-secim-images.oyveotesi.org/raw/november/481cf50a-9ff2-4642-a099-5b9ea3c0e56d.jpg",
+            "submission_id": 516192,
+            "total_vote": 326,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 35,
+                "12": 7,
+                "13": 4,
+                "21": 104,
+                "22": 47,
+                "23": 1,
+                "24": 7,
+                "5": 1,
+                "6": 2,
+                "7": 10,
+                "8": 1,
+                "9": 103
+            }
+        },
+        "school_name": "ÇOLAKLI YAHYA KURT ORTAOKULU"
+    }
+]

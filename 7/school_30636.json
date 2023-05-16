@@ -1,0 +1,48 @@
+[
+    {
+        "ballot_box_number": 1061,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d344cea8-c9f6-4c8a-8f97-f1e37b1a1927-1684106684285047305.jpeg",
+            "submission_id": 823935,
+            "total_vote": 135,
+            "votes": {
+                "1": 52,
+                "2": 4,
+                "3": 69,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/31514b3b-0eda-4156-8b7e-548089b412dc-1684106087564103822.jpeg",
+            "submission_id": 736811,
+            "total_vote": 129,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 30,
+                "12": 3,
+                "13": 2,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 31,
+                "22": 24,
+                "23": 1,
+                "24": 0,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 1,
+                "9": 27
+            }
+        },
+        "school_name": "DERE MAH. KÖY KONAĞI"
+    }
+]

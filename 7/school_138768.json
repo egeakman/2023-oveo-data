@@ -1,0 +1,141 @@
+[
+    {
+        "ballot_box_number": 1085,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/73895_cb_1093699019_1684082445208544063.jpg",
+            "submission_id": 200234,
+            "total_vote": 332,
+            "votes": {
+                "1": 213,
+                "2": 1,
+                "3": 109,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4bc9e3d6-a2d3-43b1-8795-9f450e8dff5a-1684105351154612743.jpg",
+            "submission_id": 622447,
+            "total_vote": 320,
+            "votes": {
+                "10": 14,
+                "11": 26,
+                "12": 1,
+                "13": 0,
+                "14": 1,
+                "15": 1,
+                "21": 68,
+                "22": 31,
+                "23": 1,
+                "24": 1,
+                "7": 2,
+                "8": 0,
+                "9": 174
+            }
+        },
+        "school_name": "KÜÇÜKKÖY ŞEHİT ADEM YÖRÜK İLOKULU"
+    },
+    {
+        "ballot_box_number": 1088,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "KÜÇÜKKÖY ŞEHİT ADEM YÖRÜK İLOKULU"
+    },
+    {
+        "ballot_box_number": 1087,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/73895_cb_1093699021_1684082696261436168.jpg",
+            "submission_id": 203788,
+            "total_vote": 333,
+            "votes": {
+                "1": 248,
+                "2": 3,
+                "3": 75,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/73895_mv_1083699021_1684082751916948679.jpg",
+            "submission_id": 204659,
+            "total_vote": 327,
+            "votes": {
+                "1": 0,
+                "10": 23,
+                "11": 24,
+                "12": 1,
+                "13": 0,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 49,
+                "22": 24,
+                "23": 2,
+                "24": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 1,
+                "9": 196
+            }
+        },
+        "school_name": "KÜÇÜKKÖY ŞEHİT ADEM YÖRÜK İLOKULU"
+    },
+    {
+        "ballot_box_number": 1086,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e62aa8dd-522f-42d9-958c-c6c26e6243c2-1684105353034692506.jpg",
+            "submission_id": 622867,
+            "total_vote": 321,
+            "votes": {
+                "1": 0,
+                "10": 21,
+                "11": 28,
+                "12": 0,
+                "13": 2,
+                "14": 2,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 1,
+                "19": 0,
+                "2": 1,
+                "20": 1,
+                "21": 59,
+                "22": 32,
+                "23": 1,
+                "24": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 4,
+                "8": 5,
+                "9": 162
+            }
+        },
+        "school_name": "KÜÇÜKKÖY ŞEHİT ADEM YÖRÜK İLOKULU"
+    },
+    {
+        "ballot_box_number": 1089,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/b9cb5170-5edf-4a28-bb4d-629e4b025c45-1684105397342519044.jpg",
+            "submission_id": 633215,
+            "total_vote": 337,
+            "votes": {
+                "1": 248,
+                "2": 3,
+                "3": 76,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "KÜÇÜKKÖY ŞEHİT ADEM YÖRÜK İLOKULU"
+    }
+]

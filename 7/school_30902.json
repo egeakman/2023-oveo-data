@@ -1,0 +1,47 @@
+[
+    {
+        "ballot_box_number": 1061,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2a9cfb31-20ef-42e8-b8f7-6677a27c12ee-1684106194280010105.jpg",
+            "submission_id": 753444,
+            "total_vote": 279,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 41,
+                "12": 6,
+                "13": 2,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "18": 0,
+                "2": 1,
+                "20": 0,
+                "22": 71,
+                "23": 32,
+                "24": 7,
+                "3": 2,
+                "4": 1,
+                "5": 1,
+                "6": 1,
+                "7": 7,
+                "8": 1,
+                "9": 102
+            }
+        },
+        "school_name": "YAYLAKAYA İLKÖĞRETİM KURUMU"
+    },
+    {
+        "ballot_box_number": 1063,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "YAYLAKAYA İLKÖĞRETİM KURUMU"
+    },
+    {
+        "ballot_box_number": 1062,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "YAYLAKAYA İLKÖĞRETİM KURUMU"
+    }
+]

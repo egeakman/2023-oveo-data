@@ -1,0 +1,128 @@
+[
+    {
+        "ballot_box_number": 1139,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/83160_cb_1093700533_1684082187979077038.jpg",
+            "submission_id": 196890,
+            "total_vote": 299,
+            "votes": {
+                "1": 188,
+                "2": 3,
+                "3": 86,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/83160_mv_1083700533_1684082288618350195.jpg",
+            "submission_id": 198219,
+            "total_vote": 293,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 68,
+                "12": 14,
+                "13": 8,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 39,
+                "22": 30,
+                "23": 1,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 3,
+                "9": 113
+            }
+        },
+        "school_name": "SARICASU MAH. DARYEMEZLER İLK /ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1135,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/83160_bulk_999999999_1684082151246978371.jpeg",
+            "submission_id": 196469,
+            "total_vote": 293,
+            "votes": {
+                "1": 176,
+                "2": 3,
+                "3": 99,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "SARICASU MAH. DARYEMEZLER İLK /ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1137,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "SARICASU MAH. DARYEMEZLER İLK /ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1138,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "SARICASU MAH. DARYEMEZLER İLK /ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1136,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/83160_cb_1093700530_1684082497404717836.jpg",
+            "submission_id": 200954,
+            "total_vote": 304,
+            "votes": {
+                "1": 171,
+                "2": 6,
+                "3": 96,
+                "4": 31
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/83160_mv_1083700530_1684082555693337253.jpg",
+            "submission_id": 201721,
+            "total_vote": 295,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 51,
+                "12": 6,
+                "13": 4,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 52,
+                "22": 46,
+                "23": 2,
+                "24": 14,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 8,
+                "8": 1,
+                "9": 104
+            }
+        },
+        "school_name": "SARICASU MAH. DARYEMEZLER İLK /ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1140,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "SARICASU MAH. DARYEMEZLER İLK /ORTA OKULU"
+    }
+]

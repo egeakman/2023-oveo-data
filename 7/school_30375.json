@@ -1,0 +1,48 @@
+[
+    {
+        "ballot_box_number": 1084,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5483b822-41f3-4406-9ca1-b9468c0ccd56-1684106294038067102.jpg",
+            "submission_id": 766647,
+            "total_vote": 111,
+            "votes": {
+                "1": 53,
+                "2": 0,
+                "3": 56,
+                "4": 2
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/227fea23-ff5b-4ef2-bfab-93acf4b87961-1684106283646318418.jpg",
+            "submission_id": 766643,
+            "total_vote": 108,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 14,
+                "12": 1,
+                "13": 0,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 29,
+                "22": 20,
+                "23": 0,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 1,
+                "9": 39
+            }
+        },
+        "school_name": "KÖSELER KÖY KONAĞI"
+    }
+]

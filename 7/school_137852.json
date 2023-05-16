@@ -1,0 +1,64 @@
+[
+    {
+        "ballot_box_number": 1147,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/24245_cb_1093701101_1684089680208533358.jpg",
+            "submission_id": 401193,
+            "total_vote": 305,
+            "votes": {
+                "1": 131,
+                "2": 3,
+                "3": 143,
+                "4": 28
+            }
+        },
+        "mv_result": null,
+        "school_name": "CİHADİYE O.O."
+    },
+    {
+        "ballot_box_number": 1148,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/24245_cb_1093701102_1684089640023912182.jpg",
+            "submission_id": 400138,
+            "total_vote": 330,
+            "votes": {
+                "1": 153,
+                "2": 4,
+                "3": 148,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/24245_mv_1083701102_1684089602491095466.jpg",
+            "submission_id": 399145,
+            "total_vote": 327,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 29,
+                "12": 18,
+                "13": 3,
+                "14": 0,
+                "15": 1,
+                "16": 3,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 7,
+                "20": 0,
+                "21": 71,
+                "22": 55,
+                "23": 1,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 7,
+                "7": 7,
+                "8": 2,
+                "9": 111
+            }
+        },
+        "school_name": "CİHADİYE O.O."
+    }
+]

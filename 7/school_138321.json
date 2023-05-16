@@ -1,0 +1,18 @@
+[
+    {
+        "ballot_box_number": 2092,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0236b329-8944-4d01-a1e2-0ad55658ee75-1684105132993532055.jpeg",
+            "submission_id": 579359,
+            "total_vote": 227,
+            "votes": {
+                "1": 146,
+                "2": 3,
+                "3": 66,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "FAKIRCALI KÖY ODASI"
+    }
+]

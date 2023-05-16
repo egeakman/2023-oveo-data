@@ -1,0 +1,113 @@
+[
+    {
+        "ballot_box_number": 1057,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/61442_cb_1093698074_1684083625272168026.jpg",
+            "submission_id": 220243,
+            "total_vote": 297,
+            "votes": {
+                "1": 157,
+                "2": 2,
+                "3": 106,
+                "4": 32
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/61442_mv_1083698074_1684083709527096431.jpg",
+            "submission_id": 222085,
+            "total_vote": 286,
+            "votes": {
+                "10": 8,
+                "11": 57,
+                "12": 8,
+                "13": 8,
+                "14": 1,
+                "15": 1,
+                "21": 44,
+                "22": 40,
+                "23": 12,
+                "24": 8,
+                "7": 4,
+                "8": 1,
+                "9": 94
+            }
+        },
+        "school_name": "İB.ELMALI FEN LİSESİ"
+    },
+    {
+        "ballot_box_number": 1058,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/61442_cb_1093698375_1684085180687175172.jpg",
+            "submission_id": 259289,
+            "total_vote": 299,
+            "votes": {
+                "1": 160,
+                "2": 5,
+                "3": 108,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/11968_bulk_999999999_1684086957574454582.jpg",
+            "submission_id": 317477,
+            "total_vote": 292,
+            "votes": {
+                "10": 4,
+                "11": 41,
+                "12": 7,
+                "13": 4,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 51,
+                "22": 41,
+                "23": 2,
+                "24": 11,
+                "3": 1,
+                "4": 0,
+                "5": 2,
+                "6": 1,
+                "7": 6,
+                "8": 1,
+                "9": 119
+            }
+        },
+        "school_name": "İB.ELMALI FEN LİSESİ"
+    },
+    {
+        "ballot_box_number": 1055,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/61442_cb_1093698072_1684086596570013348.jpg",
+            "submission_id": 304912,
+            "total_vote": 286,
+            "votes": {
+                "1": 172,
+                "2": 3,
+                "3": 88,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "İB.ELMALI FEN LİSESİ"
+    },
+    {
+        "ballot_box_number": 1056,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/61442_cb_1093698073_1684082034802215781.jpg",
+            "submission_id": 194991,
+            "total_vote": 306,
+            "votes": {
+                "1": 178,
+                "3": 101,
+                "4": 27
+            }
+        },
+        "mv_result": null,
+        "school_name": "İB.ELMALI FEN LİSESİ"
+    }
+]

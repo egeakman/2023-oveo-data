@@ -1,0 +1,52 @@
+[
+    {
+        "ballot_box_number": 1054,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/65638_bulk_999999999_1684096852144322928.jpg",
+            "submission_id": 516422,
+            "total_vote": 335,
+            "votes": {
+                "1": 168,
+                "2": 5,
+                "3": 152,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "KÖŞKERLER İLKÖĞRETİM KURUMU"
+    },
+    {
+        "ballot_box_number": 1056,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/54870d4a-49c5-43fb-ab2f-0c931623585b-1684106537770767048.jpg",
+            "submission_id": 802947,
+            "total_vote": 323,
+            "votes": {
+                "1": 197,
+                "2": 11,
+                "3": 97,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "KÖŞKERLER İLKÖĞRETİM KURUMU"
+    },
+    {
+        "ballot_box_number": 1055,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "KÖŞKERLER İLKÖĞRETİM KURUMU"
+    },
+    {
+        "ballot_box_number": 1052,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "KÖŞKERLER İLKÖĞRETİM KURUMU"
+    },
+    {
+        "ballot_box_number": 1053,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "KÖŞKERLER İLKÖĞRETİM KURUMU"
+    }
+]

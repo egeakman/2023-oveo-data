@@ -1,0 +1,172 @@
+[
+    {
+        "ballot_box_number": 1474,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/51909320-7f26-4a80-b0b4-8f609f2c6a66-1684106692937300425.jpg",
+            "submission_id": 824835,
+            "total_vote": 285,
+            "votes": {
+                "1": 138,
+                "2": 2,
+                "3": 122,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/40d148ab-10f7-4ae7-a84e-19d03f7adb9c-1684106045645054015.jpg",
+            "submission_id": 730519,
+            "total_vote": 281,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 32,
+                "12": 6,
+                "13": 1,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 70,
+                "22": 42,
+                "23": 2,
+                "24": 13,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 7,
+                "8": 2,
+                "9": 99
+            }
+        },
+        "school_name": "TAŞAĞIL/ŞEHİT MEHMET KOPARAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1472,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9abe5095-2c57-4335-8f92-caac6694c756-1684105950309223470.jpg",
+            "submission_id": 717468,
+            "total_vote": 269,
+            "votes": {
+                "1": 137,
+                "2": 2,
+                "3": 119,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c36eee3a-3b4e-4dfb-aad5-7907eb2d8df9-1684105564098095874.jpg",
+            "submission_id": 660430,
+            "total_vote": 259,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 38,
+                "12": 5,
+                "13": 1,
+                "14": 1,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 70,
+                "22": 45,
+                "23": 1,
+                "24": 4,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 0,
+                "9": 87
+            }
+        },
+        "school_name": "TAŞAĞIL/ŞEHİT MEHMET KOPARAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1473,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d435c184-a2a4-422d-a9f2-638963eca5f5-1684106700212631797.jpg",
+            "submission_id": 825753,
+            "total_vote": 289,
+            "votes": {
+                "1": 158,
+                "2": 6,
+                "3": 102,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "TAŞAĞIL/ŞEHİT MEHMET KOPARAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1476,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a1f46ad1-466c-4579-84b9-719b2472b9c7-1684106449894186388.jpg",
+            "submission_id": 789518,
+            "total_vote": 302,
+            "votes": {
+                "1": 133,
+                "2": 5,
+                "3": 154,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "TAŞAĞIL/ŞEHİT MEHMET KOPARAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1475,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9114ef38-1b04-47e0-a86e-6f10e7ce53fd-1684106783463159048.jpg",
+            "submission_id": 836633,
+            "total_vote": 293,
+            "votes": {
+                "1": 130,
+                "2": 6,
+                "3": 135,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a2849a42-10fb-421d-876b-d233a6d47d5a-1684106566031599208.jpg",
+            "submission_id": 806539,
+            "total_vote": 287,
+            "votes": {
+                "1": 2,
+                "10": 4,
+                "11": 31,
+                "12": 9,
+                "13": 3,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 1,
+                "21": 87,
+                "22": 45,
+                "23": 2,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 6,
+                "8": 1,
+                "9": 85
+            }
+        },
+        "school_name": "TAŞAĞIL/ŞEHİT MEHMET KOPARAN ORTAOKULU"
+    }
+]

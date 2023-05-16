@@ -1,0 +1,93 @@
+[
+    {
+        "ballot_box_number": 1002,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/eb361e23-d08c-4b41-b67a-bc62633a33fd-1684105913217198850.jpg",
+            "submission_id": 712233,
+            "total_vote": 335,
+            "votes": {
+                "1": 185,
+                "3": 120,
+                "4": 30
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e20ad98d-f6cd-4233-ac8c-a1a723e6bba4-1684105904711207455.jpg",
+            "submission_id": 711337,
+            "total_vote": 329,
+            "votes": {
+                "1": 2,
+                "10": 1,
+                "11": 30,
+                "12": 1,
+                "13": 7,
+                "14": 1,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 85,
+                "22": 32,
+                "23": 0,
+                "24": 13,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 5,
+                "9": 144
+            }
+        },
+        "school_name": "HAMİT ÖZCELİK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1003,
+        "cm_result": {
+            "image_url": "https://source1-secim-images.oyveotesi.org/raw/1040438_cb_3697277_1684093665.jpeg",
+            "submission_id": 472718,
+            "total_vote": 339,
+            "votes": {
+                "1": 155,
+                "2": 2,
+                "3": 158,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9396743d-8626-432d-8325-c1c4e66684db-1684105973383086371.jpg",
+            "submission_id": 721093,
+            "total_vote": 331,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 25,
+                "12": 2,
+                "13": 13,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 1,
+                "18": 0,
+                "19": 2,
+                "2": 7,
+                "20": 0,
+                "21": 106,
+                "22": 35,
+                "23": 10,
+                "24": 16,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 3,
+                "8": 3,
+                "9": 100
+            }
+        },
+        "school_name": "HAMİT ÖZCELİK İLKOKULU"
+    }
+]

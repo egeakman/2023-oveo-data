@@ -1,0 +1,149 @@
+[
+    {
+        "ballot_box_number": 1244,
+        "cm_result": {
+            "image_url": "https://source1-secim-images.oyveotesi.org/raw/1006008_cb_3703858_1684077928.jpeg",
+            "submission_id": 173793,
+            "total_vote": 309,
+            "votes": {
+                "1": 121,
+                "2": 2,
+                "3": 164,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4b371d52-a90f-479e-a6f3-8401ed4bbb8d-1684106573131170813.jpg",
+            "submission_id": 807560,
+            "total_vote": 303,
+            "votes": {
+                "10": 4,
+                "11": 22,
+                "12": 24,
+                "13": 12,
+                "17": 1,
+                "18": 1,
+                "19": 1,
+                "21": 104,
+                "22": 24,
+                "23": 3,
+                "24": 11,
+                "3": 1,
+                "5": 1,
+                "6": 2,
+                "7": 3,
+                "8": 3,
+                "9": 86
+            }
+        },
+        "school_name": "KARACALAR PAKİZE TURHAN İLK/ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1242,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f398e723-11a9-4b4e-8a53-51f48a060477-1684106542497045661.jpg",
+            "submission_id": 803006,
+            "total_vote": 323,
+            "votes": {
+                "1": 146,
+                "2": 3,
+                "3": 155,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "KARACALAR PAKİZE TURHAN İLK/ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1241,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3111db3f-2480-4fcd-a9c2-ff063d9e42d7-1684106487815893626.jpg",
+            "submission_id": 795235,
+            "total_vote": 297,
+            "votes": {
+                "1": 150,
+                "2": 4,
+                "3": 131,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/645d8f48-fd2e-408b-8b76-29e9c022de24-1684106526543767540.jpg",
+            "submission_id": 800819,
+            "total_vote": 283,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 34,
+                "12": 6,
+                "13": 7,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 105,
+                "22": 16,
+                "23": 2,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 2,
+                "9": 98
+            }
+        },
+        "school_name": "KARACALAR PAKİZE TURHAN İLK/ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1243,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0882a325-281f-465e-80f5-8e81f24e6f3e-1684106566390838230.jpg",
+            "submission_id": 806413,
+            "total_vote": 304,
+            "votes": {
+                "1": 134,
+                "2": 3,
+                "3": 151,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/91b7d583-318c-4d6d-8ce2-1ca1393dea73-1684106511789382688.jpg",
+            "submission_id": 798877,
+            "total_vote": 293,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 32,
+                "12": 14,
+                "13": 11,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 98,
+                "22": 11,
+                "23": 1,
+                "24": 11,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 4,
+                "9": 98
+            }
+        },
+        "school_name": "KARACALAR PAKİZE TURHAN İLK/ORTAOKULU"
+    }
+]

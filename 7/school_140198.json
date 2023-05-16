@@ -1,0 +1,94 @@
+[
+    {
+        "ballot_box_number": 1047,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7184645c-efb8-4d87-844b-8164a0be5889-1684105129929067561.jpg",
+            "submission_id": 578027,
+            "total_vote": 223,
+            "votes": {
+                "1": 143,
+                "2": 6,
+                "3": 54,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9a4b366c-66ab-40e0-b068-8a899fe8b6a1-1684105129543650429.jpg",
+            "submission_id": 577884,
+            "total_vote": 204,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 44,
+                "12": 0,
+                "13": 0,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 1,
+                "20": 7,
+                "21": 23,
+                "22": 21,
+                "23": 1,
+                "24": 11,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 3,
+                "9": 81
+            }
+        },
+        "school_name": "İMECİK ERKUNT TRAKTÖR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1048,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/94a150b5-72e3-4aee-bcf8-2f42ebbdbd6c-1684105128515933261.jpg",
+            "submission_id": 577782,
+            "total_vote": 207,
+            "votes": {
+                "1": 127,
+                "2": 3,
+                "3": 58,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ff98002f-df68-40a0-9270-443afdb45ab0-1684105129075052095.jpg",
+            "submission_id": 577900,
+            "total_vote": 190,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 48,
+                "12": 0,
+                "13": 0,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 4,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 33,
+                "22": 19,
+                "23": 1,
+                "24": 14,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 1,
+                "9": 68
+            }
+        },
+        "school_name": "İMECİK ERKUNT TRAKTÖR İLKOKULU"
+    }
+]

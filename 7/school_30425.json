@@ -1,0 +1,35 @@
+[
+    {
+        "ballot_box_number": 1168,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/46169_cb_1093701562_1684083180227289168.jpg",
+            "submission_id": 211780,
+            "total_vote": 142,
+            "votes": {
+                "1": 78,
+                "2": 4,
+                "3": 47,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/46169_mv_1083701562_1684082282304916372.jpg",
+            "submission_id": 198129,
+            "total_vote": 140,
+            "votes": {
+                "10": 2,
+                "11": 18,
+                "12": 2,
+                "13": 11,
+                "21": 20,
+                "22": 14,
+                "23": 2,
+                "24": 5,
+                "3": 1,
+                "7": 2,
+                "9": 63
+            }
+        },
+        "school_name": "YEŞİLKÖY MAH.KÖY KONAĞI"
+    }
+]

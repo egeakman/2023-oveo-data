@@ -1,0 +1,33 @@
+[
+    {
+        "ballot_box_number": 1469,
+        "cm_result": {
+            "image_url": "https://source2-secim-images.oyveotesi.org/raw/november/bd939dab-ff10-4c9f-a301-a7df9206309b.jpg",
+            "submission_id": 515899,
+            "total_vote": 134,
+            "votes": {
+                "1": 49,
+                "2": 2,
+                "3": 64,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source2-secim-images.oyveotesi.org/raw/november/8741481e-e1da-40ec-a305-d4ddc6648bf2.jpg",
+            "submission_id": 515612,
+            "total_vote": 134,
+            "votes": {
+                "11": 11,
+                "14": 1,
+                "21": 42,
+                "22": 32,
+                "23": 1,
+                "24": 4,
+                "7": 1,
+                "8": 1,
+                "9": 41
+            }
+        },
+        "school_name": "TAŞAĞIL-KARAEVLİ İLK OKULU(KARAEVLİ MH.İÇİN)"
+    }
+]

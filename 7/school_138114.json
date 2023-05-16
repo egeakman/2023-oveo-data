@@ -1,0 +1,52 @@
+[
+    {
+        "ballot_box_number": 1043,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/50280_bulk_999999999_1684093251473966477.jpeg",
+            "submission_id": 467579,
+            "total_vote": 299,
+            "votes": {
+                "1": 145,
+                "2": 1,
+                "3": 136,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/50280_bulk_999999999_1684093199613232720.jpeg",
+            "submission_id": 466755,
+            "total_vote": 299,
+            "votes": {
+                "1": 1,
+                "10": 7,
+                "11": 56,
+                "13": 6,
+                "14": 1,
+                "19": 1,
+                "21": 77,
+                "22": 53,
+                "24": 5,
+                "6": 1,
+                "7": 1,
+                "9": 90
+            }
+        },
+        "school_name": "(FİNİKE KIZILCA MAHALLESİ) ATATÜRK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1044,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/50280_bulk_999999999_1684093251393094798.jpeg",
+            "submission_id": 467574,
+            "total_vote": 322,
+            "votes": {
+                "1": 156,
+                "2": 1,
+                "3": 140,
+                "4": 25
+            }
+        },
+        "mv_result": null,
+        "school_name": "(FİNİKE KIZILCA MAHALLESİ) ATATÜRK ORTAOKULU"
+    }
+]

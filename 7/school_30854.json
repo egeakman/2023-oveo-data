@@ -1,0 +1,68 @@
+[
+    {
+        "ballot_box_number": 1107,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/76264_cb_1093700381_1684087743730626211.jpeg",
+            "submission_id": 343779,
+            "total_vote": 234,
+            "votes": {
+                "1": 94,
+                "2": 0,
+                "3": 110,
+                "4": 30
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇAVUŞKÖY MAH.İLK/ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1106,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/76264_cb_1093700380_1684087786848723649.jpeg",
+            "submission_id": 345150,
+            "total_vote": 218,
+            "votes": {
+                "1": 95,
+                "2": 3,
+                "3": 108,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇAVUŞKÖY MAH.İLK/ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1108,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/76264_cb_1093700382_1684087434480687761.jpeg",
+            "submission_id": 333784,
+            "total_vote": 228,
+            "votes": {
+                "1": 85,
+                "2": 2,
+                "3": 126,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/76264_mv_1083700382_1684087475872328759.jpeg",
+            "submission_id": 335082,
+            "total_vote": 217,
+            "votes": {
+                "10": 2,
+                "11": 31,
+                "12": 1,
+                "13": 8,
+                "2": 1,
+                "21": 87,
+                "22": 19,
+                "24": 10,
+                "4": 1,
+                "5": 2,
+                "7": 1,
+                "9": 54
+            }
+        },
+        "school_name": "ÇAVUŞKÖY MAH.İLK/ORTAOKULU"
+    }
+]

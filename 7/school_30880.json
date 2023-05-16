@@ -1,0 +1,46 @@
+[
+    {
+        "ballot_box_number": 1191,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/75183_bulk_999999999_1684084638600150760.jpg",
+            "submission_id": 244182,
+            "total_vote": 357,
+            "votes": {
+                "1": 177,
+                "2": 5,
+                "3": 152,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "GÜLTEPE MAH. ( ILICA ) İLKÖĞRETİM OKULU"
+    },
+    {
+        "ballot_box_number": 1193,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/75183_bulk_999999999_1684083112961907602.jpg",
+            "submission_id": 210609,
+            "total_vote": 350,
+            "votes": {
+                "1": 155,
+                "2": 4,
+                "3": 152,
+                "4": 39
+            }
+        },
+        "mv_result": null,
+        "school_name": "GÜLTEPE MAH. ( ILICA ) İLKÖĞRETİM OKULU"
+    },
+    {
+        "ballot_box_number": 1194,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "GÜLTEPE MAH. ( ILICA ) İLKÖĞRETİM OKULU"
+    },
+    {
+        "ballot_box_number": 1192,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "GÜLTEPE MAH. ( ILICA ) İLKÖĞRETİM OKULU"
+    }
+]

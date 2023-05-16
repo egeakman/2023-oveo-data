@@ -1,0 +1,305 @@
+[
+    {
+        "ballot_box_number": 2345,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ecf72443-270b-49f9-9e7a-f7add0f68e88-1684105875721066502.jpg",
+            "submission_id": 707238,
+            "total_vote": 317,
+            "votes": {
+                "1": 105,
+                "2": 1,
+                "3": 189,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/321ef407-e7e3-4b56-bf40-436e964dd46a-1684105872816428101.jpg",
+            "submission_id": 706714,
+            "total_vote": 311,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 27,
+                "12": 27,
+                "13": 17,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 103,
+                "22": 44,
+                "23": 1,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 70
+            }
+        },
+        "school_name": "CUMHURİYET İLK OKULU"
+    },
+    {
+        "ballot_box_number": 2347,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/965ad08d-b09a-49c8-9d09-c07d64248bcc-1684105306101085674.jpg",
+            "submission_id": 614434,
+            "total_vote": 321,
+            "votes": {
+                "1": 109,
+                "2": 1,
+                "3": 183,
+                "4": 28
+            }
+        },
+        "mv_result": null,
+        "school_name": "CUMHURİYET İLK OKULU"
+    },
+    {
+        "ballot_box_number": 2346,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a096150a-0f87-4b3b-80d8-82bacbec5bf9-1684105772411346182.jpg",
+            "submission_id": 692879,
+            "total_vote": 308,
+            "votes": {
+                "1": 106,
+                "2": 2,
+                "3": 183,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "CUMHURİYET İLK OKULU"
+    },
+    {
+        "ballot_box_number": 2349,
+        "cm_result": {
+            "image_url": "https://source1-secim-images.oyveotesi.org/raw/1000403_cb_3814542_1684096875.jpeg",
+            "submission_id": 516674,
+            "total_vote": 310,
+            "votes": {
+                "1": 100,
+                "2": 1,
+                "3": 194,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "CUMHURİYET İLK OKULU"
+    },
+    {
+        "ballot_box_number": 2352,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3f8d0dce-581b-49f0-bc43-89d3aebb51ad-1684106068350771668.jpg",
+            "submission_id": 733274,
+            "total_vote": 339,
+            "votes": {
+                "1": 111,
+                "2": 3,
+                "3": 210,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/db237973-2482-495d-a0f7-1a394c5186ec-1684106050562024853.jpg",
+            "submission_id": 730957,
+            "total_vote": 335,
+            "votes": {
+                "1": 1,
+                "10": 6,
+                "11": 23,
+                "12": 28,
+                "13": 21,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 128,
+                "22": 35,
+                "23": 2,
+                "24": 7,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 1,
+                "9": 77
+            }
+        },
+        "school_name": "CUMHURİYET İLK OKULU"
+    },
+    {
+        "ballot_box_number": 2343,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/57baac82-b0c5-46ed-acd0-67deea697828-1684105452038185375.jpg",
+            "submission_id": 642093,
+            "total_vote": 317,
+            "votes": {
+                "1": 101,
+                "2": 4,
+                "3": 198,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/13d2dc92-7e39-4f32-ae80-5ff1ded70d81-1684105448711745984.jpg",
+            "submission_id": 641671,
+            "total_vote": 305,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 20,
+                "12": 22,
+                "13": 15,
+                "21": 121,
+                "22": 28,
+                "23": 1,
+                "24": 14,
+                "3": 2,
+                "5": 1,
+                "7": 3,
+                "8": 6,
+                "9": 69
+            }
+        },
+        "school_name": "CUMHURİYET İLK OKULU"
+    },
+    {
+        "ballot_box_number": 2342,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/be06633b-1c63-448e-951f-4185b77659a7-1684105911223045265.jpg",
+            "submission_id": 711575,
+            "total_vote": 304,
+            "votes": {
+                "1": 115,
+                "2": 2,
+                "3": 175,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "CUMHURİYET İLK OKULU"
+    },
+    {
+        "ballot_box_number": 2350,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/1fa5cc8d-5741-4ef1-ab7f-5026223e81fc-1684105755139754483.jpg",
+            "submission_id": 690186,
+            "total_vote": 321,
+            "votes": {
+                "1": 109,
+                "2": 3,
+                "3": 195,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f409fe2d-cef0-4d77-84fd-d9398918e95d-1684105466727162864.jpg",
+            "submission_id": 644380,
+            "total_vote": 316,
+            "votes": {
+                "10": 6,
+                "11": 21,
+                "12": 33,
+                "13": 24,
+                "21": 106,
+                "22": 27,
+                "24": 11,
+                "5": 1,
+                "7": 5,
+                "8": 1,
+                "9": 81
+            }
+        },
+        "school_name": "CUMHURİYET İLK OKULU"
+    },
+    {
+        "ballot_box_number": 2348,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/cfa0559b-417d-4782-bf10-328900ed229e-1684105794966774857.jpg",
+            "submission_id": 696755,
+            "total_vote": 317,
+            "votes": {
+                "1": 91,
+                "2": 2,
+                "3": 197,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0329fe1e-59c7-4799-b6db-ab2fe4efed50-1684105790861476259.jpg",
+            "submission_id": 696086,
+            "total_vote": 306,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 14,
+                "12": 28,
+                "13": 31,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 1,
+                "21": 102,
+                "22": 37,
+                "23": 1,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 4,
+                "8": 0,
+                "9": 69
+            }
+        },
+        "school_name": "CUMHURİYET İLK OKULU"
+    },
+    {
+        "ballot_box_number": 2344,
+        "cm_result": {
+            "image_url": "https://source2-secim-images.oyveotesi.org/raw/xray/c7195f56-7802-41cc-bd61-8ebcb327706d.jpg",
+            "submission_id": 550265,
+            "total_vote": 314,
+            "votes": {
+                "1": 98,
+                "2": 0,
+                "3": 196,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "CUMHURİYET İLK OKULU"
+    },
+    {
+        "ballot_box_number": 2351,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a69f1be5-4ed1-49e8-a0ad-088520829398-1684106606151409049.jpg",
+            "submission_id": 812411,
+            "total_vote": 323,
+            "votes": {
+                "1": 100,
+                "2": 2,
+                "3": 200,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "CUMHURİYET İLK OKULU"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "ballot_box_number": 1003,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/29392_bulk_999999999_1684099774085515147.jpg",
+            "submission_id": 534317,
+            "total_vote": 93,
+            "votes": {
+                "1": 46,
+                "3": 44,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/29392_bulk_999999999_1684100193745907557.jpg",
+            "submission_id": 536108,
+            "total_vote": 87,
+            "votes": {
+                "11": 6,
+                "13": 1,
+                "19": 1,
+                "2": 1,
+                "20": 1,
+                "21": 32,
+                "22": 15,
+                "3": 1,
+                "7": 1,
+                "9": 28
+            }
+        },
+        "school_name": "AYDINYAYLA MAH.İLKOKULU"
+    }
+]

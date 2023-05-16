@@ -1,0 +1,82 @@
+[
+    {
+        "ballot_box_number": 1144,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/12040_bulk_999999999_1684093896004196648.jpg",
+            "submission_id": 476793,
+            "total_vote": 223,
+            "votes": {
+                "1": 117,
+                "2": 3,
+                "3": 92,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/12040_bulk_999999999_1684093869587297991.jpg",
+            "submission_id": 475920,
+            "total_vote": 214,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 16,
+                "12": 0,
+                "13": 4,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 56,
+                "22": 24,
+                "23": 5,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 4,
+                "8": 0,
+                "9": 94
+            }
+        },
+        "school_name": "GÖKÇAM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1145,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/2678_cb_1093701419_1684085939625761063.jpg",
+            "submission_id": 283077,
+            "total_vote": 225,
+            "votes": {
+                "1": 131,
+                "2": 3,
+                "3": 74,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/77196_mv_1083701419_1684085872725016481.jpg",
+            "submission_id": 280912,
+            "total_vote": 218,
+            "votes": {
+                "10": 10,
+                "11": 34,
+                "12": 1,
+                "13": 6,
+                "21": 43,
+                "22": 30,
+                "23": 1,
+                "24": 3,
+                "6": 1,
+                "7": 5,
+                "8": 2,
+                "9": 82
+            }
+        },
+        "school_name": "GÖKÇAM İLKOKULU"
+    }
+]

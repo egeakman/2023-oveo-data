@@ -1,0 +1,85 @@
+[
+    {
+        "ballot_box_number": 1098,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "ÇANDIR ŞÖMSK ORTAOKULU VE İHO"
+    },
+    {
+        "ballot_box_number": 1097,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/27ddb505-d274-423c-9735-fe2171e9c0bf-1684105637493254744.jpeg",
+            "submission_id": 671720,
+            "total_vote": 314,
+            "votes": {
+                "1": 135,
+                "2": 3,
+                "3": 154,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇANDIR ŞÖMSK ORTAOKULU VE İHO"
+    },
+    {
+        "ballot_box_number": 1099,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a0bfac8b-5f36-40ad-8f1d-0f5fd0b39d7c-1684105461991602975.jpeg",
+            "submission_id": 643003,
+            "total_vote": 308,
+            "votes": {
+                "1": 1,
+                "10": 8,
+                "11": 43,
+                "12": 9,
+                "13": 3,
+                "14": 1,
+                "15": 1,
+                "21": 78,
+                "22": 48,
+                "23": 3,
+                "24": 5,
+                "7": 2,
+                "8": 1,
+                "9": 105
+            }
+        },
+        "school_name": "ÇANDIR ŞÖMSK ORTAOKULU VE İHO"
+    },
+    {
+        "ballot_box_number": 1100,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/bb439d09-0d3f-4969-8d78-14210a674c62-1684105450951462957.jpeg",
+            "submission_id": 641301,
+            "total_vote": 328,
+            "votes": {
+                "1": 138,
+                "3": 177,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/fc1adda9-d589-45cb-abd2-9dfad99bcf7c-1684105447315747632.jpeg",
+            "submission_id": 640581,
+            "total_vote": 319,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 40,
+                "12": 10,
+                "13": 3,
+                "14": 3,
+                "18": 2,
+                "21": 92,
+                "22": 53,
+                "24": 5,
+                "5": 1,
+                "6": 1,
+                "7": 5,
+                "9": 100
+            }
+        },
+        "school_name": "ÇANDIR ŞÖMSK ORTAOKULU VE İHO"
+    }
+]

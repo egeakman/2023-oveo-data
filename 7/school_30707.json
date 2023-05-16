@@ -1,0 +1,137 @@
+[
+    {
+        "ballot_box_number": 1061,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/34071_cb_1093698915_1684078892810651256.jpg",
+            "submission_id": 175423,
+            "total_vote": 299,
+            "votes": {
+                "1": 123,
+                "2": 3,
+                "3": 148,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/34071_mv_1083698915_1684081690253471696.jpg",
+            "submission_id": 191307,
+            "total_vote": 287,
+            "votes": {
+                "10": 6,
+                "11": 34,
+                "12": 2,
+                "13": 1,
+                "18": 1,
+                "2": 1,
+                "20": 1,
+                "21": 71,
+                "22": 72,
+                "23": 3,
+                "24": 4,
+                "5": 1,
+                "6": 1,
+                "7": 8,
+                "8": 1,
+                "9": 80
+            }
+        },
+        "school_name": "GÖKDERE ATATÜRK İ.O. / O.O."
+    },
+    {
+        "ballot_box_number": 1058,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/34071_cb_1093698352_1684082388547643592.jpg",
+            "submission_id": 199506,
+            "total_vote": 283,
+            "votes": {
+                "1": 144,
+                "2": 2,
+                "3": 115,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/34071_mv_1083698352_1684083590369698847.jpg",
+            "submission_id": 219553,
+            "total_vote": 268,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 31,
+                "12": 4,
+                "13": 2,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 3,
+                "2": 0,
+                "20": 1,
+                "21": 67,
+                "22": 32,
+                "23": 0,
+                "24": 2,
+                "3": 0,
+                "4": 1,
+                "5": 1,
+                "6": 2,
+                "7": 5,
+                "8": 3,
+                "9": 109
+            }
+        },
+        "school_name": "GÖKDERE ATATÜRK İ.O. / O.O."
+    },
+    {
+        "ballot_box_number": 1060,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/34071_cb_1093698354_1684086022530577440.jpg",
+            "submission_id": 285674,
+            "total_vote": 293,
+            "votes": {
+                "1": 154,
+                "2": 6,
+                "3": 119,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "GÖKDERE ATATÜRK İ.O. / O.O."
+    },
+    {
+        "ballot_box_number": 1059,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/34071_cb_1093698353_1684083401205908077.jpg",
+            "submission_id": 215927,
+            "total_vote": 301,
+            "votes": {
+                "1": 150,
+                "2": 4,
+                "3": 121,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/34071_mv_1083698353_1684084064827215179.jpg",
+            "submission_id": 229547,
+            "total_vote": 279,
+            "votes": {
+                "10": 4,
+                "11": 25,
+                "12": 4,
+                "21": 54,
+                "22": 51,
+                "23": 3,
+                "24": 12,
+                "4": 2,
+                "5": 1,
+                "6": 2,
+                "7": 8,
+                "8": 1,
+                "9": 112
+            }
+        },
+        "school_name": "GÖKDERE ATATÜRK İ.O. / O.O."
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "ballot_box_number": 1142,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "UĞRAR AŞAĞI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1141,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1993_bulk_999999999_1684246349133175774.jpeg",
+            "submission_id": 1030806,
+            "total_vote": 179,
+            "votes": {
+                "1": 100,
+                "2": 4,
+                "3": 64,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1993_bulk_999999999_1684252736322317395.jpeg",
+            "submission_id": 1032065,
+            "total_vote": 178,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 19,
+                "12": 0,
+                "13": 2,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 2,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 37,
+                "22": 22,
+                "23": 0,
+                "24": 4,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 3,
+                "9": 79
+            }
+        },
+        "school_name": "UĞRAR AŞAĞI İLKOKULU"
+    }
+]

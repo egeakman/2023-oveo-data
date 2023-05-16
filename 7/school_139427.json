@@ -1,0 +1,568 @@
+[
+    {
+        "ballot_box_number": 1207,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/18225_cb_1093703321_1684088966358922798.jpg",
+            "submission_id": 381520,
+            "total_vote": 302,
+            "votes": {
+                "1": 82,
+                "2": 1,
+                "3": 200,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/18225_bulk_999999999_1684090945832582711.jpeg",
+            "submission_id": 430802,
+            "total_vote": 301,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 22,
+                "12": 12,
+                "13": 21,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 128,
+                "22": 36,
+                "23": 0,
+                "24": 2,
+                "3": 12,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 2,
+                "8": 0,
+                "9": 59
+            }
+        },
+        "school_name": "GÜZELOBA İMAMHATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1201,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/6617_cb_1093703315_1684084605916899755.jpg",
+            "submission_id": 243281,
+            "total_vote": 294,
+            "votes": {
+                "1": 80,
+                "2": 1,
+                "3": 207,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/6617_mv_1083703315_1684084712244466085.jpg",
+            "submission_id": 246219,
+            "total_vote": 290,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 5,
+                "12": 5,
+                "13": 17,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 153,
+                "22": 30,
+                "23": 1,
+                "24": 4,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 1,
+                "8": 0,
+                "9": 68
+            }
+        },
+        "school_name": "GÜZELOBA İMAMHATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1214,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/18225_cb_1093703328_1684089389096183655.jpg",
+            "submission_id": 393169,
+            "total_vote": 318,
+            "votes": {
+                "1": 88,
+                "3": 213,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/18225_mv_1083703328_1684089413449743910.jpg",
+            "submission_id": 393811,
+            "total_vote": 311,
+            "votes": {
+                "1": 2,
+                "10": 1,
+                "11": 16,
+                "12": 8,
+                "13": 30,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "21": 128,
+                "22": 36,
+                "3": 2,
+                "5": 6,
+                "6": 6,
+                "7": 5,
+                "8": 1,
+                "9": 70
+            }
+        },
+        "school_name": "GÜZELOBA İMAMHATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1202,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/6617_cb_1093703316_1684087531362786695.jpg",
+            "submission_id": 336908,
+            "total_vote": 311,
+            "votes": {
+                "1": 78,
+                "2": 1,
+                "3": 224,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/6617_mv_1083703316_1684084965467332970.jpg",
+            "submission_id": 253105,
+            "total_vote": 305,
+            "votes": {
+                "11": 21,
+                "12": 10,
+                "13": 22,
+                "15": 5,
+                "17": 2,
+                "21": 155,
+                "22": 34,
+                "23": 1,
+                "24": 2,
+                "3": 1,
+                "7": 3,
+                "9": 49
+            }
+        },
+        "school_name": "GÜZELOBA İMAMHATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1209,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/57180_cb_1093703323_1684081252353375853.jpg",
+            "submission_id": 187245,
+            "total_vote": 300,
+            "votes": {
+                "1": 64,
+                "2": 2,
+                "3": 218,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/57180_mv_1083703323_1684082357543845680.jpg",
+            "submission_id": 199090,
+            "total_vote": 297,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 13,
+                "12": 15,
+                "13": 39,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 129,
+                "22": 37,
+                "23": 0,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 3,
+                "8": 0,
+                "9": 48
+            }
+        },
+        "school_name": "GÜZELOBA İMAMHATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1206,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/6617_cb_1093703320_1684086202718960576.jpg",
+            "submission_id": 291516,
+            "total_vote": 295,
+            "votes": {
+                "1": 80,
+                "2": 0,
+                "3": 197,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/57180_mv_1083703320_1684088623865018020.jpg",
+            "submission_id": 371341,
+            "total_vote": 289,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 16,
+                "12": 19,
+                "13": 30,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 121,
+                "22": 25,
+                "23": 2,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 61
+            }
+        },
+        "school_name": "GÜZELOBA İMAMHATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1203,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/22300_cb_1093703317_1684082465290251582.jpg",
+            "submission_id": 200504,
+            "total_vote": 299,
+            "votes": {
+                "1": 91,
+                "2": 0,
+                "3": 192,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/22300_cb_1093703317_1684082234192737469.jpg",
+            "submission_id": 197510,
+            "total_vote": 300,
+            "votes": {
+                "10": 4,
+                "11": 11,
+                "12": 14,
+                "13": 30,
+                "18": 2,
+                "20": 1,
+                "21": 115,
+                "22": 27,
+                "24": 11,
+                "3": 3,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 77
+            }
+        },
+        "school_name": "GÜZELOBA İMAMHATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1208,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/18225_cb_1093703322_1684081241112321632.jpg",
+            "submission_id": 187156,
+            "total_vote": 301,
+            "votes": {
+                "1": 91,
+                "2": 2,
+                "3": 201,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/18225_mv_1083703322_1684086072057674965.jpg",
+            "submission_id": 287245,
+            "total_vote": 295,
+            "votes": {
+                "10": 4,
+                "11": 21,
+                "12": 14,
+                "13": 29,
+                "20": 1,
+                "21": 121,
+                "22": 34,
+                "23": 1,
+                "24": 5,
+                "3": 1,
+                "6": 1,
+                "7": 3,
+                "8": 2,
+                "9": 58
+            }
+        },
+        "school_name": "GÜZELOBA İMAMHATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1213,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/6617_cb_1093703327_1684087061761441025.jpg",
+            "submission_id": 321140,
+            "total_vote": 302,
+            "votes": {
+                "1": 100,
+                "2": 1,
+                "3": 199,
+                "4": 2
+            }
+        },
+        "mv_result": null,
+        "school_name": "GÜZELOBA İMAMHATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1204,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/57180_cb_1093703318_1684085873637719082.jpg",
+            "submission_id": 280949,
+            "total_vote": 302,
+            "votes": {
+                "1": 88,
+                "2": 1,
+                "3": 204,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/57180_mv_1083703318_1684085899345223597.jpg",
+            "submission_id": 281764,
+            "total_vote": 301,
+            "votes": {
+                "1": 4,
+                "10": 3,
+                "11": 13,
+                "12": 25,
+                "13": 28,
+                "21": 114,
+                "22": 34,
+                "23": 1,
+                "24": 5,
+                "5": 1,
+                "6": 3,
+                "7": 3,
+                "8": 2,
+                "9": 65
+            }
+        },
+        "school_name": "GÜZELOBA İMAMHATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1210,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/57180_cb_1093703324_1684083608812745319.jpg",
+            "submission_id": 219923,
+            "total_vote": 290,
+            "votes": {
+                "1": 62,
+                "2": 3,
+                "3": 219,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/18225_mv_1083703324_1684087880486539885.jpg",
+            "submission_id": 348007,
+            "total_vote": 285,
+            "votes": {
+                "10": 1,
+                "11": 12,
+                "12": 17,
+                "13": 31,
+                "16": 1,
+                "21": 118,
+                "22": 40,
+                "23": 1,
+                "24": 7,
+                "3": 2,
+                "6": 2,
+                "7": 3,
+                "9": 50
+            }
+        },
+        "school_name": "GÜZELOBA İMAMHATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1215,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/57180_bulk_999999999_1684084013939971579.jpeg",
+            "submission_id": 228426,
+            "total_vote": 311,
+            "votes": {
+                "1": 95,
+                "2": 4,
+                "3": 194,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/6617_mv_1083703329_1684089464744126294.jpg",
+            "submission_id": 395257,
+            "total_vote": 308,
+            "votes": {
+                "10": 5,
+                "11": 24,
+                "12": 7,
+                "13": 28,
+                "20": 1,
+                "21": 118,
+                "22": 38,
+                "24": 10,
+                "6": 2,
+                "7": 9,
+                "8": 4,
+                "9": 62
+            }
+        },
+        "school_name": "GÜZELOBA İMAMHATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1211,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/15921_cb_1093703325_1684087448652758053.jpg",
+            "submission_id": 334242,
+            "total_vote": 296,
+            "votes": {
+                "1": 71,
+                "2": 1,
+                "3": 212,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/15921_mv_1083703325_1684087700060120467.jpg",
+            "submission_id": 342401,
+            "total_vote": 293,
+            "votes": {
+                "11": 14,
+                "12": 19,
+                "13": 26,
+                "18": 1,
+                "21": 119,
+                "22": 47,
+                "24": 6,
+                "3": 1,
+                "7": 4,
+                "8": 1,
+                "9": 55
+            }
+        },
+        "school_name": "GÜZELOBA İMAMHATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1205,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/57180_cb_1093703319_1684086424218064590.jpg",
+            "submission_id": 298822,
+            "total_vote": 341,
+            "votes": {
+                "1": 75,
+                "2": 1,
+                "3": 245,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/57180_mv_1083703319_1684086450402818080.jpg",
+            "submission_id": 299699,
+            "total_vote": 308,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 15,
+                "12": 16,
+                "13": 63,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 121,
+                "22": 19,
+                "23": 0,
+                "24": 9,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 58
+            }
+        },
+        "school_name": "GÜZELOBA İMAMHATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1212,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/15921_cb_1093703326_1684085674107361688.jpg",
+            "submission_id": 274204,
+            "total_vote": 316,
+            "votes": {
+                "1": 87,
+                "2": 1,
+                "3": 213,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/15921_mv_1083703326_1684085729783331692.jpg",
+            "submission_id": 276045,
+            "total_vote": 313,
+            "votes": {
+                "10": 4,
+                "11": 15,
+                "12": 15,
+                "13": 30,
+                "14": 1,
+                "21": 132,
+                "22": 43,
+                "24": 3,
+                "3": 1,
+                "6": 1,
+                "7": 3,
+                "8": 2,
+                "9": 63
+            }
+        },
+        "school_name": "GÜZELOBA İMAMHATİP ORTAOKULU"
+    }
+]

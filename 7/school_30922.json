@@ -1,0 +1,118 @@
+[
+    {
+        "ballot_box_number": 2338,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16281_cb_1093707032_1684090872301971828.jpg",
+            "submission_id": 429292,
+            "total_vote": 280,
+            "votes": {
+                "1": 184,
+                "2": 3,
+                "3": 76,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16281_mv_1083707032_1684090887624046563.jpg",
+            "submission_id": 429608,
+            "total_vote": 275,
+            "votes": {
+                "10": 6,
+                "11": 54,
+                "12": 5,
+                "13": 8,
+                "14": 1,
+                "17": 1,
+                "18": 1,
+                "21": 45,
+                "22": 28,
+                "24": 8,
+                "6": 1,
+                "7": 1,
+                "8": 2,
+                "9": 114
+            }
+        },
+        "school_name": "(ODABAŞI MAH.) ODABAŞI SEVİNÇ FAHRİ AYDIN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2337,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/16281_bulk_999999999_1684090795381289376.jpg",
+            "submission_id": 427583,
+            "total_vote": 253,
+            "votes": {
+                "1": 138,
+                "2": 3,
+                "3": 91,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/16281_bulk_999999999_1684090828474200084.jpg",
+            "submission_id": 428299,
+            "total_vote": 244,
+            "votes": {
+                "10": 1,
+                "11": 44,
+                "12": 3,
+                "13": 4,
+                "15": 1,
+                "20": 1,
+                "21": 61,
+                "22": 26,
+                "24": 7,
+                "7": 2,
+                "8": 2,
+                "9": 92
+            }
+        },
+        "school_name": "(ODABAŞI MAH.) ODABAŞI SEVİNÇ FAHRİ AYDIN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2339,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16281_cb_1093707033_1684090904912370935.jpg",
+            "submission_id": 430041,
+            "total_vote": 270,
+            "votes": {
+                "1": 185,
+                "2": 2,
+                "3": 59,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c9159ec8-8fc8-4d76-b958-8647da882c0a-1684106732325028128.jpeg",
+            "submission_id": 831153,
+            "total_vote": 268,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 49,
+                "12": 0,
+                "13": 6,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 1,
+                "21": 43,
+                "22": 17,
+                "23": 4,
+                "24": 9,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 1,
+                "9": 131
+            }
+        },
+        "school_name": "(ODABAŞI MAH.) ODABAŞI SEVİNÇ FAHRİ AYDIN İLKOKULU"
+    }
+]

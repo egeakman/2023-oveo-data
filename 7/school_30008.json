@@ -1,0 +1,33 @@
+[
+    {
+        "ballot_box_number": 1427,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/55535_cb_1093711561_1684079832183063867.jpg",
+            "submission_id": 178542,
+            "total_vote": 77,
+            "votes": {
+                "1": 34,
+                "3": 42,
+                "4": 1
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/55535_mv_1083711561_1684079868976545970.jpg",
+            "submission_id": 178689,
+            "total_vote": 75,
+            "votes": {
+                "10": 1,
+                "11": 7,
+                "12": 5,
+                "13": 3,
+                "21": 27,
+                "22": 3,
+                "24": 1,
+                "3": 1,
+                "6": 1,
+                "9": 26
+            }
+        },
+        "school_name": "DUMLUPINAR ORTA OKULU"
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "ballot_box_number": 2268,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/31612_cb_1093705242_1684088954400399754.jpg",
+            "submission_id": 381198,
+            "total_vote": 274,
+            "votes": {
+                "1": 110,
+                "2": 2,
+                "3": 143,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "(KAZIM KARABEKİR MAH)NAZİME BAKİSAATÇİOĞLU M.T.A.L.(OKUL BARIŞ MAH.DE)"
+    },
+    {
+        "ballot_box_number": 2269,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/44236_bulk_999999999_1684089121806409509.jpg",
+            "submission_id": 385922,
+            "total_vote": 281,
+            "votes": {
+                "1": 128,
+                "2": 1,
+                "3": 134,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/44236_bulk_999999999_1684094755147820635.jpg",
+            "submission_id": 495801,
+            "total_vote": 270,
+            "votes": {
+                "10": 4,
+                "11": 29,
+                "12": 8,
+                "13": 15,
+                "14": 1,
+                "17": 1,
+                "21": 82,
+                "22": 26,
+                "24": 4,
+                "3": 1,
+                "6": 1,
+                "8": 1,
+                "9": 97
+            }
+        },
+        "school_name": "(KAZIM KARABEKİR MAH)NAZİME BAKİSAATÇİOĞLU M.T.A.L.(OKUL BARIŞ MAH.DE)"
+    },
+    {
+        "ballot_box_number": 2270,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/44236_cb_1093705244_1684081546221875111.jpg",
+            "submission_id": 189807,
+            "total_vote": 281,
+            "votes": {
+                "1": 126,
+                "2": 3,
+                "3": 124,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/44236_bulk_999999999_1684087676253755018.jpg",
+            "submission_id": 341625,
+            "total_vote": 271,
+            "votes": {
+                "10": 2,
+                "11": 33,
+                "12": 16,
+                "13": 8,
+                "15": 3,
+                "19": 1,
+                "21": 78,
+                "22": 19,
+                "23": 1,
+                "24": 11,
+                "6": 4,
+                "7": 3,
+                "8": 5,
+                "9": 87
+            }
+        },
+        "school_name": "(KAZIM KARABEKİR MAH)NAZİME BAKİSAATÇİOĞLU M.T.A.L.(OKUL BARIŞ MAH.DE)"
+    },
+    {
+        "ballot_box_number": 2266,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/31612_cb_1093705240_1684087767393721677.jpg",
+            "submission_id": 344581,
+            "total_vote": 280,
+            "votes": {
+                "1": 134,
+                "2": 1,
+                "3": 121,
+                "4": 24
+            }
+        },
+        "mv_result": null,
+        "school_name": "(KAZIM KARABEKİR MAH)NAZİME BAKİSAATÇİOĞLU M.T.A.L.(OKUL BARIŞ MAH.DE)"
+    },
+    {
+        "ballot_box_number": 2267,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/31612_cb_1093705241_1684087888158064794.jpg",
+            "submission_id": 348292,
+            "total_vote": 289,
+            "votes": {
+                "1": 146,
+                "2": 3,
+                "3": 124,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "(KAZIM KARABEKİR MAH)NAZİME BAKİSAATÇİOĞLU M.T.A.L.(OKUL BARIŞ MAH.DE)"
+    }
+]

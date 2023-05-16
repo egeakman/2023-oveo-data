@@ -1,0 +1,151 @@
+[
+    {
+        "ballot_box_number": 1044,
+        "cm_result": {
+            "image_url": "https://source2-secim-images.oyveotesi.org/raw/whiskey/cae1d83e-8878-483e-bafa-84b421f416b0.jpg",
+            "submission_id": 555431,
+            "total_vote": 320,
+            "votes": {
+                "1": 144,
+                "2": 2,
+                "3": 152,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "GÖYNÜK ATATÜRK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1042,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/06766564-b1b1-4dac-b32a-abe56fb29109-1684105433109556689.jpg",
+            "submission_id": 639499,
+            "total_vote": 331,
+            "votes": {
+                "1": 163,
+                "2": 2,
+                "3": 140,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0b57a95e-2de3-439d-8e95-00fd462a70c9-1684105425983775408.jpg",
+            "submission_id": 638536,
+            "total_vote": 328,
+            "votes": {
+                "10": 3,
+                "11": 36,
+                "12": 17,
+                "13": 8,
+                "20": 1,
+                "21": 73,
+                "22": 44,
+                "23": 1,
+                "24": 16,
+                "7": 3,
+                "8": 1,
+                "9": 125
+            }
+        },
+        "school_name": "GÖYNÜK ATATÜRK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1043,
+        "cm_result": {
+            "image_url": "https://source2-secim-images.oyveotesi.org/raw/whiskey/3ee94ad0-d014-49a7-9a4c-14fb67507a1e.jpg",
+            "submission_id": 552776,
+            "total_vote": 327,
+            "votes": {
+                "1": 142,
+                "2": 4,
+                "3": 170,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source2-secim-images.oyveotesi.org/raw/whiskey/45c55c55-772c-48f3-98ce-099bcf613cf9.jpg",
+            "submission_id": 555965,
+            "total_vote": 321,
+            "votes": {
+                "10": 3,
+                "11": 36,
+                "12": 21,
+                "13": 12,
+                "21": 85,
+                "22": 49,
+                "24": 8,
+                "7": 8,
+                "8": 3,
+                "9": 96
+            }
+        },
+        "school_name": "GÖYNÜK ATATÜRK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1045,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/51bc473b-9ec2-4898-86fe-610b2aca8f2e-1684105292865479296.jpg",
+            "submission_id": 613259,
+            "total_vote": 316,
+            "votes": {
+                "1": 144,
+                "2": 3,
+                "3": 155,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "GÖYNÜK ATATÜRK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1046,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/b422e261-4e52-4258-9130-20128d532103-1684105289243196364.jpg",
+            "submission_id": 612887,
+            "total_vote": 319,
+            "votes": {
+                "1": 161,
+                "2": 4,
+                "3": 138,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "GÖYNÜK ATATÜRK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1041,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/46406b78-976c-4955-bfe0-87351c1e2e1d-1684105446576580798.jpg",
+            "submission_id": 641747,
+            "total_vote": 307,
+            "votes": {
+                "1": 147,
+                "2": 1,
+                "3": 146,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3c58be91-4cc9-4024-a16b-68ed508b8bda-1684105442070945555.jpg",
+            "submission_id": 640848,
+            "total_vote": 300,
+            "votes": {
+                "10": 1,
+                "11": 37,
+                "12": 10,
+                "13": 9,
+                "14": 1,
+                "2": 1,
+                "21": 84,
+                "22": 38,
+                "24": 6,
+                "3": 1,
+                "7": 4,
+                "8": 1,
+                "9": 107
+            }
+        },
+        "school_name": "GÖYNÜK ATATÜRK İLKOKULU"
+    }
+]

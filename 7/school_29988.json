@@ -1,0 +1,220 @@
+[
+    {
+        "ballot_box_number": 2385,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/28517_cb_1093814803_1684081008363608430.jpg",
+            "submission_id": 185379,
+            "total_vote": 342,
+            "votes": {
+                "1": 103,
+                "2": 3,
+                "3": 208,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/28517_mv_1083814803_1684086647320849802.jpg",
+            "submission_id": 306682,
+            "total_vote": 341,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 17,
+                "12": 32,
+                "13": 17,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 119,
+                "22": 51,
+                "23": 0,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 4,
+                "7": 3,
+                "8": 0,
+                "9": 80
+            }
+        },
+        "school_name": "YUNUS EMRE İLK OKULU"
+    },
+    {
+        "ballot_box_number": 2383,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "YUNUS EMRE İLK OKULU"
+    },
+    {
+        "ballot_box_number": 2380,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/28517_bulk_999999999_1684079601952453491.jpg",
+            "submission_id": 177609,
+            "total_vote": 337,
+            "votes": {
+                "1": 91,
+                "2": 2,
+                "3": 224,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0d189409-ff59-4404-beb6-7b619f2413c8-1684105321414016711.jpeg",
+            "submission_id": 617472,
+            "total_vote": 335,
+            "votes": {
+                "1": 1,
+                "10": 5,
+                "11": 15,
+                "12": 17,
+                "13": 18,
+                "17": 1,
+                "21": 134,
+                "22": 54,
+                "23": 3,
+                "24": 13,
+                "4": 1,
+                "5": 1,
+                "7": 3,
+                "9": 69
+            }
+        },
+        "school_name": "YUNUS EMRE İLK OKULU"
+    },
+    {
+        "ballot_box_number": 2379,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ba370433-a059-42a0-8674-f86a02919463-1684105332851800529.jpeg",
+            "submission_id": 619700,
+            "total_vote": 336,
+            "votes": {
+                "1": 117,
+                "2": 2,
+                "3": 189,
+                "4": 28
+            }
+        },
+        "mv_result": null,
+        "school_name": "YUNUS EMRE İLK OKULU"
+    },
+    {
+        "ballot_box_number": 2378,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8e0d3bcd-a6a1-4ba2-a89d-9398fea552a3-1684105348935099892.jpeg",
+            "submission_id": 622094,
+            "total_vote": 296,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 17,
+                "12": 18,
+                "13": 27,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 105,
+                "22": 57,
+                "23": 1,
+                "24": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 1,
+                "9": 65
+            }
+        },
+        "school_name": "YUNUS EMRE İLK OKULU"
+    },
+    {
+        "ballot_box_number": 2384,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/28517_cb_1093814802_1684080030532542340.jpg",
+            "submission_id": 179444,
+            "total_vote": 330,
+            "votes": {
+                "1": 109,
+                "2": 2,
+                "3": 180,
+                "4": 39
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0f6b4575-338b-46bf-98a9-a236682d683d-1684105286875783838.jpeg",
+            "submission_id": 611064,
+            "total_vote": 319,
+            "votes": {
+                "1": 1,
+                "10": 5,
+                "11": 25,
+                "12": 11,
+                "13": 15,
+                "14": 0,
+                "15": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 111,
+                "22": 40,
+                "23": 2,
+                "24": 16,
+                "3": 4,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 5,
+                "8": 1,
+                "9": 80
+            }
+        },
+        "school_name": "YUNUS EMRE İLK OKULU"
+    },
+    {
+        "ballot_box_number": 2382,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "YUNUS EMRE İLK OKULU"
+    },
+    {
+        "ballot_box_number": 2381,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4330b25b-7636-4be1-b1f1-e4369eb635db-1684105304804234843.jpeg",
+            "submission_id": 614229,
+            "total_vote": 324,
+            "votes": {
+                "10": 7,
+                "11": 29,
+                "12": 22,
+                "13": 24,
+                "19": 1,
+                "20": 1,
+                "21": 100,
+                "22": 38,
+                "23": 2,
+                "24": 7,
+                "3": 3,
+                "6": 1,
+                "7": 7,
+                "8": 3,
+                "9": 79
+            }
+        },
+        "school_name": "YUNUS EMRE İLK OKULU"
+    }
+]

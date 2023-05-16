@@ -1,0 +1,525 @@
+[
+    {
+        "ballot_box_number": 1074,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/24529_cb_1093698928_1684081545739264016.jpg",
+            "submission_id": 189803,
+            "total_vote": 321,
+            "votes": {
+                "1": 173,
+                "2": 1,
+                "3": 127,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1977_bulk_999999999_1684089220628661558.jpg",
+            "submission_id": 388727,
+            "total_vote": 308,
+            "votes": {
+                "1": 1,
+                "10": 7,
+                "11": 47,
+                "12": 26,
+                "13": 5,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 62,
+                "22": 33,
+                "23": 0,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 2,
+                "9": 114
+            }
+        },
+        "school_name": "CELAL SÖNMEZ İ.O. / O.O."
+    },
+    {
+        "ballot_box_number": 1065,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/24507_cb_1093698919_1684084571821797799.jpg",
+            "submission_id": 242351,
+            "total_vote": 307,
+            "votes": {
+                "1": 145,
+                "2": 2,
+                "3": 133,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/24507_mv_1083698919_1684084518479274992.jpg",
+            "submission_id": 240944,
+            "total_vote": 302,
+            "votes": {
+                "10": 5,
+                "11": 40,
+                "12": 12,
+                "13": 5,
+                "14": 1,
+                "21": 77,
+                "22": 39,
+                "24": 10,
+                "6": 1,
+                "7": 4,
+                "8": 3,
+                "9": 105
+            }
+        },
+        "school_name": "CELAL SÖNMEZ İ.O. / O.O."
+    },
+    {
+        "ballot_box_number": 1073,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/42274_bulk_999999999_1684092225918081419.jpeg",
+            "submission_id": 452962,
+            "total_vote": 321,
+            "votes": {
+                "1": 132,
+                "2": 3,
+                "3": 156,
+                "4": 30
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1977_bulk_999999999_1684090136996933247.jpg",
+            "submission_id": 413046,
+            "total_vote": 320,
+            "votes": {
+                "1": 1,
+                "10": 7,
+                "11": 39,
+                "12": 37,
+                "13": 0,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 65,
+                "22": 48,
+                "23": 0,
+                "24": 24,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 4,
+                "7": 5,
+                "8": 9,
+                "9": 80
+            }
+        },
+        "school_name": "CELAL SÖNMEZ İ.O. / O.O."
+    },
+    {
+        "ballot_box_number": 1072,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/42274_bulk_999999999_1684091265845436979.jpeg",
+            "submission_id": 437087,
+            "total_vote": 319,
+            "votes": {
+                "1": 130,
+                "2": 5,
+                "3": 160,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/42274_bulk_999999999_1684091108001759708.jpeg",
+            "submission_id": 434050,
+            "total_vote": 306,
+            "votes": {
+                "10": 4,
+                "11": 33,
+                "12": 39,
+                "13": 10,
+                "15": 1,
+                "21": 79,
+                "22": 31,
+                "23": 1,
+                "24": 8,
+                "6": 5,
+                "7": 4,
+                "8": 3,
+                "9": 88
+            }
+        },
+        "school_name": "CELAL SÖNMEZ İ.O. / O.O."
+    },
+    {
+        "ballot_box_number": 1071,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1977_bulk_999999999_1684084148490121714.jpg",
+            "submission_id": 231499,
+            "total_vote": 328,
+            "votes": {
+                "1": 156,
+                "2": 3,
+                "3": 133,
+                "4": 36
+            }
+        },
+        "mv_result": null,
+        "school_name": "CELAL SÖNMEZ İ.O. / O.O."
+    },
+    {
+        "ballot_box_number": 1075,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/67858_cb_1093698929_1684085840137578471.jpg",
+            "submission_id": 279793,
+            "total_vote": 329,
+            "votes": {
+                "1": 168,
+                "2": 1,
+                "3": 136,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/67858_mv_1083698929_1684085879315979585.jpg",
+            "submission_id": 281136,
+            "total_vote": 323,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 45,
+                "12": 16,
+                "13": 11,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 78,
+                "22": 32,
+                "23": 0,
+                "24": 9,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 6,
+                "8": 4,
+                "9": 117
+            }
+        },
+        "school_name": "CELAL SÖNMEZ İ.O. / O.O."
+    },
+    {
+        "ballot_box_number": 1068,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1977_bulk_999999999_1684088945634595002.jpg",
+            "submission_id": 380963,
+            "total_vote": 316,
+            "votes": {
+                "1": 123,
+                "2": 1,
+                "3": 160,
+                "4": 32
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1977_bulk_999999999_1684090137201288162.jpg",
+            "submission_id": 413052,
+            "total_vote": 312,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 31,
+                "12": 18,
+                "13": 9,
+                "14": 0,
+                "15": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 88,
+                "22": 53,
+                "23": 2,
+                "24": 12,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 1,
+                "8": 6,
+                "9": 85
+            }
+        },
+        "school_name": "CELAL SÖNMEZ İ.O. / O.O."
+    },
+    {
+        "ballot_box_number": 1064,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1977_bulk_999999999_1684082394642462275.jpg",
+            "submission_id": 199582,
+            "total_vote": 294,
+            "votes": {
+                "1": 115,
+                "2": 4,
+                "3": 155,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1977_bulk_999999999_1684088868050116561.jpg",
+            "submission_id": 378569,
+            "total_vote": 282,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 24,
+                "12": 17,
+                "13": 17,
+                "14": 2,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 72,
+                "22": 44,
+                "23": 0,
+                "24": 9,
+                "3": 0,
+                "4": 1,
+                "5": 1,
+                "6": 0,
+                "7": 1,
+                "8": 4,
+                "9": 85
+            }
+        },
+        "school_name": "CELAL SÖNMEZ İ.O. / O.O."
+    },
+    {
+        "ballot_box_number": 1070,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1977_bulk_999999999_1684084077347342155.jpg",
+            "submission_id": 229865,
+            "total_vote": 324,
+            "votes": {
+                "1": 160,
+                "2": 2,
+                "3": 140,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1977_bulk_999999999_1684090502775054667.jpg",
+            "submission_id": 421401,
+            "total_vote": 313,
+            "votes": {
+                "10": 1,
+                "11": 47,
+                "12": 27,
+                "13": 10,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "20": 2,
+                "21": 68,
+                "22": 41,
+                "23": 0,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 4,
+                "8": 6,
+                "9": 98
+            }
+        },
+        "school_name": "CELAL SÖNMEZ İ.O. / O.O."
+    },
+    {
+        "ballot_box_number": 1069,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/42274_cb_1093698923_1684084516081953495.jpg",
+            "submission_id": 240886,
+            "total_vote": 328,
+            "votes": {
+                "1": 136,
+                "2": 1,
+                "3": 174,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/42274_mv_1083698923_1684084541312482912.jpg",
+            "submission_id": 241552,
+            "total_vote": 317,
+            "votes": {
+                "10": 9,
+                "11": 33,
+                "12": 22,
+                "13": 11,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "2": 0,
+                "20": 0,
+                "21": 71,
+                "22": 51,
+                "23": 1,
+                "24": 13,
+                "3": 3,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 7,
+                "8": 3,
+                "9": 90
+            }
+        },
+        "school_name": "CELAL SÖNMEZ İ.O. / O.O."
+    },
+    {
+        "ballot_box_number": 1066,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/24533_cb_1093698920_1684085374616148492.jpg",
+            "submission_id": 264906,
+            "total_vote": 306,
+            "votes": {
+                "1": 160,
+                "2": 1,
+                "3": 114,
+                "4": 31
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/24533_mv_1083698920_1684086474827907054.jpg",
+            "submission_id": 300589,
+            "total_vote": 298,
+            "votes": {
+                "10": 1,
+                "11": 40,
+                "12": 17,
+                "13": 9,
+                "14": 0,
+                "15": 2,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "20": 0,
+                "21": 52,
+                "22": 47,
+                "23": 1,
+                "24": 8,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 6,
+                "8": 2,
+                "9": 110
+            }
+        },
+        "school_name": "CELAL SÖNMEZ İ.O. / O.O."
+    },
+    {
+        "ballot_box_number": 1076,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/77408_cb_1093698930_1684079383919764043.jpg",
+            "submission_id": 176801,
+            "total_vote": 318,
+            "votes": {
+                "1": 107,
+                "2": 1,
+                "3": 129,
+                "4": 81
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/77408_mv_1083698930_1684085433226811061.jpg",
+            "submission_id": 266634,
+            "total_vote": 312,
+            "votes": {
+                "1": 2,
+                "10": 4,
+                "11": 36,
+                "12": 8,
+                "13": 7,
+                "16": 1,
+                "21": 65,
+                "22": 51,
+                "24": 11,
+                "7": 11,
+                "8": 7,
+                "9": 109
+            }
+        },
+        "school_name": "CELAL SÖNMEZ İ.O. / O.O."
+    },
+    {
+        "ballot_box_number": 1067,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/66543_cb_1093698921_1684084845893468297.jpg",
+            "submission_id": 249790,
+            "total_vote": 317,
+            "votes": {
+                "1": 144,
+                "2": 1,
+                "3": 144,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/66543_mv_1083698921_1684084512379764740.jpg",
+            "submission_id": 240806,
+            "total_vote": 314,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 38,
+                "12": 19,
+                "13": 19,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 70,
+                "22": 37,
+                "23": 0,
+                "24": 22,
+                "5": 1,
+                "6": 0,
+                "7": 2,
+                "8": 6,
+                "9": 94
+            }
+        },
+        "school_name": "CELAL SÖNMEZ İ.O. / O.O."
+    }
+]

@@ -1,0 +1,296 @@
+[
+    {
+        "ballot_box_number": 1007,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/22394_cb_1093697501_1684088355839332541.jpg",
+            "submission_id": 362970,
+            "total_vote": 336,
+            "votes": {
+                "1": 104,
+                "3": 203,
+                "4": 29
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/22394_mv_1083697501_1684088321432123704.jpg",
+            "submission_id": 361940,
+            "total_vote": 333,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 29,
+                "12": 13,
+                "13": 15,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 2,
+                "21": 128,
+                "22": 42,
+                "23": 0,
+                "24": 13,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 4,
+                "8": 1,
+                "9": 80
+            }
+        },
+        "school_name": "ÇAĞLAYAN ORTAOKULU-A BLOK(A.HİSAR MH.İÇİN)"
+    },
+    {
+        "ballot_box_number": 1005,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/22394_cb_1093697499_1684088112976939001.jpg",
+            "submission_id": 355567,
+            "total_vote": 334,
+            "votes": {
+                "1": 119,
+                "3": 193,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/22394_mv_1083697499_1684088172983890326.jpg",
+            "submission_id": 357504,
+            "total_vote": 330,
+            "votes": {
+                "11": 25,
+                "12": 14,
+                "13": 21,
+                "15": 1,
+                "2": 1,
+                "21": 136,
+                "22": 25,
+                "23": 1,
+                "24": 12,
+                "3": 1,
+                "7": 1,
+                "8": 2,
+                "9": 90
+            }
+        },
+        "school_name": "ÇAĞLAYAN ORTAOKULU-A BLOK(A.HİSAR MH.İÇİN)"
+    },
+    {
+        "ballot_box_number": 1008,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/22394_cb_1093697502_1684092487870605760.jpg",
+            "submission_id": 457088,
+            "total_vote": 319,
+            "votes": {
+                "1": 111,
+                "2": 3,
+                "3": 188,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇAĞLAYAN ORTAOKULU-A BLOK(A.HİSAR MH.İÇİN)"
+    },
+    {
+        "ballot_box_number": 1004,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/29392_bulk_999999999_1684085838331812131.jpg",
+            "submission_id": 279743,
+            "total_vote": 343,
+            "votes": {
+                "1": 115,
+                "2": 5,
+                "3": 193,
+                "4": 30
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/22394_mv_1083697498_1684091576176328352.jpg",
+            "submission_id": 442433,
+            "total_vote": 337,
+            "votes": {
+                "10": 2,
+                "11": 30,
+                "12": 10,
+                "13": 23,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "21": 128,
+                "22": 36,
+                "23": 2,
+                "24": 9,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 6,
+                "8": 1,
+                "9": 87
+            }
+        },
+        "school_name": "ÇAĞLAYAN ORTAOKULU-A BLOK(A.HİSAR MH.İÇİN)"
+    },
+    {
+        "ballot_box_number": 1001,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/22394_cb_1093697495_1684085234590413648.jpg",
+            "submission_id": 260869,
+            "total_vote": 320,
+            "votes": {
+                "1": 90,
+                "2": 1,
+                "3": 207,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/22394_mv_1083697495_1684085320238227037.jpg",
+            "submission_id": 263344,
+            "total_vote": 312,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 23,
+                "12": 9,
+                "13": 11,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 142,
+                "22": 40,
+                "23": 0,
+                "24": 6,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 71
+            }
+        },
+        "school_name": "ÇAĞLAYAN ORTAOKULU-A BLOK(A.HİSAR MH.İÇİN)"
+    },
+    {
+        "ballot_box_number": 1003,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/22394_cb_1093697497_1684086753880513009.jpg",
+            "submission_id": 310464,
+            "total_vote": 343,
+            "votes": {
+                "1": 96,
+                "3": 213,
+                "4": 34
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/22394_mv_1083697497_1684085461695835842.jpg",
+            "submission_id": 267436,
+            "total_vote": 334,
+            "votes": {
+                "11": 36,
+                "12": 8,
+                "13": 26,
+                "18": 1,
+                "21": 120,
+                "22": 54,
+                "23": 1,
+                "24": 19,
+                "3": 2,
+                "6": 1,
+                "7": 4,
+                "8": 2,
+                "9": 60
+            }
+        },
+        "school_name": "ÇAĞLAYAN ORTAOKULU-A BLOK(A.HİSAR MH.İÇİN)"
+    },
+    {
+        "ballot_box_number": 1006,
+        "cm_result": {
+            "image_url": "https://source1-secim-images.oyveotesi.org/raw/1006594_cb_3697500_1684091109.jpeg",
+            "submission_id": 434127,
+            "total_vote": 334,
+            "votes": {
+                "1": 89,
+                "2": 3,
+                "3": 225,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source1-secim-images.oyveotesi.org/raw/1006594_mv_3697500_1684091078.jpeg",
+            "submission_id": 433561,
+            "total_vote": 332,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 28,
+                "12": 4,
+                "13": 24,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 144,
+                "22": 50,
+                "23": 1,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 8,
+                "8": 0,
+                "9": 59
+            }
+        },
+        "school_name": "ÇAĞLAYAN ORTAOKULU-A BLOK(A.HİSAR MH.İÇİN)"
+    },
+    {
+        "ballot_box_number": 1002,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/22394_cb_1093697496_1684093077382375453.jpg",
+            "submission_id": 464957,
+            "total_vote": 340,
+            "votes": {
+                "1": 88,
+                "3": 221,
+                "4": 31
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/22394_mv_1083697496_1684093108906039155.jpg",
+            "submission_id": 465482,
+            "total_vote": 334,
+            "votes": {
+                "10": 2,
+                "11": 24,
+                "12": 2,
+                "13": 19,
+                "19": 1,
+                "20": 1,
+                "21": 144,
+                "22": 52,
+                "24": 17,
+                "6": 1,
+                "7": 5,
+                "9": 66
+            }
+        },
+        "school_name": "ÇAĞLAYAN ORTAOKULU-A BLOK(A.HİSAR MH.İÇİN)"
+    }
+]

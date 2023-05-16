@@ -1,0 +1,47 @@
+[
+    {
+        "ballot_box_number": 1018,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c9b7f3e2-61d3-4f10-9757-96da6b7031ac-1684105084040727862.jpg",
+            "submission_id": 567013,
+            "total_vote": 235,
+            "votes": {
+                "1": 212,
+                "2": 0,
+                "3": 19,
+                "4": 4
+            }
+        },
+        "mv_result": null,
+        "school_name": "AVDAN ŞEHİT AHMET BELEN İLKÖĞRETİM OKULU"
+    },
+    {
+        "ballot_box_number": 1019,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/93c4f80e-d80c-479c-a36b-839bd21e4316-1684105084437676070.jpg",
+            "submission_id": 566780,
+            "total_vote": 228,
+            "votes": {
+                "1": 197,
+                "3": 27,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/bb4c57c8-f400-421c-ab5b-a6c033fe7bbc-1684105084783671007.jpg",
+            "submission_id": 566943,
+            "total_vote": 224,
+            "votes": {
+                "10": 172,
+                "11": 12,
+                "12": 14,
+                "19": 1,
+                "21": 11,
+                "23": 12,
+                "6": 1,
+                "9": 1
+            }
+        },
+        "school_name": "AVDAN ŞEHİT AHMET BELEN İLKÖĞRETİM OKULU"
+    }
+]

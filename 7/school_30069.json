@@ -1,0 +1,714 @@
+[
+    {
+        "ballot_box_number": 2429,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/47537_cb_1093815447_1684085686788129145.jpg",
+            "submission_id": 274640,
+            "total_vote": 322,
+            "votes": {
+                "1": 93,
+                "2": 2,
+                "3": 213,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/47537_mv_1083815447_1684086540778696719.jpg",
+            "submission_id": 302926,
+            "total_vote": 317,
+            "votes": {
+                "10": 3,
+                "11": 17,
+                "12": 15,
+                "13": 26,
+                "21": 140,
+                "22": 34,
+                "23": 1,
+                "24": 8,
+                "7": 3,
+                "8": 2,
+                "9": 68
+            }
+        },
+        "school_name": "MERKEZ İLK/ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 2421,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/34f90927-40dd-44de-9b1c-c9714e60ba91-1684105101403889620.jpg",
+            "submission_id": 572303,
+            "total_vote": 329,
+            "votes": {
+                "1": 84,
+                "3": 221,
+                "4": 24
+            }
+        },
+        "mv_result": null,
+        "school_name": "MERKEZ İLK/ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 2433,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/68333_bulk_999999999_1684087212280789975.jpg",
+            "submission_id": 326486,
+            "total_vote": 319,
+            "votes": {
+                "1": 103,
+                "2": 3,
+                "3": 195,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/9620_bulk_999999999_1684140953170445814.jpg",
+            "submission_id": 1017998,
+            "total_vote": 353,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 32,
+                "12": 94,
+                "13": 19,
+                "14": 6,
+                "19": 0,
+                "21": 113,
+                "3": 2,
+                "4": 8,
+                "5": 0,
+                "7": 7,
+                "8": 2,
+                "9": 69
+            }
+        },
+        "school_name": "MERKEZ İLK/ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 2423,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/36585_cb_1093815441_1684086656740822925.jpg",
+            "submission_id": 306958,
+            "total_vote": 326,
+            "votes": {
+                "1": 86,
+                "2": 0,
+                "3": 225,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/36585_mv_1083815441_1684086845597387002.jpg",
+            "submission_id": 313606,
+            "total_vote": 325,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 16,
+                "12": 12,
+                "13": 22,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 143,
+                "22": 40,
+                "23": 1,
+                "24": 11,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "7": 3,
+                "8": 1,
+                "9": 69
+            }
+        },
+        "school_name": "MERKEZ İLK/ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 2415,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/9620_bulk_999999999_1684092596412812543.jpg",
+            "submission_id": 458654,
+            "total_vote": 309,
+            "votes": {
+                "1": 89,
+                "3": 213,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/9620_bulk_999999999_1684092596318945293.jpg",
+            "submission_id": 458652,
+            "total_vote": 306,
+            "votes": {
+                "10": 3,
+                "11": 10,
+                "12": 6,
+                "13": 11,
+                "21": 154,
+                "22": 39,
+                "24": 7,
+                "6": 1,
+                "9": 75
+            }
+        },
+        "school_name": "MERKEZ İLK/ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 2422,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/9620_bulk_999999999_1684141242390245298.jpg",
+            "submission_id": 1018087,
+            "total_vote": 340,
+            "votes": {
+                "1": 108,
+                "2": 2,
+                "3": 209,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/9620_bulk_999999999_1684140953540625404.jpg",
+            "submission_id": 1018001,
+            "total_vote": 332,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 20,
+                "12": 15,
+                "13": 22,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 129,
+                "22": 44,
+                "23": 2,
+                "24": 9,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 6,
+                "8": 2,
+                "9": 75
+            }
+        },
+        "school_name": "MERKEZ İLK/ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 2418,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/9620_bulk_999999999_1684094392632635522.jpg",
+            "submission_id": 491440,
+            "total_vote": 319,
+            "votes": {
+                "1": 78,
+                "2": 2,
+                "3": 224,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/9620_bulk_999999999_1684100269490555881.jpg",
+            "submission_id": 536430,
+            "total_vote": 306,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 15,
+                "12": 16,
+                "13": 11,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 153,
+                "22": 36,
+                "23": 0,
+                "24": 9,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 3,
+                "8": 3,
+                "9": 55
+            }
+        },
+        "school_name": "MERKEZ İLK/ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 2425,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/9620_bulk_999999999_1684093790670217971.jpg",
+            "submission_id": 474270,
+            "total_vote": 341,
+            "votes": {
+                "1": 98,
+                "3": 230,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/9620_bulk_999999999_1684093790824585313.jpg",
+            "submission_id": 474272,
+            "total_vote": 333,
+            "votes": {
+                "10": 1,
+                "11": 18,
+                "12": 16,
+                "13": 29,
+                "21": 133,
+                "22": 47,
+                "24": 10,
+                "6": 4,
+                "8": 1,
+                "9": 74
+            }
+        },
+        "school_name": "MERKEZ İLK/ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 2420,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/25242_cb_1093815438_1684086334676788786.jpg",
+            "submission_id": 295884,
+            "total_vote": 323,
+            "votes": {
+                "1": 106,
+                "3": 201,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/25242_mv_1083815438_1684087998113685072.jpg",
+            "submission_id": 351893,
+            "total_vote": 320,
+            "votes": {
+                "10": 2,
+                "11": 13,
+                "12": 13,
+                "13": 24,
+                "21": 128,
+                "22": 42,
+                "24": 8,
+                "7": 1,
+                "8": 2,
+                "9": 87
+            }
+        },
+        "school_name": "MERKEZ İLK/ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 2430,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/9620_bulk_999999999_1684095495102311908.jpg",
+            "submission_id": 503727,
+            "total_vote": 339,
+            "votes": {
+                "1": 103,
+                "2": 1,
+                "3": 223,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/800a4964-bffb-40e2-ad08-4274158be02f-1684105083515193176.jpg",
+            "submission_id": 567681,
+            "total_vote": 333,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 17,
+                "12": 21,
+                "13": 24,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 145,
+                "22": 35,
+                "23": 0,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 5,
+                "8": 0,
+                "9": 79
+            }
+        },
+        "school_name": "MERKEZ İLK/ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 2428,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/31247_cb_1093815446_1684086788136065984.jpg",
+            "submission_id": 311667,
+            "total_vote": 343,
+            "votes": {
+                "1": 84,
+                "2": 2,
+                "3": 234,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/31247_mv_1083815446_1684087288008623740.jpg",
+            "submission_id": 329007,
+            "total_vote": 336,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 26,
+                "12": 8,
+                "13": 32,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 148,
+                "22": 46,
+                "23": 1,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 4,
+                "7": 3,
+                "8": 0,
+                "9": 57
+            }
+        },
+        "school_name": "MERKEZ İLK/ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 2427,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/9620_bulk_999999999_1684099988183627367.jpg",
+            "submission_id": 535248,
+            "total_vote": 332,
+            "votes": {
+                "1": 67,
+                "2": 3,
+                "3": 245,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "MERKEZ İLK/ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 2431,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/9620_bulk_999999999_1684096157458073560.jpg",
+            "submission_id": 509902,
+            "total_vote": 325,
+            "votes": {
+                "1": 113,
+                "3": 198,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "MERKEZ İLK/ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 2434,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/68333_bulk_999999999_1684087212566886714.jpg",
+            "submission_id": 326499,
+            "total_vote": 328,
+            "votes": {
+                "1": 109,
+                "2": 1,
+                "3": 190,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/68333_bulk_999999999_1684087212454026691.jpg",
+            "submission_id": 326492,
+            "total_vote": 324,
+            "votes": {
+                "10": 1,
+                "11": 20,
+                "12": 9,
+                "13": 27,
+                "21": 112,
+                "22": 49,
+                "23": 1,
+                "24": 8,
+                "3": 1,
+                "7": 4,
+                "8": 3,
+                "9": 89
+            }
+        },
+        "school_name": "MERKEZ İLK/ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 2426,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/cd4b3bea-df00-4df7-973b-9fe44fd06e00-1684105086864618672.jpg",
+            "submission_id": 568583,
+            "total_vote": 340,
+            "votes": {
+                "1": 86,
+                "2": 1,
+                "3": 236,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/9620_bulk_999999999_1684140953391568928.jpg",
+            "submission_id": 1018000,
+            "total_vote": 335,
+            "votes": {
+                "10": 5,
+                "11": 26,
+                "12": 17,
+                "13": 32,
+                "14": 2,
+                "15": 1,
+                "20": 1,
+                "21": 144,
+                "22": 39,
+                "23": 1,
+                "24": 5,
+                "3": 2,
+                "7": 3,
+                "8": 1,
+                "9": 56
+            }
+        },
+        "school_name": "MERKEZ İLK/ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 2432,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/24419_cb_1093815450_1684085414893867010.jpg",
+            "submission_id": 266080,
+            "total_vote": 323,
+            "votes": {
+                "1": 104,
+                "3": 198,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "MERKEZ İLK/ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 2417,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/36677_cb_1093815435_1684087194113387056.jpg",
+            "submission_id": 325815,
+            "total_vote": 312,
+            "votes": {
+                "1": 92,
+                "3": 209,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/36677_mv_1083815435_1684087110529453203.jpg",
+            "submission_id": 322939,
+            "total_vote": 299,
+            "votes": {
+                "10": 3,
+                "11": 27,
+                "12": 3,
+                "13": 22,
+                "16": 1,
+                "19": 2,
+                "21": 138,
+                "22": 31,
+                "23": 1,
+                "24": 4,
+                "3": 1,
+                "6": 1,
+                "7": 6,
+                "8": 3,
+                "9": 56
+            }
+        },
+        "school_name": "MERKEZ İLK/ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 2416,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/80bda867-df16-4db1-83c3-bd5e40f2f048-1684105098230263615.jpg",
+            "submission_id": 571027,
+            "total_vote": 311,
+            "votes": {
+                "1": 70,
+                "2": 2,
+                "3": 230,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/9620_bulk_999999999_1684099686275558508.jpg",
+            "submission_id": 533945,
+            "total_vote": 294,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 26,
+                "12": 11,
+                "13": 1,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 158,
+                "22": 38,
+                "23": 2,
+                "24": 4,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 0,
+                "9": 46
+            }
+        },
+        "school_name": "MERKEZ İLK/ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 2424,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/9620_bulk_999999999_1684093591004498671.jpg",
+            "submission_id": 471713,
+            "total_vote": 323,
+            "votes": {
+                "1": 93,
+                "2": 3,
+                "3": 210,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "MERKEZ İLK/ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 2435,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/9620_bulk_999999999_1684094151734081465.jpg",
+            "submission_id": 488540,
+            "total_vote": 346,
+            "votes": {
+                "1": 117,
+                "2": 3,
+                "3": 198,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/36683_bulk_999999999_1684090662735857798.jpg",
+            "submission_id": 424834,
+            "total_vote": 341,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 25,
+                "12": 9,
+                "13": 18,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 125,
+                "22": 47,
+                "23": 0,
+                "24": 15,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 5,
+                "8": 2,
+                "9": 85
+            }
+        },
+        "school_name": "MERKEZ İLK/ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 2419,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/9620_bulk_999999999_1684095666363514084.jpg",
+            "submission_id": 505522,
+            "total_vote": 344,
+            "votes": {
+                "1": 106,
+                "2": 2,
+                "3": 212,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/879ab9f5-7002-419e-b6bb-955e29b2839d-1684105106333493293.jpg",
+            "submission_id": 573059,
+            "total_vote": 339,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 19,
+                "12": 15,
+                "13": 23,
+                "14": 0,
+                "15": 3,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 124,
+                "22": 44,
+                "23": 0,
+                "24": 18,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 8,
+                "8": 4,
+                "9": 75
+            }
+        },
+        "school_name": "MERKEZ İLK/ORTA OKULU"
+    }
+]

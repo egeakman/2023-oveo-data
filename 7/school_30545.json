@@ -1,0 +1,31 @@
+[
+    {
+        "ballot_box_number": 1045,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/73904_cb_1093697639_1684078049761672648.jpg",
+            "submission_id": 173923,
+            "total_vote": 54,
+            "votes": {
+                "1": 36,
+                "3": 15,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/73904_mv_1083697639_1684078434844628606.jpg",
+            "submission_id": 174476,
+            "total_vote": 52,
+            "votes": {
+                "10": 2,
+                "11": 5,
+                "13": 1,
+                "18": 1,
+                "21": 10,
+                "22": 5,
+                "8": 1,
+                "9": 27
+            }
+        },
+        "school_name": "MENTEŞBEY MAH.SOSYAL TESİSLERİ"
+    }
+]

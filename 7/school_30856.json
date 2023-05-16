@@ -1,0 +1,86 @@
+[
+    {
+        "ballot_box_number": 1025,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "MANAVGAT ANADOLU İMAM HATİP LİSESİ(A. PAZARCI MH.İÇİN)"
+    },
+    {
+        "ballot_box_number": 1029,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "MANAVGAT ANADOLU İMAM HATİP LİSESİ(A. PAZARCI MH.İÇİN)"
+    },
+    {
+        "ballot_box_number": 1031,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "MANAVGAT ANADOLU İMAM HATİP LİSESİ(A. PAZARCI MH.İÇİN)"
+    },
+    {
+        "ballot_box_number": 1030,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/27239_cb_1093698104_1684158575891493174.jpg",
+            "submission_id": 1022686,
+            "total_vote": 314,
+            "votes": {
+                "1": 119,
+                "2": 0,
+                "3": 172,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "MANAVGAT ANADOLU İMAM HATİP LİSESİ(A. PAZARCI MH.İÇİN)"
+    },
+    {
+        "ballot_box_number": 1028,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "MANAVGAT ANADOLU İMAM HATİP LİSESİ(A. PAZARCI MH.İÇİN)"
+    },
+    {
+        "ballot_box_number": 1026,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "MANAVGAT ANADOLU İMAM HATİP LİSESİ(A. PAZARCI MH.İÇİN)"
+    },
+    {
+        "ballot_box_number": 1024,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "MANAVGAT ANADOLU İMAM HATİP LİSESİ(A. PAZARCI MH.İÇİN)"
+    },
+    {
+        "ballot_box_number": 1027,
+        "cm_result": {
+            "image_url": "https://source2-secim-images.oyveotesi.org/raw/oscar/8aef3821-2e9b-4521-9461-751181a49526.jpg",
+            "submission_id": 513502,
+            "total_vote": 300,
+            "votes": {
+                "1": 136,
+                "2": 3,
+                "3": 123,
+                "4": 38
+            }
+        },
+        "mv_result": null,
+        "school_name": "MANAVGAT ANADOLU İMAM HATİP LİSESİ(A. PAZARCI MH.İÇİN)"
+    },
+    {
+        "ballot_box_number": 1023,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/27239_bulk_999999999_1684090747561952873.jpg",
+            "submission_id": 426526,
+            "total_vote": 314,
+            "votes": {
+                "1": 143,
+                "2": 2,
+                "3": 163,
+                "4": 6
+            }
+        },
+        "mv_result": null,
+        "school_name": "MANAVGAT ANADOLU İMAM HATİP LİSESİ(A. PAZARCI MH.İÇİN)"
+    }
+]

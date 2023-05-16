@@ -1,0 +1,47 @@
+[
+    {
+        "ballot_box_number": 1037,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/cef8df09-56a0-4a6e-ac40-a56e9d18433b-1684105808791987916.jpg",
+            "submission_id": 699137,
+            "total_vote": 33,
+            "votes": {
+                "1": 16,
+                "3": 12,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c57b8a89-a0ba-4853-84bd-bc5c412b63ae-1684105775780908863.jpg",
+            "submission_id": 693905,
+            "total_vote": 32,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 4,
+                "12": 0,
+                "13": 0,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 8,
+                "22": 6,
+                "23": 0,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 1,
+                "9": 10
+            }
+        },
+        "school_name": "ÇUKURCA İLKÖĞRETİM OKULU"
+    }
+]

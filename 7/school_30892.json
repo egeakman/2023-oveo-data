@@ -1,0 +1,33 @@
+[
+    {
+        "ballot_box_number": 1281,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/63f8847d-012b-4ea3-af55-8ef30f46c51b-1684106536772393967.jpg",
+            "submission_id": 802619,
+            "total_vote": 206,
+            "votes": {
+                "1": 114,
+                "3": 91,
+                "4": 1
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8e51573f-280f-4d57-8d87-4779c6ba6959-1684106533179203201.jpg",
+            "submission_id": 801991,
+            "total_vote": 202,
+            "votes": {
+                "10": 5,
+                "11": 39,
+                "13": 7,
+                "14": 1,
+                "21": 63,
+                "22": 18,
+                "23": 1,
+                "7": 2,
+                "8": 1,
+                "9": 65
+            }
+        },
+        "school_name": "KISALAR MAH. İLKOKULU"
+    }
+]

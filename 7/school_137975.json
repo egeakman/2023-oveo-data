@@ -1,0 +1,35 @@
+[
+    {
+        "ballot_box_number": 1068,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/483067b5-94e7-4694-859a-36a2ddc7c0e4-1684106759885891912.jpeg",
+            "submission_id": 833899,
+            "total_vote": 129,
+            "votes": {
+                "1": 82,
+                "2": 2,
+                "3": 38,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8600b5cf-ec73-477d-a00f-95b3df392fc3-1684106507065524705.jpg",
+            "submission_id": 797613,
+            "total_vote": 128,
+            "votes": {
+                "10": 6,
+                "11": 13,
+                "12": 1,
+                "14": 3,
+                "21": 29,
+                "22": 8,
+                "24": 3,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "9": 61
+            }
+        },
+        "school_name": "DERELİ ESKİ OKUL BİNASI"
+    }
+]

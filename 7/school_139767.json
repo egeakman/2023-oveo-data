@@ -1,0 +1,34 @@
+[
+    {
+        "ballot_box_number": 1002,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/63d3dcbf-f8d3-4a53-b071-9a63e3977c38-1684105174012814212.jpg",
+            "submission_id": 590131,
+            "total_vote": 306,
+            "votes": {
+                "1": 186,
+                "2": 4,
+                "3": 95,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "AYDINCIK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1003,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0c4c141c-4502-43ef-b944-cc11adca2e8e-1684105166772833244.jpg",
+            "submission_id": 588330,
+            "total_vote": 291,
+            "votes": {
+                "1": 147,
+                "2": 3,
+                "3": 135,
+                "4": 6
+            }
+        },
+        "mv_result": null,
+        "school_name": "AYDINCIK İLKOKULU"
+    }
+]

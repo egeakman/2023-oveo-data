@@ -1,0 +1,115 @@
+[
+    {
+        "ballot_box_number": 1055,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e9fe4155-b778-4869-a7b1-6a51143f1726-1684105281421408732.jpg",
+            "submission_id": 611646,
+            "total_vote": 257,
+            "votes": {
+                "1": 151,
+                "2": 6,
+                "3": 85,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇAYKÖY İLKÖĞRETİM OKULU"
+    },
+    {
+        "ballot_box_number": 1054,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ad357e9e-d7c1-4656-b927-05585331b6b5-1684106369283935784.jpg",
+            "submission_id": 778445,
+            "total_vote": 241,
+            "votes": {
+                "1": 149,
+                "2": 4,
+                "3": 77,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ae726790-45a5-4f9f-a4e0-ee257c38a515-1684106379623587463.jpg",
+            "submission_id": 780131,
+            "total_vote": 240,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 35,
+                "12": 3,
+                "13": 3,
+                "14": 1,
+                "15": 4,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 45,
+                "22": 27,
+                "23": 2,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 2,
+                "9": 106
+            }
+        },
+        "school_name": "ÇAYKÖY İLKÖĞRETİM OKULU"
+    },
+    {
+        "ballot_box_number": 1053,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0cb81141-61f1-4134-a56d-86ac7f080298-1684105268978357545.jpg",
+            "submission_id": 609182,
+            "total_vote": 258,
+            "votes": {
+                "1": 167,
+                "2": 2,
+                "3": 82,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/baf0c53f-f9a0-4328-9355-6930fd86927c-1684105267493051417.jpg",
+            "submission_id": 609088,
+            "total_vote": 255,
+            "votes": {
+                "10": 1,
+                "11": 29,
+                "12": 1,
+                "13": 1,
+                "14": 1,
+                "17": 2,
+                "19": 2,
+                "21": 60,
+                "22": 24,
+                "23": 1,
+                "24": 1,
+                "7": 4,
+                "9": 128
+            }
+        },
+        "school_name": "ÇAYKÖY İLKÖĞRETİM OKULU"
+    },
+    {
+        "ballot_box_number": 1052,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ed38e80a-3f12-4152-a4f1-fbaf9a4ca871-1684105278192415153.jpg",
+            "submission_id": 610571,
+            "total_vote": 216,
+            "votes": {
+                "1": 151,
+                "2": 7,
+                "3": 50,
+                "4": 8
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇAYKÖY İLKÖĞRETİM OKULU"
+    }
+]

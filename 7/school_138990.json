@@ -1,0 +1,884 @@
+[
+    {
+        "ballot_box_number": 1186,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/17000_bulk_999999999_1684083632852024612.png",
+            "submission_id": 220407,
+            "total_vote": 321,
+            "votes": {
+                "1": 92,
+                "3": 210,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/17000_bulk_999999999_1684083579212424830.png",
+            "submission_id": 219358,
+            "total_vote": 315,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 20,
+                "12": 14,
+                "13": 27,
+                "18": 1,
+                "21": 141,
+                "22": 31,
+                "23": 1,
+                "24": 10,
+                "7": 2,
+                "9": 64
+            }
+        },
+        "school_name": "GÜZELOBA İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1193,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/29822_cb_1093702767_1684099721175056119.jpeg",
+            "submission_id": 534104,
+            "total_vote": 304,
+            "votes": {
+                "1": 78,
+                "3": 205,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "GÜZELOBA İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1177,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/29822_cb_1093702171_1684089317364998760.jpg",
+            "submission_id": 391329,
+            "total_vote": 314,
+            "votes": {
+                "1": 92,
+                "2": 1,
+                "3": 203,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/47547_bulk_999999999_1684089976645047819.jpg",
+            "submission_id": 409125,
+            "total_vote": 305,
+            "votes": {
+                "10": 2,
+                "11": 13,
+                "12": 12,
+                "13": 30,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "2": 0,
+                "20": 0,
+                "21": 129,
+                "22": 27,
+                "23": 0,
+                "24": 8,
+                "3": 3,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 8,
+                "8": 1,
+                "9": 71
+            }
+        },
+        "school_name": "GÜZELOBA İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1194,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/29822_bulk_999999999_1684095934203830414.jpg",
+            "submission_id": 508098,
+            "total_vote": 317,
+            "votes": {
+                "1": 97,
+                "3": 196,
+                "4": 24
+            }
+        },
+        "mv_result": null,
+        "school_name": "GÜZELOBA İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1195,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/17000_bulk_999999999_1684086760779668336.png",
+            "submission_id": 310699,
+            "total_vote": 327,
+            "votes": {
+                "1": 99,
+                "2": 2,
+                "3": 202,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/17000_bulk_999999999_1684086795940507850.png",
+            "submission_id": 311932,
+            "total_vote": 321,
+            "votes": {
+                "10": 5,
+                "11": 19,
+                "12": 2,
+                "13": 16,
+                "21": 124,
+                "22": 57,
+                "24": 15,
+                "6": 2,
+                "7": 5,
+                "8": 2,
+                "9": 74
+            }
+        },
+        "school_name": "GÜZELOBA İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1176,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/17000_cb_1093702170_1684094180135218936.jpg",
+            "submission_id": 488884,
+            "total_vote": 319,
+            "votes": {
+                "1": 87,
+                "2": 1,
+                "3": 215,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/57165_mv_1083702170_1684093458096545815.jpg",
+            "submission_id": 470111,
+            "total_vote": 314,
+            "votes": {
+                "10": 1,
+                "11": 21,
+                "12": 0,
+                "13": 74,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 149,
+                "22": 0,
+                "23": 0,
+                "24": 0,
+                "3": 4,
+                "4": 0,
+                "5": 1,
+                "6": 3,
+                "7": 2,
+                "8": 0,
+                "9": 58
+            }
+        },
+        "school_name": "GÜZELOBA İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1199,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/17000_bulk_999999999_1684084083402861600.png",
+            "submission_id": 229976,
+            "total_vote": 319,
+            "votes": {
+                "1": 77,
+                "3": 232,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "GÜZELOBA İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1178,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/29822_cb_1093702172_1684087809461734020.jpg",
+            "submission_id": 345872,
+            "total_vote": 322,
+            "votes": {
+                "1": 85,
+                "2": 2,
+                "3": 221,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/17000_mv_1083702172_1684091192296007319.jpg",
+            "submission_id": 435696,
+            "total_vote": 320,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 18,
+                "12": 13,
+                "13": 31,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 133,
+                "22": 37,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 7,
+                "8": 2,
+                "9": 66
+            }
+        },
+        "school_name": "GÜZELOBA İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1187,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/17000_bulk_999999999_1684083911444737235.jpeg",
+            "submission_id": 226295,
+            "total_vote": 315,
+            "votes": {
+                "1": 96,
+                "2": 1,
+                "3": 203,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/17000_mv_1083702761_1684091488554819996.jpg",
+            "submission_id": 441002,
+            "total_vote": 310,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 10,
+                "12": 14,
+                "13": 31,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 2,
+                "21": 127,
+                "22": 30,
+                "23": 1,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 3,
+                "8": 2,
+                "9": 75
+            }
+        },
+        "school_name": "GÜZELOBA İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1198,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/17000_bulk_999999999_1684087145811470495.png",
+            "submission_id": 324125,
+            "total_vote": 319,
+            "votes": {
+                "1": 102,
+                "2": 1,
+                "3": 205,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/17000_bulk_999999999_1684087230682917237.jpeg",
+            "submission_id": 327067,
+            "total_vote": 314,
+            "votes": {
+                "10": 2,
+                "11": 21,
+                "12": 3,
+                "13": 25,
+                "15": 1,
+                "2": 1,
+                "21": 146,
+                "22": 29,
+                "24": 7,
+                "6": 1,
+                "7": 5,
+                "8": 2,
+                "9": 71
+            }
+        },
+        "school_name": "GÜZELOBA İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1173,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/29822_cb_1093702167_1684086284152652058.jpg",
+            "submission_id": 294203,
+            "total_vote": 276,
+            "votes": {
+                "1": 61,
+                "2": 3,
+                "3": 209,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/29822_mv_1083702167_1684088803356528302.jpg",
+            "submission_id": 376709,
+            "total_vote": 272,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 6,
+                "12": 5,
+                "13": 17,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 3,
+                "2": 2,
+                "20": 1,
+                "21": 147,
+                "22": 36,
+                "23": 0,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 0,
+                "9": 42
+            }
+        },
+        "school_name": "GÜZELOBA İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1185,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/29822_cb_1093702759_1684087992347507492.jpg",
+            "submission_id": 351704,
+            "total_vote": 327,
+            "votes": {
+                "1": 77,
+                "2": 1,
+                "3": 241,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/572bc5c6-01e6-49df-8a19-57470675d3ca-1684105962450691251.jpg",
+            "submission_id": 719304,
+            "total_vote": 326,
+            "votes": {
+                "10": 2,
+                "11": 20,
+                "12": 9,
+                "13": 33,
+                "15": 1,
+                "21": 147,
+                "22": 48,
+                "24": 7,
+                "3": 3,
+                "6": 1,
+                "8": 1,
+                "9": 54
+            }
+        },
+        "school_name": "GÜZELOBA İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1197,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/29822_cb_1093702771_1684088081055208630.jpg",
+            "submission_id": 354613,
+            "total_vote": 307,
+            "votes": {
+                "1": 81,
+                "2": 1,
+                "3": 210,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "GÜZELOBA İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1179,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/29822_cb_1093702173_1684097195213265393.jpeg",
+            "submission_id": 518948,
+            "total_vote": 314,
+            "votes": {
+                "1": 93,
+                "2": 2,
+                "3": 205,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/29822_cb_1093702173_1684096799195418443.jpeg",
+            "submission_id": 515912,
+            "total_vote": 361,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 46,
+                "12": 5,
+                "13": 26,
+                "14": 0,
+                "15": 9,
+                "16": 9,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 142,
+                "22": 33,
+                "23": 0,
+                "24": 3,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 9,
+                "7": 1,
+                "8": 0,
+                "9": 74
+            }
+        },
+        "school_name": "GÜZELOBA İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1174,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/57128_cb_1093702168_1684080693202916116.jpg",
+            "submission_id": 183191,
+            "total_vote": 284,
+            "votes": {
+                "1": 83,
+                "2": 3,
+                "3": 189,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/17000_bulk_999999999_1684085336586454844.png",
+            "submission_id": 263774,
+            "total_vote": 276,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 15,
+                "12": 2,
+                "13": 8,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 1,
+                "2": 1,
+                "20": 0,
+                "21": 147,
+                "22": 23,
+                "23": 0,
+                "24": 2,
+                "3": 3,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 1,
+                "9": 62
+            }
+        },
+        "school_name": "GÜZELOBA İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1189,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/29822_cb_1093702763_1684100352015943497.jpeg",
+            "submission_id": 536731,
+            "total_vote": 327,
+            "votes": {
+                "1": 85,
+                "2": 0,
+                "3": 225,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "GÜZELOBA İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1175,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/10047_cb_1093702169_1684090473530621333.jpg",
+            "submission_id": 420719,
+            "total_vote": 295,
+            "votes": {
+                "1": 84,
+                "2": 1,
+                "3": 201,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/10047_mv_1083702169_1684090652602366557.jpg",
+            "submission_id": 424620,
+            "total_vote": 291,
+            "votes": {
+                "10": 1,
+                "11": 19,
+                "12": 5,
+                "13": 32,
+                "21": 131,
+                "22": 26,
+                "23": 1,
+                "24": 10,
+                "7": 5,
+                "8": 4,
+                "9": 57
+            }
+        },
+        "school_name": "GÜZELOBA İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1172,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/29822_cb_1093702166_1684087647491321517.jpg",
+            "submission_id": 340659,
+            "total_vote": 307,
+            "votes": {
+                "1": 128,
+                "2": 2,
+                "3": 166,
+                "4": 11
+            }
+        },
+        "mv_result": null,
+        "school_name": "GÜZELOBA İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1196,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/54f079e8-b1f1-4d47-8da5-955ab1b1ef60-1684105775947752352.jpg",
+            "submission_id": 693397,
+            "total_vote": 329,
+            "votes": {
+                "1": 90,
+                "3": 213,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/17000_bulk_999999999_1684092937304426508.png",
+            "submission_id": 463097,
+            "total_vote": 325,
+            "votes": {
+                "10": 2,
+                "11": 15,
+                "12": 13,
+                "13": 27,
+                "14": 1,
+                "20": 1,
+                "21": 141,
+                "22": 36,
+                "23": 2,
+                "24": 13,
+                "7": 3,
+                "8": 1,
+                "9": 70
+            }
+        },
+        "school_name": "GÜZELOBA İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1180,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/16804_bulk_999999999_1684083236222361509.jpeg",
+            "submission_id": 212793,
+            "total_vote": 319,
+            "votes": {
+                "1": 74,
+                "2": 2,
+                "3": 223,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/16804_bulk_999999999_1684084743867691841.jpeg",
+            "submission_id": 247057,
+            "total_vote": 311,
+            "votes": {
+                "10": 3,
+                "11": 12,
+                "12": 3,
+                "13": 34,
+                "21": 149,
+                "22": 41,
+                "23": 1,
+                "24": 4,
+                "6": 2,
+                "7": 2,
+                "9": 60
+            }
+        },
+        "school_name": "GÜZELOBA İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1188,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/29822_cb_1093702762_1684090578419350356.jpg",
+            "submission_id": 423216,
+            "total_vote": 311,
+            "votes": {
+                "1": 70,
+                "2": 1,
+                "3": 232,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/29822_mv_1083702762_1684090638912317753.jpg",
+            "submission_id": 424322,
+            "total_vote": 308,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 14,
+                "12": 16,
+                "13": 30,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 167,
+                "22": 19,
+                "23": 0,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 3,
+                "8": 1,
+                "9": 51
+            }
+        },
+        "school_name": "GÜZELOBA İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1192,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/29822_cb_1093702766_1684087363336395079.jpg",
+            "submission_id": 331456,
+            "total_vote": 308,
+            "votes": {
+                "1": 91,
+                "2": 2,
+                "3": 200,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "GÜZELOBA İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1181,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/17000_bulk_999999999_1684084148655954603.png",
+            "submission_id": 231502,
+            "total_vote": 324,
+            "votes": {
+                "1": 70,
+                "3": 239,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/17000_mv_1083702755_1684090772193514766.jpg",
+            "submission_id": 427132,
+            "total_vote": 315,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 11,
+                "14": 36,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 134,
+                "23": 76,
+                "24": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 3,
+                "8": 1,
+                "9": 52
+            }
+        },
+        "school_name": "GÜZELOBA İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1183,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/29822_cb_1093702757_1684097004512297613.jpeg",
+            "submission_id": 517586,
+            "total_vote": 329,
+            "votes": {
+                "1": 91,
+                "2": 2,
+                "3": 215,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "GÜZELOBA İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1191,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/57165_bulk_999999999_1684080141122219702.jpg",
+            "submission_id": 179987,
+            "total_vote": 320,
+            "votes": {
+                "1": 86,
+                "2": 1,
+                "3": 221,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "GÜZELOBA İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1182,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/17000_bulk_999999999_1684083992735816629.png",
+            "submission_id": 227951,
+            "total_vote": 314,
+            "votes": {
+                "1": 88,
+                "2": 3,
+                "3": 207,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "GÜZELOBA İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1200,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/29822_cb_1093702774_1684089841837951766.jpg",
+            "submission_id": 405574,
+            "total_vote": 355,
+            "votes": {
+                "1": 98,
+                "2": 3,
+                "3": 226,
+                "4": 28
+            }
+        },
+        "mv_result": null,
+        "school_name": "GÜZELOBA İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1184,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/12116_cb_1093702758_1684078888234144619.jpg",
+            "submission_id": 175414,
+            "total_vote": 321,
+            "votes": {
+                "1": 82,
+                "3": 225,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/12116_mv_1083702758_1684085018681420869.jpg",
+            "submission_id": 254705,
+            "total_vote": 315,
+            "votes": {
+                "11": 18,
+                "12": 2,
+                "13": 36,
+                "14": 1,
+                "15": 2,
+                "21": 134,
+                "22": 48,
+                "24": 11,
+                "6": 1,
+                "7": 8,
+                "9": 54
+            }
+        },
+        "school_name": "GÜZELOBA İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1190,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/17000_bulk_999999999_1684088605932380647.jpeg",
+            "submission_id": 370785,
+            "total_vote": 323,
+            "votes": {
+                "1": 88,
+                "2": 1,
+                "3": 214,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/17000_bulk_999999999_1684088383333727940.jpeg",
+            "submission_id": 363863,
+            "total_vote": 320,
+            "votes": {
+                "1": 2,
+                "10": 1,
+                "11": 25,
+                "13": 34,
+                "18": 1,
+                "21": 130,
+                "22": 55,
+                "23": 1,
+                "24": 2,
+                "4": 1,
+                "6": 4,
+                "7": 9,
+                "8": 2,
+                "9": 53
+            }
+        },
+        "school_name": "GÜZELOBA İLK OKULU"
+    }
+]

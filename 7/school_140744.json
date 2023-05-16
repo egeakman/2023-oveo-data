@@ -1,0 +1,34 @@
+[
+    {
+        "ballot_box_number": 1033,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c2ce085c-51dc-4f02-b9c0-486b8fb7c24f-1684105093798031114.jpg",
+            "submission_id": 570441,
+            "total_vote": 125,
+            "votes": {
+                "1": 35,
+                "2": 1,
+                "3": 80,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source2-secim-images.oyveotesi.org/raw/Photos-001 (12)/71a24630-6cc4-4b77-b10b-3e3afe8e4453.jpg",
+            "submission_id": 1009196,
+            "total_vote": 122,
+            "votes": {
+                "11": 11,
+                "12": 3,
+                "14": 1,
+                "18": 1,
+                "19": 1,
+                "21": 69,
+                "22": 5,
+                "24": 1,
+                "7": 5,
+                "9": 25
+            }
+        },
+        "school_name": "ÇİLE İ.Ö.O."
+    }
+]

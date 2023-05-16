@@ -1,0 +1,52 @@
+[
+    {
+        "ballot_box_number": 1068,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/77609_bulk_999999999_1684086943311788610.jpeg",
+            "submission_id": 316966,
+            "total_vote": 286,
+            "votes": {
+                "1": 108,
+                "2": 0,
+                "3": 174,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/77609_bulk_999999999_1684086943340699216.jpeg",
+            "submission_id": 316969,
+            "total_vote": 275,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 28,
+                "12": 12,
+                "13": 32,
+                "15": 2,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 110,
+                "22": 9,
+                "23": 0,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 1,
+                "7": 0,
+                "8": 0,
+                "9": 75
+            }
+        },
+        "school_name": "HIZIRKAHYA DÜĞÜN SALONU"
+    },
+    {
+        "ballot_box_number": 1067,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "HIZIRKAHYA DÜĞÜN SALONU"
+    }
+]

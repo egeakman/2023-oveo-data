@@ -1,0 +1,286 @@
+[
+    {
+        "ballot_box_number": 2509,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/64712_bulk_999999999_1684096395501970596.jpeg",
+            "submission_id": 512234,
+            "total_vote": 320,
+            "votes": {
+                "1": 77,
+                "2": 1,
+                "3": 227,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/42208_mv_1083816327_1684098263383459162.jpg",
+            "submission_id": 526170,
+            "total_vote": 321,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 12,
+                "12": 15,
+                "13": 29,
+                "14": 0,
+                "15": 1,
+                "17": 0,
+                "19": 2,
+                "2": 0,
+                "21": 133,
+                "22": 45,
+                "23": 0,
+                "24": 13,
+                "3": 4,
+                "4": 1,
+                "5": 1,
+                "6": 2,
+                "7": 4,
+                "8": 0,
+                "9": 54
+            }
+        },
+        "school_name": "ERTUĞRUL GAZİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2507,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/64712_bulk_999999999_1684099083633979702.jpeg",
+            "submission_id": 531154,
+            "total_vote": 337,
+            "votes": {
+                "1": 92,
+                "2": 1,
+                "3": 222,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "ERTUĞRUL GAZİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2505,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/42208_cb_1093816323_1684097533797922593.jpg",
+            "submission_id": 521371,
+            "total_vote": 326,
+            "votes": {
+                "1": 85,
+                "3": 223,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "ERTUĞRUL GAZİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2506,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0a57b61b-d019-45b1-8f8c-3fe9edc50b5d-1684105585217363930.jpg",
+            "submission_id": 662989,
+            "total_vote": 332,
+            "votes": {
+                "1": 89,
+                "2": 1,
+                "3": 224,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5ac6a744-ea62-4975-83bb-7eaed3e15062-1684105451935707559.jpg",
+            "submission_id": 642169,
+            "total_vote": 328,
+            "votes": {
+                "11": 10,
+                "12": 16,
+                "13": 25,
+                "21": 137,
+                "22": 43,
+                "24": 17,
+                "3": 1,
+                "7": 3,
+                "8": 1,
+                "9": 75
+            }
+        },
+        "school_name": "ERTUĞRUL GAZİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2504,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/42208_cb_1093816322_1684097495074621759.jpg",
+            "submission_id": 521133,
+            "total_vote": 322,
+            "votes": {
+                "1": 75,
+                "2": 1,
+                "3": 230,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/42208_mv_1083816322_1684097762162966340.jpg",
+            "submission_id": 522908,
+            "total_vote": 313,
+            "votes": {
+                "10": 2,
+                "11": 16,
+                "12": 8,
+                "13": 19,
+                "15": 1,
+                "18": 1,
+                "20": 1,
+                "21": 140,
+                "22": 53,
+                "24": 7,
+                "3": 3,
+                "4": 1,
+                "6": 1,
+                "7": 4,
+                "8": 2,
+                "9": 54
+            }
+        },
+        "school_name": "ERTUĞRUL GAZİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2503,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/42208_cb_1093816321_1684096750815964128.jpeg",
+            "submission_id": 515468,
+            "total_vote": 291,
+            "votes": {
+                "1": 89,
+                "2": 1,
+                "3": 192,
+                "4": 9
+            }
+        },
+        "mv_result": null,
+        "school_name": "ERTUĞRUL GAZİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2511,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/84218_cb_1093816329_1684084831895098577.jpg",
+            "submission_id": 249376,
+            "total_vote": 337,
+            "votes": {
+                "1": 100,
+                "2": 0,
+                "3": 224,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "ERTUĞRUL GAZİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2512,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/64733_bulk_999999999_1684084759411657926.jpeg",
+            "submission_id": 247459,
+            "total_vote": 341,
+            "votes": {
+                "1": 80,
+                "2": 0,
+                "3": 241,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/64733_bulk_999999999_1684086717899182080.jpeg",
+            "submission_id": 309189,
+            "total_vote": 338,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 20,
+                "12": 18,
+                "13": 26,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 144,
+                "22": 58,
+                "23": 1,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 2,
+                "9": 51
+            }
+        },
+        "school_name": "ERTUĞRUL GAZİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2510,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/64712_bulk_999999999_1684099083935562266.jpeg",
+            "submission_id": 531156,
+            "total_vote": 335,
+            "votes": {
+                "1": 76,
+                "2": 2,
+                "3": 235,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9e6a6b79-eb72-4e40-a5c3-3e218f89b4fa-1684105790639918043.jpg",
+            "submission_id": 696698,
+            "total_vote": 331,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 16,
+                "12": 5,
+                "13": 19,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 164,
+                "22": 46,
+                "23": 1,
+                "24": 13,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 2,
+                "9": 59
+            }
+        },
+        "school_name": "ERTUĞRUL GAZİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2508,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ba6df8a8-019d-4e2e-8a21-77ab8e505d4b-1684105329825854604.jpg",
+            "submission_id": 620085,
+            "total_vote": 330,
+            "votes": {
+                "1": 95,
+                "2": 1,
+                "3": 220,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "ERTUĞRUL GAZİ İLKOKULU"
+    }
+]

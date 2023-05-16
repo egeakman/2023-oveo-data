@@ -1,0 +1,121 @@
+[
+    {
+        "ballot_box_number": 1123,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/28957_cb_1093700257_1684088459023496005.jpg",
+            "submission_id": 366196,
+            "total_vote": 309,
+            "votes": {
+                "1": 127,
+                "2": 3,
+                "3": 163,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/28957_mv_1083700257_1684088709167683900.jpg",
+            "submission_id": 373964,
+            "total_vote": 291,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 14,
+                "12": 1,
+                "13": 8,
+                "14": 3,
+                "15": 1,
+                "16": 0,
+                "17": 2,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 131,
+                "22": 30,
+                "23": 0,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 3,
+                "9": 87
+            }
+        },
+        "school_name": "KAHYALAR ASARCIK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1124,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/28957_cb_1093700258_1684088822031863934.jpg",
+            "submission_id": 377257,
+            "total_vote": 316,
+            "votes": {
+                "1": 123,
+                "2": 4,
+                "3": 176,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/28957_cb_1093700258_1684088779347497015.jpg",
+            "submission_id": 376045,
+            "total_vote": 311,
+            "votes": {
+                "10": 1,
+                "11": 27,
+                "12": 2,
+                "13": 7,
+                "15": 1,
+                "21": 142,
+                "22": 21,
+                "23": 2,
+                "24": 11,
+                "6": 1,
+                "7": 8,
+                "8": 3,
+                "9": 85
+            }
+        },
+        "school_name": "KAHYALAR ASARCIK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1122,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/28957_cb_1093700256_1684084867568089910.jpg",
+            "submission_id": 250386,
+            "total_vote": 292,
+            "votes": {
+                "1": 135,
+                "2": 2,
+                "3": 147,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/28957_mv_1083700256_1684088343253722102.jpg",
+            "submission_id": 362600,
+            "total_vote": 278,
+            "votes": {
+                "10": 3,
+                "11": 23,
+                "12": 8,
+                "13": 3,
+                "15": 1,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "20": 0,
+                "21": 114,
+                "22": 15,
+                "23": 1,
+                "24": 4,
+                "7": 2,
+                "8": 1,
+                "9": 102
+            }
+        },
+        "school_name": "KAHYALAR ASARCIK İLKOKULU"
+    }
+]

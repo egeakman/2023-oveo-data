@@ -1,0 +1,48 @@
+[
+    {
+        "ballot_box_number": 1006,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/29392_bulk_999999999_1684096581211107634.jpg",
+            "submission_id": 513878,
+            "total_vote": 230,
+            "votes": {
+                "1": 87,
+                "2": 3,
+                "3": 120,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/29392_bulk_999999999_1684096581302318104.jpg",
+            "submission_id": 513879,
+            "total_vote": 219,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 14,
+                "12": 2,
+                "13": 4,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 95,
+                "22": 17,
+                "23": 0,
+                "24": 8,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 10,
+                "8": 3,
+                "9": 62
+            }
+        },
+        "school_name": "AKSEKİ ŞAHİNLER ÇOK PROGRAMLI LİSE"
+    }
+]

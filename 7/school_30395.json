@@ -1,0 +1,48 @@
+[
+    {
+        "ballot_box_number": 1055,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/86f29889-d542-47f3-8126-ef945e1a5f42-1684105567274497727.jpg",
+            "submission_id": 660488,
+            "total_vote": 131,
+            "votes": {
+                "1": 69,
+                "2": 3,
+                "3": 52,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/764b4c5e-0ce2-4dae-a081-ba2524e332cb-1684105563570183775.jpg",
+            "submission_id": 660015,
+            "total_vote": 123,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 12,
+                "12": 0,
+                "13": 0,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 25,
+                "22": 22,
+                "23": 0,
+                "24": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 3,
+                "9": 55
+            }
+        },
+        "school_name": "KARATAŞ İLKÖĞRETİM OKULU"
+    }
+]

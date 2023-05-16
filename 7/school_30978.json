@@ -1,0 +1,884 @@
+[
+    {
+        "ballot_box_number": 1260,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/12524_bulk_999999999_1684087958542673645.jpg",
+            "submission_id": 350530,
+            "total_vote": 323,
+            "votes": {
+                "1": 114,
+                "2": 1,
+                "3": 188,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/12524_bulk_999999999_1684134837295376855.jpg",
+            "submission_id": 1015816,
+            "total_vote": 315,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 18,
+                "12": 9,
+                "13": 25,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 114,
+                "22": 42,
+                "23": 0,
+                "24": 14,
+                "3": 0,
+                "4": 2,
+                "5": 1,
+                "6": 0,
+                "7": 2,
+                "8": 1,
+                "9": 80
+            }
+        },
+        "school_name": "(ULUS MAH) ÇAĞLAYAN ANADOLU LİSESİ(ÖZGÜRLÜK MAH.'DE)"
+    },
+    {
+        "ballot_box_number": 1251,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/12524_bulk_999999999_1684084572453366251.jpg",
+            "submission_id": 242380,
+            "total_vote": 340,
+            "votes": {
+                "1": 121,
+                "2": 2,
+                "3": 187,
+                "4": 30
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/12524_bulk_999999999_1684084606469636284.jpg",
+            "submission_id": 243295,
+            "total_vote": 346,
+            "votes": {
+                "1": 0,
+                "10": 10,
+                "11": 22,
+                "12": 6,
+                "13": 17,
+                "14": 1,
+                "15": 5,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 119,
+                "22": 52,
+                "23": 0,
+                "24": 13,
+                "3": 3,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 6,
+                "8": 0,
+                "9": 89
+            }
+        },
+        "school_name": "(ULUS MAH) ÇAĞLAYAN ANADOLU LİSESİ(ÖZGÜRLÜK MAH.'DE)"
+    },
+    {
+        "ballot_box_number": 1258,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/75880_cb_1093704838_1684087319168256721.jpg",
+            "submission_id": 330023,
+            "total_vote": 305,
+            "votes": {
+                "1": 98,
+                "3": 182,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c7ee454e-4619-4bc6-a929-be9cbca41c1c-1684106023138252896.jpeg",
+            "submission_id": 727506,
+            "total_vote": 302,
+            "votes": {
+                "10": 9,
+                "11": 13,
+                "12": 14,
+                "13": 15,
+                "17": 1,
+                "21": 107,
+                "22": 45,
+                "24": 14,
+                "7": 7,
+                "8": 1,
+                "9": 76
+            }
+        },
+        "school_name": "(ULUS MAH) ÇAĞLAYAN ANADOLU LİSESİ(ÖZGÜRLÜK MAH.'DE)"
+    },
+    {
+        "ballot_box_number": 1244,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/50477_cb_1093704244_1684083750310228484.jpg",
+            "submission_id": 222916,
+            "total_vote": 296,
+            "votes": {
+                "1": 93,
+                "2": 2,
+                "3": 186,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/50477_mv_1083704244_1684083787994271144.jpg",
+            "submission_id": 223747,
+            "total_vote": 284,
+            "votes": {
+                "10": 6,
+                "11": 15,
+                "12": 6,
+                "13": 7,
+                "15": 1,
+                "20": 1,
+                "21": 124,
+                "22": 45,
+                "24": 6,
+                "6": 1,
+                "7": 3,
+                "9": 69
+            }
+        },
+        "school_name": "(ULUS MAH) ÇAĞLAYAN ANADOLU LİSESİ(ÖZGÜRLÜK MAH.'DE)"
+    },
+    {
+        "ballot_box_number": 1242,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/32920_cb_1093704242_1684082145855910689.jpg",
+            "submission_id": 196411,
+            "total_vote": 286,
+            "votes": {
+                "1": 124,
+                "2": 2,
+                "3": 149,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/32920_mv_1083704242_1684082208433224836.jpg",
+            "submission_id": 197170,
+            "total_vote": 283,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 14,
+                "12": 2,
+                "13": 5,
+                "14": 1,
+                "15": 3,
+                "21": 108,
+                "22": 38,
+                "23": 1,
+                "24": 6,
+                "3": 2,
+                "6": 1,
+                "7": 1,
+                "9": 98
+            }
+        },
+        "school_name": "(ULUS MAH) ÇAĞLAYAN ANADOLU LİSESİ(ÖZGÜRLÜK MAH.'DE)"
+    },
+    {
+        "ballot_box_number": 1259,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/75912_cb_1093704839_1684085389069840564.jpg",
+            "submission_id": 265363,
+            "total_vote": 329,
+            "votes": {
+                "1": 105,
+                "2": 1,
+                "3": 195,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/75912_mv_1083704839_1684084462388120214.jpg",
+            "submission_id": 239532,
+            "total_vote": 325,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 25,
+                "12": 12,
+                "13": 24,
+                "14": 0,
+                "15": 3,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 115,
+                "22": 45,
+                "23": 3,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 5,
+                "8": 2,
+                "9": 73
+            }
+        },
+        "school_name": "(ULUS MAH) ÇAĞLAYAN ANADOLU LİSESİ(ÖZGÜRLÜK MAH.'DE)"
+    },
+    {
+        "ballot_box_number": 1253,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/12524_bulk_999999999_1684087766191139048.jpg",
+            "submission_id": 344540,
+            "total_vote": 331,
+            "votes": {
+                "1": 135,
+                "2": 1,
+                "3": 165,
+                "4": 30
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/32920_bulk_999999999_1684092946156513220.jpeg",
+            "submission_id": 463214,
+            "total_vote": 329,
+            "votes": {
+                "1": 2,
+                "10": 5,
+                "11": 20,
+                "12": 11,
+                "13": 15,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 105,
+                "22": 42,
+                "23": 1,
+                "24": 15,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 2,
+                "9": 108
+            }
+        },
+        "school_name": "(ULUS MAH) ÇAĞLAYAN ANADOLU LİSESİ(ÖZGÜRLÜK MAH.'DE)"
+    },
+    {
+        "ballot_box_number": 1248,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/12524_bulk_999999999_1684085790768382479.jpg",
+            "submission_id": 278107,
+            "total_vote": 319,
+            "votes": {
+                "1": 102,
+                "2": 1,
+                "3": 190,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/50477_mv_1083704248_1684088997287190926.jpg",
+            "submission_id": 382473,
+            "total_vote": 315,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 18,
+                "12": 19,
+                "13": 13,
+                "21": 114,
+                "22": 46,
+                "24": 7,
+                "6": 5,
+                "7": 5,
+                "8": 1,
+                "9": 84
+            }
+        },
+        "school_name": "(ULUS MAH) ÇAĞLAYAN ANADOLU LİSESİ(ÖZGÜRLÜK MAH.'DE)"
+    },
+    {
+        "ballot_box_number": 1243,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/43908_cb_1093704243_1684089404206455125.jpg",
+            "submission_id": 393556,
+            "total_vote": 309,
+            "votes": {
+                "1": 84,
+                "2": 3,
+                "3": 205,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "(ULUS MAH) ÇAĞLAYAN ANADOLU LİSESİ(ÖZGÜRLÜK MAH.'DE)"
+    },
+    {
+        "ballot_box_number": 1262,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/12524_bulk_999999999_1684082100113285693.jpg",
+            "submission_id": 195848,
+            "total_vote": 318,
+            "votes": {
+                "1": 109,
+                "2": 6,
+                "3": 168,
+                "4": 35
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/12524_bulk_999999999_1684135525618414703.jpg",
+            "submission_id": 1016279,
+            "total_vote": 318,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 25,
+                "12": 11,
+                "13": 10,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 117,
+                "22": 40,
+                "23": 0,
+                "24": 18,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 7,
+                "8": 3,
+                "9": 81
+            }
+        },
+        "school_name": "(ULUS MAH) ÇAĞLAYAN ANADOLU LİSESİ(ÖZGÜRLÜK MAH.'DE)"
+    },
+    {
+        "ballot_box_number": 1254,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/12524_bulk_999999999_1684084862829713123.jpg",
+            "submission_id": 250252,
+            "total_vote": 318,
+            "votes": {
+                "1": 104,
+                "2": 2,
+                "3": 186,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/12524_bulk_999999999_1684084407722510913.jpg",
+            "submission_id": 238211,
+            "total_vote": 311,
+            "votes": {
+                "1": 3,
+                "10": 4,
+                "11": 22,
+                "12": 15,
+                "13": 22,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 109,
+                "22": 44,
+                "23": 0,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 7,
+                "8": 3,
+                "9": 71
+            }
+        },
+        "school_name": "(ULUS MAH) ÇAĞLAYAN ANADOLU LİSESİ(ÖZGÜRLÜK MAH.'DE)"
+    },
+    {
+        "ballot_box_number": 1247,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/50477_cb_1093704247_1684088666094946691.jpg",
+            "submission_id": 372706,
+            "total_vote": 341,
+            "votes": {
+                "1": 120,
+                "2": 2,
+                "3": 197,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/50477_mv_1083704247_1684088829347232111.jpg",
+            "submission_id": 377438,
+            "total_vote": 334,
+            "votes": {
+                "10": 3,
+                "11": 21,
+                "12": 12,
+                "13": 20,
+                "19": 1,
+                "20": 2,
+                "21": 112,
+                "22": 48,
+                "23": 1,
+                "24": 18,
+                "6": 2,
+                "7": 6,
+                "9": 88
+            }
+        },
+        "school_name": "(ULUS MAH) ÇAĞLAYAN ANADOLU LİSESİ(ÖZGÜRLÜK MAH.'DE)"
+    },
+    {
+        "ballot_box_number": 1261,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/12524_bulk_999999999_1684088797549908487.jpg",
+            "submission_id": 376558,
+            "total_vote": 338,
+            "votes": {
+                "1": 127,
+                "2": 2,
+                "3": 189,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/12524_bulk_999999999_1684088762654592455.jpg",
+            "submission_id": 375559,
+            "total_vote": 327,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 37,
+                "12": 8,
+                "13": 22,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 120,
+                "22": 41,
+                "23": 0,
+                "24": 8,
+                "3": 0,
+                "5": 0,
+                "6": 1,
+                "7": 6,
+                "8": 0,
+                "9": 81
+            }
+        },
+        "school_name": "(ULUS MAH) ÇAĞLAYAN ANADOLU LİSESİ(ÖZGÜRLÜK MAH.'DE)"
+    },
+    {
+        "ballot_box_number": 1245,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/26851_cb_1093704245_1684085728232396392.jpg",
+            "submission_id": 276004,
+            "total_vote": 344,
+            "votes": {
+                "1": 109,
+                "2": 0,
+                "3": 212,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/26851_bulk_999999999_1684087204781032735.jpg",
+            "submission_id": 326257,
+            "total_vote": 336,
+            "votes": {
+                "10": 1,
+                "11": 32,
+                "12": 16,
+                "13": 25,
+                "21": 118,
+                "22": 51,
+                "24": 10,
+                "7": 5,
+                "8": 1,
+                "9": 77
+            }
+        },
+        "school_name": "(ULUS MAH) ÇAĞLAYAN ANADOLU LİSESİ(ÖZGÜRLÜK MAH.'DE)"
+    },
+    {
+        "ballot_box_number": 1249,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/12524_bulk_999999999_1684080678300763057.jpg",
+            "submission_id": 183095,
+            "total_vote": 331,
+            "votes": {
+                "1": 113,
+                "2": 1,
+                "3": 199,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/36439_mv_1083704249_1684086073878967631.jpg",
+            "submission_id": 287310,
+            "total_vote": 319,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 28,
+                "12": 8,
+                "13": 19,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 121,
+                "22": 36,
+                "23": 2,
+                "24": 8,
+                "3": 2,
+                "4": 1,
+                "5": 2,
+                "6": 1,
+                "7": 0,
+                "8": 1,
+                "9": 89
+            }
+        },
+        "school_name": "(ULUS MAH) ÇAĞLAYAN ANADOLU LİSESİ(ÖZGÜRLÜK MAH.'DE)"
+    },
+    {
+        "ballot_box_number": 1256,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/75880_cb_1093704836_1684087475898125560.jpg",
+            "submission_id": 335084,
+            "total_vote": 332,
+            "votes": {
+                "1": 120,
+                "2": 1,
+                "3": 183,
+                "4": 28
+            }
+        },
+        "mv_result": null,
+        "school_name": "(ULUS MAH) ÇAĞLAYAN ANADOLU LİSESİ(ÖZGÜRLÜK MAH.'DE)"
+    },
+    {
+        "ballot_box_number": 1246,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/32920_bulk_999999999_1684092903733825929.jpeg",
+            "submission_id": 462693,
+            "total_vote": 341,
+            "votes": {
+                "1": 89,
+                "2": 2,
+                "3": 219,
+                "4": 31
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/12524_bulk_999999999_1684086065125416271.jpg",
+            "submission_id": 287020,
+            "total_vote": 340,
+            "votes": {
+                "10": 8,
+                "11": 20,
+                "12": 29,
+                "13": 28,
+                "21": 114,
+                "22": 60,
+                "23": 2,
+                "24": 12,
+                "7": 6,
+                "8": 1,
+                "9": 60
+            }
+        },
+        "school_name": "(ULUS MAH) ÇAĞLAYAN ANADOLU LİSESİ(ÖZGÜRLÜK MAH.'DE)"
+    },
+    {
+        "ballot_box_number": 1250,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/29904_cb_1093704250_1684079542679653824.jpg",
+            "submission_id": 177391,
+            "total_vote": 313,
+            "votes": {
+                "1": 111,
+                "3": 177,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/29904_mv_1083704250_1684086384853524705.jpg",
+            "submission_id": 297528,
+            "total_vote": 307,
+            "votes": {
+                "1": 0,
+                "10": 10,
+                "11": 22,
+                "12": 8,
+                "13": 22,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "2": 0,
+                "20": 0,
+                "21": 94,
+                "22": 51,
+                "23": 1,
+                "24": 12,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 83
+            }
+        },
+        "school_name": "(ULUS MAH) ÇAĞLAYAN ANADOLU LİSESİ(ÖZGÜRLÜK MAH.'DE)"
+    },
+    {
+        "ballot_box_number": 1263,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/12524_bulk_999999999_1684094638627183121.jpg",
+            "submission_id": 494337,
+            "total_vote": 319,
+            "votes": {
+                "1": 141,
+                "2": 1,
+                "3": 163,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/43908_bulk_999999999_1684090309478907791.jpeg",
+            "submission_id": 417089,
+            "total_vote": 311,
+            "votes": {
+                "10": 5,
+                "11": 37,
+                "12": 7,
+                "13": 11,
+                "19": 1,
+                "21": 103,
+                "22": 36,
+                "23": 3,
+                "24": 11,
+                "4": 1,
+                "7": 1,
+                "8": 5,
+                "9": 90
+            }
+        },
+        "school_name": "(ULUS MAH) ÇAĞLAYAN ANADOLU LİSESİ(ÖZGÜRLÜK MAH.'DE)"
+    },
+    {
+        "ballot_box_number": 1255,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/75880_cb_1093704835_1684086072998604692.jpg",
+            "submission_id": 287274,
+            "total_vote": 322,
+            "votes": {
+                "1": 107,
+                "2": 1,
+                "3": 189,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/75880_mv_1083704835_1684086178217136920.jpg",
+            "submission_id": 290733,
+            "total_vote": 317,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 18,
+                "12": 14,
+                "13": 19,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 115,
+                "22": 40,
+                "23": 0,
+                "24": 16,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 3,
+                "7": 6,
+                "8": 0,
+                "9": 75
+            }
+        },
+        "school_name": "(ULUS MAH) ÇAĞLAYAN ANADOLU LİSESİ(ÖZGÜRLÜK MAH.'DE)"
+    },
+    {
+        "ballot_box_number": 1264,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/12524_bulk_999999999_1684082100307197702.jpg",
+            "submission_id": 195851,
+            "total_vote": 314,
+            "votes": {
+                "1": 95,
+                "3": 191,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/12524_bulk_999999999_1684082647954686418.jpg",
+            "submission_id": 203048,
+            "total_vote": 312,
+            "votes": {
+                "10": 6,
+                "11": 21,
+                "12": 18,
+                "13": 8,
+                "21": 120,
+                "22": 46,
+                "24": 11,
+                "4": 1,
+                "7": 5,
+                "8": 4,
+                "9": 72
+            }
+        },
+        "school_name": "(ULUS MAH) ÇAĞLAYAN ANADOLU LİSESİ(ÖZGÜRLÜK MAH.'DE)"
+    },
+    {
+        "ballot_box_number": 1257,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/43908_cb_1093704837_1684090038663046045.jpg",
+            "submission_id": 410663,
+            "total_vote": 312,
+            "votes": {
+                "1": 122,
+                "2": 2,
+                "3": 166,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/12524_bulk_999999999_1684134837143658263.jpg",
+            "submission_id": 1015815,
+            "total_vote": 311,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 38,
+                "12": 8,
+                "13": 11,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 118,
+                "22": 35,
+                "23": 0,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 89
+            }
+        },
+        "school_name": "(ULUS MAH) ÇAĞLAYAN ANADOLU LİSESİ(ÖZGÜRLÜK MAH.'DE)"
+    },
+    {
+        "ballot_box_number": 1252,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/34595_cb_1093704252_1684086543849040446.jpg",
+            "submission_id": 303042,
+            "total_vote": 326,
+            "votes": {
+                "1": 116,
+                "2": 1,
+                "3": 187,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/34595_mv_1083704252_1684087630926681422.jpg",
+            "submission_id": 340083,
+            "total_vote": 321,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 24,
+                "12": 9,
+                "13": 23,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 110,
+                "22": 35,
+                "23": 2,
+                "24": 10,
+                "3": 0,
+                "4": 1,
+                "5": 1,
+                "6": 0,
+                "7": 3,
+                "8": 2,
+                "9": 95
+            }
+        },
+        "school_name": "(ULUS MAH) ÇAĞLAYAN ANADOLU LİSESİ(ÖZGÜRLÜK MAH.'DE)"
+    }
+]

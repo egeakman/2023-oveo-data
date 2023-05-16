@@ -1,0 +1,635 @@
+[
+    {
+        "ballot_box_number": 1016,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/12738_cb_1093697310_1684085213797274845.jpg",
+            "submission_id": 260273,
+            "total_vote": 340,
+            "votes": {
+                "1": 42,
+                "3": 284,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/80222_mv_1083697314_1684085203874949942.jpg",
+            "submission_id": 259993,
+            "total_vote": 339,
+            "votes": {
+                "11": 5,
+                "12": 12,
+                "13": 54,
+                "21": 181,
+                "22": 36,
+                "24": 9,
+                "7": 7,
+                "9": 35
+            }
+        },
+        "school_name": "DR GÜNSELİ DR BÜLENT AKINSAL ÖZEL EĞİTİM İLK ORTA VE MES. EĞİ. MER"
+    },
+    {
+        "ballot_box_number": 1021,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/12738_mv_1083697935_1684083617472212816.jpg",
+            "submission_id": 220086,
+            "total_vote": 329,
+            "votes": {
+                "1": 59,
+                "2": 1,
+                "3": 255,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/12738_mv_1083697935_1684085039824707885.jpg",
+            "submission_id": 255304,
+            "total_vote": 329,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 14,
+                "12": 12,
+                "13": 100,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "2": 0,
+                "21": 144,
+                "24": 8,
+                "3": 3,
+                "4": 0,
+                "5": 2,
+                "6": 2,
+                "7": 2,
+                "8": 0,
+                "9": 40
+            }
+        },
+        "school_name": "DR GÜNSELİ DR BÜLENT AKINSAL ÖZEL EĞİTİM İLK ORTA VE MES. EĞİ. MER"
+    },
+    {
+        "ballot_box_number": 1012,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/12738_cb_1093697306_1684086349684710453.jpg",
+            "submission_id": 296369,
+            "total_vote": 319,
+            "votes": {
+                "1": 40,
+                "3": 273,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/12738_cb_1093697306_1684086225526720128.jpg",
+            "submission_id": 292276,
+            "total_vote": 310,
+            "votes": {
+                "11": 9,
+                "12": 8,
+                "13": 24,
+                "14": 1,
+                "21": 201,
+                "22": 37,
+                "24": 2,
+                "5": 1,
+                "9": 27
+            }
+        },
+        "school_name": "DR GÜNSELİ DR BÜLENT AKINSAL ÖZEL EĞİTİM İLK ORTA VE MES. EĞİ. MER"
+    },
+    {
+        "ballot_box_number": 1018,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/85088_bulk_999999999_1684087776799550039.jpg",
+            "submission_id": 344867,
+            "total_vote": 337,
+            "votes": {
+                "1": 47,
+                "2": 1,
+                "3": 280,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/12738_mv_1083697312_1684088209968647482.jpg",
+            "submission_id": 358546,
+            "total_vote": 335,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 12,
+                "12": 4,
+                "13": 42,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 4,
+                "20": 0,
+                "21": 187,
+                "22": 41,
+                "23": 1,
+                "24": 5,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 31
+            }
+        },
+        "school_name": "DR GÜNSELİ DR BÜLENT AKINSAL ÖZEL EĞİTİM İLK ORTA VE MES. EĞİ. MER"
+    },
+    {
+        "ballot_box_number": 1025,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/12738_cb_1093697939_1684084908654325388.jpg",
+            "submission_id": 251515,
+            "total_vote": 321,
+            "votes": {
+                "1": 53,
+                "2": 0,
+                "3": 263,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/12738_mv_1083697939_1684089000304236423.jpg",
+            "submission_id": 382558,
+            "total_vote": 317,
+            "votes": {
+                "1": 9,
+                "10": 2,
+                "11": 12,
+                "12": 10,
+                "13": 36,
+                "14": 0,
+                "15": 0,
+                "16": 2,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 9,
+                "20": 0,
+                "21": 148,
+                "22": 42,
+                "23": 2,
+                "24": 5,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 1,
+                "9": 35
+            }
+        },
+        "school_name": "DR GÜNSELİ DR BÜLENT AKINSAL ÖZEL EĞİTİM İLK ORTA VE MES. EĞİ. MER"
+    },
+    {
+        "ballot_box_number": 1014,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/12738_cb_1093697308_1684086127890912051.jpg",
+            "submission_id": 289107,
+            "total_vote": 342,
+            "votes": {
+                "1": 50,
+                "3": 277,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/12738_mv_1083697308_1684086261692451198.jpg",
+            "submission_id": 293472,
+            "total_vote": 339,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 7,
+                "12": 7,
+                "13": 47,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 181,
+                "22": 38,
+                "23": 0,
+                "24": 8,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 5,
+                "8": 0,
+                "9": 41
+            }
+        },
+        "school_name": "DR GÜNSELİ DR BÜLENT AKINSAL ÖZEL EĞİTİM İLK ORTA VE MES. EĞİ. MER"
+    },
+    {
+        "ballot_box_number": 1027,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/12738_cb_1093697941_1684088387900917254.jpg",
+            "submission_id": 364022,
+            "total_vote": 333,
+            "votes": {
+                "1": 55,
+                "2": 1,
+                "3": 262,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "DR GÜNSELİ DR BÜLENT AKINSAL ÖZEL EĞİTİM İLK ORTA VE MES. EĞİ. MER"
+    },
+    {
+        "ballot_box_number": 1011,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/38060_cb_1093697305_1684088390358096435.jpg",
+            "submission_id": 364106,
+            "total_vote": 309,
+            "votes": {
+                "1": 52,
+                "2": 0,
+                "3": 252,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/38060_mv_1083697305_1684090501985945709.jpg",
+            "submission_id": 421386,
+            "total_vote": 306,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 3,
+                "12": 13,
+                "13": 27,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 191,
+                "22": 22,
+                "23": 0,
+                "24": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 4,
+                "9": 43
+            }
+        },
+        "school_name": "DR GÜNSELİ DR BÜLENT AKINSAL ÖZEL EĞİTİM İLK ORTA VE MES. EĞİ. MER"
+    },
+    {
+        "ballot_box_number": 1026,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/12738_cb_1093697940_1684083473371751727.jpg",
+            "submission_id": 217280,
+            "total_vote": 327,
+            "votes": {
+                "1": 52,
+                "2": 2,
+                "3": 267,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/80222_mv_1083697940_1684085011511148419.jpg",
+            "submission_id": 254482,
+            "total_vote": 325,
+            "votes": {
+                "10": 1,
+                "11": 3,
+                "12": 6,
+                "13": 33,
+                "14": 1,
+                "15": 1,
+                "21": 198,
+                "22": 33,
+                "24": 5,
+                "3": 2,
+                "7": 3,
+                "9": 39
+            }
+        },
+        "school_name": "DR GÜNSELİ DR BÜLENT AKINSAL ÖZEL EĞİTİM İLK ORTA VE MES. EĞİ. MER"
+    },
+    {
+        "ballot_box_number": 1020,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/12738_cb_1093697314_1684081704513032154.jpg",
+            "submission_id": 191468,
+            "total_vote": 331,
+            "votes": {
+                "1": 66,
+                "2": 5,
+                "3": 245,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "DR GÜNSELİ DR BÜLENT AKINSAL ÖZEL EĞİTİM İLK ORTA VE MES. EĞİ. MER"
+    },
+    {
+        "ballot_box_number": 1023,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/12738_cb_1093697937_1684085428603174871.jpg",
+            "submission_id": 266506,
+            "total_vote": 329,
+            "votes": {
+                "1": 71,
+                "2": 3,
+                "3": 239,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/80222_mv_1083697937_1684085790678917919.jpg",
+            "submission_id": 278102,
+            "total_vote": 323,
+            "votes": {
+                "1": 1,
+                "11": 18,
+                "12": 10,
+                "13": 32,
+                "14": 1,
+                "21": 157,
+                "22": 46,
+                "24": 6,
+                "3": 2,
+                "7": 5,
+                "9": 45
+            }
+        },
+        "school_name": "DR GÜNSELİ DR BÜLENT AKINSAL ÖZEL EĞİTİM İLK ORTA VE MES. EĞİ. MER"
+    },
+    {
+        "ballot_box_number": 1017,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/12738_mv_1083697311_1684081569532494411.jpg",
+            "submission_id": 190030,
+            "total_vote": 320,
+            "votes": {
+                "1": 70,
+                "2": 1,
+                "3": 234,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/12738_mv_1083697311_1684081632175670303.jpg",
+            "submission_id": 190712,
+            "total_vote": 314,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 14,
+                "12": 15,
+                "13": 36,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 143,
+                "22": 37,
+                "23": 0,
+                "24": 7,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 1,
+                "9": 54
+            }
+        },
+        "school_name": "DR GÜNSELİ DR BÜLENT AKINSAL ÖZEL EĞİTİM İLK ORTA VE MES. EĞİ. MER"
+    },
+    {
+        "ballot_box_number": 1024,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/12738_cb_1093697938_1684083513517172987.jpg",
+            "submission_id": 218065,
+            "total_vote": 311,
+            "votes": {
+                "1": 40,
+                "2": 1,
+                "3": 254,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/80222_mv_1083697938_1684083778351756600.jpg",
+            "submission_id": 223527,
+            "total_vote": 305,
+            "votes": {
+                "11": 7,
+                "12": 11,
+                "13": 28,
+                "20": 1,
+                "21": 164,
+                "22": 38,
+                "24": 12,
+                "3": 7,
+                "4": 1,
+                "6": 1,
+                "7": 5,
+                "9": 30
+            }
+        },
+        "school_name": "DR GÜNSELİ DR BÜLENT AKINSAL ÖZEL EĞİTİM İLK ORTA VE MES. EĞİ. MER"
+    },
+    {
+        "ballot_box_number": 1019,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/12738_cb_1093697313_1684086559533917543.jpg",
+            "submission_id": 303589,
+            "total_vote": 325,
+            "votes": {
+                "1": 51,
+                "3": 266,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/12738_mv_1083697313_1684087486592508473.jpg",
+            "submission_id": 335460,
+            "total_vote": 322,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 9,
+                "12": 14,
+                "13": 24,
+                "19": 3,
+                "21": 172,
+                "22": 41,
+                "23": 1,
+                "24": 8,
+                "3": 3,
+                "6": 2,
+                "7": 3,
+                "9": 37
+            }
+        },
+        "school_name": "DR GÜNSELİ DR BÜLENT AKINSAL ÖZEL EĞİTİM İLK ORTA VE MES. EĞİ. MER"
+    },
+    {
+        "ballot_box_number": 1015,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/38060_cb_1093697309_1684089755734854806.jpg",
+            "submission_id": 403236,
+            "total_vote": 338,
+            "votes": {
+                "1": 82,
+                "3": 242,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/1a2debd1-eab5-4253-9ef4-9225f6db6f1f-1684105319021427711.jpg",
+            "submission_id": 622311,
+            "total_vote": 332,
+            "votes": {
+                "10": 1,
+                "11": 17,
+                "12": 14,
+                "13": 26,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 172,
+                "22": 35,
+                "23": 1,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 3,
+                "9": 52
+            }
+        },
+        "school_name": "DR GÜNSELİ DR BÜLENT AKINSAL ÖZEL EĞİTİM İLK ORTA VE MES. EĞİ. MER"
+    },
+    {
+        "ballot_box_number": 1013,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/12738_cb_1093697307_1684087207496768355.jpg",
+            "submission_id": 326341,
+            "total_vote": 319,
+            "votes": {
+                "1": 63,
+                "3": 242,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/12738_mv_1083697307_1684089619617634141.jpg",
+            "submission_id": 399577,
+            "total_vote": 312,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 13,
+                "12": 5,
+                "13": 22,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 2,
+                "21": 170,
+                "22": 35,
+                "23": 1,
+                "24": 11,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 1,
+                "9": 46
+            }
+        },
+        "school_name": "DR GÜNSELİ DR BÜLENT AKINSAL ÖZEL EĞİTİM İLK ORTA VE MES. EĞİ. MER"
+    },
+    {
+        "ballot_box_number": 1022,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/12738_mv_1083697936_1684086776424740056.jpg",
+            "submission_id": 311229,
+            "total_vote": 319,
+            "votes": {
+                "1": 57,
+                "2": 2,
+                "3": 251,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/12738_mv_1083697936_1684086929063963469.jpg",
+            "submission_id": 316518,
+            "total_vote": 315,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 9,
+                "12": 12,
+                "13": 39,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 155,
+                "22": 50,
+                "23": 0,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 7,
+                "8": 0,
+                "9": 35
+            }
+        },
+        "school_name": "DR GÜNSELİ DR BÜLENT AKINSAL ÖZEL EĞİTİM İLK ORTA VE MES. EĞİ. MER"
+    }
+]

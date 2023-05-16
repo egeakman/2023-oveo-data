@@ -1,0 +1,473 @@
+[
+    {
+        "ballot_box_number": 2170,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/49112_cb_1093702304_1684091501818613651.jpg",
+            "submission_id": 441224,
+            "total_vote": 328,
+            "votes": {
+                "1": 168,
+                "2": 2,
+                "3": 132,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/49112_mv_1083702304_1684091529597366593.jpg",
+            "submission_id": 441695,
+            "total_vote": 318,
+            "votes": {
+                "1": 1,
+                "11": 41,
+                "12": 21,
+                "13": 12,
+                "2": 1,
+                "21": 74,
+                "22": 36,
+                "23": 3,
+                "24": 6,
+                "6": 2,
+                "7": 6,
+                "8": 2,
+                "9": 113
+            }
+        },
+        "school_name": "(ESENTEPE MAH.) ŞEHİT MUHİTTİN TALHA ÇALIŞKAN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2181,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/25723_bulk_999999999_1684090886734393491.jpg",
+            "submission_id": 429597,
+            "total_vote": 327,
+            "votes": {
+                "1": 152,
+                "2": 2,
+                "3": 143,
+                "4": 30
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/25723_bulk_999999999_1684091020905357423.jpg",
+            "submission_id": 432317,
+            "total_vote": 323,
+            "votes": {
+                "10": 3,
+                "11": 21,
+                "12": 34,
+                "13": 18,
+                "14": 2,
+                "20": 1,
+                "21": 74,
+                "22": 17,
+                "23": 1,
+                "24": 12,
+                "5": 1,
+                "6": 2,
+                "7": 8,
+                "8": 3,
+                "9": 126
+            }
+        },
+        "school_name": "(ESENTEPE MAH.) ŞEHİT MUHİTTİN TALHA ÇALIŞKAN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2171,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/74ec9549-b9f5-485e-8a70-b718b38ff6e5-1684105163685678539.jpg",
+            "submission_id": 586730,
+            "total_vote": 331,
+            "votes": {
+                "1": 136,
+                "2": 3,
+                "3": 166,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/51504_bulk_999999999_1684095273630157977.jpg",
+            "submission_id": 501432,
+            "total_vote": 323,
+            "votes": {
+                "1": 8,
+                "10": 4,
+                "11": 25,
+                "12": 40,
+                "13": 0,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 1,
+                "22": 81,
+                "23": 34,
+                "24": 4,
+                "3": 2,
+                "4": 1,
+                "5": 2,
+                "6": 3,
+                "7": 8,
+                "8": 1,
+                "9": 109
+            }
+        },
+        "school_name": "(ESENTEPE MAH.) ŞEHİT MUHİTTİN TALHA ÇALIŞKAN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2178,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/10696_cb_1093702312_1684088328255633577.jpg",
+            "submission_id": 362142,
+            "total_vote": 319,
+            "votes": {
+                "1": 130,
+                "2": 2,
+                "3": 154,
+                "4": 33
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/10696_mv_1083702312_1684087067990998812.jpg",
+            "submission_id": 321362,
+            "total_vote": 316,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 43,
+                "12": 36,
+                "13": 9,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 78,
+                "22": 29,
+                "23": 1,
+                "24": 14,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 3,
+                "8": 2,
+                "9": 92
+            }
+        },
+        "school_name": "(ESENTEPE MAH.) ŞEHİT MUHİTTİN TALHA ÇALIŞKAN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2175,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8279d27e-3a63-431d-87ed-fb1b735f23fb-1684105434094869644.jpg",
+            "submission_id": 639125,
+            "total_vote": 327,
+            "votes": {
+                "1": 151,
+                "2": 4,
+                "3": 139,
+                "4": 33
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8471877a-00f2-446e-9d5e-993cc2c71fa5-1684105428076025125.jpg",
+            "submission_id": 638344,
+            "total_vote": 316,
+            "votes": {
+                "10": 2,
+                "11": 43,
+                "12": 15,
+                "13": 15,
+                "20": 1,
+                "21": 82,
+                "22": 25,
+                "23": 1,
+                "24": 14,
+                "5": 1,
+                "6": 2,
+                "7": 11,
+                "8": 3,
+                "9": 101
+            }
+        },
+        "school_name": "(ESENTEPE MAH.) ŞEHİT MUHİTTİN TALHA ÇALIŞKAN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2182,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/6eeba22d-7d16-4286-b5e0-c97694902f56-1684105263514082811.jpg",
+            "submission_id": 607311,
+            "total_vote": 325,
+            "votes": {
+                "1": 146,
+                "2": 0,
+                "3": 160,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "(ESENTEPE MAH.) ŞEHİT MUHİTTİN TALHA ÇALIŞKAN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2173,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/36366_cb_1093702307_1684079570594692399.jpg",
+            "submission_id": 177487,
+            "total_vote": 334,
+            "votes": {
+                "1": 159,
+                "2": 1,
+                "3": 151,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "(ESENTEPE MAH.) ŞEHİT MUHİTTİN TALHA ÇALIŞKAN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2172,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/67111_cb_1093702306_1684079849356014053.jpg",
+            "submission_id": 178613,
+            "total_vote": 323,
+            "votes": {
+                "1": 135,
+                "2": 4,
+                "3": 142,
+                "4": 42
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/67111_mv_1083702306_1684084377532312420.jpg",
+            "submission_id": 237422,
+            "total_vote": 316,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 41,
+                "12": 24,
+                "13": 13,
+                "21": 73,
+                "22": 36,
+                "24": 15,
+                "6": 4,
+                "7": 10,
+                "9": 97
+            }
+        },
+        "school_name": "(ESENTEPE MAH.) ŞEHİT MUHİTTİN TALHA ÇALIŞKAN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2176,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/36366_cb_1093702310_1684089580949869238.jpg",
+            "submission_id": 398539,
+            "total_vote": 338,
+            "votes": {
+                "1": 155,
+                "2": 1,
+                "3": 150,
+                "4": 32
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/36366_cb_1093702310_1684089505311712072.jpg",
+            "submission_id": 396312,
+            "total_vote": 339,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 38,
+                "12": 21,
+                "13": 10,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 84,
+                "22": 39,
+                "23": 0,
+                "24": 19,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 5,
+                "8": 2,
+                "9": 110
+            }
+        },
+        "school_name": "(ESENTEPE MAH.) ŞEHİT MUHİTTİN TALHA ÇALIŞKAN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2180,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/51518_cb_1093702314_1684087655893391808.jpg",
+            "submission_id": 340936,
+            "total_vote": 336,
+            "votes": {
+                "1": 179,
+                "2": 4,
+                "3": 126,
+                "4": 27
+            }
+        },
+        "mv_result": null,
+        "school_name": "(ESENTEPE MAH.) ŞEHİT MUHİTTİN TALHA ÇALIŞKAN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2174,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/83204_bulk_999999999_1684081357176531367.jpeg",
+            "submission_id": 188134,
+            "total_vote": 336,
+            "votes": {
+                "1": 144,
+                "2": 1,
+                "3": 161,
+                "4": 30
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/83204_bulk_999999999_1684088044356328548.jpeg",
+            "submission_id": 353408,
+            "total_vote": 331,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 31,
+                "12": 29,
+                "13": 17,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 9,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 71,
+                "22": 38,
+                "23": 0,
+                "24": 7,
+                "3": 2,
+                "4": 0,
+                "5": 3,
+                "6": 1,
+                "7": 8,
+                "8": 4,
+                "9": 106
+            }
+        },
+        "school_name": "(ESENTEPE MAH.) ŞEHİT MUHİTTİN TALHA ÇALIŞKAN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2169,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/10708_bulk_999999999_1684088201496255234.jpeg",
+            "submission_id": 358301,
+            "total_vote": 317,
+            "votes": {
+                "1": 119,
+                "3": 181,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/10708_bulk_999999999_1684088201669724463.jpeg",
+            "submission_id": 358306,
+            "total_vote": 306,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 11,
+                "12": 45,
+                "13": 12,
+                "19": 1,
+                "21": 101,
+                "22": 22,
+                "23": 3,
+                "24": 7,
+                "3": 2,
+                "5": 2,
+                "6": 1,
+                "7": 2,
+                "9": 95
+            }
+        },
+        "school_name": "(ESENTEPE MAH.) ŞEHİT MUHİTTİN TALHA ÇALIŞKAN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2179,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/49112_cb_1093702313_1684087169733381774.jpg",
+            "submission_id": 324955,
+            "total_vote": 321,
+            "votes": {
+                "1": 140,
+                "2": 1,
+                "3": 156,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/330bc91f-8b9a-4c97-9355-2c954215b44a-1684105694745032960.jpg",
+            "submission_id": 680885,
+            "total_vote": 313,
+            "votes": {
+                "1": 2,
+                "10": 7,
+                "11": 36,
+                "12": 36,
+                "13": 11,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 75,
+                "22": 30,
+                "23": 0,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 3,
+                "7": 7,
+                "8": 0,
+                "9": 93
+            }
+        },
+        "school_name": "(ESENTEPE MAH.) ŞEHİT MUHİTTİN TALHA ÇALIŞKAN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2177,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/10696_cb_1093702311_1684092582785833394.jpg",
+            "submission_id": 458458,
+            "total_vote": 314,
+            "votes": {
+                "1": 130,
+                "2": 1,
+                "3": 164,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "(ESENTEPE MAH.) ŞEHİT MUHİTTİN TALHA ÇALIŞKAN ANADOLU LİSESİ"
+    }
+]

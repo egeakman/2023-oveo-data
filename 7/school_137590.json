@@ -1,0 +1,142 @@
+[
+    {
+        "ballot_box_number": 1033,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/70462_bulk_999999999_1684089714078805927.jpg",
+            "submission_id": 402136,
+            "total_vote": 314,
+            "votes": {
+                "1": 120,
+                "2": 3,
+                "3": 170,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/70462_bulk_999999999_1684089802676389311.jpg",
+            "submission_id": 404577,
+            "total_vote": 307,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 39,
+                "12": 10,
+                "13": 18,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 114,
+                "22": 30,
+                "23": 1,
+                "24": 7,
+                "3": 0,
+                "4": 2,
+                "5": 0,
+                "6": 2,
+                "7": 8,
+                "8": 2,
+                "9": 68
+            }
+        },
+        "school_name": "RUKİYE KOÇ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1031,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/70462_bulk_999999999_1684089714006946737.jpg",
+            "submission_id": 402131,
+            "total_vote": 304,
+            "votes": {
+                "1": 130,
+                "2": 1,
+                "3": 152,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source2-secim-images.oyveotesi.org/raw/whiskey/e7c857ab-d430-4c3a-af05-fa3f95869149.jpg",
+            "submission_id": 552105,
+            "total_vote": 300,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 33,
+                "12": 11,
+                "13": 8,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 97,
+                "22": 35,
+                "23": 1,
+                "24": 14,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 3,
+                "9": 89
+            }
+        },
+        "school_name": "RUKİYE KOÇ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1034,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/70462_bulk_999999999_1684089714176151238.jpg",
+            "submission_id": 402142,
+            "total_vote": 307,
+            "votes": {
+                "1": 135,
+                "2": 2,
+                "3": 144,
+                "4": 26
+            }
+        },
+        "mv_result": null,
+        "school_name": "RUKİYE KOÇ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1035,
+        "cm_result": {
+            "image_url": "https://source2-secim-images.oyveotesi.org/raw/whiskey/2c84a443-52f4-4e3b-a187-b31589c1ea8f.jpg",
+            "submission_id": 551770,
+            "total_vote": 312,
+            "votes": {
+                "1": 123,
+                "2": 1,
+                "3": 168,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "RUKİYE KOÇ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1032,
+        "cm_result": {
+            "image_url": "https://source2-secim-images.oyveotesi.org/raw/whiskey/4aba762d-3be6-43ee-8d9a-b49dd7011956.jpg",
+            "submission_id": 551646,
+            "total_vote": 311,
+            "votes": {
+                "1": 132,
+                "2": 1,
+                "3": 161,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "RUKİYE KOÇ ORTAOKULU"
+    }
+]

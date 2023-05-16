@@ -1,0 +1,44 @@
+[
+    {
+        "ballot_box_number": 1014,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "CEVİZLİ MAHALLESİ CEVİZLİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1013,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/29392_bulk_999999999_1684099885864925521.jpg",
+            "submission_id": 534825,
+            "total_vote": 251,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 43,
+                "12": 0,
+                "13": 2,
+                "14": 2,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 2,
+                "20": 0,
+                "21": 55,
+                "22": 33,
+                "23": 2,
+                "24": 3,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 1,
+                "9": 100
+            }
+        },
+        "school_name": "CEVİZLİ MAHALLESİ CEVİZLİ İLKOKULU"
+    }
+]

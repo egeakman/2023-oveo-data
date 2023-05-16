@@ -1,0 +1,160 @@
+[
+    {
+        "ballot_box_number": 1020,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/73769_cb_1093697194_1684086213723594528.jpg",
+            "submission_id": 291878,
+            "total_vote": 291,
+            "votes": {
+                "1": 148,
+                "2": 1,
+                "3": 131,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/73769_mv_1083697194_1684086249938820931.jpg",
+            "submission_id": 293035,
+            "total_vote": 282,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 22,
+                "12": 2,
+                "13": 1,
+                "14": 0,
+                "15": 6,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 103,
+                "22": 27,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 0,
+                "9": 107
+            }
+        },
+        "school_name": "BEYREBUCAK İLKOKULU / ORTAOKULU / İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1021,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/73769_cb_1093697695_1684086289907321452.jpg",
+            "submission_id": 294391,
+            "total_vote": 294,
+            "votes": {
+                "1": 160,
+                "2": 1,
+                "3": 120,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/73769_mv_1083697695_1684086518091396338.jpg",
+            "submission_id": 302175,
+            "total_vote": 282,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 39,
+                "12": 3,
+                "13": 3,
+                "14": 1,
+                "15": 2,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 84,
+                "22": 21,
+                "23": 1,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 0,
+                "9": 119
+            }
+        },
+        "school_name": "BEYREBUCAK İLKOKULU / ORTAOKULU / İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1019,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/73769_cb_1093697193_1684086407060375719.jpg",
+            "submission_id": 298280,
+            "total_vote": 294,
+            "votes": {
+                "1": 151,
+                "2": 6,
+                "3": 127,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/73769_mv_1083697193_1684086440238758546.jpg",
+            "submission_id": 299354,
+            "total_vote": 287,
+            "votes": {
+                "10": 4,
+                "11": 43,
+                "12": 1,
+                "13": 6,
+                "20": 1,
+                "21": 80,
+                "22": 35,
+                "24": 2,
+                "4": 1,
+                "5": 1,
+                "7": 5,
+                "8": 3,
+                "9": 105
+            }
+        },
+        "school_name": "BEYREBUCAK İLKOKULU / ORTAOKULU / İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1018,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/73769_cb_1093697192_1684086177743853748.jpg",
+            "submission_id": 290717,
+            "total_vote": 268,
+            "votes": {
+                "1": 170,
+                "2": 2,
+                "3": 93,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/73769_mv_1083697192_1684086047180219590.jpg",
+            "submission_id": 286504,
+            "total_vote": 267,
+            "votes": {
+                "10": 1,
+                "11": 43,
+                "13": 1,
+                "15": 1,
+                "21": 70,
+                "22": 21,
+                "23": 1,
+                "3": 1,
+                "7": 1,
+                "8": 2,
+                "9": 125
+            }
+        },
+        "school_name": "BEYREBUCAK İLKOKULU / ORTAOKULU / İMAM HATİP ORTAOKULU"
+    }
+]

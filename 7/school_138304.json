@@ -1,0 +1,64 @@
+[
+    {
+        "ballot_box_number": 1218,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/46bc4ee3-c34c-4418-a69e-5f8e1e5b5550-1684106576448975146.jpeg",
+            "submission_id": 808530,
+            "total_vote": 257,
+            "votes": {
+                "1": 123,
+                "2": 3,
+                "3": 112,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "DEĞİRMENDERE İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1219,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a1599937-862a-43f6-993b-46e2c75b99d7-1684106453264633986.jpeg",
+            "submission_id": 790592,
+            "total_vote": 268,
+            "votes": {
+                "1": 140,
+                "2": 1,
+                "3": 101,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/1b02083f-b231-427e-91df-5b50f296de6e-1684106445092010249.jpeg",
+            "submission_id": 789180,
+            "total_vote": 260,
+            "votes": {
+                "1": 0,
+                "10": 9,
+                "11": 40,
+                "12": 2,
+                "13": 2,
+                "14": 0,
+                "15": 3,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 58,
+                "22": 29,
+                "23": 1,
+                "24": 9,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 2,
+                "9": 99
+            }
+        },
+        "school_name": "DEĞİRMENDERE İLKOKULU"
+    }
+]

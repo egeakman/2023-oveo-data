@@ -1,0 +1,142 @@
+[
+    {
+        "ballot_box_number": 1090,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/57084_cb_1093699504_1684079540533024758.jpg",
+            "submission_id": 177383,
+            "total_vote": 254,
+            "votes": {
+                "1": 157,
+                "2": 4,
+                "3": 76,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/57084_mv_1083699504_1684084483263536656.jpg",
+            "submission_id": 240090,
+            "total_vote": 246,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 28,
+                "12": 2,
+                "13": 0,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 2,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 39,
+                "22": 35,
+                "23": 1,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 0,
+                "7": 1,
+                "8": 0,
+                "9": 123
+            }
+        },
+        "school_name": "KARAÖZ O.O."
+    },
+    {
+        "ballot_box_number": 1093,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/57084_cb_1093699507_1684084893026770609.jpg",
+            "submission_id": 251103,
+            "total_vote": 269,
+            "votes": {
+                "1": 154,
+                "2": 4,
+                "3": 98,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/57084_mv_1083699507_1684089063250909773.jpg",
+            "submission_id": 384302,
+            "total_vote": 265,
+            "votes": {
+                "10": 5,
+                "11": 47,
+                "12": 2,
+                "13": 2,
+                "14": 1,
+                "15": 1,
+                "17": 1,
+                "19": 1,
+                "2": 1,
+                "21": 55,
+                "22": 41,
+                "23": 1,
+                "24": 6,
+                "3": 2,
+                "5": 1,
+                "6": 2,
+                "7": 6,
+                "9": 90
+            }
+        },
+        "school_name": "KARAÖZ O.O."
+    },
+    {
+        "ballot_box_number": 1092,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/25671_cb_1093699506_1684090413721881758.jpg",
+            "submission_id": 419383,
+            "total_vote": 269,
+            "votes": {
+                "1": 154,
+                "2": 3,
+                "3": 98,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/57084_mv_1083699506_1684089529186090186.jpg",
+            "submission_id": 397057,
+            "total_vote": 261,
+            "votes": {
+                "10": 4,
+                "11": 44,
+                "12": 4,
+                "13": 3,
+                "16": 1,
+                "2": 1,
+                "20": 1,
+                "21": 48,
+                "22": 33,
+                "23": 3,
+                "24": 9,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "8": 6,
+                "9": 100
+            }
+        },
+        "school_name": "KARAÖZ O.O."
+    },
+    {
+        "ballot_box_number": 1091,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/57084_cb_1093699505_1684080682643573238.jpg",
+            "submission_id": 183119,
+            "total_vote": 274,
+            "votes": {
+                "1": 151,
+                "2": 2,
+                "3": 94,
+                "4": 27
+            }
+        },
+        "mv_result": null,
+        "school_name": "KARAÖZ O.O."
+    }
+]

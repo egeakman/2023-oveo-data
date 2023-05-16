@@ -1,0 +1,105 @@
+[
+    {
+        "ballot_box_number": 2255,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/77971_bulk_999999999_1684085606546626559.jpg",
+            "submission_id": 272016,
+            "total_vote": 287,
+            "votes": {
+                "1": 100,
+                "3": 161,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/248cd246-a9f9-44e6-a3ae-00c8cbdf1b9a-1684106402598928159.jpg",
+            "submission_id": 782839,
+            "total_vote": 278,
+            "votes": {
+                "10": 2,
+                "11": 27,
+                "12": 9,
+                "13": 20,
+                "21": 81,
+                "22": 53,
+                "23": 2,
+                "24": 8,
+                "6": 1,
+                "7": 6,
+                "9": 69
+            }
+        },
+        "school_name": "METİN NURAN ÇAKALLIKLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2258,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "METİN NURAN ÇAKALLIKLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2256,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/77971_bulk_999999999_1684085606193697324.jpg",
+            "submission_id": 272002,
+            "total_vote": 275,
+            "votes": {
+                "1": 92,
+                "3": 157,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7e8582fb-b39b-4ab4-b514-ed3aa106ad16-1684106362497056324.jpg",
+            "submission_id": 777195,
+            "total_vote": 271,
+            "votes": {
+                "10": 1,
+                "11": 23,
+                "12": 6,
+                "13": 22,
+                "15": 1,
+                "21": 88,
+                "22": 42,
+                "23": 2,
+                "24": 14,
+                "3": 1,
+                "7": 3,
+                "8": 2,
+                "9": 66
+            }
+        },
+        "school_name": "METİN NURAN ÇAKALLIKLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2257,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/77971_bulk_999999999_1684085606016678684.jpg",
+            "submission_id": 271993,
+            "total_vote": 281,
+            "votes": {
+                "1": 71,
+                "3": 188,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "METİN NURAN ÇAKALLIKLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2254,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/77971_bulk_999999999_1684085606424977485.jpg",
+            "submission_id": 272010,
+            "total_vote": 276,
+            "votes": {
+                "1": 95,
+                "2": 4,
+                "3": 164,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "METİN NURAN ÇAKALLIKLI ANADOLU LİSESİ"
+    }
+]

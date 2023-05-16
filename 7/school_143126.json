@@ -1,0 +1,18 @@
+[
+    {
+        "ballot_box_number": 2011,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/b1154bd4-4041-4dd1-8429-5e052be81372-1684105172860781713.jpeg",
+            "submission_id": 589750,
+            "total_vote": 169,
+            "votes": {
+                "1": 99,
+                "2": 3,
+                "3": 57,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "ASMACA KÖY ODASI-CAMİ YANI"
+    }
+]

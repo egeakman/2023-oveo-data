@@ -1,0 +1,280 @@
+[
+    {
+        "ballot_box_number": 1042,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f894fc1f-3c99-4cda-8813-d8ac24e2b91d-1684105773776031223.jpeg",
+            "submission_id": 693088,
+            "total_vote": 315,
+            "votes": {
+                "1": 113,
+                "2": 3,
+                "3": 181,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "GÜNGÖR GENCER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1038,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/22261_cb_1093697759_1684083613122525508.jpg",
+            "submission_id": 220002,
+            "total_vote": 333,
+            "votes": {
+                "1": 129,
+                "2": 3,
+                "3": 162,
+                "4": 39
+            }
+        },
+        "mv_result": null,
+        "school_name": "GÜNGÖR GENCER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1045,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/23909_cb_1093697766_1684084047135987226.jpg",
+            "submission_id": 229141,
+            "total_vote": 340,
+            "votes": {
+                "1": 128,
+                "2": 2,
+                "3": 187,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/23909_mv_1083697766_1684084178773471630.jpg",
+            "submission_id": 232280,
+            "total_vote": 335,
+            "votes": {
+                "1": 1,
+                "10": 7,
+                "11": 42,
+                "12": 22,
+                "13": 13,
+                "21": 103,
+                "22": 49,
+                "23": 13,
+                "5": 1,
+                "7": 7,
+                "9": 77
+            }
+        },
+        "school_name": "GÜNGÖR GENCER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1041,
+        "cm_result": {
+            "image_url": "https://source2-secim-images.oyveotesi.org/raw/romeo/df0c4531-6070-4cec-9e1b-86c69bebd345.jpg",
+            "submission_id": 549967,
+            "total_vote": 332,
+            "votes": {
+                "1": 148,
+                "2": 1,
+                "3": 161,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/49b850ca-f135-40fb-8fff-a23c4decb2b6-1684105584409331834.jpeg",
+            "submission_id": 662888,
+            "total_vote": 326,
+            "votes": {
+                "10": 9,
+                "11": 28,
+                "12": 18,
+                "13": 18,
+                "15": 1,
+                "17": 1,
+                "21": 84,
+                "22": 41,
+                "23": 1,
+                "24": 16,
+                "7": 1,
+                "8": 1,
+                "9": 107
+            }
+        },
+        "school_name": "GÜNGÖR GENCER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1044,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/22253_bulk_999999999_1684096518518149749.jpg",
+            "submission_id": 513278,
+            "total_vote": 337,
+            "votes": {
+                "1": 134,
+                "2": 4,
+                "3": 170,
+                "4": 29
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/22253_bulk_999999999_1684096518428106699.jpg",
+            "submission_id": 513276,
+            "total_vote": 332,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 44,
+                "12": 10,
+                "13": 17,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 111,
+                "22": 40,
+                "23": 2,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 8,
+                "8": 2,
+                "9": 81
+            }
+        },
+        "school_name": "GÜNGÖR GENCER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1037,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/22253_bulk_999999999_1684145004086570372.jpg",
+            "submission_id": 1019227,
+            "total_vote": 305,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 24,
+                "12": 11,
+                "13": 13,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 2,
+                "21": 115,
+                "22": 20,
+                "23": 0,
+                "24": 10,
+                "3": 4,
+                "4": 2,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 1,
+                "9": 93
+            }
+        },
+        "school_name": "GÜNGÖR GENCER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1040,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/26334_bulk_999999999_1684085569749132370.jpeg",
+            "submission_id": 270760,
+            "total_vote": 332,
+            "votes": {
+                "1": 114,
+                "2": 0,
+                "3": 192,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/22253_bulk_999999999_1684145076102950327.jpg",
+            "submission_id": 1019261,
+            "total_vote": 328,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 26,
+                "12": 10,
+                "13": 15,
+                "14": 0,
+                "15": 0,
+                "17": 0,
+                "18": 1,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 106,
+                "22": 51,
+                "23": 0,
+                "24": 13,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 1,
+                "7": 2,
+                "8": 0,
+                "9": 97
+            }
+        },
+        "school_name": "GÜNGÖR GENCER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1039,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/23821_cb_1093697760_1684081857424569188.jpg",
+            "submission_id": 193023,
+            "total_vote": 330,
+            "votes": {
+                "1": 117,
+                "2": 2,
+                "3": 187,
+                "4": 24
+            }
+        },
+        "mv_result": null,
+        "school_name": "GÜNGÖR GENCER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1043,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/23844_cb_1093697764_1684082580048744803.jpg",
+            "submission_id": 202075,
+            "total_vote": 333,
+            "votes": {
+                "1": 125,
+                "2": 3,
+                "3": 179,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/23844_mv_1083697764_1684087286662127416.jpg",
+            "submission_id": 328980,
+            "total_vote": 329,
+            "votes": {
+                "10": 6,
+                "11": 25,
+                "12": 25,
+                "13": 18,
+                "14": 1,
+                "15": 1,
+                "21": 114,
+                "22": 22,
+                "23": 2,
+                "24": 16,
+                "6": 1,
+                "7": 3,
+                "9": 95
+            }
+        },
+        "school_name": "GÜNGÖR GENCER İLKOKULU"
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "ballot_box_number": 2358,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/b1d896e4-70a9-40ff-a813-470dca9e1c9b-1684106317056922818.jpg",
+            "submission_id": 770304,
+            "total_vote": 308,
+            "votes": {
+                "1": 203,
+                "2": 3,
+                "3": 91,
+                "4": 11
+            }
+        },
+        "mv_result": null,
+        "school_name": "YEŞİLÖZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2359,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/6de2edba-4082-4034-b531-659df7784944-1684106217677995393.jpg",
+            "submission_id": 760322,
+            "total_vote": 295,
+            "votes": {
+                "1": 177,
+                "2": 2,
+                "3": 102,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "YEŞİLÖZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2360,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4a78f02f-161d-48cc-af6f-7b9d0d02dedb-1684106425482290462.jpg",
+            "submission_id": 790561,
+            "total_vote": 292,
+            "votes": {
+                "1": 196,
+                "2": 2,
+                "3": 68,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e85bb397-d323-4fb4-af10-70f53aacce81-1684106400741804017.jpg",
+            "submission_id": 786170,
+            "total_vote": 278,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 73,
+                "12": 1,
+                "13": 1,
+                "14": 3,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 43,
+                "22": 27,
+                "23": 1,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 10,
+                "9": 107
+            }
+        },
+        "school_name": "YEŞİLÖZ İLKOKULU"
+    }
+]

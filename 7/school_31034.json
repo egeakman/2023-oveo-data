@@ -1,0 +1,205 @@
+[
+    {
+        "ballot_box_number": 1206,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/27434_bulk_999999999_1684086424118693178.jpg",
+            "submission_id": 298826,
+            "total_vote": 290,
+            "votes": {
+                "1": 102,
+                "2": 2,
+                "3": 158,
+                "4": 28
+            }
+        },
+        "mv_result": null,
+        "school_name": "MERKEZ MAH YUNUS EMRE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1203,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/27434_bulk_999999999_1684086274288609161.jpg",
+            "submission_id": 293893,
+            "total_vote": 286,
+            "votes": {
+                "1": 128,
+                "2": 3,
+                "3": 138,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "MERKEZ MAH YUNUS EMRE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1202,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/27434_cb_1093702636_1684084489170712236.jpg",
+            "submission_id": 240268,
+            "total_vote": 293,
+            "votes": {
+                "1": 115,
+                "2": 5,
+                "3": 146,
+                "4": 27
+            }
+        },
+        "mv_result": null,
+        "school_name": "MERKEZ MAH YUNUS EMRE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1205,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/27434_bulk_999999999_1684086381345640227.jpg",
+            "submission_id": 297403,
+            "total_vote": 274,
+            "votes": {
+                "1": 100,
+                "2": 1,
+                "3": 151,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/37390_bulk_999999999_1684088047700405926.jpeg",
+            "submission_id": 353509,
+            "total_vote": 266,
+            "votes": {
+                "1": 1,
+                "10": 9,
+                "11": 17,
+                "12": 3,
+                "13": 2,
+                "17": 1,
+                "18": 1,
+                "21": 104,
+                "22": 35,
+                "24": 13,
+                "6": 1,
+                "7": 7,
+                "8": 2,
+                "9": 70
+            }
+        },
+        "school_name": "MERKEZ MAH YUNUS EMRE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1204,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/27434_bulk_999999999_1684086320172870818.jpg",
+            "submission_id": 295435,
+            "total_vote": 290,
+            "votes": {
+                "1": 124,
+                "2": 2,
+                "3": 147,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/37390_bulk_999999999_1684088048268261033.jpeg",
+            "submission_id": 353525,
+            "total_vote": 283,
+            "votes": {
+                "1": 1,
+                "10": 5,
+                "11": 31,
+                "12": 3,
+                "13": 4,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 85,
+                "22": 50,
+                "23": 4,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 5,
+                "9": 83
+            }
+        },
+        "school_name": "MERKEZ MAH YUNUS EMRE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1201,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/27434_cb_1093702635_1684084113685038048.jpg",
+            "submission_id": 230701,
+            "total_vote": 268,
+            "votes": {
+                "1": 106,
+                "2": 2,
+                "3": 140,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/37390_bulk_999999999_1684086834434804472.jpeg",
+            "submission_id": 313233,
+            "total_vote": 257,
+            "votes": {
+                "10": 3,
+                "11": 33,
+                "12": 2,
+                "13": 4,
+                "14": 1,
+                "18": 1,
+                "2": 2,
+                "20": 1,
+                "21": 96,
+                "22": 35,
+                "23": 1,
+                "24": 7,
+                "5": 1,
+                "6": 2,
+                "7": 5,
+                "8": 2,
+                "9": 61
+            }
+        },
+        "school_name": "MERKEZ MAH YUNUS EMRE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1200,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/27434_cb_1093702094_1684084467540049151.jpg",
+            "submission_id": 239673,
+            "total_vote": 244,
+            "votes": {
+                "1": 102,
+                "2": 3,
+                "3": 122,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/27434_bulk_999999999_1684085994864435175.jpg",
+            "submission_id": 284767,
+            "total_vote": 240,
+            "votes": {
+                "10": 2,
+                "11": 24,
+                "12": 1,
+                "13": 9,
+                "21": 84,
+                "22": 37,
+                "23": 1,
+                "24": 4,
+                "3": 1,
+                "7": 3,
+                "8": 1,
+                "9": 73
+            }
+        },
+        "school_name": "MERKEZ MAH YUNUS EMRE ANADOLU LİSESİ"
+    }
+]

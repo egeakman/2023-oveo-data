@@ -1,0 +1,36 @@
+[
+    {
+        "ballot_box_number": 1043,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1993_bulk_999999999_1684252162120233275.jpeg",
+            "submission_id": 1031978,
+            "total_vote": 113,
+            "votes": {
+                "1": 65,
+                "2": 2,
+                "3": 43,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/066cc709-4f54-42e9-88bb-0e9415ce52cf-1684105102818960191.jpg",
+            "submission_id": 573883,
+            "total_vote": 108,
+            "votes": {
+                "10": 2,
+                "11": 10,
+                "12": 3,
+                "13": 8,
+                "15": 1,
+                "17": 1,
+                "2": 2,
+                "21": 21,
+                "22": 10,
+                "23": 2,
+                "7": 2,
+                "9": 46
+            }
+        },
+        "school_name": "ÇATALOLUK İLKÖĞRETİM OKULU"
+    }
+]

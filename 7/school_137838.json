@@ -1,0 +1,147 @@
+[
+    {
+        "ballot_box_number": 1064,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16240_cb_1093699038_1684083621892005741.jpg",
+            "submission_id": 220173,
+            "total_vote": 277,
+            "votes": {
+                "1": 118,
+                "2": 2,
+                "3": 143,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16240_mv_1083699038_1684083649312889290.jpg",
+            "submission_id": 220761,
+            "total_vote": 274,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 15,
+                "12": 2,
+                "13": 5,
+                "14": 0,
+                "15": 2,
+                "16": 1,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 1,
+                "21": 99,
+                "22": 34,
+                "23": 2,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 2,
+                "8": 1,
+                "9": 93
+            }
+        },
+        "school_name": "DAĞ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1065,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16240_cb_1093699039_1684084775842371806.jpg",
+            "submission_id": 247916,
+            "total_vote": 319,
+            "votes": {
+                "1": 146,
+                "2": 1,
+                "3": 136,
+                "4": 36
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16240_mv_1083699039_1684084522856202483.jpg",
+            "submission_id": 241066,
+            "total_vote": 310,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 28,
+                "12": 2,
+                "13": 3,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 3,
+                "20": 0,
+                "21": 87,
+                "22": 46,
+                "23": 1,
+                "24": 10,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 6,
+                "8": 0,
+                "9": 118
+            }
+        },
+        "school_name": "DAĞ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1067,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16240_cb_1093699041_1684083819409461657.jpg",
+            "submission_id": 224433,
+            "total_vote": 327,
+            "votes": {
+                "1": 168,
+                "2": 5,
+                "3": 140,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16240_mv_1083699041_1684083773201719225.jpg",
+            "submission_id": 223428,
+            "total_vote": 314,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 46,
+                "12": 8,
+                "13": 3,
+                "21": 94,
+                "22": 31,
+                "23": 1,
+                "24": 5,
+                "3": 2,
+                "5": 1,
+                "6": 1,
+                "7": 4,
+                "8": 2,
+                "9": 111
+            }
+        },
+        "school_name": "DAĞ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1066,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16240_cb_1093699040_1684085785139133950.jpg",
+            "submission_id": 277925,
+            "total_vote": 325,
+            "votes": {
+                "1": 149,
+                "2": 1,
+                "3": 153,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "DAĞ İLKOKULU"
+    }
+]

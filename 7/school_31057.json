@@ -1,0 +1,110 @@
+[
+    {
+        "ballot_box_number": 1072,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/27582_bulk_999999999_1684096047283091781.jpg",
+            "submission_id": 509076,
+            "total_vote": 260,
+            "votes": {
+                "1": 101,
+                "2": 0,
+                "3": 141,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/27582_bulk_999999999_1684096047203597763.jpg",
+            "submission_id": 509074,
+            "total_vote": 249,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 25,
+                "12": 7,
+                "13": 2,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 2,
+                "20": 1,
+                "21": 66,
+                "22": 61,
+                "23": 1,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 5,
+                "7": 2,
+                "8": 3,
+                "9": 65
+            }
+        },
+        "school_name": "BURMAHANCI FATİH İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1073,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/27582_bulk_999999999_1684096047426745158.jpg",
+            "submission_id": 509079,
+            "total_vote": 277,
+            "votes": {
+                "1": 62,
+                "2": 0,
+                "3": 187,
+                "4": 28
+            }
+        },
+        "mv_result": null,
+        "school_name": "BURMAHANCI FATİH İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1074,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/27582_bulk_999999999_1684096047526727418.jpg",
+            "submission_id": 509080,
+            "total_vote": 273,
+            "votes": {
+                "1": 82,
+                "2": 3,
+                "3": 160,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/fc5626eb-d7b7-4df8-ad55-48072f9725e1-1684105216237702955.jpg",
+            "submission_id": 597011,
+            "total_vote": 261,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 28,
+                "12": 0,
+                "13": 0,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 4,
+                "21": 76,
+                "22": 71,
+                "23": 4,
+                "24": 10,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 4,
+                "7": 0,
+                "8": 0,
+                "9": 55
+            }
+        },
+        "school_name": "BURMAHANCI FATİH İLKOKULU"
+    }
+]

@@ -1,0 +1,282 @@
+[
+    {
+        "ballot_box_number": 1157,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/29135_cb_1093701622_1684083397514284167.jpg",
+            "submission_id": 215847,
+            "total_vote": 320,
+            "votes": {
+                "1": 49,
+                "2": 0,
+                "3": 262,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/22583_bulk_999999999_1684094959444595708.jpeg",
+            "submission_id": 498167,
+            "total_vote": 317,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 5,
+                "12": 5,
+                "13": 34,
+                "14": 0,
+                "15": 85,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 110,
+                "22": 47,
+                "23": 0,
+                "24": 1,
+                "3": 5,
+                "4": 0,
+                "5": 3,
+                "6": 0,
+                "7": 6,
+                "8": 1,
+                "9": 12
+            }
+        },
+        "school_name": "YAVUZ SELİM ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1155,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/22583_bulk_999999999_1684088299775378406.jpeg",
+            "submission_id": 361304,
+            "total_vote": 311,
+            "votes": {
+                "1": 47,
+                "2": 2,
+                "3": 258,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/22583_bulk_999999999_1684088299648194448.jpeg",
+            "submission_id": 361302,
+            "total_vote": 308,
+            "votes": {
+                "10": 3,
+                "11": 7,
+                "12": 2,
+                "13": 19,
+                "14": 1,
+                "15": 1,
+                "16": 1,
+                "19": 2,
+                "21": 206,
+                "22": 27,
+                "24": 2,
+                "6": 1,
+                "7": 1,
+                "8": 3,
+                "9": 32
+            }
+        },
+        "school_name": "YAVUZ SELİM ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1158,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/9727_bulk_999999999_1684093816732690779.jpeg",
+            "submission_id": 474654,
+            "total_vote": 310,
+            "votes": {
+                "1": 61,
+                "2": 0,
+                "3": 237,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/9727_bulk_999999999_1684093816652152987.jpeg",
+            "submission_id": 474650,
+            "total_vote": 310,
+            "votes": {
+                "10": 2,
+                "11": 14,
+                "12": 7,
+                "13": 48,
+                "20": 1,
+                "21": 150,
+                "22": 28,
+                "24": 7,
+                "6": 6,
+                "7": 3,
+                "9": 44
+            }
+        },
+        "school_name": "YAVUZ SELİM ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1160,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/38320_cb_1093701628_1684088105120695523.jpg",
+            "submission_id": 355312,
+            "total_vote": 319,
+            "votes": {
+                "1": 52,
+                "2": 1,
+                "3": 250,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/22583_bulk_999999999_1684092775504749072.jpeg",
+            "submission_id": 460880,
+            "total_vote": 317,
+            "votes": {
+                "10": 3,
+                "11": 5,
+                "12": 9,
+                "13": 30,
+                "14": 1,
+                "21": 171,
+                "22": 35,
+                "23": 3,
+                "24": 11,
+                "3": 2,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 42
+            }
+        },
+        "school_name": "YAVUZ SELİM ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1154,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/22583_bulk_999999999_1684088368365874304.jpeg",
+            "submission_id": 363363,
+            "total_vote": 309,
+            "votes": {
+                "1": 57,
+                "2": 0,
+                "3": 247,
+                "4": 5
+            }
+        },
+        "mv_result": null,
+        "school_name": "YAVUZ SELİM ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1156,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/9727_bulk_999999999_1684093084963978260.jpeg",
+            "submission_id": 465071,
+            "total_vote": 316,
+            "votes": {
+                "1": 58,
+                "2": 3,
+                "3": 248,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/9727_bulk_999999999_1684093084868997686.jpeg",
+            "submission_id": 465068,
+            "total_vote": 315,
+            "votes": {
+                "10": 1,
+                "11": 9,
+                "12": 3,
+                "13": 37,
+                "15": 1,
+                "19": 4,
+                "21": 171,
+                "22": 39,
+                "24": 3,
+                "7": 4,
+                "9": 43
+            }
+        },
+        "school_name": "YAVUZ SELİM ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1161,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/9727_bulk_999999999_1684093600813132925.jpeg",
+            "submission_id": 471828,
+            "total_vote": 319,
+            "votes": {
+                "1": 50,
+                "2": 0,
+                "3": 257,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/9727_bulk_999999999_1684093600888313358.jpeg",
+            "submission_id": 471830,
+            "total_vote": 310,
+            "votes": {
+                "10": 1,
+                "11": 9,
+                "12": 13,
+                "13": 38,
+                "21": 171,
+                "22": 27,
+                "23": 1,
+                "24": 6,
+                "3": 3,
+                "6": 2,
+                "7": 5,
+                "9": 34
+            }
+        },
+        "school_name": "YAVUZ SELİM ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1159,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/22326_bulk_999999999_1684090999239048368.jpg",
+            "submission_id": 431915,
+            "total_vote": 308,
+            "votes": {
+                "1": 65,
+                "2": 0,
+                "3": 235,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/9727_bulk_999999999_1684093474636154321.jpeg",
+            "submission_id": 470303,
+            "total_vote": 298,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 6,
+                "12": 9,
+                "13": 46,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 140,
+                "23": 33,
+                "24": 3,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 55
+            }
+        },
+        "school_name": "YAVUZ SELİM ANADOLU LİSESİ"
+    }
+]

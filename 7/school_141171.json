@@ -1,0 +1,36 @@
+[
+    {
+        "ballot_box_number": 2001,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4f07697e-cdf2-4406-b7ce-75b38297a8cb-1684105406206834228.jpg",
+            "submission_id": 634372,
+            "total_vote": 298,
+            "votes": {
+                "1": 232,
+                "2": 3,
+                "3": 44,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a4bb8dab-4e97-4cc8-88e1-a4917d30f56b-1684105397741462542.jpg",
+            "submission_id": 632711,
+            "total_vote": 297,
+            "votes": {
+                "10": 3,
+                "11": 41,
+                "13": 4,
+                "14": 2,
+                "18": 2,
+                "21": 23,
+                "22": 18,
+                "24": 7,
+                "3": 3,
+                "6": 1,
+                "7": 2,
+                "9": 191
+            }
+        },
+        "school_name": "AKÇATI İLKÖĞRETİM OKULU"
+    }
+]

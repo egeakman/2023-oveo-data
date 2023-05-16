@@ -1,0 +1,110 @@
+[
+    {
+        "ballot_box_number": 1024,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/52168b8e-3c73-4c18-ac2c-0d7585175448-1684106110990189225.jpg",
+            "submission_id": 740345,
+            "total_vote": 297,
+            "votes": {
+                "1": 163,
+                "2": 1,
+                "3": 109,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/21b888b0-6fc4-4c05-b39d-115a96bffc3e-1684105755836294898.jpg",
+            "submission_id": 690733,
+            "total_vote": 284,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 82,
+                "12": 12,
+                "13": 3,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 74,
+                "22": 24,
+                "23": 0,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 77
+            }
+        },
+        "school_name": "(HASYURT ORTA ). HASYURT MERKEZ İLKOKUL BİNASI"
+    },
+    {
+        "ballot_box_number": 1025,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e9cc2dbe-ef71-4ba9-be31-c4c9517b878d-1684106199573344801.jpg",
+            "submission_id": 753524,
+            "total_vote": 300,
+            "votes": {
+                "1": 155,
+                "2": 3,
+                "3": 113,
+                "4": 29
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9a01e513-d1f7-415b-9f0a-a61c5cce5cbb-1684106035944029851.jpg",
+            "submission_id": 729956,
+            "total_vote": 290,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 77,
+                "12": 9,
+                "13": 4,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 74,
+                "22": 33,
+                "23": 0,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 1,
+                "9": 75
+            }
+        },
+        "school_name": "(HASYURT ORTA ). HASYURT MERKEZ İLKOKUL BİNASI"
+    },
+    {
+        "ballot_box_number": 1023,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/73739373-4573-4c15-b1a3-60c62522ee2e-1684106505136096398.jpg",
+            "submission_id": 798341,
+            "total_vote": 290,
+            "votes": {
+                "1": 172,
+                "2": 6,
+                "3": 100,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "(HASYURT ORTA ). HASYURT MERKEZ İLKOKUL BİNASI"
+    }
+]

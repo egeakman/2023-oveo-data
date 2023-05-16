@@ -1,0 +1,375 @@
+[
+    {
+        "ballot_box_number": 2033,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7da49cff-a5d5-446a-b03a-1a7b77fa12c7-1684106591635343803.jpg",
+            "submission_id": 810730,
+            "total_vote": 311,
+            "votes": {
+                "1": 151,
+                "2": 1,
+                "3": 137,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/66f173fa-7f79-42db-b924-c7ad3eec25a8-1684106504991113296.jpg",
+            "submission_id": 798136,
+            "total_vote": 308,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 42,
+                "12": 11,
+                "13": 5,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 1,
+                "21": 91,
+                "22": 31,
+                "23": 0,
+                "24": 8,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 6,
+                "8": 2,
+                "9": 104
+            }
+        },
+        "school_name": "AVSALLAR RECEP KARACA ÇPAL"
+    },
+    {
+        "ballot_box_number": 2031,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d6845b2d-9ad6-466e-804f-b811ba7b77f9-1684105693520630548.jpg",
+            "submission_id": 680667,
+            "total_vote": 294,
+            "votes": {
+                "1": 107,
+                "2": 1,
+                "3": 170,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/182fbd70-7916-48a2-859a-146251462c82-1684105220102288161.jpeg",
+            "submission_id": 597823,
+            "total_vote": 291,
+            "votes": {
+                "10": 1,
+                "11": 25,
+                "12": 15,
+                "13": 5,
+                "19": 1,
+                "2": 2,
+                "21": 108,
+                "22": 36,
+                "23": 1,
+                "24": 1,
+                "3": 7,
+                "6": 2,
+                "7": 5,
+                "9": 82
+            }
+        },
+        "school_name": "AVSALLAR RECEP KARACA ÇPAL"
+    },
+    {
+        "ballot_box_number": 2032,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c3945810-391a-4cbf-92e9-0227f81507b9-1684106411365572915.jpg",
+            "submission_id": 784024,
+            "total_vote": 283,
+            "votes": {
+                "1": 119,
+                "2": 0,
+                "3": 136,
+                "4": 28
+            }
+        },
+        "mv_result": null,
+        "school_name": "AVSALLAR RECEP KARACA ÇPAL"
+    },
+    {
+        "ballot_box_number": 2035,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5ced686d-dff7-4b16-b72f-09a3c24d8f48-1684106282849290209.jpg",
+            "submission_id": 767942,
+            "total_vote": 309,
+            "votes": {
+                "1": 156,
+                "2": 0,
+                "3": 129,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d3226216-290c-40e8-94c6-80d220cfb119-1684106277330930260.jpg",
+            "submission_id": 767283,
+            "total_vote": 303,
+            "votes": {
+                "10": 9,
+                "11": 33,
+                "12": 8,
+                "13": 9,
+                "14": 4,
+                "15": 1,
+                "16": 1,
+                "21": 86,
+                "22": 31,
+                "23": 2,
+                "24": 11,
+                "7": 3,
+                "8": 1,
+                "9": 104
+            }
+        },
+        "school_name": "AVSALLAR RECEP KARACA ÇPAL"
+    },
+    {
+        "ballot_box_number": 2028,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/6ac666ce-df45-4bf8-945e-cd41ea427a79-1684106695556697150.jpg",
+            "submission_id": 825293,
+            "total_vote": 301,
+            "votes": {
+                "1": 125,
+                "2": 1,
+                "3": 153,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/89de97fc-3bbf-45f1-a798-8d898aab0fbe-1684106630930741030.jpg",
+            "submission_id": 816123,
+            "total_vote": 299,
+            "votes": {
+                "10": 6,
+                "11": 37,
+                "12": 15,
+                "13": 11,
+                "14": 1,
+                "15": 1,
+                "17": 1,
+                "21": 98,
+                "22": 29,
+                "24": 7,
+                "4": 1,
+                "6": 1,
+                "7": 1,
+                "9": 90
+            }
+        },
+        "school_name": "AVSALLAR RECEP KARACA ÇPAL"
+    },
+    {
+        "ballot_box_number": 2037,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/50bfd9fb-3afd-40e7-9944-91b667a060ae-1684106697406142238.jpg",
+            "submission_id": 827803,
+            "total_vote": 309,
+            "votes": {
+                "1": 147,
+                "2": 1,
+                "3": 143,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/edfaf87f-522f-49a8-b31d-80cf0d8e54a0-1684105935306423256.jpg",
+            "submission_id": 717710,
+            "total_vote": 304,
+            "votes": {
+                "10": 4,
+                "11": 39,
+                "12": 18,
+                "13": 14,
+                "14": 1,
+                "21": 88,
+                "22": 26,
+                "24": 9,
+                "3": 1,
+                "6": 3,
+                "7": 3,
+                "8": 1,
+                "9": 97
+            }
+        },
+        "school_name": "AVSALLAR RECEP KARACA ÇPAL"
+    },
+    {
+        "ballot_box_number": 2029,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/539eb761-af99-47b9-bd56-dec6bb96824f-1684106482634613000.jpg",
+            "submission_id": 794768,
+            "total_vote": 287,
+            "votes": {
+                "1": 141,
+                "2": 2,
+                "3": 129,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5159e25d-5101-4896-b947-8f6932c18329-1684106478600512763.jpg",
+            "submission_id": 794150,
+            "total_vote": 284,
+            "votes": {
+                "1": 1,
+                "10": 6,
+                "11": 33,
+                "12": 9,
+                "13": 10,
+                "14": 2,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 79,
+                "22": 36,
+                "23": 4,
+                "24": 4,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 2,
+                "9": 95
+            }
+        },
+        "school_name": "AVSALLAR RECEP KARACA ÇPAL"
+    },
+    {
+        "ballot_box_number": 2027,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/794c3003-3848-4069-9673-f645049da520-1684106211104843536.jpg",
+            "submission_id": 755302,
+            "total_vote": 313,
+            "votes": {
+                "1": 116,
+                "2": 0,
+                "3": 187,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9d276283-1e79-44e0-949e-9cb4d3e19ea3-1684105950239326890.jpg",
+            "submission_id": 717583,
+            "total_vote": 310,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 24,
+                "12": 10,
+                "13": 5,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 3,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 135,
+                "22": 30,
+                "23": 0,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "6": 1,
+                "7": 6,
+                "8": 1,
+                "9": 86
+            }
+        },
+        "school_name": "AVSALLAR RECEP KARACA ÇPAL"
+    },
+    {
+        "ballot_box_number": 2030,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2bef0029-2544-4c54-96ac-80293c9e17e5-1684105188176809871.jpeg",
+            "submission_id": 592886,
+            "total_vote": 304,
+            "votes": {
+                "1": 131,
+                "2": 3,
+                "3": 148,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "AVSALLAR RECEP KARACA ÇPAL"
+    },
+    {
+        "ballot_box_number": 2036,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ecc0b022-790e-4938-8974-b778dc72ab01-1684106032477810608.jpg",
+            "submission_id": 731521,
+            "total_vote": 297,
+            "votes": {
+                "1": 142,
+                "2": 1,
+                "3": 121,
+                "4": 33
+            }
+        },
+        "mv_result": null,
+        "school_name": "AVSALLAR RECEP KARACA ÇPAL"
+    },
+    {
+        "ballot_box_number": 2034,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d171734d-1483-4fef-9d2e-38c3b50aeacd-1684106545977084732.jpg",
+            "submission_id": 806083,
+            "total_vote": 297,
+            "votes": {
+                "1": 141,
+                "3": 139,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5238d98e-3ea8-4cea-b250-6acc2d5a0c3c-1684106368339040218.jpg",
+            "submission_id": 780757,
+            "total_vote": 295,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 37,
+                "12": 6,
+                "13": 12,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 1,
+                "21": 98,
+                "22": 20,
+                "23": 0,
+                "24": 9,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 0,
+                "9": 99
+            }
+        },
+        "school_name": "AVSALLAR RECEP KARACA ÇPAL"
+    }
+]

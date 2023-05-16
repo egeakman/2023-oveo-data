@@ -1,0 +1,35 @@
+[
+    {
+        "ballot_box_number": 1138,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1987_bulk_999999999_1684091294747365039.jpg",
+            "submission_id": 437604,
+            "total_vote": 197,
+            "votes": {
+                "1": 87,
+                "2": 4,
+                "3": 100,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1987_bulk_999999999_1684091294536489229.jpg",
+            "submission_id": 437599,
+            "total_vote": 190,
+            "votes": {
+                "11": 27,
+                "15": 2,
+                "16": 1,
+                "18": 1,
+                "19": 1,
+                "21": 78,
+                "22": 19,
+                "24": 5,
+                "3": 1,
+                "7": 1,
+                "9": 54
+            }
+        },
+        "school_name": "YEŞİLYURT CUMHURİYET İ.Ö.O."
+    }
+]

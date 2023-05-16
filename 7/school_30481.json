@@ -1,0 +1,48 @@
+[
+    {
+        "ballot_box_number": 1359,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/12013_cb_1093707253_1684081304359219918.jpg",
+            "submission_id": 187669,
+            "total_vote": 211,
+            "votes": {
+                "1": 93,
+                "2": 0,
+                "3": 108,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/12013_mv_1083707253_1684083381122032999.jpg",
+            "submission_id": 215539,
+            "total_vote": 207,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 10,
+                "12": 7,
+                "13": 8,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 64,
+                "22": 30,
+                "23": 1,
+                "24": 2,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 1,
+                "9": 79
+            }
+        },
+        "school_name": "ÇAKIRLAR İLKOKULU"
+    }
+]

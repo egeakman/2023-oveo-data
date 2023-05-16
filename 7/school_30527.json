@@ -1,0 +1,28 @@
+[
+    {
+        "ballot_box_number": 1016,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/29392_bulk_999999999_1684098898479591699.jpg",
+            "submission_id": 529936,
+            "total_vote": 31,
+            "votes": {
+                "1": 12,
+                "3": 18,
+                "4": 1
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/29392_bulk_999999999_1684099993885732656.jpg",
+            "submission_id": 535280,
+            "total_vote": 30,
+            "votes": {
+                "11": 1,
+                "21": 13,
+                "22": 1,
+                "7": 4,
+                "9": 11
+            }
+        },
+        "school_name": "ÇANAKPINAR MAHALLESİ İLKOKULU"
+    }
+]

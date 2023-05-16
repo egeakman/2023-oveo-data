@@ -1,0 +1,614 @@
+[
+    {
+        "ballot_box_number": 1026,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/60607_bulk_999999999_1684090754102421412.jpeg",
+            "submission_id": 426697,
+            "total_vote": 343,
+            "votes": {
+                "1": 176,
+                "2": 3,
+                "3": 128,
+                "4": 36
+            }
+        },
+        "mv_result": null,
+        "school_name": "AKÇAALAN GAZİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1024,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/23851_cb_1093697898_1684099293610730333.jpeg",
+            "submission_id": 532279,
+            "total_vote": 330,
+            "votes": {
+                "1": 145,
+                "2": 3,
+                "3": 156,
+                "4": 26
+            }
+        },
+        "mv_result": null,
+        "school_name": "AKÇAALAN GAZİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1007,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/60607_bulk_999999999_1684090787091530886.jpeg",
+            "submission_id": 427425,
+            "total_vote": 294,
+            "votes": {
+                "1": 161,
+                "2": 2,
+                "3": 115,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "AKÇAALAN GAZİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1010,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/60607_bulk_999999999_1684090786470319847.jpeg",
+            "submission_id": 427409,
+            "total_vote": 319,
+            "votes": {
+                "1": 131,
+                "2": 5,
+                "3": 155,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/60607_bulk_999999999_1684090786572108184.jpeg",
+            "submission_id": 427410,
+            "total_vote": 309,
+            "votes": {
+                "10": 5,
+                "11": 41,
+                "12": 6,
+                "13": 6,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 87,
+                "22": 50,
+                "23": 1,
+                "24": 14,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 3,
+                "8": 5,
+                "9": 85
+            }
+        },
+        "school_name": "AKÇAALAN GAZİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1022,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/60607_bulk_999999999_1684090753951294183.jpeg",
+            "submission_id": 426686,
+            "total_vote": 318,
+            "votes": {
+                "1": 153,
+                "2": 1,
+                "3": 137,
+                "4": 27
+            }
+        },
+        "mv_result": null,
+        "school_name": "AKÇAALAN GAZİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1023,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/60607_bulk_999999999_1684090702367968761.jpeg",
+            "submission_id": 425616,
+            "total_vote": 319,
+            "votes": {
+                "1": 157,
+                "2": 3,
+                "3": 120,
+                "4": 39
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/60607_bulk_999999999_1684090702469562674.jpeg",
+            "submission_id": 425620,
+            "total_vote": 307,
+            "votes": {
+                "10": 6,
+                "11": 44,
+                "12": 5,
+                "13": 8,
+                "2": 1,
+                "21": 68,
+                "22": 37,
+                "24": 10,
+                "5": 1,
+                "6": 3,
+                "7": 8,
+                "8": 8,
+                "9": 108
+            }
+        },
+        "school_name": "AKÇAALAN GAZİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1020,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/60607_bulk_999999999_1684090813703307595.jpeg",
+            "submission_id": 427966,
+            "total_vote": 326,
+            "votes": {
+                "1": 145,
+                "2": 2,
+                "3": 139,
+                "4": 40
+            }
+        },
+        "mv_result": null,
+        "school_name": "AKÇAALAN GAZİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1019,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/23851_bulk_999999999_1684086788671146912.jpeg",
+            "submission_id": 311693,
+            "total_vote": 329,
+            "votes": {
+                "1": 155,
+                "2": 1,
+                "3": 134,
+                "4": 39
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/60607_bulk_999999999_1684090835569147379.jpeg",
+            "submission_id": 428431,
+            "total_vote": 327,
+            "votes": {
+                "1": 1,
+                "10": 32,
+                "11": 5,
+                "12": 9,
+                "13": 0,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 82,
+                "21": 0,
+                "22": 48,
+                "23": 5,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 5,
+                "7": 5,
+                "8": 116,
+                "9": 6
+            }
+        },
+        "school_name": "AKÇAALAN GAZİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1011,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/60607_bulk_999999999_1684090786748845715.jpeg",
+            "submission_id": 427416,
+            "total_vote": 327,
+            "votes": {
+                "1": 165,
+                "2": 1,
+                "3": 128,
+                "4": 33
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/60607_bulk_999999999_1684098974600094819.jpeg",
+            "submission_id": 530421,
+            "total_vote": 317,
+            "votes": {
+                "1": 1,
+                "10": 7,
+                "11": 47,
+                "12": 0,
+                "13": 5,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 86,
+                "22": 37,
+                "23": 0,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 9,
+                "8": 5,
+                "9": 108
+            }
+        },
+        "school_name": "AKÇAALAN GAZİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1015,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/60607_bulk_999999999_1684090786324043838.jpeg",
+            "submission_id": 427407,
+            "total_vote": 335,
+            "votes": {
+                "1": 157,
+                "2": 2,
+                "3": 148,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/60607_bulk_999999999_1684090786167828197.jpeg",
+            "submission_id": 427406,
+            "total_vote": 324,
+            "votes": {
+                "1": 1,
+                "10": 6,
+                "11": 34,
+                "12": 6,
+                "13": 2,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 100,
+                "22": 34,
+                "23": 0,
+                "24": 16,
+                "3": 0,
+                "4": 2,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 5,
+                "9": 115
+            }
+        },
+        "school_name": "AKÇAALAN GAZİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1009,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/60607_bulk_999999999_1684090835993174659.jpeg",
+            "submission_id": 428449,
+            "total_vote": 316,
+            "votes": {
+                "1": 162,
+                "2": 3,
+                "3": 118,
+                "4": 33
+            }
+        },
+        "mv_result": null,
+        "school_name": "AKÇAALAN GAZİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1018,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/23851_cb_1093697332_1684094128724295687.jpeg",
+            "submission_id": 487951,
+            "total_vote": 330,
+            "votes": {
+                "1": 138,
+                "2": 3,
+                "3": 153,
+                "4": 36
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/60607_bulk_999999999_1684090702584778788.jpeg",
+            "submission_id": 425622,
+            "total_vote": 316,
+            "votes": {
+                "1": 1,
+                "10": 5,
+                "11": 38,
+                "12": 3,
+                "13": 4,
+                "14": 1,
+                "15": 2,
+                "18": 1,
+                "19": 2,
+                "21": 92,
+                "22": 48,
+                "23": 1,
+                "24": 16,
+                "3": 1,
+                "6": 1,
+                "7": 6,
+                "8": 6,
+                "9": 88
+            }
+        },
+        "school_name": "AKÇAALAN GAZİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1013,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/60607_bulk_999999999_1684090753688486746.jpeg",
+            "submission_id": 426671,
+            "total_vote": 312,
+            "votes": {
+                "1": 140,
+                "2": 3,
+                "3": 135,
+                "4": 34
+            }
+        },
+        "mv_result": null,
+        "school_name": "AKÇAALAN GAZİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1025,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/60607_bulk_999999999_1684090754273304507.jpeg",
+            "submission_id": 426710,
+            "total_vote": 302,
+            "votes": {
+                "1": 139,
+                "2": 3,
+                "3": 129,
+                "4": 31
+            }
+        },
+        "mv_result": null,
+        "school_name": "AKÇAALAN GAZİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1008,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/60607_bulk_999999999_1684090835696276592.jpeg",
+            "submission_id": 428434,
+            "total_vote": 308,
+            "votes": {
+                "1": 138,
+                "2": 4,
+                "3": 146,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/60607_bulk_999999999_1684090836277075667.jpeg",
+            "submission_id": 428459,
+            "total_vote": 298,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 52,
+                "12": 4,
+                "13": 5,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 108,
+                "22": 29,
+                "23": 0,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 4,
+                "7": 4,
+                "8": 2,
+                "9": 81
+            }
+        },
+        "school_name": "AKÇAALAN GAZİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1012,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/60607_bulk_999999999_1684090753845689446.jpeg",
+            "submission_id": 426682,
+            "total_vote": 329,
+            "votes": {
+                "1": 139,
+                "2": 1,
+                "3": 156,
+                "4": 33
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/60607_bulk_999999999_1684090753784055833.jpeg",
+            "submission_id": 426676,
+            "total_vote": 318,
+            "votes": {
+                "10": 8,
+                "11": 41,
+                "12": 6,
+                "13": 3,
+                "15": 1,
+                "18": 1,
+                "19": 1,
+                "21": 106,
+                "22": 33,
+                "23": 2,
+                "24": 10,
+                "7": 3,
+                "8": 6,
+                "9": 97
+            }
+        },
+        "school_name": "AKÇAALAN GAZİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1016,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/60607_bulk_999999999_1684090813062453364.jpeg",
+            "submission_id": 427939,
+            "total_vote": 336,
+            "votes": {
+                "1": 169,
+                "2": 3,
+                "3": 140,
+                "4": 24
+            }
+        },
+        "mv_result": null,
+        "school_name": "AKÇAALAN GAZİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1021,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/60607_bulk_999999999_1684090813248536366.jpeg",
+            "submission_id": 427946,
+            "total_vote": 319,
+            "votes": {
+                "1": 126,
+                "2": 1,
+                "3": 156,
+                "4": 36
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/23851_mv_1083697895_1684094447447522935.jpeg",
+            "submission_id": 492067,
+            "total_vote": 309,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 29,
+                "12": 4,
+                "13": 9,
+                "14": 2,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 102,
+                "22": 36,
+                "23": 0,
+                "24": 18,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 8,
+                "8": 4,
+                "9": 92
+            }
+        },
+        "school_name": "AKÇAALAN GAZİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1017,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/60607_bulk_999999999_1684090813141172874.jpeg",
+            "submission_id": 427943,
+            "total_vote": 323,
+            "votes": {
+                "1": 152,
+                "2": 0,
+                "3": 132,
+                "4": 39
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/60607_bulk_999999999_1684090813819693601.jpeg",
+            "submission_id": 427969,
+            "total_vote": 312,
+            "votes": {
+                "10": 8,
+                "11": 49,
+                "12": 3,
+                "13": 11,
+                "14": 1,
+                "17": 1,
+                "19": 1,
+                "21": 90,
+                "22": 25,
+                "23": 2,
+                "24": 16,
+                "7": 7,
+                "8": 3,
+                "9": 95
+            }
+        },
+        "school_name": "AKÇAALAN GAZİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1014,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/60607_bulk_999999999_1684090813543625949.jpeg",
+            "submission_id": 427955,
+            "total_vote": 330,
+            "votes": {
+                "1": 162,
+                "2": 3,
+                "3": 132,
+                "4": 33
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/60607_bulk_999999999_1684090813427135080.jpeg",
+            "submission_id": 427953,
+            "total_vote": 326,
+            "votes": {
+                "1": 3,
+                "10": 11,
+                "11": 49,
+                "12": 6,
+                "13": 10,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 72,
+                "22": 48,
+                "23": 2,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 7,
+                "8": 4,
+                "9": 100
+            }
+        },
+        "school_name": "AKÇAALAN GAZİ ORTAOKULU"
+    }
+]

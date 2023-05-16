@@ -1,0 +1,47 @@
+[
+    {
+        "ballot_box_number": 1066,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1979_bulk_999999999_1684078754853456856.jpg",
+            "submission_id": 175111,
+            "total_vote": 66,
+            "votes": {
+                "1": 36,
+                "2": 0,
+                "3": 23,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1979_bulk_999999999_1684078754942155512.jpg",
+            "submission_id": 175112,
+            "total_vote": 66,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 7,
+                "12": 1,
+                "13": 1,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 15,
+                "22": 13,
+                "23": 1,
+                "24": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 25
+            }
+        },
+        "school_name": "GÖKDERE CAMİ BAHÇESİNDEKİ DEPO"
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "ballot_box_number": 1115,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/9511_cb_1093700343_1684084517079411566.jpg",
+            "submission_id": 240904,
+            "total_vote": 311,
+            "votes": {
+                "1": 100,
+                "2": 1,
+                "3": 194,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞÜKRÜ MÜLAZIMOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1119,
+        "cm_result": {
+            "image_url": "https://source2-secim-images.oyveotesi.org/raw/november/cf654bf2-d918-41e3-ab51-35db3dd51f8f.jpg",
+            "submission_id": 516577,
+            "total_vote": 317,
+            "votes": {
+                "1": 124,
+                "2": 1,
+                "3": 164,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/9511_mv_1083700347_1684083359231532283.jpg",
+            "submission_id": 215070,
+            "total_vote": 311,
+            "votes": {
+                "10": 2,
+                "11": 25,
+                "12": 27,
+                "13": 11,
+                "15": 3,
+                "19": 2,
+                "21": 88,
+                "22": 42,
+                "24": 13,
+                "5": 1,
+                "8": 2,
+                "9": 95
+            }
+        },
+        "school_name": "ŞÜKRÜ MÜLAZIMOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1117,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/9511_cb_1093700345_1684081830818158001.jpg",
+            "submission_id": 192756,
+            "total_vote": 333,
+            "votes": {
+                "1": 138,
+                "3": 176,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/9511_mv_1083700345_1684083042432106042.jpg",
+            "submission_id": 209459,
+            "total_vote": 328,
+            "votes": {
+                "10": 3,
+                "11": 21,
+                "12": 15,
+                "13": 19,
+                "15": 2,
+                "21": 108,
+                "22": 35,
+                "24": 13,
+                "7": 6,
+                "8": 4,
+                "9": 102
+            }
+        },
+        "school_name": "ŞÜKRÜ MÜLAZIMOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1116,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/9511_cb_1093700344_1684082282995451827.jpg",
+            "submission_id": 198142,
+            "total_vote": 344,
+            "votes": {
+                "1": 123,
+                "2": 3,
+                "3": 195,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/9511_mv_1083700344_1684082427754529210.jpg",
+            "submission_id": 199984,
+            "total_vote": 339,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 36,
+                "12": 16,
+                "13": 10,
+                "14": 1,
+                "15": 3,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 117,
+                "22": 49,
+                "23": 1,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 6,
+                "8": 4,
+                "9": 83
+            }
+        },
+        "school_name": "ŞÜKRÜ MÜLAZIMOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1118,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/9435_cb_1093700343_1684079699105629570.jpg",
+            "submission_id": 177965,
+            "total_vote": 330,
+            "votes": {
+                "1": 133,
+                "2": 1,
+                "3": 178,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞÜKRÜ MÜLAZIMOĞLU ORTAOKULU"
+    }
+]

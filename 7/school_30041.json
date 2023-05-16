@@ -1,0 +1,792 @@
+[
+    {
+        "ballot_box_number": 1441,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/71373_cb_1093712695_1684080501440511797.jpg",
+            "submission_id": 182064,
+            "total_vote": 339,
+            "votes": {
+                "1": 74,
+                "2": 0,
+                "3": 244,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/71373_mv_1083712695_1684086779719579729.jpg",
+            "submission_id": 311343,
+            "total_vote": 338,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 15,
+                "12": 20,
+                "13": 21,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 157,
+                "22": 43,
+                "23": 0,
+                "24": 14,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 3,
+                "8": 1,
+                "9": 60
+            }
+        },
+        "school_name": "GAZİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1443,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/71511_cb_1093712697_1684086609500906732.jpg",
+            "submission_id": 305333,
+            "total_vote": 337,
+            "votes": {
+                "1": 66,
+                "2": 3,
+                "3": 238,
+                "4": 30
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/71511_cb_1093712697_1684086476753792205.jpg",
+            "submission_id": 300669,
+            "total_vote": 336,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 14,
+                "12": 9,
+                "13": 33,
+                "2": 1,
+                "21": 159,
+                "22": 36,
+                "23": 1,
+                "24": 15,
+                "3": 1,
+                "7": 7,
+                "8": 1,
+                "9": 57
+            }
+        },
+        "school_name": "GAZİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1434,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/47602_cb_1093711568_1684088221070011433.jpg",
+            "submission_id": 358905,
+            "total_vote": 322,
+            "votes": {
+                "1": 76,
+                "2": 2,
+                "3": 226,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/47602_mv_1083711568_1684088306532038910.jpg",
+            "submission_id": 361531,
+            "total_vote": 322,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 13,
+                "12": 17,
+                "13": 23,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 155,
+                "22": 35,
+                "23": 1,
+                "24": 9,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 7,
+                "9": 57
+            }
+        },
+        "school_name": "GAZİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1448,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/32927_bulk_999999999_1684089778018841404.jpg",
+            "submission_id": 403891,
+            "total_vote": 348,
+            "votes": {
+                "1": 76,
+                "2": 4,
+                "3": 252,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "GAZİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1445,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/71373_bulk_999999999_1684097737539627286.jpeg",
+            "submission_id": 522750,
+            "total_vote": 346,
+            "votes": {
+                "1": 82,
+                "3": 237,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/71373_bulk_999999999_1684097771692028105.jpeg",
+            "submission_id": 522967,
+            "total_vote": 342,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 18,
+                "12": 13,
+                "13": 25,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 154,
+                "22": 46,
+                "23": 0,
+                "24": 14,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 3,
+                "8": 0,
+                "9": 58
+            }
+        },
+        "school_name": "GAZİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1429,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/32927_cb_1093711563_1684079246899048909.jpg",
+            "submission_id": 176371,
+            "total_vote": 306,
+            "votes": {
+                "1": 85,
+                "2": 6,
+                "3": 207,
+                "4": 8
+            }
+        },
+        "mv_result": null,
+        "school_name": "GAZİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1438,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/29175_cb_1093711572_1684086534421441524.jpg",
+            "submission_id": 302718,
+            "total_vote": 322,
+            "votes": {
+                "1": 80,
+                "2": 2,
+                "3": 221,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/29175_mv_1083711572_1684088191788062725.jpg",
+            "submission_id": 358024,
+            "total_vote": 326,
+            "votes": {
+                "10": 2,
+                "11": 17,
+                "12": 19,
+                "13": 38,
+                "14": 3,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 123,
+                "22": 51,
+                "23": 2,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 5,
+                "8": 1,
+                "9": 53
+            }
+        },
+        "school_name": "GAZİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1435,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/47602_cb_1093711569_1684088901901572102.jpg",
+            "submission_id": 379649,
+            "total_vote": 338,
+            "votes": {
+                "1": 76,
+                "2": 3,
+                "3": 239,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/47602_mv_1083711569_1684089036280725055.jpg",
+            "submission_id": 383551,
+            "total_vote": 335,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 19,
+                "12": 26,
+                "13": 25,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 125,
+                "22": 65,
+                "23": 0,
+                "24": 7,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 2,
+                "7": 3,
+                "8": 1,
+                "9": 57
+            }
+        },
+        "school_name": "GAZİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1437,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/57544_cb_1093711571_1684084710050818699.jpg",
+            "submission_id": 246147,
+            "total_vote": 327,
+            "votes": {
+                "1": 72,
+                "2": 1,
+                "3": 231,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/57544_mv_1083711571_1684089281507308536.jpg",
+            "submission_id": 390418,
+            "total_vote": 322,
+            "votes": {
+                "10": 3,
+                "11": 20,
+                "12": 22,
+                "13": 25,
+                "21": 139,
+                "22": 46,
+                "24": 14,
+                "7": 4,
+                "8": 1,
+                "9": 48
+            }
+        },
+        "school_name": "GAZİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1436,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/57544_cb_1093711570_1684086071008402268.jpg",
+            "submission_id": 287219,
+            "total_vote": 330,
+            "votes": {
+                "1": 78,
+                "2": 1,
+                "3": 239,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/71373_mv_1083711570_1684089452355866855.jpg",
+            "submission_id": 394919,
+            "total_vote": 328,
+            "votes": {
+                "1": 4,
+                "10": 2,
+                "11": 6,
+                "12": 22,
+                "13": 28,
+                "14": 2,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 152,
+                "22": 32,
+                "23": 0,
+                "24": 8,
+                "3": 4,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 6,
+                "8": 1,
+                "9": 60
+            }
+        },
+        "school_name": "GAZİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1428,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/47602_cb_1093711562_1684087728167991478.jpg",
+            "submission_id": 343324,
+            "total_vote": 307,
+            "votes": {
+                "1": 80,
+                "2": 1,
+                "3": 213,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/47602_mv_1083711562_1684087703971927498.jpg",
+            "submission_id": 342527,
+            "total_vote": 302,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 3,
+                "12": 1,
+                "13": 7,
+                "14": 17,
+                "15": 1,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 155,
+                "22": 30,
+                "23": 7,
+                "24": 6,
+                "3": 0,
+                "4": 3,
+                "5": 0,
+                "6": 1,
+                "8": 0,
+                "9": 69
+            }
+        },
+        "school_name": "GAZİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1440,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/70452_cb_1093711574_1684087102924313642.jpg",
+            "submission_id": 322667,
+            "total_vote": 318,
+            "votes": {
+                "1": 52,
+                "2": 4,
+                "3": 246,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/70452_mv_1083711574_1684087574098002298.jpg",
+            "submission_id": 338268,
+            "total_vote": 314,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 11,
+                "12": 9,
+                "13": 20,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 167,
+                "22": 47,
+                "23": 1,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 8,
+                "8": 2,
+                "9": 35
+            }
+        },
+        "school_name": "GAZİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1431,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/70452_bulk_999999999_1684093641415814077.jpeg",
+            "submission_id": 472355,
+            "total_vote": 330,
+            "votes": {
+                "1": 77,
+                "2": 3,
+                "3": 232,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/70452_bulk_999999999_1684093606117725812.jpeg",
+            "submission_id": 471883,
+            "total_vote": 325,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 7,
+                "12": 5,
+                "13": 26,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 147,
+                "22": 48,
+                "23": 0,
+                "24": 10,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 8,
+                "8": 0,
+                "9": 68
+            }
+        },
+        "school_name": "GAZİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1439,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/29175_cb_1093711573_1684082588278960538.jpg",
+            "submission_id": 202179,
+            "total_vote": 330,
+            "votes": {
+                "1": 75,
+                "2": 1,
+                "3": 236,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/79075_mv_1083711573_1684084210758583219.jpg",
+            "submission_id": 233130,
+            "total_vote": 327,
+            "votes": {
+                "10": 0,
+                "11": 14,
+                "12": 12,
+                "13": 29,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "20": 1,
+                "21": 158,
+                "22": 39,
+                "23": 0,
+                "24": 10,
+                "7": 5,
+                "8": 2,
+                "9": 55
+            }
+        },
+        "school_name": "GAZİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1432,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/79075_cb_1093711566_1684080785035585852.jpg",
+            "submission_id": 183774,
+            "total_vote": 316,
+            "votes": {
+                "1": 74,
+                "2": 1,
+                "3": 226,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/71373_mv_1083711566_1684089636246172769.jpg",
+            "submission_id": 400033,
+            "total_vote": 312,
+            "votes": {
+                "1": 2,
+                "10": 0,
+                "11": 23,
+                "12": 10,
+                "13": 18,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 146,
+                "22": 47,
+                "23": 1,
+                "24": 9,
+                "3": 0,
+                "4": 1,
+                "5": 1,
+                "6": 2,
+                "7": 0,
+                "8": 0,
+                "9": 50
+            }
+        },
+        "school_name": "GAZİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1447,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "GAZİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1442,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/29175_cb_1093712696_1684083099611524539.jpg",
+            "submission_id": 210399,
+            "total_vote": 331,
+            "votes": {
+                "1": 85,
+                "3": 231,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/71373_bulk_999999999_1684085766813954457.png",
+            "submission_id": 277336,
+            "total_vote": 325,
+            "votes": {
+                "11": 17,
+                "12": 21,
+                "13": 35,
+                "21": 125,
+                "22": 46,
+                "23": 1,
+                "24": 10,
+                "3": 5,
+                "7": 5,
+                "8": 2,
+                "9": 58
+            }
+        },
+        "school_name": "GAZİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1430,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/63277_cb_1093711564_1684086813401744458.jpg",
+            "submission_id": 312509,
+            "total_vote": 307,
+            "votes": {
+                "1": 84,
+                "3": 209,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/63277_mv_1083711564_1684087602857843371.jpg",
+            "submission_id": 339157,
+            "total_vote": 302,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 15,
+                "12": 5,
+                "13": 15,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 144,
+                "22": 41,
+                "23": 2,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 0,
+                "9": 68
+            }
+        },
+        "school_name": "GAZİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1433,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/47602_cb_1093711567_1684088651250783824.jpg",
+            "submission_id": 372234,
+            "total_vote": 323,
+            "votes": {
+                "1": 91,
+                "2": 1,
+                "3": 205,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/47602_mv_1083711567_1684088776526901127.jpg",
+            "submission_id": 375946,
+            "total_vote": 320,
+            "votes": {
+                "11": 24,
+                "12": 20,
+                "13": 33,
+                "15": 1,
+                "21": 126,
+                "22": 33,
+                "23": 1,
+                "24": 8,
+                "7": 6,
+                "8": 3,
+                "9": 65
+            }
+        },
+        "school_name": "GAZİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1446,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/47560_cb_1093712700_1684085355503022604.jpg",
+            "submission_id": 264352,
+            "total_vote": 343,
+            "votes": {
+                "1": 95,
+                "2": 2,
+                "3": 233,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/70452_bulk_999999999_1684093641449741868.jpeg",
+            "submission_id": 472356,
+            "total_vote": 339,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 21,
+                "12": 46,
+                "13": 22,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 2,
+                "20": 1,
+                "21": 134,
+                "22": 37,
+                "23": 1,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 0,
+                "9": 64
+            }
+        },
+        "school_name": "GAZİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1444,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/71511_cb_1093712698_1684086916094573459.jpg",
+            "submission_id": 316012,
+            "total_vote": 325,
+            "votes": {
+                "1": 76,
+                "2": 2,
+                "3": 241,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/71511_mv_1083712698_1684087635271869450.jpg",
+            "submission_id": 340242,
+            "total_vote": 325,
+            "votes": {
+                "1": 2,
+                "10": 4,
+                "11": 21,
+                "12": 12,
+                "13": 27,
+                "21": 145,
+                "22": 52,
+                "23": 1,
+                "24": 3,
+                "7": 7,
+                "8": 1,
+                "9": 50
+            }
+        },
+        "school_name": "GAZİ ANADOLU LİSESİ"
+    }
+]

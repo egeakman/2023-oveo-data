@@ -1,0 +1,32 @@
+[
+    {
+        "ballot_box_number": 1034,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f99cad92-a7ab-4adc-b7da-1b9c0466133a-1684105918339332902.jpg",
+            "submission_id": 712969,
+            "total_vote": 137,
+            "votes": {
+                "1": 75,
+                "2": 0,
+                "3": 57,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3c19b85f-0e6d-4807-8562-2aeea70fdab0-1684105909808778473.jpg",
+            "submission_id": 712122,
+            "total_vote": 134,
+            "votes": {
+                "10": 2,
+                "11": 17,
+                "21": 28,
+                "22": 28,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 55
+            }
+        },
+        "school_name": "ÇOMAKLI HACIBEKAR CAMİ SAHANLIĞI"
+    }
+]

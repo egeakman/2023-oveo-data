@@ -1,0 +1,34 @@
+[
+    {
+        "ballot_box_number": 1097,
+        "cm_result": {
+            "image_url": "https://source2-secim-images.oyveotesi.org/raw/whiskey/facdee5f-abb4-42db-9809-ac0304c57e09.jpg",
+            "submission_id": 552058,
+            "total_vote": 247,
+            "votes": {
+                "1": 161,
+                "2": 2,
+                "3": 72,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "HİSARÇANDIR OKULU"
+    },
+    {
+        "ballot_box_number": 1096,
+        "cm_result": {
+            "image_url": "https://source2-secim-images.oyveotesi.org/raw/whiskey/3cbf5f54-3ce7-45bb-84a4-2c67facce7d2.jpg",
+            "submission_id": 551633,
+            "total_vote": 224,
+            "votes": {
+                "1": 129,
+                "2": 2,
+                "3": 85,
+                "4": 8
+            }
+        },
+        "mv_result": null,
+        "school_name": "HİSARÇANDIR OKULU"
+    }
+]

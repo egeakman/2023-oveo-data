@@ -1,0 +1,400 @@
+[
+    {
+        "ballot_box_number": 1178,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/17036_bulk_999999999_1684086799166587119.jpg",
+            "submission_id": 312027,
+            "total_vote": 297,
+            "votes": {
+                "1": 96,
+                "2": 1,
+                "3": 182,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "HACIKURA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1181,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/49607_cb_1093702355_1684086233930665430.jpg",
+            "submission_id": 292521,
+            "total_vote": 298,
+            "votes": {
+                "1": 89,
+                "2": 0,
+                "3": 179,
+                "4": 30
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/49607_mv_1083702355_1684086259372524986.jpg",
+            "submission_id": 293393,
+            "total_vote": 294,
+            "votes": {
+                "10": 4,
+                "11": 23,
+                "12": 21,
+                "13": 11,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 2,
+                "21": 107,
+                "22": 32,
+                "23": 1,
+                "24": 20,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 4,
+                "8": 3,
+                "9": 63
+            }
+        },
+        "school_name": "HACIKURA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1182,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/49607_bulk_999999999_1684084940696704097.jpeg",
+            "submission_id": 252413,
+            "total_vote": 310,
+            "votes": {
+                "1": 103,
+                "3": 187,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "HACIKURA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1187,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/49607_cb_1093702361_1684085046727129213.jpg",
+            "submission_id": 255511,
+            "total_vote": 315,
+            "votes": {
+                "1": 107,
+                "2": 1,
+                "3": 190,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/49607_mv_1083702361_1684085022942440418.jpg",
+            "submission_id": 254817,
+            "total_vote": 311,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 26,
+                "12": 16,
+                "13": 12,
+                "14": 0,
+                "15": 3,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 1,
+                "21": 121,
+                "22": 31,
+                "23": 2,
+                "24": 10,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 7,
+                "8": 6,
+                "9": 70
+            }
+        },
+        "school_name": "HACIKURA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1183,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/8497_cb_1093702357_1684085928561991633.jpg",
+            "submission_id": 282711,
+            "total_vote": 314,
+            "votes": {
+                "1": 114,
+                "2": 1,
+                "3": 176,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/8497_mv_1083702357_1684085961164708501.jpg",
+            "submission_id": 283756,
+            "total_vote": 299,
+            "votes": {
+                "1": 0,
+                "10": 8,
+                "11": 18,
+                "12": 32,
+                "13": 14,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 89,
+                "22": 29,
+                "23": 2,
+                "24": 9,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "7": 5,
+                "8": 2,
+                "9": 88
+            }
+        },
+        "school_name": "HACIKURA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1184,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/8497_cb_1093702358_1684081600177302575.jpg",
+            "submission_id": 190345,
+            "total_vote": 318,
+            "votes": {
+                "1": 117,
+                "2": 1,
+                "3": 174,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/8497_mv_1083702358_1684083437177634955.jpg",
+            "submission_id": 216598,
+            "total_vote": 315,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 32,
+                "12": 21,
+                "13": 14,
+                "14": 0,
+                "15": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 106,
+                "22": 32,
+                "23": 0,
+                "24": 8,
+                "3": 1,
+                "6": 2,
+                "7": 8,
+                "8": 4,
+                "9": 84
+            }
+        },
+        "school_name": "HACIKURA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1179,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/61848_cb_1093701933_1684080127235802309.jpg",
+            "submission_id": 179898,
+            "total_vote": 311,
+            "votes": {
+                "1": 129,
+                "3": 166,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "HACIKURA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1185,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/8497_cb_1093702359_1684083284138384614.jpg",
+            "submission_id": 213630,
+            "total_vote": 304,
+            "votes": {
+                "1": 92,
+                "2": 0,
+                "3": 197,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/8497_mv_1083702359_1684083336464137109.jpg",
+            "submission_id": 214591,
+            "total_vote": 299,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 17,
+                "12": 25,
+                "13": 19,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 104,
+                "22": 47,
+                "23": 0,
+                "24": 4,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 9,
+                "8": 2,
+                "9": 68
+            }
+        },
+        "school_name": "HACIKURA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1186,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/49607_cb_1093702360_1684080914840259551.jpg",
+            "submission_id": 184697,
+            "total_vote": 288,
+            "votes": {
+                "1": 99,
+                "2": 2,
+                "3": 173,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/17036_mv_1083702360_1684085535151975725.jpg",
+            "submission_id": 269691,
+            "total_vote": 281,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 25,
+                "12": 14,
+                "13": 18,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 99,
+                "22": 41,
+                "23": 1,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 2,
+                "9": 69
+            }
+        },
+        "school_name": "HACIKURA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1180,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/49607_cb_1093701934_1684088903069085231.jpg",
+            "submission_id": 379678,
+            "total_vote": 307,
+            "votes": {
+                "1": 116,
+                "2": 1,
+                "3": 170,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/49607_mv_1083701934_1684088922939703829.jpg",
+            "submission_id": 380303,
+            "total_vote": 304,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 21,
+                "12": 12,
+                "13": 13,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 103,
+                "22": 36,
+                "23": 0,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 4,
+                "8": 6,
+                "9": 93
+            }
+        },
+        "school_name": "HACIKURA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1177,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/49607_bulk_999999999_1684084760283153593.jpeg",
+            "submission_id": 247488,
+            "total_vote": 276,
+            "votes": {
+                "1": 86,
+                "2": 1,
+                "3": 186,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/49607_bulk_999999999_1684084819198165889.jpeg",
+            "submission_id": 249022,
+            "total_vote": 269,
+            "votes": {
+                "10": 1,
+                "11": 22,
+                "12": 19,
+                "13": 5,
+                "19": 1,
+                "20": 1,
+                "21": 132,
+                "22": 20,
+                "23": 1,
+                "24": 2,
+                "5": 1,
+                "8": 1,
+                "9": 63
+            }
+        },
+        "school_name": "HACIKURA İLKOKULU"
+    }
+]

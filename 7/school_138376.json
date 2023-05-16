@@ -1,0 +1,37 @@
+[
+    {
+        "ballot_box_number": 1323,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/73435_bulk_999999999_1684084104900077698.jpeg",
+            "submission_id": 230486,
+            "total_vote": 175,
+            "votes": {
+                "1": 77,
+                "3": 89,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/73435_bulk_999999999_1684084104722993807.jpeg",
+            "submission_id": 230481,
+            "total_vote": 173,
+            "votes": {
+                "11": 8,
+                "12": 5,
+                "13": 2,
+                "15": 1,
+                "18": 1,
+                "20": 1,
+                "21": 55,
+                "22": 24,
+                "24": 7,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "8": 4,
+                "9": 61
+            }
+        },
+        "school_name": "ALANYA MÜFTÜLÜĞÜ GENÇLİK MERKEZİ( ANDIZ CAMİ ALTI)"
+    }
+]

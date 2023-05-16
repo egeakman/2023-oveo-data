@@ -1,0 +1,18 @@
+[
+    {
+        "ballot_box_number": 2049,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/80b81d52-5f87-498e-acbe-3c3141e2f7be-1684106582850690829.jpg",
+            "submission_id": 809100,
+            "total_vote": 166,
+            "votes": {
+                "1": 97,
+                "2": 10,
+                "3": 51,
+                "4": 8
+            }
+        },
+        "mv_result": null,
+        "school_name": "BÜYÜKPINAR İLKOKULU"
+    }
+]

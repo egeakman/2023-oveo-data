@@ -1,0 +1,110 @@
+[
+    {
+        "ballot_box_number": 1012,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/530abeff-4b26-46e7-990e-17b93a2f759e-1684106524175765041.jpg",
+            "submission_id": 800278,
+            "total_vote": 286,
+            "votes": {
+                "1": 80,
+                "2": 2,
+                "3": 186,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/173500b6-35b1-45ec-a369-81459c9bc278-1684106451187269169.jpg",
+            "submission_id": 789685,
+            "total_vote": 278,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 27,
+                "12": 0,
+                "13": 2,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 143,
+                "22": 36,
+                "23": 1,
+                "24": 2,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 0,
+                "9": 54
+            }
+        },
+        "school_name": "ATATÜRK İLKOKULU / ORTAOKULU (B)"
+    },
+    {
+        "ballot_box_number": 1010,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ae29ccbc-09b8-44d3-866e-b5d89ddfc7b5-1684106539860165188.jpg",
+            "submission_id": 802696,
+            "total_vote": 285,
+            "votes": {
+                "1": 101,
+                "2": 3,
+                "3": 176,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/fd89a659-d1d7-4947-bf61-1d44f0e66e8a-1684106148995643132.jpg",
+            "submission_id": 745226,
+            "total_vote": 283,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 26,
+                "12": 1,
+                "13": 5,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 138,
+                "22": 25,
+                "23": 1,
+                "24": 1,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 74
+            }
+        },
+        "school_name": "ATATÜRK İLKOKULU / ORTAOKULU (B)"
+    },
+    {
+        "ballot_box_number": 1011,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f4781bb6-b06e-428b-91b0-b199b9d462d1-1684106527788280387.jpg",
+            "submission_id": 800723,
+            "total_vote": 288,
+            "votes": {
+                "1": 96,
+                "2": 2,
+                "3": 181,
+                "4": 9
+            }
+        },
+        "mv_result": null,
+        "school_name": "ATATÜRK İLKOKULU / ORTAOKULU (B)"
+    }
+]

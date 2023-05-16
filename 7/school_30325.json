@@ -1,0 +1,35 @@
+[
+    {
+        "ballot_box_number": 1129,
+        "cm_result": {
+            "image_url": "https://source2-secim-images.oyveotesi.org/raw/Photos-001 (12)/2f69c75d-5414-465a-a8bb-358ff4e9786b.jpg",
+            "submission_id": 1009239,
+            "total_vote": 164,
+            "votes": {
+                "1": 68,
+                "2": 4,
+                "3": 83,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source2-secim-images.oyveotesi.org/raw/Photos-001 (12)/eb263186-743e-4d27-b607-4db8463562f7.jpg",
+            "submission_id": 1009259,
+            "total_vote": 162,
+            "votes": {
+                "10": 2,
+                "11": 30,
+                "12": 1,
+                "17": 1,
+                "21": 50,
+                "22": 25,
+                "23": 1,
+                "24": 3,
+                "7": 5,
+                "8": 2,
+                "9": 42
+            }
+        },
+        "school_name": "YENİGÜNEY İ.Ö.O."
+    }
+]

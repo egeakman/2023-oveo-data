@@ -1,0 +1,103 @@
+[
+    {
+        "ballot_box_number": 1025,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/79942db1-6a97-42bd-9ef9-331431e23a8d-1684106091092970179.jpg",
+            "submission_id": 736868,
+            "total_vote": 213,
+            "votes": {
+                "1": 74,
+                "2": 3,
+                "3": 135,
+                "4": 1
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/857a8269-3fd2-4389-85f2-31f8af86368d-1684106086238175758.jpg",
+            "submission_id": 736142,
+            "total_vote": 203,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 14,
+                "12": 1,
+                "13": 2,
+                "14": 1,
+                "15": 3,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 112,
+                "22": 16,
+                "23": 2,
+                "24": 1,
+                "3": 0,
+                "4": 2,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 44
+            }
+        },
+        "school_name": "BOZOVA ŞEHİT ÖĞRETMEN METİN KAYNAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1027,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f3df4ff5-7c72-41f1-b0c8-991079036041-1684106015794021016.jpg",
+            "submission_id": 726529,
+            "total_vote": 239,
+            "votes": {
+                "1": 73,
+                "2": 1,
+                "3": 160,
+                "4": 5
+            }
+        },
+        "mv_result": null,
+        "school_name": "BOZOVA ŞEHİT ÖĞRETMEN METİN KAYNAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1026,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/19c23871-7888-4af0-99fd-52b8c1d19ddb-1684106118104638430.jpg",
+            "submission_id": 740681,
+            "total_vote": 232,
+            "votes": {
+                "1": 67,
+                "2": 3,
+                "3": 156,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2f0f7457-43bd-4b22-95b6-4514293d50af-1684106114609894168.jpg",
+            "submission_id": 740225,
+            "total_vote": 217,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 17,
+                "12": 1,
+                "13": 6,
+                "14": 1,
+                "15": 1,
+                "17": 1,
+                "19": 1,
+                "20": 1,
+                "21": 116,
+                "22": 27,
+                "23": 1,
+                "24": 2,
+                "7": 4,
+                "8": 2,
+                "9": 33
+            }
+        },
+        "school_name": "BOZOVA ŞEHİT ÖĞRETMEN METİN KAYNAR İLKOKULU"
+    }
+]

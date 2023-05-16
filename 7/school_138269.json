@@ -1,0 +1,24 @@
+[
+    {
+        "ballot_box_number": 1004,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "ARİF MAH. ŞEHİT OSMAN ÇELİK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1005,
+        "cm_result": {
+            "image_url": "https://source2-secim-images.oyveotesi.org/raw/romeo/076bfcb9-0ce7-463f-ab10-45a2dccad307.jpg",
+            "submission_id": 549421,
+            "total_vote": 295,
+            "votes": {
+                "1": 125,
+                "2": 7,
+                "3": 140,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "ARİF MAH. ŞEHİT OSMAN ÇELİK İLKOKULU"
+    }
+]

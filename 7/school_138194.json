@@ -1,0 +1,68 @@
+[
+    {
+        "ballot_box_number": 2139,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "KESTEL ALANTUR AYHAN ŞAHENK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2141,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "KESTEL ALANTUR AYHAN ŞAHENK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2136,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/249eb2ca-6db8-458a-a5da-acb9e242fa5a-1684105643907372275.jpg",
+            "submission_id": 672932,
+            "total_vote": 287,
+            "votes": {
+                "10": 4,
+                "11": 25,
+                "12": 6,
+                "13": 5,
+                "17": 1,
+                "19": 1,
+                "21": 93,
+                "22": 23,
+                "24": 9,
+                "4": 1,
+                "6": 1,
+                "7": 3,
+                "8": 4,
+                "9": 111
+            }
+        },
+        "school_name": "KESTEL ALANTUR AYHAN ŞAHENK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2138,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d663bc00-f87f-44d4-a168-31d2fc98898b-1684105991505815107.jpg",
+            "submission_id": 723349,
+            "total_vote": 305,
+            "votes": {
+                "1": 120,
+                "2": 2,
+                "3": 155,
+                "4": 28
+            }
+        },
+        "mv_result": null,
+        "school_name": "KESTEL ALANTUR AYHAN ŞAHENK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2140,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "KESTEL ALANTUR AYHAN ŞAHENK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2137,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "KESTEL ALANTUR AYHAN ŞAHENK İLKOKULU"
+    }
+]

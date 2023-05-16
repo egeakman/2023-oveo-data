@@ -1,0 +1,423 @@
+[
+    {
+        "ballot_box_number": 2334,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/dfe95ea2-7cd9-4874-9735-c922f476fb8a-1684105291714881864.jpeg",
+            "submission_id": 611880,
+            "total_vote": 334,
+            "votes": {
+                "1": 73,
+                "2": 1,
+                "3": 245,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/1a326e92-04f6-4cd4-abf7-a7a025c7727a-1684105135874534290.jpg",
+            "submission_id": 581420,
+            "total_vote": 326,
+            "votes": {
+                "10": 2,
+                "11": 19,
+                "12": 14,
+                "13": 23,
+                "2": 2,
+                "21": 153,
+                "22": 45,
+                "24": 7,
+                "4": 1,
+                "5": 1,
+                "6": 3,
+                "7": 4,
+                "9": 52
+            }
+        },
+        "school_name": "NAMIK KEMAL ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 2326,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "NAMIK KEMAL ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 2338,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/51029_cb_1093814236_1684084286887116362.jpg",
+            "submission_id": 235187,
+            "total_vote": 337,
+            "votes": {
+                "1": 25,
+                "2": 0,
+                "3": 292,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/51029_mv_1083814236_1684084329321338022.jpg",
+            "submission_id": 236226,
+            "total_vote": 338,
+            "votes": {
+                "11": 30,
+                "12": 22,
+                "13": 27,
+                "14": 1,
+                "19": 1,
+                "21": 139,
+                "22": 45,
+                "23": 1,
+                "24": 8,
+                "3": 11,
+                "7": 7,
+                "8": 1,
+                "9": 45
+            }
+        },
+        "school_name": "NAMIK KEMAL ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 2341,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/51029_cb_1093814239_1684084737821540735.jpg",
+            "submission_id": 246894,
+            "total_vote": 358,
+            "votes": {
+                "1": 84,
+                "2": 2,
+                "3": 250,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/51029_mv_1083814239_1684086113453437283.jpg",
+            "submission_id": 288569,
+            "total_vote": 356,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 27,
+                "12": 14,
+                "13": 33,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 158,
+                "22": 36,
+                "23": 0,
+                "24": 11,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 5,
+                "8": 2,
+                "9": 62
+            }
+        },
+        "school_name": "NAMIK KEMAL ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 2333,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/79d9f850-a431-4608-8ddc-f826ae44ad48-1684105264004447423.jpeg",
+            "submission_id": 607631,
+            "total_vote": 320,
+            "votes": {
+                "10": 3,
+                "11": 8,
+                "12": 21,
+                "13": 34,
+                "14": 1,
+                "21": 133,
+                "22": 43,
+                "24": 9,
+                "7": 2,
+                "8": 1,
+                "9": 65
+            }
+        },
+        "school_name": "NAMIK KEMAL ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 2331,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5ca85f62-e59b-499c-840f-57e3a9eadf1c-1684106046793647364.jpeg",
+            "submission_id": 730304,
+            "total_vote": 334,
+            "votes": {
+                "1": 87,
+                "3": 227,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/51029_mv_1083813909_1684085159780953501.jpg",
+            "submission_id": 258661,
+            "total_vote": 333,
+            "votes": {
+                "1": 3,
+                "10": 4,
+                "11": 16,
+                "12": 23,
+                "13": 37,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 134,
+                "22": 30,
+                "23": 0,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 6,
+                "8": 1,
+                "9": 67
+            }
+        },
+        "school_name": "NAMIK KEMAL ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 2337,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/51029_cb_1093814235_1684087362941865930.jpg",
+            "submission_id": 331444,
+            "total_vote": 336,
+            "votes": {
+                "1": 84,
+                "2": 3,
+                "3": 232,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/51029_mv_1083814235_1684087309497864980.jpg",
+            "submission_id": 329683,
+            "total_vote": 329,
+            "votes": {
+                "10": 6,
+                "11": 17,
+                "12": 9,
+                "13": 45,
+                "14": 1,
+                "15": 1,
+                "19": 2,
+                "21": 130,
+                "22": 40,
+                "24": 8,
+                "6": 3,
+                "7": 8,
+                "9": 59
+            }
+        },
+        "school_name": "NAMIK KEMAL ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 2327,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/467c35ee-1346-4b08-8b62-fc68d810b21e-1684105606131875321.jpeg",
+            "submission_id": 666282,
+            "total_vote": 313,
+            "votes": {
+                "1": 75,
+                "2": 1,
+                "3": 226,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d6278d3e-a22a-4e79-9bd1-362c19a4c0dd-1684105619966927238.jpeg",
+            "submission_id": 668435,
+            "total_vote": 305,
+            "votes": {
+                "10": 5,
+                "11": 12,
+                "12": 3,
+                "13": 18,
+                "21": 161,
+                "22": 37,
+                "24": 5,
+                "3": 1,
+                "6": 1,
+                "7": 4,
+                "8": 2,
+                "9": 56
+            }
+        },
+        "school_name": "NAMIK KEMAL ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 2329,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0e3974d9-f7f8-4771-b418-72e5483075f0-1684105595545586116.jpeg",
+            "submission_id": 664416,
+            "total_vote": 332,
+            "votes": {
+                "1": 102,
+                "3": 204,
+                "4": 26
+            }
+        },
+        "mv_result": null,
+        "school_name": "NAMIK KEMAL ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 2335,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/51029_cb_1093813913_1684082195480465598.jpg",
+            "submission_id": 196980,
+            "total_vote": 332,
+            "votes": {
+                "1": 80,
+                "2": 2,
+                "3": 227,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/51029_mv_1083813913_1684088394642680272.jpg",
+            "submission_id": 364246,
+            "total_vote": 334,
+            "votes": {
+                "10": 4,
+                "11": 22,
+                "12": 8,
+                "13": 26,
+                "21": 147,
+                "23": 49,
+                "24": 14,
+                "5": 1,
+                "7": 2,
+                "8": 1,
+                "9": 60
+            }
+        },
+        "school_name": "NAMIK KEMAL ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 2340,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/edf71c12-9b0a-498c-860c-efa5ef53ee1f-1684105907649845530.jpeg",
+            "submission_id": 712369,
+            "total_vote": 330,
+            "votes": {
+                "1": 95,
+                "2": 2,
+                "3": 214,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "NAMIK KEMAL ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 2339,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/51029_cb_1093814237_1684086838823325601.jpg",
+            "submission_id": 313380,
+            "total_vote": 329,
+            "votes": {
+                "1": 91,
+                "2": 2,
+                "3": 217,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/51029_mv_1083814237_1684086797145828615.jpg",
+            "submission_id": 311967,
+            "total_vote": 324,
+            "votes": {
+                "10": 4,
+                "11": 20,
+                "12": 13,
+                "13": 27,
+                "20": 2,
+                "21": 132,
+                "22": 46,
+                "24": 4,
+                "6": 2,
+                "7": 5,
+                "8": 1,
+                "9": 68
+            }
+        },
+        "school_name": "NAMIK KEMAL ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 2332,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "NAMIK KEMAL ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 2336,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "NAMIK KEMAL ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 2328,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "NAMIK KEMAL ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 2330,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/66000_cb_1093714657_1684079494632690028.jpg",
+            "submission_id": 177206,
+            "total_vote": 322,
+            "votes": {
+                "1": 75,
+                "2": 1,
+                "3": 234,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d3921f28-bcaf-4ea2-ab22-b911c6ed8046-1684106102162407662.jpeg",
+            "submission_id": 738544,
+            "total_vote": 315,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 13,
+                "12": 14,
+                "13": 29,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 134,
+                "22": 31,
+                "23": 0,
+                "24": 0,
+                "3": 4,
+                "4": 0,
+                "5": 1,
+                "6": 6,
+                "7": 0,
+                "8": 0,
+                "9": 81
+            }
+        },
+        "school_name": "NAMIK KEMAL ORTA OKULU"
+    }
+]

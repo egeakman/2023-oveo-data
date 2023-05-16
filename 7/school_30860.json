@@ -1,0 +1,56 @@
+[
+    {
+        "ballot_box_number": 1101,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "ÇAKIŞ MAH. İLK/ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1099,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "ÇAKIŞ MAH. İLK/ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1100,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "ÇAKIŞ MAH. İLK/ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1102,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/74966_cb_1093700376_1684085122160488337.jpg",
+            "submission_id": 257562,
+            "total_vote": 332,
+            "votes": {
+                "1": 106,
+                "2": 2,
+                "3": 203,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/74966_mv_1083700376_1684085759994662888.jpg",
+            "submission_id": 277090,
+            "total_vote": 318,
+            "votes": {
+                "10": 2,
+                "11": 39,
+                "12": 3,
+                "13": 2,
+                "19": 1,
+                "2": 1,
+                "20": 1,
+                "21": 130,
+                "22": 65,
+                "23": 1,
+                "24": 12,
+                "6": 1,
+                "7": 1,
+                "9": 59
+            }
+        },
+        "school_name": "ÇAKIŞ MAH. İLK/ORTA OKULU"
+    }
+]

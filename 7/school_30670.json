@@ -1,0 +1,294 @@
+[
+    {
+        "ballot_box_number": 1024,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ae65faf9-62a9-478e-a56c-aa8b7295b0fc-1684106417612334638.jpeg",
+            "submission_id": 784814,
+            "total_vote": 299,
+            "votes": {
+                "1": 88,
+                "2": 2,
+                "3": 197,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/27bd4fd4-cb50-4e02-b097-9f5fe549b561-1684105651134352755.jpeg",
+            "submission_id": 673930,
+            "total_vote": 293,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 15,
+                "12": 14,
+                "13": 33,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 127,
+                "22": 23,
+                "23": 1,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 6,
+                "8": 0,
+                "9": 59
+            }
+        },
+        "school_name": "KAŞ ÇERÇİLER ATATÜRK İLKÖĞRETİM OKULU"
+    },
+    {
+        "ballot_box_number": 1023,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/dd3e3b74-3f2e-4663-a597-8c550d035681-1684105953706136281.jpeg",
+            "submission_id": 718069,
+            "total_vote": 308,
+            "votes": {
+                "1": 81,
+                "2": 2,
+                "3": 205,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "KAŞ ÇERÇİLER ATATÜRK İLKÖĞRETİM OKULU"
+    },
+    {
+        "ballot_box_number": 1019,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ef9ebec9-fde8-45c4-8068-1d1161523979-1684106628353299939.jpg",
+            "submission_id": 815898,
+            "total_vote": 289,
+            "votes": {
+                "1": 87,
+                "2": 2,
+                "3": 180,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "KAŞ ÇERÇİLER ATATÜRK İLKÖĞRETİM OKULU"
+    },
+    {
+        "ballot_box_number": 1025,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d0c9dd14-f112-4e9f-a5d3-c8cc600eec57-1684106714917257098.jpg",
+            "submission_id": 827861,
+            "total_vote": 302,
+            "votes": {
+                "1": 83,
+                "2": 4,
+                "3": 197,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "KAŞ ÇERÇİLER ATATÜRK İLKÖĞRETİM OKULU"
+    },
+    {
+        "ballot_box_number": 1022,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5c23b435-89c8-4813-a7ab-a3fb36387ffc-1684106403542175265.jpeg",
+            "submission_id": 782744,
+            "total_vote": 312,
+            "votes": {
+                "1": 73,
+                "2": 1,
+                "3": 221,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/90016c63-0cc8-4fd8-9bdf-2b4d1032e55b-1684106366069100528.jpeg",
+            "submission_id": 777603,
+            "total_vote": 304,
+            "votes": {
+                "10": 2,
+                "11": 12,
+                "12": 16,
+                "13": 24,
+                "21": 152,
+                "22": 36,
+                "24": 10,
+                "3": 1,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "9": 47
+            }
+        },
+        "school_name": "KAŞ ÇERÇİLER ATATÜRK İLKÖĞRETİM OKULU"
+    },
+    {
+        "ballot_box_number": 1020,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/55481_cb_1093775884_1684084910596706934.jpg",
+            "submission_id": 251562,
+            "total_vote": 300,
+            "votes": {
+                "1": 74,
+                "2": 3,
+                "3": 209,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/55481_mv_1083775884_1684085718415523589.jpg",
+            "submission_id": 275682,
+            "total_vote": 296,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 22,
+                "12": 13,
+                "13": 30,
+                "21": 131,
+                "22": 28,
+                "24": 9,
+                "6": 3,
+                "7": 2,
+                "9": 56
+            }
+        },
+        "school_name": "KAŞ ÇERÇİLER ATATÜRK İLKÖĞRETİM OKULU"
+    },
+    {
+        "ballot_box_number": 1018,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d028219d-75b3-47f4-bfee-ffbc5e6be259-1684106295791864856.jpg",
+            "submission_id": 767502,
+            "total_vote": 302,
+            "votes": {
+                "1": 80,
+                "2": 0,
+                "3": 203,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f14a17af-bd05-4092-92bc-5c9846ce3199-1684106244373144791.jpeg",
+            "submission_id": 760232,
+            "total_vote": 300,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 18,
+                "12": 8,
+                "13": 33,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 117,
+                "22": 32,
+                "23": 3,
+                "24": 12,
+                "3": 0,
+                "4": 1,
+                "5": 1,
+                "6": 3,
+                "7": 1,
+                "8": 1,
+                "9": 69
+            }
+        },
+        "school_name": "KAŞ ÇERÇİLER ATATÜRK İLKÖĞRETİM OKULU"
+    },
+    {
+        "ballot_box_number": 1017,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/b3084c21-cc6e-4e30-9ca3-478705c9b434-1684106394663121177.jpg",
+            "submission_id": 781233,
+            "total_vote": 295,
+            "votes": {
+                "1": 73,
+                "2": 4,
+                "3": 204,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5067f051-2b1e-416b-8b0b-e1016cc0724d-1684106445254880148.jpeg",
+            "submission_id": 789129,
+            "total_vote": 291,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 18,
+                "12": 2,
+                "13": 18,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 133,
+                "22": 48,
+                "23": 2,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 2,
+                "7": 2,
+                "8": 1,
+                "9": 55
+            }
+        },
+        "school_name": "KAŞ ÇERÇİLER ATATÜRK İLKÖĞRETİM OKULU"
+    },
+    {
+        "ballot_box_number": 1026,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1993_bulk_999999999_1684100650919061882.jpeg",
+            "submission_id": 537945,
+            "total_vote": 294,
+            "votes": {
+                "10": 1,
+                "11": 34,
+                "12": 2,
+                "13": 26,
+                "15": 1,
+                "19": 1,
+                "21": 107,
+                "22": 44,
+                "24": 7,
+                "6": 2,
+                "7": 11,
+                "9": 58
+            }
+        },
+        "school_name": "KAŞ ÇERÇİLER ATATÜRK İLKÖĞRETİM OKULU"
+    },
+    {
+        "ballot_box_number": 1021,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/50a2aab5-e6dd-49d8-9b78-4d7b6bc37171-1684105878340176432.jpeg",
+            "submission_id": 708286,
+            "total_vote": 303,
+            "votes": {
+                "1": 85,
+                "3": 204,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "KAŞ ÇERÇİLER ATATÜRK İLKÖĞRETİM OKULU"
+    }
+]

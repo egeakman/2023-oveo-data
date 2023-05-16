@@ -1,0 +1,55 @@
+[
+    {
+        "ballot_box_number": 1060,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a7be3565-e69b-4ce6-8564-bdae481c507b-1684106715802336435.jpg",
+            "submission_id": 828305,
+            "total_vote": 160,
+            "votes": {
+                "1": 34,
+                "2": 2,
+                "3": 113,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f005f2e0-da10-4b4f-8377-4ff737be2833-1684106706659962042.jpg",
+            "submission_id": 826907,
+            "total_vote": 156,
+            "votes": {
+                "10": 1,
+                "11": 16,
+                "13": 3,
+                "18": 1,
+                "19": 1,
+                "2": 1,
+                "20": 1,
+                "21": 47,
+                "22": 60,
+                "23": 1,
+                "24": 4,
+                "5": 1,
+                "6": 2,
+                "7": 2,
+                "8": 2,
+                "9": 13
+            }
+        },
+        "school_name": "BİLGİNLER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1061,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a9c395e9-4693-4150-a7e6-1a5f094aa399-1684106702752709100.jpg",
+            "submission_id": 826081,
+            "total_vote": 167,
+            "votes": {
+                "1": 46,
+                "3": 106,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "BİLGİNLER İLKOKULU"
+    }
+]

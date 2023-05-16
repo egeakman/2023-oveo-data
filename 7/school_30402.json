@@ -1,0 +1,63 @@
+[
+    {
+        "ballot_box_number": 1035,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/43e1d33d-d34d-47a1-a881-cc958e828b04-1684105404209225633.jpg",
+            "submission_id": 634342,
+            "total_vote": 272,
+            "votes": {
+                "1": 102,
+                "2": 1,
+                "3": 160,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/69baa456-aa53-4c9b-9e20-35cb722a5810-1684105408485122101.jpg",
+            "submission_id": 635348,
+            "total_vote": 267,
+            "votes": {
+                "1": 5,
+                "10": 0,
+                "11": 15,
+                "12": 0,
+                "13": 0,
+                "14": 1,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 2,
+                "20": 0,
+                "21": 123,
+                "22": 33,
+                "23": 2,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 1,
+                "8": 2,
+                "9": 75
+            }
+        },
+        "school_name": "ÇOMAKLI İLKÖĞRETİM OKULU"
+    },
+    {
+        "ballot_box_number": 1036,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8b4795d6-a232-472e-9673-cbef2ac4c3ec-1684106347549103495.jpg",
+            "submission_id": 775343,
+            "total_vote": 292,
+            "votes": {
+                "1": 97,
+                "3": 174,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇOMAKLI İLKÖĞRETİM OKULU"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "ballot_box_number": 1021,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3dbae534-8407-4618-a89f-2c19799c4ce6-1684106615961962485.jpg",
+            "submission_id": 813643,
+            "total_vote": 265,
+            "votes": {
+                "1": 102,
+                "2": 1,
+                "3": 153,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9a80abdb-dc86-4905-9a3c-9ce8a9dd159d-1684106628331496933.jpg",
+            "submission_id": 815190,
+            "total_vote": 260,
+            "votes": {
+                "10": 5,
+                "11": 24,
+                "12": 3,
+                "13": 7,
+                "19": 3,
+                "21": 99,
+                "22": 39,
+                "23": 1,
+                "24": 1,
+                "5": 1,
+                "7": 4,
+                "8": 2,
+                "9": 71
+            }
+        },
+        "school_name": "BAYATBADEMLERİ KÖY ODASI"
+    }
+]

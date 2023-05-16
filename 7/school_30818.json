@@ -1,0 +1,131 @@
+[
+    {
+        "ballot_box_number": 1109,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/34590_mv_1083700383_1684083537035075089.jpg",
+            "submission_id": 218513,
+            "total_vote": 295,
+            "votes": {
+                "1": 187,
+                "2": 3,
+                "3": 85,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇAYYAZI MAH. İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1112,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/54758_cb_1093700386_1684082598603866427.jpg",
+            "submission_id": 202307,
+            "total_vote": 298,
+            "votes": {
+                "10": 7,
+                "11": 39,
+                "12": 6,
+                "13": 10,
+                "21": 91,
+                "22": 23,
+                "24": 7,
+                "4": 1,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 110
+            }
+        },
+        "school_name": "ÇAYYAZI MAH. İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1111,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/38139_bulk_999999999_1684083059583767419.jpeg",
+            "submission_id": 209708,
+            "total_vote": 298,
+            "votes": {
+                "1": 181,
+                "2": 3,
+                "3": 101,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/38139_bulk_999999999_1684083059522673130.jpeg",
+            "submission_id": 209701,
+            "total_vote": 288,
+            "votes": {
+                "10": 9,
+                "11": 48,
+                "12": 5,
+                "13": 1,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 76,
+                "22": 16,
+                "23": 1,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 2,
+                "9": 121
+            }
+        },
+        "school_name": "ÇAYYAZI MAH. İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1110,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/34590_cb_1093700384_1684083465049347574.jpg",
+            "submission_id": 217128,
+            "total_vote": 305,
+            "votes": {
+                "1": 169,
+                "3": 108,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/34590_mv_1083700384_1684083489108505313.jpg",
+            "submission_id": 217568,
+            "total_vote": 302,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 38,
+                "12": 5,
+                "13": 9,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "20": 0,
+                "21": 71,
+                "22": 35,
+                "23": 0,
+                "24": 11,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 2,
+                "9": 120
+            }
+        },
+        "school_name": "ÇAYYAZI MAH. İLKOKULU"
+    }
+]

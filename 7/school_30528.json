@@ -1,0 +1,23 @@
+[
+    {
+        "ballot_box_number": 1007,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/29392_bulk_999999999_1684099885565053332.jpg",
+            "submission_id": 534819,
+            "total_vote": 40,
+            "votes": {
+                "10": 1,
+                "11": 3,
+                "20": 1,
+                "21": 14,
+                "22": 3,
+                "23": 2,
+                "24": 1,
+                "7": 2,
+                "9": 13
+            }
+        },
+        "school_name": "BUCAKALAN MAHALLESİ İLKOKULU"
+    }
+]

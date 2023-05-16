@@ -1,0 +1,18 @@
+[
+    {
+        "ballot_box_number": 1022,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/90bc95d6-e683-495c-a2da-d0f0ef24a793-1684105538990342956.jpg",
+            "submission_id": 656125,
+            "total_vote": 183,
+            "votes": {
+                "1": 109,
+                "2": 2,
+                "3": 69,
+                "4": 3
+            }
+        },
+        "mv_result": null,
+        "school_name": "BAYAT KÖY ODASI"
+    }
+]

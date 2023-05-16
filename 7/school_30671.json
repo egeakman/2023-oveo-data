@@ -1,0 +1,145 @@
+[
+    {
+        "ballot_box_number": 1007,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/55422_cb_1093776035_1684085813768599099.jpg",
+            "submission_id": 278891,
+            "total_vote": 301,
+            "votes": {
+                "1": 61,
+                "2": 1,
+                "3": 231,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/55422_mv_1083776035_1684085786370446988.jpg",
+            "submission_id": 277966,
+            "total_vote": 300,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 14,
+                "12": 5,
+                "13": 16,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 1,
+                "2": 1,
+                "20": 0,
+                "21": 190,
+                "22": 25,
+                "23": 0,
+                "24": 3,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 0,
+                "9": 42
+            }
+        },
+        "school_name": "KAŞ MERKEZ İLKÖĞRETİM OKULU"
+    },
+    {
+        "ballot_box_number": 1008,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/55422_cb_1093776036_1684086627316600911.jpg",
+            "submission_id": 305959,
+            "total_vote": 317,
+            "votes": {
+                "1": 47,
+                "2": 1,
+                "3": 253,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "KAŞ MERKEZ İLKÖĞRETİM OKULU"
+    },
+    {
+        "ballot_box_number": 1010,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/55422_cb_1093776038_1684086045290739346.jpg",
+            "submission_id": 286447,
+            "total_vote": 316,
+            "votes": {
+                "1": 44,
+                "3": 269,
+                "4": 3
+            }
+        },
+        "mv_result": null,
+        "school_name": "KAŞ MERKEZ İLKÖĞRETİM OKULU"
+    },
+    {
+        "ballot_box_number": 1009,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/55422_cb_1093776037_1684088649636026321.jpg",
+            "submission_id": 372178,
+            "total_vote": 314,
+            "votes": {
+                "1": 55,
+                "2": 2,
+                "3": 247,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "KAŞ MERKEZ İLKÖĞRETİM OKULU"
+    },
+    {
+        "ballot_box_number": 1011,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/cc5131a4-b097-48ca-8864-8b3d51952a37-1684106205533771532.jpg",
+            "submission_id": 753560,
+            "total_vote": 311,
+            "votes": {
+                "1": 42,
+                "2": 1,
+                "3": 256,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/fe789d29-bd8a-4d03-ac10-f226950278d0-1684106050293452881.jpg",
+            "submission_id": 730953,
+            "total_vote": 304,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 9,
+                "12": 18,
+                "13": 55,
+                "21": 158,
+                "22": 22,
+                "24": 7,
+                "3": 1,
+                "6": 2,
+                "7": 3,
+                "9": 25
+            }
+        },
+        "school_name": "KAŞ MERKEZ İLKÖĞRETİM OKULU"
+    },
+    {
+        "ballot_box_number": 1012,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/55422_cb_1093776040_1684085964549308538.jpg",
+            "submission_id": 283865,
+            "total_vote": 326,
+            "votes": {
+                "1": 69,
+                "2": 1,
+                "3": 249,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "KAŞ MERKEZ İLKÖĞRETİM OKULU"
+    }
+]

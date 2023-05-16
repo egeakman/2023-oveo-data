@@ -1,0 +1,48 @@
+[
+    {
+        "ballot_box_number": 1031,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1993_bulk_999999999_1684087390531609698.jpeg",
+            "submission_id": 332420,
+            "total_vote": 285,
+            "votes": {
+                "1": 87,
+                "2": 8,
+                "3": 174,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1993_bulk_999999999_1684087390618173719.jpeg",
+            "submission_id": 332422,
+            "total_vote": 279,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 22,
+                "12": 3,
+                "13": 19,
+                "14": 3,
+                "15": 1,
+                "16": 1,
+                "17": 0,
+                "18": 2,
+                "19": 1,
+                "2": 4,
+                "20": 0,
+                "21": 121,
+                "22": 33,
+                "23": 2,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 5,
+                "8": 2,
+                "9": 56
+            }
+        },
+        "school_name": "BELENLİ SAHİL KÖY KONAĞI (CAMİ ALTI)"
+    }
+]

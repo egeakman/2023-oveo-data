@@ -1,0 +1,33 @@
+[
+    {
+        "ballot_box_number": 1004,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7515f42d-bc46-4901-bca5-d6b4d73c3314-1684106370793583671.jpg",
+            "submission_id": 778171,
+            "total_vote": 302,
+            "votes": {
+                "1": 8,
+                "3": 293,
+                "4": 1
+            }
+        },
+        "mv_result": null,
+        "school_name": "AKÇAENİŞ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1003,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d797ba3e-c6c1-4d08-adfb-d57874234121-1684105703763776483.jpg",
+            "submission_id": 682104,
+            "total_vote": 292,
+            "votes": {
+                "1": 7,
+                "2": 0,
+                "3": 283,
+                "4": 2
+            }
+        },
+        "mv_result": null,
+        "school_name": "AKÇAENİŞ İLKOKULU"
+    }
+]

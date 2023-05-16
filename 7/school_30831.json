@@ -1,0 +1,47 @@
+[
+    {
+        "ballot_box_number": 1311,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/35516_bulk_999999999_1684091201833827568.jpeg",
+            "submission_id": 435876,
+            "total_vote": 241,
+            "votes": {
+                "1": 127,
+                "2": 3,
+                "3": 75,
+                "4": 36
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source2-secim-images.oyveotesi.org/raw/romeo/2bf1f247-e52a-4a5d-8b03-c1811d2d7d38.jpg",
+            "submission_id": 550183,
+            "total_vote": 242,
+            "votes": {
+                "10": 5,
+                "11": 43,
+                "12": 0,
+                "13": 0,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 47,
+                "22": 29,
+                "23": 4,
+                "24": 16,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 2,
+                "9": 86
+            }
+        },
+        "school_name": "ODAÖNÜ MAH.ÇALLIOĞLU İLK/ORTAOKULU"
+    }
+]

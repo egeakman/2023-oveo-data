@@ -1,0 +1,84 @@
+[
+    {
+        "ballot_box_number": 1406,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/34233_cb_1093709060_1684087071082895933.jpg",
+            "submission_id": 321472,
+            "total_vote": 188,
+            "votes": {
+                "1": 115,
+                "2": 1,
+                "3": 59,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/11968_bulk_999999999_1684088376297623935.jpg",
+            "submission_id": 363643,
+            "total_vote": 187,
+            "votes": {
+                "10": 1,
+                "11": 36,
+                "12": 2,
+                "13": 1,
+                "14": 1,
+                "16": 1,
+                "18": 1,
+                "21": 42,
+                "22": 21,
+                "23": 1,
+                "24": 5,
+                "7": 1,
+                "8": 5,
+                "9": 69
+            }
+        },
+        "school_name": "SEYDİLER MAH. TOPLANTI SALONU"
+    },
+    {
+        "ballot_box_number": 1405,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/34233_cb_1093709059_1684086921451025627.jpg",
+            "submission_id": 316219,
+            "total_vote": 192,
+            "votes": {
+                "1": 122,
+                "2": 1,
+                "3": 62,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/11968_bulk_999999999_1684088376170910352.jpg",
+            "submission_id": 363641,
+            "total_vote": 189,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 33,
+                "12": 4,
+                "13": 2,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 42,
+                "22": 13,
+                "23": 0,
+                "24": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 4,
+                "9": 84
+            }
+        },
+        "school_name": "SEYDİLER MAH. TOPLANTI SALONU"
+    }
+]

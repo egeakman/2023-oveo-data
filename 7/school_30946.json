@@ -1,0 +1,675 @@
+[
+    {
+        "ballot_box_number": 1021,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/10739_cb_1093697955_1684087041848541518.jpg",
+            "submission_id": 320412,
+            "total_vote": 334,
+            "votes": {
+                "1": 130,
+                "3": 178,
+                "4": 26
+            }
+        },
+        "mv_result": null,
+        "school_name": "(AHATLI MAH) KEPEZ GIYASEDDİN KEYHÜSREV ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1028,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/10739_cb_1093697962_1684084731844887047.jpg",
+            "submission_id": 246745,
+            "total_vote": 333,
+            "votes": {
+                "1": 138,
+                "2": 3,
+                "3": 172,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/10739_mv_1083697962_1684084812766633934.jpg",
+            "submission_id": 248868,
+            "total_vote": 327,
+            "votes": {
+                "10": 4,
+                "11": 23,
+                "12": 26,
+                "13": 23,
+                "14": 1,
+                "21": 85,
+                "22": 42,
+                "24": 15,
+                "7": 4,
+                "8": 2,
+                "9": 102
+            }
+        },
+        "school_name": "(AHATLI MAH) KEPEZ GIYASEDDİN KEYHÜSREV ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1033,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/10739_bulk_999999999_1684092682367768945.jpeg",
+            "submission_id": 459599,
+            "total_vote": 340,
+            "votes": {
+                "1": 108,
+                "2": 0,
+                "3": 199,
+                "4": 33
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/10739_bulk_999999999_1684092682273172509.jpeg",
+            "submission_id": 459597,
+            "total_vote": 333,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 25,
+                "12": 18,
+                "13": 27,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 2,
+                "21": 110,
+                "22": 40,
+                "23": 1,
+                "24": 17,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 9,
+                "8": 2,
+                "9": 78
+            }
+        },
+        "school_name": "(AHATLI MAH) KEPEZ GIYASEDDİN KEYHÜSREV ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1015,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/10739_cb_1093697449_1684087113161219299.jpg",
+            "submission_id": 323025,
+            "total_vote": 305,
+            "votes": {
+                "1": 134,
+                "2": 3,
+                "3": 155,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/10739_mv_1083697449_1684087132661903170.jpg",
+            "submission_id": 323650,
+            "total_vote": 301,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "12": 59,
+                "13": 0,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 2,
+                "20": 0,
+                "21": 78,
+                "22": 33,
+                "23": 0,
+                "24": 4,
+                "3": 1,
+                "4": 1,
+                "5": 1,
+                "6": 4,
+                "8": 1,
+                "9": 114
+            }
+        },
+        "school_name": "(AHATLI MAH) KEPEZ GIYASEDDİN KEYHÜSREV ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1031,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/67556_cb_1093697965_1684082265791157100.jpg",
+            "submission_id": 197926,
+            "total_vote": 327,
+            "votes": {
+                "1": 136,
+                "2": 1,
+                "3": 165,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/67556_mv_1083697965_1684084364244095447.jpg",
+            "submission_id": 237079,
+            "total_vote": 322,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 36,
+                "12": 29,
+                "13": 15,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 93,
+                "22": 28,
+                "23": 0,
+                "24": 9,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 4,
+                "8": 6,
+                "9": 93
+            }
+        },
+        "school_name": "(AHATLI MAH) KEPEZ GIYASEDDİN KEYHÜSREV ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1016,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/10739_cb_1093697450_1684082679827576204.jpg",
+            "submission_id": 203525,
+            "total_vote": 324,
+            "votes": {
+                "1": 120,
+                "2": 1,
+                "3": 178,
+                "4": 25
+            }
+        },
+        "mv_result": null,
+        "school_name": "(AHATLI MAH) KEPEZ GIYASEDDİN KEYHÜSREV ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1026,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/10739_cb_1093697960_1684084351140170734.jpg",
+            "submission_id": 236756,
+            "total_vote": 320,
+            "votes": {
+                "1": 139,
+                "3": 149,
+                "4": 32
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/10739_mv_1083697960_1684088689162510739.jpg",
+            "submission_id": 373389,
+            "total_vote": 311,
+            "votes": {
+                "10": 2,
+                "11": 27,
+                "12": 19,
+                "13": 16,
+                "19": 2,
+                "21": 82,
+                "22": 28,
+                "23": 1,
+                "24": 24,
+                "7": 6,
+                "8": 2,
+                "9": 102
+            }
+        },
+        "school_name": "(AHATLI MAH) KEPEZ GIYASEDDİN KEYHÜSREV ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1019,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/10739_cb_1093697453_1684082706698441543.jpg",
+            "submission_id": 203970,
+            "total_vote": 336,
+            "votes": {
+                "1": 139,
+                "2": 1,
+                "3": 170,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/10739_mv_1083697453_1684082739469060224.jpg",
+            "submission_id": 204468,
+            "total_vote": 331,
+            "votes": {
+                "10": 6,
+                "11": 28,
+                "12": 28,
+                "13": 14,
+                "21": 85,
+                "22": 44,
+                "24": 10,
+                "5": 3,
+                "7": 5,
+                "8": 3,
+                "9": 105
+            }
+        },
+        "school_name": "(AHATLI MAH) KEPEZ GIYASEDDİN KEYHÜSREV ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1018,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/10739_cb_1093697452_1684083422485574397.jpg",
+            "submission_id": 216325,
+            "total_vote": 319,
+            "votes": {
+                "1": 146,
+                "2": 2,
+                "3": 143,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/10739_mv_1083697452_1684083591573085256.jpg",
+            "submission_id": 219581,
+            "total_vote": 309,
+            "votes": {
+                "10": 4,
+                "11": 22,
+                "12": 10,
+                "13": 13,
+                "21": 93,
+                "22": 31,
+                "23": 3,
+                "24": 9,
+                "7": 6,
+                "8": 2,
+                "9": 116
+            }
+        },
+        "school_name": "(AHATLI MAH) KEPEZ GIYASEDDİN KEYHÜSREV ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1024,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/10739_cb_1093697958_1684083219002949173.jpg",
+            "submission_id": 212477,
+            "total_vote": 331,
+            "votes": {
+                "1": 136,
+                "2": 2,
+                "3": 170,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "(AHATLI MAH) KEPEZ GIYASEDDİN KEYHÜSREV ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1032,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/10739_cb_1093697966_1684088385121835257.jpg",
+            "submission_id": 363930,
+            "total_vote": 330,
+            "votes": {
+                "1": 157,
+                "2": 1,
+                "3": 148,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/10739_bulk_999999999_1684089325783998180.jpeg",
+            "submission_id": 391534,
+            "total_vote": 324,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 29,
+                "12": 15,
+                "13": 19,
+                "14": 4,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 81,
+                "22": 39,
+                "23": 0,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 3,
+                "9": 116
+            }
+        },
+        "school_name": "(AHATLI MAH) KEPEZ GIYASEDDİN KEYHÜSREV ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1017,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/10739_cb_1093697451_1684086487856356348.jpg",
+            "submission_id": 301072,
+            "total_vote": 337,
+            "votes": {
+                "1": 136,
+                "3": 174,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/10739_mv_1083697451_1684088054693383065.jpg",
+            "submission_id": 353710,
+            "total_vote": 333,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 36,
+                "12": 15,
+                "13": 19,
+                "14": 0,
+                "15": 3,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 104,
+                "22": 34,
+                "23": 0,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 2,
+                "9": 99
+            }
+        },
+        "school_name": "(AHATLI MAH) KEPEZ GIYASEDDİN KEYHÜSREV ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1025,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/10739_cb_1093697959_1684082638798924091.jpg",
+            "submission_id": 202904,
+            "total_vote": 329,
+            "votes": {
+                "1": 111,
+                "2": 1,
+                "3": 185,
+                "4": 32
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/10739_bulk_999999999_1684088875240152395.jpeg",
+            "submission_id": 378780,
+            "total_vote": 322,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 23,
+                "12": 20,
+                "13": 26,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 101,
+                "22": 41,
+                "23": 2,
+                "24": 16,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 2,
+                "9": 82
+            }
+        },
+        "school_name": "(AHATLI MAH) KEPEZ GIYASEDDİN KEYHÜSREV ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1029,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/10739_cb_1093697963_1684083161989125255.jpg",
+            "submission_id": 211447,
+            "total_vote": 322,
+            "votes": {
+                "1": 129,
+                "2": 1,
+                "3": 161,
+                "4": 31
+            }
+        },
+        "mv_result": null,
+        "school_name": "(AHATLI MAH) KEPEZ GIYASEDDİN KEYHÜSREV ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1030,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/10739_bulk_999999999_1684083503701643853.jpeg",
+            "submission_id": 217852,
+            "total_vote": 321,
+            "votes": {
+                "1": 120,
+                "2": 1,
+                "3": 181,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/10739_mv_1083697964_1684085271939369099.jpg",
+            "submission_id": 261919,
+            "total_vote": 318,
+            "votes": {
+                "10": 8,
+                "11": 21,
+                "12": 17,
+                "13": 12,
+                "21": 102,
+                "22": 44,
+                "24": 14,
+                "7": 3,
+                "8": 5,
+                "9": 92
+            }
+        },
+        "school_name": "(AHATLI MAH) KEPEZ GIYASEDDİN KEYHÜSREV ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1023,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/10739_cb_1093697957_1684084947694682787.jpg",
+            "submission_id": 252610,
+            "total_vote": 334,
+            "votes": {
+                "1": 150,
+                "2": 1,
+                "3": 159,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/10739_mv_1083697957_1684084883384691632.jpg",
+            "submission_id": 250836,
+            "total_vote": 329,
+            "votes": {
+                "10": 6,
+                "11": 29,
+                "12": 5,
+                "13": 19,
+                "14": 1,
+                "19": 1,
+                "20": 2,
+                "21": 95,
+                "22": 31,
+                "24": 23,
+                "6": 1,
+                "7": 6,
+                "9": 110
+            }
+        },
+        "school_name": "(AHATLI MAH) KEPEZ GIYASEDDİN KEYHÜSREV ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1022,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/10739_cb_1093697956_1684087199209487609.jpg",
+            "submission_id": 325991,
+            "total_vote": 327,
+            "votes": {
+                "1": 143,
+                "2": 1,
+                "3": 161,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/10739_mv_1083697956_1684087225580432931.jpg",
+            "submission_id": 326884,
+            "total_vote": 318,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 25,
+                "12": 27,
+                "13": 15,
+                "14": 0,
+                "15": 9,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 80,
+                "22": 44,
+                "23": 0,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 2,
+                "8": 3,
+                "9": 98
+            }
+        },
+        "school_name": "(AHATLI MAH) KEPEZ GIYASEDDİN KEYHÜSREV ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1020,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/10739_cb_1093697454_1684087251664162244.jpg",
+            "submission_id": 327755,
+            "total_vote": 330,
+            "votes": {
+                "1": 135,
+                "2": 0,
+                "3": 166,
+                "4": 29
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/10739_mv_1083697454_1684087275530179831.jpg",
+            "submission_id": 328596,
+            "total_vote": 330,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 38,
+                "12": 26,
+                "13": 18,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 97,
+                "22": 28,
+                "23": 2,
+                "24": 13,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 4,
+                "8": 3,
+                "9": 95
+            }
+        },
+        "school_name": "(AHATLI MAH) KEPEZ GIYASEDDİN KEYHÜSREV ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1027,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/10739_cb_1093697961_1684085123669441623.jpg",
+            "submission_id": 257596,
+            "total_vote": 338,
+            "votes": {
+                "1": 126,
+                "2": 1,
+                "3": 177,
+                "4": 34
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/10739_mv_1083697961_1684088198953792936.jpg",
+            "submission_id": 358230,
+            "total_vote": 331,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 28,
+                "12": 21,
+                "13": 21,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 6,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 105,
+                "22": 23,
+                "23": 0,
+                "24": 19,
+                "3": 6,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 4,
+                "8": 0,
+                "9": 96
+            }
+        },
+        "school_name": "(AHATLI MAH) KEPEZ GIYASEDDİN KEYHÜSREV ANADOLU İMAM HATİP LİSESİ"
+    }
+]

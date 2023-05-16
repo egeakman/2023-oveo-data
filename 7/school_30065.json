@@ -1,0 +1,529 @@
+[
+    {
+        "ballot_box_number": 1299,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/42262_cb_1093705593_1684088886490249201.jpg",
+            "submission_id": 379138,
+            "total_vote": 332,
+            "votes": {
+                "1": 64,
+                "3": 254,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/42262_mv_1083705593_1684089821083998629.jpg",
+            "submission_id": 405008,
+            "total_vote": 331,
+            "votes": {
+                "11": 12,
+                "12": 9,
+                "13": 31,
+                "21": 171,
+                "22": 43,
+                "24": 10,
+                "5": 1,
+                "7": 6,
+                "8": 1,
+                "9": 47
+            }
+        },
+        "school_name": "MECDUDE BAŞAKINCI ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1302,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/41048_bulk_999999999_1684086927536972806.jpg",
+            "submission_id": 316464,
+            "total_vote": 341,
+            "votes": {
+                "1": 73,
+                "2": 0,
+                "3": 252,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/179c604b-c8b6-42a5-9d99-20b288b0c2b8-1684105315797494125.jpeg",
+            "submission_id": 618180,
+            "total_vote": 338,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 27,
+                "12": 12,
+                "13": 27,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 6,
+                "2": 0,
+                "20": 1,
+                "21": 154,
+                "22": 58,
+                "23": 1,
+                "24": 6,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 0,
+                "9": 39
+            }
+        },
+        "school_name": "MECDUDE BAŞAKINCI ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1306,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/41048_bulk_999999999_1684088097268374695.jpg",
+            "submission_id": 355077,
+            "total_vote": 335,
+            "votes": {
+                "1": 66,
+                "2": 1,
+                "3": 255,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/41048_bulk_999999999_1684088060207737426.jpg",
+            "submission_id": 353918,
+            "total_vote": 328,
+            "votes": {
+                "10": 2,
+                "11": 17,
+                "12": 9,
+                "13": 34,
+                "2": 1,
+                "21": 160,
+                "22": 51,
+                "24": 6,
+                "3": 2,
+                "7": 6,
+                "9": 40
+            }
+        },
+        "school_name": "MECDUDE BAŞAKINCI ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1303,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/23561_cb_1093706197_1684082168587034110.jpg",
+            "submission_id": 196665,
+            "total_vote": 342,
+            "votes": {
+                "1": 76,
+                "2": 3,
+                "3": 240,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/41048_bulk_999999999_1684089005466604846.jpg",
+            "submission_id": 382697,
+            "total_vote": 344,
+            "votes": {
+                "10": 1,
+                "11": 20,
+                "12": 14,
+                "13": 28,
+                "19": 1,
+                "20": 1,
+                "21": 162,
+                "22": 41,
+                "24": 14,
+                "7": 7,
+                "8": 2,
+                "9": 53
+            }
+        },
+        "school_name": "MECDUDE BAŞAKINCI ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1296,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/41069_cb_1093705590_1684085574308531548.jpg",
+            "submission_id": 270884,
+            "total_vote": 312,
+            "votes": {
+                "1": 46,
+                "3": 261,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/41069_mv_1083705590_1684088080729150874.jpg",
+            "submission_id": 354606,
+            "total_vote": 301,
+            "votes": {
+                "10": 1,
+                "11": 9,
+                "12": 14,
+                "13": 14,
+                "20": 1,
+                "21": 193,
+                "22": 30,
+                "23": 1,
+                "24": 3,
+                "7": 1,
+                "9": 34
+            }
+        },
+        "school_name": "MECDUDE BAŞAKINCI ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1304,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/41048_bulk_999999999_1684087319940846955.jpg",
+            "submission_id": 330053,
+            "total_vote": 338,
+            "votes": {
+                "1": 61,
+                "3": 262,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "MECDUDE BAŞAKINCI ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1301,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/41048_bulk_999999999_1684086829664672196.jpg",
+            "submission_id": 313081,
+            "total_vote": 330,
+            "votes": {
+                "1": 54,
+                "3": 257,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/41048_bulk_999999999_1684086779907719610.jpg",
+            "submission_id": 311354,
+            "total_vote": 328,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 8,
+                "12": 9,
+                "13": 24,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 179,
+                "22": 35,
+                "23": 1,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 4,
+                "7": 9,
+                "8": 1,
+                "9": 44
+            }
+        },
+        "school_name": "MECDUDE BAŞAKINCI ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1305,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/41048_bulk_999999999_1684086971658831488.jpg",
+            "submission_id": 317984,
+            "total_vote": 340,
+            "votes": {
+                "1": 67,
+                "2": 0,
+                "3": 249,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/48543_bulk_999999999_1684091158948103890.jpeg",
+            "submission_id": 435051,
+            "total_vote": 341,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 22,
+                "12": 14,
+                "13": 37,
+                "14": 0,
+                "15": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 164,
+                "22": 44,
+                "23": 0,
+                "24": 13,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 42
+            }
+        },
+        "school_name": "MECDUDE BAŞAKINCI ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1298,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/42262_cb_1093705592_1684087597721924947.jpg",
+            "submission_id": 339013,
+            "total_vote": 320,
+            "votes": {
+                "1": 64,
+                "2": 2,
+                "3": 240,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/42262_mv_1083705592_1684088114359709232.jpg",
+            "submission_id": 355616,
+            "total_vote": 315,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 14,
+                "12": 4,
+                "13": 13,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 182,
+                "22": 43,
+                "23": 4,
+                "24": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 47
+            }
+        },
+        "school_name": "MECDUDE BAŞAKINCI ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1310,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/66904_cb_1093706204_1684086842487184916.jpg",
+            "submission_id": 313490,
+            "total_vote": 331,
+            "votes": {
+                "2": 11,
+                "3": 309,
+                "4": 11
+            }
+        },
+        "mv_result": null,
+        "school_name": "MECDUDE BAŞAKINCI ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1307,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/41048_bulk_999999999_1684090077205275631.jpg",
+            "submission_id": 411585,
+            "total_vote": 338,
+            "votes": {
+                "1": 49,
+                "2": 0,
+                "3": 271,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "MECDUDE BAŞAKINCI ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1297,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/41048_bulk_999999999_1684090390312254513.jpg",
+            "submission_id": 418852,
+            "total_vote": 327,
+            "votes": {
+                "1": 55,
+                "2": 0,
+                "3": 261,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/41048_bulk_999999999_1684090448628831547.jpg",
+            "submission_id": 420143,
+            "total_vote": 319,
+            "votes": {
+                "1": 2,
+                "10": 0,
+                "11": 9,
+                "12": 3,
+                "13": 17,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 200,
+                "22": 34,
+                "23": 0,
+                "24": 3,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 1,
+                "9": 45
+            }
+        },
+        "school_name": "MECDUDE BAŞAKINCI ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1309,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/41048_bulk_999999999_1684089867986291506.jpg",
+            "submission_id": 406289,
+            "total_vote": 344,
+            "votes": {
+                "1": 68,
+                "2": 1,
+                "3": 267,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/83cecb40-1748-4914-9b1e-ea81cc7aaa61-1684106107387815804.jpeg",
+            "submission_id": 739273,
+            "total_vote": 344,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 19,
+                "12": 10,
+                "13": 24,
+                "14": 1,
+                "15": 2,
+                "16": 2,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 0,
+                "22": 184,
+                "23": 43,
+                "24": 1,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 1,
+                "8": 2,
+                "9": 52
+            }
+        },
+        "school_name": "MECDUDE BAŞAKINCI ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1308,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5588b8b4-9c21-4c24-b8dd-fbd0c00fbb55-1684105171820319212.jpeg",
+            "submission_id": 588413,
+            "total_vote": 335,
+            "votes": {
+                "1": 60,
+                "3": 262,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/41048_bulk_999999999_1684087844351797637.jpg",
+            "submission_id": 346923,
+            "total_vote": 332,
+            "votes": {
+                "11": 17,
+                "12": 8,
+                "13": 31,
+                "21": 174,
+                "23": 48,
+                "24": 5,
+                "3": 1,
+                "7": 5,
+                "8": 1,
+                "9": 42
+            }
+        },
+        "school_name": "MECDUDE BAŞAKINCI ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1300,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/41048_bulk_999999999_1684087102979689849.jpg",
+            "submission_id": 322675,
+            "total_vote": 339,
+            "votes": {
+                "1": 84,
+                "2": 0,
+                "3": 242,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/41048_bulk_999999999_1684089133124570060.jpg",
+            "submission_id": 386182,
+            "total_vote": 335,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 24,
+                "12": 8,
+                "13": 28,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 172,
+                "22": 34,
+                "23": 0,
+                "24": 8,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 4,
+                "8": 0,
+                "9": 51
+            }
+        },
+        "school_name": "MECDUDE BAŞAKINCI ORTA OKULU"
+    }
+]

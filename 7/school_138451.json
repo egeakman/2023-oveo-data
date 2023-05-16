@@ -1,0 +1,129 @@
+[
+    {
+        "ballot_box_number": 1021,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/50431_cb_1093697755_1684081772514793875.jpg",
+            "submission_id": 192128,
+            "total_vote": 289,
+            "votes": {
+                "1": 111,
+                "2": 3,
+                "3": 160,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16265_mv_1083697755_1684089996872240611.jpg",
+            "submission_id": 409642,
+            "total_vote": 277,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 9,
+                "12": 1,
+                "13": 3,
+                "14": 2,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 2,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 129,
+                "22": 27,
+                "23": 3,
+                "24": 4,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 0,
+                "9": 88
+            }
+        },
+        "school_name": "BADEMAĞACI ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1022,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16265_cb_1093697756_1684085430643248601.jpg",
+            "submission_id": 266564,
+            "total_vote": 309,
+            "votes": {
+                "1": 109,
+                "2": 1,
+                "3": 191,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16265_mv_1083697756_1684086918053829225.jpg",
+            "submission_id": 316079,
+            "total_vote": 300,
+            "votes": {
+                "1": 2,
+                "10": 2,
+                "11": 25,
+                "13": 3,
+                "15": 1,
+                "19": 1,
+                "20": 1,
+                "21": 139,
+                "22": 40,
+                "24": 4,
+                "3": 1,
+                "6": 1,
+                "8": 1,
+                "9": 79
+            }
+        },
+        "school_name": "BADEMAĞACI ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1023,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/17001_cb_1093697757_1684085643493118243.jpg",
+            "submission_id": 273190,
+            "total_vote": 315,
+            "votes": {
+                "1": 117,
+                "3": 190,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/17001_mv_1083697757_1684087351318418005.jpg",
+            "submission_id": 331055,
+            "total_vote": 311,
+            "votes": {
+                "1": 1,
+                "10": 6,
+                "11": 23,
+                "12": 0,
+                "13": 3,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 145,
+                "22": 34,
+                "23": 1,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 0,
+                "9": 92
+            }
+        },
+        "school_name": "BADEMAĞACI ORTA OKULU"
+    }
+]

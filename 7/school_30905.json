@@ -1,0 +1,27 @@
+[
+    {
+        "ballot_box_number": 1051,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/67f41141-9066-404f-9282-287fe6e256e8-1684106231529513123.jpg",
+            "submission_id": 758608,
+            "total_vote": 314,
+            "votes": {
+                "10": 1,
+                "11": 75,
+                "12": 2,
+                "14": 1,
+                "15": 2,
+                "21": 63,
+                "22": 39,
+                "23": 2,
+                "24": 4,
+                "3": 1,
+                "7": 6,
+                "8": 1,
+                "9": 117
+            }
+        },
+        "school_name": "KAYAALTI İLKOKULU"
+    }
+]

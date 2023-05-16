@@ -1,0 +1,37 @@
+[
+    {
+        "ballot_box_number": 1042,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/29392_bulk_999999999_1684100276591688146.jpg",
+            "submission_id": 536471,
+            "total_vote": 177,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 42,
+                "12": 0,
+                "13": 0,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 2,
+                "20": 0,
+                "21": 29,
+                "22": 12,
+                "23": 6,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "9": 75
+            }
+        },
+        "school_name": "KEPEZ MAHALLESİ YEMEKHANESİ"
+    }
+]

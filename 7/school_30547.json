@@ -1,0 +1,48 @@
+[
+    {
+        "ballot_box_number": 1053,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/29392_bulk_999999999_1684099040752938786.jpg",
+            "submission_id": 530873,
+            "total_vote": 139,
+            "votes": {
+                "1": 101,
+                "2": 1,
+                "3": 27,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/29392_bulk_999999999_1684100353798613662.jpg",
+            "submission_id": 536749,
+            "total_vote": 138,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 20,
+                "12": 0,
+                "13": 1,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 24,
+                "22": 6,
+                "23": 1,
+                "24": 3,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 2,
+                "9": 74
+            }
+        },
+        "school_name": "SİNANHOCA MAHALLE KONAĞI"
+    }
+]

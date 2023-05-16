@@ -1,0 +1,109 @@
+[
+    {
+        "ballot_box_number": 1144,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/19254_cb_1093701378_1684078466053063083.jpg",
+            "submission_id": 174539,
+            "total_vote": 238,
+            "votes": {
+                "1": 107,
+                "2": 3,
+                "3": 115,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/19254_mv_1083701378_1684082773862206189.jpg",
+            "submission_id": 205018,
+            "total_vote": 229,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 33,
+                "12": 1,
+                "13": 10,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 2,
+                "21": 83,
+                "22": 21,
+                "23": 0,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 1,
+                "8": 0,
+                "9": 68
+            }
+        },
+        "school_name": "DİKMEN/ GÜL SALİH ŞENLİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1143,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/19254_cb_1093701377_1684078391431978273.jpg",
+            "submission_id": 174410,
+            "total_vote": 239,
+            "votes": {
+                "1": 124,
+                "3": 104,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/19254_bulk_999999999_1684082427770424525.jpg",
+            "submission_id": 199985,
+            "total_vote": 233,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 15,
+                "12": 9,
+                "13": 7,
+                "14": 0,
+                "15": 1,
+                "16": 1,
+                "17": 1,
+                "18": 1,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 61,
+                "22": 22,
+                "23": 2,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 3,
+                "6": 0,
+                "7": 0,
+                "8": 0,
+                "9": 99
+            }
+        },
+        "school_name": "DİKMEN/ GÜL SALİH ŞENLİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1145,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/19254_cb_1093701379_1684082698022510346.jpg",
+            "submission_id": 203833,
+            "total_vote": 255,
+            "votes": {
+                "1": 126,
+                "2": 3,
+                "3": 106,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "DİKMEN/ GÜL SALİH ŞENLİ İLKOKULU"
+    }
+]

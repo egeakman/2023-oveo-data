@@ -1,0 +1,130 @@
+[
+    {
+        "ballot_box_number": 2135,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/8800_cb_1093700329_1684082798136740880.jpg",
+            "submission_id": 205403,
+            "total_vote": 336,
+            "votes": {
+                "1": 191,
+                "2": 2,
+                "3": 111,
+                "4": 32
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/8800_mv_1083700329_1684083921740780991.jpg",
+            "submission_id": 226521,
+            "total_vote": 326,
+            "votes": {
+                "1": 1,
+                "10": 8,
+                "11": 54,
+                "12": 5,
+                "13": 5,
+                "14": 0,
+                "15": 3,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 76,
+                "22": 23,
+                "23": 0,
+                "24": 9,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 4,
+                "7": 4,
+                "8": 9,
+                "9": 123
+            }
+        },
+        "school_name": "KESTEL AKDENİZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2133,
+        "cm_result": {
+            "image_url": "https://source2-secim-images.oyveotesi.org/raw/whiskey/b9f938c4-ca1f-4f47-a53c-a0535a235b88.jpg",
+            "submission_id": 552072,
+            "total_vote": 312,
+            "votes": {
+                "1": 177,
+                "2": 0,
+                "3": 115,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source2-secim-images.oyveotesi.org/raw/whiskey/f5ea146d-f10b-4975-8f29-525bfc020f05.jpg",
+            "submission_id": 552959,
+            "total_vote": 303,
+            "votes": {
+                "10": 8,
+                "11": 58,
+                "13": 3,
+                "15": 1,
+                "17": 1,
+                "2": 1,
+                "21": 82,
+                "22": 29,
+                "23": 5,
+                "24": 7,
+                "6": 1,
+                "7": 1,
+                "8": 5,
+                "9": 101
+            }
+        },
+        "school_name": "KESTEL AKDENİZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2134,
+        "cm_result": {
+            "image_url": "https://source2-secim-images.oyveotesi.org/raw/whiskey/23e1c42a-a82d-4d86-9f37-049bde10e097.jpg",
+            "submission_id": 553049,
+            "total_vote": 325,
+            "votes": {
+                "1": 158,
+                "2": 3,
+                "3": 114,
+                "4": 50
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source2-secim-images.oyveotesi.org/raw/whiskey/9a1d38c7-890a-4271-9543-4295e782c65b.jpg",
+            "submission_id": 552870,
+            "total_vote": 318,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 42,
+                "12": 7,
+                "13": 6,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 80,
+                "22": 29,
+                "23": 0,
+                "24": 16,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 5,
+                "7": 9,
+                "8": 1,
+                "9": 113
+            }
+        },
+        "school_name": "KESTEL AKDENİZ İLKOKULU"
+    }
+]

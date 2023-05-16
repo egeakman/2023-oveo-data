@@ -1,0 +1,808 @@
+[
+    {
+        "ballot_box_number": 1323,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/14821_cb_1093706857_1684088518426577802.jpg",
+            "submission_id": 368064,
+            "total_vote": 333,
+            "votes": {
+                "1": 103,
+                "2": 2,
+                "3": 202,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/14821_mv_1083706857_1684088596629841915.jpg",
+            "submission_id": 370521,
+            "total_vote": 329,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 20,
+                "12": 7,
+                "13": 27,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 111,
+                "22": 50,
+                "23": 1,
+                "24": 19,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 4,
+                "8": 1,
+                "9": 81
+            }
+        },
+        "school_name": "HACI DUDU MEHMET GEBİZLİ KIZ ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1313,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/74422_cb_1093706207_1684088913802189797.jpg",
+            "submission_id": 380020,
+            "total_vote": 327,
+            "votes": {
+                "1": 98,
+                "3": 207,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/74422_mv_1083706207_1684088962064527099.jpg",
+            "submission_id": 381416,
+            "total_vote": 326,
+            "votes": {
+                "1": 1,
+                "10": 7,
+                "11": 21,
+                "12": 11,
+                "13": 33,
+                "19": 1,
+                "20": 1,
+                "21": 130,
+                "22": 32,
+                "23": 1,
+                "24": 13,
+                "7": 1,
+                "8": 1,
+                "9": 73
+            }
+        },
+        "school_name": "HACI DUDU MEHMET GEBİZLİ KIZ ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1329,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/26341_bulk_999999999_1684094317498980295.jpeg",
+            "submission_id": 490566,
+            "total_vote": 327,
+            "votes": {
+                "1": 112,
+                "2": 3,
+                "3": 189,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "HACI DUDU MEHMET GEBİZLİ KIZ ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1330,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/26341_cb_1093706864_1684090161484298568.jpg",
+            "submission_id": 413648,
+            "total_vote": 339,
+            "votes": {
+                "1": 92,
+                "2": 1,
+                "3": 224,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "HACI DUDU MEHMET GEBİZLİ KIZ ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1331,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/11010_bulk_999999999_1684094223459849133.jpeg",
+            "submission_id": 489441,
+            "total_vote": 339,
+            "votes": {
+                "1": 86,
+                "2": 2,
+                "3": 230,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/11010_bulk_999999999_1684094301655558088.jpeg",
+            "submission_id": 490375,
+            "total_vote": 337,
+            "votes": {
+                "10": 2,
+                "11": 21,
+                "12": 9,
+                "13": 18,
+                "21": 164,
+                "22": 40,
+                "23": 3,
+                "24": 11,
+                "7": 3,
+                "8": 1,
+                "9": 65
+            }
+        },
+        "school_name": "HACI DUDU MEHMET GEBİZLİ KIZ ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1322,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/26311_cb_1093706856_1684085347545042637.jpg",
+            "submission_id": 264119,
+            "total_vote": 335,
+            "votes": {
+                "1": 88,
+                "2": 0,
+                "3": 231,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e801cbdd-3732-43a6-bec2-1eb243557da0-1684105648133843724.jpeg",
+            "submission_id": 673424,
+            "total_vote": 332,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 22,
+                "12": 8,
+                "13": 27,
+                "21": 123,
+                "22": 73,
+                "23": 1,
+                "24": 6,
+                "7": 2,
+                "9": 65
+            }
+        },
+        "school_name": "HACI DUDU MEHMET GEBİZLİ KIZ ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1328,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/14821_cb_1093706862_1684087975376214799.jpg",
+            "submission_id": 351096,
+            "total_vote": 337,
+            "votes": {
+                "1": 102,
+                "2": 2,
+                "3": 219,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/26341_mv_1083706862_1684089278517445056.jpg",
+            "submission_id": 390350,
+            "total_vote": 334,
+            "votes": {
+                "10": 8,
+                "11": 14,
+                "12": 8,
+                "13": 25,
+                "14": 1,
+                "19": 1,
+                "21": 142,
+                "22": 52,
+                "23": 1,
+                "24": 8,
+                "7": 4,
+                "8": 1,
+                "9": 69
+            }
+        },
+        "school_name": "HACI DUDU MEHMET GEBİZLİ KIZ ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1334,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/11010_bulk_999999999_1684096919861292132.jpeg",
+            "submission_id": 516967,
+            "total_vote": 359,
+            "votes": {
+                "1": 115,
+                "2": 3,
+                "3": 213,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8d540a9c-08ab-4c05-a2aa-33f79476ef46-1684105298980748608.jpg",
+            "submission_id": 613588,
+            "total_vote": 356,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 23,
+                "12": 3,
+                "13": 28,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 129,
+                "22": 55,
+                "23": 0,
+                "24": 13,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 10,
+                "8": 0,
+                "9": 84
+            }
+        },
+        "school_name": "HACI DUDU MEHMET GEBİZLİ KIZ ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1318,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/26341_cb_1093706212_1684091976622120302.jpg",
+            "submission_id": 448846,
+            "total_vote": 332,
+            "votes": {
+                "1": 119,
+                "2": 1,
+                "3": 184,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/26341_mv_1083706212_1684092059045209713.jpg",
+            "submission_id": 450300,
+            "total_vote": 330,
+            "votes": {
+                "1": 4,
+                "10": 8,
+                "11": 23,
+                "12": 6,
+                "13": 24,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 118,
+                "22": 42,
+                "23": 0,
+                "24": 3,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 0,
+                "9": 100
+            }
+        },
+        "school_name": "HACI DUDU MEHMET GEBİZLİ KIZ ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1333,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/339b1030-2f33-4a62-bded-699388a368eb-1684105272852096479.jpg",
+            "submission_id": 609262,
+            "total_vote": 330,
+            "votes": {
+                "1": 88,
+                "2": 1,
+                "3": 221,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "HACI DUDU MEHMET GEBİZLİ KIZ ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1311,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/14821_cb_1093706205_1684088238526239578.jpg",
+            "submission_id": 359414,
+            "total_vote": 303,
+            "votes": {
+                "1": 80,
+                "2": 1,
+                "3": 209,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/74422_mv_1083706205_1684088467358783129.jpg",
+            "submission_id": 366479,
+            "total_vote": 293,
+            "votes": {
+                "10": 3,
+                "11": 5,
+                "12": 6,
+                "13": 15,
+                "17": 1,
+                "20": 3,
+                "21": 126,
+                "22": 56,
+                "23": 2,
+                "24": 4,
+                "3": 1,
+                "7": 2,
+                "8": 1,
+                "9": 68
+            }
+        },
+        "school_name": "HACI DUDU MEHMET GEBİZLİ KIZ ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1315,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/74422_cb_1093706209_1684089581829063111.jpg",
+            "submission_id": 398575,
+            "total_vote": 336,
+            "votes": {
+                "1": 82,
+                "2": 0,
+                "3": 232,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4e641481-8f49-4480-bbc1-93fb145a0e0a-1684105352462750768.jpg",
+            "submission_id": 623639,
+            "total_vote": 326,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 14,
+                "12": 2,
+                "13": 34,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 146,
+                "22": 65,
+                "23": 0,
+                "24": 1,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 6,
+                "8": 1,
+                "9": 53
+            }
+        },
+        "school_name": "HACI DUDU MEHMET GEBİZLİ KIZ ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1316,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/26341_cb_1093706210_1684087277415637423.jpg",
+            "submission_id": 328665,
+            "total_vote": 333,
+            "votes": {
+                "1": 77,
+                "2": 1,
+                "3": 237,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/26341_mv_1083706210_1684089866405477418.jpg",
+            "submission_id": 406240,
+            "total_vote": 333,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 12,
+                "12": 5,
+                "13": 31,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 1,
+                "21": 143,
+                "22": 52,
+                "23": 0,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 5,
+                "8": 3,
+                "9": 63
+            }
+        },
+        "school_name": "HACI DUDU MEHMET GEBİZLİ KIZ ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1320,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/26341_cb_1093706214_1684089452645828519.jpg",
+            "submission_id": 394938,
+            "total_vote": 326,
+            "votes": {
+                "1": 102,
+                "2": 0,
+                "3": 201,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7184d186-2596-4f2f-a373-261c371a8e60-1684105662124927133.jpeg",
+            "submission_id": 675608,
+            "total_vote": 323,
+            "votes": {
+                "10": 3,
+                "11": 28,
+                "12": 5,
+                "13": 20,
+                "14": 1,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "20": 0,
+                "21": 125,
+                "22": 54,
+                "23": 0,
+                "24": 11,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 0,
+                "9": 73
+            }
+        },
+        "school_name": "HACI DUDU MEHMET GEBİZLİ KIZ ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1314,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/74422_cb_1093706208_1684088680562261156.jpg",
+            "submission_id": 373130,
+            "total_vote": 323,
+            "votes": {
+                "1": 94,
+                "2": 0,
+                "3": 211,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "HACI DUDU MEHMET GEBİZLİ KIZ ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1321,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/26341_cb_1093706855_1684088032770287420.jpg",
+            "submission_id": 353038,
+            "total_vote": 326,
+            "votes": {
+                "1": 102,
+                "2": 1,
+                "3": 212,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/11010_bulk_999999999_1684096920357694345.jpeg",
+            "submission_id": 516979,
+            "total_vote": 317,
+            "votes": {
+                "10": 4,
+                "11": 20,
+                "12": 7,
+                "13": 18,
+                "15": 1,
+                "21": 136,
+                "22": 48,
+                "24": 4,
+                "7": 4,
+                "8": 3,
+                "9": 72
+            }
+        },
+        "school_name": "HACI DUDU MEHMET GEBİZLİ KIZ ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1327,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/26341_cb_1093706861_1684089532323275007.jpg",
+            "submission_id": 397144,
+            "total_vote": 328,
+            "votes": {
+                "1": 100,
+                "2": 2,
+                "3": 207,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/aaef42af-58a5-49bf-9641-855e67dfa33c-1684105755969733357.jpg",
+            "submission_id": 689876,
+            "total_vote": 327,
+            "votes": {
+                "1": 2,
+                "11": 14,
+                "12": 13,
+                "13": 36,
+                "17": 1,
+                "21": 117,
+                "22": 37,
+                "24": 12,
+                "3": 1,
+                "7": 5,
+                "8": 1,
+                "9": 88
+            }
+        },
+        "school_name": "HACI DUDU MEHMET GEBİZLİ KIZ ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1319,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/26341_cb_1093706213_1684085460943936005.jpg",
+            "submission_id": 267419,
+            "total_vote": 334,
+            "votes": {
+                "1": 95,
+                "3": 216,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/26341_mv_1083706213_1684085499282730918.jpg",
+            "submission_id": 268562,
+            "total_vote": 330,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 17,
+                "12": 9,
+                "13": 26,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 137,
+                "22": 45,
+                "23": 1,
+                "24": 10,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 11,
+                "8": 2,
+                "9": 65
+            }
+        },
+        "school_name": "HACI DUDU MEHMET GEBİZLİ KIZ ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1317,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/26341_cb_1093706211_1684089414570430384.jpg",
+            "submission_id": 393843,
+            "total_vote": 341,
+            "votes": {
+                "1": 104,
+                "2": 1,
+                "3": 215,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/85a9ab49-db54-41fb-a583-284873108be5-1684105608457180875.jpeg",
+            "submission_id": 666635,
+            "total_vote": 335,
+            "votes": {
+                "10": 3,
+                "11": 24,
+                "12": 8,
+                "13": 24,
+                "14": 2,
+                "15": 0,
+                "21": 140,
+                "22": 49,
+                "23": 1,
+                "24": 9,
+                "6": 0,
+                "7": 6,
+                "8": 2,
+                "9": 67
+            }
+        },
+        "school_name": "HACI DUDU MEHMET GEBİZLİ KIZ ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1326,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/26341_cb_1093706860_1684089638055200807.jpg",
+            "submission_id": 400072,
+            "total_vote": 336,
+            "votes": {
+                "1": 86,
+                "2": 2,
+                "3": 227,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c2bff088-1e3c-4b1c-b345-b066b8423c44-1684105367305243528.jpg",
+            "submission_id": 625982,
+            "total_vote": 331,
+            "votes": {
+                "10": 4,
+                "11": 20,
+                "12": 7,
+                "13": 41,
+                "15": 1,
+                "21": 129,
+                "22": 52,
+                "24": 7,
+                "7": 6,
+                "8": 1,
+                "9": 63
+            }
+        },
+        "school_name": "HACI DUDU MEHMET GEBİZLİ KIZ ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1324,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/26341_cb_1093706858_1684084645913032601.jpg",
+            "submission_id": 244388,
+            "total_vote": 336,
+            "votes": {
+                "1": 120,
+                "3": 197,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "HACI DUDU MEHMET GEBİZLİ KIZ ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1325,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/16032_bulk_999999999_1684087969846992829.jpeg",
+            "submission_id": 350919,
+            "total_vote": 327,
+            "votes": {
+                "1": 108,
+                "2": 1,
+                "3": 197,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16032_mv_1083706859_1684089207478151215.jpg",
+            "submission_id": 388343,
+            "total_vote": 321,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 27,
+                "12": 9,
+                "13": 35,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 97,
+                "22": 50,
+                "23": 1,
+                "24": 14,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 1,
+                "9": 77
+            }
+        },
+        "school_name": "HACI DUDU MEHMET GEBİZLİ KIZ ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1312,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/74422_cb_1093706206_1684088544910858211.jpg",
+            "submission_id": 368941,
+            "total_vote": 313,
+            "votes": {
+                "1": 128,
+                "2": 1,
+                "3": 175,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/74422_mv_1083706206_1684088611971925426.jpg",
+            "submission_id": 370988,
+            "total_vote": 305,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 19,
+                "12": 8,
+                "13": 8,
+                "15": 3,
+                "19": 1,
+                "2": 1,
+                "20": 1,
+                "21": 121,
+                "22": 43,
+                "23": 1,
+                "24": 3,
+                "3": 1,
+                "6": 1,
+                "7": 1,
+                "9": 91
+            }
+        },
+        "school_name": "HACI DUDU MEHMET GEBİZLİ KIZ ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1332,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/26343_bulk_999999999_1684085106181127674.jpeg",
+            "submission_id": 257133,
+            "total_vote": 333,
+            "votes": {
+                "1": 84,
+                "2": 2,
+                "3": 224,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "HACI DUDU MEHMET GEBİZLİ KIZ ANADOLU İMAM HATİP LİSESİ"
+    }
+]

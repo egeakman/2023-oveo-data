@@ -1,0 +1,73 @@
+[
+    {
+        "ballot_box_number": 1086,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/68677_cb_1093699880_1684088321620071393.jpg",
+            "submission_id": 361945,
+            "total_vote": 262,
+            "votes": {
+                "1": 144,
+                "2": 4,
+                "3": 101,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/68677_mv_1083699880_1684088405903146167.jpg",
+            "submission_id": 364576,
+            "total_vote": 255,
+            "votes": {
+                "1": 1,
+                "10": 5,
+                "11": 48,
+                "12": 5,
+                "13": 7,
+                "14": 2,
+                "17": 1,
+                "19": 1,
+                "20": 1,
+                "21": 76,
+                "22": 19,
+                "23": 2,
+                "24": 6,
+                "3": 1,
+                "7": 2,
+                "9": 78
+            }
+        },
+        "school_name": "BUCAKŞEYHLER MAH. İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1087,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/68677_cb_1093699881_1684092756227523424.jpg",
+            "submission_id": 460629,
+            "total_vote": 282,
+            "votes": {
+                "1": 157,
+                "2": 5,
+                "3": 99,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/68677_mv_1083699881_1684089834722717708.jpg",
+            "submission_id": 405384,
+            "total_vote": 277,
+            "votes": {
+                "10": 1,
+                "11": 58,
+                "13": 6,
+                "14": 1,
+                "2": 1,
+                "21": 72,
+                "22": 28,
+                "24": 11,
+                "7": 3,
+                "8": 3,
+                "9": 93
+            }
+        },
+        "school_name": "BUCAKŞEYHLER MAH. İLKOKULU"
+    }
+]

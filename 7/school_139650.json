@@ -1,0 +1,76 @@
+[
+    {
+        "ballot_box_number": 1056,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a7ba4e9e-a8bc-49e1-b8ad-66d5a9679a61-1684105121900279070.jpg",
+            "submission_id": 577081,
+            "total_vote": 278,
+            "votes": {
+                "1": 191,
+                "2": 3,
+                "3": 70,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÖZEL AÇI (KOLEJİ) OKULLARI"
+    },
+    {
+        "ballot_box_number": 1057,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/eac911de-0199-4618-aa5d-478ea12a5783-1684105179345425326.jpg",
+            "submission_id": 589904,
+            "total_vote": 307,
+            "votes": {
+                "1": 215,
+                "2": 2,
+                "3": 64,
+                "4": 26
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÖZEL AÇI (KOLEJİ) OKULLARI"
+    },
+    {
+        "ballot_box_number": 1058,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5691aa91-4a1e-42a5-b828-f110ca23e11d-1684105182589443828.jpg",
+            "submission_id": 590518,
+            "total_vote": 302,
+            "votes": {
+                "1": 182,
+                "2": 1,
+                "3": 95,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f36e02cb-8eed-4c2f-b158-abc745d85b7a-1684105181593586140.jpg",
+            "submission_id": 590419,
+            "total_vote": 291,
+            "votes": {
+                "1": 0,
+                "10": 9,
+                "11": 47,
+                "13": 0,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 0,
+                "21": 67,
+                "22": 31,
+                "23": 2,
+                "24": 8,
+                "3": 0,
+                "5": 0,
+                "7": 4,
+                "9": 119
+            }
+        },
+        "school_name": "ÖZEL AÇI (KOLEJİ) OKULLARI"
+    }
+]

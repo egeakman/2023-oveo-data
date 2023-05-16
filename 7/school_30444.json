@@ -1,0 +1,36 @@
+[
+    {
+        "ballot_box_number": 1020,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/46577_cb_1093697234_1684086669329675777.jpg",
+            "submission_id": 307413,
+            "total_vote": 295,
+            "votes": {
+                "1": 129,
+                "3": 161,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/46577_mv_1083697234_1684086760093836575.jpg",
+            "submission_id": 310670,
+            "total_vote": 284,
+            "votes": {
+                "10": 4,
+                "11": 33,
+                "12": 7,
+                "13": 14,
+                "15": 1,
+                "2": 2,
+                "21": 120,
+                "22": 12,
+                "23": 2,
+                "4": 1,
+                "5": 1,
+                "7": 2,
+                "9": 85
+            }
+        },
+        "school_name": "BELEN MAH KÖY KONAĞI"
+    }
+]

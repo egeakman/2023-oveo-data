@@ -1,0 +1,50 @@
+[
+    {
+        "ballot_box_number": 1486,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/1873358f-22e9-4a48-94c4-b76a781d9d65-1684105511613144220.jpeg",
+            "submission_id": 651691,
+            "total_vote": 307,
+            "votes": {
+                "1": 147,
+                "2": 0,
+                "3": 128,
+                "4": 32
+            }
+        },
+        "mv_result": null,
+        "school_name": "ULUKAPI MAH.Ş.H.İBRAHİM MUDUL İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1485,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/490011a2-6d9d-49a5-a4bf-46fc46b6f326-1684105486304315711.jpeg",
+            "submission_id": 647383,
+            "total_vote": 327,
+            "votes": {
+                "1": 172,
+                "2": 2,
+                "3": 128,
+                "4": 25
+            }
+        },
+        "mv_result": null,
+        "school_name": "ULUKAPI MAH.Ş.H.İBRAHİM MUDUL İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1484,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/04619fad-9939-40d0-8590-a6b1e9cfc6af-1684105451221642146.jpeg",
+            "submission_id": 642518,
+            "total_vote": 319,
+            "votes": {
+                "1": 203,
+                "2": 2,
+                "3": 84,
+                "4": 30
+            }
+        },
+        "mv_result": null,
+        "school_name": "ULUKAPI MAH.Ş.H.İBRAHİM MUDUL İLK OKULU"
+    }
+]

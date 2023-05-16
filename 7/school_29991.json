@@ -1,0 +1,144 @@
+[
+    {
+        "ballot_box_number": 1005,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/6369_cb_1093697390_1684092960336174000.jpeg",
+            "submission_id": 463395,
+            "total_vote": 324,
+            "votes": {
+                "1": 59,
+                "2": 3,
+                "3": 248,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/6369_mv_1083697390_1684093002589463431.jpeg",
+            "submission_id": 463942,
+            "total_vote": 320,
+            "votes": {
+                "1": 1,
+                "11": 13,
+                "12": 16,
+                "13": 25,
+                "14": 1,
+                "16": 0,
+                "19": 0,
+                "21": 154,
+                "22": 50,
+                "23": 1,
+                "24": 5,
+                "3": 4,
+                "6": 2,
+                "7": 7,
+                "9": 41
+            }
+        },
+        "school_name": "AHMET FERDA KAHRAMAN İLKOKULU/ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1001,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/6369_cb_1093697386_1684094222663465605.jpeg",
+            "submission_id": 489428,
+            "total_vote": 300,
+            "votes": {
+                "1": 75,
+                "3": 222,
+                "4": 3
+            }
+        },
+        "mv_result": null,
+        "school_name": "AHMET FERDA KAHRAMAN İLKOKULU/ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1004,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/6369_mv_1083697389_1684093059590902268.jpeg",
+            "submission_id": 464720,
+            "total_vote": 319,
+            "votes": {
+                "1": 74,
+                "2": 2,
+                "3": 218,
+                "4": 25
+            }
+        },
+        "mv_result": null,
+        "school_name": "AHMET FERDA KAHRAMAN İLKOKULU/ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1007,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/6369_mv_1083697392_1684093194495671483.jpeg",
+            "submission_id": 466678,
+            "total_vote": 332,
+            "votes": {
+                "1": 59,
+                "2": 0,
+                "3": 256,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "AHMET FERDA KAHRAMAN İLKOKULU/ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1002,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "AHMET FERDA KAHRAMAN İLKOKULU/ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1003,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/6369_cb_1093697388_1684093850482492231.jpeg",
+            "submission_id": 475400,
+            "total_vote": 326,
+            "votes": {
+                "1": 78,
+                "2": 3,
+                "3": 233,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f08d94b7-3249-47fc-a0eb-d6fda7035461-1684105288280580848.jpeg",
+            "submission_id": 611407,
+            "total_vote": 321,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 20,
+                "12": 12,
+                "13": 32,
+                "15": 3,
+                "21": 142,
+                "22": 41,
+                "24": 5,
+                "3": 2,
+                "4": 1,
+                "6": 1,
+                "7": 3,
+                "9": 57
+            }
+        },
+        "school_name": "AHMET FERDA KAHRAMAN İLKOKULU/ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1006,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/6369_cb_1093697391_1684093115787601555.jpeg",
+            "submission_id": 465619,
+            "total_vote": 314,
+            "votes": {
+                "1": 70,
+                "2": 2,
+                "3": 234,
+                "4": 8
+            }
+        },
+        "mv_result": null,
+        "school_name": "AHMET FERDA KAHRAMAN İLKOKULU/ORTAOKULU"
+    }
+]

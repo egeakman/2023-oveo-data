@@ -1,0 +1,30 @@
+[
+    {
+        "ballot_box_number": 1033,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "GÖKPINAR AŞEVİ"
+    },
+    {
+        "ballot_box_number": 1032,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "GÖKPINAR AŞEVİ"
+    },
+    {
+        "ballot_box_number": 1031,
+        "cm_result": {
+            "image_url": "https://source2-secim-images.oyveotesi.org/raw/lima/64c13645-b375-41c9-ba1c-427ff15f22f7.jpg",
+            "submission_id": 494024,
+            "total_vote": 280,
+            "votes": {
+                "1": 187,
+                "2": 1,
+                "3": 79,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "GÖKPINAR AŞEVİ"
+    }
+]

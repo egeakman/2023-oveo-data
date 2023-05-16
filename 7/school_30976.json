@@ -1,0 +1,463 @@
+[
+    {
+        "ballot_box_number": 1133,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/70379_cb_1093700408_1684087601788710966.jpg",
+            "submission_id": 339128,
+            "total_vote": 322,
+            "votes": {
+                "1": 154,
+                "2": 1,
+                "3": 136,
+                "4": 31
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/70379_mv_1083700408_1684087541736557492.jpg",
+            "submission_id": 337237,
+            "total_vote": 316,
+            "votes": {
+                "1": 1,
+                "10": 7,
+                "11": 41,
+                "12": 10,
+                "13": 9,
+                "14": 1,
+                "15": 1,
+                "19": 1,
+                "20": 1,
+                "21": 88,
+                "22": 30,
+                "24": 12,
+                "3": 2,
+                "4": 1,
+                "6": 2,
+                "7": 2,
+                "9": 107
+            }
+        },
+        "school_name": "(KARŞIYAKA MAH) PERİHAN-ESAT ARAL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1134,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/33363_bulk_999999999_1684093689041579204.jpg",
+            "submission_id": 472885,
+            "total_vote": 341,
+            "votes": {
+                "1": 137,
+                "2": 0,
+                "3": 173,
+                "4": 31
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/33363_bulk_999999999_1684093688980432073.jpg",
+            "submission_id": 472883,
+            "total_vote": 331,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 33,
+                "12": 6,
+                "13": 14,
+                "14": 6,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 101,
+                "22": 39,
+                "23": 0,
+                "24": 21,
+                "3": 0,
+                "4": 6,
+                "5": 1,
+                "6": 7,
+                "7": 3,
+                "8": 0,
+                "9": 85
+            }
+        },
+        "school_name": "(KARŞIYAKA MAH) PERİHAN-ESAT ARAL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1143,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/30117_cb_1093700938_1684087707593814184.jpg",
+            "submission_id": 342639,
+            "total_vote": 315,
+            "votes": {
+                "1": 149,
+                "2": 3,
+                "3": 131,
+                "4": 32
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/30117_bulk_999999999_1684087580332715750.jpg",
+            "submission_id": 338471,
+            "total_vote": 312,
+            "votes": {
+                "10": 2,
+                "11": 35,
+                "12": 13,
+                "13": 11,
+                "14": 1,
+                "15": 2,
+                "19": 1,
+                "2": 1,
+                "20": 1,
+                "21": 80,
+                "22": 30,
+                "23": 2,
+                "24": 13,
+                "3": 1,
+                "6": 2,
+                "7": 4,
+                "8": 4,
+                "9": 109
+            }
+        },
+        "school_name": "(KARŞIYAKA MAH) PERİHAN-ESAT ARAL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1139,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/13033_bulk_999999999_1684083539772726693.jpg",
+            "submission_id": 218571,
+            "total_vote": 339,
+            "votes": {
+                "1": 159,
+                "2": 1,
+                "3": 159,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/13033_mv_1083700413_1684089615833864454.jpg",
+            "submission_id": 399466,
+            "total_vote": 329,
+            "votes": {
+                "1": 0,
+                "10": 8,
+                "11": 44,
+                "12": 5,
+                "13": 11,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 94,
+                "22": 45,
+                "23": 1,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 103
+            }
+        },
+        "school_name": "(KARŞIYAKA MAH) PERİHAN-ESAT ARAL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1138,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/13033_cb_1093700413_1684088529691760772.jpg",
+            "submission_id": 368422,
+            "total_vote": 335,
+            "votes": {
+                "1": 166,
+                "2": 3,
+                "3": 142,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/13033_mv_1083700413_1684089859940265420.jpg",
+            "submission_id": 406043,
+            "total_vote": 330,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 37,
+                "12": 5,
+                "13": 9,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 1,
+                "2": 9,
+                "20": 0,
+                "21": 96,
+                "22": 26,
+                "23": 0,
+                "24": 10,
+                "3": 1,
+                "4": 0,
+                "5": 2,
+                "6": 1,
+                "7": 6,
+                "8": 0,
+                "9": 123
+            }
+        },
+        "school_name": "(KARŞIYAKA MAH) PERİHAN-ESAT ARAL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1132,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/70003_cb_1093700407_1684086113811736112.jpg",
+            "submission_id": 288580,
+            "total_vote": 305,
+            "votes": {
+                "1": 140,
+                "2": 4,
+                "3": 147,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/70003_mv_1083700407_1684087362257772326.jpg",
+            "submission_id": 331426,
+            "total_vote": 291,
+            "votes": {
+                "10": 6,
+                "11": 18,
+                "12": 8,
+                "13": 8,
+                "14": 1,
+                "21": 98,
+                "22": 29,
+                "23": 3,
+                "24": 8,
+                "6": 4,
+                "7": 1,
+                "8": 2,
+                "9": 105
+            }
+        },
+        "school_name": "(KARŞIYAKA MAH) PERİHAN-ESAT ARAL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1141,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/13033_cb_1093700936_1684089387398888872.jpg",
+            "submission_id": 393121,
+            "total_vote": 327,
+            "votes": {
+                "1": 147,
+                "2": 5,
+                "3": 149,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/13033_mv_1083700936_1684089431518514010.jpg",
+            "submission_id": 394295,
+            "total_vote": 323,
+            "votes": {
+                "1": 1,
+                "10": 5,
+                "11": 37,
+                "12": 4,
+                "13": 14,
+                "14": 1,
+                "15": 2,
+                "16": 1,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 91,
+                "22": 40,
+                "23": 0,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 4,
+                "8": 1,
+                "9": 108
+            }
+        },
+        "school_name": "(KARŞIYAKA MAH) PERİHAN-ESAT ARAL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1137,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/6346_cb_1093700412_1684085329476849887.jpg",
+            "submission_id": 263579,
+            "total_vote": 337,
+            "votes": {
+                "1": 160,
+                "2": 1,
+                "3": 150,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/6346_mv_1083700412_1684085179716020657.jpg",
+            "submission_id": 259242,
+            "total_vote": 327,
+            "votes": {
+                "10": 5,
+                "11": 33,
+                "12": 5,
+                "13": 10,
+                "21": 93,
+                "22": 43,
+                "23": 2,
+                "24": 14,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 118
+            }
+        },
+        "school_name": "(KARŞIYAKA MAH) PERİHAN-ESAT ARAL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1142,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/70379_cb_1093700937_1684086741432732671.jpg",
+            "submission_id": 310024,
+            "total_vote": 316,
+            "votes": {
+                "1": 126,
+                "2": 3,
+                "3": 149,
+                "4": 38
+            }
+        },
+        "mv_result": null,
+        "school_name": "(KARŞIYAKA MAH) PERİHAN-ESAT ARAL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1140,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/13033_cb_1093700935_1684088750009206496.jpg",
+            "submission_id": 375200,
+            "total_vote": 325,
+            "votes": {
+                "1": 157,
+                "2": 1,
+                "3": 141,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/13033_mv_1083700935_1684088891123315568.jpg",
+            "submission_id": 379270,
+            "total_vote": 318,
+            "votes": {
+                "10": 8,
+                "11": 32,
+                "12": 6,
+                "13": 8,
+                "20": 1,
+                "21": 94,
+                "22": 30,
+                "23": 2,
+                "24": 17,
+                "7": 4,
+                "9": 116
+            }
+        },
+        "school_name": "(KARŞIYAKA MAH) PERİHAN-ESAT ARAL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1136,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/13033_cb_1093700411_1684084002071844952.jpg",
+            "submission_id": 228177,
+            "total_vote": 323,
+            "votes": {
+                "1": 140,
+                "2": 1,
+                "3": 153,
+                "4": 29
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/70003_mv_1083700411_1684087478794320088.jpg",
+            "submission_id": 335195,
+            "total_vote": 322,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 32,
+                "12": 7,
+                "13": 14,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 98,
+                "22": 35,
+                "23": 0,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 8,
+                "8": 2,
+                "9": 107
+            }
+        },
+        "school_name": "(KARŞIYAKA MAH) PERİHAN-ESAT ARAL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1135,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/70003_cb_1093700410_1684086640547142407.jpg",
+            "submission_id": 306445,
+            "total_vote": 336,
+            "votes": {
+                "1": 167,
+                "2": 3,
+                "3": 137,
+                "4": 29
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/70003_mv_1083700410_1684086546319565789.jpg",
+            "submission_id": 303160,
+            "total_vote": 331,
+            "votes": {
+                "10": 3,
+                "11": 38,
+                "12": 7,
+                "13": 6,
+                "15": 1,
+                "21": 89,
+                "22": 40,
+                "23": 2,
+                "24": 14,
+                "7": 6,
+                "8": 1,
+                "9": 124
+            }
+        },
+        "school_name": "(KARŞIYAKA MAH) PERİHAN-ESAT ARAL ORTAOKULU"
+    }
+]

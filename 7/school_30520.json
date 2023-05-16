@@ -1,0 +1,18 @@
+[
+    {
+        "ballot_box_number": 1012,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/29392_bulk_999999999_1684098804478469243.jpg",
+            "submission_id": 529380,
+            "total_vote": 59,
+            "votes": {
+                "1": 47,
+                "2": 2,
+                "3": 9,
+                "4": 1
+            }
+        },
+        "mv_result": null,
+        "school_name": "CENDEVE MAHALLE KONAĞI"
+    }
+]

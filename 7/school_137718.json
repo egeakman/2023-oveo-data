@@ -1,0 +1,74 @@
+[
+    {
+        "ballot_box_number": 1098,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1987_bulk_999999999_1684093363145769910.jpg",
+            "submission_id": 468954,
+            "total_vote": 174,
+            "votes": {
+                "1": 93,
+                "2": 4,
+                "3": 65,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1987_bulk_999999999_1684093363294677370.jpg",
+            "submission_id": 468955,
+            "total_vote": 171,
+            "votes": {
+                "1": 2,
+                "10": 1,
+                "11": 23,
+                "12": 1,
+                "13": 14,
+                "16": 1,
+                "17": 1,
+                "19": 1,
+                "2": 1,
+                "20": 1,
+                "21": 45,
+                "23": 12,
+                "24": 2,
+                "3": 1,
+                "7": 3,
+                "9": 62
+            }
+        },
+        "school_name": "KÜÇÜKLÜ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1099,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1987_bulk_999999999_1684093362829224086.jpg",
+            "submission_id": 468945,
+            "total_vote": 195,
+            "votes": {
+                "1": 98,
+                "2": 3,
+                "3": 80,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1987_bulk_999999999_1684093362931157052.jpg",
+            "submission_id": 468949,
+            "total_vote": 179,
+            "votes": {
+                "10": 2,
+                "11": 38,
+                "13": 2,
+                "17": 1,
+                "21": 54,
+                "22": 18,
+                "23": 2,
+                "24": 4,
+                "4": 1,
+                "7": 2,
+                "8": 1,
+                "9": 54
+            }
+        },
+        "school_name": "KÜÇÜKLÜ İLKOKULU"
+    }
+]

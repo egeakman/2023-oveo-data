@@ -1,0 +1,30 @@
+[
+    {
+        "ballot_box_number": 1086,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "KARALAR HÜSEYİNLİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1085,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "KARALAR HÜSEYİNLİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1084,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/468c2b92-8c06-4354-a822-baa3fdd3c187-1684105134764008803.jpg",
+            "submission_id": 580017,
+            "total_vote": 337,
+            "votes": {
+                "1": 160,
+                "2": 8,
+                "3": 149,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "KARALAR HÜSEYİNLİ İLKOKULU"
+    }
+]

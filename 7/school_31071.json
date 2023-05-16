@@ -1,0 +1,515 @@
+[
+    {
+        "ballot_box_number": 1039,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11802_cb_1093697913_1684087503066474443.jpg",
+            "submission_id": 336010,
+            "total_vote": 308,
+            "votes": {
+                "1": 120,
+                "2": 3,
+                "3": 172,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11802_mv_1083697913_1684087566517941455.jpg",
+            "submission_id": 338014,
+            "total_vote": 302,
+            "votes": {
+                "10": 3,
+                "11": 27,
+                "12": 7,
+                "13": 18,
+                "19": 1,
+                "21": 89,
+                "22": 54,
+                "24": 5,
+                "7": 10,
+                "8": 2,
+                "9": 86
+            }
+        },
+        "school_name": "BELEK LİMAK İLK/ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1038,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/42420_cb_1093697912_1684081394781307780.jpg",
+            "submission_id": 188472,
+            "total_vote": 303,
+            "votes": {
+                "1": 103,
+                "2": 2,
+                "3": 177,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/42420_mv_1083697912_1684081440509477918.jpg",
+            "submission_id": 188849,
+            "total_vote": 292,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 26,
+                "12": 22,
+                "13": 21,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 95,
+                "22": 40,
+                "23": 2,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 1,
+                "9": 70
+            }
+        },
+        "school_name": "BELEK LİMAK İLK/ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1043,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/78705_cb_1093698457_1684081562803482984.jpg",
+            "submission_id": 189975,
+            "total_vote": 286,
+            "votes": {
+                "1": 120,
+                "2": 3,
+                "3": 148,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11802_mv_1083698457_1684086949239584989.jpg",
+            "submission_id": 317198,
+            "total_vote": 284,
+            "votes": {
+                "1": 0,
+                "10": 8,
+                "11": 29,
+                "12": 8,
+                "13": 5,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 91,
+                "22": 45,
+                "23": 0,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 2,
+                "8": 1,
+                "9": 88
+            }
+        },
+        "school_name": "BELEK LİMAK İLK/ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1045,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/78705_bulk_999999999_1684082444975213831.jpg",
+            "submission_id": 200232,
+            "total_vote": 288,
+            "votes": {
+                "1": 106,
+                "3": 166,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "BELEK LİMAK İLK/ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1037,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/42420_cb_1093697911_1684079741888864803.jpg",
+            "submission_id": 178136,
+            "total_vote": 303,
+            "votes": {
+                "1": 107,
+                "2": 1,
+                "3": 177,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11802_mv_1083697911_1684086693492259383.jpg",
+            "submission_id": 308298,
+            "total_vote": 297,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 21,
+                "12": 0,
+                "13": 10,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 2,
+                "20": 0,
+                "21": 113,
+                "22": 42,
+                "23": 10,
+                "24": 0,
+                "3": 0,
+                "4": 5,
+                "5": 0,
+                "6": 2,
+                "7": 3,
+                "8": 1,
+                "9": 79
+            }
+        },
+        "school_name": "BELEK LİMAK İLK/ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1044,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/78705_bulk_999999999_1684080537198484622.jpg",
+            "submission_id": 182276,
+            "total_vote": 299,
+            "votes": {
+                "1": 106,
+                "2": 0,
+                "3": 183,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/78705_bulk_999999999_1684082259087730919.jpg",
+            "submission_id": 197832,
+            "total_vote": 295,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 29,
+                "12": 7,
+                "13": 21,
+                "19": 1,
+                "21": 99,
+                "22": 43,
+                "24": 7,
+                "5": 1,
+                "6": 2,
+                "7": 5,
+                "9": 76
+            }
+        },
+        "school_name": "BELEK LİMAK İLK/ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1046,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/11802_bulk_999999999_1684086162545528242.jpg",
+            "submission_id": 290197,
+            "total_vote": 284,
+            "votes": {
+                "1": 117,
+                "2": 1,
+                "3": 138,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/11802_bulk_999999999_1684086162643755988.jpg",
+            "submission_id": 290200,
+            "total_vote": 278,
+            "votes": {
+                "1": 1,
+                "10": 7,
+                "11": 29,
+                "12": 8,
+                "13": 10,
+                "21": 81,
+                "22": 37,
+                "24": 13,
+                "3": 1,
+                "6": 1,
+                "7": 8,
+                "8": 3,
+                "9": 79
+            }
+        },
+        "school_name": "BELEK LİMAK İLK/ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1042,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/78705_bulk_999999999_1684085532179698917.jpg",
+            "submission_id": 269593,
+            "total_vote": 301,
+            "votes": {
+                "1": 118,
+                "2": 1,
+                "3": 166,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "BELEK LİMAK İLK/ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1041,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/42420_cb_1093698455_1684081040320010737.jpg",
+            "submission_id": 185622,
+            "total_vote": 285,
+            "votes": {
+                "1": 88,
+                "2": 2,
+                "3": 179,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/42420_mv_1083698455_1684080959657817616.jpg",
+            "submission_id": 185014,
+            "total_vote": 284,
+            "votes": {
+                "10": 5,
+                "11": 21,
+                "12": 15,
+                "13": 25,
+                "14": 1,
+                "21": 91,
+                "22": 42,
+                "23": 2,
+                "24": 7,
+                "6": 3,
+                "7": 4,
+                "8": 4,
+                "9": 64
+            }
+        },
+        "school_name": "BELEK LİMAK İLK/ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1047,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/11802_bulk_999999999_1684086344937152461.jpg",
+            "submission_id": 296226,
+            "total_vote": 280,
+            "votes": {
+                "1": 106,
+                "2": 1,
+                "3": 165,
+                "4": 8
+            }
+        },
+        "mv_result": null,
+        "school_name": "BELEK LİMAK İLK/ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1051,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/42191_cb_1093698465_1684087272887286915.jpg",
+            "submission_id": 328481,
+            "total_vote": 303,
+            "votes": {
+                "1": 122,
+                "2": 2,
+                "3": 149,
+                "4": 30
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/78705_bulk_999999999_1684092957410754601.jpg",
+            "submission_id": 463354,
+            "total_vote": 303,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 36,
+                "12": 20,
+                "13": 11,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 83,
+                "22": 38,
+                "23": 0,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 4,
+                "7": 5,
+                "8": 1,
+                "9": 87
+            }
+        },
+        "school_name": "BELEK LİMAK İLK/ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1048,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/42191_cb_1093698462_1684088167282590718.jpg",
+            "submission_id": 357342,
+            "total_vote": 287,
+            "votes": {
+                "1": 128,
+                "2": 2,
+                "3": 138,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/42191_mv_1083698462_1684087747778402460.jpg",
+            "submission_id": 343936,
+            "total_vote": 280,
+            "votes": {
+                "10": 2,
+                "11": 24,
+                "12": 9,
+                "13": 15,
+                "18": 2,
+                "20": 1,
+                "21": 76,
+                "22": 40,
+                "24": 11,
+                "5": 1,
+                "6": 2,
+                "7": 3,
+                "8": 1,
+                "9": 93
+            }
+        },
+        "school_name": "BELEK LİMAK İLK/ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1040,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11802_cb_1093697914_1684086999838051412.jpg",
+            "submission_id": 318944,
+            "total_vote": 276,
+            "votes": {
+                "1": 107,
+                "2": 1,
+                "3": 154,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "BELEK LİMAK İLK/ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1050,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/42191_cb_1093698464_1684081594645013648.jpg",
+            "submission_id": 190276,
+            "total_vote": 298,
+            "votes": {
+                "1": 101,
+                "2": 3,
+                "3": 172,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/42191_mv_1083698464_1684087392872846168.jpg",
+            "submission_id": 332475,
+            "total_vote": 291,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 45,
+                "12": 17,
+                "13": 18,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 90,
+                "22": 35,
+                "23": 0,
+                "24": 14,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 0,
+                "9": 62
+            }
+        },
+        "school_name": "BELEK LİMAK İLK/ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1049,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/42191_cb_1093698463_1684082161116917680.jpg",
+            "submission_id": 196578,
+            "total_vote": 293,
+            "votes": {
+                "1": 99,
+                "2": 0,
+                "3": 171,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/42191_mv_1083698463_1684083235137891271.jpg",
+            "submission_id": 212784,
+            "total_vote": 284,
+            "votes": {
+                "1": 1,
+                "10": 6,
+                "11": 30,
+                "12": 17,
+                "13": 19,
+                "14": 0,
+                "15": 1,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 82,
+                "22": 47,
+                "23": 1,
+                "24": 15,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 0,
+                "9": 60
+            }
+        },
+        "school_name": "BELEK LİMAK İLK/ORTA OKULU"
+    }
+]

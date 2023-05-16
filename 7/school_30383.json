@@ -1,0 +1,46 @@
+[
+    {
+        "ballot_box_number": 1083,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5afc6401-da95-43b6-886a-8a172195bf3e-1684105299235793860.jpg",
+            "submission_id": 614602,
+            "total_vote": 316,
+            "votes": {
+                "1": 220,
+                "2": 5,
+                "3": 71,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5d4ae0dd-0fa0-476f-8786-27ddc2ae8032-1684105293799857074.jpg",
+            "submission_id": 613478,
+            "total_vote": 304,
+            "votes": {
+                "10": 9,
+                "11": 50,
+                "12": 2,
+                "13": 1,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 3,
+                "18": 0,
+                "19": 1,
+                "20": 1,
+                "21": 43,
+                "22": 35,
+                "23": 6,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 1,
+                "9": 137
+            }
+        },
+        "school_name": "KOZAĞACI İLKÖĞRETİM OKULU"
+    }
+]

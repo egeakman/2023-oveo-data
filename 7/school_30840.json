@@ -1,0 +1,18 @@
+[
+    {
+        "ballot_box_number": 1205,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/33d299e4-b16e-4809-af68-f5f1b90a7332-1684105632398172786.jpg",
+            "submission_id": 671338,
+            "total_vote": 164,
+            "votes": {
+                "1": 75,
+                "2": 0,
+                "3": 67,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "HALİTAĞALAR MAH. İLKOKULU"
+    }
+]

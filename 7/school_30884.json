@@ -1,0 +1,74 @@
+[
+    {
+        "ballot_box_number": 1141,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/6453c4de-6e2a-451f-98ff-d1fe89858443-1684106427362654721.jpeg",
+            "submission_id": 786533,
+            "total_vote": 186,
+            "votes": {
+                "1": 69,
+                "2": 0,
+                "3": 106,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/83ddf72c-f8dd-4ccc-bebd-c5bf88e324ce-1684106423813953428.jpeg",
+            "submission_id": 785872,
+            "total_vote": 181,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 13,
+                "12": 0,
+                "13": 2,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 54,
+                "22": 46,
+                "23": 7,
+                "24": 1,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 1,
+                "9": 53
+            }
+        },
+        "school_name": "DENİZYAKA MAH.ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1142,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/321f85d0-7073-49e0-9e21-faa66e6baff9-1684106404356136323.jpeg",
+            "submission_id": 783127,
+            "total_vote": 190,
+            "votes": {
+                "1": 1,
+                "10": 6,
+                "11": 15,
+                "12": 1,
+                "13": 1,
+                "14": 2,
+                "16": 1,
+                "21": 52,
+                "22": 47,
+                "23": 2,
+                "24": 3,
+                "6": 2,
+                "7": 1,
+                "9": 56
+            }
+        },
+        "school_name": "DENİZYAKA MAH.ORTA OKULU"
+    }
+]

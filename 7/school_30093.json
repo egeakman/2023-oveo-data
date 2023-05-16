@@ -1,0 +1,106 @@
+[
+    {
+        "ballot_box_number": 2004,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a6a95af4-aaa0-49c6-b6d6-c4f44f471a02-1684106506896325219.jpg",
+            "submission_id": 799114,
+            "total_vote": 292,
+            "votes": {
+                "1": 139,
+                "2": 0,
+                "3": 134,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9d88ae83-9e42-4a7b-b494-d2771198a3a5-1684106335005005422.jpg",
+            "submission_id": 773019,
+            "total_vote": 286,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 46,
+                "12": 2,
+                "13": 4,
+                "14": 1,
+                "15": 2,
+                "16": 4,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 98,
+                "22": 23,
+                "23": 2,
+                "24": 2,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 4,
+                "8": 1,
+                "9": 86
+            }
+        },
+        "school_name": "AKDAM İLK ÖĞRETİM OKULU"
+    },
+    {
+        "ballot_box_number": 2003,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/36e052a6-dd2d-4ed6-9f59-691091ba5497-1684106625176396800.jpg",
+            "submission_id": 815105,
+            "total_vote": 303,
+            "votes": {
+                "1": 159,
+                "2": 2,
+                "3": 128,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/afa83e0e-110f-400c-9e09-7e0b11b18d7e-1684106417124558789.jpg",
+            "submission_id": 784704,
+            "total_vote": 290,
+            "votes": {
+                "10": 2,
+                "11": 41,
+                "13": 2,
+                "21": 94,
+                "22": 35,
+                "23": 3,
+                "24": 4,
+                "3": 1,
+                "7": 1,
+                "8": 2,
+                "9": 105
+            }
+        },
+        "school_name": "AKDAM İLK ÖĞRETİM OKULU"
+    },
+    {
+        "ballot_box_number": 2002,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4badeec7-016f-48d0-bd83-3d5a83d770a8-1684106480153194912.jpg",
+            "submission_id": 794738,
+            "total_vote": 289,
+            "votes": {
+                "10": 3,
+                "11": 59,
+                "12": 1,
+                "13": 2,
+                "20": 1,
+                "21": 52,
+                "22": 16,
+                "23": 4,
+                "24": 10,
+                "3": 1,
+                "7": 2,
+                "8": 3,
+                "9": 135
+            }
+        },
+        "school_name": "AKDAM İLK ÖĞRETİM OKULU"
+    }
+]

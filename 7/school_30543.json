@@ -1,0 +1,19 @@
+[
+    {
+        "ballot_box_number": 1024,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/29392_bulk_999999999_1684099994350398238.jpg",
+            "submission_id": 535296,
+            "total_vote": 46,
+            "votes": {
+                "11": 4,
+                "21": 11,
+                "22": 4,
+                "5": 1,
+                "9": 26
+            }
+        },
+        "school_name": "DİKMEN MAHALLESİ İLKOKULU"
+    }
+]

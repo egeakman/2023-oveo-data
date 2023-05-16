@@ -1,0 +1,77 @@
+[
+    {
+        "ballot_box_number": 1143,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/efdd0fe9-58b8-46c5-9a8a-9b2e0d74fc2b-1684105809233630242.jpg",
+            "submission_id": 698227,
+            "total_vote": 357,
+            "votes": {
+                "1": 21,
+                "2": 2,
+                "3": 328,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7fdfb8b6-4cc7-48ae-9499-0c1fc52537eb-1684105848095198067.jpg",
+            "submission_id": 703264,
+            "total_vote": 354,
+            "votes": {
+                "10": 1,
+                "11": 8,
+                "12": 2,
+                "13": 37,
+                "20": 1,
+                "21": 270,
+                "22": 10,
+                "24": 4,
+                "3": 3,
+                "4": 1,
+                "5": 2,
+                "8": 1,
+                "9": 14
+            }
+        },
+        "school_name": "KARATEPE OKULU"
+    },
+    {
+        "ballot_box_number": 1142,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3cc266b3-ea61-4904-8c11-9d1ea622ef3e-1684106506896550557.jpg",
+            "submission_id": 797711,
+            "total_vote": 352,
+            "votes": {
+                "1": 24,
+                "3": 320,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3cca9e0d-4039-49cc-8d58-bc44eb8981f3-1684105999797864922.jpg",
+            "submission_id": 723914,
+            "total_vote": 349,
+            "votes": {
+                "10": 0,
+                "11": 3,
+                "12": 5,
+                "13": 38,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "2": 0,
+                "21": 255,
+                "22": 18,
+                "23": 0,
+                "24": 4,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 21
+            }
+        },
+        "school_name": "KARATEPE OKULU"
+    }
+]

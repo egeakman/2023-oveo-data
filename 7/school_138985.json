@@ -1,0 +1,77 @@
+[
+    {
+        "ballot_box_number": 1019,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1986_bulk_999999999_1684083986790835973.jpeg",
+            "submission_id": 227820,
+            "total_vote": 234,
+            "votes": {
+                "1": 168,
+                "2": 3,
+                "3": 47,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source2-secim-images.oyveotesi.org/raw/romeo/3ed7ad8b-b7d8-42e8-97a7-1d5ce043a378.jpg",
+            "submission_id": 549326,
+            "total_vote": 230,
+            "votes": {
+                "10": 2,
+                "11": 62,
+                "12": 1,
+                "14": 1,
+                "21": 41,
+                "22": 14,
+                "23": 1,
+                "24": 5,
+                "9": 103
+            }
+        },
+        "school_name": "HİLMİ CANER SARACOĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1020,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16268_cb_1093697254_1684082020799196904.jpg",
+            "submission_id": 194826,
+            "total_vote": 248,
+            "votes": {
+                "1": 169,
+                "2": 2,
+                "3": 70,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16268_mv_1083697254_1684088334288359705.jpg",
+            "submission_id": 362324,
+            "total_vote": 235,
+            "votes": {
+                "1": 2,
+                "10": 1,
+                "11": 56,
+                "12": 0,
+                "13": 4,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 51,
+                "22": 15,
+                "23": 0,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 99
+            }
+        },
+        "school_name": "HİLMİ CANER SARACOĞLU İLKOKULU"
+    }
+]

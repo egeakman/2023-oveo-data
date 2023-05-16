@@ -1,0 +1,46 @@
+[
+    {
+        "ballot_box_number": 1083,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "(T.OVA HACIVELİLER) ŞEHİT NURETTİN TEK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1082,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/57649_bulk_999999999_1684096261153303596.jpg",
+            "submission_id": 510867,
+            "total_vote": 268,
+            "votes": {
+                "1": 145,
+                "2": 1,
+                "3": 107,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "(T.OVA HACIVELİLER) ŞEHİT NURETTİN TEK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1084,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "(T.OVA HACIVELİLER) ŞEHİT NURETTİN TEK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1081,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/57649_bulk_999999999_1684096476302679324.jpg",
+            "submission_id": 512907,
+            "total_vote": 252,
+            "votes": {
+                "1": 144,
+                "2": 3,
+                "3": 89,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "(T.OVA HACIVELİLER) ŞEHİT NURETTİN TEK ORTAOKULU"
+    }
+]

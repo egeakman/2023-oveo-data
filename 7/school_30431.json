@@ -1,0 +1,58 @@
+[
+    {
+        "ballot_box_number": 1094,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "MAVİKENT MAH. DURALİ YAZICI İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1097,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/77609_bulk_999999999_1684089169352937731.jpeg",
+            "submission_id": 387279,
+            "total_vote": 340,
+            "votes": {
+                "1": 166,
+                "2": 5,
+                "3": 152,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "MAVİKENT MAH. DURALİ YAZICI İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1093,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "MAVİKENT MAH. DURALİ YAZICI İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1096,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/77609_bulk_999999999_1684089169259701504.jpeg",
+            "submission_id": 387275,
+            "total_vote": 341,
+            "votes": {
+                "1": 178,
+                "2": 3,
+                "3": 147,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "MAVİKENT MAH. DURALİ YAZICI İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1095,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "MAVİKENT MAH. DURALİ YAZICI İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1092,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "MAVİKENT MAH. DURALİ YAZICI İLK OKULU"
+    }
+]

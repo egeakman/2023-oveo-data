@@ -1,0 +1,95 @@
+[
+    {
+        "ballot_box_number": 1291,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/32071_bulk_999999999_1684091426725241452.jpeg",
+            "submission_id": 440024,
+            "total_vote": 322,
+            "votes": {
+                "1": 94,
+                "2": 2,
+                "3": 211,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/45ffd359-3970-41b1-9dd0-d99bdc9a8d38-1684105951535152090.jpg",
+            "submission_id": 717535,
+            "total_vote": 312,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 25,
+                "12": 12,
+                "13": 17,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 157,
+                "22": 12,
+                "23": 3,
+                "24": 6,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 2,
+                "9": 66
+            }
+        },
+        "school_name": "KIZILOT- AHMET YAŞAR İLKOKULU/ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1292,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/32071_bulk_999999999_1684091460713110712.jpeg",
+            "submission_id": 440556,
+            "total_vote": 326,
+            "votes": {
+                "1": 105,
+                "3": 196,
+                "4": 25
+            }
+        },
+        "mv_result": null,
+        "school_name": "KIZILOT- AHMET YAŞAR İLKOKULU/ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1289,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/32071_bulk_999999999_1684096907491269444.jpeg",
+            "submission_id": 516851,
+            "total_vote": 309,
+            "votes": {
+                "1": 95,
+                "2": 3,
+                "3": 192,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "KIZILOT- AHMET YAŞAR İLKOKULU/ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1290,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/32071_bulk_999999999_1684091389719903654.jpeg",
+            "submission_id": 439387,
+            "total_vote": 324,
+            "votes": {
+                "1": 85,
+                "2": 4,
+                "3": 211,
+                "4": 24
+            }
+        },
+        "mv_result": null,
+        "school_name": "KIZILOT- AHMET YAŞAR İLKOKULU/ORTAOKULU"
+    }
+]

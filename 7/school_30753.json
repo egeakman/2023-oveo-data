@@ -1,0 +1,93 @@
+[
+    {
+        "ballot_box_number": 1079,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/17356_bulk_999999999_1684080219990355331.jpg",
+            "submission_id": 180375,
+            "total_vote": 331,
+            "votes": {
+                "1": 176,
+                "2": 2,
+                "3": 126,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/17356_bulk_999999999_1684080255214687861.jpg",
+            "submission_id": 180577,
+            "total_vote": 315,
+            "votes": {
+                "1": 2,
+                "10": 8,
+                "11": 0,
+                "12": 39,
+                "13": 4,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 2,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 1,
+                "21": 74,
+                "22": 43,
+                "23": 0,
+                "24": 3,
+                "4": 1,
+                "5": 4,
+                "6": 5,
+                "7": 4,
+                "8": 2,
+                "9": 119
+            }
+        },
+        "school_name": "KARATAŞ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1080,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/17356_bulk_999999999_1684081476870261924.jpg",
+            "submission_id": 189178,
+            "total_vote": 336,
+            "votes": {
+                "1": 181,
+                "2": 3,
+                "3": 134,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/17356_bulk_999999999_1684082395589965317.jpg",
+            "submission_id": 199594,
+            "total_vote": 331,
+            "votes": {
+                "1": 0,
+                "10": 11,
+                "11": 25,
+                "12": 4,
+                "13": 1,
+                "14": 0,
+                "15": 4,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 83,
+                "22": 50,
+                "23": 0,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 3,
+                "9": 139
+            }
+        },
+        "school_name": "KARATAŞ İLKOKULU"
+    }
+]

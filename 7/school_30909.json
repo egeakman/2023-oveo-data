@@ -1,0 +1,18 @@
+[
+    {
+        "ballot_box_number": 1023,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/65638_bulk_999999999_1684097054820286379.jpg",
+            "submission_id": 517897,
+            "total_vote": 95,
+            "votes": {
+                "1": 65,
+                "2": 1,
+                "3": 26,
+                "4": 3
+            }
+        },
+        "mv_result": null,
+        "school_name": "DAVAZLAR İLKOKULU"
+    }
+]

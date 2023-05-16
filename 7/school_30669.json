@@ -1,0 +1,99 @@
+[
+    {
+        "ballot_box_number": 1013,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/fc33bca9-0c70-4752-913b-d07ed1642e9d-1684105113703025658.jpg",
+            "submission_id": 574745,
+            "total_vote": 254,
+            "votes": {
+                "1": 72,
+                "2": 1,
+                "3": 168,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1993_bulk_999999999_1684268281180903388.jpeg",
+            "submission_id": 1033525,
+            "total_vote": 254,
+            "votes": {
+                "10": 2,
+                "11": 16,
+                "12": 2,
+                "13": 23,
+                "15": 3,
+                "17": 1,
+                "19": 1,
+                "2": 1,
+                "20": 2,
+                "21": 110,
+                "22": 33,
+                "23": 1,
+                "24": 6,
+                "6": 1,
+                "7": 2,
+                "8": 2,
+                "9": 48
+            }
+        },
+        "school_name": "KAŞ MERKEZ-KAŞ ÇOK PROGRAMLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1016,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/eb20d00e-8044-487b-bc58-c843744e05a1-1684105110430021057.jpg",
+            "submission_id": 573538,
+            "total_vote": 279,
+            "votes": {
+                "1": 72,
+                "2": 1,
+                "3": 186,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "KAŞ MERKEZ-KAŞ ÇOK PROGRAMLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1015,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/54855_bulk_999999999_1684085236884489543.jpg",
+            "submission_id": 260941,
+            "total_vote": 269,
+            "votes": {
+                "1": 71,
+                "2": 2,
+                "3": 192,
+                "4": 4
+            }
+        },
+        "mv_result": null,
+        "school_name": "KAŞ MERKEZ-KAŞ ÇOK PROGRAMLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1014,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9b038783-a446-4e8c-8853-664c9b7a8afe-1684105112139967412.jpg",
+            "submission_id": 577096,
+            "total_vote": 268,
+            "votes": {
+                "10": 2,
+                "11": 13,
+                "12": 9,
+                "13": 30,
+                "21": 130,
+                "22": 30,
+                "23": 1,
+                "24": 2,
+                "3": 1,
+                "5": 1,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 44
+            }
+        },
+        "school_name": "KAŞ MERKEZ-KAŞ ÇOK PROGRAMLI ANADOLU LİSESİ"
+    }
+]

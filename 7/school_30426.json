@@ -1,0 +1,32 @@
+[
+    {
+        "ballot_box_number": 1041,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/79687_bulk_999999999_1684083454606037003.jpg",
+            "submission_id": 216900,
+            "total_vote": 158,
+            "votes": {
+                "1": 109,
+                "2": 2,
+                "3": 40,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/29392_bulk_999999999_1684083475736855778.jpg",
+            "submission_id": 217334,
+            "total_vote": 159,
+            "votes": {
+                "10": 2,
+                "11": 53,
+                "21": 25,
+                "22": 10,
+                "24": 5,
+                "7": 1,
+                "8": 1,
+                "9": 62
+            }
+        },
+        "school_name": "ÇAYİÇİ MAH.KÖY KONAĞI"
+    }
+]

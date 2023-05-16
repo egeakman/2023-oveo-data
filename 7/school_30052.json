@@ -1,0 +1,623 @@
+[
+    {
+        "ballot_box_number": 1462,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/29098_cb_1093713596_1684088299729364132.jpg",
+            "submission_id": 361301,
+            "total_vote": 334,
+            "votes": {
+                "1": 65,
+                "3": 257,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/38335_mv_1083713596_1684086783700789603.jpg",
+            "submission_id": 311481,
+            "total_vote": 334,
+            "votes": {
+                "10": 1,
+                "11": 13,
+                "12": 6,
+                "13": 34,
+                "21": 179,
+                "22": 46,
+                "24": 3,
+                "9": 52
+            }
+        },
+        "school_name": "ATATÜRK ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1458,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/41715_cb_1093712712_1684082407723304768.jpg",
+            "submission_id": 199739,
+            "total_vote": 337,
+            "votes": {
+                "1": 63,
+                "2": 1,
+                "3": 263,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/29098_mv_1083712712_1684088428896317172.jpg",
+            "submission_id": 365317,
+            "total_vote": 337,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 14,
+                "12": 4,
+                "13": 43,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 153,
+                "22": 58,
+                "23": 0,
+                "24": 8,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 5,
+                "8": 1,
+                "9": 48
+            }
+        },
+        "school_name": "ATATÜRK ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1457,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/36340_cb_1093712711_1684092745739879100.jpg",
+            "submission_id": 460470,
+            "total_vote": 336,
+            "votes": {
+                "1": 71,
+                "2": 1,
+                "3": 253,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f92c10c0-49af-45eb-b67a-99f785a5db8d-1684105120928894435.jpeg",
+            "submission_id": 578227,
+            "total_vote": 332,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 18,
+                "12": 12,
+                "13": 43,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 148,
+                "22": 48,
+                "23": 0,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 52
+            }
+        },
+        "school_name": "ATATÜRK ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1449,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/29098_cb_1093712703_1684084801173996853.jpg",
+            "submission_id": 248576,
+            "total_vote": 313,
+            "votes": {
+                "1": 54,
+                "2": 1,
+                "3": 248,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "ATATÜRK ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1459,
+        "cm_result": {
+            "image_url": "https://source1-secim-images.oyveotesi.org/raw/1015576_cb_3712713_1684082983.jpeg",
+            "submission_id": 208476,
+            "total_vote": 350,
+            "votes": {
+                "1": 74,
+                "3": 256,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "ATATÜRK ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1460,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/3335_bulk_999999999_1684081421391459556.jpg",
+            "submission_id": 188686,
+            "total_vote": 338,
+            "votes": {
+                "1": 54,
+                "2": 5,
+                "3": 260,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/29098_mv_1083712714_1684087744133505170.jpg",
+            "submission_id": 343788,
+            "total_vote": 334,
+            "votes": {
+                "10": 3,
+                "11": 13,
+                "12": 11,
+                "13": 26,
+                "20": 1,
+                "21": 180,
+                "22": 49,
+                "23": 1,
+                "24": 5,
+                "7": 7,
+                "8": 2,
+                "9": 36
+            }
+        },
+        "school_name": "ATATÜRK ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1451,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/29072_bulk_999999999_1684082939753017575.jpg",
+            "submission_id": 207735,
+            "total_vote": 329,
+            "votes": {
+                "1": 67,
+                "2": 0,
+                "3": 261,
+                "4": 1
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/29072_bulk_999999999_1684084492832805204.jpg",
+            "submission_id": 240357,
+            "total_vote": 315,
+            "votes": {
+                "10": 2,
+                "11": 11,
+                "12": 2,
+                "13": 9,
+                "2": 1,
+                "21": 204,
+                "22": 37,
+                "23": 1,
+                "7": 2,
+                "9": 46
+            }
+        },
+        "school_name": "ATATÜRK ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1464,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/29098_cb_1093713598_1684081313814991873.jpg",
+            "submission_id": 187756,
+            "total_vote": 340,
+            "votes": {
+                "1": 70,
+                "2": 1,
+                "3": 260,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/29098_mv_1083713598_1684081338349808773.jpg",
+            "submission_id": 187972,
+            "total_vote": 328,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 12,
+                "12": 10,
+                "13": 24,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 158,
+                "22": 56,
+                "23": 0,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 7,
+                "8": 0,
+                "9": 55
+            }
+        },
+        "school_name": "ATATÜRK ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1461,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/29098_cb_1093713595_1684079422303993145.jpg",
+            "submission_id": 176954,
+            "total_vote": 338,
+            "votes": {
+                "1": 45,
+                "3": 278,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/29098_mv_1083713595_1684084568430763766.jpg",
+            "submission_id": 242242,
+            "total_vote": 333,
+            "votes": {
+                "10": 1,
+                "11": 13,
+                "12": 5,
+                "13": 33,
+                "17": 1,
+                "18": 2,
+                "19": 1,
+                "20": 1,
+                "21": 189,
+                "22": 42,
+                "24": 11,
+                "3": 1,
+                "7": 3,
+                "9": 30
+            }
+        },
+        "school_name": "ATATÜRK ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1456,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/29098_bulk_999999999_1684081575523644892.jpeg",
+            "submission_id": 190084,
+            "total_vote": 332,
+            "votes": {
+                "1": 65,
+                "2": 0,
+                "3": 251,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/29098_bulk_999999999_1684085470559423475.jpeg",
+            "submission_id": 267700,
+            "total_vote": 328,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 10,
+                "12": 7,
+                "13": 20,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 175,
+                "22": 48,
+                "23": 0,
+                "24": 11,
+                "3": 1,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 0,
+                "9": 52
+            }
+        },
+        "school_name": "ATATÜRK ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1455,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/29098_cb_1093712709_1684085204137029965.jpg",
+            "submission_id": 260004,
+            "total_vote": 334,
+            "votes": {
+                "1": 62,
+                "2": 2,
+                "3": 256,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/29098_mv_1083712709_1684085113952505136.jpg",
+            "submission_id": 257339,
+            "total_vote": 335,
+            "votes": {
+                "1": 1,
+                "10": 22,
+                "11": 1,
+                "12": 7,
+                "13": 27,
+                "14": 19,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 164,
+                "22": 54,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 2,
+                "9": 28
+            }
+        },
+        "school_name": "ATATÜRK ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1453,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/36337_cb_1093712707_1684086280821971984.jpeg",
+            "submission_id": 294110,
+            "total_vote": 343,
+            "votes": {
+                "1": 64,
+                "2": 2,
+                "3": 253,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/36337_mv_1083712707_1684086347482141262.jpeg",
+            "submission_id": 296308,
+            "total_vote": 340,
+            "votes": {
+                "1": 0,
+                "10": 45,
+                "11": 15,
+                "12": 15,
+                "13": 18,
+                "14": 2,
+                "15": 1,
+                "16": 2,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 175,
+                "22": 44,
+                "23": 0,
+                "24": 13,
+                "3": 0,
+                "4": 2,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 6,
+                "9": 0
+            }
+        },
+        "school_name": "ATATÜRK ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1454,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/29098_bulk_999999999_1684088232644675154.jpeg",
+            "submission_id": 359229,
+            "total_vote": 347,
+            "votes": {
+                "1": 63,
+                "2": 2,
+                "3": 275,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/29098_bulk_999999999_1684088111010843551.jpeg",
+            "submission_id": 355514,
+            "total_vote": 345,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 12,
+                "12": 7,
+                "13": 21,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 192,
+                "22": 49,
+                "23": 0,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 0,
+                "9": 47
+            }
+        },
+        "school_name": "ATATÜRK ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1465,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/29098_cb_1093713599_1684087167797658089.jpg",
+            "submission_id": 324901,
+            "total_vote": 341,
+            "votes": {
+                "1": 72,
+                "2": 3,
+                "3": 244,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/29098_mv_1083713599_1684087195856712358.jpg",
+            "submission_id": 325887,
+            "total_vote": 336,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 15,
+                "12": 0,
+                "13": 29,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 161,
+                "22": 56,
+                "23": 0,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 8,
+                "8": 1,
+                "9": 52
+            }
+        },
+        "school_name": "ATATÜRK ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1450,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/29098_cb_1093712704_1684086647099711485.jpg",
+            "submission_id": 306670,
+            "total_vote": 320,
+            "votes": {
+                "1": 63,
+                "2": 2,
+                "3": 251,
+                "4": 4
+            }
+        },
+        "mv_result": null,
+        "school_name": "ATATÜRK ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1463,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/29098_cb_1093713597_1684086763022687807.jpg",
+            "submission_id": 310762,
+            "total_vote": 346,
+            "votes": {
+                "1": 71,
+                "2": 0,
+                "3": 265,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/acc7e946-123f-4b99-bd45-484e8b894716-1684106271550702337.jpeg",
+            "submission_id": 764671,
+            "total_vote": 344,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 9,
+                "12": 6,
+                "13": 34,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 165,
+                "22": 57,
+                "23": 0,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 8,
+                "8": 0,
+                "9": 59
+            }
+        },
+        "school_name": "ATATÜRK ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1452,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11863_cb_1093712706_1684080564484853903.jpg",
+            "submission_id": 182413,
+            "total_vote": 333,
+            "votes": {
+                "1": 59,
+                "3": 268,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f1dd0c5b-58f9-466b-8cd0-74656be63fac-1684105100913657521.JPG",
+            "submission_id": 573142,
+            "total_vote": 333,
+            "votes": {
+                "1": 1,
+                "11": 10,
+                "12": 13,
+                "13": 22,
+                "21": 187,
+                "22": 43,
+                "23": 1,
+                "24": 3,
+                "7": 1,
+                "8": 2,
+                "9": 50
+            }
+        },
+        "school_name": "ATATÜRK ORTA OKULU"
+    }
+]

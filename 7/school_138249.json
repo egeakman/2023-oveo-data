@@ -1,0 +1,36 @@
+[
+    {
+        "ballot_box_number": 1081,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "KAHYALAR BURHAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1080,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d62d91c6-c185-4b19-888e-a2d6d90c535f-1684105124406204851.jpg",
+            "submission_id": 576499,
+            "total_vote": 269,
+            "votes": {
+                "1": 106,
+                "2": 5,
+                "3": 151,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "KAHYALAR BURHAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1079,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "KAHYALAR BURHAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1082,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "KAHYALAR BURHAN İLKOKULU"
+    }
+]

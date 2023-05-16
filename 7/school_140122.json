@@ -1,0 +1,30 @@
+[
+    {
+        "ballot_box_number": 2089,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "EMİŞBELENİ İLKOKULU VE ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2090,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "EMİŞBELENİ İLKOKULU VE ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2091,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/1f1b82dd-3e25-415c-8970-5822fad71924-1684105182904391531.jpeg",
+            "submission_id": 591935,
+            "total_vote": 351,
+            "votes": {
+                "1": 158,
+                "2": 4,
+                "3": 161,
+                "4": 28
+            }
+        },
+        "mv_result": null,
+        "school_name": "EMİŞBELENİ İLKOKULU VE ORTAOKULU"
+    }
+]

@@ -1,0 +1,126 @@
+[
+    {
+        "ballot_box_number": 1043,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e611459e-2df9-41ae-afb8-8f120ff87aa0-1684105836830073190.jpg",
+            "submission_id": 702441,
+            "total_vote": 260,
+            "votes": {
+                "1": 136,
+                "2": 2,
+                "3": 105,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c92e832f-7663-4c65-acb3-53bfedf868d2-1684105826464513891.jpg",
+            "submission_id": 701447,
+            "total_vote": 253,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 41,
+                "12": 11,
+                "13": 5,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 5,
+                "21": 63,
+                "22": 27,
+                "23": 1,
+                "24": 0,
+                "3": 1,
+                "4": 1,
+                "5": 2,
+                "6": 1,
+                "7": 1,
+                "8": 2,
+                "9": 90
+            }
+        },
+        "school_name": "AŞAĞIIŞIKLAR PAZAR YERİ"
+    },
+    {
+        "ballot_box_number": 1042,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0a895a0a-308f-426a-ade4-9a4586c95dbf-1684105859688979649.jpg",
+            "submission_id": 705168,
+            "total_vote": 251,
+            "votes": {
+                "1": 124,
+                "2": 2,
+                "3": 112,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "AŞAĞIIŞIKLAR PAZAR YERİ"
+    },
+    {
+        "ballot_box_number": 1044,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/6da508f9-afab-4885-b53f-e2c2cbd0cdf7-1684105815884572830.jpg",
+            "submission_id": 700918,
+            "total_vote": 254,
+            "votes": {
+                "1": 143,
+                "2": 2,
+                "3": 90,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "AŞAĞIIŞIKLAR PAZAR YERİ"
+    },
+    {
+        "ballot_box_number": 1045,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8c5a10dc-680b-40a7-b460-61bf930891cf-1684105797786839960.jpg",
+            "submission_id": 697090,
+            "total_vote": 251,
+            "votes": {
+                "1": 130,
+                "2": 3,
+                "3": 102,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/122e05c8-534d-4d02-89f5-0c14788afb6b-1684105806603601073.jpg",
+            "submission_id": 698481,
+            "total_vote": 243,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 34,
+                "12": 12,
+                "13": 4,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 61,
+                "22": 19,
+                "23": 0,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 7,
+                "8": 0,
+                "9": 95
+            }
+        },
+        "school_name": "AŞAĞIIŞIKLAR PAZAR YERİ"
+    }
+]

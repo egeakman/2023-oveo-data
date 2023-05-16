@@ -1,0 +1,224 @@
+[
+    {
+        "ballot_box_number": 1302,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "YUKARIKOCAYATAK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1299,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/cb3af133-9c26-4af0-bc0b-6f7ad6b5be8b-1684106548970882976.jpg",
+            "submission_id": 806714,
+            "total_vote": 307,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 32,
+                "12": 11,
+                "13": 9,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 79,
+                "22": 50,
+                "23": 0,
+                "24": 15,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 5,
+                "7": 5,
+                "8": 1,
+                "9": 95
+            }
+        },
+        "school_name": "YUKARIKOCAYATAK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1295,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4976_cb_1093704769_1684082157622455398.jpg",
+            "submission_id": 196543,
+            "total_vote": 292,
+            "votes": {
+                "1": 157,
+                "2": 9,
+                "3": 108,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4976_cb_1093704768_1684082303570243535.jpg",
+            "submission_id": 198427,
+            "total_vote": 289,
+            "votes": {
+                "1": 0,
+                "10": 8,
+                "11": 36,
+                "12": 3,
+                "13": 7,
+                "14": 2,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 1,
+                "21": 70,
+                "22": 32,
+                "23": 4,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 6,
+                "7": 9,
+                "8": 2,
+                "9": 103
+            }
+        },
+        "school_name": "YUKARIKOCAYATAK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1300,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/4976_bulk_999999999_1684090515619319985.jpg",
+            "submission_id": 421713,
+            "total_vote": 304,
+            "votes": {
+                "1": 114,
+                "2": 0,
+                "3": 154,
+                "4": 36
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e1febe48-15e7-410a-a76f-c78727692165-1684106294089223467.jpg",
+            "submission_id": 767280,
+            "total_vote": 299,
+            "votes": {
+                "1": 0,
+                "10": 9,
+                "11": 32,
+                "12": 15,
+                "13": 3,
+                "14": 0,
+                "15": 0,
+                "18": 0,
+                "19": 3,
+                "2": 0,
+                "20": 1,
+                "21": 83,
+                "22": 40,
+                "23": 1,
+                "24": 15,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 7,
+                "7": 7,
+                "8": 2,
+                "9": 80
+            }
+        },
+        "school_name": "YUKARIKOCAYATAK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1294,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "YUKARIKOCAYATAK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1296,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/03823a3e-4050-47b0-b738-e923ce222522-1684106330969906969.jpg",
+            "submission_id": 772608,
+            "total_vote": 309,
+            "votes": {
+                "1": 147,
+                "2": 2,
+                "3": 137,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "YUKARIKOCAYATAK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1297,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "YUKARIKOCAYATAK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1301,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4976_cb_1093705275_1684081693999639321.jpg",
+            "submission_id": 191354,
+            "total_vote": 289,
+            "votes": {
+                "1": 149,
+                "2": 3,
+                "3": 111,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4976_mv_1083705275_1684081643116023907.jpg",
+            "submission_id": 190838,
+            "total_vote": 285,
+            "votes": {
+                "1": 1,
+                "10": 5,
+                "11": 31,
+                "12": 17,
+                "13": 5,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 0,
+                "21": 59,
+                "22": 32,
+                "23": 1,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 8,
+                "8": 3,
+                "9": 110
+            }
+        },
+        "school_name": "YUKARIKOCAYATAK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1298,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9bca4488-eb0f-4b9a-a45d-70edefcf2fd0-1684106470224955445.jpg",
+            "submission_id": 792728,
+            "total_vote": 300,
+            "votes": {
+                "1": 153,
+                "2": 1,
+                "3": 120,
+                "4": 26
+            }
+        },
+        "mv_result": null,
+        "school_name": "YUKARIKOCAYATAK İLKOKULU"
+    }
+]

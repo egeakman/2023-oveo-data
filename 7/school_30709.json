@@ -1,0 +1,48 @@
+[
+    {
+        "ballot_box_number": 1089,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/25667_cb_1093699503_1684087539835853269.jpg",
+            "submission_id": 337171,
+            "total_vote": 295,
+            "votes": {
+                "1": 167,
+                "2": 7,
+                "3": 98,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/25667_mv_1083699503_1684087584399425793.jpg",
+            "submission_id": 338613,
+            "total_vote": 289,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 37,
+                "12": 1,
+                "13": 0,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 66,
+                "22": 37,
+                "23": 1,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 8,
+                "8": 2,
+                "9": 124
+            }
+        },
+        "school_name": "KARAÖZ İ.O."
+    }
+]

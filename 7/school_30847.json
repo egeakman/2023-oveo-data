@@ -1,0 +1,65 @@
+[
+    {
+        "ballot_box_number": 1312,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/346ea1b5-044c-4444-b695-252ed0eceb7b-1684106530194254217.jpeg",
+            "submission_id": 801648,
+            "total_vote": 257,
+            "votes": {
+                "1": 131,
+                "2": 4,
+                "3": 108,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "OYMAPINAR-MEHMET BOZKURT İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1314,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9cd34b1f-16f6-4802-8c9d-dfa9759e9a21-1684106709402755179.jpeg",
+            "submission_id": 827390,
+            "total_vote": 281,
+            "votes": {
+                "1": 151,
+                "2": 3,
+                "3": 102,
+                "4": 25
+            }
+        },
+        "mv_result": null,
+        "school_name": "OYMAPINAR-MEHMET BOZKURT İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1313,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/65445661-b132-485e-9d6d-73c67a9b41e2-1684105926448754527.jpeg",
+            "submission_id": 713772,
+            "total_vote": 273,
+            "votes": {
+                "1": 128,
+                "3": 127,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "OYMAPINAR-MEHMET BOZKURT İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1315,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/6a39a4c6-d003-4e1f-b6fd-260780c694f3-1684106756760644255.jpeg",
+            "submission_id": 833453,
+            "total_vote": 277,
+            "votes": {
+                "1": 132,
+                "2": 3,
+                "3": 125,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "OYMAPINAR-MEHMET BOZKURT İLKOKULU"
+    }
+]

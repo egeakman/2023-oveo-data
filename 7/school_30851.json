@@ -1,0 +1,39 @@
+[
+    {
+        "ballot_box_number": 1441,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "SÜLEK MAH. İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1442,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/75330_bulk_999999999_1684129290532457456.jpeg",
+            "submission_id": 1011577,
+            "total_vote": 242,
+            "votes": {
+                "1": 74,
+                "3": 148,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "SÜLEK MAH. İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1443,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/75330_bulk_999999999_1684129290735594183.jpeg",
+            "submission_id": 1011578,
+            "total_vote": 256,
+            "votes": {
+                "1": 103,
+                "2": 3,
+                "3": 111,
+                "4": 39
+            }
+        },
+        "mv_result": null,
+        "school_name": "SÜLEK MAH. İLKOKULU"
+    }
+]

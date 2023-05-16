@@ -1,0 +1,317 @@
+[
+    {
+        "ballot_box_number": 1048,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/26108_cb_1093698342_1684084242050571419.jpg",
+            "submission_id": 234070,
+            "total_vote": 311,
+            "votes": {
+                "1": 165,
+                "2": 2,
+                "3": 118,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/26108_mv_1083698342_1684084886040363135.jpg",
+            "submission_id": 250901,
+            "total_vote": 299,
+            "votes": {
+                "1": 2,
+                "10": 4,
+                "11": 45,
+                "12": 9,
+                "13": 7,
+                "14": 1,
+                "16": 1,
+                "21": 78,
+                "22": 25,
+                "24": 6,
+                "7": 2,
+                "8": 1,
+                "9": 118
+            }
+        },
+        "school_name": "RABİYE-MEHMET ÜLGER ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1047,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/26108_cb_1093698341_1684087757866184709.jpg",
+            "submission_id": 344264,
+            "total_vote": 306,
+            "votes": {
+                "1": 168,
+                "2": 6,
+                "3": 94,
+                "4": 38
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/26108_mv_1083698341_1684089860780698634.jpg",
+            "submission_id": 406069,
+            "total_vote": 297,
+            "votes": {
+                "10": 5,
+                "11": 34,
+                "12": 3,
+                "13": 1,
+                "15": 1,
+                "16": 3,
+                "19": 1,
+                "20": 1,
+                "21": 50,
+                "22": 33,
+                "23": 1,
+                "24": 20,
+                "5": 1,
+                "6": 1,
+                "7": 6,
+                "8": 2,
+                "9": 134
+            }
+        },
+        "school_name": "RABİYE-MEHMET ÜLGER ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1043,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/26108_cb_1093698337_1684083168951832352.jpg",
+            "submission_id": 211558,
+            "total_vote": 320,
+            "votes": {
+                "1": 187,
+                "2": 2,
+                "3": 99,
+                "4": 32
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/26108_mv_1083698337_1684083197876264807.jpg",
+            "submission_id": 212106,
+            "total_vote": 307,
+            "votes": {
+                "1": 1,
+                "10": 7,
+                "11": 32,
+                "12": 9,
+                "13": 7,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 2,
+                "21": 61,
+                "22": 32,
+                "23": 1,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 2,
+                "9": 137
+            }
+        },
+        "school_name": "RABİYE-MEHMET ÜLGER ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1046,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/26108_cb_1093698340_1684081468150051812.jpg",
+            "submission_id": 189094,
+            "total_vote": 304,
+            "votes": {
+                "1": 148,
+                "2": 0,
+                "3": 138,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/26108_mv_1083698340_1684081537332405421.jpg",
+            "submission_id": 189738,
+            "total_vote": 301,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 40,
+                "12": 18,
+                "13": 2,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 61,
+                "22": 48,
+                "23": 2,
+                "24": 5,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 3,
+                "7": 4,
+                "8": 2,
+                "9": 108
+            }
+        },
+        "school_name": "RABİYE-MEHMET ÜLGER ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1044,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/26108_bulk_999999999_1684086170153262742.jpeg",
+            "submission_id": 290509,
+            "total_vote": 323,
+            "votes": {
+                "1": 194,
+                "3": 109,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/26108_bulk_999999999_1684086668718541222.jpeg",
+            "submission_id": 307393,
+            "total_vote": 312,
+            "votes": {
+                "10": 3,
+                "11": 46,
+                "12": 17,
+                "13": 5,
+                "18": 1,
+                "20": 2,
+                "21": 60,
+                "22": 21,
+                "24": 6,
+                "7": 4,
+                "8": 2,
+                "9": 145
+            }
+        },
+        "school_name": "RABİYE-MEHMET ÜLGER ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1045,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/26108_cb_1093698339_1684083373225259702.jpg",
+            "submission_id": 215366,
+            "total_vote": 316,
+            "votes": {
+                "1": 157,
+                "2": 5,
+                "3": 128,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/26108_mv_1083698339_1684083394622519167.jpg",
+            "submission_id": 215780,
+            "total_vote": 314,
+            "votes": {
+                "10": 3,
+                "11": 34,
+                "12": 13,
+                "13": 6,
+                "14": 1,
+                "18": 1,
+                "21": 80,
+                "22": 28,
+                "24": 10,
+                "6": 1,
+                "7": 4,
+                "8": 2,
+                "9": 131
+            }
+        },
+        "school_name": "RABİYE-MEHMET ÜLGER ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1042,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/26108_bulk_999999999_1684086349444877174.jpeg",
+            "submission_id": 296365,
+            "total_vote": 292,
+            "votes": {
+                "1": 166,
+                "2": 3,
+                "3": 99,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/26108_bulk_999999999_1684091717571433663.png",
+            "submission_id": 444713,
+            "total_vote": 282,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 28,
+                "12": 18,
+                "13": 8,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 55,
+                "23": 26,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 1,
+                "9": 130
+            }
+        },
+        "school_name": "RABİYE-MEHMET ÜLGER ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1049,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/26504_bulk_999999999_1684082474566747450.jpg",
+            "submission_id": 200655,
+            "total_vote": 319,
+            "votes": {
+                "1": 180,
+                "2": 5,
+                "3": 108,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/26504_bulk_999999999_1684083311946309739.jpg",
+            "submission_id": 214174,
+            "total_vote": 308,
+            "votes": {
+                "1": 1,
+                "10": 6,
+                "11": 32,
+                "12": 14,
+                "13": 7,
+                "21": 64,
+                "22": 22,
+                "23": 2,
+                "24": 8,
+                "5": 1,
+                "6": 1,
+                "7": 5,
+                "8": 6,
+                "9": 139
+            }
+        },
+        "school_name": "RABİYE-MEHMET ÜLGER ORTAOKULU"
+    }
+]

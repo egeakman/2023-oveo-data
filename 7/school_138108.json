@@ -1,0 +1,174 @@
+[
+    {
+        "ballot_box_number": 1072,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/18278_cb_1093699046_1684084184331377711.jpg",
+            "submission_id": 232413,
+            "total_vote": 286,
+            "votes": {
+                "1": 117,
+                "3": 136,
+                "4": 33
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/18278_mv_1083699046_1684084159867809588.jpg",
+            "submission_id": 231770,
+            "total_vote": 286,
+            "votes": {
+                "10": 8,
+                "11": 34,
+                "12": 4,
+                "13": 17,
+                "19": 1,
+                "21": 76,
+                "22": 47,
+                "23": 2,
+                "24": 14,
+                "3": 2,
+                "5": 1,
+                "7": 1,
+                "8": 1,
+                "9": 78
+            }
+        },
+        "school_name": "YUKARIKARAMAN PERGE ROTARY İLK/ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1070,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/18278_cb_1093699044_1684081370343575883.jpg",
+            "submission_id": 188278,
+            "total_vote": 292,
+            "votes": {
+                "1": 123,
+                "2": 2,
+                "3": 130,
+                "4": 37
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/18278_mv_1083699044_1684083417779206680.jpg",
+            "submission_id": 216241,
+            "total_vote": 291,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 33,
+                "12": 1,
+                "13": 16,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 90,
+                "22": 33,
+                "23": 1,
+                "24": 19,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 1,
+                "9": 93
+            }
+        },
+        "school_name": "YUKARIKARAMAN PERGE ROTARY İLK/ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1071,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/18278_cb_1093699045_1684085588900491983.jpg",
+            "submission_id": 271389,
+            "total_vote": 286,
+            "votes": {
+                "1": 106,
+                "2": 1,
+                "3": 152,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16273_mv_1083699045_1684084869969779296.jpg",
+            "submission_id": 250471,
+            "total_vote": 286,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 18,
+                "12": 0,
+                "13": 0,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 96,
+                "22": 41,
+                "23": 7,
+                "24": 20,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 5,
+                "8": 2,
+                "9": 93
+            }
+        },
+        "school_name": "YUKARIKARAMAN PERGE ROTARY İLK/ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1069,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/18278_cb_1093699043_1684083961446606030.jpg",
+            "submission_id": 227296,
+            "total_vote": 277,
+            "votes": {
+                "1": 98,
+                "2": 2,
+                "3": 161,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/18278_mv_1083699043_1684084786600286084.jpg",
+            "submission_id": 248171,
+            "total_vote": 272,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 34,
+                "12": 4,
+                "13": 17,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 0,
+                "21": 104,
+                "22": 35,
+                "23": 1,
+                "24": 8,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 59
+            }
+        },
+        "school_name": "YUKARIKARAMAN PERGE ROTARY İLK/ORTA OKULU"
+    }
+]

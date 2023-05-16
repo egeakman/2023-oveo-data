@@ -1,0 +1,36 @@
+[
+    {
+        "ballot_box_number": 2368,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/182df9f7-5d91-4a74-80a2-cce5bddafe68-1684105388670243139.jpg",
+            "submission_id": 631479,
+            "total_vote": 259,
+            "votes": {
+                "1": 146,
+                "2": 0,
+                "3": 94,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "(DEMİREL MH-V.ESENTEPE MH-V.MENDERES MH) H.E.-ŞERİFE YAZAROĞLU A.İ.H.L"
+    },
+    {
+        "ballot_box_number": 2367,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "(DEMİREL MH-V.ESENTEPE MH-V.MENDERES MH) H.E.-ŞERİFE YAZAROĞLU A.İ.H.L"
+    },
+    {
+        "ballot_box_number": 2369,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "(DEMİREL MH-V.ESENTEPE MH-V.MENDERES MH) H.E.-ŞERİFE YAZAROĞLU A.İ.H.L"
+    },
+    {
+        "ballot_box_number": 2370,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "(DEMİREL MH-V.ESENTEPE MH-V.MENDERES MH) H.E.-ŞERİFE YAZAROĞLU A.İ.H.L"
+    }
+]

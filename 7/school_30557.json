@@ -1,0 +1,110 @@
+[
+    {
+        "ballot_box_number": 1115,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/67122_bulk_999999999_1684089524594869961.jpg",
+            "submission_id": 396931,
+            "total_vote": 249,
+            "votes": {
+                "1": 167,
+                "2": 0,
+                "3": 68,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/67122_bulk_999999999_1684089575041133673.jpg",
+            "submission_id": 398362,
+            "total_vote": 242,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 52,
+                "12": 2,
+                "13": 7,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 47,
+                "22": 21,
+                "23": 0,
+                "24": 3,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 2,
+                "9": 101
+            }
+        },
+        "school_name": "(YEŞİLYURT YENİ) ŞEHİT ADEM OVAR İLKOKULU EK BİNA"
+    },
+    {
+        "ballot_box_number": 1117,
+        "cm_result": {
+            "image_url": "https://source2-secim-images.oyveotesi.org/raw/november/ec9b07a1-c923-44f1-99c1-563db7afffab.jpg",
+            "submission_id": 516901,
+            "total_vote": 240,
+            "votes": {
+                "1": 135,
+                "2": 1,
+                "3": 82,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source2-secim-images.oyveotesi.org/raw/Photos-001 (16)/f331a83f-f9dd-4d61-acd0-3bfe7035b59d.jpg",
+            "submission_id": 1015832,
+            "total_vote": 231,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 67,
+                "12": 5,
+                "13": 3,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 54,
+                "22": 21,
+                "23": 2,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 2,
+                "9": 67
+            }
+        },
+        "school_name": "(YEŞİLYURT YENİ) ŞEHİT ADEM OVAR İLKOKULU EK BİNA"
+    },
+    {
+        "ballot_box_number": 1116,
+        "cm_result": {
+            "image_url": "https://source2-secim-images.oyveotesi.org/raw/november/f76302e0-b521-4bf3-9a54-141b442dd43f.jpg",
+            "submission_id": 514726,
+            "total_vote": 238,
+            "votes": {
+                "1": 144,
+                "2": 0,
+                "3": 85,
+                "4": 9
+            }
+        },
+        "mv_result": null,
+        "school_name": "(YEŞİLYURT YENİ) ŞEHİT ADEM OVAR İLKOKULU EK BİNA"
+    }
+]

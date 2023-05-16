@@ -1,0 +1,275 @@
+[
+    {
+        "ballot_box_number": 1181,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3e47a989-058f-487f-bf26-a6422cfb3e6e-1684106567456173094.jpg",
+            "submission_id": 806956,
+            "total_vote": 312,
+            "votes": {
+                "1": 154,
+                "2": 2,
+                "3": 116,
+                "4": 40
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0d9eceea-27f3-4499-85c2-64cb69a55351-1684106565708755750.jpg",
+            "submission_id": 806565,
+            "total_vote": 300,
+            "votes": {
+                "1": 2,
+                "10": 4,
+                "11": 43,
+                "12": 3,
+                "13": 3,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 2,
+                "2": 1,
+                "20": 0,
+                "21": 65,
+                "22": 35,
+                "23": 0,
+                "24": 19,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 12,
+                "8": 3,
+                "9": 103
+            }
+        },
+        "school_name": "KÖKEZ M.AKİF ERSOY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1176,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "KÖKEZ M.AKİF ERSOY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1179,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/292abe3e-7e88-40fc-b6b8-97d052c6f003-1684105900919663245.jpg",
+            "submission_id": 710906,
+            "total_vote": 325,
+            "votes": {
+                "1": 173,
+                "2": 5,
+                "3": 115,
+                "4": 32
+            }
+        },
+        "mv_result": null,
+        "school_name": "KÖKEZ M.AKİF ERSOY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1186,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/1dd249f2-c10b-4028-a754-d313eca5bd10-1684105534558896181.jpg",
+            "submission_id": 654929,
+            "total_vote": 318,
+            "votes": {
+                "1": 115,
+                "2": 6,
+                "3": 154,
+                "4": 43
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/77a2e84c-7ff3-4a90-9244-b1452413ee77-1684105538378861321.jpg",
+            "submission_id": 655372,
+            "total_vote": 305,
+            "votes": {
+                "10": 3,
+                "11": 34,
+                "12": 1,
+                "13": 3,
+                "14": 1,
+                "21": 83,
+                "22": 69,
+                "24": 17,
+                "7": 8,
+                "8": 3,
+                "9": 83
+            }
+        },
+        "school_name": "KÖKEZ M.AKİF ERSOY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1178,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/b3c9b0ef-3425-4d4d-bf9b-2974ec6dc854-1684105795321565689.jpg",
+            "submission_id": 696704,
+            "total_vote": 318,
+            "votes": {
+                "1": 136,
+                "2": 5,
+                "3": 146,
+                "4": 31
+            }
+        },
+        "mv_result": null,
+        "school_name": "KÖKEZ M.AKİF ERSOY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1183,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "KÖKEZ M.AKİF ERSOY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1177,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/6c460d80-eda8-42ad-9a49-56850efb538b-1684106733738512964.jpg",
+            "submission_id": 831063,
+            "total_vote": 307,
+            "votes": {
+                "1": 127,
+                "2": 3,
+                "3": 142,
+                "4": 35
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8dc1e043-5388-44e7-9fd6-394ae19c9033-1684106729676323027.jpg",
+            "submission_id": 830602,
+            "total_vote": 303,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 35,
+                "12": 4,
+                "13": 2,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 1,
+                "19": 0,
+                "2": 2,
+                "20": 2,
+                "21": 87,
+                "22": 50,
+                "23": 0,
+                "24": 16,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 3,
+                "8": 3,
+                "9": 88
+            }
+        },
+        "school_name": "KÖKEZ M.AKİF ERSOY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1180,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "KÖKEZ M.AKİF ERSOY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1182,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "KÖKEZ M.AKİF ERSOY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1184,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/bcfa419c-8f74-4d3b-9a4a-0f31ad716bfb-1684105761210336283.jpg",
+            "submission_id": 691400,
+            "total_vote": 321,
+            "votes": {
+                "1": 170,
+                "2": 2,
+                "3": 112,
+                "4": 37
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7c2427ab-8490-4765-9b0b-95e849ed6b58-1684105619304298424.jpg",
+            "submission_id": 668197,
+            "total_vote": 308,
+            "votes": {
+                "1": 2,
+                "10": 5,
+                "11": 41,
+                "12": 4,
+                "13": 4,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 66,
+                "22": 51,
+                "23": 1,
+                "24": 17,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 8,
+                "8": 1,
+                "9": 107
+            }
+        },
+        "school_name": "KÖKEZ M.AKİF ERSOY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1185,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/299b3462-959c-44dc-8164-b3e0c32a6117-1684105391121442548.jpg",
+            "submission_id": 630911,
+            "total_vote": 321,
+            "votes": {
+                "1": 121,
+                "2": 2,
+                "3": 175,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/82522fcc-7ca6-480a-975b-18234ee755b0-1684105296829311453.jpg",
+            "submission_id": 613506,
+            "total_vote": 307,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 30,
+                "12": 3,
+                "13": 3,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 95,
+                "22": 70,
+                "23": 0,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 5,
+                "8": 1,
+                "9": 83
+            }
+        },
+        "school_name": "KÖKEZ M.AKİF ERSOY İLKOKULU"
+    }
+]

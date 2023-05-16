@@ -1,0 +1,154 @@
+[
+    {
+        "ballot_box_number": 1260,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/20a1f843-8c73-45c8-8a36-1f2195474e8e-1684106554244372412.jpeg",
+            "submission_id": 805257,
+            "total_vote": 232,
+            "votes": {
+                "1": 53,
+                "2": 3,
+                "3": 163,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2ea77d52-e6dc-4f82-905b-7c1b018a9cbb-1684106551809309618.jpeg",
+            "submission_id": 804680,
+            "total_vote": 233,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 1,
+                "12": 7,
+                "13": 27,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 2,
+                "21": 106,
+                "22": 28,
+                "23": 1,
+                "24": 7,
+                "3": 0,
+                "4": 2,
+                "5": 2,
+                "6": 2,
+                "7": 3,
+                "8": 0,
+                "9": 41
+            }
+        },
+        "school_name": "ANTALYA LİSESİ"
+    },
+    {
+        "ballot_box_number": 1258,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/30247_bulk_999999999_1684085346165266893.jpeg",
+            "submission_id": 264073,
+            "total_vote": 249,
+            "votes": {
+                "1": 41,
+                "3": 197,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/11c66bad-8737-4f8d-9cce-bd7404626f91-1684105987161770976.jpg",
+            "submission_id": 722494,
+            "total_vote": 244,
+            "votes": {
+                "10": 0,
+                "11": 12,
+                "12": 5,
+                "13": 41,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 129,
+                "22": 14,
+                "23": 0,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 5,
+                "8": 1,
+                "9": 31
+            }
+        },
+        "school_name": "ANTALYA LİSESİ"
+    },
+    {
+        "ballot_box_number": 1257,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e57c9a2c-a203-434b-ad22-87f0fd58f40f-1684106470403375098.jpg",
+            "submission_id": 792542,
+            "total_vote": 242,
+            "votes": {
+                "1": 48,
+                "2": 1,
+                "3": 190,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/092f4dad-9b74-468c-bd17-47c10a2a63d4-1684106264983834829.jpg",
+            "submission_id": 763186,
+            "total_vote": 237,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 7,
+                "12": 8,
+                "13": 24,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 121,
+                "22": 36,
+                "23": 0,
+                "24": 1,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 0,
+                "8": 1,
+                "9": 35
+            }
+        },
+        "school_name": "ANTALYA LİSESİ"
+    },
+    {
+        "ballot_box_number": 1259,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/64b90b59-a457-4c30-8adb-32c46509e483-1684106274533226985.jpg",
+            "submission_id": 764375,
+            "total_vote": 248,
+            "votes": {
+                "1": 52,
+                "2": 0,
+                "3": 189,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "ANTALYA LİSESİ"
+    }
+]

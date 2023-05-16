@@ -1,0 +1,48 @@
+[
+    {
+        "ballot_box_number": 1020,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/43218_bulk_999999999_1684088290855910992.jpg",
+            "submission_id": 361027,
+            "total_vote": 187,
+            "votes": {
+                "1": 135,
+                "2": 0,
+                "3": 44,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/43218_bulk_999999999_1684088290973110422.jpg",
+            "submission_id": 361032,
+            "total_vote": 183,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 20,
+                "12": 0,
+                "13": 2,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 15,
+                "22": 25,
+                "23": 0,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 2,
+                "9": 112
+            }
+        },
+        "school_name": "DEĞİRMENLİK MAHALLESİ İLKOKULU"
+    }
+]

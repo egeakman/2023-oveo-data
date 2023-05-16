@@ -1,0 +1,48 @@
+[
+    {
+        "ballot_box_number": 1060,
+        "cm_result": {
+            "image_url": "https://source2-secim-images.oyveotesi.org/raw/Photos-001 (13)/4ce74cf0-9239-42be-af3f-2ba69e724420.jpg",
+            "submission_id": 1008976,
+            "total_vote": 118,
+            "votes": {
+                "1": 49,
+                "2": 1,
+                "3": 63,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source2-secim-images.oyveotesi.org/raw/Photos-001 (13)/76b1ddb7-7c88-4896-b58c-3829b0db2066.jpg",
+            "submission_id": 1009132,
+            "total_vote": 117,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 9,
+                "12": 0,
+                "13": 0,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 58,
+                "22": 4,
+                "23": 3,
+                "24": 1,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 36
+            }
+        },
+        "school_name": "GÖKÇESARAY MAHALLE KONAĞI"
+    }
+]

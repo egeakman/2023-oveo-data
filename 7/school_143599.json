@@ -1,0 +1,54 @@
+[
+    {
+        "ballot_box_number": 1069,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/475ab5d4-05ea-406e-be71-05d910090b82-1684105099224496845.jpg",
+            "submission_id": 570253,
+            "total_vote": 251,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 51,
+                "12": 1,
+                "13": 0,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 6,
+                "19": 0,
+                "2": 1,
+                "20": 1,
+                "21": 42,
+                "22": 15,
+                "23": 0,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 0,
+                "8": 2,
+                "9": 117
+            }
+        },
+        "school_name": "KEVZER İLKÖĞRETİM OKULU"
+    },
+    {
+        "ballot_box_number": 1068,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c4316aaa-d734-4d5e-ad24-4d8138ddb67a-1684105101376012204.jpg",
+            "submission_id": 570944,
+            "total_vote": 263,
+            "votes": {
+                "1": 192,
+                "2": 4,
+                "3": 63,
+                "4": 4
+            }
+        },
+        "mv_result": null,
+        "school_name": "KEVZER İLKÖĞRETİM OKULU"
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "ballot_box_number": 1112,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/50188_bulk_999999999_1684089519130387012.jpg",
+            "submission_id": 396758,
+            "total_vote": 251,
+            "votes": {
+                "1": 125,
+                "2": 5,
+                "3": 101,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "(YEŞİLYURT HALLAÇ) İSMAİL EROL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1111,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/57621_bulk_999999999_1684096686155038607.jpg",
+            "submission_id": 514823,
+            "total_vote": 241,
+            "votes": {
+                "1": 106,
+                "2": 5,
+                "3": 119,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/57621_bulk_999999999_1684096731696837893.jpg",
+            "submission_id": 515282,
+            "total_vote": 225,
+            "votes": {
+                "1": 2,
+                "10": 0,
+                "11": 43,
+                "12": 3,
+                "13": 4,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 76,
+                "22": 27,
+                "23": 0,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 0,
+                "9": 58
+            }
+        },
+        "school_name": "(YEŞİLYURT HALLAÇ) İSMAİL EROL İLKOKULU"
+    }
+]

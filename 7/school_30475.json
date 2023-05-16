@@ -1,0 +1,51 @@
+[
+    {
+        "ballot_box_number": 1094,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/055e4bb4-72c2-433d-8402-07fb4640a8a2-1684106266728253340.jpg",
+            "submission_id": 764541,
+            "total_vote": 222,
+            "votes": {
+                "1": 95,
+                "2": 3,
+                "3": 113,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e7c6ce84-482a-4bd5-8fe8-8ce672c03e39-1684106272032927403.jpg",
+            "submission_id": 764895,
+            "total_vote": 210,
+            "votes": {
+                "10": 3,
+                "11": 17,
+                "12": 2,
+                "13": 11,
+                "15": 2,
+                "19": 1,
+                "21": 69,
+                "22": 29,
+                "24": 6,
+                "7": 1,
+                "9": 69
+            }
+        },
+        "school_name": "HACISEKİLİLER ANASINIFI"
+    },
+    {
+        "ballot_box_number": 1095,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/10410_bulk_999999999_1684086846641591219.jpeg",
+            "submission_id": 313649,
+            "total_vote": 227,
+            "votes": {
+                "1": 96,
+                "2": 3,
+                "3": 113,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "HACISEKİLİLER ANASINIFI"
+    }
+]

@@ -1,0 +1,220 @@
+[
+    {
+        "ballot_box_number": 1023,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/51808_cb_1093697777_1684085953168385825.jpg",
+            "submission_id": 283503,
+            "total_vote": 317,
+            "votes": {
+                "1": 93,
+                "2": 2,
+                "3": 205,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/51808_mv_1083697777_1684085546355056314.jpg",
+            "submission_id": 270010,
+            "total_vote": 305,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 32,
+                "12": 14,
+                "13": 10,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 112,
+                "22": 53,
+                "23": 0,
+                "24": 8,
+                "3": 2,
+                "4": 0,
+                "5": 2,
+                "6": 0,
+                "7": 4,
+                "8": 3,
+                "9": 63
+            }
+        },
+        "school_name": "BELDİBİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1026,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/51808_cb_1093697780_1684082993566947210.jpg",
+            "submission_id": 208603,
+            "total_vote": 319,
+            "votes": {
+                "1": 129,
+                "3": 176,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/51808_mv_1083697780_1684084941539003354.jpg",
+            "submission_id": 252431,
+            "total_vote": 315,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 38,
+                "12": 31,
+                "13": 10,
+                "2": 2,
+                "21": 89,
+                "22": 50,
+                "24": 10,
+                "4": 2,
+                "6": 1,
+                "7": 6,
+                "9": 74
+            }
+        },
+        "school_name": "BELDİBİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1024,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/51808_cb_1093697778_1684085463481749415.jpg",
+            "submission_id": 267486,
+            "total_vote": 320,
+            "votes": {
+                "1": 102,
+                "2": 3,
+                "3": 199,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/51808_bulk_999999999_1684084199899271232.jpg",
+            "submission_id": 232852,
+            "total_vote": 311,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 37,
+                "12": 38,
+                "13": 18,
+                "21": 93,
+                "22": 46,
+                "24": 6,
+                "6": 1,
+                "7": 5,
+                "8": 1,
+                "9": 61
+            }
+        },
+        "school_name": "BELDİBİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1027,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/51808_bulk_999999999_1684086493609480154.jpg",
+            "submission_id": 301289,
+            "total_vote": 323,
+            "votes": {
+                "1": 115,
+                "2": 3,
+                "3": 188,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/51808_cb_1093697781_1684086412077028439.jpg",
+            "submission_id": 298440,
+            "total_vote": 312,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 47,
+                "12": 31,
+                "13": 19,
+                "21": 102,
+                "22": 40,
+                "24": 6,
+                "5": 1,
+                "7": 6,
+                "8": 1,
+                "9": 56
+            }
+        },
+        "school_name": "BELDİBİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1025,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/51808_cb_1093697779_1684087628232781252.jpg",
+            "submission_id": 339962,
+            "total_vote": 319,
+            "votes": {
+                "1": 110,
+                "2": 3,
+                "3": 184,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/51808_mv_1083697779_1684087472914764524.jpg",
+            "submission_id": 334997,
+            "total_vote": 313,
+            "votes": {
+                "10": 5,
+                "11": 33,
+                "12": 33,
+                "13": 14,
+                "15": 1,
+                "21": 104,
+                "22": 38,
+                "23": 1,
+                "24": 10,
+                "3": 2,
+                "7": 5,
+                "8": 2,
+                "9": 65
+            }
+        },
+        "school_name": "BELDİBİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1028,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/51808_cb_1093697782_1684087708748572120.jpg",
+            "submission_id": 342686,
+            "total_vote": 327,
+            "votes": {
+                "1": 110,
+                "2": 4,
+                "3": 189,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/51808_mv_1083697782_1684089042718422689.jpg",
+            "submission_id": 383757,
+            "total_vote": 323,
+            "votes": {
+                "10": 1,
+                "11": 27,
+                "12": 29,
+                "13": 24,
+                "15": 2,
+                "16": 1,
+                "21": 89,
+                "22": 51,
+                "23": 2,
+                "24": 11,
+                "6": 5,
+                "7": 6,
+                "9": 75
+            }
+        },
+        "school_name": "BELDİBİ İLKOKULU"
+    }
+]

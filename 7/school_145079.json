@@ -1,0 +1,18 @@
+[
+    {
+        "ballot_box_number": 1032,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/03df662e-258a-4b5a-9f65-b9ad739346b3-1684105256113057443.jpg",
+            "submission_id": 606134,
+            "total_vote": 236,
+            "votes": {
+                "1": 81,
+                "2": 3,
+                "3": 130,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇIĞLIK MAHALLE KONAĞI"
+    }
+]

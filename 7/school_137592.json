@@ -1,0 +1,483 @@
+[
+    {
+        "ballot_box_number": 1114,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/63262_cb_1093700709_1684088739210467287.jpg",
+            "submission_id": 374834,
+            "total_vote": 306,
+            "votes": {
+                "1": 159,
+                "2": 1,
+                "3": 123,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "MUSTAFA AYTEN AYDIN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1128,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/33049_bulk_999999999_1684084195591739673.jpeg",
+            "submission_id": 232729,
+            "total_vote": 333,
+            "votes": {
+                "1": 149,
+                "2": 2,
+                "3": 163,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/33049_bulk_999999999_1684084195479732396.jpeg",
+            "submission_id": 232728,
+            "total_vote": 329,
+            "votes": {
+                "1": 1,
+                "10": 9,
+                "11": 37,
+                "12": 38,
+                "13": 3,
+                "21": 97,
+                "22": 29,
+                "23": 1,
+                "24": 9,
+                "5": 2,
+                "7": 3,
+                "8": 1,
+                "9": 99
+            }
+        },
+        "school_name": "MUSTAFA AYTEN AYDIN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1123,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16223_cb_1093701238_1684085375544880225.jpg",
+            "submission_id": 264928,
+            "total_vote": 335,
+            "votes": {
+                "1": 174,
+                "2": 3,
+                "3": 141,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "MUSTAFA AYTEN AYDIN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1113,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16223_cb_1093700708_1684085976991970880.jpg",
+            "submission_id": 284253,
+            "total_vote": 301,
+            "votes": {
+                "1": 137,
+                "2": 2,
+                "3": 138,
+                "4": 24
+            }
+        },
+        "mv_result": null,
+        "school_name": "MUSTAFA AYTEN AYDIN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1119,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16223_cb_1093700714_1684096424858256717.jpg",
+            "submission_id": 512507,
+            "total_vote": 330,
+            "votes": {
+                "1": 151,
+                "2": 2,
+                "3": 146,
+                "4": 31
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16223_mv_1083700714_1684097294445113427.jpg",
+            "submission_id": 519672,
+            "total_vote": 322,
+            "votes": {
+                "1": 0,
+                "10": 11,
+                "11": 27,
+                "12": 23,
+                "13": 9,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "20": 1,
+                "21": 81,
+                "22": 39,
+                "23": 1,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 5,
+                "8": 0,
+                "9": 111
+            }
+        },
+        "school_name": "MUSTAFA AYTEN AYDIN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1117,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/28091_cb_1093700712_1684085142253096802.jpg",
+            "submission_id": 258170,
+            "total_vote": 330,
+            "votes": {
+                "1": 155,
+                "2": 2,
+                "3": 148,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/28091_mv_1083700712_1684086991407417778.jpg",
+            "submission_id": 318627,
+            "total_vote": 317,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 45,
+                "12": 33,
+                "13": 14,
+                "14": 0,
+                "15": 1,
+                "2": 0,
+                "21": 64,
+                "22": 37,
+                "23": 0,
+                "24": 12,
+                "7": 5,
+                "9": 104
+            }
+        },
+        "school_name": "MUSTAFA AYTEN AYDIN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1120,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16223_cb_1093701235_1684086080305154360.jpg",
+            "submission_id": 287509,
+            "total_vote": 323,
+            "votes": {
+                "1": 171,
+                "2": 1,
+                "3": 122,
+                "4": 29
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/44071_mv_1083701235_1684089050632096679.jpg",
+            "submission_id": 383965,
+            "total_vote": 317,
+            "votes": {
+                "1": 1,
+                "10": 8,
+                "11": 37,
+                "12": 29,
+                "13": 5,
+                "21": 58,
+                "22": 36,
+                "24": 10,
+                "3": 1,
+                "5": 1,
+                "6": 2,
+                "7": 8,
+                "8": 2,
+                "9": 119
+            }
+        },
+        "school_name": "MUSTAFA AYTEN AYDIN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1127,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16223_cb_1093701242_1684083648396544827.jpg",
+            "submission_id": 220740,
+            "total_vote": 341,
+            "votes": {
+                "1": 180,
+                "2": 1,
+                "3": 144,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "MUSTAFA AYTEN AYDIN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1122,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16223_cb_1093701237_1684084384388471305.jpg",
+            "submission_id": 237583,
+            "total_vote": 338,
+            "votes": {
+                "1": 178,
+                "2": 3,
+                "3": 126,
+                "4": 31
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16223_mv_1083701237_1684084430638247535.jpg",
+            "submission_id": 238780,
+            "total_vote": 333,
+            "votes": {
+                "1": 5,
+                "10": 7,
+                "11": 43,
+                "12": 30,
+                "13": 12,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 0,
+                "21": 64,
+                "22": 25,
+                "23": 1,
+                "24": 11,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 6,
+                "8": 3,
+                "9": 118
+            }
+        },
+        "school_name": "MUSTAFA AYTEN AYDIN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1125,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16223_cb_1093701240_1684090942352596258.jpg",
+            "submission_id": 430722,
+            "total_vote": 335,
+            "votes": {
+                "1": 151,
+                "2": 4,
+                "3": 156,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16223_mv_1083701240_1684090898780918457.jpg",
+            "submission_id": 429898,
+            "total_vote": 323,
+            "votes": {
+                "1": 0,
+                "10": 15,
+                "11": 31,
+                "12": 17,
+                "13": 19,
+                "14": 0,
+                "15": 8,
+                "16": 1,
+                "17": 0,
+                "18": 2,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 67,
+                "23": 38,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 0,
+                "9": 110
+            }
+        },
+        "school_name": "MUSTAFA AYTEN AYDIN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1118,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/28091_cb_1093700713_1684087591028723353.jpg",
+            "submission_id": 338832,
+            "total_vote": 327,
+            "votes": {
+                "1": 162,
+                "2": 0,
+                "3": 138,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/28091_mv_1083700713_1684089455056794215.jpg",
+            "submission_id": 394991,
+            "total_vote": 321,
+            "votes": {
+                "10": 9,
+                "11": 42,
+                "12": 31,
+                "13": 10,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "19": 0,
+                "20": 0,
+                "21": 60,
+                "22": 32,
+                "23": 0,
+                "24": 13,
+                "6": 5,
+                "7": 0,
+                "8": 1,
+                "9": 117
+            }
+        },
+        "school_name": "MUSTAFA AYTEN AYDIN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1124,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16223_cb_1093701239_1684086995299485654.jpg",
+            "submission_id": 318779,
+            "total_vote": 327,
+            "votes": {
+                "1": 163,
+                "2": 1,
+                "3": 144,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "MUSTAFA AYTEN AYDIN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1115,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16223_cb_1093700710_1684086230618274507.jpg",
+            "submission_id": 292431,
+            "total_vote": 329,
+            "votes": {
+                "1": 153,
+                "2": 3,
+                "3": 146,
+                "4": 27
+            }
+        },
+        "mv_result": null,
+        "school_name": "MUSTAFA AYTEN AYDIN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1126,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16223_cb_1093701241_1684083833952669305.jpg",
+            "submission_id": 224759,
+            "total_vote": 334,
+            "votes": {
+                "1": 139,
+                "2": 1,
+                "3": 165,
+                "4": 29
+            }
+        },
+        "mv_result": null,
+        "school_name": "MUSTAFA AYTEN AYDIN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1116,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16223_mv_1083700711_1684098129831509836.jpg",
+            "submission_id": 525342,
+            "total_vote": 325,
+            "votes": {
+                "1": 1,
+                "10": 13,
+                "11": 30,
+                "12": 38,
+                "13": 7,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 86,
+                "22": 22,
+                "23": 0,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 8,
+                "8": 1,
+                "9": 104
+            }
+        },
+        "school_name": "MUSTAFA AYTEN AYDIN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1121,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16223_cb_1093701236_1684087144377726262.jpg",
+            "submission_id": 324066,
+            "total_vote": 335,
+            "votes": {
+                "1": 173,
+                "2": 1,
+                "3": 137,
+                "4": 24
+            }
+        },
+        "mv_result": null,
+        "school_name": "MUSTAFA AYTEN AYDIN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1129,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16223_cb_1093701244_1684086369606377058.jpg",
+            "submission_id": 296981,
+            "total_vote": 335,
+            "votes": {
+                "1": 158,
+                "2": 0,
+                "3": 157,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16223_mv_1083701244_1684086312909388750.jpg",
+            "submission_id": 295206,
+            "total_vote": 326,
+            "votes": {
+                "10": 4,
+                "11": 35,
+                "12": 49,
+                "13": 8,
+                "16": 1,
+                "21": 62,
+                "22": 26,
+                "23": 2,
+                "24": 9,
+                "3": 1,
+                "7": 3,
+                "8": 2,
+                "9": 124
+            }
+        },
+        "school_name": "MUSTAFA AYTEN AYDIN ANADOLU LİSESİ"
+    }
+]

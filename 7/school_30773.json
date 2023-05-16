@@ -1,0 +1,31 @@
+[
+    {
+        "ballot_box_number": 1236,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a4ce1cb0-2546-4203-9303-a6de72fe238b-1684106687515687604.jpeg",
+            "submission_id": 823902,
+            "total_vote": 216,
+            "votes": {
+                "1": 103,
+                "2": 4,
+                "3": 104,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f038740e-6ab9-4524-89be-38d7ad6714ee-1684106685463506153.jpeg",
+            "submission_id": 823517,
+            "total_vote": 208,
+            "votes": {
+                "11": 27,
+                "13": 3,
+                "21": 77,
+                "22": 17,
+                "24": 6,
+                "7": 3,
+                "9": 75
+            }
+        },
+        "school_name": "KALEMLER MAH.İLKOKULU"
+    }
+]

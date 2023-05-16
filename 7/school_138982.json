@@ -1,0 +1,110 @@
+[
+    {
+        "ballot_box_number": 1034,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/28007_cb_1093697908_1684090921451484198.jpg",
+            "submission_id": 430291,
+            "total_vote": 324,
+            "votes": {
+                "1": 116,
+                "2": 2,
+                "3": 180,
+                "4": 26
+            }
+        },
+        "mv_result": null,
+        "school_name": "AŞAĞI KOCAYATAK İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1032,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/28007_cb_1093697906_1684091895814125883.jpg",
+            "submission_id": 447497,
+            "total_vote": 306,
+            "votes": {
+                "1": 117,
+                "2": 0,
+                "3": 168,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/28007_mv_1083697906_1684091077917568138.jpg",
+            "submission_id": 433485,
+            "total_vote": 293,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 36,
+                "12": 17,
+                "13": 0,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 77,
+                "22": 62,
+                "23": 3,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 4,
+                "9": 77
+            }
+        },
+        "school_name": "AŞAĞI KOCAYATAK İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1033,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/28007_cb_1093697907_1684090831384701799.jpg",
+            "submission_id": 428359,
+            "total_vote": 315,
+            "votes": {
+                "1": 130,
+                "2": 6,
+                "3": 146,
+                "4": 33
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/28007_mv_1083697906_1684090631864059760.jpg",
+            "submission_id": 424207,
+            "total_vote": 310,
+            "votes": {
+                "1": 1,
+                "10": 7,
+                "11": 48,
+                "12": 25,
+                "13": 0,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 60,
+                "22": 57,
+                "23": 2,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 6,
+                "8": 4,
+                "9": 89
+            }
+        },
+        "school_name": "AŞAĞI KOCAYATAK İLK OKULU"
+    }
+]

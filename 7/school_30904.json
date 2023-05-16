@@ -1,0 +1,544 @@
+[
+    {
+        "ballot_box_number": 1039,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/65638_cb_1093697693_1684102985386813879.jpg",
+            "submission_id": 546292,
+            "total_vote": 332,
+            "votes": {
+                "1": 121,
+                "3": 186,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/65638_mv_1083697693_1684103045167638676.jpg",
+            "submission_id": 546866,
+            "total_vote": 330,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 63,
+                "12": 2,
+                "13": 20,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 108,
+                "22": 51,
+                "23": 0,
+                "24": 3,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 6,
+                "8": 0,
+                "9": 68
+            }
+        },
+        "school_name": "YUNUS EMRE İLKÖĞRETİM KURUMU"
+    },
+    {
+        "ballot_box_number": 1024,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/65638_cb_1093697678_1684101321926782287.jpg",
+            "submission_id": 540821,
+            "total_vote": 315,
+            "votes": {
+                "1": 134,
+                "2": 2,
+                "3": 168,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/50338_bulk_999999999_1684090303562044737.jpg",
+            "submission_id": 416969,
+            "total_vote": 306,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 27,
+                "12": 0,
+                "13": 12,
+                "14": 0,
+                "15": 2,
+                "17": 0,
+                "18": 1,
+                "2": 0,
+                "20": 0,
+                "21": 110,
+                "22": 48,
+                "23": 5,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 4,
+                "7": 3,
+                "8": 0,
+                "9": 87
+            }
+        },
+        "school_name": "YUNUS EMRE İLKÖĞRETİM KURUMU"
+    },
+    {
+        "ballot_box_number": 1035,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/50338_cb_1093697688_1684087655262437949.jpg",
+            "submission_id": 340921,
+            "total_vote": 330,
+            "votes": {
+                "1": 127,
+                "2": 1,
+                "3": 178,
+                "4": 24
+            }
+        },
+        "mv_result": null,
+        "school_name": "YUNUS EMRE İLKÖĞRETİM KURUMU"
+    },
+    {
+        "ballot_box_number": 1037,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/65638_cb_1093697691_1684102499565687797.jpg",
+            "submission_id": 544649,
+            "total_vote": 321,
+            "votes": {
+                "1": 126,
+                "2": 3,
+                "3": 171,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/65638_mv_1083697691_1684102637402824106.jpg",
+            "submission_id": 545136,
+            "total_vote": 313,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 45,
+                "12": 9,
+                "13": 15,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 100,
+                "22": 46,
+                "23": 1,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 5,
+                "8": 2,
+                "9": 74
+            }
+        },
+        "school_name": "YUNUS EMRE İLKÖĞRETİM KURUMU"
+    },
+    {
+        "ballot_box_number": 1033,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/50338_mv_1083697687_1684084662205379802.jpg",
+            "submission_id": 244858,
+            "total_vote": 336,
+            "votes": {
+                "1": 131,
+                "2": 2,
+                "3": 173,
+                "4": 30
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/50338_mv_1083697687_1684086939858471885.jpg",
+            "submission_id": 316856,
+            "total_vote": 336,
+            "votes": {
+                "10": 4,
+                "11": 59,
+                "12": 5,
+                "13": 15,
+                "21": 99,
+                "22": 47,
+                "24": 11,
+                "3": 1,
+                "5": 3,
+                "6": 1,
+                "7": 4,
+                "8": 1,
+                "9": 86
+            }
+        },
+        "school_name": "YUNUS EMRE İLKÖĞRETİM KURUMU"
+    },
+    {
+        "ballot_box_number": 1034,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/50338_bulk_999999999_1684088801654452071.jpg",
+            "submission_id": 376665,
+            "total_vote": 328,
+            "votes": {
+                "1": 128,
+                "2": 2,
+                "3": 169,
+                "4": 29
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/50338_bulk_999999999_1684088801313264849.jpg",
+            "submission_id": 376650,
+            "total_vote": 324,
+            "votes": {
+                "1": 1,
+                "11": 57,
+                "12": 2,
+                "13": 18,
+                "15": 2,
+                "21": 104,
+                "22": 48,
+                "23": 1,
+                "24": 9,
+                "6": 1,
+                "7": 3,
+                "8": 2,
+                "9": 76
+            }
+        },
+        "school_name": "YUNUS EMRE İLKÖĞRETİM KURUMU"
+    },
+    {
+        "ballot_box_number": 1029,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/65638_cb_1093697683_1684101749062576992.jpg",
+            "submission_id": 542232,
+            "total_vote": 323,
+            "votes": {
+                "1": 134,
+                "2": 4,
+                "3": 155,
+                "4": 30
+            }
+        },
+        "mv_result": null,
+        "school_name": "YUNUS EMRE İLKÖĞRETİM KURUMU"
+    },
+    {
+        "ballot_box_number": 1031,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/50338_cb_1093697685_1684088040347408374.jpg",
+            "submission_id": 353251,
+            "total_vote": 337,
+            "votes": {
+                "1": 143,
+                "2": 1,
+                "3": 166,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/50338_mv_1083697685_1684089209174536735.jpg",
+            "submission_id": 388386,
+            "total_vote": 327,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 56,
+                "12": 3,
+                "13": 12,
+                "14": 0,
+                "15": 0,
+                "16": 2,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 95,
+                "22": 59,
+                "23": 0,
+                "24": 9,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 0,
+                "9": 84
+            }
+        },
+        "school_name": "YUNUS EMRE İLKÖĞRETİM KURUMU"
+    },
+    {
+        "ballot_box_number": 1038,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/65638_bulk_999999999_1684079479351849518.jpg",
+            "submission_id": 177158,
+            "total_vote": 336,
+            "votes": {
+                "1": 137,
+                "2": 2,
+                "3": 172,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/50338_bulk_999999999_1684088801118131451.jpg",
+            "submission_id": 376646,
+            "total_vote": 332,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 40,
+                "12": 4,
+                "13": 10,
+                "14": 2,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 11,
+                "2": 0,
+                "20": 0,
+                "21": 108,
+                "22": 44,
+                "23": 0,
+                "24": 0,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 0,
+                "9": 102
+            }
+        },
+        "school_name": "YUNUS EMRE İLKÖĞRETİM KURUMU"
+    },
+    {
+        "ballot_box_number": 1030,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/50338_cb_1093697684_1684089444248024706.jpg",
+            "submission_id": 394678,
+            "total_vote": 337,
+            "votes": {
+                "1": 152,
+                "2": 2,
+                "3": 154,
+                "4": 29
+            }
+        },
+        "mv_result": null,
+        "school_name": "YUNUS EMRE İLKÖĞRETİM KURUMU"
+    },
+    {
+        "ballot_box_number": 1025,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/50338_cb_1093697679_1684093077329217371.jpg",
+            "submission_id": 464956,
+            "total_vote": 339,
+            "votes": {
+                "1": 140,
+                "3": 181,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "YUNUS EMRE İLKÖĞRETİM KURUMU"
+    },
+    {
+        "ballot_box_number": 1036,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/50338_bulk_999999999_1684090798792444460.jpg",
+            "submission_id": 427638,
+            "total_vote": 333,
+            "votes": {
+                "1": 150,
+                "2": 2,
+                "3": 163,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/65638_bulk_999999999_1684090147559414902.jpg",
+            "submission_id": 413284,
+            "total_vote": 327,
+            "votes": {
+                "10": 3,
+                "11": 55,
+                "12": 12,
+                "13": 13,
+                "21": 92,
+                "22": 39,
+                "23": 2,
+                "24": 5,
+                "3": 1,
+                "6": 1,
+                "7": 5,
+                "9": 99
+            }
+        },
+        "school_name": "YUNUS EMRE İLKÖĞRETİM KURUMU"
+    },
+    {
+        "ballot_box_number": 1028,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/50338_cb_1093697682_1684091530787622716.jpg",
+            "submission_id": 441709,
+            "total_vote": 340,
+            "votes": {
+                "1": 124,
+                "2": 5,
+                "3": 184,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/50338_mv_1083697682_1684092321031836052.jpg",
+            "submission_id": 454417,
+            "total_vote": 334,
+            "votes": {
+                "10": 5,
+                "11": 59,
+                "12": 7,
+                "13": 11,
+                "19": 3,
+                "21": 104,
+                "22": 52,
+                "23": 4,
+                "24": 12,
+                "4": 1,
+                "6": 1,
+                "7": 5,
+                "9": 70
+            }
+        },
+        "school_name": "YUNUS EMRE İLKÖĞRETİM KURUMU"
+    },
+    {
+        "ballot_box_number": 1032,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/65638_cb_1093697686_1684102201558870315.jpg",
+            "submission_id": 543524,
+            "total_vote": 319,
+            "votes": {
+                "1": 120,
+                "2": 1,
+                "3": 176,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/65638_mv_1083697686_1684102329224669557.jpg",
+            "submission_id": 543944,
+            "total_vote": 309,
+            "votes": {
+                "1": 1,
+                "11": 45,
+                "12": 7,
+                "13": 13,
+                "21": 106,
+                "22": 41,
+                "24": 8,
+                "6": 2,
+                "7": 3,
+                "9": 83
+            }
+        },
+        "school_name": "YUNUS EMRE İLKÖĞRETİM KURUMU"
+    },
+    {
+        "ballot_box_number": 1026,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/50338_bulk_999999999_1684091425594265720.jpg",
+            "submission_id": 440000,
+            "total_vote": 333,
+            "votes": {
+                "1": 143,
+                "2": 4,
+                "3": 159,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/50338_mv_1083697680_1684093417170808866.jpg",
+            "submission_id": 469588,
+            "total_vote": 324,
+            "votes": {
+                "1": 1,
+                "10": 5,
+                "11": 43,
+                "12": 3,
+                "13": 11,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 96,
+                "22": 47,
+                "23": 1,
+                "24": 12,
+                "3": 4,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 2,
+                "9": 95
+            }
+        },
+        "school_name": "YUNUS EMRE İLKÖĞRETİM KURUMU"
+    },
+    {
+        "ballot_box_number": 1027,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/50338_bulk_999999999_1684088802098467154.jpg",
+            "submission_id": 376679,
+            "total_vote": 327,
+            "votes": {
+                "1": 131,
+                "2": 5,
+                "3": 178,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/65638_mv_1083697681_1684101650810057870.jpg",
+            "submission_id": 541864,
+            "total_vote": 328,
+            "votes": {
+                "10": 4,
+                "11": 47,
+                "12": 2,
+                "13": 17,
+                "20": 1,
+                "21": 115,
+                "22": 38,
+                "24": 4,
+                "3": 1,
+                "4": 1,
+                "6": 2,
+                "7": 4,
+                "9": 92
+            }
+        },
+        "school_name": "YUNUS EMRE İLKÖĞRETİM KURUMU"
+    }
+]

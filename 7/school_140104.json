@@ -1,0 +1,97 @@
+[
+    {
+        "ballot_box_number": 2438,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/47483_bulk_999999999_1684088067265958300.jpg",
+            "submission_id": 354154,
+            "total_vote": 326,
+            "votes": {
+                "1": 152,
+                "2": 4,
+                "3": 133,
+                "4": 37
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/74227_bulk_999999999_1684086133342779566.jpeg",
+            "submission_id": 289260,
+            "total_vote": 313,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 28,
+                "12": 9,
+                "13": 6,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 71,
+                "22": 51,
+                "23": 4,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 8,
+                "8": 4,
+                "9": 117
+            }
+        },
+        "school_name": "MURATPAŞLA YENİGÖL İLK OKULU"
+    },
+    {
+        "ballot_box_number": 2437,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/47483_bulk_999999999_1684082173404645713.jpg",
+            "submission_id": 196726,
+            "total_vote": 311,
+            "votes": {
+                "1": 152,
+                "3": 127,
+                "4": 32
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/47483_bulk_999999999_1684091545035760766.jpg",
+            "submission_id": 441904,
+            "total_vote": 300,
+            "votes": {
+                "1": 1,
+                "11": 40,
+                "12": 6,
+                "13": 6,
+                "21": 77,
+                "22": 39,
+                "23": 1,
+                "24": 8,
+                "6": 1,
+                "7": 6,
+                "8": 1,
+                "9": 114
+            }
+        },
+        "school_name": "MURATPAŞLA YENİGÖL İLK OKULU"
+    },
+    {
+        "ballot_box_number": 2436,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/74227_bulk_999999999_1684085980505328463.jpeg",
+            "submission_id": 284342,
+            "total_vote": 309,
+            "votes": {
+                "1": 171,
+                "2": 2,
+                "3": 107,
+                "4": 29
+            }
+        },
+        "mv_result": null,
+        "school_name": "MURATPAŞLA YENİGÖL İLK OKULU"
+    }
+]

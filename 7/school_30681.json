@@ -1,0 +1,45 @@
+[
+    {
+        "ballot_box_number": 1081,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "İSLAMLAR DURMUŞ GÜLSER GEDİKOĞLU İLKÖĞRETİM OKULU"
+    },
+    {
+        "ballot_box_number": 1082,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "İSLAMLAR DURMUŞ GÜLSER GEDİKOĞLU İLKÖĞRETİM OKULU"
+    },
+    {
+        "ballot_box_number": 1080,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/263497e2-b163-4c1d-9881-0174afbc163f-1684105089811916107.jpg",
+            "submission_id": 570447,
+            "total_vote": 280,
+            "votes": {
+                "1": 129,
+                "2": 0,
+                "3": 145,
+                "4": 6
+            }
+        },
+        "mv_result": null,
+        "school_name": "İSLAMLAR DURMUŞ GÜLSER GEDİKOĞLU İLKÖĞRETİM OKULU"
+    },
+    {
+        "ballot_box_number": 1079,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/dbf4c170-5b90-4213-97d3-94d19c282459-1684105090167232889.jpg",
+            "submission_id": 568723,
+            "total_vote": 268,
+            "votes": {
+                "1": 104,
+                "3": 154,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "İSLAMLAR DURMUŞ GÜLSER GEDİKOĞLU İLKÖĞRETİM OKULU"
+    }
+]

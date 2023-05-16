@@ -1,0 +1,52 @@
+[
+    {
+        "ballot_box_number": 1030,
+        "cm_result": {
+            "image_url": "https://source2-secim-images.oyveotesi.org/raw/whiskey/bde2bf36-a109-4262-963e-09853e270b53.jpg",
+            "submission_id": 557170,
+            "total_vote": 187,
+            "votes": {
+                "1": 36,
+                "3": 142,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e6a0cbb7-99b7-46ed-ba64-329f0e18b063-1684106594430711714.jpg",
+            "submission_id": 810972,
+            "total_vote": 183,
+            "votes": {
+                "10": 2,
+                "11": 22,
+                "12": 7,
+                "13": 16,
+                "15": 1,
+                "16": 1,
+                "2": 1,
+                "21": 81,
+                "22": 28,
+                "24": 3,
+                "6": 1,
+                "7": 2,
+                "9": 18
+            }
+        },
+        "school_name": "BEYCİK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1029,
+        "cm_result": {
+            "image_url": "https://source2-secim-images.oyveotesi.org/raw/whiskey/e75ef922-6f6f-4920-a10c-28090b8c84c5.jpg",
+            "submission_id": 556703,
+            "total_vote": 173,
+            "votes": {
+                "1": 39,
+                "2": 0,
+                "3": 126,
+                "4": 8
+            }
+        },
+        "mv_result": null,
+        "school_name": "BEYCİK İLKOKULU"
+    }
+]

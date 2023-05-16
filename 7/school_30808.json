@@ -1,0 +1,24 @@
+[
+    {
+        "ballot_box_number": 1247,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/29392_bulk_999999999_1684087187096622085.jpg",
+            "submission_id": 325548,
+            "total_vote": 295,
+            "votes": {
+                "1": 126,
+                "2": 4,
+                "3": 141,
+                "4": 24
+            }
+        },
+        "mv_result": null,
+        "school_name": "KARAÖZ MAH.İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1246,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "KARAÖZ MAH.İLK OKULU"
+    }
+]

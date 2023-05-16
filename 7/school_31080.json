@@ -1,0 +1,126 @@
+[
+    {
+        "ballot_box_number": 1092,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/6b4e4e57-eb43-4b08-afe2-d1e04f091a2b-1684105163387836278.jpg",
+            "submission_id": 585595,
+            "total_vote": 262,
+            "votes": {
+                "1": 72,
+                "2": 0,
+                "3": 178,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/293a8b77-a1b8-4e02-be9c-7b38e86ee07d-1684105161487411709.jpg",
+            "submission_id": 585036,
+            "total_vote": 253,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 17,
+                "12": 62,
+                "13": 3,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 67,
+                "22": 48,
+                "23": 1,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 2,
+                "9": 36
+            }
+        },
+        "school_name": "ÇAKALLIK İLK/ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1095,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ce8e347f-e8fe-4ddb-80e5-9a4177d8703c-1684105150126409641.jpg",
+            "submission_id": 582409,
+            "total_vote": 281,
+            "votes": {
+                "1": 75,
+                "2": 1,
+                "3": 195,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/6c1bc23d-abb6-454b-8895-1417a32666c0-1684105149707742336.jpg",
+            "submission_id": 582195,
+            "total_vote": 271,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 14,
+                "12": 73,
+                "13": 4,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 66,
+                "22": 48,
+                "23": 2,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 1,
+                "8": 3,
+                "9": 51
+            }
+        },
+        "school_name": "ÇAKALLIK İLK/ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1093,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9cec0197-6432-472c-9074-4761a5aed34b-1684105160112556361.jpg",
+            "submission_id": 584877,
+            "total_vote": 270,
+            "votes": {
+                "1": 61,
+                "2": 2,
+                "3": 192,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇAKALLIK İLK/ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1094,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4fa52c58-7a3d-416f-96b0-27bee2db381a-1684105151692845509.jpg",
+            "submission_id": 584699,
+            "total_vote": 258,
+            "votes": {
+                "1": 71,
+                "2": 1,
+                "3": 179,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇAKALLIK İLK/ORTAOKULU"
+    }
+]

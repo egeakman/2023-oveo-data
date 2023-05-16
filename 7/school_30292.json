@@ -1,0 +1,29 @@
+[
+    {
+        "ballot_box_number": 1043,
+        "cm_result": {
+            "image_url": "https://source2-secim-images.oyveotesi.org/raw/Photos-001 (13)/48617255-261d-4e2e-a9ae-83053e144a43.jpg",
+            "submission_id": 1008983,
+            "total_vote": 69,
+            "votes": {
+                "1": 9,
+                "2": 0,
+                "3": 59,
+                "4": 1
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source2-secim-images.oyveotesi.org/raw/Photos-001 (13)/e10131a8-c4b7-40f0-95e6-a97f70ff6318.jpg",
+            "submission_id": 1008793,
+            "total_vote": 69,
+            "votes": {
+                "11": 2,
+                "20": 1,
+                "21": 53,
+                "22": 5,
+                "9": 8
+            }
+        },
+        "school_name": "ESENPINAR KÖY ODASI"
+    }
+]

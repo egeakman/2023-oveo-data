@@ -1,0 +1,31 @@
+[
+    {
+        "ballot_box_number": 1310,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/340c8c43-ef58-4501-a745-e71bd403f122-1684105893605087596.jpg",
+            "submission_id": 710092,
+            "total_vote": 126,
+            "votes": {
+                "1": 15,
+                "2": 2,
+                "3": 107,
+                "4": 2
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/22087dee-26a7-4ea9-b4c7-2c31bbef4749-1684105818528342788.jpg",
+            "submission_id": 700213,
+            "total_vote": 123,
+            "votes": {
+                "11": 5,
+                "13": 5,
+                "17": 1,
+                "21": 92,
+                "22": 9,
+                "24": 2,
+                "9": 9
+            }
+        },
+        "school_name": "NAMARAS MAH. İLKOKULU"
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "ballot_box_number": 1110,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16236_cb_1093700104_1684079651776582638.jpg",
+            "submission_id": 177798,
+            "total_vote": 271,
+            "votes": {
+                "1": 91,
+                "2": 1,
+                "3": 166,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16236_mv_1083700104_1684084842233693030.jpg",
+            "submission_id": 249682,
+            "total_vote": 265,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 19,
+                "12": 6,
+                "13": 12,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 3,
+                "2": 0,
+                "20": 0,
+                "21": 119,
+                "22": 28,
+                "23": 0,
+                "24": 7,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 0,
+                "9": 63
+            }
+        },
+        "school_name": "OSMAN ALİ CİNGÖZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1111,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16236_cb_1093700105_1684082950220300749.jpg",
+            "submission_id": 207896,
+            "total_vote": 276,
+            "votes": {
+                "1": 104,
+                "2": 0,
+                "3": 151,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "OSMAN ALİ CİNGÖZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1109,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16236_cb_1093700103_1684084302504229211.jpg",
+            "submission_id": 235544,
+            "total_vote": 258,
+            "votes": {
+                "1": 83,
+                "2": 2,
+                "3": 163,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16236_mv_1083700103_1684085507268848402.jpg",
+            "submission_id": 268821,
+            "total_vote": 253,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 19,
+                "12": 7,
+                "13": 10,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 120,
+                "22": 25,
+                "23": 1,
+                "24": 1,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 0,
+                "9": 62
+            }
+        },
+        "school_name": "OSMAN ALİ CİNGÖZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1112,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16236_cb_1093700106_1684083169682384437.jpg",
+            "submission_id": 211572,
+            "total_vote": 282,
+            "votes": {
+                "1": 108,
+                "2": 0,
+                "3": 157,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16236_mv_1083700106_1684083199631389546.jpg",
+            "submission_id": 212136,
+            "total_vote": 278,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 16,
+                "12": 3,
+                "13": 10,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 2,
+                "21": 102,
+                "22": 38,
+                "23": 0,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 2,
+                "9": 92
+            }
+        },
+        "school_name": "OSMAN ALİ CİNGÖZ İLKOKULU"
+    }
+]

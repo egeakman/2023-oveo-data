@@ -1,0 +1,110 @@
+[
+    {
+        "ballot_box_number": 1045,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1987_bulk_999999999_1684091059723342844.jpg",
+            "submission_id": 433084,
+            "total_vote": 236,
+            "votes": {
+                "1": 97,
+                "2": 6,
+                "3": 115,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1987_bulk_999999999_1684091059861454964.jpg",
+            "submission_id": 433087,
+            "total_vote": 226,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 35,
+                "12": 2,
+                "13": 3,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 82,
+                "22": 24,
+                "23": 0,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 9,
+                "8": 0,
+                "9": 61
+            }
+        },
+        "school_name": "AV.KEMAL AKÇA İLKOKULU / ORTAOKULU (E)"
+    },
+    {
+        "ballot_box_number": 1044,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1987_bulk_999999999_1684091059962554785.jpg",
+            "submission_id": 433094,
+            "total_vote": 231,
+            "votes": {
+                "1": 104,
+                "2": 4,
+                "3": 109,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1987_bulk_999999999_1684091060075649508.jpg",
+            "submission_id": 433097,
+            "total_vote": 225,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 24,
+                "12": 0,
+                "13": 2,
+                "14": 3,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 0,
+                "21": 96,
+                "22": 20,
+                "23": 0,
+                "24": 1,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 2,
+                "8": 1,
+                "9": 71
+            }
+        },
+        "school_name": "AV.KEMAL AKÇA İLKOKULU / ORTAOKULU (E)"
+    },
+    {
+        "ballot_box_number": 1046,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1987_bulk_999999999_1684091059567189637.jpg",
+            "submission_id": 433078,
+            "total_vote": 241,
+            "votes": {
+                "1": 113,
+                "2": 1,
+                "3": 113,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "AV.KEMAL AKÇA İLKOKULU / ORTAOKULU (E)"
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "ballot_box_number": 1158,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "RIFAT AZAKOĞLU MTAL"
+    },
+    {
+        "ballot_box_number": 1164,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "RIFAT AZAKOĞLU MTAL"
+    },
+    {
+        "ballot_box_number": 1161,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "RIFAT AZAKOĞLU MTAL"
+    },
+    {
+        "ballot_box_number": 1160,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "RIFAT AZAKOĞLU MTAL"
+    },
+    {
+        "ballot_box_number": 1159,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "RIFAT AZAKOĞLU MTAL"
+    },
+    {
+        "ballot_box_number": 1162,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "RIFAT AZAKOĞLU MTAL"
+    },
+    {
+        "ballot_box_number": 1163,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9df932fd-4c4e-4d47-b7d2-a993241b0f53-1684105148221733067.jpg",
+            "submission_id": 584105,
+            "total_vote": 296,
+            "votes": {
+                "1": 114,
+                "3": 151,
+                "4": 31
+            }
+        },
+        "mv_result": null,
+        "school_name": "RIFAT AZAKOĞLU MTAL"
+    }
+]

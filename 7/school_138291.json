@@ -1,0 +1,18 @@
+[
+    {
+        "ballot_box_number": 1063,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c2d719e4-31e9-4d6e-b450-05f694b806fc-1684105472603938797.jpg",
+            "submission_id": 644807,
+            "total_vote": 129,
+            "votes": {
+                "1": 58,
+                "2": 2,
+                "3": 68,
+                "4": 1
+            }
+        },
+        "mv_result": null,
+        "school_name": "GÜRÇAM İ.Ö.O."
+    }
+]

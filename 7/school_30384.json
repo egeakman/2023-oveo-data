@@ -1,0 +1,153 @@
+[
+    {
+        "ballot_box_number": 1136,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "YENİ MAH FATMA MEHMET CADIL FEN LİSESİ"
+    },
+    {
+        "ballot_box_number": 1142,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "YENİ MAH FATMA MEHMET CADIL FEN LİSESİ"
+    },
+    {
+        "ballot_box_number": 1141,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/61931_bulk_999999999_1684089930586186830.jpeg",
+            "submission_id": 407911,
+            "total_vote": 313,
+            "votes": {
+                "1": 153,
+                "2": 0,
+                "3": 135,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/61931_bulk_999999999_1684089930739675677.jpeg",
+            "submission_id": 407916,
+            "total_vote": 307,
+            "votes": {
+                "1": 0,
+                "10": 14,
+                "11": 31,
+                "12": 11,
+                "13": 7,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 77,
+                "22": 37,
+                "23": 0,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 8,
+                "8": 4,
+                "9": 105
+            }
+        },
+        "school_name": "YENİ MAH FATMA MEHMET CADIL FEN LİSESİ"
+    },
+    {
+        "ballot_box_number": 1137,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/61931_bulk_999999999_1684089930859343091.jpeg",
+            "submission_id": 407918,
+            "total_vote": 334,
+            "votes": {
+                "1": 178,
+                "2": 2,
+                "3": 131,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/61931_bulk_999999999_1684089930971455976.jpeg",
+            "submission_id": 407921,
+            "total_vote": 325,
+            "votes": {
+                "1": 0,
+                "10": 17,
+                "11": 45,
+                "12": 9,
+                "13": 11,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 71,
+                "22": 36,
+                "23": 1,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 4,
+                "7": 4,
+                "8": 2,
+                "9": 119
+            }
+        },
+        "school_name": "YENİ MAH FATMA MEHMET CADIL FEN LİSESİ"
+    },
+    {
+        "ballot_box_number": 1138,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/61931_cb_1093700092_1684081000899627460.jpg",
+            "submission_id": 185317,
+            "total_vote": 332,
+            "votes": {
+                "1": 169,
+                "3": 130,
+                "4": 33
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/61931_mv_1083700092_1684085817904170380.jpg",
+            "submission_id": 279032,
+            "total_vote": 329,
+            "votes": {
+                "1": 1,
+                "10": 15,
+                "11": 40,
+                "12": 3,
+                "13": 13,
+                "17": 1,
+                "19": 1,
+                "21": 78,
+                "22": 37,
+                "24": 9,
+                "5": 1,
+                "7": 10,
+                "8": 2,
+                "9": 118
+            }
+        },
+        "school_name": "YENİ MAH FATMA MEHMET CADIL FEN LİSESİ"
+    },
+    {
+        "ballot_box_number": 1139,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "YENİ MAH FATMA MEHMET CADIL FEN LİSESİ"
+    },
+    {
+        "ballot_box_number": 1140,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "YENİ MAH FATMA MEHMET CADIL FEN LİSESİ"
+    }
+]

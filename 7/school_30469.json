@@ -1,0 +1,32 @@
+[
+    {
+        "ballot_box_number": 1056,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/12038_cb_1093698570_1684078581279438912.jpg",
+            "submission_id": 174746,
+            "total_vote": 158,
+            "votes": {
+                "1": 74,
+                "2": 1,
+                "3": 73,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/12038_mv_1083698570_1684078619695885498.jpg",
+            "submission_id": 174806,
+            "total_vote": 160,
+            "votes": {
+                "10": 2,
+                "11": 13,
+                "12": 1,
+                "13": 4,
+                "21": 42,
+                "22": 34,
+                "23": 7,
+                "9": 57
+            }
+        },
+        "school_name": "KÖRLER YENİMAHALLE OKULU"
+    }
+]

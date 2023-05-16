@@ -1,0 +1,80 @@
+[
+    {
+        "ballot_box_number": 1034,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/b19ddaff-cd5c-426e-8531-db41b8c48b62-1684105083375351414.jpeg",
+            "submission_id": 567718,
+            "total_vote": 201,
+            "votes": {
+                "1": 72,
+                "2": 1,
+                "3": 121,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "KAMİLE ÇÖMLEKÇİOĞLU ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1033,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8d8d214d-7a68-4365-9e43-c83f9002b36b-1684105085500281473.jpeg",
+            "submission_id": 567931,
+            "total_vote": 211,
+            "votes": {
+                "1": 87,
+                "2": 4,
+                "3": 111,
+                "4": 9
+            }
+        },
+        "mv_result": null,
+        "school_name": "KAMİLE ÇÖMLEKÇİOĞLU ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1032,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/20f1d6a9-a14e-4136-a215-5509838f672b-1684105083050042757.jpeg",
+            "submission_id": 567370,
+            "total_vote": 192,
+            "votes": {
+                "1": 90,
+                "2": 1,
+                "3": 82,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8c117c55-856f-4c1f-bb67-473d0fa7b5ed-1684105082779930096.jpeg",
+            "submission_id": 567401,
+            "total_vote": 189,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 16,
+                "12": 4,
+                "13": 14,
+                "14": 2,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 47,
+                "22": 25,
+                "23": 2,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 0,
+                "9": 62
+            }
+        },
+        "school_name": "KAMİLE ÇÖMLEKÇİOĞLU ORTA OKULU"
+    }
+]

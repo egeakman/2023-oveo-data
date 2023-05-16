@@ -1,0 +1,151 @@
+[
+    {
+        "ballot_box_number": 1115,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/24566_cb_1093700029_1684120434682702240.jpg",
+            "submission_id": 1010457,
+            "total_vote": 290,
+            "votes": {
+                "1": 149,
+                "2": 2,
+                "3": 117,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/24566_bulk_999999999_1684094151649580655.jpg",
+            "submission_id": 488536,
+            "total_vote": 285,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 28,
+                "12": 6,
+                "13": 7,
+                "14": 1,
+                "15": 2,
+                "16": 1,
+                "17": 1,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 52,
+                "22": 55,
+                "23": 0,
+                "24": 7,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 2,
+                "7": 2,
+                "8": 5,
+                "9": 111
+            }
+        },
+        "school_name": "KURŞUNLU İNCİ KALENDER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1113,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/24566_bulk_999999999_1684081371025386155.jpg",
+            "submission_id": 188283,
+            "total_vote": 278,
+            "votes": {
+                "1": 169,
+                "2": 3,
+                "3": 90,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/24566_bulk_999999999_1684094152118656494.jpg",
+            "submission_id": 488547,
+            "total_vote": 262,
+            "votes": {
+                "10": 1,
+                "11": 29,
+                "12": 7,
+                "13": 1,
+                "16": 1,
+                "17": 1,
+                "20": 2,
+                "21": 52,
+                "22": 26,
+                "23": 5,
+                "24": 4,
+                "7": 2,
+                "8": 1,
+                "9": 130
+            }
+        },
+        "school_name": "KURŞUNLU İNCİ KALENDER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1116,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/24566_bulk_999999999_1684094151852912030.jpg",
+            "submission_id": 488544,
+            "total_vote": 300,
+            "votes": {
+                "1": 176,
+                "2": 6,
+                "3": 88,
+                "4": 30
+            }
+        },
+        "mv_result": null,
+        "school_name": "KURŞUNLU İNCİ KALENDER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1117,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/44462_cb_1093700031_1684084053051789374.jpg",
+            "submission_id": 229272,
+            "total_vote": 287,
+            "votes": {
+                "1": 170,
+                "2": 6,
+                "3": 85,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/44462_mv_1083700031_1684085084903041856.jpg",
+            "submission_id": 256541,
+            "total_vote": 273,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 30,
+                "13": 1,
+                "14": 1,
+                "21": 50,
+                "22": 36,
+                "23": 2,
+                "24": 5,
+                "6": 2,
+                "7": 7,
+                "8": 5,
+                "9": 131
+            }
+        },
+        "school_name": "KURŞUNLU İNCİ KALENDER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1114,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/24566_cb_1093700028_1684079886121263340.jpg",
+            "submission_id": 178769,
+            "total_vote": 302,
+            "votes": {
+                "1": 159,
+                "2": 5,
+                "3": 102,
+                "4": 36
+            }
+        },
+        "mv_result": null,
+        "school_name": "KURŞUNLU İNCİ KALENDER İLKOKULU"
+    }
+]

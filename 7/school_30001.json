@@ -1,0 +1,550 @@
+[
+    {
+        "ballot_box_number": 2360,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/14890_cb_1093814247_1684081094088356285.jpg",
+            "submission_id": 186027,
+            "total_vote": 339,
+            "votes": {
+                "1": 96,
+                "2": 2,
+                "3": 216,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/32868_bulk_999999999_1684088981882734485.jpeg",
+            "submission_id": 381966,
+            "total_vote": 333,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 19,
+                "12": 41,
+                "13": 26,
+                "15": 1,
+                "20": 1,
+                "21": 111,
+                "22": 37,
+                "24": 10,
+                "3": 1,
+                "6": 4,
+                "7": 2,
+                "8": 5,
+                "9": 70
+            }
+        },
+        "school_name": "HAŞİM İŞCAN KÜLTÜR MERKEZİ"
+    },
+    {
+        "ballot_box_number": 2354,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/32868_cb_1093814241_1684085088508574470.jpg",
+            "submission_id": 256665,
+            "total_vote": 307,
+            "votes": {
+                "1": 99,
+                "2": 1,
+                "3": 199,
+                "4": 8
+            }
+        },
+        "mv_result": null,
+        "school_name": "HAŞİM İŞCAN KÜLTÜR MERKEZİ"
+    },
+    {
+        "ballot_box_number": 2366,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/73918_bulk_999999999_1684084934210003690.jpg",
+            "submission_id": 252234,
+            "total_vote": 325,
+            "votes": {
+                "1": 122,
+                "2": 2,
+                "3": 183,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/73918_bulk_999999999_1684087083988409160.jpg",
+            "submission_id": 321970,
+            "total_vote": 311,
+            "votes": {
+                "1": 6,
+                "10": 4,
+                "11": 12,
+                "12": 34,
+                "13": 26,
+                "14": 0,
+                "15": 1,
+                "16": 2,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 69,
+                "22": 40,
+                "23": 1,
+                "24": 11,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 5,
+                "7": 1,
+                "8": 3,
+                "9": 94
+            }
+        },
+        "school_name": "HAŞİM İŞCAN KÜLTÜR MERKEZİ"
+    },
+    {
+        "ballot_box_number": 2362,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/14890_cb_1093814249_1684089515085183949.jpg",
+            "submission_id": 396615,
+            "total_vote": 323,
+            "votes": {
+                "1": 127,
+                "2": 2,
+                "3": 175,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/6eef3f2f-e37d-4bf5-b1e2-9dec8e96825d-1684105334057069155.jpg",
+            "submission_id": 620413,
+            "total_vote": 322,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 30,
+                "12": 31,
+                "13": 20,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 93,
+                "22": 42,
+                "23": 1,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 86
+            }
+        },
+        "school_name": "HAŞİM İŞCAN KÜLTÜR MERKEZİ"
+    },
+    {
+        "ballot_box_number": 2364,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/36717_cb_1093814251_1684085137337509381.jpg",
+            "submission_id": 258040,
+            "total_vote": 332,
+            "votes": {
+                "1": 149,
+                "3": 166,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/36717_mv_1083814251_1684086323675277119.jpg",
+            "submission_id": 295518,
+            "total_vote": 325,
+            "votes": {
+                "10": 1,
+                "11": 35,
+                "12": 17,
+                "13": 22,
+                "2": 1,
+                "21": 98,
+                "22": 32,
+                "24": 8,
+                "5": 1,
+                "6": 1,
+                "7": 3,
+                "9": 106
+            }
+        },
+        "school_name": "HAŞİM İŞCAN KÜLTÜR MERKEZİ"
+    },
+    {
+        "ballot_box_number": 2355,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/32868_cb_1093814242_1684084681963537400.jpg",
+            "submission_id": 245398,
+            "total_vote": 334,
+            "votes": {
+                "1": 112,
+                "2": 0,
+                "3": 199,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "HAŞİM İŞCAN KÜLTÜR MERKEZİ"
+    },
+    {
+        "ballot_box_number": 2357,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/23833_cb_1093814244_1684084230145337202.jpg",
+            "submission_id": 233695,
+            "total_vote": 339,
+            "votes": {
+                "1": 101,
+                "2": 1,
+                "3": 218,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/14890_mv_1083814244_1684088163678219601.jpg",
+            "submission_id": 357237,
+            "total_vote": 338,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 22,
+                "12": 35,
+                "13": 21,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 110,
+                "22": 42,
+                "23": 4,
+                "24": 16,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 0,
+                "7": 6,
+                "8": 1,
+                "9": 74
+            }
+        },
+        "school_name": "HAŞİM İŞCAN KÜLTÜR MERKEZİ"
+    },
+    {
+        "ballot_box_number": 2358,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/14890_cb_1093814245_1684084510910660137.jpg",
+            "submission_id": 240773,
+            "total_vote": 330,
+            "votes": {
+                "1": 118,
+                "2": 2,
+                "3": 189,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/14890_mv_1083814245_1684084448262773668.jpg",
+            "submission_id": 239198,
+            "total_vote": 330,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 24,
+                "12": 38,
+                "13": 11,
+                "14": 0,
+                "2": 1,
+                "20": 2,
+                "21": 105,
+                "22": 32,
+                "23": 0,
+                "24": 13,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 3,
+                "7": 6,
+                "8": 1,
+                "9": 86
+            }
+        },
+        "school_name": "HAŞİM İŞCAN KÜLTÜR MERKEZİ"
+    },
+    {
+        "ballot_box_number": 2353,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/14890_cb_1093814240_1684085073369812709.jpg",
+            "submission_id": 256235,
+            "total_vote": 316,
+            "votes": {
+                "1": 105,
+                "3": 199,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "HAŞİM İŞCAN KÜLTÜR MERKEZİ"
+    },
+    {
+        "ballot_box_number": 2361,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/14890_cb_1093814248_1684083874494220875.jpg",
+            "submission_id": 225605,
+            "total_vote": 315,
+            "votes": {
+                "1": 110,
+                "2": 1,
+                "3": 180,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/14890_mv_1083814248_1684084366138968397.jpg",
+            "submission_id": 237127,
+            "total_vote": 316,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 25,
+                "12": 20,
+                "13": 14,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 2,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 123,
+                "22": 25,
+                "23": 1,
+                "24": 13,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 3,
+                "9": 83
+            }
+        },
+        "school_name": "HAŞİM İŞCAN KÜLTÜR MERKEZİ"
+    },
+    {
+        "ballot_box_number": 2367,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/73918_bulk_999999999_1684083367760475346.jpg",
+            "submission_id": 215256,
+            "total_vote": 345,
+            "votes": {
+                "1": 127,
+                "2": 2,
+                "3": 198,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/14890_mv_1083814254_1684088585817892091.jpg",
+            "submission_id": 370195,
+            "total_vote": 340,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 18,
+                "12": 34,
+                "13": 27,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 105,
+                "22": 25,
+                "23": 0,
+                "24": 12,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 2,
+                "8": 0,
+                "9": 112
+            }
+        },
+        "school_name": "HAŞİM İŞCAN KÜLTÜR MERKEZİ"
+    },
+    {
+        "ballot_box_number": 2363,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/36717_cb_1093814250_1684086215358649885.jpg",
+            "submission_id": 291936,
+            "total_vote": 336,
+            "votes": {
+                "1": 118,
+                "2": 2,
+                "3": 191,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/32868_bulk_999999999_1684089021492136298.jpeg",
+            "submission_id": 383162,
+            "total_vote": 329,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 25,
+                "12": 27,
+                "13": 12,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 110,
+                "22": 41,
+                "23": 1,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 6,
+                "7": 4,
+                "8": 1,
+                "9": 86
+            }
+        },
+        "school_name": "HAŞİM İŞCAN KÜLTÜR MERKEZİ"
+    },
+    {
+        "ballot_box_number": 2359,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/14890_cb_1093814246_1684081275107502160.jpg",
+            "submission_id": 187424,
+            "total_vote": 318,
+            "votes": {
+                "1": 113,
+                "2": 1,
+                "3": 175,
+                "4": 29
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/14890_mv_1083814246_1684082300491956041.jpg",
+            "submission_id": 198387,
+            "total_vote": 310,
+            "votes": {
+                "10": 4,
+                "11": 21,
+                "12": 33,
+                "13": 15,
+                "19": 2,
+                "21": 86,
+                "22": 44,
+                "24": 14,
+                "6": 2,
+                "7": 2,
+                "8": 1,
+                "9": 86
+            }
+        },
+        "school_name": "HAŞİM İŞCAN KÜLTÜR MERKEZİ"
+    },
+    {
+        "ballot_box_number": 2356,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/23833_cb_1093814243_1684081932154221640.jpg",
+            "submission_id": 193849,
+            "total_vote": 325,
+            "votes": {
+                "1": 116,
+                "2": 1,
+                "3": 187,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/23833_mv_1083814243_1684086049880877625.jpg",
+            "submission_id": 286576,
+            "total_vote": 323,
+            "votes": {
+                "10": 0,
+                "11": 22,
+                "12": 32,
+                "13": 23,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 95,
+                "22": 35,
+                "23": 1,
+                "24": 16,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 3,
+                "9": 93
+            }
+        },
+        "school_name": "HAŞİM İŞCAN KÜLTÜR MERKEZİ"
+    },
+    {
+        "ballot_box_number": 2365,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/73918_bulk_999999999_1684081644271891230.jpg",
+            "submission_id": 190848,
+            "total_vote": 324,
+            "votes": {
+                "1": 126,
+                "2": 1,
+                "3": 172,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/73918_bulk_999999999_1684085628125642200.jpg",
+            "submission_id": 272684,
+            "total_vote": 323,
+            "votes": {
+                "10": 2,
+                "11": 28,
+                "12": 29,
+                "13": 20,
+                "20": 2,
+                "21": 87,
+                "22": 32,
+                "23": 2,
+                "24": 10,
+                "5": 2,
+                "6": 3,
+                "7": 4,
+                "8": 1,
+                "9": 101
+            }
+        },
+        "school_name": "HAŞİM İŞCAN KÜLTÜR MERKEZİ"
+    }
+]

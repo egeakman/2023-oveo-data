@@ -1,0 +1,48 @@
+[
+    {
+        "ballot_box_number": 1021,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/df68d755-8041-4373-9ac9-631974852df2-1684105369062105901.jpg",
+            "submission_id": 626220,
+            "total_vote": 264,
+            "votes": {
+                "1": 112,
+                "2": 5,
+                "3": 140,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ebefe5e0-ace9-408e-b17f-f2314fbaf1ab-1684105358347958653.jpg",
+            "submission_id": 624443,
+            "total_vote": 262,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 22,
+                "12": 0,
+                "13": 5,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 2,
+                "18": 0,
+                "19": 2,
+                "2": 2,
+                "20": 1,
+                "21": 96,
+                "22": 29,
+                "23": 2,
+                "24": 3,
+                "3": 2,
+                "4": 3,
+                "5": 2,
+                "6": 1,
+                "7": 1,
+                "8": 0,
+                "9": 85
+            }
+        },
+        "school_name": "KÖPRÜLÜ AYŞE GÜVEN ORTAOKULU/İLKOKULU"
+    }
+]

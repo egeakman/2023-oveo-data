@@ -1,0 +1,127 @@
+[
+    {
+        "ballot_box_number": 1002,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/64545_cb_1093775876_1684080231639166391.jpg",
+            "submission_id": 180448,
+            "total_vote": 248,
+            "votes": {
+                "1": 115,
+                "3": 122,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/64617_bulk_999999999_1684150582861959148.jpeg",
+            "submission_id": 1020919,
+            "total_vote": 243,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 29,
+                "12": 1,
+                "13": 14,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 1,
+                "21": 74,
+                "22": 24,
+                "23": 0,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 4,
+                "9": 85
+            }
+        },
+        "school_name": "Ş.ÖĞRETMEN ALİ BOŞGELMEZ İ.O."
+    },
+    {
+        "ballot_box_number": 1003,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/37097_bulk_999999999_1684084857720305569.jpeg",
+            "submission_id": 250086,
+            "total_vote": 256,
+            "votes": {
+                "1": 98,
+                "2": 1,
+                "3": 131,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/37097_mv_1083775877_1684085269134586172.jpg",
+            "submission_id": 261843,
+            "total_vote": 255,
+            "votes": {
+                "10": 1,
+                "11": 36,
+                "12": 3,
+                "13": 11,
+                "14": 1,
+                "17": 1,
+                "21": 98,
+                "22": 19,
+                "24": 6,
+                "7": 7,
+                "8": 1,
+                "9": 71
+            }
+        },
+        "school_name": "Ş.ÖĞRETMEN ALİ BOŞGELMEZ İ.O."
+    },
+    {
+        "ballot_box_number": 1001,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/64617_bulk_999999999_1684079750065049356.jpeg",
+            "submission_id": 178184,
+            "total_vote": 246,
+            "votes": {
+                "1": 80,
+                "2": 3,
+                "3": 145,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/64617_bulk_999999999_1684084632339776152.jpeg",
+            "submission_id": 244016,
+            "total_vote": 246,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 23,
+                "12": 3,
+                "13": 7,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 2,
+                "21": 114,
+                "22": 24,
+                "23": 1,
+                "24": 6,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 4,
+                "8": 1,
+                "9": 55
+            }
+        },
+        "school_name": "Ş.ÖĞRETMEN ALİ BOŞGELMEZ İ.O."
+    }
+]

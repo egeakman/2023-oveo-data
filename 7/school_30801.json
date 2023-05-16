@@ -1,0 +1,127 @@
+[
+    {
+        "ballot_box_number": 1468,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/dc32f757-f557-440e-9034-f4b5c127aa57-1684106546372304931.jpg",
+            "submission_id": 803133,
+            "total_vote": 278,
+            "votes": {
+                "1": 132,
+                "2": 2,
+                "3": 126,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e71c90d8-9c0d-481b-a9ab-fb4815607e28-1684106533425921086.jpg",
+            "submission_id": 801492,
+            "total_vote": 269,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 29,
+                "12": 3,
+                "13": 4,
+                "14": 0,
+                "15": 4,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 90,
+                "22": 34,
+                "23": 0,
+                "24": 4,
+                "3": 1,
+                "4": 4,
+                "5": 0,
+                "6": 3,
+                "7": 5,
+                "8": 4,
+                "9": 79
+            }
+        },
+        "school_name": "TAŞAĞIL İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1467,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f9acfe89-71b2-47cf-80c3-71e16b6f10b0-1684105814731551656.jpg",
+            "submission_id": 699032,
+            "total_vote": 272,
+            "votes": {
+                "1": 144,
+                "2": 3,
+                "3": 111,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/469a8f8c-895f-46fe-a1ff-176f2065557b-1684105846928905193.jpg",
+            "submission_id": 703244,
+            "total_vote": 261,
+            "votes": {
+                "10": 3,
+                "11": 41,
+                "12": 1,
+                "13": 1,
+                "15": 1,
+                "21": 74,
+                "22": 28,
+                "24": 8,
+                "7": 2,
+                "8": 1,
+                "9": 101
+            }
+        },
+        "school_name": "TAŞAĞIL İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1466,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2a61dae1-7e57-4297-bc35-853660e2d78e-1684106342036838198.jpg",
+            "submission_id": 773615,
+            "total_vote": 269,
+            "votes": {
+                "1": 129,
+                "2": 2,
+                "3": 117,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8e6afc85-8c57-40f9-9229-78a047fbdf5d-1684106328560186005.jpg",
+            "submission_id": 771550,
+            "total_vote": 265,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 39,
+                "12": 3,
+                "13": 5,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 84,
+                "22": 30,
+                "23": 1,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 7,
+                "8": 1,
+                "9": 84
+            }
+        },
+        "school_name": "TAŞAĞIL İLK OKULU"
+    }
+]

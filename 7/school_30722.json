@@ -1,0 +1,110 @@
+[
+    {
+        "ballot_box_number": 1086,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/23120_bulk_999999999_1684080759971217809.jpeg",
+            "submission_id": 183591,
+            "total_vote": 271,
+            "votes": {
+                "1": 114,
+                "2": 2,
+                "3": 150,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/23120_mv_1083699500_1684083303665852764.jpg",
+            "submission_id": 214003,
+            "total_vote": 264,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 36,
+                "12": 6,
+                "13": 7,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 86,
+                "22": 44,
+                "23": 1,
+                "24": 3,
+                "3": 0,
+                "4": 1,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "8": 0,
+                "9": 73
+            }
+        },
+        "school_name": "ERTUĞRUL GAZİ O.O."
+    },
+    {
+        "ballot_box_number": 1087,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/23120_bulk_999999999_1684084146379289810.jpeg",
+            "submission_id": 231451,
+            "total_vote": 273,
+            "votes": {
+                "1": 79,
+                "2": 1,
+                "3": 170,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "ERTUĞRUL GAZİ O.O."
+    },
+    {
+        "ballot_box_number": 1088,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/23256_cb_1093699502_1684079684784797346.jpg",
+            "submission_id": 177911,
+            "total_vote": 285,
+            "votes": {
+                "1": 111,
+                "2": 2,
+                "3": 155,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/23256_mv_1083699502_1684084201953636743.jpg",
+            "submission_id": 232892,
+            "total_vote": 278,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 37,
+                "12": 20,
+                "13": 6,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 77,
+                "22": 47,
+                "23": 0,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 2,
+                "8": 2,
+                "9": 74
+            }
+        },
+        "school_name": "ERTUĞRUL GAZİ O.O."
+    }
+]

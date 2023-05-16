@@ -1,0 +1,147 @@
+[
+    {
+        "ballot_box_number": 1045,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ace6e455-7245-4c51-8f37-6b13a978c0dc-1684105101840409405.jpg",
+            "submission_id": 572645,
+            "total_vote": 294,
+            "votes": {
+                "1": 163,
+                "2": 1,
+                "3": 121,
+                "4": 9
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇAVDIR İLKÖĞRETİM OKULU"
+    },
+    {
+        "ballot_box_number": 1047,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4ff73012-c078-4482-9323-f79cbcc9c5c7-1684105101440028912.jpg",
+            "submission_id": 571993,
+            "total_vote": 298,
+            "votes": {
+                "1": 169,
+                "2": 4,
+                "3": 109,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇAVDIR İLKÖĞRETİM OKULU"
+    },
+    {
+        "ballot_box_number": 1046,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/36679_cb_1093776180_1684085694771457057.jpg",
+            "submission_id": 274894,
+            "total_vote": 295,
+            "votes": {
+                "1": 164,
+                "2": 3,
+                "3": 118,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/36679_mv_1083776180_1684085749688468248.jpg",
+            "submission_id": 276674,
+            "total_vote": 289,
+            "votes": {
+                "10": 6,
+                "11": 42,
+                "12": 4,
+                "13": 1,
+                "18": 1,
+                "20": 1,
+                "21": 93,
+                "22": 17,
+                "24": 4,
+                "7": 4,
+                "9": 116
+            }
+        },
+        "school_name": "ÇAVDIR İLKÖĞRETİM OKULU"
+    },
+    {
+        "ballot_box_number": 1050,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "ÇAVDIR İLKÖĞRETİM OKULU"
+    },
+    {
+        "ballot_box_number": 1049,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8d11f571-0496-4be6-8691-8f6e9e290ced-1684105099907277960.jpg",
+            "submission_id": 571846,
+            "total_vote": 305,
+            "votes": {
+                "1": 172,
+                "3": 122,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/bcd5d5ca-1a9c-43bf-91d3-816c1047d5dc-1684105098448161709.jpg",
+            "submission_id": 571531,
+            "total_vote": 302,
+            "votes": {
+                "10": 4,
+                "11": 47,
+                "12": 9,
+                "13": 3,
+                "14": 1,
+                "18": 2,
+                "2": 1,
+                "21": 81,
+                "22": 22,
+                "24": 1,
+                "4": 1,
+                "6": 1,
+                "7": 4,
+                "8": 2,
+                "9": 123
+            }
+        },
+        "school_name": "ÇAVDIR İLKÖĞRETİM OKULU"
+    },
+    {
+        "ballot_box_number": 1051,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "ÇAVDIR İLKÖĞRETİM OKULU"
+    },
+    {
+        "ballot_box_number": 1048,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9077d62e-cb60-42ab-9815-834c2339143a-1684105100542518151.jpg",
+            "submission_id": 572190,
+            "total_vote": 308,
+            "votes": {
+                "1": 146,
+                "2": 1,
+                "3": 149,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇAVDIR İLKÖĞRETİM OKULU"
+    },
+    {
+        "ballot_box_number": 1044,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/36679_cb_1093776178_1684085865304423171.jpg",
+            "submission_id": 280673,
+            "total_vote": 279,
+            "votes": {
+                "1": 169,
+                "2": 4,
+                "3": 99,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇAVDIR İLKÖĞRETİM OKULU"
+    }
+]
