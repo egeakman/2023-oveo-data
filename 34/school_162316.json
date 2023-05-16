@@ -1,0 +1,1064 @@
+[
+    {
+        "ballot_box_number": 2216,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5212_cb_1093778628_1684087747914869516.jpg",
+            "submission_id": 343939,
+            "total_vote": 349,
+            "votes": {
+                "1": 199,
+                "2": 1,
+                "3": 123,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5212_mv_1083778628_1684087716118724952.jpg",
+            "submission_id": 342949,
+            "total_vote": 330,
+            "votes": {
+                "1": 0,
+                "10": 20,
+                "11": 20,
+                "12": 12,
+                "13": 0,
+                "14": 2,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 62,
+                "21": 34,
+                "22": 1,
+                "23": 16,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 7,
+                "8": 3,
+                "9": 151
+            }
+        },
+        "school_name": "ALİYA İZZETBEGOVİÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2212,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5212_cb_1093778624_1684085671962862144.jpg",
+            "submission_id": 274128,
+            "total_vote": 339,
+            "votes": {
+                "1": 216,
+                "2": 2,
+                "3": 109,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5212_mv_1083778624_1684085697020656032.jpg",
+            "submission_id": 274957,
+            "total_vote": 336,
+            "votes": {
+                "10": 20,
+                "11": 15,
+                "12": 9,
+                "13": 9,
+                "14": 1,
+                "18": 1,
+                "21": 54,
+                "22": 33,
+                "23": 1,
+                "24": 11,
+                "7": 6,
+                "8": 3,
+                "9": 173
+            }
+        },
+        "school_name": "ALİYA İZZETBEGOVİÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2215,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "ALİYA İZZETBEGOVİÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2225,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/5212_bulk_999999999_1684094908750814811.jpeg",
+            "submission_id": 497586,
+            "total_vote": 329,
+            "votes": {
+                "10": 26,
+                "11": 20,
+                "12": 5,
+                "13": 12,
+                "15": 1,
+                "21": 69,
+                "22": 41,
+                "24": 12,
+                "7": 5,
+                "9": 138
+            }
+        },
+        "school_name": "ALİYA İZZETBEGOVİÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2200,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/b61aa59f-ed97-4ac7-8984-b65ec435de89-1684105826704217270.jpg",
+            "submission_id": 701553,
+            "total_vote": 315,
+            "votes": {
+                "1": 197,
+                "2": 1,
+                "3": 105,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "ALİYA İZZETBEGOVİÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2227,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/82037952-9982-4234-9675-296f21862eea-1684105428535923904.jpg",
+            "submission_id": 638489,
+            "total_vote": 331,
+            "votes": {
+                "1": 181,
+                "2": 1,
+                "3": 127,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/022903a1-a3b9-464d-8c00-9518f5d5b060-1684105426550220991.jpg",
+            "submission_id": 637970,
+            "total_vote": 326,
+            "votes": {
+                "10": 9,
+                "11": 23,
+                "12": 13,
+                "13": 12,
+                "21": 71,
+                "22": 28,
+                "23": 1,
+                "24": 18,
+                "6": 1,
+                "7": 4,
+                "8": 3,
+                "9": 143
+            }
+        },
+        "school_name": "ALİYA İZZETBEGOVİÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2207,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5212_cb_1093778619_1684087319509842051.jpg",
+            "submission_id": 330037,
+            "total_vote": 340,
+            "votes": {
+                "1": 176,
+                "2": 1,
+                "3": 140,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5212_mv_1083778619_1684087360600011787.jpg",
+            "submission_id": 331359,
+            "total_vote": 342,
+            "votes": {
+                "10": 17,
+                "11": 16,
+                "12": 13,
+                "13": 3,
+                "21": 85,
+                "22": 53,
+                "23": 2,
+                "24": 10,
+                "6": 2,
+                "7": 4,
+                "9": 137
+            }
+        },
+        "school_name": "ALİYA İZZETBEGOVİÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2211,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/5212_bulk_999999999_1684094532175020639.jpeg",
+            "submission_id": 493077,
+            "total_vote": 346,
+            "votes": {
+                "1": 209,
+                "2": 2,
+                "3": 109,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/5212_bulk_999999999_1684089855999940590.jpeg",
+            "submission_id": 405928,
+            "total_vote": 339,
+            "votes": {
+                "10": 13,
+                "11": 20,
+                "12": 5,
+                "13": 10,
+                "14": 1,
+                "18": 1,
+                "21": 74,
+                "22": 21,
+                "23": 1,
+                "24": 15,
+                "7": 10,
+                "8": 2,
+                "9": 166
+            }
+        },
+        "school_name": "ALİYA İZZETBEGOVİÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2223,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/66b2dbda-9444-4c86-8fe8-740f903859cb-1684105321765083711.jpg",
+            "submission_id": 618464,
+            "total_vote": 339,
+            "votes": {
+                "1": 188,
+                "2": 1,
+                "3": 139,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/5212_bulk_999999999_1684094908602563986.jpeg",
+            "submission_id": 497584,
+            "total_vote": 335,
+            "votes": {
+                "10": 15,
+                "11": 20,
+                "12": 11,
+                "13": 16,
+                "21": 80,
+                "22": 27,
+                "24": 12,
+                "6": 3,
+                "7": 5,
+                "8": 1,
+                "9": 145
+            }
+        },
+        "school_name": "ALİYA İZZETBEGOVİÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2224,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e1908c02-69c5-4c23-8173-43bd4162ab9a-1684105995252969390.jpg",
+            "submission_id": 723823,
+            "total_vote": 339,
+            "votes": {
+                "1": 194,
+                "2": 1,
+                "3": 130,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "ALİYA İZZETBEGOVİÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2206,
+        "cm_result": {
+            "image_url": "https://source1-secim-images.oyveotesi.org/raw/1000594_cb_3778618_1684151448.jpeg",
+            "submission_id": 1021126,
+            "total_vote": 342,
+            "votes": {
+                "1": 185,
+                "2": 1,
+                "3": 139,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/db985aeb-21d6-4703-89db-3b66426f2f13-1684106052559652306.jpg",
+            "submission_id": 732064,
+            "total_vote": 311,
+            "votes": {
+                "1": 0,
+                "10": 16,
+                "11": 27,
+                "12": 5,
+                "13": 12,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "2": 0,
+                "20": 1,
+                "21": 73,
+                "22": 12,
+                "23": 3,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 1,
+                "9": 147
+            }
+        },
+        "school_name": "ALİYA İZZETBEGOVİÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2208,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5212_cb_1093778620_1684085283133578669.jpg",
+            "submission_id": 262246,
+            "total_vote": 335,
+            "votes": {
+                "1": 205,
+                "2": 1,
+                "3": 104,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/53565_mv_1083778620_1684087651213396168.jpg",
+            "submission_id": 340779,
+            "total_vote": 332,
+            "votes": {
+                "1": 1,
+                "10": 15,
+                "11": 18,
+                "12": 11,
+                "13": 8,
+                "18": 1,
+                "19": 1,
+                "21": 54,
+                "22": 33,
+                "23": 3,
+                "24": 17,
+                "3": 1,
+                "7": 8,
+                "8": 3,
+                "9": 158
+            }
+        },
+        "school_name": "ALİYA İZZETBEGOVİÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2214,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5212_cb_1093778626_1684085608327824203.jpg",
+            "submission_id": 272087,
+            "total_vote": 339,
+            "votes": {
+                "1": 178,
+                "2": 1,
+                "3": 132,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5212_mv_1083778626_1684085636488293049.jpg",
+            "submission_id": 272950,
+            "total_vote": 328,
+            "votes": {
+                "1": 0,
+                "10": 12,
+                "11": 17,
+                "12": 23,
+                "13": 5,
+                "14": 0,
+                "15": 1,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 63,
+                "22": 35,
+                "23": 3,
+                "24": 18,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 0,
+                "7": 4,
+                "8": 8,
+                "9": 134
+            }
+        },
+        "school_name": "ALİYA İZZETBEGOVİÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2210,
+        "cm_result": {
+            "image_url": "https://source1-secim-images.oyveotesi.org/raw/1000594_cb_3778622_1684084249.jpeg",
+            "submission_id": 234513,
+            "total_vote": 344,
+            "votes": {
+                "1": 212,
+                "3": 114,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/53565_mv_1083778622_1684087499275167604.jpg",
+            "submission_id": 335874,
+            "total_vote": 330,
+            "votes": {
+                "1": 6,
+                "10": 1,
+                "11": 25,
+                "12": 13,
+                "13": 7,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 61,
+                "22": 28,
+                "23": 0,
+                "24": 14,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 8,
+                "8": 4,
+                "9": 158
+            }
+        },
+        "school_name": "ALİYA İZZETBEGOVİÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2205,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5212_cb_1093778617_1684086233273020829.jpg",
+            "submission_id": 292503,
+            "total_vote": 333,
+            "votes": {
+                "1": 198,
+                "2": 2,
+                "3": 115,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5212_mv_1083778617_1684086268102647658.jpg",
+            "submission_id": 293699,
+            "total_vote": 331,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 23,
+                "12": 5,
+                "13": 9,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 64,
+                "22": 44,
+                "23": 1,
+                "24": 14,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 3,
+                "8": 5,
+                "9": 153
+            }
+        },
+        "school_name": "ALİYA İZZETBEGOVİÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2198,
+        "cm_result": {
+            "image_url": "https://source1-secim-images.oyveotesi.org/raw/1000594_cb_3778550_1684083977.jpeg",
+            "submission_id": 227840,
+            "total_vote": 301,
+            "votes": {
+                "1": 176,
+                "3": 123,
+                "4": 2
+            }
+        },
+        "mv_result": null,
+        "school_name": "ALİYA İZZETBEGOVİÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2222,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/b0ff159d-30be-4ef6-8a62-9f69b3a746a8-1684106545139581517.jpg",
+            "submission_id": 803817,
+            "total_vote": 351,
+            "votes": {
+                "1": 201,
+                "2": 1,
+                "3": 133,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d15bf91a-2911-457d-b3f2-33c645b76022-1684106537090071216.jpg",
+            "submission_id": 802765,
+            "total_vote": 343,
+            "votes": {
+                "1": 1,
+                "10": 23,
+                "11": 19,
+                "12": 5,
+                "13": 10,
+                "21": 80,
+                "22": 40,
+                "24": 9,
+                "3": 1,
+                "6": 1,
+                "7": 5,
+                "8": 1,
+                "9": 148
+            }
+        },
+        "school_name": "ALİYA İZZETBEGOVİÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2229,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4e7d5297-4dc7-41b1-bf69-090739d9b0d3-1684105405124198735.jpg",
+            "submission_id": 633689,
+            "total_vote": 342,
+            "votes": {
+                "1": 194,
+                "2": 3,
+                "3": 126,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "ALİYA İZZETBEGOVİÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2221,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/53565_cb_1093778633_1684085767653514862.jpg",
+            "submission_id": 277367,
+            "total_vote": 344,
+            "votes": {
+                "1": 218,
+                "2": 0,
+                "3": 114,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/53565_mv_1083778633_1684086461010786342.jpg",
+            "submission_id": 300091,
+            "total_vote": 339,
+            "votes": {
+                "10": 14,
+                "11": 24,
+                "12": 14,
+                "13": 3,
+                "17": 1,
+                "21": 67,
+                "22": 29,
+                "23": 1,
+                "24": 10,
+                "7": 3,
+                "8": 1,
+                "9": 172
+            }
+        },
+        "school_name": "ALİYA İZZETBEGOVİÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2201,
+        "cm_result": {
+            "image_url": "https://source1-secim-images.oyveotesi.org/raw/1000594_cb_3778553_1684084042.jpeg",
+            "submission_id": 229300,
+            "total_vote": 336,
+            "votes": {
+                "1": 195,
+                "2": 3,
+                "3": 111,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/1dca632b-bfc1-4ec6-95a8-844324e9ebc3-1684105795774200747.jpg",
+            "submission_id": 696864,
+            "total_vote": 333,
+            "votes": {
+                "1": 0,
+                "10": 20,
+                "11": 25,
+                "12": 8,
+                "13": 25,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 56,
+                "22": 28,
+                "23": 2,
+                "24": 15,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 7,
+                "8": 2,
+                "9": 141
+            }
+        },
+        "school_name": "ALİYA İZZETBEGOVİÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2217,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/53565_cb_1093778629_1684087776152246259.jpg",
+            "submission_id": 344847,
+            "total_vote": 345,
+            "votes": {
+                "1": 200,
+                "3": 130,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/53565_mv_1083778629_1684087809192783961.jpg",
+            "submission_id": 345865,
+            "total_vote": 348,
+            "votes": {
+                "1": 1,
+                "10": 18,
+                "11": 21,
+                "12": 13,
+                "13": 12,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 84,
+                "22": 30,
+                "23": 1,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 150
+            }
+        },
+        "school_name": "ALİYA İZZETBEGOVİÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2204,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/53565_cb_1093778616_1684086548473868227.jpg",
+            "submission_id": 303233,
+            "total_vote": 344,
+            "votes": {
+                "1": 184,
+                "2": 0,
+                "3": 145,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/53565_mv_1083778616_1684086583700113363.jpg",
+            "submission_id": 304464,
+            "total_vote": 341,
+            "votes": {
+                "1": 0,
+                "10": 21,
+                "11": 13,
+                "12": 6,
+                "13": 19,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 80,
+                "22": 44,
+                "23": 0,
+                "24": 15,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 2,
+                "9": 138
+            }
+        },
+        "school_name": "ALİYA İZZETBEGOVİÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2199,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/5212_bulk_999999999_1684089854945401177.jpeg",
+            "submission_id": 405889,
+            "total_vote": 312,
+            "votes": {
+                "1": 160,
+                "2": 1,
+                "3": 140,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/5212_bulk_999999999_1684089855030497786.jpeg",
+            "submission_id": 405894,
+            "total_vote": 298,
+            "votes": {
+                "1": 1,
+                "10": 11,
+                "11": 17,
+                "12": 9,
+                "13": 3,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 97,
+                "22": 25,
+                "23": 1,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 0,
+                "9": 125
+            }
+        },
+        "school_name": "ALİYA İZZETBEGOVİÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2203,
+        "cm_result": {
+            "image_url": "https://source1-secim-images.oyveotesi.org/raw/1000594_cb_3778615_1684151359.jpeg",
+            "submission_id": 1021109,
+            "total_vote": 338,
+            "votes": {
+                "1": 181,
+                "2": 2,
+                "3": 127,
+                "4": 28
+            }
+        },
+        "mv_result": null,
+        "school_name": "ALİYA İZZETBEGOVİÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2220,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7f61eb6b-8314-4f80-90d6-6d6d4e39c6b8-1684105314395334886.jpg",
+            "submission_id": 617147,
+            "total_vote": 337,
+            "votes": {
+                "1": 197,
+                "2": 1,
+                "3": 111,
+                "4": 28
+            }
+        },
+        "mv_result": null,
+        "school_name": "ALİYA İZZETBEGOVİÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2228,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/5212_bulk_999999999_1684094909021891239.jpeg",
+            "submission_id": 497590,
+            "total_vote": 340,
+            "votes": {
+                "1": 1,
+                "10": 10,
+                "11": 23,
+                "12": 9,
+                "13": 8,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 75,
+                "22": 36,
+                "23": 0,
+                "24": 17,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 3,
+                "8": 3,
+                "9": 153
+            }
+        },
+        "school_name": "ALİYA İZZETBEGOVİÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2213,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/53565_cb_1093778625_1684083364765211344.jpg",
+            "submission_id": 215189,
+            "total_vote": 338,
+            "votes": {
+                "1": 194,
+                "3": 118,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/53565_mv_1083778625_1684084986905172087.jpg",
+            "submission_id": 253771,
+            "total_vote": 333,
+            "votes": {
+                "1": 2,
+                "10": 11,
+                "11": 17,
+                "12": 8,
+                "13": 8,
+                "14": 1,
+                "15": 1,
+                "20": 1,
+                "21": 62,
+                "22": 40,
+                "24": 17,
+                "3": 1,
+                "6": 2,
+                "7": 2,
+                "8": 3,
+                "9": 157
+            }
+        },
+        "school_name": "ALİYA İZZETBEGOVİÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2226,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4076b220-9c36-44da-9816-d66c81dc1b51-1684105543157534455.jpg",
+            "submission_id": 656338,
+            "total_vote": 350,
+            "votes": {
+                "1": 207,
+                "2": 1,
+                "3": 120,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/5212_bulk_999999999_1684094908925052558.jpeg",
+            "submission_id": 497589,
+            "total_vote": 341,
+            "votes": {
+                "10": 13,
+                "11": 25,
+                "12": 9,
+                "13": 11,
+                "21": 60,
+                "22": 46,
+                "23": 2,
+                "24": 9,
+                "6": 1,
+                "7": 6,
+                "8": 1,
+                "9": 158
+            }
+        },
+        "school_name": "ALİYA İZZETBEGOVİÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2209,
+        "cm_result": {
+            "image_url": "https://source1-secim-images.oyveotesi.org/raw/1000594_cb_3778621_1684084165.jpeg",
+            "submission_id": 232231,
+            "total_vote": 338,
+            "votes": {
+                "1": 195,
+                "2": 2,
+                "3": 129,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5212_mv_1083778621_1684087421771809662.jpg",
+            "submission_id": 333382,
+            "total_vote": 333,
+            "votes": {
+                "10": 16,
+                "11": 13,
+                "12": 15,
+                "13": 16,
+                "15": 1,
+                "20": 1,
+                "21": 50,
+                "22": 36,
+                "23": 1,
+                "24": 10,
+                "6": 1,
+                "8": 4,
+                "9": 169
+            }
+        },
+        "school_name": "ALİYA İZZETBEGOVİÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2219,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/5212_bulk_999999999_1684095666214294410.jpeg",
+            "submission_id": 505515,
+            "total_vote": 351,
+            "votes": {
+                "1": 214,
+                "3": 114,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/5212_bulk_999999999_1684094777616130966.jpeg",
+            "submission_id": 496051,
+            "total_vote": 348,
+            "votes": {
+                "10": 20,
+                "11": 15,
+                "12": 8,
+                "13": 13,
+                "21": 65,
+                "22": 29,
+                "23": 2,
+                "24": 13,
+                "6": 5,
+                "7": 7,
+                "8": 4,
+                "9": 167
+            }
+        },
+        "school_name": "ALİYA İZZETBEGOVİÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2218,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5212_cb_1093778630_1684086205530461267.jpg",
+            "submission_id": 291601,
+            "total_vote": 332,
+            "votes": {
+                "1": 196,
+                "2": 0,
+                "3": 107,
+                "4": 29
+            }
+        },
+        "mv_result": null,
+        "school_name": "ALİYA İZZETBEGOVİÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2197,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8d204d9c-d51b-456f-8d72-a86309214a11-1684105618676360701.jpg",
+            "submission_id": 668112,
+            "total_vote": 296,
+            "votes": {
+                "1": 160,
+                "2": 4,
+                "3": 115,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/5212_bulk_999999999_1684094576220239357.jpeg",
+            "submission_id": 493674,
+            "total_vote": 290,
+            "votes": {
+                "1": 1,
+                "10": 5,
+                "11": 15,
+                "12": 8,
+                "13": 2,
+                "14": 1,
+                "15": 2,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 76,
+                "22": 31,
+                "23": 0,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 4,
+                "9": 132
+            }
+        },
+        "school_name": "ALİYA İZZETBEGOVİÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2202,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/53565_cb_1093778554_1684086694151033956.jpg",
+            "submission_id": 308311,
+            "total_vote": 349,
+            "votes": {
+                "1": 208,
+                "2": 0,
+                "3": 121,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "ALİYA İZZETBEGOVİÇ İLKOKULU"
+    }
+]

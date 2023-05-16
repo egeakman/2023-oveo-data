@@ -1,0 +1,527 @@
+[
+    {
+        "ballot_box_number": 1040,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/67543_cb_1093677687_1684083735907274609.jpg",
+            "submission_id": 222616,
+            "total_vote": 327,
+            "votes": {
+                "1": 214,
+                "2": 2,
+                "3": 95,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/77795_mv_1083677687_1684090389413480420.jpg",
+            "submission_id": 418840,
+            "total_vote": 312,
+            "votes": {
+                "10": 22,
+                "11": 27,
+                "12": 32,
+                "13": 4,
+                "18": 1,
+                "2": 1,
+                "21": 43,
+                "22": 10,
+                "24": 10,
+                "4": 1,
+                "6": 1,
+                "7": 3,
+                "8": 3,
+                "9": 154
+            }
+        },
+        "school_name": "MELAHAT ÖZTOPRAK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1047,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/67543_bulk_999999999_1684082688331702364.jpeg",
+            "submission_id": 203652,
+            "total_vote": 331,
+            "votes": {
+                "1": 240,
+                "3": 85,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/67543_bulk_999999999_1684082688441021734.jpeg",
+            "submission_id": 203657,
+            "total_vote": 313,
+            "votes": {
+                "1": 0,
+                "10": 31,
+                "11": 21,
+                "12": 38,
+                "13": 4,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 31,
+                "22": 8,
+                "23": 0,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 2,
+                "9": 171
+            }
+        },
+        "school_name": "MELAHAT ÖZTOPRAK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1033,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/77795_bulk_999999999_1684089740671061050.jpg",
+            "submission_id": 402860,
+            "total_vote": 301,
+            "votes": {
+                "1": 220,
+                "2": 2,
+                "3": 71,
+                "4": 8
+            }
+        },
+        "mv_result": null,
+        "school_name": "MELAHAT ÖZTOPRAK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1046,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/71855_cb_1093677693_1684087921695507009.jpg",
+            "submission_id": 349351,
+            "total_vote": 333,
+            "votes": {
+                "1": 227,
+                "2": 3,
+                "3": 87,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/71855_mv_1083677693_1684088128635728205.jpg",
+            "submission_id": 356119,
+            "total_vote": 329,
+            "votes": {
+                "10": 26,
+                "11": 19,
+                "12": 33,
+                "13": 4,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 39,
+                "22": 15,
+                "23": 0,
+                "24": 13,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 2,
+                "9": 174
+            }
+        },
+        "school_name": "MELAHAT ÖZTOPRAK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1043,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/77795_bulk_999999999_1684089485308055950.jpg",
+            "submission_id": 395837,
+            "total_vote": 334,
+            "votes": {
+                "1": 223,
+                "2": 2,
+                "3": 99,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/77795_bulk_999999999_1684089485393880805.jpg",
+            "submission_id": 395841,
+            "total_vote": 315,
+            "votes": {
+                "10": 23,
+                "11": 16,
+                "12": 41,
+                "13": 8,
+                "15": 1,
+                "21": 41,
+                "22": 11,
+                "23": 3,
+                "24": 12,
+                "7": 4,
+                "9": 155
+            }
+        },
+        "school_name": "MELAHAT ÖZTOPRAK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1037,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/77795_cb_1093677684_1684085836784032629.jpg",
+            "submission_id": 279686,
+            "total_vote": 324,
+            "votes": {
+                "1": 234,
+                "2": 1,
+                "3": 70,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "MELAHAT ÖZTOPRAK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1038,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/77795_cb_1093677685_1684087249101442862.jpg",
+            "submission_id": 327652,
+            "total_vote": 336,
+            "votes": {
+                "1": 225,
+                "2": 1,
+                "3": 98,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/77795_mv_1083677685_1684087179632727502.jpg",
+            "submission_id": 325299,
+            "total_vote": 317,
+            "votes": {
+                "1": 0,
+                "10": 23,
+                "11": 13,
+                "12": 42,
+                "13": 5,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 38,
+                "22": 41,
+                "23": 1,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 7,
+                "8": 1,
+                "9": 140
+            }
+        },
+        "school_name": "MELAHAT ÖZTOPRAK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1034,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/77795_bulk_999999999_1684085209890230908.jpg",
+            "submission_id": 260158,
+            "total_vote": 301,
+            "votes": {
+                "1": 207,
+                "2": 4,
+                "3": 81,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/77795_mv_1083677681_1684087462512710979.jpg",
+            "submission_id": 334682,
+            "total_vote": 292,
+            "votes": {
+                "1": 0,
+                "10": 10,
+                "11": 23,
+                "12": 33,
+                "13": 5,
+                "14": 2,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 32,
+                "22": 12,
+                "23": 5,
+                "24": 6,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 157
+            }
+        },
+        "school_name": "MELAHAT ÖZTOPRAK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1041,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/77795_bulk_999999999_1684092011459784146.jpg",
+            "submission_id": 449498,
+            "total_vote": 333,
+            "votes": {
+                "1": 234,
+                "3": 85,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/77795_bulk_999999999_1684092011531106559.jpg",
+            "submission_id": 449507,
+            "total_vote": 321,
+            "votes": {
+                "10": 31,
+                "11": 26,
+                "12": 30,
+                "13": 8,
+                "14": 3,
+                "15": 1,
+                "19": 2,
+                "21": 30,
+                "22": 13,
+                "24": 9,
+                "5": 2,
+                "6": 1,
+                "7": 2,
+                "8": 3,
+                "9": 160
+            }
+        },
+        "school_name": "MELAHAT ÖZTOPRAK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1035,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/77795_bulk_999999999_1684082186983201667.jpg",
+            "submission_id": 196875,
+            "total_vote": 321,
+            "votes": {
+                "1": 233,
+                "2": 0,
+                "3": 72,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "MELAHAT ÖZTOPRAK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1036,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/77795_cb_1093677683_1684087490255388640.jpg",
+            "submission_id": 335580,
+            "total_vote": 333,
+            "votes": {
+                "1": 241,
+                "3": 80,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/77795_bulk_999999999_1684084879951940665.jpg",
+            "submission_id": 250739,
+            "total_vote": 316,
+            "votes": {
+                "10": 13,
+                "11": 24,
+                "12": 29,
+                "13": 5,
+                "21": 35,
+                "22": 13,
+                "24": 10,
+                "3": 1,
+                "6": 1,
+                "7": 4,
+                "8": 4,
+                "9": 177
+            }
+        },
+        "school_name": "MELAHAT ÖZTOPRAK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1042,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/77795_cb_1093677689_1684087361147854215.jpg",
+            "submission_id": 331379,
+            "total_vote": 333,
+            "votes": {
+                "1": 254,
+                "2": 0,
+                "3": 73,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/77795_mv_1083677689_1684087340023362172.jpg",
+            "submission_id": 330674,
+            "total_vote": 311,
+            "votes": {
+                "10": 19,
+                "11": 19,
+                "12": 14,
+                "13": 10,
+                "14": 1,
+                "15": 1,
+                "20": 1,
+                "21": 32,
+                "22": 12,
+                "24": 5,
+                "7": 3,
+                "8": 4,
+                "9": 190
+            }
+        },
+        "school_name": "MELAHAT ÖZTOPRAK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1039,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/77795_cb_1093677686_1684085859235010056.jpg",
+            "submission_id": 280447,
+            "total_vote": 328,
+            "votes": {
+                "1": 216,
+                "2": 1,
+                "3": 95,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/77795_mv_1083677686_1684090713641828219.jpg",
+            "submission_id": 425846,
+            "total_vote": 312,
+            "votes": {
+                "1": 0,
+                "10": 24,
+                "11": 8,
+                "12": 30,
+                "13": 9,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 38,
+                "22": 10,
+                "23": 0,
+                "24": 20,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 170
+            }
+        },
+        "school_name": "MELAHAT ÖZTOPRAK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1044,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/77795_bulk_999999999_1684081835947791760.jpg",
+            "submission_id": 192818,
+            "total_vote": 331,
+            "votes": {
+                "1": 231,
+                "2": 1,
+                "3": 91,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/67543_mv_1083677691_1684083527090255815.jpg",
+            "submission_id": 218322,
+            "total_vote": 315,
+            "votes": {
+                "10": 27,
+                "11": 21,
+                "12": 34,
+                "13": 4,
+                "18": 1,
+                "20": 35,
+                "22": 13,
+                "23": 3,
+                "3": 1,
+                "7": 3,
+                "8": 6,
+                "9": 167
+            }
+        },
+        "school_name": "MELAHAT ÖZTOPRAK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1045,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/71855_bulk_999999999_1684090016832876200.jpeg",
+            "submission_id": 410159,
+            "total_vote": 325,
+            "votes": {
+                "1": 230,
+                "2": 1,
+                "3": 83,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/71855_bulk_999999999_1684090016743118506.jpeg",
+            "submission_id": 410158,
+            "total_vote": 310,
+            "votes": {
+                "1": 0,
+                "10": 22,
+                "11": 29,
+                "12": 39,
+                "13": 5,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "21": 34,
+                "22": 10,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 1,
+                "9": 155
+            }
+        },
+        "school_name": "MELAHAT ÖZTOPRAK İLKOKULU"
+    }
+]

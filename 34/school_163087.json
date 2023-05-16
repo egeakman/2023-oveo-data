@@ -1,0 +1,33 @@
+[
+    {
+        "ballot_box_number": 1322,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/46746_bulk_999999999_1684090850164558507.jpg",
+            "submission_id": 428784,
+            "total_vote": 204,
+            "votes": {
+                "1": 151,
+                "2": 0,
+                "3": 47,
+                "4": 6
+            }
+        },
+        "mv_result": null,
+        "school_name": "KILIÇLI DAYANIŞMA VE KÜLTÜR DERNEGİ"
+    },
+    {
+        "ballot_box_number": 1323,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/46746_bulk_999999999_1684090671799242123.jpg",
+            "submission_id": 424992,
+            "total_vote": 217,
+            "votes": {
+                "1": 144,
+                "3": 55,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "KILIÇLI DAYANIŞMA VE KÜLTÜR DERNEGİ"
+    }
+]

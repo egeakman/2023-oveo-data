@@ -1,0 +1,53 @@
+[
+    {
+        "ballot_box_number": 1111,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/48866_bulk_999999999_1684084374220244072.jpg",
+            "submission_id": 237333,
+            "total_vote": 325,
+            "votes": {
+                "1": 188,
+                "2": 3,
+                "3": 130,
+                "4": 4
+            }
+        },
+        "mv_result": null,
+        "school_name": "İNCEĞİZ ARİF NİHAT ASYA YAŞAM MERKEZİ"
+    },
+    {
+        "ballot_box_number": 1112,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/24141_bulk_999999999_1684084661172368375.jpg",
+            "submission_id": 244830,
+            "total_vote": 337,
+            "votes": {
+                "1": 156,
+                "2": 4,
+                "3": 158,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/24141_bulk_999999999_1684084661056086999.jpg",
+            "submission_id": 244825,
+            "total_vote": 325,
+            "votes": {
+                "1": 1,
+                "10": 6,
+                "11": 31,
+                "12": 8,
+                "13": 3,
+                "21": 82,
+                "22": 61,
+                "24": 3,
+                "4": 1,
+                "6": 4,
+                "7": 3,
+                "8": 3,
+                "9": 119
+            }
+        },
+        "school_name": "İNCEĞİZ ARİF NİHAT ASYA YAŞAM MERKEZİ"
+    }
+]

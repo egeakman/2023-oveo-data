@@ -1,0 +1,406 @@
+[
+    {
+        "ballot_box_number": 2119,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16872_cb_1093669097_1684083384857831008.jpg",
+            "submission_id": 215612,
+            "total_vote": 300,
+            "votes": {
+                "1": 85,
+                "2": 1,
+                "3": 208,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/50218_mv_1083669097_1684087903901829307.jpg",
+            "submission_id": 348816,
+            "total_vote": 294,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 6,
+                "12": 10,
+                "13": 9,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 142,
+                "22": 38,
+                "23": 1,
+                "24": 8,
+                "3": 1,
+                "4": 2,
+                "5": 1,
+                "6": 0,
+                "7": 1,
+                "8": 3,
+                "9": 66
+            }
+        },
+        "school_name": "KARACAPAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2118,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/32365_cb_1093669096_1684081040946035085.jpg",
+            "submission_id": 185625,
+            "total_vote": 294,
+            "votes": {
+                "1": 100,
+                "2": 2,
+                "3": 187,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/32365_mv_1083669096_1684087551366006790.jpg",
+            "submission_id": 337525,
+            "total_vote": 297,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 6,
+                "12": 2,
+                "13": 3,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 164,
+                "22": 26,
+                "23": 2,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 0,
+                "9": 79
+            }
+        },
+        "school_name": "KARACAPAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2125,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16872_cb_1093669103_1684084948566066445.jpg",
+            "submission_id": 252636,
+            "total_vote": 329,
+            "votes": {
+                "1": 116,
+                "2": 2,
+                "3": 192,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/16872_bulk_999999999_1684092353188770285.jpeg",
+            "submission_id": 454995,
+            "total_vote": 321,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 22,
+                "12": 19,
+                "13": 19,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "19": 0,
+                "21": 123,
+                "23": 2,
+                "24": 41,
+                "4": 0,
+                "6": 0,
+                "7": 3,
+                "8": 2,
+                "9": 89
+            }
+        },
+        "school_name": "KARACAPAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2127,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/43567_cb_1093669105_1684081079798690962.jpg",
+            "submission_id": 185913,
+            "total_vote": 322,
+            "votes": {
+                "1": 119,
+                "2": 0,
+                "3": 186,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/43567_bulk_999999999_1684092592309563614.jpeg",
+            "submission_id": 458605,
+            "total_vote": 324,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 25,
+                "12": 9,
+                "13": 22,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 128,
+                "22": 22,
+                "23": 0,
+                "24": 9,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 4,
+                "8": 0,
+                "9": 98
+            }
+        },
+        "school_name": "KARACAPAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2121,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16872_cb_1093669099_1684086981839867540.jpg",
+            "submission_id": 318301,
+            "total_vote": 316,
+            "votes": {
+                "1": 126,
+                "2": 1,
+                "3": 166,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16872_mv_1083669099_1684087088869428361.jpg",
+            "submission_id": 322153,
+            "total_vote": 310,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 20,
+                "12": 16,
+                "13": 24,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 1,
+                "21": 99,
+                "22": 28,
+                "23": 2,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 5,
+                "8": 0,
+                "9": 100
+            }
+        },
+        "school_name": "KARACAPAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2126,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/43044_bulk_999999999_1684089514572858607.jpg",
+            "submission_id": 396598,
+            "total_vote": 326,
+            "votes": {
+                "1": 120,
+                "2": 1,
+                "3": 190,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/43044_bulk_999999999_1684088465190226553.jpg",
+            "submission_id": 366405,
+            "total_vote": 322,
+            "votes": {
+                "10": 5,
+                "11": 14,
+                "12": 15,
+                "13": 18,
+                "21": 130,
+                "22": 28,
+                "24": 8,
+                "3": 3,
+                "6": 2,
+                "7": 3,
+                "8": 4,
+                "9": 92
+            }
+        },
+        "school_name": "KARACAPAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2123,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/18494_cb_1093669101_1684084012126286957.jpg",
+            "submission_id": 228386,
+            "total_vote": 324,
+            "votes": {
+                "1": 125,
+                "2": 1,
+                "3": 181,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/18494_mv_1083669101_1684091083041963590.jpg",
+            "submission_id": 433604,
+            "total_vote": 324,
+            "votes": {
+                "1": 0,
+                "10": 20,
+                "11": 3,
+                "12": 0,
+                "13": 0,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 123,
+                "22": 33,
+                "23": 1,
+                "24": 40,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 2,
+                "9": 95
+            }
+        },
+        "school_name": "KARACAPAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2120,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/32484_cb_1093669098_1684089583581614497.jpg",
+            "submission_id": 398628,
+            "total_vote": 329,
+            "votes": {
+                "1": 125,
+                "2": 0,
+                "3": 187,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/32484_mv_1083669098_1684089156014980244.jpg",
+            "submission_id": 386886,
+            "total_vote": 325,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 10,
+                "12": 15,
+                "13": 11,
+                "14": 2,
+                "21": 129,
+                "22": 32,
+                "23": 2,
+                "24": 11,
+                "7": 1,
+                "8": 1,
+                "9": 107
+            }
+        },
+        "school_name": "KARACAPAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2124,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/15687_cb_1093669102_1684084786100519391.jpg",
+            "submission_id": 248155,
+            "total_vote": 328,
+            "votes": {
+                "1": 135,
+                "3": 183,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/15687_mv_1083669102_1684090377792862469.jpg",
+            "submission_id": 418588,
+            "total_vote": 327,
+            "votes": {
+                "10": 7,
+                "11": 19,
+                "12": 12,
+                "13": 10,
+                "21": 129,
+                "22": 34,
+                "23": 1,
+                "24": 9,
+                "6": 1,
+                "7": 2,
+                "9": 103
+            }
+        },
+        "school_name": "KARACAPAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2122,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/22374_cb_1093669100_1684082056816091094.jpg",
+            "submission_id": 195307,
+            "total_vote": 332,
+            "votes": {
+                "1": 121,
+                "2": 1,
+                "3": 191,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/22374_mv_1083669100_1684090545934959332.jpg",
+            "submission_id": 422480,
+            "total_vote": 322,
+            "votes": {
+                "10": 6,
+                "11": 19,
+                "12": 12,
+                "13": 16,
+                "21": 140,
+                "22": 21,
+                "23": 2,
+                "24": 9,
+                "6": 1,
+                "8": 2,
+                "9": 94
+            }
+        },
+        "school_name": "KARACAPAŞA İLKOKULU"
+    }
+]

@@ -1,0 +1,395 @@
+[
+    {
+        "ballot_box_number": 3235,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/33337_bulk_999999999_1684085278676724223.jpeg",
+            "submission_id": 262127,
+            "total_vote": 337,
+            "votes": {
+                "1": 201,
+                "2": 0,
+                "3": 129,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÜSKÜDAR İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3226,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/33611_mv_1083783500_1684085727758042843.jpg",
+            "submission_id": 275988,
+            "total_vote": 333,
+            "votes": {
+                "1": 169,
+                "3": 147,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/33611_cb_1093783500_1684085697387004396.jpg",
+            "submission_id": 274964,
+            "total_vote": 329,
+            "votes": {
+                "10": 7,
+                "11": 22,
+                "12": 14,
+                "13": 10,
+                "14": 2,
+                "15": 2,
+                "19": 1,
+                "21": 82,
+                "22": 34,
+                "23": 1,
+                "24": 13,
+                "3": 3,
+                "5": 1,
+                "6": 1,
+                "7": 3,
+                "8": 2,
+                "9": 131
+            }
+        },
+        "school_name": "ÜSKÜDAR İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3232,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11256_cb_1093783506_1684079539478567252.jpg",
+            "submission_id": 177380,
+            "total_vote": 340,
+            "votes": {
+                "1": 201,
+                "2": 1,
+                "3": 122,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÜSKÜDAR İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3227,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/19326_cb_1093783501_1684087558887766633.jpg",
+            "submission_id": 337791,
+            "total_vote": 333,
+            "votes": {
+                "1": 190,
+                "2": 1,
+                "3": 127,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/19326_mv_1083783501_1684087608577610161.jpg",
+            "submission_id": 339344,
+            "total_vote": 331,
+            "votes": {
+                "10": 13,
+                "11": 28,
+                "12": 22,
+                "13": 8,
+                "14": 1,
+                "21": 66,
+                "22": 32,
+                "24": 9,
+                "5": 1,
+                "7": 1,
+                "8": 4,
+                "9": 146
+            }
+        },
+        "school_name": "ÜSKÜDAR İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3234,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/40487_bulk_999999999_1684086184400750889.jpeg",
+            "submission_id": 290918,
+            "total_vote": 335,
+            "votes": {
+                "1": 176,
+                "2": 3,
+                "3": 139,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÜSKÜDAR İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3222,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/7797_cb_1093783496_1684084212194224069.jpg",
+            "submission_id": 233173,
+            "total_vote": 305,
+            "votes": {
+                "1": 178,
+                "2": 1,
+                "3": 111,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/7797_mv_1083783496_1684084238645952941.jpg",
+            "submission_id": 233970,
+            "total_vote": 296,
+            "votes": {
+                "10": 6,
+                "11": 25,
+                "12": 17,
+                "13": 7,
+                "21": 58,
+                "22": 25,
+                "23": 2,
+                "24": 4,
+                "3": 2,
+                "6": 1,
+                "7": 6,
+                "8": 7,
+                "9": 136
+            }
+        },
+        "school_name": "ÜSKÜDAR İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3228,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/12390_bulk_999999999_1684087600965619184.jpg",
+            "submission_id": 339105,
+            "total_vote": 344,
+            "votes": {
+                "1": 202,
+                "2": 0,
+                "3": 125,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/12390_bulk_999999999_1684087600882748957.jpg",
+            "submission_id": 339101,
+            "total_vote": 341,
+            "votes": {
+                "10": 16,
+                "11": 18,
+                "13": 8,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "20": 0,
+                "21": 85,
+                "22": 27,
+                "24": 11,
+                "5": 9,
+                "6": 2,
+                "7": 5,
+                "8": 3,
+                "9": 155
+            }
+        },
+        "school_name": "ÜSKÜDAR İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3231,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/40083_cb_1093783505_1684083247284173511.jpg",
+            "submission_id": 213008,
+            "total_vote": 336,
+            "votes": {
+                "1": 193,
+                "2": 2,
+                "3": 123,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÜSKÜDAR İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3230,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11197_cb_1093783504_1684084175538024200.jpg",
+            "submission_id": 232202,
+            "total_vote": 330,
+            "votes": {
+                "1": 182,
+                "2": 1,
+                "3": 122,
+                "4": 25
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÜSKÜDAR İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3225,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/63dd833c-c426-4f7d-aeb0-026090b30ad9-1684105802936880592.jpeg",
+            "submission_id": 697749,
+            "total_vote": 336,
+            "votes": {
+                "1": 183,
+                "2": 2,
+                "3": 137,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÜSKÜDAR İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3233,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/36482_bulk_999999999_1684086761174225756.jpeg",
+            "submission_id": 310711,
+            "total_vote": 337,
+            "votes": {
+                "1": 204,
+                "3": 107,
+                "4": 26
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÜSKÜDAR İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3223,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11403_cb_1093783497_1684088021793730673.jpg",
+            "submission_id": 352662,
+            "total_vote": 316,
+            "votes": {
+                "1": 196,
+                "3": 105,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11403_mv_1083783497_1684088391080945412.jpg",
+            "submission_id": 364130,
+            "total_vote": 307,
+            "votes": {
+                "1": 0,
+                "10": 9,
+                "11": 16,
+                "12": 13,
+                "13": 7,
+                "14": 2,
+                "15": 0,
+                "16": 0,
+                "17": 2,
+                "18": 0,
+                "19": 0,
+                "2": 2,
+                "20": 0,
+                "21": 65,
+                "22": 18,
+                "23": 0,
+                "24": 12,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 3,
+                "9": 156
+            }
+        },
+        "school_name": "ÜSKÜDAR İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3224,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11370_cb_1093783498_1684084076084687248.jpg",
+            "submission_id": 229834,
+            "total_vote": 339,
+            "votes": {
+                "1": 193,
+                "3": 129,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11370_mv_1083783498_1684088496747791160.jpg",
+            "submission_id": 367378,
+            "total_vote": 339,
+            "votes": {
+                "1": 0,
+                "10": 18,
+                "11": 38,
+                "12": 18,
+                "13": 14,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 72,
+                "22": 27,
+                "23": 0,
+                "24": 9,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 3,
+                "9": 135
+            }
+        },
+        "school_name": "ÜSKÜDAR İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3229,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/9200_bulk_999999999_1684083330083561420.jpeg",
+            "submission_id": 214485,
+            "total_vote": 335,
+            "votes": {
+                "1": 203,
+                "3": 118,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/9200_mv_1083783503_1684083813225911097.jpg",
+            "submission_id": 224306,
+            "total_vote": 337,
+            "votes": {
+                "1": 0,
+                "10": 16,
+                "11": 25,
+                "12": 3,
+                "13": 4,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 0,
+                "21": 80,
+                "22": 32,
+                "23": 1,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 2,
+                "8": 0,
+                "9": 162
+            }
+        },
+        "school_name": "ÜSKÜDAR İMAM HATİP ORTAOKULU"
+    }
+]

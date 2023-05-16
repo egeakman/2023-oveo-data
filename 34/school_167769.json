@@ -1,0 +1,664 @@
+[
+    {
+        "ballot_box_number": 2206,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/34559_bulk_999999999_1684095269989859286.jpeg",
+            "submission_id": 501404,
+            "total_vote": 355,
+            "votes": {
+                "1": 217,
+                "2": 2,
+                "3": 113,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/34559_bulk_999999999_1684095121587908503.jpeg",
+            "submission_id": 499883,
+            "total_vote": 349,
+            "votes": {
+                "1": 1,
+                "10": 15,
+                "11": 23,
+                "12": 3,
+                "13": 25,
+                "14": 2,
+                "21": 53,
+                "22": 33,
+                "24": 18,
+                "4": 1,
+                "5": 3,
+                "6": 1,
+                "7": 7,
+                "8": 4,
+                "9": 160
+            }
+        },
+        "school_name": "ŞEHİT GÖKHAN ESEN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2197,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/36615_cb_1093783125_1684085157827667797.jpg",
+            "submission_id": 258600,
+            "total_vote": 330,
+            "votes": {
+                "1": 201,
+                "3": 119,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/36615_mv_1083783126_1684086245530914750.jpg",
+            "submission_id": 292899,
+            "total_vote": 318,
+            "votes": {
+                "1": 1,
+                "10": 8,
+                "11": 22,
+                "12": 4,
+                "13": 5,
+                "14": 1,
+                "15": 1,
+                "20": 1,
+                "21": 80,
+                "22": 27,
+                "23": 2,
+                "24": 6,
+                "3": 1,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "8": 6,
+                "9": 149
+            }
+        },
+        "school_name": "ŞEHİT GÖKHAN ESEN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2216,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/48141_cb_1093783264_1684083922692269860.jpg",
+            "submission_id": 226543,
+            "total_vote": 354,
+            "votes": {
+                "1": 197,
+                "2": 1,
+                "3": 137,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/48141_mv_1083783264_1684084239951647219.jpg",
+            "submission_id": 234012,
+            "total_vote": 352,
+            "votes": {
+                "10": 12,
+                "11": 31,
+                "12": 13,
+                "13": 10,
+                "21": 82,
+                "22": 28,
+                "24": 11,
+                "7": 6,
+                "8": 3,
+                "9": 156
+            }
+        },
+        "school_name": "ŞEHİT GÖKHAN ESEN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2204,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/79985_bulk_999999999_1684086843291837931.jpeg",
+            "submission_id": 313525,
+            "total_vote": 347,
+            "votes": {
+                "1": 217,
+                "2": 1,
+                "3": 113,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/79985_bulk_999999999_1684086843186531565.jpeg",
+            "submission_id": 313519,
+            "total_vote": 343,
+            "votes": {
+                "10": 16,
+                "11": 20,
+                "12": 11,
+                "13": 10,
+                "15": 1,
+                "21": 73,
+                "22": 21,
+                "23": 3,
+                "24": 9,
+                "3": 2,
+                "7": 2,
+                "8": 7,
+                "9": 168
+            }
+        },
+        "school_name": "ŞEHİT GÖKHAN ESEN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2200,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/2137_bulk_999999999_1684094494882677245.jpg",
+            "submission_id": 492592,
+            "total_vote": 350,
+            "votes": {
+                "1": 183,
+                "2": 1,
+                "3": 147,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/2137_bulk_999999999_1684095647497458843.jpg",
+            "submission_id": 505306,
+            "total_vote": 341,
+            "votes": {
+                "1": 3,
+                "10": 4,
+                "11": 29,
+                "12": 10,
+                "13": 3,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 97,
+                "22": 33,
+                "23": 1,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 8,
+                "7": 6,
+                "8": 3,
+                "9": 137
+            }
+        },
+        "school_name": "ŞEHİT GÖKHAN ESEN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2201,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/34559_bulk_999999999_1684085986056079687.jpeg",
+            "submission_id": 284523,
+            "total_vote": 344,
+            "votes": {
+                "1": 182,
+                "3": 142,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/34559_mv_1083783129_1684086062056663737.jpg",
+            "submission_id": 286941,
+            "total_vote": 339,
+            "votes": {
+                "1": 1,
+                "10": 11,
+                "11": 26,
+                "12": 15,
+                "13": 6,
+                "15": 2,
+                "21": 94,
+                "22": 20,
+                "23": 1,
+                "24": 10,
+                "4": 1,
+                "6": 1,
+                "7": 8,
+                "8": 7,
+                "9": 136
+            }
+        },
+        "school_name": "ŞEHİT GÖKHAN ESEN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2207,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/18325_cb_1093783255_1684080516725534231.jpg",
+            "submission_id": 182161,
+            "total_vote": 352,
+            "votes": {
+                "1": 204,
+                "2": 1,
+                "3": 123,
+                "4": 24
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT GÖKHAN ESEN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2210,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/34559_bulk_999999999_1684096041223015866.jpeg",
+            "submission_id": 508999,
+            "total_vote": 335,
+            "votes": {
+                "1": 190,
+                "2": 2,
+                "3": 133,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT GÖKHAN ESEN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2198,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/2137_bulk_999999999_1684094670140184174.jpg",
+            "submission_id": 494762,
+            "total_vote": 295,
+            "votes": {
+                "1": 199,
+                "2": 2,
+                "3": 82,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/2137_bulk_999999999_1684094670000376550.jpg",
+            "submission_id": 494761,
+            "total_vote": 291,
+            "votes": {
+                "10": 9,
+                "11": 20,
+                "12": 5,
+                "13": 5,
+                "15": 2,
+                "17": 3,
+                "19": 1,
+                "21": 52,
+                "22": 16,
+                "23": 1,
+                "24": 5,
+                "6": 1,
+                "7": 2,
+                "8": 3,
+                "9": 166
+            }
+        },
+        "school_name": "ŞEHİT GÖKHAN ESEN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2208,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/75035_cb_1093783256_1684090922564892079.jpg",
+            "submission_id": 430311,
+            "total_vote": 348,
+            "votes": {
+                "1": 239,
+                "3": 97,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/75035_mv_1083783256_1684090953646347772.jpg",
+            "submission_id": 430999,
+            "total_vote": 340,
+            "votes": {
+                "10": 12,
+                "11": 25,
+                "13": 16,
+                "14": 1,
+                "15": 1,
+                "16": 1,
+                "19": 4,
+                "21": 64,
+                "22": 21,
+                "24": 3,
+                "7": 7,
+                "8": 3,
+                "9": 182
+            }
+        },
+        "school_name": "ŞEHİT GÖKHAN ESEN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2209,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d02d8a65-9673-429e-961c-e476fc66575a-1684105274543952026.jpeg",
+            "submission_id": 608668,
+            "total_vote": 338,
+            "votes": {
+                "1": 179,
+                "2": 0,
+                "3": 133,
+                "4": 26
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT GÖKHAN ESEN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2199,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/19601_cb_1093783127_1684091585416125658.jpg",
+            "submission_id": 442575,
+            "total_vote": 321,
+            "votes": {
+                "1": 199,
+                "3": 115,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/19601_mv_1083783127_1684091623631002575.jpg",
+            "submission_id": 443180,
+            "total_vote": 322,
+            "votes": {
+                "1": 0,
+                "10": 10,
+                "11": 8,
+                "12": 2,
+                "13": 8,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 78,
+                "22": 21,
+                "23": 2,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 7,
+                "9": 173
+            }
+        },
+        "school_name": "ŞEHİT GÖKHAN ESEN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2212,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/23a06d69-59a0-4af1-acfb-3dfef8690d80-1684106341533998718.jpg",
+            "submission_id": 774822,
+            "total_vote": 344,
+            "votes": {
+                "1": 201,
+                "2": 1,
+                "3": 118,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f7b6e551-8070-4e6c-96ad-e2962f1f43c4-1684105158137271707.jpeg",
+            "submission_id": 584422,
+            "total_vote": 340,
+            "votes": {
+                "1": 0,
+                "10": 18,
+                "11": 23,
+                "12": 17,
+                "13": 7,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 65,
+                "22": 29,
+                "23": 1,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 2,
+                "9": 160
+            }
+        },
+        "school_name": "ŞEHİT GÖKHAN ESEN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2211,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/2137_bulk_999999999_1684094495611550564.jpg",
+            "submission_id": 492607,
+            "total_vote": 343,
+            "votes": {
+                "1": 200,
+                "2": 0,
+                "3": 137,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/2137_bulk_999999999_1684095282367171796.jpg",
+            "submission_id": 501520,
+            "total_vote": 335,
+            "votes": {
+                "1": 0,
+                "10": 13,
+                "11": 18,
+                "12": 3,
+                "13": 21,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 83,
+                "22": 23,
+                "23": 0,
+                "24": 5,
+                "3": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 3,
+                "9": 160
+            }
+        },
+        "school_name": "ŞEHİT GÖKHAN ESEN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2217,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c1d25565-4c04-44f0-8e50-1da19cee7d39-1684105166034162995.jpeg",
+            "submission_id": 586236,
+            "total_vote": 338,
+            "votes": {
+                "1": 207,
+                "2": 2,
+                "3": 119,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT GÖKHAN ESEN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2213,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/2137_bulk_999999999_1684095357179156952.jpg",
+            "submission_id": 502216,
+            "total_vote": 342,
+            "votes": {
+                "1": 210,
+                "2": 2,
+                "3": 116,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT GÖKHAN ESEN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2202,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/19191_cb_1093783130_1684087279580932366.jpg",
+            "submission_id": 328731,
+            "total_vote": 358,
+            "votes": {
+                "1": 216,
+                "3": 123,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/19191_mv_1083783130_1684087251555970775.jpg",
+            "submission_id": 327749,
+            "total_vote": 357,
+            "votes": {
+                "1": 0,
+                "10": 18,
+                "11": 19,
+                "12": 2,
+                "13": 7,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 82,
+                "22": 31,
+                "23": 0,
+                "24": 10,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 3,
+                "8": 3,
+                "9": 176
+            }
+        },
+        "school_name": "ŞEHİT GÖKHAN ESEN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2205,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/34531_bulk_999999999_1684090548628126421.jpeg",
+            "submission_id": 422533,
+            "total_vote": 352,
+            "votes": {
+                "1": 207,
+                "2": 1,
+                "3": 127,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT GÖKHAN ESEN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2214,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/43350_cb_1093783262_1684086786336445041.jpg",
+            "submission_id": 311593,
+            "total_vote": 359,
+            "votes": {
+                "1": 219,
+                "2": 0,
+                "3": 130,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT GÖKHAN ESEN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2203,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/8714_cb_1093783131_1684090352256021461.jpg",
+            "submission_id": 418017,
+            "total_vote": 340,
+            "votes": {
+                "1": 181,
+                "2": 2,
+                "3": 133,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/34559_bulk_999999999_1684095713941582104.jpeg",
+            "submission_id": 506029,
+            "total_vote": 338,
+            "votes": {
+                "10": 9,
+                "11": 17,
+                "12": 11,
+                "13": 6,
+                "21": 92,
+                "22": 31,
+                "23": 3,
+                "24": 11,
+                "6": 2,
+                "7": 6,
+                "8": 5,
+                "9": 145
+            }
+        },
+        "school_name": "ŞEHİT GÖKHAN ESEN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2215,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/2137_bulk_999999999_1684094703016860455.jpg",
+            "submission_id": 495158,
+            "total_vote": 336,
+            "votes": {
+                "1": 200,
+                "2": 0,
+                "3": 124,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/2137_bulk_999999999_1684094703168508917.jpg",
+            "submission_id": 495159,
+            "total_vote": 329,
+            "votes": {
+                "1": 0,
+                "10": 19,
+                "11": 23,
+                "12": 7,
+                "13": 6,
+                "14": 0,
+                "15": 1,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "21": 80,
+                "22": 24,
+                "24": 6,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 6,
+                "8": 0,
+                "9": 153
+            }
+        },
+        "school_name": "ŞEHİT GÖKHAN ESEN ORTAOKULU"
+    }
+]

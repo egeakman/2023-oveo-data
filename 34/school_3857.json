@@ -1,0 +1,917 @@
+[
+    {
+        "ballot_box_number": 3221,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/b9bcb546-59f7-4b22-9716-6b1ffc683382-1684105467825806645.jpg",
+            "submission_id": 644632,
+            "total_vote": 340,
+            "votes": {
+                "1": 147,
+                "2": 1,
+                "3": 181,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f1b3477e-6283-4e88-b5d7-a72516a6d898-1684105730283888004.jpg",
+            "submission_id": 686243,
+            "total_vote": 335,
+            "votes": {
+                "1": 1,
+                "10": 10,
+                "11": 22,
+                "12": 50,
+                "13": 9,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 105,
+                "22": 12,
+                "23": 0,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 4,
+                "8": 1,
+                "9": 112
+            }
+        },
+        "school_name": "FATMA GÖZEN ERALP İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3216,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11851_cb_1093783790_1684082678075028911.jpg",
+            "submission_id": 203503,
+            "total_vote": 348,
+            "votes": {
+                "1": 167,
+                "3": 162,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11851_mv_1083783790_1684087063542280946.jpg",
+            "submission_id": 321213,
+            "total_vote": 332,
+            "votes": {
+                "10": 19,
+                "11": 12,
+                "12": 45,
+                "13": 7,
+                "15": 1,
+                "20": 3,
+                "21": 80,
+                "22": 22,
+                "23": 2,
+                "24": 11,
+                "6": 1,
+                "7": 3,
+                "8": 4,
+                "9": 122
+            }
+        },
+        "school_name": "FATMA GÖZEN ERALP İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3220,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11851_cb_1093783794_1684080629446008636.jpg",
+            "submission_id": 182771,
+            "total_vote": 338,
+            "votes": {
+                "1": 168,
+                "2": 2,
+                "3": 156,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "FATMA GÖZEN ERALP İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3234,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11851_cb_1093783948_1684087959553284457.jpg",
+            "submission_id": 350553,
+            "total_vote": 326,
+            "votes": {
+                "1": 132,
+                "2": 2,
+                "3": 184,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11851_mv_1083783948_1684087931114944374.jpg",
+            "submission_id": 349649,
+            "total_vote": 321,
+            "votes": {
+                "1": 0,
+                "10": 11,
+                "11": 25,
+                "12": 63,
+                "13": 6,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 90,
+                "22": 18,
+                "23": 4,
+                "24": 4,
+                "3": 0,
+                "4": 1,
+                "5": 1,
+                "6": 0,
+                "7": 7,
+                "8": 4,
+                "9": 87
+            }
+        },
+        "school_name": "FATMA GÖZEN ERALP İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3222,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11851_cb_1093783936_1684087262561512737.jpg",
+            "submission_id": 328133,
+            "total_vote": 352,
+            "votes": {
+                "1": 171,
+                "2": 0,
+                "3": 166,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "FATMA GÖZEN ERALP İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3233,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11851_cb_1093783947_1684079282367332908.jpg",
+            "submission_id": 176485,
+            "total_vote": 340,
+            "votes": {
+                "1": 134,
+                "2": 1,
+                "3": 197,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/63c34703-3d39-452d-9865-729b2d593d30-1684105739584182833.jpg",
+            "submission_id": 687528,
+            "total_vote": 326,
+            "votes": {
+                "1": 1,
+                "10": 8,
+                "11": 21,
+                "12": 64,
+                "13": 5,
+                "20": 1,
+                "21": 99,
+                "22": 12,
+                "24": 4,
+                "5": 1,
+                "7": 4,
+                "8": 2,
+                "9": 104
+            }
+        },
+        "school_name": "FATMA GÖZEN ERALP İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3212,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11851_cb_1093783786_1684087403080977516.jpg",
+            "submission_id": 332793,
+            "total_vote": 330,
+            "votes": {
+                "1": 133,
+                "2": 1,
+                "3": 184,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11851_mv_1083783786_1684087360896066039.jpg",
+            "submission_id": 331370,
+            "total_vote": 326,
+            "votes": {
+                "10": 16,
+                "11": 17,
+                "12": 39,
+                "13": 12,
+                "15": 1,
+                "20": 1,
+                "21": 120,
+                "22": 9,
+                "23": 1,
+                "24": 5,
+                "3": 2,
+                "5": 2,
+                "6": 1,
+                "7": 2,
+                "8": 5,
+                "9": 93
+            }
+        },
+        "school_name": "FATMA GÖZEN ERALP İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3223,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11851_cb_1093783937_1684086032599442210.jpg",
+            "submission_id": 286011,
+            "total_vote": 339,
+            "votes": {
+                "1": 163,
+                "3": 160,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11851_mv_1083783937_1684085978732551270.jpg",
+            "submission_id": 284296,
+            "total_vote": 341,
+            "votes": {
+                "1": 1,
+                "10": 8,
+                "11": 24,
+                "12": 63,
+                "13": 8,
+                "14": 2,
+                "21": 73,
+                "22": 14,
+                "23": 1,
+                "24": 14,
+                "3": 1,
+                "5": 1,
+                "7": 2,
+                "8": 2,
+                "9": 127
+            }
+        },
+        "school_name": "FATMA GÖZEN ERALP İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3227,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11851_cb_1093783941_1684086952056400439.jpg",
+            "submission_id": 317282,
+            "total_vote": 334,
+            "votes": {
+                "1": 142,
+                "2": 2,
+                "3": 171,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "FATMA GÖZEN ERALP İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3217,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11851_cb_1093783791_1684081594160616958.jpg",
+            "submission_id": 190272,
+            "total_vote": 349,
+            "votes": {
+                "1": 156,
+                "2": 1,
+                "3": 165,
+                "4": 27
+            }
+        },
+        "mv_result": null,
+        "school_name": "FATMA GÖZEN ERALP İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3232,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11851_cb_1093783946_1684085841398095671.jpg",
+            "submission_id": 279822,
+            "total_vote": 328,
+            "votes": {
+                "1": 132,
+                "2": 1,
+                "3": 180,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11851_mv_1083783946_1684085126066693601.jpg",
+            "submission_id": 257659,
+            "total_vote": 332,
+            "votes": {
+                "1": 1,
+                "10": 11,
+                "11": 16,
+                "12": 63,
+                "13": 12,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 98,
+                "22": 13,
+                "23": 0,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 105
+            }
+        },
+        "school_name": "FATMA GÖZEN ERALP İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3224,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/67103_cb_1093783938_1684086089633958134.jpg",
+            "submission_id": 287827,
+            "total_vote": 336,
+            "votes": {
+                "1": 169,
+                "3": 157,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/67103_mv_1083783938_1684086177517033956.jpg",
+            "submission_id": 290710,
+            "total_vote": 336,
+            "votes": {
+                "10": 19,
+                "11": 30,
+                "12": 63,
+                "19": 2,
+                "21": 83,
+                "22": 7,
+                "24": 7,
+                "3": 1,
+                "5": 1,
+                "6": 5,
+                "7": 5,
+                "8": 1,
+                "9": 112
+            }
+        },
+        "school_name": "FATMA GÖZEN ERALP İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3213,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11851_cb_1093783787_1684096017719473671.jpg",
+            "submission_id": 508828,
+            "total_vote": 336,
+            "votes": {
+                "1": 152,
+                "2": 1,
+                "3": 167,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11851_mv_1083783787_1684096046582362064.jpg",
+            "submission_id": 509065,
+            "total_vote": 328,
+            "votes": {
+                "1": 1,
+                "10": 9,
+                "11": 23,
+                "12": 46,
+                "13": 7,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 102,
+                "22": 7,
+                "23": 1,
+                "24": 13,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 2,
+                "8": 4,
+                "9": 111
+            }
+        },
+        "school_name": "FATMA GÖZEN ERALP İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3230,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2b45d9bd-531e-4101-8c0c-e6ec62633f0c-1684105441807460450.jpg",
+            "submission_id": 640560,
+            "total_vote": 351,
+            "votes": {
+                "1": 147,
+                "3": 176,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/efcf3491-10c2-4ef4-8767-9680dc16f734-1684105438848703332.jpg",
+            "submission_id": 640052,
+            "total_vote": 346,
+            "votes": {
+                "10": 17,
+                "11": 20,
+                "12": 59,
+                "13": 11,
+                "17": 1,
+                "21": 95,
+                "22": 15,
+                "24": 19,
+                "5": 2,
+                "7": 2,
+                "8": 3,
+                "9": 102
+            }
+        },
+        "school_name": "FATMA GÖZEN ERALP İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3226,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11851_cb_1093783940_1684088368226114743.jpg",
+            "submission_id": 363356,
+            "total_vote": 350,
+            "votes": {
+                "1": 162,
+                "2": 1,
+                "3": 174,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/51e09047-a48f-49b5-801b-58b9ffdbb8cb-1684105787683052360.jpg",
+            "submission_id": 695440,
+            "total_vote": 344,
+            "votes": {
+                "1": 1,
+                "10": 13,
+                "11": 32,
+                "12": 68,
+                "13": 9,
+                "15": 1,
+                "21": 86,
+                "22": 13,
+                "24": 8,
+                "7": 2,
+                "8": 3,
+                "9": 108
+            }
+        },
+        "school_name": "FATMA GÖZEN ERALP İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3235,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11851_cb_1093783949_1684085089748663094.jpg",
+            "submission_id": 256702,
+            "total_vote": 349,
+            "votes": {
+                "1": 158,
+                "3": 174,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/67103_bulk_999999999_1684093665353611666.jpg",
+            "submission_id": 472607,
+            "total_vote": 338,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 31,
+                "12": 41,
+                "13": 7,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 100,
+                "22": 20,
+                "23": 0,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 2,
+                "8": 0,
+                "9": 117
+            }
+        },
+        "school_name": "FATMA GÖZEN ERALP İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3215,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11851_cb_1093783789_1684087513599621380.jpg",
+            "submission_id": 336371,
+            "total_vote": 347,
+            "votes": {
+                "1": 185,
+                "3": 155,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11851_mv_1083783789_1684087655069518888.jpg",
+            "submission_id": 340916,
+            "total_vote": 341,
+            "votes": {
+                "1": 0,
+                "10": 11,
+                "11": 22,
+                "12": 21,
+                "13": 21,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 3,
+                "2": 1,
+                "20": 0,
+                "21": 102,
+                "22": 12,
+                "23": 5,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 2,
+                "9": 137
+            }
+        },
+        "school_name": "FATMA GÖZEN ERALP İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3231,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11851_cb_1093783945_1684083140236741936.jpg",
+            "submission_id": 211093,
+            "total_vote": 337,
+            "votes": {
+                "1": 167,
+                "2": 2,
+                "3": 156,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/73bfe676-9aa4-4820-bb3d-31654da1d91b-1684105427529119011.jpg",
+            "submission_id": 638021,
+            "total_vote": 328,
+            "votes": {
+                "10": 13,
+                "11": 22,
+                "12": 35,
+                "13": 10,
+                "14": 2,
+                "15": 2,
+                "21": 89,
+                "22": 20,
+                "24": 6,
+                "5": 2,
+                "6": 1,
+                "7": 5,
+                "9": 121
+            }
+        },
+        "school_name": "FATMA GÖZEN ERALP İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3219,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/67103_cb_1093783793_1684085805073807433.jpg",
+            "submission_id": 278568,
+            "total_vote": 336,
+            "votes": {
+                "1": 119,
+                "2": 2,
+                "3": 200,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/67103_mv_1083783793_1684085673141822076.jpg",
+            "submission_id": 274170,
+            "total_vote": 333,
+            "votes": {
+                "1": 1,
+                "10": 13,
+                "11": 13,
+                "12": 57,
+                "13": 8,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 125,
+                "22": 14,
+                "23": 0,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 2,
+                "8": 4,
+                "9": 85
+            }
+        },
+        "school_name": "FATMA GÖZEN ERALP İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3225,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/71341_cb_1093783939_1684084720258987093.jpg",
+            "submission_id": 246432,
+            "total_vote": 349,
+            "votes": {
+                "1": 156,
+                "3": 178,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/67103_bulk_999999999_1684093665830627561.jpg",
+            "submission_id": 472619,
+            "total_vote": 339,
+            "votes": {
+                "10": 9,
+                "11": 25,
+                "12": 46,
+                "13": 4,
+                "15": 1,
+                "18": 1,
+                "20": 1,
+                "21": 104,
+                "22": 20,
+                "24": 9,
+                "7": 7,
+                "9": 112
+            }
+        },
+        "school_name": "FATMA GÖZEN ERALP İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3214,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11851_cb_1093783788_1684096125012472016.jpg",
+            "submission_id": 509639,
+            "total_vote": 347,
+            "votes": {
+                "1": 174,
+                "3": 156,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11851_mv_1083783788_1684096100821876082.jpg",
+            "submission_id": 509465,
+            "total_vote": 337,
+            "votes": {
+                "1": 1,
+                "10": 16,
+                "11": 30,
+                "12": 58,
+                "13": 13,
+                "14": 1,
+                "16": 1,
+                "21": 78,
+                "22": 7,
+                "24": 7,
+                "7": 1,
+                "8": 1,
+                "9": 123
+            }
+        },
+        "school_name": "FATMA GÖZEN ERALP İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3229,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11851_cb_1093783943_1684088557073006009.jpg",
+            "submission_id": 369272,
+            "total_vote": 349,
+            "votes": {
+                "1": 165,
+                "2": 1,
+                "3": 164,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11851_mv_1083783943_1684088061140544310.jpg",
+            "submission_id": 353945,
+            "total_vote": 347,
+            "votes": {
+                "10": 14,
+                "11": 22,
+                "12": 49,
+                "13": 8,
+                "14": 1,
+                "15": 1,
+                "21": 94,
+                "22": 21,
+                "23": 2,
+                "24": 5,
+                "5": 1,
+                "7": 1,
+                "8": 4,
+                "9": 124
+            }
+        },
+        "school_name": "FATMA GÖZEN ERALP İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3211,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/67103_bulk_999999999_1684087819459423704.jpg",
+            "submission_id": 346165,
+            "total_vote": 319,
+            "votes": {
+                "1": 149,
+                "3": 161,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/67103_bulk_999999999_1684087819576524938.jpg",
+            "submission_id": 346166,
+            "total_vote": 310,
+            "votes": {
+                "10": 8,
+                "11": 16,
+                "12": 44,
+                "13": 9,
+                "20": 1,
+                "21": 104,
+                "22": 12,
+                "23": 1,
+                "24": 4,
+                "3": 1,
+                "5": 1,
+                "7": 3,
+                "9": 106
+            }
+        },
+        "school_name": "FATMA GÖZEN ERALP İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3218,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11851_cb_1093783792_1684087101864091387.jpg",
+            "submission_id": 322618,
+            "total_vote": 344,
+            "votes": {
+                "1": 166,
+                "2": 1,
+                "3": 160,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/535db53b-de7d-449d-a858-1f1609440fb8-1684105388471604456.jpg",
+            "submission_id": 630723,
+            "total_vote": 338,
+            "votes": {
+                "10": 8,
+                "11": 19,
+                "12": 48,
+                "13": 12,
+                "19": 2,
+                "21": 80,
+                "22": 17,
+                "24": 10,
+                "7": 8,
+                "8": 1,
+                "9": 133
+            }
+        },
+        "school_name": "FATMA GÖZEN ERALP İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3236,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/11851_bulk_999999999_1684096845468549928.jpg",
+            "submission_id": 516350,
+            "total_vote": 344,
+            "votes": {
+                "1": 151,
+                "2": 2,
+                "3": 171,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/11851_bulk_999999999_1684096845499925852.jpg",
+            "submission_id": 516352,
+            "total_vote": 339,
+            "votes": {
+                "10": 10,
+                "11": 24,
+                "12": 55,
+                "13": 13,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 86,
+                "22": 16,
+                "23": 1,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 0,
+                "9": 116
+            }
+        },
+        "school_name": "FATMA GÖZEN ERALP İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3228,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11851_cb_1093783942_1684088314145571114.jpg",
+            "submission_id": 361754,
+            "total_vote": 340,
+            "votes": {
+                "1": 137,
+                "2": 1,
+                "3": 187,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/67103_bulk_999999999_1684094335950418138.jpg",
+            "submission_id": 490758,
+            "total_vote": 327,
+            "votes": {
+                "10": 5,
+                "11": 24,
+                "12": 60,
+                "13": 8,
+                "15": 2,
+                "20": 2,
+                "21": 93,
+                "22": 12,
+                "24": 4,
+                "3": 1,
+                "5": 4,
+                "6": 1,
+                "7": 4,
+                "8": 2,
+                "9": 105
+            }
+        },
+        "school_name": "FATMA GÖZEN ERALP İLKOKULU"
+    }
+]

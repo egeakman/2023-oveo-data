@@ -1,0 +1,165 @@
+[
+    {
+        "ballot_box_number": 1290,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/10143_bulk_999999999_1684081675231572542.jpeg",
+            "submission_id": 191146,
+            "total_vote": 316,
+            "votes": {
+                "1": 158,
+                "2": 0,
+                "3": 151,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/10143_mv_1083690890_1684086633093389266.jpg",
+            "submission_id": 306147,
+            "total_vote": 311,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 17,
+                "12": 17,
+                "13": 13,
+                "14": 0,
+                "15": 1,
+                "17": 1,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 96,
+                "22": 29,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 128
+            }
+        },
+        "school_name": "ESKİCE MEVKİ SEYRİ SEFA RESTORAN"
+    },
+    {
+        "ballot_box_number": 1289,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/63227_bulk_999999999_1684079135943381228.jpeg",
+            "submission_id": 176047,
+            "total_vote": 319,
+            "votes": {
+                "1": 147,
+                "2": 0,
+                "3": 159,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/63227_mv_1083690889_1684094335046312929.jpg",
+            "submission_id": 490744,
+            "total_vote": 312,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 14,
+                "12": 29,
+                "13": 19,
+                "14": 1,
+                "15": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 89,
+                "22": 25,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 5,
+                "8": 1,
+                "9": 116
+            }
+        },
+        "school_name": "ESKİCE MEVKİ SEYRİ SEFA RESTORAN"
+    },
+    {
+        "ballot_box_number": 1287,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/63227_bulk_999999999_1684080419609380817.jpeg",
+            "submission_id": 181573,
+            "total_vote": 316,
+            "votes": {
+                "1": 139,
+                "2": 0,
+                "3": 174,
+                "4": 3
+            }
+        },
+        "mv_result": null,
+        "school_name": "ESKİCE MEVKİ SEYRİ SEFA RESTORAN"
+    },
+    {
+        "ballot_box_number": 1288,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/63227_bulk_999999999_1684080498494985768.jpeg",
+            "submission_id": 182049,
+            "total_vote": 319,
+            "votes": {
+                "1": 133,
+                "3": 166,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "ESKİCE MEVKİ SEYRİ SEFA RESTORAN"
+    },
+    {
+        "ballot_box_number": 1286,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/63227_bulk_999999999_1684092454386145641.jpeg",
+            "submission_id": 456568,
+            "total_vote": 323,
+            "votes": {
+                "1": 144,
+                "2": 0,
+                "3": 167,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/63227_mv_1083690886_1684094702388050430.jpg",
+            "submission_id": 495147,
+            "total_vote": 322,
+            "votes": {
+                "1": 5,
+                "10": 4,
+                "11": 10,
+                "12": 2,
+                "13": 8,
+                "14": 1,
+                "15": 2,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 125,
+                "22": 35,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 123
+            }
+        },
+        "school_name": "ESKİCE MEVKİ SEYRİ SEFA RESTORAN"
+    }
+]

@@ -1,0 +1,858 @@
+[
+    {
+        "ballot_box_number": 1168,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/61902_cb_1093786112_1684086278496394794.jpg",
+            "submission_id": 294023,
+            "total_vote": 341,
+            "votes": {
+                "1": 69,
+                "2": 3,
+                "3": 260,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/61902_mv_1083786112_1684086314980794281.jpg",
+            "submission_id": 295262,
+            "total_vote": 338,
+            "votes": {
+                "10": 2,
+                "11": 14,
+                "12": 10,
+                "13": 31,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 169,
+                "22": 42,
+                "23": 0,
+                "24": 7,
+                "3": 8,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 2,
+                "8": 1,
+                "9": 47
+            }
+        },
+        "school_name": "İMDAT VAKFI DUMLUPINAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1150,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/61902_bulk_999999999_1684078316135106713.jpg",
+            "submission_id": 174273,
+            "total_vote": 292,
+            "votes": {
+                "1": 83,
+                "2": 2,
+                "3": 199,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/12896_mv_1083786014_1684085390872649343.jpg",
+            "submission_id": 265411,
+            "total_vote": 286,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 7,
+                "12": 2,
+                "13": 7,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 2,
+                "21": 163,
+                "22": 22,
+                "23": 2,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 5,
+                "7": 4,
+                "8": 1,
+                "9": 66
+            }
+        },
+        "school_name": "İMDAT VAKFI DUMLUPINAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1167,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/26008_bulk_999999999_1684090366903710633.jpg",
+            "submission_id": 418351,
+            "total_vote": 342,
+            "votes": {
+                "1": 93,
+                "2": 1,
+                "3": 234,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/61902_bulk_999999999_1684089551583844182.jpg",
+            "submission_id": 397711,
+            "total_vote": 342,
+            "votes": {
+                "1": 0,
+                "10": 8,
+                "11": 4,
+                "12": 4,
+                "13": 26,
+                "14": 0,
+                "15": 4,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 160,
+                "22": 44,
+                "23": 1,
+                "24": 8,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 5,
+                "8": 1,
+                "9": 75
+            }
+        },
+        "school_name": "İMDAT VAKFI DUMLUPINAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1155,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/12888_cb_1093786099_1684086038742253372.jpg",
+            "submission_id": 286212,
+            "total_vote": 328,
+            "votes": {
+                "1": 81,
+                "2": 0,
+                "3": 237,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/41804_mv_1083786099_1684089403360636905.jpg",
+            "submission_id": 393525,
+            "total_vote": 326,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 9,
+                "12": 4,
+                "13": 32,
+                "14": 0,
+                "15": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 149,
+                "22": 45,
+                "23": 1,
+                "24": 6,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 6,
+                "9": 64
+            }
+        },
+        "school_name": "İMDAT VAKFI DUMLUPINAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1152,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/12896_cb_1093786096_1684083613308463329.jpg",
+            "submission_id": 220009,
+            "total_vote": 318,
+            "votes": {
+                "1": 68,
+                "2": 3,
+                "3": 245,
+                "4": 2
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/61902_bulk_999999999_1684092210830800192.jpg",
+            "submission_id": 452704,
+            "total_vote": 314,
+            "votes": {
+                "10": 4,
+                "11": 11,
+                "12": 5,
+                "13": 10,
+                "21": 195,
+                "22": 30,
+                "24": 2,
+                "3": 1,
+                "7": 2,
+                "9": 54
+            }
+        },
+        "school_name": "İMDAT VAKFI DUMLUPINAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1164,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/61902_cb_1093786108_1684085392106499178.jpg",
+            "submission_id": 265446,
+            "total_vote": 338,
+            "votes": {
+                "1": 81,
+                "3": 241,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/29037_bulk_999999999_1684090458295142062.jpg",
+            "submission_id": 420368,
+            "total_vote": 337,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 17,
+                "12": 8,
+                "13": 31,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 4,
+                "2": 0,
+                "20": 0,
+                "21": 155,
+                "22": 44,
+                "23": 0,
+                "24": 13,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 6,
+                "8": 1,
+                "9": 56
+            }
+        },
+        "school_name": "İMDAT VAKFI DUMLUPINAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1161,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/12406_cb_1093786105_1684086632773331701.jpg",
+            "submission_id": 306131,
+            "total_vote": 328,
+            "votes": {
+                "1": 70,
+                "3": 249,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/12406_mv_1083786105_1684092102680543974.jpg",
+            "submission_id": 451006,
+            "total_vote": 332,
+            "votes": {
+                "1": 4,
+                "10": 2,
+                "11": 11,
+                "12": 18,
+                "13": 28,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 166,
+                "22": 30,
+                "23": 4,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 3,
+                "9": 57
+            }
+        },
+        "school_name": "İMDAT VAKFI DUMLUPINAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1165,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/61902_cb_1093786109_1684085348036015332.jpg",
+            "submission_id": 264134,
+            "total_vote": 340,
+            "votes": {
+                "1": 88,
+                "2": 0,
+                "3": 244,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16828_mv_1083786109_1684086586293666282.jpg",
+            "submission_id": 304550,
+            "total_vote": 338,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 14,
+                "12": 6,
+                "13": 28,
+                "14": 0,
+                "15": 3,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 173,
+                "22": 33,
+                "23": 0,
+                "24": 9,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 2,
+                "9": 65
+            }
+        },
+        "school_name": "İMDAT VAKFI DUMLUPINAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1171,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/78823_cb_1093786175_1684085933914608119.jpg",
+            "submission_id": 282865,
+            "total_vote": 344,
+            "votes": {
+                "1": 76,
+                "2": 0,
+                "3": 256,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "İMDAT VAKFI DUMLUPINAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1169,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/41804_cb_1093786113_1684088570186041239.jpg",
+            "submission_id": 369644,
+            "total_vote": 350,
+            "votes": {
+                "1": 82,
+                "2": 0,
+                "3": 257,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/41804_mv_1083786113_1684088784112761067.jpg",
+            "submission_id": 376161,
+            "total_vote": 346,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 9,
+                "12": 7,
+                "13": 30,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 173,
+                "22": 42,
+                "23": 0,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 1,
+                "9": 69
+            }
+        },
+        "school_name": "İMDAT VAKFI DUMLUPINAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1162,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/12405_cb_1093786106_1684087259135989751.jpg",
+            "submission_id": 328009,
+            "total_vote": 347,
+            "votes": {
+                "1": 89,
+                "3": 247,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/12405_mv_1083786106_1684092102094400879.jpg",
+            "submission_id": 450977,
+            "total_vote": 347,
+            "votes": {
+                "10": 3,
+                "11": 9,
+                "12": 5,
+                "13": 31,
+                "21": 180,
+                "22": 38,
+                "24": 10,
+                "8": 1,
+                "9": 70
+            }
+        },
+        "school_name": "İMDAT VAKFI DUMLUPINAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1160,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/12897_bulk_999999999_1684083589739273724.jpg",
+            "submission_id": 219538,
+            "total_vote": 344,
+            "votes": {
+                "1": 97,
+                "2": 2,
+                "3": 232,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "İMDAT VAKFI DUMLUPINAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1159,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/39931_mv_1083786103_1684087974513744613.jpg",
+            "submission_id": 351074,
+            "total_vote": 349,
+            "votes": {
+                "1": 81,
+                "2": 0,
+                "3": 258,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/39931_cb_1093786103_1684087943417590406.jpg",
+            "submission_id": 350045,
+            "total_vote": 345,
+            "votes": {
+                "10": 6,
+                "11": 12,
+                "12": 7,
+                "13": 33,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 174,
+                "22": 35,
+                "23": 1,
+                "24": 9,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 4,
+                "9": 56
+            }
+        },
+        "school_name": "İMDAT VAKFI DUMLUPINAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1154,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/12901_cb_1093786098_1684085640265794770.jpg",
+            "submission_id": 273071,
+            "total_vote": 342,
+            "votes": {
+                "1": 77,
+                "3": 254,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/29037_mv_1083786098_1684093019958885506.jpg",
+            "submission_id": 464197,
+            "total_vote": 341,
+            "votes": {
+                "10": 1,
+                "11": 9,
+                "12": 9,
+                "13": 17,
+                "15": 1,
+                "20": 3,
+                "21": 186,
+                "22": 38,
+                "24": 8,
+                "6": 1,
+                "7": 3,
+                "8": 5,
+                "9": 60
+            }
+        },
+        "school_name": "İMDAT VAKFI DUMLUPINAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1163,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/61902_cb_1093786107_1684087061852703865.jpg",
+            "submission_id": 321145,
+            "total_vote": 353,
+            "votes": {
+                "1": 89,
+                "2": 2,
+                "3": 250,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/61902_mv_1083786107_1684087118857546716.jpg",
+            "submission_id": 323209,
+            "total_vote": 348,
+            "votes": {
+                "1": 1,
+                "10": 8,
+                "11": 8,
+                "12": 13,
+                "13": 36,
+                "15": 2,
+                "16": 1,
+                "19": 1,
+                "21": 163,
+                "22": 37,
+                "24": 10,
+                "7": 6,
+                "8": 2,
+                "9": 60
+            }
+        },
+        "school_name": "İMDAT VAKFI DUMLUPINAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1170,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/61902_cb_1093786114_1684088166486967240.jpg",
+            "submission_id": 357323,
+            "total_vote": 350,
+            "votes": {
+                "1": 78,
+                "2": 0,
+                "3": 262,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/41804_mv_1083786114_1684088746881315435.jpg",
+            "submission_id": 375088,
+            "total_vote": 347,
+            "votes": {
+                "10": 7,
+                "11": 11,
+                "12": 4,
+                "13": 43,
+                "21": 170,
+                "22": 40,
+                "24": 5,
+                "3": 1,
+                "7": 4,
+                "8": 2,
+                "9": 60
+            }
+        },
+        "school_name": "İMDAT VAKFI DUMLUPINAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1157,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/26008_cb_1093786101_1684088224270343303.jpg",
+            "submission_id": 359020,
+            "total_vote": 348,
+            "votes": {
+                "1": 84,
+                "2": 1,
+                "3": 256,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/26008_bulk_999999999_1684091392329882700.jpg",
+            "submission_id": 439453,
+            "total_vote": 349,
+            "votes": {
+                "1": 0,
+                "10": 8,
+                "11": 11,
+                "12": 7,
+                "13": 29,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 176,
+                "22": 44,
+                "23": 0,
+                "24": 5,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 61
+            }
+        },
+        "school_name": "İMDAT VAKFI DUMLUPINAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1151,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/12896_cb_1093786095_1684099855018340916.jpg",
+            "submission_id": 534683,
+            "total_vote": 315,
+            "votes": {
+                "1": 93,
+                "3": 214,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/12896_mv_1083786095_1684099889407657501.jpg",
+            "submission_id": 534839,
+            "total_vote": 309,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 10,
+                "12": 4,
+                "13": 11,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 0,
+                "21": 162,
+                "22": 32,
+                "23": 2,
+                "24": 3,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 3,
+                "9": 71
+            }
+        },
+        "school_name": "İMDAT VAKFI DUMLUPINAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1166,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/78823_cb_1093786110_1684083947200147659.jpg",
+            "submission_id": 227028,
+            "total_vote": 335,
+            "votes": {
+                "1": 72,
+                "2": 1,
+                "3": 252,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/41804_mv_1083786110_1684088920389590979.jpg",
+            "submission_id": 380234,
+            "total_vote": 331,
+            "votes": {
+                "10": 7,
+                "11": 9,
+                "12": 10,
+                "13": 21,
+                "15": 4,
+                "21": 175,
+                "22": 44,
+                "24": 8,
+                "3": 1,
+                "6": 1,
+                "7": 3,
+                "8": 2,
+                "9": 46
+            }
+        },
+        "school_name": "İMDAT VAKFI DUMLUPINAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1158,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/61902_bulk_999999999_1684093072942532982.jpg",
+            "submission_id": 464904,
+            "total_vote": 346,
+            "votes": {
+                "1": 97,
+                "2": 1,
+                "3": 238,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/26008_bulk_999999999_1684092027660732170.jpg",
+            "submission_id": 449781,
+            "total_vote": 342,
+            "votes": {
+                "1": 2,
+                "10": 3,
+                "11": 18,
+                "12": 5,
+                "13": 27,
+                "15": 1,
+                "21": 160,
+                "22": 43,
+                "24": 6,
+                "3": 1,
+                "5": 1,
+                "7": 6,
+                "8": 2,
+                "9": 67
+            }
+        },
+        "school_name": "İMDAT VAKFI DUMLUPINAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1156,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/26008_cb_1093786100_1684090927349416856.jpg",
+            "submission_id": 430416,
+            "total_vote": 341,
+            "votes": {
+                "1": 62,
+                "3": 271,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/61902_bulk_999999999_1684091244758543085.jpg",
+            "submission_id": 436693,
+            "total_vote": 341,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 3,
+                "12": 5,
+                "13": 29,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 4,
+                "2": 0,
+                "20": 1,
+                "21": 189,
+                "22": 44,
+                "23": 0,
+                "24": 7,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 1,
+                "8": 3,
+                "9": 52
+            }
+        },
+        "school_name": "İMDAT VAKFI DUMLUPINAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1153,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/12896_cb_1093786097_1684083688383534594.jpg",
+            "submission_id": 221620,
+            "total_vote": 311,
+            "votes": {
+                "1": 78,
+                "3": 226,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/61902_bulk_999999999_1684087874156265937.jpg",
+            "submission_id": 347814,
+            "total_vote": 307,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 8,
+                "12": 4,
+                "13": 20,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 178,
+                "22": 20,
+                "23": 1,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 3,
+                "9": 65
+            }
+        },
+        "school_name": "İMDAT VAKFI DUMLUPINAR ORTAOKULU"
+    }
+]

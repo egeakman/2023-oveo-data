@@ -1,0 +1,37 @@
+[
+    {
+        "ballot_box_number": 1161,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/50988_bulk_999999999_1684078784794328006.jpeg",
+            "submission_id": 175166,
+            "total_vote": 79,
+            "votes": {
+                "1": 40,
+                "3": 39
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source1-secim-images.oyveotesi.org/raw/1000285_mv_3645473_1684079665.jpeg",
+            "submission_id": 177851,
+            "total_vote": 79,
+            "votes": {
+                "10": 7,
+                "11": 2,
+                "12": 12,
+                "13": 1,
+                "14": 0,
+                "15": 0,
+                "19": 0,
+                "20": 0,
+                "21": 15,
+                "22": 8,
+                "23": 0,
+                "24": 1,
+                "7": 0,
+                "8": 1,
+                "9": 32
+            }
+        },
+        "school_name": "İSTANBUL ÜNİVERSİTESİ SU ÜRÜNLERİ FAKÜLTESİ"
+    }
+]

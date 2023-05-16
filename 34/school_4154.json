@@ -1,0 +1,147 @@
+[
+    {
+        "ballot_box_number": 1042,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/191_bulk_999999999_1684091482210525766.jpg",
+            "submission_id": 440900,
+            "total_vote": 292,
+            "votes": {
+                "1": 33,
+                "3": 250,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/15522_bulk_999999999_1684136274028444450.jpeg",
+            "submission_id": 1016678,
+            "total_vote": 291,
+            "votes": {
+                "10": 1,
+                "11": 8,
+                "12": 25,
+                "13": 34,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 162,
+                "22": 26,
+                "23": 1,
+                "24": 5,
+                "3": 3,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 22
+            }
+        },
+        "school_name": "ATATÜRK KİTAPLIĞI"
+    },
+    {
+        "ballot_box_number": 1043,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/46110_bulk_999999999_1684092735056490220.jpeg",
+            "submission_id": 460292,
+            "total_vote": 314,
+            "votes": {
+                "1": 37,
+                "2": 1,
+                "3": 273,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4a97d88f-c3f7-4480-834e-5f4ed3585934-1684105235908782739.jpeg",
+            "submission_id": 601766,
+            "total_vote": 312,
+            "votes": {
+                "11": 9,
+                "12": 37,
+                "13": 70,
+                "21": 142,
+                "22": 15,
+                "24": 4,
+                "5": 1,
+                "6": 3,
+                "7": 3,
+                "9": 28
+            }
+        },
+        "school_name": "ATATÜRK KİTAPLIĞI"
+    },
+    {
+        "ballot_box_number": 1045,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1733_cb_1093780579_1684090108501834337.jpg",
+            "submission_id": 412312,
+            "total_vote": 303,
+            "votes": {
+                "1": 52,
+                "2": 0,
+                "3": 242,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1733_mv_1083780579_1684090130426033779.jpg",
+            "submission_id": 412874,
+            "total_vote": 303,
+            "votes": {
+                "10": 3,
+                "11": 10,
+                "12": 24,
+                "13": 43,
+                "14": 1,
+                "19": 1,
+                "21": 136,
+                "22": 34,
+                "24": 7,
+                "3": 2,
+                "7": 6,
+                "8": 1,
+                "9": 35
+            }
+        },
+        "school_name": "ATATÜRK KİTAPLIĞI"
+    },
+    {
+        "ballot_box_number": 1044,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1733_cb_1093780578_1684086788137719801.jpg",
+            "submission_id": 311668,
+            "total_vote": 309,
+            "votes": {
+                "1": 41,
+                "3": 265,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ec3c8337-13c6-4b9a-adc4-d19cc9e99d31-1684105903724800855.jpeg",
+            "submission_id": 710789,
+            "total_vote": 307,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 3,
+                "12": 20,
+                "13": 40,
+                "14": 2,
+                "19": 1,
+                "21": 146,
+                "22": 53,
+                "24": 3,
+                "7": 4,
+                "8": 1,
+                "9": 29
+            }
+        },
+        "school_name": "ATATÜRK KİTAPLIĞI"
+    }
+]

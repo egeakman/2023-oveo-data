@@ -1,0 +1,87 @@
+[
+    {
+        "ballot_box_number": 2367,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/11550_bulk_999999999_1684083056108120615.jpg",
+            "submission_id": 209651,
+            "total_vote": 230,
+            "votes": {
+                "1": 159,
+                "2": 3,
+                "3": 60,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/11550_bulk_999999999_1684084660081036545.jpg",
+            "submission_id": 244793,
+            "total_vote": 214,
+            "votes": {
+                "1": 0,
+                "10": 8,
+                "11": 27,
+                "12": 0,
+                "13": 4,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 34,
+                "22": 15,
+                "23": 1,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 2,
+                "8": 1,
+                "9": 115
+            }
+        },
+        "school_name": "PİRİNÇÇİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2366,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/11550_bulk_999999999_1684084374581159782.jpg",
+            "submission_id": 237341,
+            "total_vote": 194,
+            "votes": {
+                "1": 136,
+                "2": 4,
+                "3": 50,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/11550_bulk_999999999_1684087338558078979.jpg",
+            "submission_id": 330617,
+            "total_vote": 189,
+            "votes": {
+                "10": 5,
+                "11": 13,
+                "12": 0,
+                "13": 1,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "21": 37,
+                "22": 11,
+                "23": 0,
+                "24": 1,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 3,
+                "9": 112
+            }
+        },
+        "school_name": "PİRİNÇÇİ İLKOKULU"
+    }
+]

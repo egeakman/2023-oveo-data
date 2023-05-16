@@ -1,0 +1,966 @@
+[
+    {
+        "ballot_box_number": 2311,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/59481_bulk_999999999_1684084859613114747.jpg",
+            "submission_id": 250146,
+            "total_vote": 326,
+            "votes": {
+                "1": 203,
+                "3": 119,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/20522_mv_1083627585_1684086054777655963.jpg",
+            "submission_id": 286726,
+            "total_vote": 319,
+            "votes": {
+                "1": 0,
+                "10": 18,
+                "11": 16,
+                "12": 36,
+                "13": 10,
+                "14": 0,
+                "15": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 49,
+                "22": 21,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 1,
+                "8": 1,
+                "9": 156
+            }
+        },
+        "school_name": "HOCA AHMET YESEVİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2325,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/20522_cb_1093628079_1684082940635950535.jpg",
+            "submission_id": 207744,
+            "total_vote": 332,
+            "votes": {
+                "1": 204,
+                "2": 1,
+                "3": 112,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/59481_mv_1083628079_1684084476911469466.jpg",
+            "submission_id": 239915,
+            "total_vote": 332,
+            "votes": {
+                "1": 0,
+                "10": 18,
+                "11": 34,
+                "12": 42,
+                "13": 4,
+                "14": 0,
+                "15": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 41,
+                "22": 24,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 2,
+                "9": 152
+            }
+        },
+        "school_name": "HOCA AHMET YESEVİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2314,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/59481_cb_1093627588_1684087218950962459.jpg",
+            "submission_id": 326693,
+            "total_vote": 332,
+            "votes": {
+                "1": 199,
+                "2": 1,
+                "3": 122,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/59481_mv_1083627588_1684088915290973473.jpg",
+            "submission_id": 380073,
+            "total_vote": 333,
+            "votes": {
+                "10": 11,
+                "11": 21,
+                "12": 51,
+                "13": 9,
+                "14": 0,
+                "15": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 41,
+                "22": 15,
+                "24": 9,
+                "3": 1,
+                "4": 1,
+                "5": 1,
+                "6": 0,
+                "7": 4,
+                "8": 1,
+                "9": 167
+            }
+        },
+        "school_name": "HOCA AHMET YESEVİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2313,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/57377_bulk_999999999_1684091325497874378.jpeg",
+            "submission_id": 438209,
+            "total_vote": 328,
+            "votes": {
+                "1": 220,
+                "3": 102,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/20522_mv_1083627587_1684092737878173737.jpg",
+            "submission_id": 460339,
+            "total_vote": 323,
+            "votes": {
+                "1": 1,
+                "10": 11,
+                "11": 34,
+                "12": 36,
+                "13": 6,
+                "15": 1,
+                "17": 1,
+                "21": 36,
+                "22": 14,
+                "24": 5,
+                "6": 5,
+                "8": 3,
+                "9": 170
+            }
+        },
+        "school_name": "HOCA AHMET YESEVİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2324,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/20522_cb_1093628078_1684084975954862138.jpg",
+            "submission_id": 253425,
+            "total_vote": 328,
+            "votes": {
+                "1": 200,
+                "2": 0,
+                "3": 115,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/20522_mv_1083628078_1684086595760801741.jpg",
+            "submission_id": 304881,
+            "total_vote": 325,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 32,
+                "12": 32,
+                "13": 12,
+                "14": 6,
+                "15": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 41,
+                "22": 26,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 7,
+                "7": 3,
+                "8": 3,
+                "9": 151
+            }
+        },
+        "school_name": "HOCA AHMET YESEVİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2309,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/20522_cb_1093627583_1684081717798438111.jpg",
+            "submission_id": 191590,
+            "total_vote": 318,
+            "votes": {
+                "1": 208,
+                "2": 2,
+                "3": 98,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/59481_mv_1083627583_1684083545989029718.jpg",
+            "submission_id": 218692,
+            "total_vote": 315,
+            "votes": {
+                "1": 0,
+                "10": 9,
+                "11": 26,
+                "12": 45,
+                "13": 4,
+                "14": 0,
+                "15": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 34,
+                "22": 13,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 4,
+                "8": 5,
+                "9": 164
+            }
+        },
+        "school_name": "HOCA AHMET YESEVİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2308,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/39022_cb_1093627582_1684088337861211094.jpg",
+            "submission_id": 362434,
+            "total_vote": 335,
+            "votes": {
+                "1": 209,
+                "3": 114,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/39022_mv_1083627582_1684088380966013911.jpg",
+            "submission_id": 363787,
+            "total_vote": 329,
+            "votes": {
+                "1": 1,
+                "10": 15,
+                "11": 23,
+                "12": 44,
+                "13": 10,
+                "21": 33,
+                "22": 18,
+                "24": 7,
+                "5": 2,
+                "6": 3,
+                "7": 4,
+                "8": 6,
+                "9": 163
+            }
+        },
+        "school_name": "HOCA AHMET YESEVİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2310,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/20522_cb_1093627584_1684082329765952517.jpg",
+            "submission_id": 198779,
+            "total_vote": 331,
+            "votes": {
+                "1": 210,
+                "2": 1,
+                "3": 99,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/20522_cb_1093627584_1684082245482824774.jpg",
+            "submission_id": 197657,
+            "total_vote": 324,
+            "votes": {
+                "10": 18,
+                "11": 21,
+                "12": 30,
+                "13": 5,
+                "14": 1,
+                "20": 1,
+                "21": 42,
+                "22": 21,
+                "24": 16,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 164
+            }
+        },
+        "school_name": "HOCA AHMET YESEVİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2318,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/57377_cb_1093627592_1684090307248948170.jpg",
+            "submission_id": 417039,
+            "total_vote": 333,
+            "votes": {
+                "1": 233,
+                "3": 82,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/20522_mv_1083627592_1684090356739308637.jpg",
+            "submission_id": 418121,
+            "total_vote": 322,
+            "votes": {
+                "10": 19,
+                "11": 22,
+                "12": 26,
+                "13": 2,
+                "21": 42,
+                "22": 14,
+                "24": 14,
+                "3": 1,
+                "5": 1,
+                "6": 1,
+                "7": 4,
+                "8": 4,
+                "9": 172
+            }
+        },
+        "school_name": "HOCA AHMET YESEVİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2301,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/20522_cb_1093627575_1684093215936212837.jpg",
+            "submission_id": 467038,
+            "total_vote": 293,
+            "votes": {
+                "1": 177,
+                "3": 105,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/20522_mv_1083627575_1684093192786220206.jpg",
+            "submission_id": 466655,
+            "total_vote": 288,
+            "votes": {
+                "10": 8,
+                "11": 30,
+                "12": 27,
+                "13": 9,
+                "15": 1,
+                "20": 1,
+                "21": 65,
+                "22": 14,
+                "24": 4,
+                "5": 1,
+                "6": 1,
+                "8": 3,
+                "9": 124
+            }
+        },
+        "school_name": "HOCA AHMET YESEVİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2305,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/40551_cb_1093627579_1684088414989223698.jpg",
+            "submission_id": 364897,
+            "total_vote": 327,
+            "votes": {
+                "1": 205,
+                "3": 98,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/40551_cb_1093627579_1684088324806211377.jpg",
+            "submission_id": 362046,
+            "total_vote": 323,
+            "votes": {
+                "1": 1,
+                "10": 19,
+                "11": 34,
+                "12": 34,
+                "13": 9,
+                "14": 0,
+                "15": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 35,
+                "22": 19,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 4,
+                "8": 1,
+                "9": 156
+            }
+        },
+        "school_name": "HOCA AHMET YESEVİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2316,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/59481_bulk_999999999_1684084859525630249.jpg",
+            "submission_id": 250143,
+            "total_vote": 338,
+            "votes": {
+                "1": 183,
+                "2": 0,
+                "3": 133,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/59481_mv_1083627590_1684089999299842922.jpg",
+            "submission_id": 409730,
+            "total_vote": 329,
+            "votes": {
+                "10": 12,
+                "11": 34,
+                "12": 43,
+                "13": 3,
+                "18": 1,
+                "21": 65,
+                "22": 22,
+                "24": 9,
+                "7": 4,
+                "8": 4,
+                "9": 132
+            }
+        },
+        "school_name": "HOCA AHMET YESEVİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2319,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/20522_cb_1093627593_1684084387863400501.jpg",
+            "submission_id": 237676,
+            "total_vote": 337,
+            "votes": {
+                "1": 204,
+                "2": 1,
+                "3": 116,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/20522_mv_1083627593_1684084304643041200.jpg",
+            "submission_id": 235609,
+            "total_vote": 323,
+            "votes": {
+                "10": 9,
+                "11": 31,
+                "12": 25,
+                "13": 7,
+                "14": 1,
+                "21": 58,
+                "22": 21,
+                "24": 18,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 148
+            }
+        },
+        "school_name": "HOCA AHMET YESEVİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2320,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/20522_cb_1093627594_1684087304915389122.jpg",
+            "submission_id": 329520,
+            "total_vote": 329,
+            "votes": {
+                "1": 196,
+                "3": 117,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/59481_bulk_999999999_1684090864033170931.jpg",
+            "submission_id": 429098,
+            "total_vote": 330,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 30,
+                "12": 44,
+                "13": 9,
+                "14": 0,
+                "15": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 46,
+                "22": 19,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 2,
+                "9": 166
+            }
+        },
+        "school_name": "HOCA AHMET YESEVİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2307,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/20522_cb_1093627581_1684081266406302477.jpg",
+            "submission_id": 187354,
+            "total_vote": 317,
+            "votes": {
+                "1": 188,
+                "2": 1,
+                "3": 108,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "HOCA AHMET YESEVİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2317,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/20522_cb_1093627591_1684083591455461939.jpg",
+            "submission_id": 219577,
+            "total_vote": 330,
+            "votes": {
+                "1": 198,
+                "2": 1,
+                "3": 116,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/59481_bulk_999999999_1684084288356129421.jpg",
+            "submission_id": 235225,
+            "total_vote": 317,
+            "votes": {
+                "1": 0,
+                "10": 18,
+                "11": 39,
+                "12": 32,
+                "13": 8,
+                "14": 0,
+                "15": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 49,
+                "22": 18,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 0,
+                "8": 1,
+                "9": 141
+            }
+        },
+        "school_name": "HOCA AHMET YESEVİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2312,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/59481_cb_1093627586_1684086052675778457.jpg",
+            "submission_id": 286680,
+            "total_vote": 334,
+            "votes": {
+                "1": 206,
+                "3": 112,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/59481_bulk_999999999_1684087840100512849.jpg",
+            "submission_id": 346794,
+            "total_vote": 329,
+            "votes": {
+                "10": 22,
+                "11": 28,
+                "12": 33,
+                "13": 5,
+                "15": 2,
+                "21": 51,
+                "22": 31,
+                "24": 9,
+                "7": 2,
+                "8": 3,
+                "9": 143
+            }
+        },
+        "school_name": "HOCA AHMET YESEVİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2304,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/15912_cb_1093627578_1684086704973202117.jpg",
+            "submission_id": 308669,
+            "total_vote": 341,
+            "votes": {
+                "1": 227,
+                "2": 3,
+                "3": 100,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/15912_mv_1083627578_1684086914098618401.jpg",
+            "submission_id": 315923,
+            "total_vote": 335,
+            "votes": {
+                "10": 18,
+                "11": 29,
+                "12": 44,
+                "13": 1,
+                "15": 2,
+                "21": 33,
+                "22": 15,
+                "24": 10,
+                "5": 1,
+                "7": 7,
+                "8": 2,
+                "9": 173
+            }
+        },
+        "school_name": "HOCA AHMET YESEVİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2302,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/20522_cb_1093627576_1684085337820244799.jpg",
+            "submission_id": 263818,
+            "total_vote": 302,
+            "votes": {
+                "1": 189,
+                "2": 0,
+                "3": 102,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/20522_mv_1083627576_1684087666141331905.jpg",
+            "submission_id": 341266,
+            "total_vote": 293,
+            "votes": {
+                "10": 7,
+                "11": 26,
+                "12": 23,
+                "13": 6,
+                "14": 0,
+                "15": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 49,
+                "22": 20,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 3,
+                "8": 3,
+                "9": 145
+            }
+        },
+        "school_name": "HOCA AHMET YESEVİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2321,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/59481_bulk_999999999_1684088727660728042.jpg",
+            "submission_id": 374483,
+            "total_vote": 335,
+            "votes": {
+                "1": 213,
+                "2": 1,
+                "3": 106,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/20522_mv_1083628075_1684089723041797354.jpg",
+            "submission_id": 402419,
+            "total_vote": 327,
+            "votes": {
+                "1": 8,
+                "10": 16,
+                "11": 21,
+                "12": 40,
+                "13": 7,
+                "14": 1,
+                "15": 2,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 36,
+                "22": 8,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 1,
+                "9": 175
+            }
+        },
+        "school_name": "HOCA AHMET YESEVİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2315,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/21798_cb_1093627589_1684090111205443660.jpg",
+            "submission_id": 412404,
+            "total_vote": 334,
+            "votes": {
+                "1": 203,
+                "2": 1,
+                "3": 117,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/20522_mv_1083627589_1684092117577250962.jpg",
+            "submission_id": 451229,
+            "total_vote": 321,
+            "votes": {
+                "10": 15,
+                "11": 28,
+                "12": 33,
+                "13": 10,
+                "18": 1,
+                "21": 46,
+                "22": 26,
+                "24": 10,
+                "7": 2,
+                "8": 7,
+                "9": 143
+            }
+        },
+        "school_name": "HOCA AHMET YESEVİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2303,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/20522_cb_1093627577_1684081236422373023.jpg",
+            "submission_id": 187118,
+            "total_vote": 308,
+            "votes": {
+                "1": 189,
+                "2": 1,
+                "3": 110,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/20522_mv_1083627577_1684083512733896800.jpg",
+            "submission_id": 218046,
+            "total_vote": 300,
+            "votes": {
+                "1": 0,
+                "10": 11,
+                "11": 30,
+                "12": 45,
+                "13": 3,
+                "14": 0,
+                "15": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 48,
+                "22": 14,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 0,
+                "8": 1,
+                "9": 141
+            }
+        },
+        "school_name": "HOCA AHMET YESEVİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2326,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/20522_cb_1093628080_1684085550733041584.jpg",
+            "submission_id": 270161,
+            "total_vote": 334,
+            "votes": {
+                "1": 218,
+                "3": 105,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/20522_mv_1083628080_1684085525520174181.jpg",
+            "submission_id": 269383,
+            "total_vote": 328,
+            "votes": {
+                "10": 13,
+                "11": 26,
+                "12": 23,
+                "13": 2,
+                "21": 54,
+                "22": 17,
+                "24": 12,
+                "3": 2,
+                "7": 3,
+                "8": 1,
+                "9": 175
+            }
+        },
+        "school_name": "HOCA AHMET YESEVİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2306,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/39022_cb_1093627580_1684086435006884357.jpg",
+            "submission_id": 299185,
+            "total_vote": 315,
+            "votes": {
+                "1": 191,
+                "3": 103,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "HOCA AHMET YESEVİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2323,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/20522_cb_1093628077_1684086548623225991.jpg",
+            "submission_id": 303240,
+            "total_vote": 329,
+            "votes": {
+                "1": 210,
+                "2": 1,
+                "3": 110,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/59481_bulk_999999999_1684087592933786286.jpg",
+            "submission_id": 338884,
+            "total_vote": 333,
+            "votes": {
+                "1": 0,
+                "10": 11,
+                "11": 29,
+                "12": 29,
+                "13": 15,
+                "14": 1,
+                "15": 4,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 40,
+                "22": 21,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 8,
+                "8": 8,
+                "9": 164
+            }
+        },
+        "school_name": "HOCA AHMET YESEVİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2322,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/59481_cb_1093628076_1684090954611178460.jpg",
+            "submission_id": 431029,
+            "total_vote": 333,
+            "votes": {
+                "1": 230,
+                "2": 1,
+                "3": 87,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/59481_bulk_999999999_1684091607998444143.jpg",
+            "submission_id": 442947,
+            "total_vote": 320,
+            "votes": {
+                "1": 1,
+                "10": 15,
+                "11": 33,
+                "12": 28,
+                "13": 3,
+                "14": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 46,
+                "22": 11,
+                "24": 10,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 0,
+                "8": 2,
+                "9": 169
+            }
+        },
+        "school_name": "HOCA AHMET YESEVİ ORTAOKULU"
+    }
+]

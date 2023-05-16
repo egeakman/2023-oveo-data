@@ -1,0 +1,94 @@
+[
+    {
+        "ballot_box_number": 2264,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/21778_bulk_999999999_1684086448370753131.jpeg",
+            "submission_id": 299648,
+            "total_vote": 197,
+            "votes": {
+                "1": 135,
+                "2": 0,
+                "3": 41,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/6450_mv_1083650665_1684087260183411683.jpg",
+            "submission_id": 328056,
+            "total_vote": 192,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 28,
+                "12": 1,
+                "13": 3,
+                "14": 1,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 25,
+                "22": 17,
+                "23": 1,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 104
+            }
+        },
+        "school_name": "IŞIKLAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2263,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/6450_cb_1093650664_1684087821645757250.jpg",
+            "submission_id": 346236,
+            "total_vote": 206,
+            "votes": {
+                "1": 126,
+                "2": 2,
+                "3": 69,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/6450_mv_1083650664_1684090417535519101.jpg",
+            "submission_id": 419464,
+            "total_vote": 203,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 22,
+                "12": 4,
+                "13": 2,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 39,
+                "22": 25,
+                "23": 1,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 4,
+                "8": 0,
+                "9": 94
+            }
+        },
+        "school_name": "IŞIKLAR İLKOKULU"
+    }
+]

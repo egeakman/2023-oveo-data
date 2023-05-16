@@ -1,0 +1,87 @@
+[
+    {
+        "ballot_box_number": 1258,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f1cdea0d-0e63-41f5-8b9c-f9d22889dfb9-1684106516569299269.jpg",
+            "submission_id": 799203,
+            "total_vote": 221,
+            "votes": {
+                "1": 34,
+                "2": 1,
+                "3": 180,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0307d2af-6815-401f-b909-1e209e39179c-1684106597363214932.jpg",
+            "submission_id": 810922,
+            "total_vote": 209,
+            "votes": {
+                "10": 1,
+                "11": 7,
+                "12": 2,
+                "13": 2,
+                "17": 2,
+                "19": 1,
+                "20": 1,
+                "21": 97,
+                "22": 54,
+                "24": 6,
+                "3": 1,
+                "7": 5,
+                "8": 1,
+                "9": 29
+            }
+        },
+        "school_name": "SAYALAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1260,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/98370be0-bf64-4f68-ba8e-633936d97fc9-1684106119298611364.jpg",
+            "submission_id": 740839,
+            "total_vote": 251,
+            "votes": {
+                "1": 59,
+                "3": 184,
+                "4": 8
+            }
+        },
+        "mv_result": null,
+        "school_name": "SAYALAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1259,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ad03c5a9-3b15-4bf1-968f-724e8ddfc5a4-1684106488056773078.jpg",
+            "submission_id": 794854,
+            "total_vote": 236,
+            "votes": {
+                "1": 30,
+                "3": 199,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/6e3fda10-6d70-4a4e-b0de-bb4d2c22abec-1684106354294655161.jpg",
+            "submission_id": 775419,
+            "total_vote": 230,
+            "votes": {
+                "10": 2,
+                "11": 6,
+                "12": 2,
+                "13": 3,
+                "15": 1,
+                "19": 1,
+                "21": 121,
+                "22": 64,
+                "24": 2,
+                "6": 3,
+                "7": 1,
+                "8": 1,
+                "9": 23
+            }
+        },
+        "school_name": "SAYALAR İLKOKULU"
+    }
+]

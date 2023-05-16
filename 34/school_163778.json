@@ -1,0 +1,781 @@
+[
+    {
+        "ballot_box_number": 2111,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/66567_cb_1093785947_1684088867972353913.jpg",
+            "submission_id": 378564,
+            "total_vote": 340,
+            "votes": {
+                "1": 65,
+                "2": 1,
+                "3": 264,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/66567_cb_1093785947_1684088436978075735.jpg",
+            "submission_id": 365558,
+            "total_vote": 341,
+            "votes": {
+                "10": 1,
+                "11": 10,
+                "12": 6,
+                "13": 30,
+                "15": 1,
+                "19": 1,
+                "20": 1,
+                "21": 186,
+                "22": 36,
+                "23": 1,
+                "24": 4,
+                "3": 2,
+                "7": 8,
+                "8": 2,
+                "9": 52
+            }
+        },
+        "school_name": "KÜÇÜKYALI E.C.A. ELGİNKAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2092,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/58591_cb_1093785828_1684088565222988478.jpg",
+            "submission_id": 369505,
+            "total_vote": 320,
+            "votes": {
+                "1": 77,
+                "2": 2,
+                "3": 231,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/58591_mv_1083785828_1684088461254844468.jpg",
+            "submission_id": 366272,
+            "total_vote": 314,
+            "votes": {
+                "10": 3,
+                "11": 10,
+                "12": 0,
+                "13": 15,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "20": 0,
+                "21": 196,
+                "22": 19,
+                "23": 1,
+                "24": 6,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "8": 0,
+                "9": 60
+            }
+        },
+        "school_name": "KÜÇÜKYALI E.C.A. ELGİNKAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2109,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/50442_cb_1093785945_1684088910440961581.jpg",
+            "submission_id": 379891,
+            "total_vote": 349,
+            "votes": {
+                "1": 75,
+                "3": 266,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/50442_mv_1083785945_1684088955309714119.jpg",
+            "submission_id": 381243,
+            "total_vote": 346,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 9,
+                "12": 9,
+                "13": 34,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 182,
+                "22": 42,
+                "23": 0,
+                "24": 3,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 1,
+                "9": 60
+            }
+        },
+        "school_name": "KÜÇÜKYALI E.C.A. ELGİNKAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2104,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/36777_cb_1093785940_1684091161896305226.jpg",
+            "submission_id": 435103,
+            "total_vote": 340,
+            "votes": {
+                "1": 62,
+                "2": 0,
+                "3": 255,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/36777_mv_1083785940_1684091215556863101.jpg",
+            "submission_id": 436157,
+            "total_vote": 336,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 6,
+                "12": 9,
+                "13": 27,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 165,
+                "22": 55,
+                "23": 1,
+                "24": 15,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 1,
+                "8": 0,
+                "9": 48
+            }
+        },
+        "school_name": "KÜÇÜKYALI E.C.A. ELGİNKAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2097,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/20552_bulk_999999999_1684089105233944126.jpeg",
+            "submission_id": 385500,
+            "total_vote": 338,
+            "votes": {
+                "1": 79,
+                "2": 2,
+                "3": 251,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/20552_bulk_999999999_1684089105164106241.jpeg",
+            "submission_id": 385497,
+            "total_vote": 332,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 1,
+                "12": 8,
+                "13": 32,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 168,
+                "22": 43,
+                "23": 1,
+                "24": 4,
+                "3": 0,
+                "4": 4,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 5,
+                "9": 57
+            }
+        },
+        "school_name": "KÜÇÜKYALI E.C.A. ELGİNKAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2093,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/13798_cb_1093785827_1684082053461077803.jpg",
+            "submission_id": 195263,
+            "total_vote": 298,
+            "votes": {
+                "1": 70,
+                "2": 1,
+                "3": 218,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/13798_mv_1083785829_1684089934750356267.jpg",
+            "submission_id": 408031,
+            "total_vote": 295,
+            "votes": {
+                "10": 3,
+                "11": 12,
+                "12": 5,
+                "13": 19,
+                "19": 1,
+                "2": 1,
+                "20": 1,
+                "21": 175,
+                "22": 19,
+                "24": 3,
+                "5": 1,
+                "7": 1,
+                "9": 54
+            }
+        },
+        "school_name": "KÜÇÜKYALI E.C.A. ELGİNKAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2110,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/60355_cb_1093785946_1684081903526996389.jpg",
+            "submission_id": 193506,
+            "total_vote": 345,
+            "votes": {
+                "1": 59,
+                "3": 275,
+                "4": 11
+            }
+        },
+        "mv_result": null,
+        "school_name": "KÜÇÜKYALI E.C.A. ELGİNKAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2107,
+        "cm_result": {
+            "image_url": "https://source1-secim-images.oyveotesi.org/raw/1039222_cb_3785943_1684081415.jpeg",
+            "submission_id": 188656,
+            "total_vote": 343,
+            "votes": {
+                "1": 75,
+                "2": 1,
+                "3": 261,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source1-secim-images.oyveotesi.org/raw/rotated/1039219_mv_3785943_1684090618.jpeg",
+            "submission_id": 484740,
+            "total_vote": 340,
+            "votes": {
+                "10": 2,
+                "11": 9,
+                "12": 5,
+                "13": 39,
+                "15": 1,
+                "20": 1,
+                "21": 176,
+                "22": 34,
+                "24": 6,
+                "6": 1,
+                "7": 4,
+                "9": 62
+            }
+        },
+        "school_name": "KÜÇÜKYALI E.C.A. ELGİNKAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2099,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/36783_cb_1093785935_1684088197344175917.jpg",
+            "submission_id": 358193,
+            "total_vote": 344,
+            "votes": {
+                "1": 69,
+                "3": 260,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "KÜÇÜKYALI E.C.A. ELGİNKAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2106,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/60371_bulk_999999999_1684081994448671039.jpeg",
+            "submission_id": 194528,
+            "total_vote": 336,
+            "votes": {
+                "1": 72,
+                "2": 1,
+                "3": 252,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source1-secim-images.oyveotesi.org/raw/1039219_mv_3785942_1684090077.jpeg",
+            "submission_id": 411640,
+            "total_vote": 334,
+            "votes": {
+                "1": 1,
+                "10": 6,
+                "11": 10,
+                "12": 2,
+                "13": 32,
+                "18": 1,
+                "20": 1,
+                "21": 169,
+                "22": 45,
+                "23": 1,
+                "24": 5,
+                "3": 2,
+                "7": 3,
+                "9": 56
+            }
+        },
+        "school_name": "KÜÇÜKYALI E.C.A. ELGİNKAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2091,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/20552_bulk_999999999_1684082795846651255.jpeg",
+            "submission_id": 205372,
+            "total_vote": 298,
+            "votes": {
+                "1": 74,
+                "2": 2,
+                "3": 218,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/20552_bulk_999999999_1684092994896990449.jpeg",
+            "submission_id": 463863,
+            "total_vote": 296,
+            "votes": {
+                "10": 4,
+                "11": 9,
+                "12": 4,
+                "13": 10,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 170,
+                "22": 34,
+                "23": 1,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "8": 0,
+                "9": 56
+            }
+        },
+        "school_name": "KÜÇÜKYALI E.C.A. ELGİNKAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2108,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/20552_bulk_999999999_1684087650626077329.jpeg",
+            "submission_id": 340751,
+            "total_vote": 333,
+            "votes": {
+                "1": 94,
+                "3": 229,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/314ffbaf-8194-401b-8ddf-fa936551e597-1684105338322565497.jpg",
+            "submission_id": 620552,
+            "total_vote": 329,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 14,
+                "12": 6,
+                "13": 23,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 165,
+                "22": 36,
+                "23": 0,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 0,
+                "9": 64
+            }
+        },
+        "school_name": "KÜÇÜKYALI E.C.A. ELGİNKAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2101,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/13841_cb_1093785937_1684088213856289004.jpg",
+            "submission_id": 358671,
+            "total_vote": 349,
+            "votes": {
+                "1": 89,
+                "2": 1,
+                "3": 241,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/313b4d15-771a-43b7-bc8d-16ac966255f7-1684105466282402388.jpg",
+            "submission_id": 644073,
+            "total_vote": 349,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 17,
+                "12": 9,
+                "13": 26,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 163,
+                "22": 35,
+                "23": 0,
+                "24": 14,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 5,
+                "8": 4,
+                "9": 67
+            }
+        },
+        "school_name": "KÜÇÜKYALI E.C.A. ELGİNKAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2096,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/76996_cb_1093785832_1684085961273724876.jpg",
+            "submission_id": 283759,
+            "total_vote": 341,
+            "votes": {
+                "1": 80,
+                "2": 0,
+                "3": 255,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/76996_bulk_999999999_1684087830803713740.jpeg",
+            "submission_id": 346524,
+            "total_vote": 341,
+            "votes": {
+                "10": 6,
+                "11": 6,
+                "12": 7,
+                "13": 31,
+                "19": 1,
+                "21": 179,
+                "22": 39,
+                "23": 1,
+                "24": 4,
+                "4": 1,
+                "7": 1,
+                "9": 65
+            }
+        },
+        "school_name": "KÜÇÜKYALI E.C.A. ELGİNKAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2095,
+        "cm_result": {
+            "image_url": "https://source1-secim-images.oyveotesi.org/raw/1039222_cb_3785831_1684081571.jpeg",
+            "submission_id": 190101,
+            "total_vote": 338,
+            "votes": {
+                "1": 89,
+                "3": 240,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/13818_bulk_999999999_1684089080355503102.jpeg",
+            "submission_id": 384793,
+            "total_vote": 330,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 15,
+                "12": 8,
+                "13": 26,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 165,
+                "22": 38,
+                "23": 0,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 0,
+                "9": 62
+            }
+        },
+        "school_name": "KÜÇÜKYALI E.C.A. ELGİNKAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2103,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/13796_bulk_999999999_1684080675387605482.jpeg",
+            "submission_id": 183076,
+            "total_vote": 332,
+            "votes": {
+                "1": 84,
+                "2": 3,
+                "3": 235,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/13796_bulk_999999999_1684086225207748168.jpeg",
+            "submission_id": 292272,
+            "total_vote": 329,
+            "votes": {
+                "10": 5,
+                "11": 16,
+                "12": 5,
+                "13": 20,
+                "17": 2,
+                "21": 165,
+                "22": 46,
+                "24": 5,
+                "6": 1,
+                "7": 4,
+                "9": 60
+            }
+        },
+        "school_name": "KÜÇÜKYALI E.C.A. ELGİNKAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2112,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/20552_bulk_999999999_1684090503723838236.jpeg",
+            "submission_id": 421425,
+            "total_vote": 335,
+            "votes": {
+                "1": 91,
+                "2": 0,
+                "3": 235,
+                "4": 9
+            }
+        },
+        "mv_result": null,
+        "school_name": "KÜÇÜKYALI E.C.A. ELGİNKAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2105,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/50442_cb_1093785941_1684091846504808211.jpg",
+            "submission_id": 446684,
+            "total_vote": 337,
+            "votes": {
+                "1": 85,
+                "2": 1,
+                "3": 236,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/50442_mv_1083785941_1684091801461651951.jpg",
+            "submission_id": 446019,
+            "total_vote": 330,
+            "votes": {
+                "10": 3,
+                "11": 11,
+                "12": 9,
+                "13": 30,
+                "19": 1,
+                "21": 155,
+                "22": 42,
+                "24": 12,
+                "3": 1,
+                "7": 2,
+                "8": 2,
+                "9": 62
+            }
+        },
+        "school_name": "KÜÇÜKYALI E.C.A. ELGİNKAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2100,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/20552_bulk_999999999_1684087072723327158.jpeg",
+            "submission_id": 321550,
+            "total_vote": 349,
+            "votes": {
+                "1": 65,
+                "2": 2,
+                "3": 263,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/705d9c5f-5f3b-4373-947f-e515a54e1b23-1684105231539245153.jpg",
+            "submission_id": 599643,
+            "total_vote": 350,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 10,
+                "12": 5,
+                "13": 34,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 3,
+                "2": 0,
+                "20": 1,
+                "21": 172,
+                "22": 54,
+                "23": 0,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 52
+            }
+        },
+        "school_name": "KÜÇÜKYALI E.C.A. ELGİNKAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2102,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/20552_bulk_999999999_1684082311633291539.jpeg",
+            "submission_id": 198561,
+            "total_vote": 345,
+            "votes": {
+                "1": 66,
+                "2": 0,
+                "3": 265,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d9099df2-72d8-4992-a8bf-defeee823f30-1684105505343730646.jpg",
+            "submission_id": 650944,
+            "total_vote": 346,
+            "votes": {
+                "10": 5,
+                "11": 8,
+                "12": 5,
+                "13": 31,
+                "21": 188,
+                "22": 35,
+                "23": 1,
+                "24": 13,
+                "6": 2,
+                "7": 5,
+                "8": 1,
+                "9": 52
+            }
+        },
+        "school_name": "KÜÇÜKYALI E.C.A. ELGİNKAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2098,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/20552_bulk_999999999_1684081678377766530.jpeg",
+            "submission_id": 191183,
+            "total_vote": 354,
+            "votes": {
+                "1": 72,
+                "2": 0,
+                "3": 268,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "KÜÇÜKYALI E.C.A. ELGİNKAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2094,
+        "cm_result": {
+            "image_url": "https://source1-secim-images.oyveotesi.org/raw/1039222_cb_3785830_1684081652.jpeg",
+            "submission_id": 190954,
+            "total_vote": 309,
+            "votes": {
+                "1": 62,
+                "3": 237,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/20552_bulk_999999999_1684089973301030653.jpeg",
+            "submission_id": 409032,
+            "total_vote": 303,
+            "votes": {
+                "10": 2,
+                "11": 10,
+                "12": 3,
+                "13": 18,
+                "20": 1,
+                "21": 176,
+                "22": 34,
+                "23": 1,
+                "24": 4,
+                "5": 1,
+                "8": 4,
+                "9": 49
+            }
+        },
+        "school_name": "KÜÇÜKYALI E.C.A. ELGİNKAN İLKOKULU"
+    }
+]

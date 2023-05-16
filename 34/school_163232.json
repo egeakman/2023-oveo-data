@@ -1,0 +1,62 @@
+[
+    {
+        "ballot_box_number": 1099,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/52452_cb_1093787553_1684084751148399847.jpg",
+            "submission_id": 247226,
+            "total_vote": 241,
+            "votes": {
+                "1": 96,
+                "2": 3,
+                "3": 135,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "GÜMÜŞPINAR ANAOKULU"
+    },
+    {
+        "ballot_box_number": 1100,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/52452_cb_1093787554_1684083554605828827.jpg",
+            "submission_id": 218876,
+            "total_vote": 239,
+            "votes": {
+                "1": 88,
+                "2": 3,
+                "3": 137,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/52452_mv_1083787554_1684083616483773946.jpg",
+            "submission_id": 220068,
+            "total_vote": 233,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 21,
+                "12": 6,
+                "13": 8,
+                "14": 2,
+                "15": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 77,
+                "22": 47,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 4,
+                "9": 59
+            }
+        },
+        "school_name": "GÜMÜŞPINAR ANAOKULU"
+    }
+]

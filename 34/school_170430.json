@@ -1,0 +1,47 @@
+[
+    {
+        "ballot_box_number": 1080,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/72360_cb_1093774274_1684087277882978377.jpg",
+            "submission_id": 328677,
+            "total_vote": 298,
+            "votes": {
+                "1": 99,
+                "2": 0,
+                "3": 181,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/72360_mv_1083774274_1684087301617735535.jpg",
+            "submission_id": 329426,
+            "total_vote": 296,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 12,
+                "12": 2,
+                "13": 15,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 142,
+                "22": 26,
+                "23": 3,
+                "24": 0,
+                "3": 11,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 0,
+                "9": 79
+            }
+        },
+        "school_name": "DEMİRCİKÖY AİLE SAĞLIK MERKEZİ"
+    }
+]

@@ -1,0 +1,581 @@
+[
+    {
+        "ballot_box_number": 1204,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11946_cb_1093786554_1684085789844482438.jpg",
+            "submission_id": 278074,
+            "total_vote": 343,
+            "votes": {
+                "1": 140,
+                "3": 178,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16476_mv_1083786554_1684087624741202672.jpg",
+            "submission_id": 339838,
+            "total_vote": 340,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 20,
+                "12": 34,
+                "13": 25,
+                "14": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 99,
+                "22": 22,
+                "23": 0,
+                "24": 15,
+                "3": 0,
+                "4": 1,
+                "5": 4,
+                "6": 1,
+                "7": 2,
+                "8": 2,
+                "9": 108
+            }
+        },
+        "school_name": "YAKACIK MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1196,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16475_cb_1093786546_1684087731242732063.jpg",
+            "submission_id": 343421,
+            "total_vote": 329,
+            "votes": {
+                "1": 116,
+                "3": 198,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/16475_bulk_999999999_1684089176951147219.jpeg",
+            "submission_id": 387490,
+            "total_vote": 322,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 19,
+                "12": 28,
+                "13": 26,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 126,
+                "22": 17,
+                "23": 2,
+                "24": 3,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 7,
+                "8": 3,
+                "9": 84
+            }
+        },
+        "school_name": "YAKACIK MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1197,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/5661_bulk_999999999_1684082607819696092.jpeg",
+            "submission_id": 202464,
+            "total_vote": 315,
+            "votes": {
+                "1": 117,
+                "2": 1,
+                "3": 185,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5661_mv_1083786547_1684090019399102954.jpg",
+            "submission_id": 410239,
+            "total_vote": 306,
+            "votes": {
+                "10": 6,
+                "11": 11,
+                "12": 20,
+                "13": 14,
+                "15": 1,
+                "21": 112,
+                "22": 29,
+                "24": 8,
+                "3": 1,
+                "5": 1,
+                "6": 4,
+                "7": 3,
+                "8": 1,
+                "9": 95
+            }
+        },
+        "school_name": "YAKACIK MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1203,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5924_cb_1093786553_1684081868540553953.jpg",
+            "submission_id": 193147,
+            "total_vote": 345,
+            "votes": {
+                "1": 128,
+                "2": 1,
+                "3": 206,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16475_mv_1083786553_1684087977277703557.jpg",
+            "submission_id": 351185,
+            "total_vote": 340,
+            "votes": {
+                "10": 9,
+                "11": 7,
+                "12": 26,
+                "13": 8,
+                "21": 145,
+                "22": 30,
+                "24": 4,
+                "3": 3,
+                "5": 1,
+                "6": 1,
+                "7": 4,
+                "8": 2,
+                "9": 100
+            }
+        },
+        "school_name": "YAKACIK MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1200,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5924_cb_1093786550_1684082536954136601.jpg",
+            "submission_id": 201468,
+            "total_vote": 335,
+            "votes": {
+                "1": 126,
+                "2": 2,
+                "3": 189,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16475_mv_1083786550_1684089788643514839.jpg",
+            "submission_id": 404204,
+            "total_vote": 328,
+            "votes": {
+                "1": 0,
+                "10": 9,
+                "11": 14,
+                "12": 40,
+                "13": 14,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 106,
+                "22": 26,
+                "23": 0,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 7,
+                "8": 1,
+                "9": 100
+            }
+        },
+        "school_name": "YAKACIK MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1208,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/16475_bulk_999999999_1684084592173868044.jpeg",
+            "submission_id": 242923,
+            "total_vote": 343,
+            "votes": {
+                "1": 133,
+                "2": 1,
+                "3": 186,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16475_mv_1083786618_1684084842119447532.jpg",
+            "submission_id": 249678,
+            "total_vote": 340,
+            "votes": {
+                "1": 0,
+                "10": 14,
+                "11": 9,
+                "12": 28,
+                "13": 15,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 122,
+                "22": 27,
+                "23": 1,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 4,
+                "8": 2,
+                "9": 105
+            }
+        },
+        "school_name": "YAKACIK MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1207,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/41768_cb_1093786617_1684081586113935207.jpg",
+            "submission_id": 190187,
+            "total_vote": 335,
+            "votes": {
+                "1": 114,
+                "2": 1,
+                "3": 209,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16475_mv_1083786617_1684089695927389336.jpg",
+            "submission_id": 401663,
+            "total_vote": 330,
+            "votes": {
+                "10": 10,
+                "11": 17,
+                "12": 30,
+                "13": 21,
+                "20": 1,
+                "21": 137,
+                "22": 14,
+                "23": 2,
+                "24": 8,
+                "3": 2,
+                "7": 5,
+                "8": 4,
+                "9": 79
+            }
+        },
+        "school_name": "YAKACIK MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1199,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/49856_cb_1093786549_1684084692756793322.jpg",
+            "submission_id": 245686,
+            "total_vote": 329,
+            "votes": {
+                "1": 119,
+                "2": 1,
+                "3": 193,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/49856_mv_1083786549_1684084753975674976.jpg",
+            "submission_id": 247309,
+            "total_vote": 327,
+            "votes": {
+                "10": 13,
+                "11": 13,
+                "12": 28,
+                "13": 22,
+                "14": 1,
+                "18": 1,
+                "20": 2,
+                "21": 111,
+                "22": 17,
+                "24": 9,
+                "4": 1,
+                "5": 2,
+                "6": 1,
+                "7": 8,
+                "8": 1,
+                "9": 97
+            }
+        },
+        "school_name": "YAKACIK MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1202,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/42667_cb_1093786552_1684086761830550072.jpg",
+            "submission_id": 310731,
+            "total_vote": 332,
+            "votes": {
+                "1": 129,
+                "2": 1,
+                "3": 178,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/42667_mv_1083786552_1684086665346874336.jpg",
+            "submission_id": 307266,
+            "total_vote": 328,
+            "votes": {
+                "10": 11,
+                "11": 11,
+                "12": 37,
+                "13": 17,
+                "15": 1,
+                "21": 98,
+                "22": 27,
+                "24": 15,
+                "3": 1,
+                "6": 1,
+                "7": 2,
+                "8": 4,
+                "9": 103
+            }
+        },
+        "school_name": "YAKACIK MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1205,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/18550_bulk_999999999_1684087204132833102.jpg",
+            "submission_id": 326213,
+            "total_vote": 328,
+            "votes": {
+                "1": 128,
+                "2": 1,
+                "3": 183,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/18550_bulk_999999999_1684087274592857779.jpg",
+            "submission_id": 328565,
+            "total_vote": 323,
+            "votes": {
+                "10": 11,
+                "11": 20,
+                "12": 27,
+                "13": 11,
+                "15": 1,
+                "19": 1,
+                "21": 125,
+                "22": 25,
+                "23": 1,
+                "24": 7,
+                "3": 1,
+                "7": 3,
+                "8": 1,
+                "9": 89
+            }
+        },
+        "school_name": "YAKACIK MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1198,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16476_cb_1093786548_1684085850886595282.jpg",
+            "submission_id": 280164,
+            "total_vote": 336,
+            "votes": {
+                "1": 132,
+                "3": 194,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16476_mv_1083786548_1684087338293396183.jpg",
+            "submission_id": 330606,
+            "total_vote": 332,
+            "votes": {
+                "1": 1,
+                "10": 8,
+                "11": 14,
+                "12": 33,
+                "13": 22,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 112,
+                "22": 20,
+                "23": 1,
+                "24": 8,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "8": 7,
+                "9": 100
+            }
+        },
+        "school_name": "YAKACIK MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1201,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16475_cb_1093786551_1684087396376181367.jpg",
+            "submission_id": 332604,
+            "total_vote": 344,
+            "votes": {
+                "1": 130,
+                "2": 1,
+                "3": 199,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16475_mv_1083786551_1684087422094149623.jpg",
+            "submission_id": 333389,
+            "total_vote": 339,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 18,
+                "12": 38,
+                "13": 15,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 117,
+                "22": 29,
+                "23": 0,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 2,
+                "8": 1,
+                "9": 103
+            }
+        },
+        "school_name": "YAKACIK MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1206,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/24095_cb_1093786616_1684085673050256789.jpg",
+            "submission_id": 274166,
+            "total_vote": 325,
+            "votes": {
+                "1": 133,
+                "2": 0,
+                "3": 181,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/24095_mv_1083786616_1684088450617518004.jpg",
+            "submission_id": 365936,
+            "total_vote": 325,
+            "votes": {
+                "1": 0,
+                "10": 8,
+                "11": 13,
+                "12": 32,
+                "13": 18,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 111,
+                "22": 17,
+                "23": 0,
+                "24": 7,
+                "3": 7,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 6,
+                "8": 0,
+                "9": 104
+            }
+        },
+        "school_name": "YAKACIK MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1195,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5924_mv_1083786545_1684083523951988185.jpg",
+            "submission_id": 218265,
+            "total_vote": 319,
+            "votes": {
+                "1": 107,
+                "2": 1,
+                "3": 205,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/41768_mv_1083786545_1684090156694954919.jpg",
+            "submission_id": 413530,
+            "total_vote": 314,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 11,
+                "12": 29,
+                "13": 13,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 0,
+                "21": 135,
+                "22": 20,
+                "23": 0,
+                "24": 5,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 1,
+                "9": 90
+            }
+        },
+        "school_name": "YAKACIK MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    }
+]

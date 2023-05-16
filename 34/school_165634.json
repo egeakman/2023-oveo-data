@@ -1,0 +1,510 @@
+[
+    {
+        "ballot_box_number": 1262,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4422_cb_1093686502_1684085651905110178.jpg",
+            "submission_id": 273453,
+            "total_vote": 352,
+            "votes": {
+                "1": 213,
+                "2": 0,
+                "3": 132,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4422_mv_1083686502_1684085715569357954.jpg",
+            "submission_id": 275583,
+            "total_vote": 346,
+            "votes": {
+                "10": 15,
+                "11": 41,
+                "12": 88,
+                "13": 5,
+                "14": 2,
+                "21": 30,
+                "22": 9,
+                "24": 4,
+                "8": 10,
+                "9": 142
+            }
+        },
+        "school_name": "CUMHURİYET İLK/ORTAOKULU (NECİP FAZIL)"
+    },
+    {
+        "ballot_box_number": 1253,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/39818_cb_1093685633_1684090440219555715.jpg",
+            "submission_id": 419926,
+            "total_vote": 338,
+            "votes": {
+                "1": 227,
+                "2": 2,
+                "3": 94,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/39818_mv_1083685633_1684091645246111942.jpg",
+            "submission_id": 443521,
+            "total_vote": 336,
+            "votes": {
+                "10": 18,
+                "11": 23,
+                "12": 62,
+                "13": 1,
+                "21": 28,
+                "22": 6,
+                "24": 13,
+                "3": 1,
+                "7": 1,
+                "8": 10,
+                "9": 173
+            }
+        },
+        "school_name": "CUMHURİYET İLK/ORTAOKULU (NECİP FAZIL)"
+    },
+    {
+        "ballot_box_number": 1254,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4422_cb_1093686497_1684090938363772076.jpg",
+            "submission_id": 430615,
+            "total_vote": 325,
+            "votes": {
+                "1": 198,
+                "2": 0,
+                "3": 116,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4422_mv_1083685634_1684091454526534368.jpg",
+            "submission_id": 440448,
+            "total_vote": 324,
+            "votes": {
+                "10": 15,
+                "11": 28,
+                "12": 69,
+                "13": 2,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 33,
+                "22": 11,
+                "23": 3,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 6,
+                "8": 5,
+                "9": 143
+            }
+        },
+        "school_name": "CUMHURİYET İLK/ORTAOKULU (NECİP FAZIL)"
+    },
+    {
+        "ballot_box_number": 1251,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/48476_cb_1093685631_1684083261533266143.jpg",
+            "submission_id": 213264,
+            "total_vote": 323,
+            "votes": {
+                "1": 216,
+                "3": 100,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/48476_mv_1083685631_1684084515770650431.jpg",
+            "submission_id": 240880,
+            "total_vote": 309,
+            "votes": {
+                "10": 17,
+                "11": 28,
+                "12": 60,
+                "13": 1,
+                "14": 1,
+                "15": 1,
+                "21": 34,
+                "22": 6,
+                "24": 5,
+                "7": 4,
+                "8": 17,
+                "9": 135
+            }
+        },
+        "school_name": "CUMHURİYET İLK/ORTAOKULU (NECİP FAZIL)"
+    },
+    {
+        "ballot_box_number": 1250,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/4422_bulk_999999999_1684086022425014400.jpeg",
+            "submission_id": 285673,
+            "total_vote": 314,
+            "votes": {
+                "1": 186,
+                "2": 1,
+                "3": 110,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4422_mv_1083685630_1684088606452129195.jpg",
+            "submission_id": 370801,
+            "total_vote": 311,
+            "votes": {
+                "1": 0,
+                "10": 16,
+                "11": 21,
+                "12": 66,
+                "13": 7,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 7,
+                "20": 0,
+                "21": 28,
+                "22": 12,
+                "23": 0,
+                "24": 0,
+                "3": 0,
+                "4": 1,
+                "5": 1,
+                "6": 0,
+                "7": 2,
+                "8": 12,
+                "9": 136
+            }
+        },
+        "school_name": "CUMHURİYET İLK/ORTAOKULU (NECİP FAZIL)"
+    },
+    {
+        "ballot_box_number": 1255,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4422_cb_1093686495_1684088262509692896.jpg",
+            "submission_id": 360194,
+            "total_vote": 334,
+            "votes": {
+                "1": 194,
+                "3": 128,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4422_mv_1083686495_1684088280316861632.jpg",
+            "submission_id": 360721,
+            "total_vote": 328,
+            "votes": {
+                "1": 0,
+                "10": 14,
+                "11": 38,
+                "12": 79,
+                "13": 11,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 32,
+                "22": 8,
+                "23": 0,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 4,
+                "9": 135
+            }
+        },
+        "school_name": "CUMHURİYET İLK/ORTAOKULU (NECİP FAZIL)"
+    },
+    {
+        "ballot_box_number": 1257,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4422_cb_1093686497_1684092018890684721.jpg",
+            "submission_id": 449633,
+            "total_vote": 329,
+            "votes": {
+                "1": 214,
+                "3": 104,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4422_mv_1083686497_1684092004111096928.jpg",
+            "submission_id": 449378,
+            "total_vote": 326,
+            "votes": {
+                "10": 14,
+                "11": 31,
+                "12": 62,
+                "13": 8,
+                "2": 1,
+                "21": 27,
+                "22": 7,
+                "24": 6,
+                "3": 1,
+                "4": 1,
+                "5": 4,
+                "7": 3,
+                "8": 2,
+                "9": 159
+            }
+        },
+        "school_name": "CUMHURİYET İLK/ORTAOKULU (NECİP FAZIL)"
+    },
+    {
+        "ballot_box_number": 1252,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/4422_bulk_999999999_1684087157445829578.jpeg",
+            "submission_id": 324522,
+            "total_vote": 324,
+            "votes": {
+                "1": 209,
+                "2": 1,
+                "3": 108,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4422_mv_1083685632_1684088520926523952.jpg",
+            "submission_id": 368142,
+            "total_vote": 320,
+            "votes": {
+                "1": 0,
+                "10": 16,
+                "11": 23,
+                "12": 61,
+                "13": 7,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 38,
+                "22": 7,
+                "23": 0,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 0,
+                "7": 4,
+                "8": 9,
+                "9": 147
+            }
+        },
+        "school_name": "CUMHURİYET İLK/ORTAOKULU (NECİP FAZIL)"
+    },
+    {
+        "ballot_box_number": 1259,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/4422_bulk_999999999_1684087880159641580.jpeg",
+            "submission_id": 348002,
+            "total_vote": 335,
+            "votes": {
+                "1": 203,
+                "3": 106,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/4422_bulk_999999999_1684087925690472618.jpeg",
+            "submission_id": 349464,
+            "total_vote": 336,
+            "votes": {
+                "10": 19,
+                "11": 28,
+                "12": 82,
+                "13": 4,
+                "15": 1,
+                "21": 23,
+                "22": 10,
+                "24": 16,
+                "5": 1,
+                "6": 1,
+                "8": 9,
+                "9": 142
+            }
+        },
+        "school_name": "CUMHURİYET İLK/ORTAOKULU (NECİP FAZIL)"
+    },
+    {
+        "ballot_box_number": 1258,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4422_cb_1093686498_1684089395647346833.jpg",
+            "submission_id": 393327,
+            "total_vote": 343,
+            "votes": {
+                "1": 213,
+                "2": 1,
+                "3": 115,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4422_mv_1083686498_1684089606515208662.jpg",
+            "submission_id": 399250,
+            "total_vote": 340,
+            "votes": {
+                "1": 0,
+                "10": 17,
+                "11": 21,
+                "12": 75,
+                "13": 2,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 35,
+                "22": 12,
+                "23": 0,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 4,
+                "8": 3,
+                "9": 158
+            }
+        },
+        "school_name": "CUMHURİYET İLK/ORTAOKULU (NECİP FAZIL)"
+    },
+    {
+        "ballot_box_number": 1256,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4422_cb_1093686496_1684088354282141414.jpg",
+            "submission_id": 362931,
+            "total_vote": 323,
+            "votes": {
+                "1": 189,
+                "2": 0,
+                "3": 126,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4422_mv_1083686496_1684088337814991389.jpg",
+            "submission_id": 362433,
+            "total_vote": 322,
+            "votes": {
+                "10": 7,
+                "11": 28,
+                "12": 83,
+                "13": 9,
+                "14": 1,
+                "21": 33,
+                "22": 9,
+                "24": 3,
+                "4": 1,
+                "5": 1,
+                "6": 1,
+                "7": 3,
+                "8": 9,
+                "9": 134
+            }
+        },
+        "school_name": "CUMHURİYET İLK/ORTAOKULU (NECİP FAZIL)"
+    },
+    {
+        "ballot_box_number": 1260,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4422_cb_1093686500_1684080511624379921.jpg",
+            "submission_id": 182124,
+            "total_vote": 332,
+            "votes": {
+                "1": 222,
+                "2": 1,
+                "3": 94,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4422_mv_1083686500_1684085758524698334.jpg",
+            "submission_id": 277033,
+            "total_vote": 329,
+            "votes": {
+                "10": 20,
+                "11": 26,
+                "12": 52,
+                "13": 5,
+                "21": 27,
+                "22": 15,
+                "24": 10,
+                "4": 1,
+                "5": 1,
+                "7": 1,
+                "8": 3,
+                "9": 168
+            }
+        },
+        "school_name": "CUMHURİYET İLK/ORTAOKULU (NECİP FAZIL)"
+    },
+    {
+        "ballot_box_number": 1261,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4422_cb_1093686501_1684085607165048551.jpg",
+            "submission_id": 272036,
+            "total_vote": 325,
+            "votes": {
+                "1": 200,
+                "3": 117,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4422_mv_1083686501_1684090586723821595.jpg",
+            "submission_id": 423404,
+            "total_vote": 324,
+            "votes": {
+                "1": 0,
+                "10": 13,
+                "11": 29,
+                "12": 75,
+                "13": 1,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 38,
+                "22": 9,
+                "23": 1,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 1,
+                "8": 8,
+                "9": 139
+            }
+        },
+        "school_name": "CUMHURİYET İLK/ORTAOKULU (NECİP FAZIL)"
+    }
+]

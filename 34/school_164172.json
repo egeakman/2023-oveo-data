@@ -1,0 +1,772 @@
+[
+    {
+        "ballot_box_number": 2122,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/50070_cb_1093782836_1684090968805737544.jpg",
+            "submission_id": 431289,
+            "total_vote": 332,
+            "votes": {
+                "1": 192,
+                "2": 0,
+                "3": 122,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/50070_mv_1083782836_1684090995431297066.jpg",
+            "submission_id": 431822,
+            "total_vote": 325,
+            "votes": {
+                "10": 17,
+                "11": 33,
+                "12": 21,
+                "13": 11,
+                "21": 56,
+                "22": 21,
+                "24": 19,
+                "7": 3,
+                "8": 5,
+                "9": 139
+            }
+        },
+        "school_name": "YAVUZ BAHADIROĞLU AİHL"
+    },
+    {
+        "ballot_box_number": 2125,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/3575_bulk_999999999_1684087165976719182.jpeg",
+            "submission_id": 324826,
+            "total_vote": 333,
+            "votes": {
+                "1": 186,
+                "2": 1,
+                "3": 123,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/3575_bulk_999999999_1684087165771550304.jpeg",
+            "submission_id": 324814,
+            "total_vote": 335,
+            "votes": {
+                "1": 0,
+                "10": 24,
+                "11": 32,
+                "12": 21,
+                "13": 8,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 79,
+                "22": 21,
+                "23": 0,
+                "24": 12,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 5,
+                "9": 127
+            }
+        },
+        "school_name": "YAVUZ BAHADIROĞLU AİHL"
+    },
+    {
+        "ballot_box_number": 2119,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3a252d7c-3e1c-4456-bd7b-695a22f3e338-1684105082635353184.jpeg",
+            "submission_id": 568004,
+            "total_vote": 292,
+            "votes": {
+                "1": 189,
+                "2": 2,
+                "3": 90,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/3575_bulk_999999999_1684159405556300506.jpeg",
+            "submission_id": 1022779,
+            "total_vote": 278,
+            "votes": {
+                "1": 1,
+                "10": 14,
+                "11": 23,
+                "12": 8,
+                "13": 5,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 44,
+                "22": 25,
+                "23": 0,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 6,
+                "9": 139
+            }
+        },
+        "school_name": "YAVUZ BAHADIROĞLU AİHL"
+    },
+    {
+        "ballot_box_number": 2120,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/821799a6-5d93-40b3-83ce-92f7fbf4d07c-1684105082208071722.jpeg",
+            "submission_id": 567645,
+            "total_vote": 324,
+            "votes": {
+                "1": 180,
+                "2": 3,
+                "3": 129,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/3575_bulk_999999999_1684158670945577941.jpeg",
+            "submission_id": 1022696,
+            "total_vote": 320,
+            "votes": {
+                "1": 1,
+                "10": 6,
+                "11": 18,
+                "12": 31,
+                "13": 4,
+                "2": 1,
+                "21": 55,
+                "22": 37,
+                "23": 2,
+                "24": 9,
+                "5": 3,
+                "6": 2,
+                "7": 1,
+                "8": 5,
+                "9": 145
+            }
+        },
+        "school_name": "YAVUZ BAHADIROĞLU AİHL"
+    },
+    {
+        "ballot_box_number": 2123,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/60175_cb_1093782837_1684082295522601825.jpg",
+            "submission_id": 198320,
+            "total_vote": 326,
+            "votes": {
+                "1": 170,
+                "2": 0,
+                "3": 130,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/60175_mv_1083782837_1684089755871730424.jpg",
+            "submission_id": 403242,
+            "total_vote": 320,
+            "votes": {
+                "1": 1,
+                "10": 14,
+                "11": 28,
+                "12": 31,
+                "13": 18,
+                "19": 1,
+                "21": 63,
+                "22": 19,
+                "23": 3,
+                "24": 13,
+                "3": 2,
+                "7": 5,
+                "8": 4,
+                "9": 118
+            }
+        },
+        "school_name": "YAVUZ BAHADIROĞLU AİHL"
+    },
+    {
+        "ballot_box_number": 2128,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/29777_bulk_999999999_1684094115383765795.jpg",
+            "submission_id": 487301,
+            "total_vote": 333,
+            "votes": {
+                "1": 206,
+                "2": 1,
+                "3": 105,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/3575_bulk_999999999_1684158671058599666.jpeg",
+            "submission_id": 1022698,
+            "total_vote": 335,
+            "votes": {
+                "1": 0,
+                "10": 13,
+                "11": 38,
+                "12": 25,
+                "13": 5,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 65,
+                "22": 23,
+                "23": 0,
+                "24": 13,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 9,
+                "8": 8,
+                "9": 135
+            }
+        },
+        "school_name": "YAVUZ BAHADIROĞLU AİHL"
+    },
+    {
+        "ballot_box_number": 2134,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/31940_cb_1093782848_1684085080464429916.jpg",
+            "submission_id": 256412,
+            "total_vote": 320,
+            "votes": {
+                "1": 181,
+                "2": 0,
+                "3": 122,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/77418_mv_1083782848_1684087004361408949.jpg",
+            "submission_id": 319107,
+            "total_vote": 322,
+            "votes": {
+                "10": 14,
+                "11": 26,
+                "12": 19,
+                "13": 6,
+                "14": 0,
+                "15": 0,
+                "21": 65,
+                "22": 33,
+                "23": 0,
+                "24": 11,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 1,
+                "9": 145
+            }
+        },
+        "school_name": "YAVUZ BAHADIROĞLU AİHL"
+    },
+    {
+        "ballot_box_number": 2130,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0995ecca-9459-4b09-a0e9-5cb09e9af43b-1684105080775225734.jpeg",
+            "submission_id": 567284,
+            "total_vote": 326,
+            "votes": {
+                "1": 200,
+                "2": 1,
+                "3": 110,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "YAVUZ BAHADIROĞLU AİHL"
+    },
+    {
+        "ballot_box_number": 2131,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/7010_cb_1093782845_1684087576477104055.jpg",
+            "submission_id": 338355,
+            "total_vote": 326,
+            "votes": {
+                "1": 196,
+                "3": 112,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/1ec91af7-35e3-48fb-8be8-430f23ff9b04-1684105880668941832.jpg",
+            "submission_id": 708542,
+            "total_vote": 326,
+            "votes": {
+                "10": 31,
+                "11": 22,
+                "12": 13,
+                "13": 9,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "21": 63,
+                "22": 30,
+                "23": 1,
+                "24": 11,
+                "7": 3,
+                "8": 8,
+                "9": 133
+            }
+        },
+        "school_name": "YAVUZ BAHADIROĞLU AİHL"
+    },
+    {
+        "ballot_box_number": 2121,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d45867a4-09eb-4474-b9e7-2d635f08a6be-1684105081915612161.jpeg",
+            "submission_id": 567496,
+            "total_vote": 336,
+            "votes": {
+                "1": 181,
+                "2": 0,
+                "3": 123,
+                "4": 32
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/3575_bulk_999999999_1684159405490042711.jpeg",
+            "submission_id": 1022778,
+            "total_vote": 333,
+            "votes": {
+                "10": 16,
+                "11": 23,
+                "12": 24,
+                "13": 16,
+                "21": 70,
+                "22": 14,
+                "23": 1,
+                "24": 23,
+                "6": 2,
+                "7": 2,
+                "8": 1,
+                "9": 141
+            }
+        },
+        "school_name": "YAVUZ BAHADIROĞLU AİHL"
+    },
+    {
+        "ballot_box_number": 2133,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/1793e143-7d1c-4800-8d72-b24f1260e48f-1684105080559182154.jpeg",
+            "submission_id": 566961,
+            "total_vote": 327,
+            "votes": {
+                "1": 195,
+                "2": 1,
+                "3": 114,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "YAVUZ BAHADIROĞLU AİHL"
+    },
+    {
+        "ballot_box_number": 2132,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/8032_cb_1093782846_1684086611235629747.jpg",
+            "submission_id": 305379,
+            "total_vote": 316,
+            "votes": {
+                "1": 188,
+                "2": 0,
+                "3": 114,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/8032_mv_1083782846_1684086714521093445.jpg",
+            "submission_id": 309066,
+            "total_vote": 313,
+            "votes": {
+                "1": 0,
+                "10": 17,
+                "11": 32,
+                "12": 12,
+                "13": 10,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 58,
+                "22": 32,
+                "23": 0,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 2,
+                "9": 137
+            }
+        },
+        "school_name": "YAVUZ BAHADIROĞLU AİHL"
+    },
+    {
+        "ballot_box_number": 2139,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/3575_bulk_999999999_1684084022803617945.jpeg",
+            "submission_id": 228616,
+            "total_vote": 327,
+            "votes": {
+                "1": 164,
+                "2": 1,
+                "3": 142,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8a4b3185-9915-465d-8f7d-2d1613b5062c-1684105900951442947.jpg",
+            "submission_id": 710994,
+            "total_vote": 324,
+            "votes": {
+                "1": 0,
+                "10": 12,
+                "11": 23,
+                "12": 29,
+                "13": 12,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 77,
+                "22": 26,
+                "23": 0,
+                "24": 13,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 6,
+                "8": 1,
+                "9": 123
+            }
+        },
+        "school_name": "YAVUZ BAHADIROĞLU AİHL"
+    },
+    {
+        "ballot_box_number": 2129,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/29777_cb_1093782843_1684083679447425924.jpg",
+            "submission_id": 221432,
+            "total_vote": 329,
+            "votes": {
+                "1": 188,
+                "3": 123,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/29777_mv_1083782843_1684085501759879040.jpg",
+            "submission_id": 268645,
+            "total_vote": 324,
+            "votes": {
+                "10": 17,
+                "11": 28,
+                "12": 18,
+                "13": 14,
+                "21": 60,
+                "22": 23,
+                "23": 1,
+                "24": 14,
+                "7": 9,
+                "8": 3,
+                "9": 137
+            }
+        },
+        "school_name": "YAVUZ BAHADIROĞLU AİHL"
+    },
+    {
+        "ballot_box_number": 2126,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/29777_cb_1093782840_1684086560047287497.jpg",
+            "submission_id": 303602,
+            "total_vote": 331,
+            "votes": {
+                "1": 167,
+                "2": 0,
+                "3": 140,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/29777_mv_1083782840_1684086614255295440.jpg",
+            "submission_id": 305501,
+            "total_vote": 326,
+            "votes": {
+                "1": 0,
+                "10": 13,
+                "11": 23,
+                "12": 22,
+                "13": 17,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 69,
+                "22": 35,
+                "23": 2,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 7,
+                "8": 5,
+                "9": 121
+            }
+        },
+        "school_name": "YAVUZ BAHADIROĞLU AİHL"
+    },
+    {
+        "ballot_box_number": 2136,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/bfff0080-4d08-42ca-a0e8-31d9f26d5769-1684105848042306904.jpg",
+            "submission_id": 703567,
+            "total_vote": 321,
+            "votes": {
+                "1": 165,
+                "3": 131,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/29a887bb-da30-491f-9c3e-8a75d9bd8b47-1684105868801569204.jpg",
+            "submission_id": 706853,
+            "total_vote": 315,
+            "votes": {
+                "1": 1,
+                "10": 18,
+                "11": 23,
+                "12": 27,
+                "13": 6,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 62,
+                "22": 28,
+                "23": 0,
+                "24": 22,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 7,
+                "8": 5,
+                "9": 111
+            }
+        },
+        "school_name": "YAVUZ BAHADIROĞLU AİHL"
+    },
+    {
+        "ballot_box_number": 2124,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/3575_bulk_999999999_1684083953655289698.jpeg",
+            "submission_id": 227153,
+            "total_vote": 334,
+            "votes": {
+                "1": 202,
+                "3": 111,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/3575_bulk_999999999_1684083953513263463.jpeg",
+            "submission_id": 227150,
+            "total_vote": 334,
+            "votes": {
+                "10": 20,
+                "11": 27,
+                "12": 13,
+                "13": 9,
+                "21": 76,
+                "22": 18,
+                "24": 12,
+                "7": 2,
+                "8": 1,
+                "9": 156
+            }
+        },
+        "school_name": "YAVUZ BAHADIROĞLU AİHL"
+    },
+    {
+        "ballot_box_number": 2138,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/3575_bulk_999999999_1684084273933780353.jpeg",
+            "submission_id": 234892,
+            "total_vote": 330,
+            "votes": {
+                "1": 185,
+                "3": 123,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "YAVUZ BAHADIROĞLU AİHL"
+    },
+    {
+        "ballot_box_number": 2137,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/77418_cb_1093782851_1684086529227456497.jpg",
+            "submission_id": 302565,
+            "total_vote": 332,
+            "votes": {
+                "1": 177,
+                "2": 1,
+                "3": 131,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/77418_mv_1083782851_1684086707597082505.jpg",
+            "submission_id": 308790,
+            "total_vote": 332,
+            "votes": {
+                "1": 1,
+                "10": 24,
+                "11": 22,
+                "12": 18,
+                "13": 14,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 64,
+                "22": 33,
+                "23": 0,
+                "24": 14,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 4,
+                "8": 5,
+                "9": 131
+            }
+        },
+        "school_name": "YAVUZ BAHADIROĞLU AİHL"
+    },
+    {
+        "ballot_box_number": 2135,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/3575_bulk_999999999_1684084985481985198.jpeg",
+            "submission_id": 253724,
+            "total_vote": 331,
+            "votes": {
+                "1": 195,
+                "3": 112,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/b3d0e720-21bc-4f9e-b675-6c17f9fb2143-1684105957153775536.jpg",
+            "submission_id": 718781,
+            "total_vote": 330,
+            "votes": {
+                "10": 25,
+                "11": 28,
+                "12": 13,
+                "13": 7,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "20": 0,
+                "21": 73,
+                "22": 23,
+                "23": 0,
+                "24": 9,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "8": 7,
+                "9": 141
+            }
+        },
+        "school_name": "YAVUZ BAHADIROĞLU AİHL"
+    },
+    {
+        "ballot_box_number": 2127,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/793256cf-2b31-495d-b761-9905b92be4e8-1684105775890224658.jpg",
+            "submission_id": 693598,
+            "total_vote": 327,
+            "votes": {
+                "1": 199,
+                "2": 1,
+                "3": 114,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/3575_bulk_999999999_1684159405325325435.jpeg",
+            "submission_id": 1022777,
+            "total_vote": 323,
+            "votes": {
+                "10": 25,
+                "11": 36,
+                "12": 29,
+                "13": 9,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "20": 0,
+                "21": 53,
+                "22": 19,
+                "23": 0,
+                "24": 13,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 4,
+                "9": 132
+            }
+        },
+        "school_name": "YAVUZ BAHADIROĞLU AİHL"
+    }
+]

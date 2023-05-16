@@ -1,0 +1,642 @@
+[
+    {
+        "ballot_box_number": 2084,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/5377_bulk_999999999_1684082969994658253.jpeg",
+            "submission_id": 208199,
+            "total_vote": 324,
+            "votes": {
+                "1": 141,
+                "2": 0,
+                "3": 168,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "VELİEFENDİ İLKOKULU BİNASI"
+    },
+    {
+        "ballot_box_number": 2080,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5377_cb_1093781773_1684094277366633868.jpeg",
+            "submission_id": 490098,
+            "total_vote": 337,
+            "votes": {
+                "1": 142,
+                "2": 0,
+                "3": 177,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5377_mv_1083781773_1684094288064461025.jpeg",
+            "submission_id": 490221,
+            "total_vote": 334,
+            "votes": {
+                "1": 2,
+                "10": 5,
+                "11": 14,
+                "12": 81,
+                "13": 6,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 64,
+                "22": 21,
+                "23": 2,
+                "24": 14,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 0,
+                "7": 8,
+                "8": 1,
+                "9": 113
+            }
+        },
+        "school_name": "VELİEFENDİ İLKOKULU BİNASI"
+    },
+    {
+        "ballot_box_number": 2072,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5377_cb_1093781765_1684093940658370335.jpeg",
+            "submission_id": 478316,
+            "total_vote": 292,
+            "votes": {
+                "1": 141,
+                "2": 0,
+                "3": 148,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5377_mv_1083781765_1684093954241232905.jpeg",
+            "submission_id": 478969,
+            "total_vote": 287,
+            "votes": {
+                "1": 1,
+                "10": 7,
+                "11": 12,
+                "12": 54,
+                "13": 11,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 2,
+                "20": 0,
+                "21": 58,
+                "22": 19,
+                "23": 1,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 1,
+                "8": 1,
+                "9": 114
+            }
+        },
+        "school_name": "VELİEFENDİ İLKOKULU BİNASI"
+    },
+    {
+        "ballot_box_number": 2086,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5377_cb_1093781819_1684094417445312722.jpeg",
+            "submission_id": 491722,
+            "total_vote": 327,
+            "votes": {
+                "1": 166,
+                "2": 0,
+                "3": 146,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5377_mv_1083781819_1684094432444153000.jpeg",
+            "submission_id": 491900,
+            "total_vote": 323,
+            "votes": {
+                "1": 0,
+                "10": 21,
+                "11": 19,
+                "12": 58,
+                "13": 6,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 47,
+                "22": 28,
+                "23": 0,
+                "24": 13,
+                "3": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 3,
+                "9": 123
+            }
+        },
+        "school_name": "VELİEFENDİ İLKOKULU BİNASI"
+    },
+    {
+        "ballot_box_number": 2079,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5377_cb_1093781772_1684094252598729371.jpeg",
+            "submission_id": 489778,
+            "total_vote": 334,
+            "votes": {
+                "1": 157,
+                "2": 1,
+                "3": 166,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e89e3014-95dc-4301-8f99-94fcc4007307-1684106417103726534.jpg",
+            "submission_id": 784746,
+            "total_vote": 333,
+            "votes": {
+                "10": 7,
+                "11": 9,
+                "12": 69,
+                "13": 6,
+                "15": 1,
+                "21": 68,
+                "22": 25,
+                "23": 1,
+                "24": 7,
+                "7": 1,
+                "8": 1,
+                "9": 138
+            }
+        },
+        "school_name": "VELİEFENDİ İLKOKULU BİNASI"
+    },
+    {
+        "ballot_box_number": 2090,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5377_cb_1093781823_1684084113068395168.jpg",
+            "submission_id": 230687,
+            "total_vote": 314,
+            "votes": {
+                "1": 117,
+                "3": 182,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5377_mv_1083781823_1684084270887118804.jpg",
+            "submission_id": 234805,
+            "total_vote": 306,
+            "votes": {
+                "1": 1,
+                "10": 11,
+                "11": 5,
+                "12": 76,
+                "13": 6,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 74,
+                "22": 23,
+                "23": 0,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 3,
+                "8": 2,
+                "9": 93
+            }
+        },
+        "school_name": "VELİEFENDİ İLKOKULU BİNASI"
+    },
+    {
+        "ballot_box_number": 2075,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/49706_bulk_999999999_1684081256164489146.jpeg",
+            "submission_id": 187268,
+            "total_vote": 331,
+            "votes": {
+                "1": 156,
+                "2": 2,
+                "3": 153,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "VELİEFENDİ İLKOKULU BİNASI"
+    },
+    {
+        "ballot_box_number": 2087,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16902_cb_1093781820_1684085608972994066.jpg",
+            "submission_id": 272104,
+            "total_vote": 319,
+            "votes": {
+                "1": 146,
+                "3": 161,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "VELİEFENDİ İLKOKULU BİNASI"
+    },
+    {
+        "ballot_box_number": 2081,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5377_cb_1093781774_1684083484239221231.jpg",
+            "submission_id": 217498,
+            "total_vote": 334,
+            "votes": {
+                "1": 137,
+                "3": 185,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5377_mv_1083781774_1684087000325099575.jpg",
+            "submission_id": 318965,
+            "total_vote": 329,
+            "votes": {
+                "1": 1,
+                "10": 10,
+                "11": 10,
+                "12": 75,
+                "13": 5,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 79,
+                "22": 25,
+                "23": 0,
+                "24": 7,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 110
+            }
+        },
+        "school_name": "VELİEFENDİ İLKOKULU BİNASI"
+    },
+    {
+        "ballot_box_number": 2076,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5377_cb_1093781769_1684094045503424846.jpeg",
+            "submission_id": 483731,
+            "total_vote": 313,
+            "votes": {
+                "1": 134,
+                "3": 160,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "VELİEFENDİ İLKOKULU BİNASI"
+    },
+    {
+        "ballot_box_number": 2078,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/45412_cb_1093781771_1684085767780719101.jpg",
+            "submission_id": 277371,
+            "total_vote": 333,
+            "votes": {
+                "1": 143,
+                "2": 0,
+                "3": 175,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "VELİEFENDİ İLKOKULU BİNASI"
+    },
+    {
+        "ballot_box_number": 2083,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/75762_bulk_999999999_1684079676145395781.jpg",
+            "submission_id": 177882,
+            "total_vote": 328,
+            "votes": {
+                "1": 159,
+                "2": 2,
+                "3": 150,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5377_mv_1083781816_1684094355576490478.jpeg",
+            "submission_id": 490995,
+            "total_vote": 320,
+            "votes": {
+                "10": 17,
+                "11": 17,
+                "12": 52,
+                "13": 4,
+                "15": 1,
+                "21": 65,
+                "22": 23,
+                "23": 1,
+                "24": 10,
+                "4": 1,
+                "7": 8,
+                "8": 2,
+                "9": 119
+            }
+        },
+        "school_name": "VELİEFENDİ İLKOKULU BİNASI"
+    },
+    {
+        "ballot_box_number": 2089,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/16902_bulk_999999999_1684080983234360617.jpg",
+            "submission_id": 185185,
+            "total_vote": 329,
+            "votes": {
+                "1": 134,
+                "2": 1,
+                "3": 185,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/16902_bulk_999999999_1684085425742608601.jpg",
+            "submission_id": 266431,
+            "total_vote": 325,
+            "votes": {
+                "10": 11,
+                "11": 19,
+                "12": 51,
+                "13": 18,
+                "15": 1,
+                "20": 1,
+                "21": 80,
+                "22": 28,
+                "23": 1,
+                "24": 9,
+                "7": 1,
+                "8": 1,
+                "9": 104
+            }
+        },
+        "school_name": "VELİEFENDİ İLKOKULU BİNASI"
+    },
+    {
+        "ballot_box_number": 2085,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/45412_cb_1093781818_1684083321231640555.jpg",
+            "submission_id": 214333,
+            "total_vote": 328,
+            "votes": {
+                "1": 135,
+                "2": 1,
+                "3": 180,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "VELİEFENDİ İLKOKULU BİNASI"
+    },
+    {
+        "ballot_box_number": 2088,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/45764_cb_1093781821_1684084181670946027.jpg",
+            "submission_id": 232356,
+            "total_vote": 319,
+            "votes": {
+                "1": 163,
+                "2": 0,
+                "3": 138,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5377_mv_1083781821_1684084503521863232.jpg",
+            "submission_id": 240589,
+            "total_vote": 319,
+            "votes": {
+                "1": 0,
+                "10": 10,
+                "11": 25,
+                "12": 45,
+                "13": 13,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 63,
+                "22": 16,
+                "23": 3,
+                "24": 10,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 4,
+                "7": 2,
+                "8": 2,
+                "9": 122
+            }
+        },
+        "school_name": "VELİEFENDİ İLKOKULU BİNASI"
+    },
+    {
+        "ballot_box_number": 2074,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5377_cb_1093781767_1684094002115252134.jpeg",
+            "submission_id": 481427,
+            "total_vote": 323,
+            "votes": {
+                "1": 134,
+                "2": 0,
+                "3": 177,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5377_mv_1083781767_1684094023675090813.jpeg",
+            "submission_id": 482589,
+            "total_vote": 316,
+            "votes": {
+                "1": 0,
+                "10": 10,
+                "11": 9,
+                "12": 53,
+                "13": 11,
+                "14": 0,
+                "15": 4,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 2,
+                "20": 0,
+                "21": 79,
+                "22": 25,
+                "23": 0,
+                "24": 14,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 107
+            }
+        },
+        "school_name": "VELİEFENDİ İLKOKULU BİNASI"
+    },
+    {
+        "ballot_box_number": 2082,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5377_cb_1093781815_1684094642153794569.jpeg",
+            "submission_id": 494382,
+            "total_vote": 333,
+            "votes": {
+                "1": 134,
+                "2": 1,
+                "3": 187,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2fb0998a-cf12-454d-8abc-bb93f053b9d5-1684106470852199508.jpg",
+            "submission_id": 792732,
+            "total_vote": 331,
+            "votes": {
+                "1": 0,
+                "10": 8,
+                "11": 15,
+                "12": 52,
+                "13": 11,
+                "14": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 1,
+                "21": 90,
+                "22": 26,
+                "23": 1,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 3,
+                "6": 1,
+                "7": 2,
+                "8": 0,
+                "9": 108
+            }
+        },
+        "school_name": "VELİEFENDİ İLKOKULU BİNASI"
+    },
+    {
+        "ballot_box_number": 2077,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5377_cb_1093781770_1684094162495933683.jpeg",
+            "submission_id": 488670,
+            "total_vote": 326,
+            "votes": {
+                "1": 145,
+                "2": 0,
+                "3": 165,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0974edf6-0d77-420c-8287-8e45e863dfda-1684106192593577743.jpg",
+            "submission_id": 752377,
+            "total_vote": 320,
+            "votes": {
+                "10": 11,
+                "11": 20,
+                "12": 56,
+                "13": 7,
+                "15": 1,
+                "21": 64,
+                "22": 30,
+                "24": 11,
+                "7": 5,
+                "8": 5,
+                "9": 110
+            }
+        },
+        "school_name": "VELİEFENDİ İLKOKULU BİNASI"
+    },
+    {
+        "ballot_box_number": 2073,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5377_cb_1093781766_1684083398082100427.jpg",
+            "submission_id": 215864,
+            "total_vote": 312,
+            "votes": {
+                "1": 144,
+                "2": 2,
+                "3": 154,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5377_mv_1083781766_1684093970272758343.jpeg",
+            "submission_id": 479698,
+            "total_vote": 299,
+            "votes": {
+                "1": 1,
+                "10": 12,
+                "11": 8,
+                "12": 26,
+                "13": 5,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 5,
+                "2": 0,
+                "20": 0,
+                "21": 82,
+                "22": 38,
+                "23": 0,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 1,
+                "9": 118
+            }
+        },
+        "school_name": "VELİEFENDİ İLKOKULU BİNASI"
+    }
+]

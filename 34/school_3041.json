@@ -1,0 +1,808 @@
+[
+    {
+        "ballot_box_number": 1116,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/23331_bulk_999999999_1684098425668740426.jpeg",
+            "submission_id": 527169,
+            "total_vote": 319,
+            "votes": {
+                "1": 193,
+                "2": 1,
+                "3": 115,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c98d596d-15c2-4e3c-a1d8-5d1f0c0e7a63-1684105253263324096.jpeg",
+            "submission_id": 605183,
+            "total_vote": 304,
+            "votes": {
+                "1": 0,
+                "10": 11,
+                "11": 19,
+                "12": 33,
+                "13": 11,
+                "14": 0,
+                "15": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 44,
+                "22": 22,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 150
+            }
+        },
+        "school_name": "AKYİĞİT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1131,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/81313_cb_1093780849_1684095465967588987.jpg",
+            "submission_id": 503411,
+            "total_vote": 328,
+            "votes": {
+                "1": 183,
+                "2": 1,
+                "3": 130,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "AKYİĞİT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1120,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/23331_bulk_999999999_1684097260524070353.jpeg",
+            "submission_id": 519385,
+            "total_vote": 339,
+            "votes": {
+                "1": 171,
+                "2": 0,
+                "3": 156,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/23331_bulk_999999999_1684097236866442033.jpeg",
+            "submission_id": 519257,
+            "total_vote": 332,
+            "votes": {
+                "10": 14,
+                "11": 16,
+                "12": 39,
+                "13": 16,
+                "21": 60,
+                "22": 41,
+                "24": 5,
+                "5": 1,
+                "7": 2,
+                "9": 138
+            }
+        },
+        "school_name": "AKYİĞİT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1128,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/23331_bulk_999999999_1684096671886134522.jpeg",
+            "submission_id": 514702,
+            "total_vote": 344,
+            "votes": {
+                "1": 204,
+                "2": 0,
+                "3": 120,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/23331_bulk_999999999_1684096645397771299.jpeg",
+            "submission_id": 514475,
+            "total_vote": 336,
+            "votes": {
+                "10": 20,
+                "11": 20,
+                "12": 29,
+                "13": 7,
+                "14": 0,
+                "20": 1,
+                "21": 54,
+                "22": 27,
+                "24": 17,
+                "6": 1,
+                "7": 3,
+                "8": 3,
+                "9": 154
+            }
+        },
+        "school_name": "AKYİĞİT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1129,
+        "cm_result": {
+            "image_url": "https://source1-secim-images.oyveotesi.org/raw/1024686_cb_3780847_1684085393.jpeg",
+            "submission_id": 265568,
+            "total_vote": 334,
+            "votes": {
+                "1": 215,
+                "3": 100,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/23331_bulk_999999999_1684087499025052234.jpeg",
+            "submission_id": 335866,
+            "total_vote": 327,
+            "votes": {
+                "10": 10,
+                "11": 26,
+                "12": 33,
+                "13": 3,
+                "14": 0,
+                "15": 2,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "20": 0,
+                "21": 38,
+                "22": 31,
+                "24": 15,
+                "7": 0,
+                "8": 4,
+                "9": 164
+            }
+        },
+        "school_name": "AKYİĞİT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1127,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/81994_bulk_999999999_1684090609962821461.jpg",
+            "submission_id": 423813,
+            "total_vote": 334,
+            "votes": {
+                "1": 207,
+                "3": 117,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "AKYİĞİT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1126,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/23331_bulk_999999999_1684087333925432929.jpeg",
+            "submission_id": 330489,
+            "total_vote": 324,
+            "votes": {
+                "1": 190,
+                "2": 1,
+                "3": 120,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "AKYİĞİT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1136,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/24fc9127-ac4d-44cc-83de-d49478ad4e40-1684105272718521319.jpeg",
+            "submission_id": 609001,
+            "total_vote": 353,
+            "votes": {
+                "1": 214,
+                "3": 127,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "AKYİĞİT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1139,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/23331_bulk_999999999_1684095942649040667.jpeg",
+            "submission_id": 508136,
+            "total_vote": 323,
+            "votes": {
+                "1": 0,
+                "10": 15,
+                "11": 26,
+                "12": 38,
+                "13": 13,
+                "14": 0,
+                "15": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 35,
+                "22": 24,
+                "24": 15,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 1,
+                "9": 153
+            }
+        },
+        "school_name": "AKYİĞİT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1133,
+        "cm_result": {
+            "image_url": "https://source1-secim-images.oyveotesi.org/raw/1024686_cb_3780851_1684082381.jpeg",
+            "submission_id": 199448,
+            "total_vote": 333,
+            "votes": {
+                "1": 195,
+                "2": 2,
+                "3": 126,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "AKYİĞİT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1119,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/27ed94d1-7865-4bbc-990d-b49ee10f7f6a-1684105276315299226.jpeg",
+            "submission_id": 610043,
+            "total_vote": 320,
+            "votes": {
+                "1": 189,
+                "2": 1,
+                "3": 104,
+                "4": 26
+            }
+        },
+        "mv_result": null,
+        "school_name": "AKYİĞİT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1142,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/23331_bulk_999999999_1684095677415056659.jpeg",
+            "submission_id": 505654,
+            "total_vote": 327,
+            "votes": {
+                "1": 194,
+                "2": 1,
+                "3": 120,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/23331_bulk_999999999_1684095642333558307.jpeg",
+            "submission_id": 505268,
+            "total_vote": 327,
+            "votes": {
+                "1": 0,
+                "10": 14,
+                "11": 22,
+                "12": 44,
+                "13": 6,
+                "14": 0,
+                "15": 2,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 50,
+                "22": 19,
+                "24": 11,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 5,
+                "8": 2,
+                "9": 150
+            }
+        },
+        "school_name": "AKYİĞİT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1117,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/32c4576e-16b5-4d82-b213-c9b65065ae62-1684105686298936251.jpeg",
+            "submission_id": 680130,
+            "total_vote": 299,
+            "votes": {
+                "1": 169,
+                "2": 3,
+                "3": 121,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/23331_bulk_999999999_1684097391821615135.jpeg",
+            "submission_id": 520429,
+            "total_vote": 290,
+            "votes": {
+                "10": 11,
+                "11": 20,
+                "12": 21,
+                "15": 1,
+                "21": 60,
+                "22": 39,
+                "24": 9,
+                "3": 1,
+                "7": 4,
+                "9": 124
+            }
+        },
+        "school_name": "AKYİĞİT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1135,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/23331_bulk_999999999_1684096342038609044.jpeg",
+            "submission_id": 511675,
+            "total_vote": 328,
+            "votes": {
+                "1": 169,
+                "2": 1,
+                "3": 132,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/23331_bulk_999999999_1684096306197167742.jpeg",
+            "submission_id": 511350,
+            "total_vote": 328,
+            "votes": {
+                "1": 9,
+                "10": 11,
+                "11": 26,
+                "12": 31,
+                "13": 43,
+                "14": 0,
+                "15": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 63,
+                "21": 29,
+                "22": 29,
+                "24": 0,
+                "3": 2,
+                "4": 0,
+                "5": 2,
+                "6": 0,
+                "7": 0,
+                "8": 3,
+                "9": 80
+            }
+        },
+        "school_name": "AKYİĞİT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1123,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/23331_bulk_999999999_1684086975356086600.jpeg",
+            "submission_id": 318113,
+            "total_vote": 342,
+            "votes": {
+                "1": 212,
+                "3": 119,
+                "4": 11
+            }
+        },
+        "mv_result": null,
+        "school_name": "AKYİĞİT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1124,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e87bd370-00da-4aee-bde8-a1d17118c0fc-1684105139923348658.jpeg",
+            "submission_id": 581582,
+            "total_vote": 330,
+            "votes": {
+                "1": 191,
+                "2": 3,
+                "3": 121,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/23331_bulk_999999999_1684097034052938523.jpeg",
+            "submission_id": 517784,
+            "total_vote": 325,
+            "votes": {
+                "10": 13,
+                "11": 19,
+                "12": 44,
+                "13": 5,
+                "15": 1,
+                "20": 2,
+                "21": 49,
+                "22": 21,
+                "24": 16,
+                "3": 1,
+                "7": 2,
+                "9": 152
+            }
+        },
+        "school_name": "AKYİĞİT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1122,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/23331_bulk_999999999_1684097189391381881.jpeg",
+            "submission_id": 518926,
+            "total_vote": 334,
+            "votes": {
+                "1": 179,
+                "3": 139,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "AKYİĞİT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1121,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/81994_cb_1093780839_1684093650417711173.jpeg",
+            "submission_id": 472435,
+            "total_vote": 336,
+            "votes": {
+                "1": 229,
+                "3": 88,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/81994_mv_1083780839_1684094208905862645.jpeg",
+            "submission_id": 489267,
+            "total_vote": 325,
+            "votes": {
+                "1": 1,
+                "10": 11,
+                "11": 26,
+                "12": 29,
+                "13": 3,
+                "14": 1,
+                "15": 1,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 31,
+                "22": 26,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 6,
+                "9": 176
+            }
+        },
+        "school_name": "AKYİĞİT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1138,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/23331_bulk_999999999_1684096110725587869.jpeg",
+            "submission_id": 509545,
+            "total_vote": 341,
+            "votes": {
+                "1": 214,
+                "2": 2,
+                "3": 112,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2de5ad6e-b386-43f5-baa6-255a618864e5-1684105110002749327.jpeg",
+            "submission_id": 575660,
+            "total_vote": 335,
+            "votes": {
+                "10": 17,
+                "11": 25,
+                "12": 40,
+                "13": 7,
+                "17": 1,
+                "21": 50,
+                "22": 15,
+                "24": 13,
+                "7": 2,
+                "8": 5,
+                "9": 160
+            }
+        },
+        "school_name": "AKYİĞİT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1143,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/82974_cb_1093780941_1684087947456886265.jpg",
+            "submission_id": 350155,
+            "total_vote": 347,
+            "votes": {
+                "1": 216,
+                "3": 112,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/80869_bulk_999999999_1684088275300228253.jpeg",
+            "submission_id": 360562,
+            "total_vote": 345,
+            "votes": {
+                "1": 1,
+                "10": 13,
+                "11": 22,
+                "12": 43,
+                "13": 8,
+                "21": 36,
+                "22": 36,
+                "24": 12,
+                "6": 1,
+                "7": 7,
+                "8": 3,
+                "9": 163
+            }
+        },
+        "school_name": "AKYİĞİT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1137,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/23331_bulk_999999999_1684096176123754125.jpeg",
+            "submission_id": 510083,
+            "total_vote": 348,
+            "votes": {
+                "1": 220,
+                "2": 0,
+                "3": 113,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "AKYİĞİT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1125,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "AKYİĞİT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1118,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/23331_bulk_999999999_1684097369911569465.jpeg",
+            "submission_id": 520272,
+            "total_vote": 338,
+            "votes": {
+                "1": 231,
+                "2": 1,
+                "3": 88,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/23331_bulk_999999999_1684097346258271439.jpeg",
+            "submission_id": 520099,
+            "total_vote": 330,
+            "votes": {
+                "1": 1,
+                "10": 18,
+                "11": 24,
+                "12": 21,
+                "13": 6,
+                "17": 1,
+                "21": 47,
+                "22": 22,
+                "24": 10,
+                "3": 1,
+                "5": 1,
+                "6": 1,
+                "7": 5,
+                "8": 5,
+                "9": 167
+            }
+        },
+        "school_name": "AKYİĞİT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1130,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/81313_cb_1093780848_1684095247332446779.jpg",
+            "submission_id": 501158,
+            "total_vote": 335,
+            "votes": {
+                "1": 199,
+                "2": 1,
+                "3": 117,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/81313_mv_1083780848_1684095327639757984.jpg",
+            "submission_id": 501946,
+            "total_vote": 326,
+            "votes": {
+                "1": 0,
+                "10": 20,
+                "11": 16,
+                "12": 21,
+                "13": 7,
+                "14": 1,
+                "15": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 60,
+                "22": 31,
+                "24": 13,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 2,
+                "8": 1,
+                "9": 153
+            }
+        },
+        "school_name": "AKYİĞİT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1141,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/82974_cb_1093780939_1684081088526961564.jpg",
+            "submission_id": 185991,
+            "total_vote": 334,
+            "votes": {
+                "1": 200,
+                "3": 118,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "AKYİĞİT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1132,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/81994_cb_1093780850_1684094097983881636.jpeg",
+            "submission_id": 486388,
+            "total_vote": 332,
+            "votes": {
+                "1": 197,
+                "3": 113,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/23331_bulk_999999999_1684086596376625068.jpeg",
+            "submission_id": 304908,
+            "total_vote": 322,
+            "votes": {
+                "1": 0,
+                "10": 31,
+                "11": 23,
+                "12": 30,
+                "13": 10,
+                "14": 0,
+                "15": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 45,
+                "22": 31,
+                "24": 15,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 4,
+                "9": 133
+            }
+        },
+        "school_name": "AKYİĞİT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1115,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/23331_bulk_999999999_1684098370875134257.jpeg",
+            "submission_id": 526843,
+            "total_vote": 306,
+            "votes": {
+                "1": 166,
+                "2": 0,
+                "3": 131,
+                "4": 9
+            }
+        },
+        "mv_result": null,
+        "school_name": "AKYİĞİT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1140,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/82974_cb_1093780938_1684087753630740588.jpg",
+            "submission_id": 344132,
+            "total_vote": 348,
+            "votes": {
+                "1": 211,
+                "2": 1,
+                "3": 119,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "AKYİĞİT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1134,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/80893_cb_1093780852_1684089979191528372.jpg",
+            "submission_id": 409212,
+            "total_vote": 338,
+            "votes": {
+                "1": 191,
+                "2": 1,
+                "3": 128,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/23331_bulk_999999999_1684096380241627703.jpeg",
+            "submission_id": 512116,
+            "total_vote": 325,
+            "votes": {
+                "1": 0,
+                "10": 24,
+                "11": 14,
+                "12": 40,
+                "13": 9,
+                "14": 1,
+                "15": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 45,
+                "22": 20,
+                "24": 15,
+                "3": 0,
+                "4": 9,
+                "5": 0,
+                "6": 1,
+                "7": 7,
+                "8": 0,
+                "9": 138
+            }
+        },
+        "school_name": "AKYİĞİT ORTAOKULU"
+    }
+]

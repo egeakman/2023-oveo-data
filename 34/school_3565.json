@@ -1,0 +1,771 @@
+[
+    {
+        "ballot_box_number": 2031,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/28437_bulk_999999999_1684089586109493612.jpg",
+            "submission_id": 398692,
+            "total_vote": 350,
+            "votes": {
+                "1": 129,
+                "2": 2,
+                "3": 198,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7c261088-508c-4e73-8623-a6929bb5e5cd-1684105249162021625.jpg",
+            "submission_id": 604601,
+            "total_vote": 347,
+            "votes": {
+                "10": 8,
+                "11": 18,
+                "12": 8,
+                "13": 16,
+                "21": 139,
+                "22": 37,
+                "24": 12,
+                "3": 1,
+                "7": 7,
+                "8": 8,
+                "9": 93
+            }
+        },
+        "school_name": "SUZAN AHMET YALKIN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2041,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/34407_bulk_999999999_1684085099917581630.jpg",
+            "submission_id": 256986,
+            "total_vote": 335,
+            "votes": {
+                "1": 112,
+                "2": 0,
+                "3": 205,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "SUZAN AHMET YALKIN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2035,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/40074_bulk_999999999_1684080400696560824.jpg",
+            "submission_id": 181433,
+            "total_vote": 342,
+            "votes": {
+                "1": 110,
+                "3": 205,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/40074_mv_1083785269_1684084721057296306.jpg",
+            "submission_id": 246455,
+            "total_vote": 340,
+            "votes": {
+                "10": 9,
+                "11": 16,
+                "12": 11,
+                "13": 15,
+                "14": 1,
+                "15": 1,
+                "21": 132,
+                "22": 47,
+                "24": 19,
+                "7": 4,
+                "8": 3,
+                "9": 82
+            }
+        },
+        "school_name": "SUZAN AHMET YALKIN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2033,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/13681_bulk_999999999_1684081109411668985.jpeg",
+            "submission_id": 186129,
+            "total_vote": 345,
+            "votes": {
+                "1": 112,
+                "3": 200,
+                "4": 33
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/13681_bulk_999999999_1684093621079478909.jpeg",
+            "submission_id": 472091,
+            "total_vote": 344,
+            "votes": {
+                "10": 7,
+                "11": 25,
+                "12": 13,
+                "13": 16,
+                "18": 2,
+                "21": 123,
+                "22": 48,
+                "24": 14,
+                "5": 1,
+                "7": 7,
+                "8": 3,
+                "9": 85
+            }
+        },
+        "school_name": "SUZAN AHMET YALKIN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2021,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/13682_cb_1093785255_1684087260771759428.jpg",
+            "submission_id": 328073,
+            "total_vote": 313,
+            "votes": {
+                "1": 164,
+                "2": 1,
+                "3": 135,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/13682_mv_1083785255_1684087179669716616.jpg",
+            "submission_id": 325302,
+            "total_vote": 314,
+            "votes": {
+                "10": 3,
+                "11": 26,
+                "12": 10,
+                "13": 13,
+                "19": 1,
+                "21": 87,
+                "22": 23,
+                "23": 1,
+                "24": 5,
+                "7": 1,
+                "8": 6,
+                "9": 138
+            }
+        },
+        "school_name": "SUZAN AHMET YALKIN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2025,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/26036_cb_1093785259_1684087308825877993.jpg",
+            "submission_id": 329661,
+            "total_vote": 344,
+            "votes": {
+                "1": 156,
+                "3": 170,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/26036_mv_1083785256_1684087326525955623.jpg",
+            "submission_id": 330250,
+            "total_vote": 344,
+            "votes": {
+                "10": 11,
+                "11": 30,
+                "12": 3,
+                "13": 13,
+                "21": 118,
+                "22": 38,
+                "23": 1,
+                "24": 11,
+                "3": 1,
+                "5": 1,
+                "7": 6,
+                "9": 111
+            }
+        },
+        "school_name": "SUZAN AHMET YALKIN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2037,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/13681_bulk_999999999_1684081716595956961.jpeg",
+            "submission_id": 191573,
+            "total_vote": 343,
+            "votes": {
+                "1": 135,
+                "3": 187,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0883abe8-77cf-4502-9dd8-26b389c67a0a-1684105255592804485.jpg",
+            "submission_id": 605623,
+            "total_vote": 337,
+            "votes": {
+                "10": 8,
+                "11": 30,
+                "12": 1,
+                "13": 13,
+                "14": 1,
+                "20": 1,
+                "21": 131,
+                "22": 41,
+                "23": 1,
+                "24": 9,
+                "4": 1,
+                "7": 3,
+                "8": 6,
+                "9": 91
+            }
+        },
+        "school_name": "SUZAN AHMET YALKIN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2027,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/13681_bulk_999999999_1684080412396495406.jpeg",
+            "submission_id": 181518,
+            "total_vote": 354,
+            "votes": {
+                "1": 135,
+                "3": 196,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/18083_bulk_999999999_1684084393227376992.jpeg",
+            "submission_id": 237826,
+            "total_vote": 349,
+            "votes": {
+                "1": 0,
+                "10": 8,
+                "11": 21,
+                "12": 4,
+                "13": 17,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 131,
+                "22": 49,
+                "23": 3,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 4,
+                "9": 98
+            }
+        },
+        "school_name": "SUZAN AHMET YALKIN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2036,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/27499_cb_1093785270_1684085432806395851.jpg",
+            "submission_id": 266624,
+            "total_vote": 349,
+            "votes": {
+                "1": 132,
+                "2": 1,
+                "3": 193,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "SUZAN AHMET YALKIN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2024,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/13681_bulk_999999999_1684093517711790878.jpeg",
+            "submission_id": 470807,
+            "total_vote": 348,
+            "votes": {
+                "1": 114,
+                "3": 211,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/13681_bulk_999999999_1684093518295136446.jpeg",
+            "submission_id": 470814,
+            "total_vote": 345,
+            "votes": {
+                "1": 0,
+                "10": 12,
+                "11": 18,
+                "12": 14,
+                "13": 22,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 127,
+                "22": 43,
+                "23": 1,
+                "24": 13,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 8,
+                "8": 1,
+                "9": 82
+            }
+        },
+        "school_name": "SUZAN AHMET YALKIN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2023,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/26210_cb_1093785257_1684083465995090894.jpg",
+            "submission_id": 217153,
+            "total_vote": 338,
+            "votes": {
+                "1": 140,
+                "2": 1,
+                "3": 178,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/26210_mv_1083785257_1684083382183537337.jpg",
+            "submission_id": 215564,
+            "total_vote": 334,
+            "votes": {
+                "1": 0,
+                "10": 14,
+                "11": 32,
+                "12": 8,
+                "13": 22,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 2,
+                "21": 102,
+                "22": 46,
+                "23": 0,
+                "24": 6,
+                "3": 2,
+                "4": 0,
+                "5": 3,
+                "6": 0,
+                "7": 7,
+                "8": 1,
+                "9": 88
+            }
+        },
+        "school_name": "SUZAN AHMET YALKIN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2026,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/13681_bulk_999999999_1684080726758236880.jpeg",
+            "submission_id": 183393,
+            "total_vote": 346,
+            "votes": {
+                "1": 119,
+                "2": 1,
+                "3": 206,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/13681_bulk_999999999_1684093518175189354.jpeg",
+            "submission_id": 470812,
+            "total_vote": 336,
+            "votes": {
+                "1": 0,
+                "10": 14,
+                "11": 15,
+                "12": 16,
+                "13": 17,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 118,
+                "22": 43,
+                "23": 2,
+                "24": 16,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 5,
+                "8": 0,
+                "9": 87
+            }
+        },
+        "school_name": "SUZAN AHMET YALKIN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2040,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/32840_cb_1093785274_1684089938323339220.jpg",
+            "submission_id": 408133,
+            "total_vote": 345,
+            "votes": {
+                "1": 97,
+                "2": 1,
+                "3": 223,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/32840_mv_1083785274_1684089163007604039.jpg",
+            "submission_id": 387080,
+            "total_vote": 337,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 20,
+                "12": 8,
+                "13": 17,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 136,
+                "22": 48,
+                "23": 0,
+                "24": 19,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 7,
+                "8": 6,
+                "9": 68
+            }
+        },
+        "school_name": "SUZAN AHMET YALKIN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2032,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/13681_bulk_999999999_1684080790743554935.jpeg",
+            "submission_id": 183808,
+            "total_vote": 343,
+            "votes": {
+                "1": 124,
+                "2": 0,
+                "3": 189,
+                "4": 30
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/13681_bulk_999999999_1684085917415746522.jpeg",
+            "submission_id": 282348,
+            "total_vote": 346,
+            "votes": {
+                "1": 2,
+                "10": 4,
+                "11": 18,
+                "12": 2,
+                "13": 22,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 123,
+                "22": 54,
+                "23": 2,
+                "24": 15,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 5,
+                "8": 2,
+                "9": 95
+            }
+        },
+        "school_name": "SUZAN AHMET YALKIN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2039,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/32840_cb_1093785273_1684084870816083119.jpg",
+            "submission_id": 250492,
+            "total_vote": 343,
+            "votes": {
+                "1": 137,
+                "3": 186,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/32840_mv_1083785273_1684084902769794647.jpg",
+            "submission_id": 251352,
+            "total_vote": 340,
+            "votes": {
+                "10": 6,
+                "11": 18,
+                "12": 12,
+                "13": 19,
+                "21": 104,
+                "22": 54,
+                "24": 13,
+                "7": 6,
+                "9": 108
+            }
+        },
+        "school_name": "SUZAN AHMET YALKIN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2028,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/19803_cb_1093785262_1684079390783636038.jpg",
+            "submission_id": 176830,
+            "total_vote": 351,
+            "votes": {
+                "1": 126,
+                "2": 1,
+                "3": 198,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/19803_mv_1083785262_1684088120189602621.jpg",
+            "submission_id": 355817,
+            "total_vote": 346,
+            "votes": {
+                "1": 1,
+                "10": 9,
+                "11": 27,
+                "12": 10,
+                "13": 13,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 127,
+                "22": 51,
+                "23": 2,
+                "24": 15,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 1,
+                "9": 88
+            }
+        },
+        "school_name": "SUZAN AHMET YALKIN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2030,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/13681_bulk_999999999_1684081304013748858.jpeg",
+            "submission_id": 187666,
+            "total_vote": 346,
+            "votes": {
+                "1": 126,
+                "2": 1,
+                "3": 202,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "SUZAN AHMET YALKIN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2029,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/13681_bulk_999999999_1684093236544277405.jpeg",
+            "submission_id": 467349,
+            "total_vote": 346,
+            "votes": {
+                "1": 124,
+                "2": 3,
+                "3": 199,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "SUZAN AHMET YALKIN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2022,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/13681_bulk_999999999_1684085917342623581.jpeg",
+            "submission_id": 282346,
+            "total_vote": 346,
+            "votes": {
+                "1": 139,
+                "2": 1,
+                "3": 180,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/13681_bulk_999999999_1684147978371711261.jpeg",
+            "submission_id": 1020193,
+            "total_vote": 342,
+            "votes": {
+                "1": 1,
+                "10": 70,
+                "11": 19,
+                "12": 0,
+                "13": 13,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 112,
+                "20": 0,
+                "21": 0,
+                "22": 0,
+                "23": 0,
+                "24": 16,
+                "3": 7,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 0,
+                "9": 104
+            }
+        },
+        "school_name": "SUZAN AHMET YALKIN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2020,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/19808_cb_1093785134_1684089970917412880.jpg",
+            "submission_id": 408959,
+            "total_vote": 323,
+            "votes": {
+                "1": 110,
+                "2": 3,
+                "3": 202,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/19808_mv_1083785134_1684090070570140042.jpg",
+            "submission_id": 411437,
+            "total_vote": 309,
+            "votes": {
+                "1": 0,
+                "10": 9,
+                "11": 9,
+                "12": 3,
+                "13": 8,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 1,
+                "2": 2,
+                "20": 0,
+                "21": 154,
+                "22": 24,
+                "23": 0,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 1,
+                "7": 3,
+                "8": 0,
+                "9": 85
+            }
+        },
+        "school_name": "SUZAN AHMET YALKIN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2038,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/27495_cb_1093785272_1684088568367857446.jpg",
+            "submission_id": 369585,
+            "total_vote": 341,
+            "votes": {
+                "1": 95,
+                "2": 0,
+                "3": 218,
+                "4": 28
+            }
+        },
+        "mv_result": null,
+        "school_name": "SUZAN AHMET YALKIN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2034,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/13681_bulk_999999999_1684082731552774218.jpeg",
+            "submission_id": 204346,
+            "total_vote": 339,
+            "votes": {
+                "1": 123,
+                "2": 1,
+                "3": 184,
+                "4": 31
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/38264_mv_1083785268_1684089113736677858.jpg",
+            "submission_id": 385703,
+            "total_vote": 334,
+            "votes": {
+                "1": 0,
+                "10": 8,
+                "11": 20,
+                "12": 5,
+                "13": 29,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 122,
+                "22": 31,
+                "23": 2,
+                "24": 20,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 0,
+                "9": 88
+            }
+        },
+        "school_name": "SUZAN AHMET YALKIN ORTAOKULU"
+    }
+]

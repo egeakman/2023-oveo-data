@@ -1,0 +1,698 @@
+[
+    {
+        "ballot_box_number": 1271,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/26091_cb_1093684018_1684080459210703253.jpg",
+            "submission_id": 181814,
+            "total_vote": 337,
+            "votes": {
+                "1": 183,
+                "2": 0,
+                "3": 146,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/73838_mv_1083684018_1684084741112781325.jpg",
+            "submission_id": 246994,
+            "total_vote": 324,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 29,
+                "12": 15,
+                "13": 11,
+                "14": 0,
+                "15": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 86,
+                "22": 36,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 0,
+                "8": 2,
+                "9": 135
+            }
+        },
+        "school_name": "SELİMPAŞA AHMET ZİYLAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1279,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "SELİMPAŞA AHMET ZİYLAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1288,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/15214_cb_1093684975_1684086136153624093.jpg",
+            "submission_id": 289334,
+            "total_vote": 317,
+            "votes": {
+                "1": 156,
+                "2": 2,
+                "3": 138,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/15214_mv_1083684975_1684086169863532227.jpg",
+            "submission_id": 290496,
+            "total_vote": 306,
+            "votes": {
+                "1": 3,
+                "10": 8,
+                "11": 26,
+                "12": 13,
+                "13": 4,
+                "14": 0,
+                "15": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 86,
+                "22": 38,
+                "24": 9,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 4,
+                "9": 108
+            }
+        },
+        "school_name": "SELİMPAŞA AHMET ZİYLAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1278,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/26091_bulk_999999999_1684086483001580053.jpeg",
+            "submission_id": 300927,
+            "total_vote": 323,
+            "votes": {
+                "1": 170,
+                "2": 2,
+                "3": 133,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/26091_bulk_999999999_1684086482861676804.jpeg",
+            "submission_id": 300918,
+            "total_vote": 318,
+            "votes": {
+                "1": 1,
+                "10": 14,
+                "11": 40,
+                "12": 18,
+                "13": 12,
+                "2": 1,
+                "21": 70,
+                "22": 32,
+                "24": 10,
+                "3": 2,
+                "6": 1,
+                "7": 3,
+                "8": 3,
+                "9": 111
+            }
+        },
+        "school_name": "SELİMPAŞA AHMET ZİYLAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1284,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/26091_bulk_999999999_1684087292966971387.jpeg",
+            "submission_id": 329160,
+            "total_vote": 327,
+            "votes": {
+                "1": 171,
+                "3": 137,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "SELİMPAŞA AHMET ZİYLAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1283,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/15214_cb_1093684030_1684084704711223991.jpg",
+            "submission_id": 246018,
+            "total_vote": 333,
+            "votes": {
+                "1": 164,
+                "2": 1,
+                "3": 145,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/15214_cb_1093684030_1684084739425640001.jpg",
+            "submission_id": 246934,
+            "total_vote": 327,
+            "votes": {
+                "1": 1,
+                "10": 14,
+                "11": 26,
+                "12": 22,
+                "13": 14,
+                "15": 1,
+                "21": 70,
+                "22": 33,
+                "24": 10,
+                "6": 1,
+                "7": 6,
+                "8": 4,
+                "9": 125
+            }
+        },
+        "school_name": "SELİMPAŞA AHMET ZİYLAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1274,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/73838_cb_1093684021_1684085591140018794.jpg",
+            "submission_id": 271466,
+            "total_vote": 331,
+            "votes": {
+                "1": 164,
+                "3": 157,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/73838_mv_1083684021_1684085564301521387.jpg",
+            "submission_id": 270591,
+            "total_vote": 323,
+            "votes": {
+                "1": 0,
+                "10": 15,
+                "11": 32,
+                "12": 23,
+                "13": 16,
+                "14": 0,
+                "15": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 83,
+                "22": 27,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 5,
+                "8": 1,
+                "9": 113
+            }
+        },
+        "school_name": "SELİMPAŞA AHMET ZİYLAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1270,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "SELİMPAŞA AHMET ZİYLAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1276,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/26091_bulk_999999999_1684086593471850821.jpeg",
+            "submission_id": 304786,
+            "total_vote": 320,
+            "votes": {
+                "1": 175,
+                "2": 2,
+                "3": 126,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "SELİMPAŞA AHMET ZİYLAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1269,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/73838_cb_1093684016_1684085320764139069.jpg",
+            "submission_id": 263358,
+            "total_vote": 289,
+            "votes": {
+                "1": 136,
+                "2": 0,
+                "3": 149,
+                "4": 4
+            }
+        },
+        "mv_result": null,
+        "school_name": "SELİMPAŞA AHMET ZİYLAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1290,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/68883_cb_1093684977_1684086899798328785.jpg",
+            "submission_id": 315447,
+            "total_vote": 323,
+            "votes": {
+                "1": 179,
+                "2": 2,
+                "3": 130,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/68883_mv_1083684977_1684086871803707555.jpg",
+            "submission_id": 314536,
+            "total_vote": 315,
+            "votes": {
+                "1": 0,
+                "10": 12,
+                "11": 31,
+                "12": 12,
+                "13": 7,
+                "14": 1,
+                "15": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 88,
+                "22": 28,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 5,
+                "8": 2,
+                "9": 122
+            }
+        },
+        "school_name": "SELİMPAŞA AHMET ZİYLAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1273,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/26091_bulk_999999999_1684086013822996703.jpeg",
+            "submission_id": 285377,
+            "total_vote": 332,
+            "votes": {
+                "1": 184,
+                "3": 130,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/26091_bulk_999999999_1684086309798903527.jpeg",
+            "submission_id": 295115,
+            "total_vote": 322,
+            "votes": {
+                "1": 0,
+                "10": 12,
+                "11": 35,
+                "12": 14,
+                "13": 7,
+                "14": 0,
+                "15": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 78,
+                "22": 26,
+                "24": 10,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 2,
+                "9": 134
+            }
+        },
+        "school_name": "SELİMPAŞA AHMET ZİYLAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1277,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "SELİMPAŞA AHMET ZİYLAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1280,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "SELİMPAŞA AHMET ZİYLAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1281,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/73838_cb_1093684028_1684080186092919999.jpg",
+            "submission_id": 180189,
+            "total_vote": 315,
+            "votes": {
+                "1": 156,
+                "3": 140,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "SELİMPAŞA AHMET ZİYLAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1289,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/68883_bulk_999999999_1684086558001276923.jpeg",
+            "submission_id": 303545,
+            "total_vote": 326,
+            "votes": {
+                "1": 171,
+                "2": 5,
+                "3": 138,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/68883_bulk_999999999_1684086558110708987.jpeg",
+            "submission_id": 303548,
+            "total_vote": 311,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 26,
+                "12": 20,
+                "13": 9,
+                "14": 1,
+                "15": 2,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 59,
+                "22": 36,
+                "24": 14,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 8,
+                "8": 3,
+                "9": 124
+            }
+        },
+        "school_name": "SELİMPAŞA AHMET ZİYLAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1282,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/26091_bulk_999999999_1684087187309982894.jpeg",
+            "submission_id": 325566,
+            "total_vote": 323,
+            "votes": {
+                "1": 182,
+                "2": 1,
+                "3": 121,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "SELİMPAŞA AHMET ZİYLAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1292,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/68883_cb_1093684979_1684086929099305622.jpg",
+            "submission_id": 316519,
+            "total_vote": 324,
+            "votes": {
+                "1": 173,
+                "2": 1,
+                "3": 136,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/68883_mv_1083684979_1684086969313027713.jpg",
+            "submission_id": 317904,
+            "total_vote": 312,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 30,
+                "12": 15,
+                "13": 8,
+                "14": 0,
+                "15": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 0,
+                "21": 81,
+                "22": 26,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 0,
+                "7": 9,
+                "8": 4,
+                "9": 128
+            }
+        },
+        "school_name": "SELİMPAŞA AHMET ZİYLAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1272,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/73838_cb_1093684019_1684084843311499041.jpg",
+            "submission_id": 249714,
+            "total_vote": 320,
+            "votes": {
+                "1": 174,
+                "2": 0,
+                "3": 128,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/73838_mv_1083684019_1684085656340294040.jpg",
+            "submission_id": 273606,
+            "total_vote": 310,
+            "votes": {
+                "1": 0,
+                "10": 11,
+                "11": 34,
+                "12": 15,
+                "13": 16,
+                "14": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 71,
+                "22": 31,
+                "24": 6,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 3,
+                "9": 121
+            }
+        },
+        "school_name": "SELİMPAŞA AHMET ZİYLAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1291,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/15214_cb_1093684978_1684086270260605458.jpg",
+            "submission_id": 293754,
+            "total_vote": 334,
+            "votes": {
+                "1": 162,
+                "3": 157,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/15214_mv_1083684978_1684086304718786401.jpg",
+            "submission_id": 294912,
+            "total_vote": 330,
+            "votes": {
+                "1": 1,
+                "10": 6,
+                "11": 31,
+                "12": 26,
+                "13": 13,
+                "14": 0,
+                "15": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 78,
+                "22": 36,
+                "24": 13,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 4,
+                "8": 1,
+                "9": 117
+            }
+        },
+        "school_name": "SELİMPAŞA AHMET ZİYLAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1275,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/26091_bulk_999999999_1684086532159373758.jpeg",
+            "submission_id": 302637,
+            "total_vote": 336,
+            "votes": {
+                "1": 157,
+                "2": 1,
+                "3": 152,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/26091_bulk_999999999_1684086532031471063.jpeg",
+            "submission_id": 302634,
+            "total_vote": 331,
+            "votes": {
+                "10": 10,
+                "11": 35,
+                "12": 24,
+                "13": 7,
+                "14": 1,
+                "21": 88,
+                "22": 30,
+                "24": 17,
+                "7": 4,
+                "9": 115
+            }
+        },
+        "school_name": "SELİMPAŞA AHMET ZİYLAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1268,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/68883_cb_1093684015_1684087149731073706.jpg",
+            "submission_id": 324280,
+            "total_vote": 302,
+            "votes": {
+                "1": 140,
+                "2": 2,
+                "3": 150,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "SELİMPAŞA AHMET ZİYLAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1286,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/68883_cb_1093684033_1684086999007990815.jpg",
+            "submission_id": 318913,
+            "total_vote": 327,
+            "votes": {
+                "1": 173,
+                "2": 1,
+                "3": 147,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/26091_bulk_999999999_1684087519517216060.jpeg",
+            "submission_id": 336560,
+            "total_vote": 321,
+            "votes": {
+                "10": 13,
+                "11": 31,
+                "12": 17,
+                "13": 8,
+                "15": 1,
+                "21": 68,
+                "22": 49,
+                "24": 10,
+                "6": 1,
+                "7": 5,
+                "8": 1,
+                "9": 117
+            }
+        },
+        "school_name": "SELİMPAŞA AHMET ZİYLAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1285,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "SELİMPAŞA AHMET ZİYLAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1287,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/68883_cb_1093684034_1684086749407242341.jpg",
+            "submission_id": 310336,
+            "total_vote": 333,
+            "votes": {
+                "1": 151,
+                "2": 2,
+                "3": 167,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/68883_mv_1083684034_1684086796901888347.jpg",
+            "submission_id": 311957,
+            "total_vote": 328,
+            "votes": {
+                "1": 1,
+                "10": 8,
+                "11": 33,
+                "12": 31,
+                "13": 16,
+                "14": 0,
+                "15": 0,
+                "17": 0,
+                "18": 1,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 85,
+                "22": 38,
+                "24": 8,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 2,
+                "8": 0,
+                "9": 99
+            }
+        },
+        "school_name": "SELİMPAŞA AHMET ZİYLAN ORTAOKULU"
+    }
+]

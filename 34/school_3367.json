@@ -1,0 +1,47 @@
+[
+    {
+        "ballot_box_number": 1175,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0b35f3fe-811e-4267-9bd3-7ac78137b234-1684106747376913270.jpeg",
+            "submission_id": 833356,
+            "total_vote": 186,
+            "votes": {
+                "1": 100,
+                "3": 75,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ef61c7e8-076a-4a14-8abe-ee6ce4c110e8-1684106625386258764.jpeg",
+            "submission_id": 815137,
+            "total_vote": 182,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 15,
+                "12": 0,
+                "13": 3,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 2,
+                "2": 1,
+                "20": 1,
+                "21": 52,
+                "22": 26,
+                "23": 1,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 0,
+                "8": 1,
+                "9": 73
+            }
+        },
+        "school_name": "GÖLLÜ KÖY KONAĞI"
+    }
+]

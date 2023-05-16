@@ -1,0 +1,233 @@
+[
+    {
+        "ballot_box_number": 1122,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/79817_cb_1093649861_1684084398113105128.jpg",
+            "submission_id": 237930,
+            "total_vote": 333,
+            "votes": {
+                "1": 46,
+                "3": 275,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/79817_mv_1083649861_1684084345552206835.jpg",
+            "submission_id": 236642,
+            "total_vote": 332,
+            "votes": {
+                "10": 4,
+                "11": 5,
+                "12": 18,
+                "13": 32,
+                "17": 1,
+                "21": 180,
+                "22": 45,
+                "24": 7,
+                "3": 1,
+                "7": 2,
+                "8": 1,
+                "9": 36
+            }
+        },
+        "school_name": "AHMET SANİ GEZİCİ MESLEKİ ÇOK PROGRAMLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1119,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/60595_cb_1093649858_1684082578733149031.jpg",
+            "submission_id": 202060,
+            "total_vote": 354,
+            "votes": {
+                "1": 72,
+                "3": 273,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/60595_mv_1083649858_1684083713093276589.jpg",
+            "submission_id": 222141,
+            "total_vote": 351,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 10,
+                "12": 20,
+                "13": 26,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 179,
+                "22": 42,
+                "23": 0,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 1,
+                "9": 57
+            }
+        },
+        "school_name": "AHMET SANİ GEZİCİ MESLEKİ ÇOK PROGRAMLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1118,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1027_bulk_999999999_1684088682777497489.jpeg",
+            "submission_id": 373208,
+            "total_vote": 342,
+            "votes": {
+                "1": 42,
+                "2": 0,
+                "3": 285,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1027_bulk_999999999_1684088682865289915.jpeg",
+            "submission_id": 373214,
+            "total_vote": 341,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 10,
+                "12": 17,
+                "13": 30,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 186,
+                "22": 50,
+                "23": 0,
+                "24": 11,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 28
+            }
+        },
+        "school_name": "AHMET SANİ GEZİCİ MESLEKİ ÇOK PROGRAMLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1123,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/8877_cb_1093649862_1684089035742207118.jpg",
+            "submission_id": 383529,
+            "total_vote": 335,
+            "votes": {
+                "1": 49,
+                "2": 1,
+                "3": 270,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/8877_mv_1083649862_1684089131068707054.jpg",
+            "submission_id": 386134,
+            "total_vote": 335,
+            "votes": {
+                "1": 2,
+                "10": 1,
+                "11": 5,
+                "12": 14,
+                "13": 32,
+                "20": 178,
+                "21": 47,
+                "23": 8,
+                "6": 1,
+                "7": 8,
+                "9": 39
+            }
+        },
+        "school_name": "AHMET SANİ GEZİCİ MESLEKİ ÇOK PROGRAMLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1117,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/8877_cb_1093649856_1684090566491899040.jpg",
+            "submission_id": 422958,
+            "total_vote": 333,
+            "votes": {
+                "1": 62,
+                "3": 269,
+                "4": 2
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/2932_bulk_999999999_1684090667800976760.jpg",
+            "submission_id": 424898,
+            "total_vote": 331,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 7,
+                "12": 10,
+                "13": 28,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 190,
+                "22": 35,
+                "23": 1,
+                "24": 3,
+                "3": 1,
+                "6": 0,
+                "7": 3,
+                "8": 1,
+                "9": 48
+            }
+        },
+        "school_name": "AHMET SANİ GEZİCİ MESLEKİ ÇOK PROGRAMLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1120,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1027_cb_1093649859_1684091843531691683.jpg",
+            "submission_id": 446645,
+            "total_vote": 332,
+            "votes": {
+                "1": 47,
+                "3": 275,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "AHMET SANİ GEZİCİ MESLEKİ ÇOK PROGRAMLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1121,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/19303_cb_1093649860_1684086471384596974.jpg",
+            "submission_id": 300463,
+            "total_vote": 326,
+            "votes": {
+                "1": 60,
+                "2": 2,
+                "3": 246,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "AHMET SANİ GEZİCİ MESLEKİ ÇOK PROGRAMLI ANADOLU LİSESİ"
+    }
+]

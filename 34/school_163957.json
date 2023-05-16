@@ -1,0 +1,283 @@
+[
+    {
+        "ballot_box_number": 1011,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16254_cb_1093652216_1684081144807834001.jpg",
+            "submission_id": 186411,
+            "total_vote": 329,
+            "votes": {
+                "1": 104,
+                "2": 3,
+                "3": 200,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16254_mv_1083652216_1684086200601184375.jpg",
+            "submission_id": 291453,
+            "total_vote": 331,
+            "votes": {
+                "10": 8,
+                "11": 18,
+                "12": 79,
+                "13": 15,
+                "19": 1,
+                "21": 98,
+                "22": 11,
+                "24": 10,
+                "5": 1,
+                "6": 1,
+                "7": 6,
+                "8": 2,
+                "9": 81
+            }
+        },
+        "school_name": "ZUHAL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1012,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/2353_cb_1093652217_1684093977593726535.jpg",
+            "submission_id": 480106,
+            "total_vote": 325,
+            "votes": {
+                "1": 124,
+                "2": 0,
+                "3": 189,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/2353_mv_1083652217_1684093279412405531.jpg",
+            "submission_id": 467904,
+            "total_vote": 329,
+            "votes": {
+                "1": 1,
+                "10": 14,
+                "11": 16,
+                "12": 53,
+                "13": 12,
+                "15": 1,
+                "21": 97,
+                "22": 25,
+                "24": 9,
+                "5": 1,
+                "6": 2,
+                "7": 4,
+                "8": 1,
+                "9": 93
+            }
+        },
+        "school_name": "ZUHAL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1016,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e9fbaada-b32f-48d6-8aef-ddbb3e1851ed-1684106070246404807.jpg",
+            "submission_id": 734366,
+            "total_vote": 342,
+            "votes": {
+                "1": 153,
+                "2": 1,
+                "3": 174,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/2353_bulk_999999999_1684093867874700831.jpg",
+            "submission_id": 475855,
+            "total_vote": 335,
+            "votes": {
+                "10": 6,
+                "11": 21,
+                "12": 53,
+                "13": 9,
+                "21": 79,
+                "22": 30,
+                "24": 9,
+                "6": 2,
+                "7": 3,
+                "8": 3,
+                "9": 120
+            }
+        },
+        "school_name": "ZUHAL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1015,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/2353_bulk_999999999_1684093867961150900.jpg",
+            "submission_id": 475862,
+            "total_vote": 330,
+            "votes": {
+                "1": 138,
+                "3": 180,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/2353_bulk_999999999_1684093915359981935.jpg",
+            "submission_id": 477588,
+            "total_vote": 324,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 14,
+                "12": 69,
+                "13": 16,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 73,
+                "22": 16,
+                "23": 0,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 3,
+                "8": 2,
+                "9": 117
+            }
+        },
+        "school_name": "ZUHAL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1014,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/2353_cb_1093652219_1684092983644316585.jpg",
+            "submission_id": 463737,
+            "total_vote": 320,
+            "votes": {
+                "1": 138,
+                "2": 2,
+                "3": 172,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/785511d5-ed98-4898-8ce3-40022ff49446-1684105404492696922.jpg",
+            "submission_id": 634382,
+            "total_vote": 318,
+            "votes": {
+                "10": 10,
+                "11": 18,
+                "12": 62,
+                "13": 13,
+                "17": 1,
+                "21": 79,
+                "22": 19,
+                "23": 1,
+                "24": 6,
+                "6": 1,
+                "7": 5,
+                "8": 1,
+                "9": 102
+            }
+        },
+        "school_name": "ZUHAL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1013,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/61845_bulk_999999999_1684092158220268528.jpeg",
+            "submission_id": 451865,
+            "total_vote": 319,
+            "votes": {
+                "1": 128,
+                "2": 0,
+                "3": 174,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "ZUHAL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1017,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/15686_cb_1093652222_1684092812896703795.jpg",
+            "submission_id": 461487,
+            "total_vote": 339,
+            "votes": {
+                "1": 118,
+                "2": 1,
+                "3": 200,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/2353_mv_1083652222_1684093617449946987.jpg",
+            "submission_id": 472033,
+            "total_vote": 333,
+            "votes": {
+                "10": 10,
+                "11": 17,
+                "12": 65,
+                "13": 17,
+                "19": 1,
+                "20": 1,
+                "21": 96,
+                "22": 20,
+                "24": 7,
+                "5": 2,
+                "6": 2,
+                "7": 6,
+                "9": 89
+            }
+        },
+        "school_name": "ZUHAL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1010,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/15354_cb_1093652215_1684088497506239259.jpg",
+            "submission_id": 367395,
+            "total_vote": 306,
+            "votes": {
+                "1": 121,
+                "2": 0,
+                "3": 178,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/15354_mv_1083652215_1684087013645222278.jpg",
+            "submission_id": 319445,
+            "total_vote": 301,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 5,
+                "12": 48,
+                "13": 7,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 104,
+                "22": 21,
+                "23": 1,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 0,
+                "8": 1,
+                "9": 101
+            }
+        },
+        "school_name": "ZUHAL İLKOKULU"
+    }
+]

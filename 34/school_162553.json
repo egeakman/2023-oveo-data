@@ -1,0 +1,703 @@
+[
+    {
+        "ballot_box_number": 3187,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/47352_bulk_999999999_1684092462261901111.jpeg",
+            "submission_id": 456677,
+            "total_vote": 333,
+            "votes": {
+                "1": 153,
+                "3": 174,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/47352_bulk_999999999_1684092462176230801.jpeg",
+            "submission_id": 456674,
+            "total_vote": 322,
+            "votes": {
+                "10": 12,
+                "11": 12,
+                "12": 119,
+                "13": 6,
+                "21": 46,
+                "22": 7,
+                "24": 2,
+                "5": 2,
+                "7": 2,
+                "8": 2,
+                "9": 112
+            }
+        },
+        "school_name": "SELAHADDİN EYYÜBİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3177,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/47337_cb_1093649808_1684086832937515946.jpg",
+            "submission_id": 313178,
+            "total_vote": 323,
+            "votes": {
+                "1": 150,
+                "2": 2,
+                "3": 157,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/47337_mv_1083649808_1684087860656846457.jpg",
+            "submission_id": 347412,
+            "total_vote": 317,
+            "votes": {
+                "10": 9,
+                "11": 16,
+                "12": 97,
+                "13": 6,
+                "21": 42,
+                "22": 13,
+                "23": 1,
+                "24": 9,
+                "5": 1,
+                "7": 5,
+                "8": 4,
+                "9": 114
+            }
+        },
+        "school_name": "SELAHADDİN EYYÜBİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3186,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/49585_cb_1093650797_1684089333849204437.jpg",
+            "submission_id": 391734,
+            "total_vote": 322,
+            "votes": {
+                "1": 144,
+                "2": 2,
+                "3": 168,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/47352_bulk_999999999_1684092154696367803.jpeg",
+            "submission_id": 451826,
+            "total_vote": 319,
+            "votes": {
+                "1": 0,
+                "10": 11,
+                "11": 8,
+                "12": 112,
+                "13": 6,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 48,
+                "22": 7,
+                "23": 0,
+                "24": 3,
+                "3": 0,
+                "4": 1,
+                "5": 1,
+                "6": 0,
+                "7": 4,
+                "8": 1,
+                "9": 117
+            }
+        },
+        "school_name": "SELAHADDİN EYYÜBİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3179,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1077_cb_1093649810_1684086700609798476.jpg",
+            "submission_id": 308517,
+            "total_vote": 318,
+            "votes": {
+                "1": 182,
+                "2": 1,
+                "3": 127,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1077_mv_1083649806_1684086723784207761.jpg",
+            "submission_id": 309355,
+            "total_vote": 311,
+            "votes": {
+                "1": 1,
+                "10": 11,
+                "11": 11,
+                "12": 79,
+                "13": 4,
+                "21": 34,
+                "22": 9,
+                "23": 2,
+                "24": 6,
+                "3": 1,
+                "5": 2,
+                "7": 3,
+                "9": 148
+            }
+        },
+        "school_name": "SELAHADDİN EYYÜBİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3178,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/49585_cb_1093649809_1684090808135354061.jpg",
+            "submission_id": 427816,
+            "total_vote": 312,
+            "votes": {
+                "1": 169,
+                "2": 0,
+                "3": 137,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/23d0964f-2ca2-4e6d-9818-ffbf73698f25-1684105181699621690.jpeg",
+            "submission_id": 590733,
+            "total_vote": 293,
+            "votes": {
+                "1": 0,
+                "10": 15,
+                "11": 15,
+                "12": 85,
+                "13": 13,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 36,
+                "22": 7,
+                "23": 0,
+                "24": 3,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 0,
+                "8": 1,
+                "9": 114
+            }
+        },
+        "school_name": "SELAHADDİN EYYÜBİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3175,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/65558_cb_1093649806_1684085800479657190.jpg",
+            "submission_id": 278422,
+            "total_vote": 342,
+            "votes": {
+                "1": 157,
+                "2": 3,
+                "3": 174,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1077_mv_1083649806_1684087673097505863.jpg",
+            "submission_id": 341468,
+            "total_vote": 336,
+            "votes": {
+                "10": 8,
+                "11": 5,
+                "12": 118,
+                "13": 9,
+                "14": 2,
+                "21": 43,
+                "22": 14,
+                "24": 5,
+                "3": 1,
+                "5": 1,
+                "7": 1,
+                "9": 129
+            }
+        },
+        "school_name": "SELAHADDİN EYYÜBİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3183,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1077_cb_1093649814_1684084324565260780.jpg",
+            "submission_id": 236113,
+            "total_vote": 317,
+            "votes": {
+                "1": 141,
+                "3": 166,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1077_mv_1083649814_1684084349851619930.jpg",
+            "submission_id": 236732,
+            "total_vote": 313,
+            "votes": {
+                "10": 11,
+                "11": 10,
+                "12": 96,
+                "13": 10,
+                "19": 1,
+                "21": 42,
+                "22": 18,
+                "24": 7,
+                "5": 1,
+                "7": 2,
+                "9": 115
+            }
+        },
+        "school_name": "SELAHADDİN EYYÜBİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3184,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1077_cb_1093650795_1684088472909551531.jpg",
+            "submission_id": 366650,
+            "total_vote": 325,
+            "votes": {
+                "1": 167,
+                "2": 1,
+                "3": 151,
+                "4": 6
+            }
+        },
+        "mv_result": null,
+        "school_name": "SELAHADDİN EYYÜBİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3190,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/49585_cb_1093650801_1684086776092818899.jpg",
+            "submission_id": 311217,
+            "total_vote": 325,
+            "votes": {
+                "1": 160,
+                "3": 160,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/47352_bulk_999999999_1684090115843410322.jpeg",
+            "submission_id": 412546,
+            "total_vote": 323,
+            "votes": {
+                "1": 0,
+                "10": 10,
+                "11": 11,
+                "12": 95,
+                "13": 8,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 53,
+                "22": 7,
+                "23": 1,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 3,
+                "6": 0,
+                "7": 3,
+                "8": 2,
+                "9": 127
+            }
+        },
+        "school_name": "SELAHADDİN EYYÜBİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3181,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1077_cb_1093649812_1684089283110497906.jpg",
+            "submission_id": 390449,
+            "total_vote": 320,
+            "votes": {
+                "1": 168,
+                "2": 0,
+                "3": 146,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1077_mv_1083649812_1684091523167323125.jpg",
+            "submission_id": 441584,
+            "total_vote": 315,
+            "votes": {
+                "1": 1,
+                "10": 13,
+                "11": 17,
+                "12": 72,
+                "13": 5,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 52,
+                "22": 11,
+                "23": 0,
+                "24": 8,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "8": 2,
+                "9": 128
+            }
+        },
+        "school_name": "SELAHADDİN EYYÜBİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3173,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/49585_cb_1093649804_1684086097055515386.jpg",
+            "submission_id": 288072,
+            "total_vote": 297,
+            "votes": {
+                "1": 155,
+                "2": 0,
+                "3": 138,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/49585_mv_1083649804_1684090153984154214.jpg",
+            "submission_id": 413473,
+            "total_vote": 293,
+            "votes": {
+                "1": 0,
+                "10": 10,
+                "11": 5,
+                "12": 95,
+                "13": 11,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "2": 1,
+                "21": 28,
+                "22": 3,
+                "23": 0,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 3,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 130
+            }
+        },
+        "school_name": "SELAHADDİN EYYÜBİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3182,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1077_cb_1093649813_1684088884800661975.jpg",
+            "submission_id": 379091,
+            "total_vote": 328,
+            "votes": {
+                "1": 139,
+                "2": 0,
+                "3": 178,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1077_mv_1083649813_1684088911119980478.jpg",
+            "submission_id": 379918,
+            "total_vote": 319,
+            "votes": {
+                "10": 12,
+                "11": 12,
+                "12": 125,
+                "13": 10,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 41,
+                "22": 3,
+                "23": 0,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 3,
+                "8": 1,
+                "9": 103
+            }
+        },
+        "school_name": "SELAHADDİN EYYÜBİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3189,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/84927_bulk_999999999_1684082564244682213.jpg",
+            "submission_id": 201844,
+            "total_vote": 329,
+            "votes": {
+                "1": 139,
+                "3": 182,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/47352_mv_1083650800_1684085387937533223.jpg",
+            "submission_id": 265325,
+            "total_vote": 326,
+            "votes": {
+                "1": 0,
+                "10": 13,
+                "11": 11,
+                "12": 116,
+                "13": 7,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 0,
+                "21": 51,
+                "22": 10,
+                "23": 0,
+                "24": 4,
+                "3": 1,
+                "4": 0,
+                "5": 2,
+                "6": 1,
+                "7": 4,
+                "8": 0,
+                "9": 104
+            }
+        },
+        "school_name": "SELAHADDİN EYYÜBİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3180,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/47373_cb_1093649811_1684090449012770224.jpg",
+            "submission_id": 420153,
+            "total_vote": 320,
+            "votes": {
+                "1": 150,
+                "2": 1,
+                "3": 163,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/47373_mv_1083649811_1684090403700490027.jpg",
+            "submission_id": 419149,
+            "total_vote": 312,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 15,
+                "12": 99,
+                "13": 15,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 49,
+                "22": 4,
+                "23": 0,
+                "24": 3,
+                "3": 0,
+                "4": 1,
+                "5": 2,
+                "6": 0,
+                "7": 0,
+                "8": 1,
+                "9": 118
+            }
+        },
+        "school_name": "SELAHADDİN EYYÜBİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3188,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/47352_cb_1093650799_1684087932757726048.jpg",
+            "submission_id": 349695,
+            "total_vote": 340,
+            "votes": {
+                "1": 158,
+                "3": 177,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/47352_mv_1083650799_1684087958255369911.jpg",
+            "submission_id": 350509,
+            "total_vote": 333,
+            "votes": {
+                "1": 2,
+                "10": 17,
+                "11": 9,
+                "12": 123,
+                "13": 10,
+                "21": 36,
+                "22": 8,
+                "24": 1,
+                "4": 1,
+                "5": 1,
+                "6": 2,
+                "7": 1,
+                "9": 122
+            }
+        },
+        "school_name": "SELAHADDİN EYYÜBİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3176,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1077_cb_1093649807_1684087300619633531.jpg",
+            "submission_id": 329406,
+            "total_vote": 329,
+            "votes": {
+                "1": 166,
+                "2": 1,
+                "3": 158,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/49585_mv_1083649807_1684086497588456184.jpg",
+            "submission_id": 301415,
+            "total_vote": 326,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 11,
+                "12": 92,
+                "13": 8,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 49,
+                "22": 10,
+                "23": 1,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 4,
+                "6": 0,
+                "7": 2,
+                "8": 1,
+                "9": 141
+            }
+        },
+        "school_name": "SELAHADDİN EYYÜBİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3185,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/84927_cb_1093650796_1684086570560734216.jpg",
+            "submission_id": 303989,
+            "total_vote": 323,
+            "votes": {
+                "1": 138,
+                "2": 3,
+                "3": 174,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/84927_mv_1083650796_1684086535041450526.jpg",
+            "submission_id": 302752,
+            "total_vote": 312,
+            "votes": {
+                "1": 0,
+                "10": 15,
+                "11": 8,
+                "12": 97,
+                "13": 7,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 59,
+                "22": 10,
+                "23": 0,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 3,
+                "6": 0,
+                "7": 1,
+                "8": 0,
+                "9": 106
+            }
+        },
+        "school_name": "SELAHADDİN EYYÜBİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3174,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1077_bulk_999999999_1684090451292661775.jpeg",
+            "submission_id": 420188,
+            "total_vote": 314,
+            "votes": {
+                "1": 160,
+                "2": 2,
+                "3": 147,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1077_bulk_999999999_1684090451166185816.jpeg",
+            "submission_id": 420187,
+            "total_vote": 305,
+            "votes": {
+                "10": 11,
+                "11": 14,
+                "12": 83,
+                "13": 13,
+                "21": 41,
+                "22": 6,
+                "24": 2,
+                "5": 1,
+                "6": 2,
+                "7": 3,
+                "9": 129
+            }
+        },
+        "school_name": "SELAHADDİN EYYÜBİ İLKOKULU"
+    }
+]

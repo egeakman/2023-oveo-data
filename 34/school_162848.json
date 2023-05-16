@@ -1,0 +1,47 @@
+[
+    {
+        "ballot_box_number": 1002,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4728_cb_1093780316_1684094474455110166.jpg",
+            "submission_id": 492391,
+            "total_vote": 307,
+            "votes": {
+                "1": 72,
+                "3": 229,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4728_mv_1083780316_1684094517301717523.jpg",
+            "submission_id": 492881,
+            "total_vote": 304,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 20,
+                "12": 38,
+                "13": 45,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 121,
+                "22": 22,
+                "23": 0,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 0,
+                "9": 45
+            }
+        },
+        "school_name": "İSTANBUL TİCARET ODASI MESLEK VE TEKNİK ANADOLU LİSESİ"
+    }
+]

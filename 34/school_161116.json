@@ -1,0 +1,687 @@
+[
+    {
+        "ballot_box_number": 1145,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/10020_bulk_999999999_1684090754216751288.jpeg",
+            "submission_id": 426706,
+            "total_vote": 327,
+            "votes": {
+                "1": 153,
+                "2": 1,
+                "3": 158,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/10020_bulk_999999999_1684091245751494532.jpeg",
+            "submission_id": 436716,
+            "total_vote": 318,
+            "votes": {
+                "1": 1,
+                "10": 9,
+                "11": 19,
+                "12": 52,
+                "13": 8,
+                "19": 1,
+                "20": 1,
+                "21": 79,
+                "22": 12,
+                "24": 9,
+                "6": 1,
+                "7": 3,
+                "8": 5,
+                "9": 118
+            }
+        },
+        "school_name": "SULTAN ALPARSLAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1157,
+        "cm_result": {
+            "image_url": "https://source1-secim-images.oyveotesi.org/raw/1017814_cb_3703171_1684090790.jpeg",
+            "submission_id": 427693,
+            "total_vote": 323,
+            "votes": {
+                "1": 140,
+                "3": 164,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source1-secim-images.oyveotesi.org/raw/1017814_mv_3703171_1684090602.jpeg",
+            "submission_id": 423879,
+            "total_vote": 315,
+            "votes": {
+                "1": 0,
+                "10": 8,
+                "11": 23,
+                "12": 66,
+                "13": 11,
+                "14": 0,
+                "15": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 75,
+                "22": 16,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 3,
+                "8": 0,
+                "9": 107
+            }
+        },
+        "school_name": "SULTAN ALPARSLAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1152,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/4975_bulk_999999999_1684101759956240440.jpg",
+            "submission_id": 542263,
+            "total_vote": 327,
+            "votes": {
+                "1": 148,
+                "3": 169,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "SULTAN ALPARSLAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1165,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/10022_cb_1093703819_1684081198915782605.jpg",
+            "submission_id": 186819,
+            "total_vote": 333,
+            "votes": {
+                "1": 146,
+                "3": 168,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/10022_bulk_999999999_1684088578104819926.jpeg",
+            "submission_id": 369943,
+            "total_vote": 330,
+            "votes": {
+                "1": 0,
+                "10": 8,
+                "11": 28,
+                "12": 88,
+                "13": 18,
+                "14": 0,
+                "15": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 55,
+                "22": 9,
+                "24": 13,
+                "3": 1,
+                "4": 0,
+                "5": 4,
+                "6": 0,
+                "7": 5,
+                "8": 1,
+                "9": 99
+            }
+        },
+        "school_name": "SULTAN ALPARSLAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1163,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/4975_bulk_999999999_1684101574674091315.jpg",
+            "submission_id": 541591,
+            "total_vote": 331,
+            "votes": {
+                "1": 135,
+                "3": 180,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/4975_bulk_999999999_1684101574745111258.jpg",
+            "submission_id": 541593,
+            "total_vote": 311,
+            "votes": {
+                "10": 6,
+                "11": 22,
+                "12": 85,
+                "13": 18,
+                "14": 1,
+                "20": 1,
+                "21": 62,
+                "22": 10,
+                "24": 9,
+                "5": 2,
+                "6": 2,
+                "7": 2,
+                "8": 2,
+                "9": 89
+            }
+        },
+        "school_name": "SULTAN ALPARSLAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1142,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4975_cb_1093703156_1684081279450157695.jpg",
+            "submission_id": 187464,
+            "total_vote": 308,
+            "votes": {
+                "1": 150,
+                "2": 2,
+                "3": 145,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/4975_bulk_999999999_1684101229428307294.jpg",
+            "submission_id": 540437,
+            "total_vote": 291,
+            "votes": {
+                "1": 0,
+                "10": 13,
+                "11": 23,
+                "12": 46,
+                "13": 12,
+                "14": 0,
+                "15": 2,
+                "17": 0,
+                "18": 2,
+                "19": 0,
+                "2": 2,
+                "20": 1,
+                "21": 70,
+                "22": 14,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 2,
+                "9": 95
+            }
+        },
+        "school_name": "SULTAN ALPARSLAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1144,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/10020_bulk_999999999_1684087049996443269.jpeg",
+            "submission_id": 320715,
+            "total_vote": 331,
+            "votes": {
+                "1": 176,
+                "2": 0,
+                "3": 146,
+                "4": 9
+            }
+        },
+        "mv_result": null,
+        "school_name": "SULTAN ALPARSLAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1143,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/10020_bulk_999999999_1684092073214343007.jpeg",
+            "submission_id": 450524,
+            "total_vote": 328,
+            "votes": {
+                "1": 136,
+                "2": 0,
+                "3": 173,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "SULTAN ALPARSLAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1141,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/4975_bulk_999999999_1684101229154581530.jpg",
+            "submission_id": 540434,
+            "total_vote": 304,
+            "votes": {
+                "1": 138,
+                "2": 2,
+                "3": 150,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "SULTAN ALPARSLAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1161,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/4975_bulk_999999999_1684101575339775407.jpg",
+            "submission_id": 541600,
+            "total_vote": 329,
+            "votes": {
+                "1": 147,
+                "3": 163,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/4975_bulk_999999999_1684101575424595149.jpg",
+            "submission_id": 541601,
+            "total_vote": 323,
+            "votes": {
+                "10": 14,
+                "11": 15,
+                "12": 79,
+                "13": 7,
+                "14": 1,
+                "17": 1,
+                "19": 1,
+                "21": 62,
+                "22": 15,
+                "24": 15,
+                "5": 2,
+                "6": 4,
+                "7": 5,
+                "8": 2,
+                "9": 100
+            }
+        },
+        "school_name": "SULTAN ALPARSLAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1151,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/24622_cb_1093703165_1684088282605035161.jpg",
+            "submission_id": 360783,
+            "total_vote": 334,
+            "votes": {
+                "1": 161,
+                "3": 152,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/24622_mv_1083703165_1684089497432398100.jpg",
+            "submission_id": 396126,
+            "total_vote": 326,
+            "votes": {
+                "10": 10,
+                "11": 31,
+                "12": 59,
+                "13": 6,
+                "15": 1,
+                "19": 1,
+                "21": 67,
+                "22": 15,
+                "24": 7,
+                "3": 0,
+                "5": 2,
+                "6": 2,
+                "7": 3,
+                "8": 1,
+                "9": 121
+            }
+        },
+        "school_name": "SULTAN ALPARSLAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1158,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/10022_cb_1093703172_1684089879781366012.jpg",
+            "submission_id": 406601,
+            "total_vote": 319,
+            "votes": {
+                "1": 153,
+                "2": 1,
+                "3": 151,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9175cd03-34d8-4842-8538-6ccb4c389595-1684105378329896212.jpg",
+            "submission_id": 628466,
+            "total_vote": 310,
+            "votes": {
+                "1": 1,
+                "10": 8,
+                "11": 28,
+                "12": 72,
+                "13": 8,
+                "21": 56,
+                "22": 10,
+                "24": 7,
+                "6": 1,
+                "7": 8,
+                "8": 2,
+                "9": 109
+            }
+        },
+        "school_name": "SULTAN ALPARSLAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1160,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "SULTAN ALPARSLAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1154,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/10021_cb_1093703168_1684088095770425709.jpg",
+            "submission_id": 355022,
+            "total_vote": 326,
+            "votes": {
+                "1": 151,
+                "2": 0,
+                "3": 159,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0ae7e1e7-58cb-45a1-8b46-9d8f2a29560b-1684105628520641209.jpg",
+            "submission_id": 670144,
+            "total_vote": 318,
+            "votes": {
+                "1": 0,
+                "10": 14,
+                "11": 17,
+                "12": 69,
+                "13": 13,
+                "14": 0,
+                "15": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 69,
+                "22": 13,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 3,
+                "7": 5,
+                "8": 1,
+                "9": 104
+            }
+        },
+        "school_name": "SULTAN ALPARSLAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1147,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/63472_cb_1093703161_1684089618148153061.jpg",
+            "submission_id": 399544,
+            "total_vote": 330,
+            "votes": {
+                "1": 146,
+                "2": 2,
+                "3": 159,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "SULTAN ALPARSLAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1162,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/4975_bulk_999999999_1684101574504135882.jpg",
+            "submission_id": 541589,
+            "total_vote": 327,
+            "votes": {
+                "1": 171,
+                "3": 146,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "SULTAN ALPARSLAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1156,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/68731_cb_1093703170_1684080719903372179.jpg",
+            "submission_id": 183357,
+            "total_vote": 321,
+            "votes": {
+                "1": 149,
+                "3": 159,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/68731_mv_1083703170_1684087511173355076.jpg",
+            "submission_id": 336278,
+            "total_vote": 308,
+            "votes": {
+                "1": 1,
+                "10": 9,
+                "11": 13,
+                "12": 66,
+                "13": 6,
+                "14": 0,
+                "15": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 81,
+                "22": 7,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 113
+            }
+        },
+        "school_name": "SULTAN ALPARSLAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1146,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/4975_bulk_999999999_1684101229537492898.jpg",
+            "submission_id": 540439,
+            "total_vote": 315,
+            "votes": {
+                "1": 152,
+                "2": 1,
+                "3": 152,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4975_mv_1083703160_1684102700455984020.jpg",
+            "submission_id": 545343,
+            "total_vote": 313,
+            "votes": {
+                "10": 10,
+                "11": 15,
+                "12": 66,
+                "13": 9,
+                "15": 1,
+                "19": 1,
+                "21": 68,
+                "22": 12,
+                "24": 12,
+                "7": 5,
+                "8": 1,
+                "9": 113
+            }
+        },
+        "school_name": "SULTAN ALPARSLAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1155,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/10021_cb_1093703169_1684088032820238122.jpg",
+            "submission_id": 353040,
+            "total_vote": 331,
+            "votes": {
+                "1": 150,
+                "2": 1,
+                "3": 164,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/10021_cb_1093703169_1684087958012785506.jpg",
+            "submission_id": 350498,
+            "total_vote": 320,
+            "votes": {
+                "1": 1,
+                "10": 9,
+                "11": 26,
+                "12": 64,
+                "13": 9,
+                "14": 1,
+                "15": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 80,
+                "22": 16,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 0,
+                "9": 101
+            }
+        },
+        "school_name": "SULTAN ALPARSLAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1150,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4975_cb_1093703164_1684081073155152877.jpg",
+            "submission_id": 185856,
+            "total_vote": 329,
+            "votes": {
+                "1": 149,
+                "2": 3,
+                "3": 160,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "SULTAN ALPARSLAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1164,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/63598_bulk_999999999_1684086001495753091.jpg",
+            "submission_id": 284981,
+            "total_vote": 338,
+            "votes": {
+                "1": 134,
+                "2": 2,
+                "3": 191,
+                "4": 11
+            }
+        },
+        "mv_result": null,
+        "school_name": "SULTAN ALPARSLAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1149,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/4975_bulk_999999999_1684101229793281420.jpg",
+            "submission_id": 540444,
+            "total_vote": 316,
+            "votes": {
+                "1": 125,
+                "2": 0,
+                "3": 171,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "SULTAN ALPARSLAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1159,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/10022_bulk_999999999_1684086312295483396.jpeg",
+            "submission_id": 295195,
+            "total_vote": 321,
+            "votes": {
+                "1": 148,
+                "2": 1,
+                "3": 152,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "SULTAN ALPARSLAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1153,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/10021_cb_1093703167_1684086781800162740.jpg",
+            "submission_id": 311420,
+            "total_vote": 349,
+            "votes": {
+                "1": 161,
+                "2": 1,
+                "3": 164,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "SULTAN ALPARSLAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1148,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/4975_bulk_999999999_1684101229602843089.jpg",
+            "submission_id": 540441,
+            "total_vote": 332,
+            "votes": {
+                "1": 165,
+                "2": 1,
+                "3": 150,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/4975_bulk_999999999_1684101229711384110.jpg",
+            "submission_id": 540443,
+            "total_vote": 314,
+            "votes": {
+                "10": 7,
+                "11": 16,
+                "12": 61,
+                "13": 12,
+                "21": 66,
+                "22": 12,
+                "24": 8,
+                "4": 2,
+                "7": 1,
+                "8": 3,
+                "9": 126
+            }
+        },
+        "school_name": "SULTAN ALPARSLAN İLKOKULU"
+    }
+]

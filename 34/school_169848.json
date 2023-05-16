@@ -1,0 +1,27 @@
+[
+    {
+        "ballot_box_number": 2188,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/2970_bulk_999999999_1684078554883325628.jpg",
+            "submission_id": 174695,
+            "total_vote": 19,
+            "votes": {
+                "1": 11,
+                "3": 7,
+                "4": 1
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/2970_bulk_999999999_1684078554782821021.jpg",
+            "submission_id": 174694,
+            "total_vote": 17,
+            "votes": {
+                "10": 1,
+                "13": 1,
+                "21": 5,
+                "9": 10
+            }
+        },
+        "school_name": "BÜYÜK REŞİT PAŞA ORTA OKULU 1.KAT SOL TARAF"
+    }
+]

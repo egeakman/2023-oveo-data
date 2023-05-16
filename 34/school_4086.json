@@ -1,0 +1,48 @@
+[
+    {
+        "ballot_box_number": 1110,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/48482_cb_1093773480_1684077470710322393.jpg",
+            "submission_id": 173282,
+            "total_vote": 174,
+            "votes": {
+                "1": 102,
+                "2": 3,
+                "3": 57,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/48482_bulk_999999999_1684081850988443215.jpeg",
+            "submission_id": 192947,
+            "total_vote": 162,
+            "votes": {
+                "1": 2,
+                "10": 2,
+                "11": 14,
+                "12": 0,
+                "13": 1,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 32,
+                "22": 19,
+                "23": 0,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 2,
+                "8": 0,
+                "9": 82
+            }
+        },
+        "school_name": "SOĞULLU KÖY KAHVESİ"
+    }
+]

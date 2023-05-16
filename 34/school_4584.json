@@ -1,0 +1,454 @@
+[
+    {
+        "ballot_box_number": 1077,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/6524_cb_1093616634_1684090019718078332.jpg",
+            "submission_id": 410244,
+            "total_vote": 338,
+            "votes": {
+                "1": 136,
+                "2": 1,
+                "3": 187,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/6524_bulk_999999999_1684096705398431328.jpeg",
+            "submission_id": 515031,
+            "total_vote": 329,
+            "votes": {
+                "10": 11,
+                "11": 13,
+                "12": 18,
+                "13": 19,
+                "14": 2,
+                "21": 94,
+                "22": 51,
+                "24": 8,
+                "3": 1,
+                "7": 7,
+                "8": 1,
+                "9": 104
+            }
+        },
+        "school_name": "NEŞE SEVER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1062,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/584_bulk_999999999_1684089162908442225.jpg",
+            "submission_id": 387079,
+            "total_vote": 342,
+            "votes": {
+                "1": 120,
+                "2": 0,
+                "3": 206,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "NEŞE SEVER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1068,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/37285_cb_1093616624_1684087384988276438.jpg",
+            "submission_id": 332184,
+            "total_vote": 339,
+            "votes": {
+                "1": 113,
+                "3": 209,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/37285_mv_1083616624_1684087548459727804.jpg",
+            "submission_id": 337436,
+            "total_vote": 340,
+            "votes": {
+                "1": 1,
+                "10": 6,
+                "11": 12,
+                "12": 36,
+                "13": 12,
+                "19": 1,
+                "21": 111,
+                "22": 51,
+                "24": 13,
+                "5": 1,
+                "6": 1,
+                "7": 4,
+                "9": 91
+            }
+        },
+        "school_name": "NEŞE SEVER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1064,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a5966fb5-c9b2-45c2-bc25-d15428a8385a-1684105587688036339.jpg",
+            "submission_id": 663099,
+            "total_vote": 333,
+            "votes": {
+                "1": 107,
+                "2": 1,
+                "3": 206,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "NEŞE SEVER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1075,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/41578_cb_1093616631_1684081791216225361.jpg",
+            "submission_id": 192329,
+            "total_vote": 332,
+            "votes": {
+                "1": 118,
+                "2": 0,
+                "3": 192,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "NEŞE SEVER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1073,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/dbe48ae0-de8d-4ba2-b74b-b045230868aa-1684105692677198616.jpg",
+            "submission_id": 679919,
+            "total_vote": 339,
+            "votes": {
+                "1": 124,
+                "2": 2,
+                "3": 200,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/34941_mv_1083616629_1684086255600324023.jpg",
+            "submission_id": 293237,
+            "total_vote": 336,
+            "votes": {
+                "1": 1,
+                "10": 12,
+                "11": 12,
+                "12": 24,
+                "13": 16,
+                "14": 1,
+                "15": 1,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 103,
+                "22": 55,
+                "24": 8,
+                "3": 2,
+                "4": 0,
+                "5": 2,
+                "6": 0,
+                "7": 2,
+                "8": 5,
+                "9": 90
+            }
+        },
+        "school_name": "NEŞE SEVER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1076,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/78fffa13-42ee-4e75-8160-2f391b0aa906-1684105497940151847.jpg",
+            "submission_id": 649568,
+            "total_vote": 335,
+            "votes": {
+                "1": 144,
+                "3": 179,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c80b5c22-f435-4081-ade1-8ec310c3fa33-1684105490388141063.jpg",
+            "submission_id": 648480,
+            "total_vote": 324,
+            "votes": {
+                "10": 16,
+                "11": 15,
+                "12": 16,
+                "13": 19,
+                "14": 0,
+                "15": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 109,
+                "22": 33,
+                "23": 0,
+                "24": 9,
+                "3": 0,
+                "5": 3,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 100
+            }
+        },
+        "school_name": "NEŞE SEVER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1066,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/584_bulk_999999999_1684093248501325089.jpg",
+            "submission_id": 467527,
+            "total_vote": 351,
+            "votes": {
+                "1": 115,
+                "2": 1,
+                "3": 214,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/584_bulk_999999999_1684093248427610973.jpg",
+            "submission_id": 467523,
+            "total_vote": 354,
+            "votes": {
+                "10": 11,
+                "11": 21,
+                "12": 28,
+                "13": 22,
+                "15": 1,
+                "21": 125,
+                "22": 51,
+                "24": 12,
+                "7": 4,
+                "8": 3,
+                "9": 76
+            }
+        },
+        "school_name": "NEŞE SEVER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1074,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/67564886-2229-4903-807a-fac4623b1e03-1684106512362824180.jpg",
+            "submission_id": 798503,
+            "total_vote": 343,
+            "votes": {
+                "1": 114,
+                "2": 1,
+                "3": 211,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "NEŞE SEVER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1069,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "NEŞE SEVER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1067,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8b4fd6e6-28ce-4c29-b97d-d90329047086-1684105275873540626.jpg",
+            "submission_id": 608943,
+            "total_vote": 342,
+            "votes": {
+                "1": 151,
+                "3": 175,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "NEŞE SEVER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1063,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/12f2eaa0-2f01-4b53-9c14-9150e4d4d026-1684105617396259878.jpg",
+            "submission_id": 667974,
+            "total_vote": 337,
+            "votes": {
+                "1": 113,
+                "2": 0,
+                "3": 204,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7ace7517-3a6b-4466-adb6-ad8da914761b-1684105606373231654.jpg",
+            "submission_id": 666233,
+            "total_vote": 336,
+            "votes": {
+                "10": 4,
+                "11": 11,
+                "12": 17,
+                "13": 26,
+                "21": 119,
+                "22": 41,
+                "24": 15,
+                "5": 2,
+                "6": 1,
+                "8": 1,
+                "9": 99
+            }
+        },
+        "school_name": "NEŞE SEVER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1061,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/584_bulk_999999999_1684093248672974613.jpg",
+            "submission_id": 467532,
+            "total_vote": 318,
+            "votes": {
+                "1": 101,
+                "3": 208,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ca7d8d65-82b8-4cef-961d-d21bb0e45ae3-1684105308590744771.jpg",
+            "submission_id": 614931,
+            "total_vote": 305,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 13,
+                "12": 20,
+                "13": 13,
+                "14": 1,
+                "15": 1,
+                "17": 1,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 118,
+                "22": 53,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 0,
+                "9": 75
+            }
+        },
+        "school_name": "NEŞE SEVER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1071,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/584_bulk_999999999_1684089163400627965.jpg",
+            "submission_id": 387098,
+            "total_vote": 342,
+            "votes": {
+                "1": 128,
+                "2": 2,
+                "3": 197,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/584_bulk_999999999_1684089163295637394.jpg",
+            "submission_id": 387097,
+            "total_vote": 338,
+            "votes": {
+                "10": 4,
+                "11": 18,
+                "12": 32,
+                "13": 23,
+                "21": 104,
+                "22": 36,
+                "24": 6,
+                "3": 1,
+                "7": 6,
+                "8": 1,
+                "9": 107
+            }
+        },
+        "school_name": "NEŞE SEVER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1070,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/80229_bulk_999999999_1684083799032073001.jpeg",
+            "submission_id": 224004,
+            "total_vote": 342,
+            "votes": {
+                "1": 138,
+                "3": 188,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "NEŞE SEVER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1065,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/584_bulk_999999999_1684089162757378104.jpg",
+            "submission_id": 387073,
+            "total_vote": 346,
+            "votes": {
+                "1": 135,
+                "2": 1,
+                "3": 192,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "NEŞE SEVER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1078,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "NEŞE SEVER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1072,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/54b52ef1-290c-4452-bb08-17fab755b839-1684106121271943714.jpg",
+            "submission_id": 740990,
+            "total_vote": 338,
+            "votes": {
+                "1": 135,
+                "2": 3,
+                "3": 181,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/cfeee705-07d0-45f6-aa27-f3127580e4f9-1684106116492004899.jpg",
+            "submission_id": 740259,
+            "total_vote": 329,
+            "votes": {
+                "1": 2,
+                "10": 5,
+                "11": 18,
+                "12": 32,
+                "13": 12,
+                "21": 109,
+                "22": 36,
+                "24": 13,
+                "3": 1,
+                "7": 4,
+                "8": 4,
+                "9": 93
+            }
+        },
+        "school_name": "NEŞE SEVER İLKOKULU"
+    }
+]

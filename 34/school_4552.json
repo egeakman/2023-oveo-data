@@ -1,0 +1,758 @@
+[
+    {
+        "ballot_box_number": 2231,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/83304_cb_1093622005_1684086605610696069.jpg",
+            "submission_id": 305195,
+            "total_vote": 304,
+            "votes": {
+                "1": 160,
+                "2": 3,
+                "3": 104,
+                "4": 37
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/83304_mv_1083622005_1684086675523984715.jpg",
+            "submission_id": 307621,
+            "total_vote": 284,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 40,
+                "12": 24,
+                "13": 5,
+                "14": 0,
+                "15": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 57,
+                "22": 24,
+                "24": 17,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 1,
+                "8": 2,
+                "9": 104
+            }
+        },
+        "school_name": "ŞEHİT ŞERİFE BACI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2244,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4981_cb_1093623258_1684084681487840678.jpg",
+            "submission_id": 245383,
+            "total_vote": 339,
+            "votes": {
+                "1": 176,
+                "3": 133,
+                "4": 30
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/20111_bulk_999999999_1684121648717946620.jpeg",
+            "submission_id": 1010537,
+            "total_vote": 327,
+            "votes": {
+                "10": 7,
+                "11": 40,
+                "12": 30,
+                "13": 7,
+                "14": 0,
+                "15": 1,
+                "17": 0,
+                "19": 1,
+                "21": 74,
+                "22": 11,
+                "24": 9,
+                "5": 4,
+                "6": 2,
+                "7": 4,
+                "8": 2,
+                "9": 135
+            }
+        },
+        "school_name": "ŞEHİT ŞERİFE BACI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2249,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/22574_cb_1093623263_1684086548595529475.jpg",
+            "submission_id": 303237,
+            "total_vote": 340,
+            "votes": {
+                "1": 222,
+                "2": 0,
+                "3": 98,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/20111_bulk_999999999_1684121214836256614.jpeg",
+            "submission_id": 1010504,
+            "total_vote": 335,
+            "votes": {
+                "10": 10,
+                "11": 57,
+                "12": 33,
+                "13": 3,
+                "17": 1,
+                "21": 44,
+                "22": 21,
+                "24": 12,
+                "7": 3,
+                "8": 2,
+                "9": 149
+            }
+        },
+        "school_name": "ŞEHİT ŞERİFE BACI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2251,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/22574_cb_1093623265_1684087744425849280.jpg",
+            "submission_id": 343800,
+            "total_vote": 319,
+            "votes": {
+                "1": 172,
+                "2": 1,
+                "3": 114,
+                "4": 32
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ŞERİFE BACI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2248,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4981_cb_1093623262_1684081164624508010.jpg",
+            "submission_id": 186571,
+            "total_vote": 335,
+            "votes": {
+                "1": 193,
+                "3": 109,
+                "4": 33
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/22574_mv_1083623262_1684086325314144581.jpg",
+            "submission_id": 295569,
+            "total_vote": 333,
+            "votes": {
+                "10": 8,
+                "11": 52,
+                "12": 44,
+                "13": 7,
+                "19": 2,
+                "21": 48,
+                "22": 20,
+                "24": 13,
+                "6": 1,
+                "7": 2,
+                "9": 136
+            }
+        },
+        "school_name": "ŞEHİT ŞERİFE BACI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2245,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/307d22fb-b3cc-4160-9162-e675d7df1598-1684105242186374367.jpg",
+            "submission_id": 602532,
+            "total_vote": 331,
+            "votes": {
+                "1": 187,
+                "3": 115,
+                "4": 29
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ŞERİFE BACI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2232,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/20111_cb_1093622006_1684088843379141692.jpg",
+            "submission_id": 377912,
+            "total_vote": 293,
+            "votes": {
+                "1": 146,
+                "2": 3,
+                "3": 111,
+                "4": 33
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/83304_mv_1083622006_1684087866820431075.jpg",
+            "submission_id": 347583,
+            "total_vote": 282,
+            "votes": {
+                "10": 2,
+                "11": 31,
+                "12": 18,
+                "13": 3,
+                "14": 5,
+                "18": 1,
+                "19": 1,
+                "2": 2,
+                "21": 64,
+                "22": 33,
+                "24": 14,
+                "6": 1,
+                "7": 1,
+                "8": 3,
+                "9": 103
+            }
+        },
+        "school_name": "ŞEHİT ŞERİFE BACI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2243,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/20111_cb_1093623257_1684088942340794742.jpg",
+            "submission_id": 380854,
+            "total_vote": 317,
+            "votes": {
+                "1": 158,
+                "2": 1,
+                "3": 119,
+                "4": 39
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/20111_bulk_999999999_1684121354390775160.jpeg",
+            "submission_id": 1010520,
+            "total_vote": 312,
+            "votes": {
+                "10": 5,
+                "11": 32,
+                "12": 31,
+                "13": 7,
+                "17": 1,
+                "18": 1,
+                "19": 1,
+                "21": 55,
+                "22": 24,
+                "24": 22,
+                "6": 1,
+                "7": 5,
+                "8": 5,
+                "9": 122
+            }
+        },
+        "school_name": "ŞEHİT ŞERİFE BACI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2234,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/20111_cb_1093622008_1684086825247658487.jpg",
+            "submission_id": 312948,
+            "total_vote": 334,
+            "votes": {
+                "1": 160,
+                "2": 1,
+                "3": 144,
+                "4": 29
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/20111_mv_1083622008_1684088411518138098.jpg",
+            "submission_id": 364786,
+            "total_vote": 331,
+            "votes": {
+                "10": 6,
+                "11": 50,
+                "12": 17,
+                "13": 4,
+                "21": 98,
+                "22": 24,
+                "24": 23,
+                "7": 6,
+                "8": 2,
+                "9": 101
+            }
+        },
+        "school_name": "ŞEHİT ŞERİFE BACI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2242,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4981_cb_1093623256_1684092422121374428.jpg",
+            "submission_id": 456054,
+            "total_vote": 324,
+            "votes": {
+                "1": 189,
+                "2": 1,
+                "3": 94,
+                "4": 40
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4981_mv_1083623256_1684092448885738971.jpg",
+            "submission_id": 456472,
+            "total_vote": 307,
+            "votes": {
+                "1": 0,
+                "10": 8,
+                "11": 57,
+                "12": 20,
+                "13": 3,
+                "14": 0,
+                "15": 1,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 52,
+                "22": 23,
+                "24": 22,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 1,
+                "8": 3,
+                "9": 112
+            }
+        },
+        "school_name": "ŞEHİT ŞERİFE BACI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2241,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4981_cb_1093623255_1684085583460572385.jpg",
+            "submission_id": 271190,
+            "total_vote": 327,
+            "votes": {
+                "1": 190,
+                "2": 1,
+                "3": 110,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/19da863e-e707-4f22-b10b-99d5d0d159a2-1684106033418146561.jpg",
+            "submission_id": 728834,
+            "total_vote": 313,
+            "votes": {
+                "10": 9,
+                "11": 45,
+                "12": 30,
+                "13": 2,
+                "17": 1,
+                "21": 51,
+                "22": 27,
+                "24": 18,
+                "6": 1,
+                "7": 1,
+                "8": 2,
+                "9": 126
+            }
+        },
+        "school_name": "ŞEHİT ŞERİFE BACI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2246,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4981_cb_1093623260_1684086621327599730.jpg",
+            "submission_id": 305708,
+            "total_vote": 346,
+            "votes": {
+                "1": 203,
+                "3": 109,
+                "4": 34
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/20111_bulk_999999999_1684121778117670679.jpeg",
+            "submission_id": 1010558,
+            "total_vote": 338,
+            "votes": {
+                "10": 14,
+                "11": 45,
+                "12": 34,
+                "13": 5,
+                "2": 1,
+                "21": 46,
+                "22": 22,
+                "24": 19,
+                "4": 1,
+                "6": 1,
+                "7": 5,
+                "8": 2,
+                "9": 143
+            }
+        },
+        "school_name": "ŞEHİT ŞERİFE BACI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2238,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/96771d8c-48a5-4b3f-87ef-46a817cc74e0-1684105398497084172.jpg",
+            "submission_id": 632251,
+            "total_vote": 347,
+            "votes": {
+                "1": 193,
+                "2": 1,
+                "3": 120,
+                "4": 33
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9c1e6f04-41d3-471b-91de-e743c0ba8138-1684105393187939913.jpg",
+            "submission_id": 631031,
+            "total_vote": 331,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 45,
+                "12": 27,
+                "13": 3,
+                "14": 0,
+                "15": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 55,
+                "22": 32,
+                "24": 22,
+                "3": 5,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 5,
+                "8": 1,
+                "9": 135
+            }
+        },
+        "school_name": "ŞEHİT ŞERİFE BACI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2233,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/20111_cb_1093622007_1684087175770664902.jpg",
+            "submission_id": 325201,
+            "total_vote": 332,
+            "votes": {
+                "1": 207,
+                "3": 104,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/20111_mv_1083622008_1684088352058202824.jpg",
+            "submission_id": 362866,
+            "total_vote": 323,
+            "votes": {
+                "1": 0,
+                "10": 8,
+                "11": 42,
+                "12": 27,
+                "13": 3,
+                "14": 1,
+                "15": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 49,
+                "22": 19,
+                "24": 11,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 5,
+                "8": 2,
+                "9": 152
+            }
+        },
+        "school_name": "ŞEHİT ŞERİFE BACI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2239,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4981_mv_1083622013_1684088258427887373.jpg",
+            "submission_id": 360042,
+            "total_vote": 332,
+            "votes": {
+                "1": 197,
+                "2": 1,
+                "3": 93,
+                "4": 41
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/20111_bulk_999999999_1684121460067867401.jpeg",
+            "submission_id": 1010529,
+            "total_vote": 321,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 46,
+                "12": 18,
+                "13": 2,
+                "14": 1,
+                "15": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 50,
+                "22": 32,
+                "24": 18,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 1,
+                "9": 147
+            }
+        },
+        "school_name": "ŞEHİT ŞERİFE BACI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2236,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/20111_cb_1093622010_1684089047833818542.jpg",
+            "submission_id": 383900,
+            "total_vote": 334,
+            "votes": {
+                "1": 212,
+                "3": 80,
+                "4": 42
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/20111_mv_1083622010_1684089205546475035.jpg",
+            "submission_id": 388306,
+            "total_vote": 323,
+            "votes": {
+                "10": 7,
+                "11": 47,
+                "12": 12,
+                "13": 3,
+                "15": 1,
+                "20": 1,
+                "21": 43,
+                "22": 29,
+                "24": 19,
+                "5": 1,
+                "7": 1,
+                "8": 1,
+                "9": 158
+            }
+        },
+        "school_name": "ŞEHİT ŞERİFE BACI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2240,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4981_cb_1093622014_1684086081624950117.jpg",
+            "submission_id": 287569,
+            "total_vote": 324,
+            "votes": {
+                "1": 184,
+                "2": 1,
+                "3": 103,
+                "4": 36
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/20111_bulk_999999999_1684121541948019068.jpeg",
+            "submission_id": 1010532,
+            "total_vote": 316,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 37,
+                "12": 35,
+                "13": 6,
+                "14": 0,
+                "15": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 3,
+                "20": 1,
+                "21": 38,
+                "22": 29,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "5": 4,
+                "6": 3,
+                "7": 3,
+                "8": 2,
+                "9": 136
+            }
+        },
+        "school_name": "ŞEHİT ŞERİFE BACI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2235,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/20111_cb_1093622009_1684087065662131312.jpg",
+            "submission_id": 321290,
+            "total_vote": 335,
+            "votes": {
+                "1": 189,
+                "2": 1,
+                "3": 93,
+                "4": 52
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/20111_mv_1083622009_1684087003199173051.jpg",
+            "submission_id": 319083,
+            "total_vote": 334,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 47,
+                "12": 16,
+                "13": 7,
+                "14": 0,
+                "15": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 59,
+                "22": 34,
+                "24": 16,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "8": 5,
+                "9": 141
+            }
+        },
+        "school_name": "ŞEHİT ŞERİFE BACI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2250,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/22574_cb_1093623264_1684081963773675392.jpg",
+            "submission_id": 194179,
+            "total_vote": 341,
+            "votes": {
+                "1": 210,
+                "2": 0,
+                "3": 99,
+                "4": 32
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/22574_mv_1083623264_1684087014589821639.jpg",
+            "submission_id": 319464,
+            "total_vote": 331,
+            "votes": {
+                "10": 8,
+                "11": 50,
+                "12": 35,
+                "13": 4,
+                "14": 0,
+                "15": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "20": 1,
+                "21": 50,
+                "22": 9,
+                "24": 11,
+                "5": 1,
+                "6": 2,
+                "7": 4,
+                "8": 0,
+                "9": 155
+            }
+        },
+        "school_name": "ŞEHİT ŞERİFE BACI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2237,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4981_cb_1093622011_1684088517113641758.jpg",
+            "submission_id": 368020,
+            "total_vote": 347,
+            "votes": {
+                "1": 171,
+                "2": 1,
+                "3": 127,
+                "4": 48
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4981_mv_1083622011_1684088565632096406.jpg",
+            "submission_id": 369522,
+            "total_vote": 337,
+            "votes": {
+                "10": 5,
+                "11": 46,
+                "12": 27,
+                "13": 9,
+                "20": 1,
+                "21": 65,
+                "22": 34,
+                "24": 20,
+                "6": 3,
+                "7": 4,
+                "8": 2,
+                "9": 121
+            }
+        },
+        "school_name": "ŞEHİT ŞERİFE BACI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2247,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4981_cb_1093623261_1684077903647702731.jpg",
+            "submission_id": 173761,
+            "total_vote": 329,
+            "votes": {
+                "1": 173,
+                "2": 0,
+                "3": 122,
+                "4": 34
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4981_mv_1083623261_1684082954361678641.jpg",
+            "submission_id": 207979,
+            "total_vote": 316,
+            "votes": {
+                "1": 1,
+                "10": 6,
+                "11": 69,
+                "12": 44,
+                "13": 6,
+                "18": 1,
+                "21": 43,
+                "22": 25,
+                "24": 18,
+                "5": 1,
+                "7": 2,
+                "8": 2,
+                "9": 98
+            }
+        },
+        "school_name": "ŞEHİT ŞERİFE BACI İLKOKULU"
+    }
+]

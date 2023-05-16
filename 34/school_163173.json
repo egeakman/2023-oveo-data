@@ -1,0 +1,507 @@
+[
+    {
+        "ballot_box_number": 3167,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/66153_cb_1093778413_1684086106667619902.jpg",
+            "submission_id": 288349,
+            "total_vote": 296,
+            "votes": {
+                "1": 134,
+                "2": 1,
+                "3": 152,
+                "4": 9
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT VEDAT KARA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3168,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/66155_cb_1093778414_1684082118256975667.jpg",
+            "submission_id": 196084,
+            "total_vote": 306,
+            "votes": {
+                "1": 132,
+                "3": 164,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/66155_mv_1083778414_1684089477546782663.jpg",
+            "submission_id": 395648,
+            "total_vote": 300,
+            "votes": {
+                "1": 0,
+                "10": 8,
+                "11": 9,
+                "12": 15,
+                "13": 5,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 112,
+                "22": 22,
+                "23": 2,
+                "24": 8,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 3,
+                "8": 2,
+                "9": 107
+            }
+        },
+        "school_name": "ŞEHİT VEDAT KARA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3178,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/29789_bulk_999999999_1684085152746645105.jpeg",
+            "submission_id": 258455,
+            "total_vote": 321,
+            "votes": {
+                "1": 123,
+                "2": 1,
+                "3": 182,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT VEDAT KARA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3179,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/67621_bulk_999999999_1684086950067926531.jpeg",
+            "submission_id": 317230,
+            "total_vote": 327,
+            "votes": {
+                "1": 157,
+                "2": 2,
+                "3": 156,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/67621_bulk_999999999_1684087475065272187.jpeg",
+            "submission_id": 335066,
+            "total_vote": 323,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 11,
+                "12": 22,
+                "13": 16,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 85,
+                "22": 35,
+                "23": 0,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 0,
+                "9": 134
+            }
+        },
+        "school_name": "ŞEHİT VEDAT KARA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3180,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/67621_bulk_999999999_1684085783294899826.jpeg",
+            "submission_id": 277866,
+            "total_vote": 318,
+            "votes": {
+                "1": 153,
+                "2": 2,
+                "3": 149,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/67621_bulk_999999999_1684086348725980729.jpeg",
+            "submission_id": 296349,
+            "total_vote": 316,
+            "votes": {
+                "1": 0,
+                "10": 13,
+                "11": 16,
+                "12": 16,
+                "13": 10,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 90,
+                "22": 36,
+                "23": 0,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 0,
+                "9": 120
+            }
+        },
+        "school_name": "ŞEHİT VEDAT KARA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3169,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/62071_cb_1093778495_1684084752845546694.jpg",
+            "submission_id": 247279,
+            "total_vote": 320,
+            "votes": {
+                "1": 167,
+                "2": 2,
+                "3": 136,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/62071_mv_1083778495_1684089320775603202.jpg",
+            "submission_id": 391400,
+            "total_vote": 315,
+            "votes": {
+                "10": 14,
+                "11": 15,
+                "12": 14,
+                "13": 20,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 2,
+                "18": 0,
+                "19": 0,
+                "20": 0,
+                "21": 73,
+                "22": 24,
+                "23": 1,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 8,
+                "8": 1,
+                "9": 131
+            }
+        },
+        "school_name": "ŞEHİT VEDAT KARA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3177,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/71281_bulk_999999999_1684091923431983971.jpg",
+            "submission_id": 447982,
+            "total_vote": 315,
+            "votes": {
+                "1": 158,
+                "2": 0,
+                "3": 137,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/71281_bulk_999999999_1684091923523967224.jpg",
+            "submission_id": 447983,
+            "total_vote": 308,
+            "votes": {
+                "1": 2,
+                "10": 10,
+                "11": 16,
+                "12": 24,
+                "13": 9,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 3,
+                "2": 0,
+                "20": 0,
+                "21": 65,
+                "22": 47,
+                "23": 1,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 2,
+                "8": 2,
+                "9": 112
+            }
+        },
+        "school_name": "ŞEHİT VEDAT KARA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3176,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/71281_bulk_999999999_1684092135727924995.jpg",
+            "submission_id": 451506,
+            "total_vote": 317,
+            "votes": {
+                "1": 149,
+                "3": 161,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/67621_bulk_999999999_1684092414237511551.jpeg",
+            "submission_id": 455898,
+            "total_vote": 311,
+            "votes": {
+                "1": 0,
+                "10": 19,
+                "11": 20,
+                "12": 41,
+                "13": 10,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 73,
+                "22": 37,
+                "23": 1,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 0,
+                "7": 4,
+                "8": 1,
+                "9": 96
+            }
+        },
+        "school_name": "ŞEHİT VEDAT KARA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3171,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/67621_bulk_999999999_1684085680474875614.jpeg",
+            "submission_id": 274437,
+            "total_vote": 331,
+            "votes": {
+                "1": 176,
+                "2": 2,
+                "3": 131,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/21679_mv_1083778497_1684098618136941207.jpg",
+            "submission_id": 528271,
+            "total_vote": 321,
+            "votes": {
+                "10": 12,
+                "11": 18,
+                "12": 20,
+                "13": 13,
+                "20": 1,
+                "21": 65,
+                "22": 30,
+                "23": 2,
+                "24": 11,
+                "3": 1,
+                "4": 1,
+                "7": 6,
+                "8": 2,
+                "9": 139
+            }
+        },
+        "school_name": "ŞEHİT VEDAT KARA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3173,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/67621_bulk_999999999_1684087240851945714.jpeg",
+            "submission_id": 327379,
+            "total_vote": 323,
+            "votes": {
+                "1": 145,
+                "2": 1,
+                "3": 164,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/67621_bulk_999999999_1684089049906507282.jpeg",
+            "submission_id": 383959,
+            "total_vote": 318,
+            "votes": {
+                "10": 10,
+                "11": 11,
+                "12": 25,
+                "13": 10,
+                "21": 108,
+                "22": 23,
+                "23": 1,
+                "24": 10,
+                "6": 1,
+                "7": 2,
+                "8": 3,
+                "9": 114
+            }
+        },
+        "school_name": "ŞEHİT VEDAT KARA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3174,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/67621_bulk_999999999_1684089561202932427.jpeg",
+            "submission_id": 397967,
+            "total_vote": 321,
+            "votes": {
+                "1": 157,
+                "2": 1,
+                "3": 153,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3096697e-e253-45ce-b122-01021b853100-1684105397763027062.jpeg",
+            "submission_id": 632430,
+            "total_vote": 316,
+            "votes": {
+                "10": 15,
+                "11": 21,
+                "12": 19,
+                "13": 9,
+                "21": 92,
+                "22": 33,
+                "24": 9,
+                "8": 2,
+                "9": 116
+            }
+        },
+        "school_name": "ŞEHİT VEDAT KARA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3170,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/67621_bulk_999999999_1684086657600859284.jpeg",
+            "submission_id": 306981,
+            "total_vote": 322,
+            "votes": {
+                "1": 132,
+                "2": 1,
+                "3": 174,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/67621_bulk_999999999_1684086549924341372.jpeg",
+            "submission_id": 303277,
+            "total_vote": 319,
+            "votes": {
+                "1": 1,
+                "10": 8,
+                "11": 14,
+                "12": 28,
+                "13": 14,
+                "14": 2,
+                "2": 1,
+                "20": 1,
+                "21": 90,
+                "22": 43,
+                "23": 2,
+                "24": 7,
+                "3": 1,
+                "6": 3,
+                "8": 1,
+                "9": 103
+            }
+        },
+        "school_name": "ŞEHİT VEDAT KARA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3172,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/67621_bulk_999999999_1684087168606465964.jpeg",
+            "submission_id": 324927,
+            "total_vote": 327,
+            "votes": {
+                "1": 143,
+                "2": 1,
+                "3": 166,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT VEDAT KARA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3175,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/67621_bulk_999999999_1684085328597756898.jpeg",
+            "submission_id": 263557,
+            "total_vote": 326,
+            "votes": {
+                "1": 152,
+                "2": 3,
+                "3": 153,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/718026ab-a20a-490d-81ed-ad98230ea1f9-1684105518075121220.jpeg",
+            "submission_id": 652929,
+            "total_vote": 324,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 12,
+                "12": 25,
+                "13": 10,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 81,
+                "22": 36,
+                "23": 1,
+                "24": 17,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 3,
+                "8": 7,
+                "9": 125
+            }
+        },
+        "school_name": "ŞEHİT VEDAT KARA İLKOKULU"
+    }
+]

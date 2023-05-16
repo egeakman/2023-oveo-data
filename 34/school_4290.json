@@ -1,0 +1,979 @@
+[
+    {
+        "ballot_box_number": 3286,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/71432_cb_1093654420_1684084559512019659.jpg",
+            "submission_id": 242024,
+            "total_vote": 321,
+            "votes": {
+                "1": 204,
+                "2": 0,
+                "3": 98,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/71432_mv_1083654420_1684084591998603149.jpg",
+            "submission_id": 242917,
+            "total_vote": 318,
+            "votes": {
+                "10": 17,
+                "11": 18,
+                "12": 25,
+                "13": 11,
+                "14": 0,
+                "15": 0,
+                "18": 0,
+                "19": 0,
+                "20": 2,
+                "21": 41,
+                "22": 22,
+                "23": 2,
+                "24": 11,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 7,
+                "8": 1,
+                "9": 160
+            }
+        },
+        "school_name": "KÜÇÜKKÖY ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 3271,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/71432_cb_1093652785_1684091567838427674.jpg",
+            "submission_id": 442261,
+            "total_vote": 328,
+            "votes": {
+                "1": 205,
+                "3": 111,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/27158_mv_1083652785_1684091407223440182.jpg",
+            "submission_id": 439668,
+            "total_vote": 316,
+            "votes": {
+                "1": 0,
+                "10": 13,
+                "11": 21,
+                "12": 35,
+                "13": 2,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 46,
+                "22": 21,
+                "23": 1,
+                "24": 5,
+                "3": 0,
+                "4": 1,
+                "5": 2,
+                "6": 0,
+                "7": 4,
+                "8": 3,
+                "9": 160
+            }
+        },
+        "school_name": "KÜÇÜKKÖY ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 3291,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/71432_bulk_999999999_1684087807297216697.jpg",
+            "submission_id": 345797,
+            "total_vote": 327,
+            "votes": {
+                "1": 228,
+                "2": 1,
+                "3": 92,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/71432_bulk_999999999_1684087807230342277.jpg",
+            "submission_id": 345795,
+            "total_vote": 323,
+            "votes": {
+                "1": 1,
+                "10": 23,
+                "11": 21,
+                "12": 21,
+                "13": 9,
+                "21": 39,
+                "22": 25,
+                "23": 1,
+                "24": 5,
+                "6": 1,
+                "7": 3,
+                "8": 2,
+                "9": 172
+            }
+        },
+        "school_name": "KÜÇÜKKÖY ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 3270,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/71432_bulk_999999999_1684087739061503820.jpg",
+            "submission_id": 343645,
+            "total_vote": 301,
+            "votes": {
+                "1": 201,
+                "2": 1,
+                "3": 93,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/71432_bulk_999999999_1684086465440770349.jpg",
+            "submission_id": 300256,
+            "total_vote": 294,
+            "votes": {
+                "10": 21,
+                "11": 15,
+                "12": 22,
+                "13": 9,
+                "15": 1,
+                "2": 1,
+                "21": 36,
+                "22": 22,
+                "24": 4,
+                "7": 7,
+                "8": 4,
+                "9": 152
+            }
+        },
+        "school_name": "KÜÇÜKKÖY ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 3288,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/71432_bulk_999999999_1684087508311912950.jpg",
+            "submission_id": 336181,
+            "total_vote": 338,
+            "votes": {
+                "1": 216,
+                "2": 0,
+                "3": 107,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/71432_bulk_999999999_1684087482988556668.jpg",
+            "submission_id": 335314,
+            "total_vote": 335,
+            "votes": {
+                "10": 21,
+                "11": 15,
+                "12": 29,
+                "13": 4,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "19": 0,
+                "20": 0,
+                "21": 47,
+                "22": 24,
+                "23": 1,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 6,
+                "8": 3,
+                "9": 172
+            }
+        },
+        "school_name": "KÜÇÜKKÖY ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 3293,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/71432_cb_1093654427_1684089760144550882.jpg",
+            "submission_id": 403385,
+            "total_vote": 344,
+            "votes": {
+                "1": 219,
+                "2": 2,
+                "3": 110,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/71432_mv_1083654427_1684089820791568156.jpg",
+            "submission_id": 405001,
+            "total_vote": 337,
+            "votes": {
+                "1": 0,
+                "10": 19,
+                "11": 22,
+                "12": 45,
+                "13": 4,
+                "14": 1,
+                "15": 2,
+                "16": 2,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 9,
+                "20": 0,
+                "21": 35,
+                "22": 19,
+                "23": 9,
+                "24": 11,
+                "3": 9,
+                "4": 0,
+                "5": 2,
+                "6": 3,
+                "7": 2,
+                "8": 2,
+                "9": 141
+            }
+        },
+        "school_name": "KÜÇÜKKÖY ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 3285,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/71432_cb_1093654419_1684085509448510650.jpg",
+            "submission_id": 268875,
+            "total_vote": 334,
+            "votes": {
+                "1": 236,
+                "2": 1,
+                "3": 80,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/71432_mv_1083654419_1684084856037634852.jpg",
+            "submission_id": 250054,
+            "total_vote": 325,
+            "votes": {
+                "10": 30,
+                "11": 19,
+                "12": 12,
+                "13": 4,
+                "21": 37,
+                "22": 21,
+                "24": 11,
+                "3": 1,
+                "7": 5,
+                "8": 6,
+                "9": 179
+            }
+        },
+        "school_name": "KÜÇÜKKÖY ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 3283,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16327_cb_1093654417_1684092521307049001.jpg",
+            "submission_id": 457601,
+            "total_vote": 345,
+            "votes": {
+                "1": 235,
+                "2": 1,
+                "3": 95,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16327_mv_1083654417_1684092453376536873.jpg",
+            "submission_id": 456551,
+            "total_vote": 342,
+            "votes": {
+                "1": 0,
+                "10": 21,
+                "11": 16,
+                "12": 28,
+                "13": 6,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 50,
+                "22": 12,
+                "23": 0,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "8": 4,
+                "9": 189
+            }
+        },
+        "school_name": "KÜÇÜKKÖY ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 3287,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/71432_bulk_999999999_1684083530412201428.jpeg",
+            "submission_id": 218398,
+            "total_vote": 344,
+            "votes": {
+                "1": 204,
+                "2": 2,
+                "3": 124,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/71432_mv_1083654421_1684083615743873621.jpg",
+            "submission_id": 220050,
+            "total_vote": 342,
+            "votes": {
+                "1": 0,
+                "10": 18,
+                "11": 15,
+                "12": 36,
+                "13": 13,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 54,
+                "22": 29,
+                "23": 1,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 1,
+                "9": 162
+            }
+        },
+        "school_name": "KÜÇÜKKÖY ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 3289,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/71432_bulk_999999999_1684089349296218277.jpg",
+            "submission_id": 392095,
+            "total_vote": 337,
+            "votes": {
+                "1": 202,
+                "2": 1,
+                "3": 118,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/71432_bulk_999999999_1684089349345057436.jpg",
+            "submission_id": 392096,
+            "total_vote": 325,
+            "votes": {
+                "10": 15,
+                "11": 28,
+                "12": 61,
+                "13": 3,
+                "21": 37,
+                "22": 15,
+                "23": 1,
+                "24": 11,
+                "7": 3,
+                "8": 5,
+                "9": 146
+            }
+        },
+        "school_name": "KÜÇÜKKÖY ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 3272,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16327_cb_1093652786_1684089989872974800.jpg",
+            "submission_id": 409447,
+            "total_vote": 334,
+            "votes": {
+                "1": 201,
+                "3": 108,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16327_mv_1083652786_1684093463264909522.jpg",
+            "submission_id": 470159,
+            "total_vote": 330,
+            "votes": {
+                "1": 1,
+                "10": 15,
+                "11": 14,
+                "12": 38,
+                "13": 9,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 52,
+                "22": 18,
+                "23": 2,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 0,
+                "7": 4,
+                "8": 5,
+                "9": 162
+            }
+        },
+        "school_name": "KÜÇÜKKÖY ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 3273,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/71432_cb_1093652787_1684085132149453561.jpg",
+            "submission_id": 257876,
+            "total_vote": 342,
+            "votes": {
+                "1": 218,
+                "2": 2,
+                "3": 105,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/71432_mv_1083652787_1684085175217050852.jpg",
+            "submission_id": 259121,
+            "total_vote": 337,
+            "votes": {
+                "1": 0,
+                "10": 25,
+                "11": 18,
+                "12": 62,
+                "13": 3,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 37,
+                "22": 37,
+                "23": 17,
+                "24": 0,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 7,
+                "8": 3,
+                "9": 126
+            }
+        },
+        "school_name": "KÜÇÜKKÖY ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 3282,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/71432_cb_1093654416_1684085644722825701.jpg",
+            "submission_id": 273238,
+            "total_vote": 327,
+            "votes": {
+                "1": 208,
+                "2": 0,
+                "3": 101,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/71432_mv_1083654416_1684086932277499988.jpg",
+            "submission_id": 316629,
+            "total_vote": 326,
+            "votes": {
+                "10": 11,
+                "11": 19,
+                "12": 26,
+                "13": 5,
+                "15": 1,
+                "20": 1,
+                "21": 47,
+                "22": 24,
+                "23": 1,
+                "24": 16,
+                "5": 1,
+                "6": 5,
+                "7": 3,
+                "8": 1,
+                "9": 165
+            }
+        },
+        "school_name": "KÜÇÜKKÖY ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 3292,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/27158_cb_1093654426_1684094791083407823.jpg",
+            "submission_id": 496198,
+            "total_vote": 339,
+            "votes": {
+                "1": 225,
+                "3": 98,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5387_mv_1083654426_1684094368766705731.jpg",
+            "submission_id": 491155,
+            "total_vote": 329,
+            "votes": {
+                "1": 19,
+                "10": 15,
+                "11": 16,
+                "12": 26,
+                "13": 6,
+                "17": 1,
+                "21": 42,
+                "24": 10,
+                "5": 4,
+                "7": 3,
+                "8": 6,
+                "9": 181
+            }
+        },
+        "school_name": "KÜÇÜKKÖY ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 3281,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16327_cb_1093654415_1684088994596040748.jpg",
+            "submission_id": 382388,
+            "total_vote": 348,
+            "votes": {
+                "1": 248,
+                "2": 2,
+                "3": 86,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16327_mv_1083652794_1684088073721969481.jpg",
+            "submission_id": 354378,
+            "total_vote": 346,
+            "votes": {
+                "1": 0,
+                "10": 21,
+                "11": 25,
+                "12": 30,
+                "13": 5,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 35,
+                "22": 14,
+                "23": 0,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 5,
+                "7": 6,
+                "8": 4,
+                "9": 191
+            }
+        },
+        "school_name": "KÜÇÜKKÖY ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 3280,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16327_cb_1093652794_1684088460647131210.jpg",
+            "submission_id": 366245,
+            "total_vote": 347,
+            "votes": {
+                "1": 243,
+                "2": 2,
+                "3": 91,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/16327_bulk_999999999_1684088721114361574.jpeg",
+            "submission_id": 374302,
+            "total_vote": 334,
+            "votes": {
+                "10": 23,
+                "11": 22,
+                "12": 27,
+                "13": 3,
+                "14": 1,
+                "21": 44,
+                "22": 11,
+                "23": 1,
+                "24": 6,
+                "3": 2,
+                "6": 1,
+                "7": 3,
+                "8": 3,
+                "9": 187
+            }
+        },
+        "school_name": "KÜÇÜKKÖY ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 3274,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/71437_cb_1093652788_1684089650512188035.jpg",
+            "submission_id": 400419,
+            "total_vote": 332,
+            "votes": {
+                "1": 222,
+                "2": 1,
+                "3": 98,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/71437_mv_1083652788_1684093816598016074.jpg",
+            "submission_id": 474648,
+            "total_vote": 315,
+            "votes": {
+                "10": 13,
+                "11": 25,
+                "12": 23,
+                "13": 5,
+                "21": 43,
+                "22": 24,
+                "23": 1,
+                "24": 6,
+                "7": 5,
+                "8": 2,
+                "9": 168
+            }
+        },
+        "school_name": "KÜÇÜKKÖY ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 3275,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/71437_bulk_999999999_1684092759194707140.jpg",
+            "submission_id": 460663,
+            "total_vote": 340,
+            "votes": {
+                "1": 217,
+                "2": 2,
+                "3": 104,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/71859_mv_1083652789_1684092479107201555.jpg",
+            "submission_id": 456955,
+            "total_vote": 339,
+            "votes": {
+                "1": 1,
+                "10": 18,
+                "11": 19,
+                "12": 37,
+                "13": 5,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 36,
+                "22": 24,
+                "23": 1,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 6,
+                "8": 1,
+                "9": 177
+            }
+        },
+        "school_name": "KÜÇÜKKÖY ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 3284,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/71432_cb_1093654418_1684090429123488003.jpg",
+            "submission_id": 419689,
+            "total_vote": 336,
+            "votes": {
+                "1": 222,
+                "2": 2,
+                "3": 95,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/71432_bulk_999999999_1684093151140267538.jpg",
+            "submission_id": 466067,
+            "total_vote": 326,
+            "votes": {
+                "1": 0,
+                "10": 16,
+                "11": 16,
+                "12": 42,
+                "13": 5,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 37,
+                "22": 14,
+                "23": 1,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 5,
+                "8": 1,
+                "9": 177
+            }
+        },
+        "school_name": "KÜÇÜKKÖY ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 3279,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5387_cb_1093652794_1684086900149322982.jpg",
+            "submission_id": 315460,
+            "total_vote": 323,
+            "votes": {
+                "1": 215,
+                "2": 1,
+                "3": 94,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16327_mv_1083652793_1684089099137892925.jpg",
+            "submission_id": 385343,
+            "total_vote": 314,
+            "votes": {
+                "1": 0,
+                "10": 24,
+                "11": 16,
+                "12": 18,
+                "13": 11,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 38,
+                "22": 21,
+                "23": 1,
+                "24": 14,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 1,
+                "8": 0,
+                "9": 168
+            }
+        },
+        "school_name": "KÜÇÜKKÖY ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 3278,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16327_cb_1093652792_1684086365997668188.jpg",
+            "submission_id": 296863,
+            "total_vote": 330,
+            "votes": {
+                "1": 213,
+                "2": 0,
+                "3": 104,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16327_mv_1083652792_1684087765981731036.jpg",
+            "submission_id": 344520,
+            "total_vote": 316,
+            "votes": {
+                "1": 0,
+                "10": 15,
+                "11": 15,
+                "12": 41,
+                "13": 4,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 39,
+                "22": 12,
+                "23": 0,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 4,
+                "8": 3,
+                "9": 176
+            }
+        },
+        "school_name": "KÜÇÜKKÖY ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 3277,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5387_cb_1093652791_1684087095933211618.jpg",
+            "submission_id": 322403,
+            "total_vote": 335,
+            "votes": {
+                "1": 227,
+                "2": 1,
+                "3": 102,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16327_mv_1083652791_1684091146346565713.jpg",
+            "submission_id": 434815,
+            "total_vote": 331,
+            "votes": {
+                "1": 0,
+                "10": 28,
+                "11": 20,
+                "12": 28,
+                "13": 9,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 46,
+                "22": 23,
+                "23": 0,
+                "24": 3,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 1,
+                "9": 170
+            }
+        },
+        "school_name": "KÜÇÜKKÖY ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 3290,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/71432_bulk_999999999_1684086738382473891.jpg",
+            "submission_id": 309909,
+            "total_vote": 324,
+            "votes": {
+                "1": 216,
+                "2": 2,
+                "3": 92,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/71432_bulk_999999999_1684088720159174223.jpg",
+            "submission_id": 374280,
+            "total_vote": 318,
+            "votes": {
+                "1": 2,
+                "10": 8,
+                "11": 26,
+                "12": 35,
+                "13": 6,
+                "21": 31,
+                "22": 16,
+                "23": 1,
+                "24": 13,
+                "6": 1,
+                "7": 7,
+                "8": 3,
+                "9": 169
+            }
+        },
+        "school_name": "KÜÇÜKKÖY ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 3276,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/71432_cb_1093652790_1684087099872938157.jpg",
+            "submission_id": 322536,
+            "total_vote": 334,
+            "votes": {
+                "1": 224,
+                "2": 0,
+                "3": 100,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/71432_mv_1083652790_1684087141669251663.jpg",
+            "submission_id": 323978,
+            "total_vote": 330,
+            "votes": {
+                "1": 1,
+                "10": 22,
+                "11": 18,
+                "12": 37,
+                "13": 2,
+                "14": 2,
+                "21": 42,
+                "22": 14,
+                "24": 8,
+                "5": 3,
+                "6": 1,
+                "7": 1,
+                "8": 3,
+                "9": 176
+            }
+        },
+        "school_name": "KÜÇÜKKÖY ANADOLU İMAM HATİP LİSESİ"
+    }
+]

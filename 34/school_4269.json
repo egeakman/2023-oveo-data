@@ -1,0 +1,915 @@
+[
+    {
+        "ballot_box_number": 3047,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/3202_cb_1093643441_1684092167153389115.jpg",
+            "submission_id": 452018,
+            "total_vote": 352,
+            "votes": {
+                "1": 240,
+                "2": 1,
+                "3": 89,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/3202_mv_1083643441_1684092225129144552.jpg",
+            "submission_id": 452951,
+            "total_vote": 342,
+            "votes": {
+                "10": 30,
+                "11": 16,
+                "12": 22,
+                "13": 3,
+                "21": 31,
+                "22": 24,
+                "24": 23,
+                "3": 1,
+                "6": 3,
+                "7": 3,
+                "8": 3,
+                "9": 183
+            }
+        },
+        "school_name": "ADNAN MENDERES ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3049,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/36998_cb_1093643443_1684083992341205478.jpg",
+            "submission_id": 227931,
+            "total_vote": 333,
+            "votes": {
+                "1": 230,
+                "2": 1,
+                "3": 84,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "ADNAN MENDERES ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3040,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d785209d-b94e-43f3-a838-72c30da02335-1684105116747368049.jpeg",
+            "submission_id": 575549,
+            "total_vote": 337,
+            "votes": {
+                "10": 27,
+                "11": 17,
+                "12": 28,
+                "13": 6,
+                "14": 3,
+                "16": 1,
+                "21": 33,
+                "23": 17,
+                "24": 8,
+                "3": 1,
+                "6": 2,
+                "7": 9,
+                "8": 7,
+                "9": 178
+            }
+        },
+        "school_name": "ADNAN MENDERES ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3051,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/3202_bulk_999999999_1684090846711047234.jpg",
+            "submission_id": 428667,
+            "total_vote": 334,
+            "votes": {
+                "1": 227,
+                "2": 0,
+                "3": 100,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source1-secim-images.oyveotesi.org/raw/1017526_mv_3643445_1684096129.jpeg",
+            "submission_id": 509779,
+            "total_vote": 327,
+            "votes": {
+                "1": 0,
+                "10": 18,
+                "11": 10,
+                "12": 30,
+                "13": 6,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 65,
+                "23": 2,
+                "24": 4,
+                "3": 0,
+                "4": 1,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 186
+            }
+        },
+        "school_name": "ADNAN MENDERES ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3048,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/3202_bulk_999999999_1684090846776540079.jpg",
+            "submission_id": 428670,
+            "total_vote": 353,
+            "votes": {
+                "1": 240,
+                "2": 1,
+                "3": 97,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/3202_mv_1083643442_1684092341927807698.jpg",
+            "submission_id": 454816,
+            "total_vote": 349,
+            "votes": {
+                "1": 0,
+                "10": 22,
+                "11": 27,
+                "12": 30,
+                "13": 8,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 47,
+                "22": 18,
+                "23": 2,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 5,
+                "8": 7,
+                "9": 175
+            }
+        },
+        "school_name": "ADNAN MENDERES ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3038,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/3202_cb_1093642252_1684096595086730646.jpeg",
+            "submission_id": 513982,
+            "total_vote": 346,
+            "votes": {
+                "1": 235,
+                "2": 1,
+                "3": 90,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/3202_mv_1083642252_1684097025477505620.jpeg",
+            "submission_id": 517725,
+            "total_vote": 338,
+            "votes": {
+                "1": 6,
+                "10": 40,
+                "11": 20,
+                "12": 33,
+                "13": 5,
+                "14": 5,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 38,
+                "22": 3,
+                "23": 0,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 12,
+                "8": 3,
+                "9": 163
+            }
+        },
+        "school_name": "ADNAN MENDERES ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3031,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/3202_cb_1093642245_1684086793941197273.jpg",
+            "submission_id": 311858,
+            "total_vote": 359,
+            "votes": {
+                "1": 232,
+                "2": 1,
+                "3": 101,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/3202_mv_1083642245_1684086988524706750.jpg",
+            "submission_id": 318526,
+            "total_vote": 354,
+            "votes": {
+                "1": 1,
+                "10": 24,
+                "11": 27,
+                "12": 18,
+                "13": 11,
+                "21": 54,
+                "22": 15,
+                "24": 14,
+                "6": 2,
+                "7": 2,
+                "8": 6,
+                "9": 180
+            }
+        },
+        "school_name": "ADNAN MENDERES ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3057,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "ADNAN MENDERES ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3050,
+        "cm_result": {
+            "image_url": "https://source1-secim-images.oyveotesi.org/raw/1017526_cb_3643444_1684239501.jpeg",
+            "submission_id": 1028476,
+            "total_vote": 340,
+            "votes": {
+                "1": 237,
+                "2": 1,
+                "3": 90,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "ADNAN MENDERES ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3046,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "ADNAN MENDERES ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3053,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/3202_cb_1093643447_1684086712190449288.jpg",
+            "submission_id": 308976,
+            "total_vote": 332,
+            "votes": {
+                "1": 226,
+                "2": 3,
+                "3": 80,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/3202_mv_1083643447_1684088180869852525.jpg",
+            "submission_id": 357706,
+            "total_vote": 328,
+            "votes": {
+                "1": 1,
+                "10": 17,
+                "11": 23,
+                "12": 17,
+                "13": 7,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 38,
+                "22": 20,
+                "23": 2,
+                "24": 14,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 2,
+                "9": 180
+            }
+        },
+        "school_name": "ADNAN MENDERES ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3034,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/3202_bulk_999999999_1684082269185651218.jpg",
+            "submission_id": 197968,
+            "total_vote": 339,
+            "votes": {
+                "1": 214,
+                "2": 0,
+                "3": 104,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a2b78a7b-08fc-434b-ba71-7f2f0bd27373-1684105144446243944.jpeg",
+            "submission_id": 581202,
+            "total_vote": 319,
+            "votes": {
+                "10": 14,
+                "11": 10,
+                "12": 26,
+                "13": 6,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 49,
+                "22": 25,
+                "23": 3,
+                "24": 8,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 0,
+                "9": 177
+            }
+        },
+        "school_name": "ADNAN MENDERES ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3056,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/37235_bulk_999999999_1684084356551391648.jpeg",
+            "submission_id": 236888,
+            "total_vote": 343,
+            "votes": {
+                "1": 226,
+                "3": 105,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/37235_bulk_999999999_1684087629329699628.jpeg",
+            "submission_id": 340006,
+            "total_vote": 331,
+            "votes": {
+                "10": 24,
+                "11": 13,
+                "12": 40,
+                "13": 8,
+                "2": 3,
+                "21": 40,
+                "22": 15,
+                "23": 2,
+                "24": 6,
+                "5": 1,
+                "6": 2,
+                "7": 3,
+                "8": 1,
+                "9": 173
+            }
+        },
+        "school_name": "ADNAN MENDERES ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3032,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/3202_cb_1093642246_1684086573425729447.jpg",
+            "submission_id": 304092,
+            "total_vote": 341,
+            "votes": {
+                "1": 248,
+                "3": 72,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/3202_mv_1083642246_1684087930198319716.jpg",
+            "submission_id": 349609,
+            "total_vote": 335,
+            "votes": {
+                "10": 23,
+                "11": 15,
+                "12": 34,
+                "13": 2,
+                "14": 1,
+                "15": 1,
+                "2": 1,
+                "21": 28,
+                "22": 15,
+                "24": 10,
+                "5": 1,
+                "6": 2,
+                "7": 2,
+                "8": 5,
+                "9": 195
+            }
+        },
+        "school_name": "ADNAN MENDERES ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3045,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/37247_cb_1093643438_1684082556677754644.jpg",
+            "submission_id": 201739,
+            "total_vote": 325,
+            "votes": {
+                "1": 224,
+                "2": 1,
+                "3": 88,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/37247_mv_1083643439_1684084039999693260.jpg",
+            "submission_id": 228993,
+            "total_vote": 326,
+            "votes": {
+                "10": 13,
+                "11": 21,
+                "12": 27,
+                "13": 2,
+                "15": 1,
+                "20": 1,
+                "21": 45,
+                "22": 17,
+                "24": 3,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "8": 13,
+                "9": 178
+            }
+        },
+        "school_name": "ADNAN MENDERES ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3033,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f4973ce7-6d7d-4b46-8f58-ecb50444b6f9-1684105151400386088.jpeg",
+            "submission_id": 584334,
+            "total_vote": 330,
+            "votes": {
+                "10": 23,
+                "11": 27,
+                "12": 23,
+                "13": 2,
+                "14": 1,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 26,
+                "22": 16,
+                "23": 1,
+                "24": 7,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 4,
+                "8": 3,
+                "9": 192
+            }
+        },
+        "school_name": "ADNAN MENDERES ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3054,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ef0d38f0-536a-43dd-878b-dedb78c203d5-1684105102645578474.jpeg",
+            "submission_id": 572222,
+            "total_vote": 341,
+            "votes": {
+                "1": 224,
+                "2": 1,
+                "3": 107,
+                "4": 9
+            }
+        },
+        "mv_result": null,
+        "school_name": "ADNAN MENDERES ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3044,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7c44b12a-2808-4536-bd47-9434f8ba8226-1684105632092191501.jpeg",
+            "submission_id": 669607,
+            "total_vote": 343,
+            "votes": {
+                "1": 240,
+                "2": 1,
+                "3": 91,
+                "4": 11
+            }
+        },
+        "mv_result": null,
+        "school_name": "ADNAN MENDERES ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3043,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/34713_cb_1093643437_1684080553089382773.jpg",
+            "submission_id": 182348,
+            "total_vote": 352,
+            "votes": {
+                "1": 235,
+                "3": 98,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "ADNAN MENDERES ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3041,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/52e5b41b-616d-4bb4-b378-703e8926238f-1684105159426200101.jpeg",
+            "submission_id": 585013,
+            "total_vote": 343,
+            "votes": {
+                "1": 219,
+                "2": 2,
+                "3": 96,
+                "4": 26
+            }
+        },
+        "mv_result": null,
+        "school_name": "ADNAN MENDERES ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3039,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/37096_cb_1093642253_1684084673891256466.jpg",
+            "submission_id": 245198,
+            "total_vote": 349,
+            "votes": {
+                "1": 227,
+                "3": 106,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "ADNAN MENDERES ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3028,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/72934_cb_1093642242_1684086003671186936.jpg",
+            "submission_id": 285039,
+            "total_vote": 316,
+            "votes": {
+                "1": 162,
+                "2": 3,
+                "3": 133,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/72934_mv_1083642242_1684085805481332462.jpg",
+            "submission_id": 278575,
+            "total_vote": 301,
+            "votes": {
+                "1": 1,
+                "10": 13,
+                "11": 12,
+                "12": 22,
+                "13": 4,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 2,
+                "21": 72,
+                "22": 26,
+                "23": 1,
+                "24": 15,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 5,
+                "8": 2,
+                "9": 121
+            }
+        },
+        "school_name": "ADNAN MENDERES ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3055,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/37223_bulk_999999999_1684092954564170280.jpeg",
+            "submission_id": 463304,
+            "total_vote": 341,
+            "votes": {
+                "1": 232,
+                "2": 1,
+                "3": 91,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/37223_bulk_999999999_1684092916948903841.jpeg",
+            "submission_id": 462857,
+            "total_vote": 332,
+            "votes": {
+                "10": 17,
+                "11": 26,
+                "12": 26,
+                "13": 4,
+                "14": 0,
+                "21": 45,
+                "22": 22,
+                "23": 1,
+                "24": 10,
+                "7": 4,
+                "8": 4,
+                "9": 173
+            }
+        },
+        "school_name": "ADNAN MENDERES ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3042,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/3202_bulk_999999999_1684090709312514079.jpg",
+            "submission_id": 425761,
+            "total_vote": 357,
+            "votes": {
+                "1": 220,
+                "2": 1,
+                "3": 106,
+                "4": 30
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source1-secim-images.oyveotesi.org/raw/1017526_mv_3643436_1684239279.jpeg",
+            "submission_id": 1028416,
+            "total_vote": 353,
+            "votes": {
+                "1": 1,
+                "10": 26,
+                "11": 24,
+                "12": 29,
+                "13": 4,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 51,
+                "22": 26,
+                "23": 1,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 9,
+                "8": 1,
+                "9": 169
+            }
+        },
+        "school_name": "ADNAN MENDERES ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3036,
+        "cm_result": {
+            "image_url": "https://source1-secim-images.oyveotesi.org/raw/1017526_cb_3642250_1684106039.jpeg",
+            "submission_id": 729342,
+            "total_vote": 328,
+            "votes": {
+                "1": 223,
+                "2": 1,
+                "3": 90,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source1-secim-images.oyveotesi.org/raw/1017526_mv_3642250_1684106083.jpeg",
+            "submission_id": 735209,
+            "total_vote": 320,
+            "votes": {
+                "1": 0,
+                "10": 22,
+                "11": 25,
+                "12": 18,
+                "13": 9,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 35,
+                "22": 29,
+                "23": 2,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 4,
+                "9": 164
+            }
+        },
+        "school_name": "ADNAN MENDERES ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3029,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/37252_mv_1083642243_1684078885617199819.jpg",
+            "submission_id": 175408,
+            "total_vote": 303,
+            "votes": {
+                "1": 204,
+                "3": 82,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/37252_mv_1083642243_1684083205740681787.jpg",
+            "submission_id": 212242,
+            "total_vote": 294,
+            "votes": {
+                "1": 0,
+                "10": 16,
+                "11": 21,
+                "12": 27,
+                "13": 2,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 36,
+                "22": 15,
+                "23": 0,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 4,
+                "9": 158
+            }
+        },
+        "school_name": "ADNAN MENDERES ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3030,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/3202_bulk_999999999_1684088530735249123.jpg",
+            "submission_id": 368458,
+            "total_vote": 316,
+            "votes": {
+                "1": 221,
+                "2": 1,
+                "3": 76,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "ADNAN MENDERES ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3052,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/3202_cb_1093643446_1684086645834569042.jpg",
+            "submission_id": 306639,
+            "total_vote": 336,
+            "votes": {
+                "1": 218,
+                "2": 3,
+                "3": 94,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "ADNAN MENDERES ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3035,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/3202_cb_1093642249_1684239534187869075.jpeg",
+            "submission_id": 1028481,
+            "total_vote": 344,
+            "votes": {
+                "1": 223,
+                "2": 3,
+                "3": 104,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/3202_bulk_999999999_1684089159878981026.jpg",
+            "submission_id": 386997,
+            "total_vote": 343,
+            "votes": {
+                "10": 20,
+                "11": 19,
+                "12": 40,
+                "13": 2,
+                "14": 1,
+                "15": 1,
+                "21": 34,
+                "22": 26,
+                "24": 8,
+                "5": 1,
+                "7": 3,
+                "8": 4,
+                "9": 184
+            }
+        },
+        "school_name": "ADNAN MENDERES ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3037,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/3202_bulk_999999999_1684090709368080049.jpg",
+            "submission_id": 425763,
+            "total_vote": 336,
+            "votes": {
+                "1": 229,
+                "2": 2,
+                "3": 87,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/41133_bulk_999999999_1684092417924025457.jpg",
+            "submission_id": 455997,
+            "total_vote": 329,
+            "votes": {
+                "1": 1,
+                "10": 31,
+                "11": 20,
+                "12": 20,
+                "13": 3,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 53,
+                "22": 12,
+                "23": 0,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 6,
+                "9": 164
+            }
+        },
+        "school_name": "ADNAN MENDERES ORTAOKULU"
+    }
+]

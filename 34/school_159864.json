@@ -1,0 +1,685 @@
+[
+    {
+        "ballot_box_number": 1236,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1281_bulk_999999999_1684082203980911740.jpeg",
+            "submission_id": 197112,
+            "total_vote": 331,
+            "votes": {
+                "1": 94,
+                "2": 1,
+                "3": 225,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1281_bulk_999999999_1684092696211797188.jpeg",
+            "submission_id": 459800,
+            "total_vote": 331,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 14,
+                "12": 23,
+                "13": 34,
+                "14": 0,
+                "15": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 134,
+                "22": 33,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 0,
+                "8": 1,
+                "9": 79
+            }
+        },
+        "school_name": "HÜSEYİN YILDIZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1226,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/34140_cb_1093626162_1684080573697038160.jpg",
+            "submission_id": 182466,
+            "total_vote": 334,
+            "votes": {
+                "1": 80,
+                "2": 1,
+                "3": 232,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/34140_mv_1083626162_1684084698202236841.jpg",
+            "submission_id": 245840,
+            "total_vote": 332,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 16,
+                "12": 9,
+                "13": 30,
+                "21": 146,
+                "22": 50,
+                "24": 10,
+                "7": 8,
+                "8": 1,
+                "9": 58
+            }
+        },
+        "school_name": "HÜSEYİN YILDIZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1229,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1281_cb_1093626165_1684086035560342134.jpg",
+            "submission_id": 286110,
+            "total_vote": 336,
+            "votes": {
+                "1": 81,
+                "3": 241,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1281_mv_1083626165_1684087415760066588.jpg",
+            "submission_id": 333190,
+            "total_vote": 326,
+            "votes": {
+                "10": 6,
+                "11": 8,
+                "12": 10,
+                "13": 22,
+                "21": 151,
+                "22": 42,
+                "24": 15,
+                "7": 8,
+                "8": 1,
+                "9": 63
+            }
+        },
+        "school_name": "HÜSEYİN YILDIZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1231,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1281_cb_1093626167_1684092388948769395.jpg",
+            "submission_id": 455536,
+            "total_vote": 346,
+            "votes": {
+                "1": 80,
+                "2": 1,
+                "3": 255,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "HÜSEYİN YILDIZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1233,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1281_cb_1093626169_1684093083022271382.jpg",
+            "submission_id": 465036,
+            "total_vote": 324,
+            "votes": {
+                "1": 77,
+                "2": 0,
+                "3": 236,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/59122_bulk_999999999_1684097489130571192.jpeg",
+            "submission_id": 521095,
+            "total_vote": 326,
+            "votes": {
+                "10": 8,
+                "11": 9,
+                "12": 23,
+                "13": 32,
+                "21": 136,
+                "22": 48,
+                "24": 7,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 59
+            }
+        },
+        "school_name": "HÜSEYİN YILDIZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1228,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1281_bulk_999999999_1684081691322037987.jpeg",
+            "submission_id": 191333,
+            "total_vote": 337,
+            "votes": {
+                "1": 80,
+                "2": 1,
+                "3": 248,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1281_mv_1083626164_1684090493470289320.jpg",
+            "submission_id": 421219,
+            "total_vote": 338,
+            "votes": {
+                "10": 5,
+                "11": 13,
+                "12": 20,
+                "13": 30,
+                "15": 1,
+                "21": 153,
+                "22": 45,
+                "24": 4,
+                "3": 2,
+                "5": 1,
+                "6": 1,
+                "7": 3,
+                "8": 3,
+                "9": 57
+            }
+        },
+        "school_name": "HÜSEYİN YILDIZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1219,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1281_cb_1093626155_1684086429454848499.jpg",
+            "submission_id": 299015,
+            "total_vote": 308,
+            "votes": {
+                "1": 70,
+                "2": 2,
+                "3": 233,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1281_mv_1083626155_1684086470947221799.jpg",
+            "submission_id": 300448,
+            "total_vote": 301,
+            "votes": {
+                "11": 6,
+                "12": 11,
+                "13": 21,
+                "14": 1,
+                "15": 1,
+                "21": 174,
+                "22": 25,
+                "24": 2,
+                "4": 1,
+                "7": 1,
+                "8": 1,
+                "9": 57
+            }
+        },
+        "school_name": "HÜSEYİN YILDIZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1237,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1281_bulk_999999999_1684092015750017509.jpeg",
+            "submission_id": 449574,
+            "total_vote": 335,
+            "votes": {
+                "1": 90,
+                "2": 0,
+                "3": 240,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1281_bulk_999999999_1684092015654164178.jpeg",
+            "submission_id": 449572,
+            "total_vote": 329,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 9,
+                "12": 27,
+                "13": 34,
+                "14": 0,
+                "15": 2,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 136,
+                "22": 40,
+                "24": 4,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 1,
+                "9": 68
+            }
+        },
+        "school_name": "HÜSEYİN YILDIZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1225,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1281_cb_1093626161_1684088932234225941.jpg",
+            "submission_id": 380559,
+            "total_vote": 338,
+            "votes": {
+                "1": 96,
+                "2": 1,
+                "3": 231,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1281_mv_1083626161_1684088973198426578.jpg",
+            "submission_id": 381725,
+            "total_vote": 336,
+            "votes": {
+                "10": 10,
+                "11": 16,
+                "12": 15,
+                "13": 26,
+                "21": 153,
+                "22": 34,
+                "24": 9,
+                "3": 2,
+                "6": 2,
+                "7": 4,
+                "8": 2,
+                "9": 63
+            }
+        },
+        "school_name": "HÜSEYİN YILDIZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1238,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1281_cb_1093626174_1684092917599478649.jpg",
+            "submission_id": 462861,
+            "total_vote": 316,
+            "votes": {
+                "1": 88,
+                "3": 221,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1281_mv_1083626174_1684092968071148727.jpg",
+            "submission_id": 463493,
+            "total_vote": 302,
+            "votes": {
+                "10": 3,
+                "11": 10,
+                "12": 9,
+                "13": 22,
+                "17": 1,
+                "19": 1,
+                "21": 148,
+                "22": 24,
+                "24": 9,
+                "6": 2,
+                "7": 1,
+                "8": 3,
+                "9": 69
+            }
+        },
+        "school_name": "HÜSEYİN YILDIZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1232,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1281_cb_1093626168_1684092824126340593.jpg",
+            "submission_id": 461646,
+            "total_vote": 333,
+            "votes": {
+                "1": 89,
+                "2": 2,
+                "3": 232,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/37463_bulk_999999999_1684175497047723590.jpg",
+            "submission_id": 1024783,
+            "total_vote": 330,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 18,
+                "12": 11,
+                "13": 30,
+                "14": 0,
+                "15": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 144,
+                "22": 46,
+                "24": 7,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 2,
+                "9": 66
+            }
+        },
+        "school_name": "HÜSEYİN YILDIZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1230,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1281_cb_1093626166_1684091728779301396.jpg",
+            "submission_id": 444884,
+            "total_vote": 335,
+            "votes": {
+                "1": 100,
+                "2": 1,
+                "3": 210,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1281_mv_1083626166_1684092554203972421.jpg",
+            "submission_id": 458022,
+            "total_vote": 327,
+            "votes": {
+                "1": 0,
+                "10": 12,
+                "11": 12,
+                "12": 17,
+                "13": 34,
+                "14": 0,
+                "15": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 126,
+                "22": 31,
+                "24": 16,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 2,
+                "8": 2,
+                "9": 74
+            }
+        },
+        "school_name": "HÜSEYİN YILDIZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1227,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1281_bulk_999999999_1684090804710930758.jpeg",
+            "submission_id": 427752,
+            "total_vote": 333,
+            "votes": {
+                "1": 89,
+                "2": 2,
+                "3": 219,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1281_bulk_999999999_1684089581781195966.jpeg",
+            "submission_id": 398576,
+            "total_vote": 335,
+            "votes": {
+                "1": 2,
+                "10": 8,
+                "11": 14,
+                "12": 24,
+                "13": 32,
+                "14": 0,
+                "15": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 4,
+                "21": 136,
+                "22": 33,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 2,
+                "8": 2,
+                "9": 67
+            }
+        },
+        "school_name": "HÜSEYİN YILDIZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1235,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/6312_cb_1093626171_1684087875379316706.jpg",
+            "submission_id": 347852,
+            "total_vote": 325,
+            "votes": {
+                "1": 94,
+                "3": 217,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/6312_mv_1083626171_1684088090057774575.jpg",
+            "submission_id": 354862,
+            "total_vote": 325,
+            "votes": {
+                "1": 0,
+                "10": 11,
+                "11": 11,
+                "12": 22,
+                "13": 26,
+                "14": 1,
+                "15": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 139,
+                "22": 29,
+                "24": 8,
+                "3": 3,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 0,
+                "9": 71
+            }
+        },
+        "school_name": "HÜSEYİN YILDIZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1221,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1281_cb_1093626157_1684091101495468838.jpg",
+            "submission_id": 433899,
+            "total_vote": 324,
+            "votes": {
+                "1": 78,
+                "2": 2,
+                "3": 235,
+                "4": 9
+            }
+        },
+        "mv_result": null,
+        "school_name": "HÜSEYİN YILDIZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1220,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/59122_cb_1093626156_1684086848025804245.jpg",
+            "submission_id": 313692,
+            "total_vote": 321,
+            "votes": {
+                "1": 84,
+                "2": 2,
+                "3": 229,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/59122_mv_1083626156_1684085399630159318.jpg",
+            "submission_id": 265652,
+            "total_vote": 318,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 8,
+                "12": 12,
+                "13": 13,
+                "14": 1,
+                "15": 5,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 173,
+                "22": 26,
+                "24": 1,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 3,
+                "8": 1,
+                "9": 69
+            }
+        },
+        "school_name": "HÜSEYİN YILDIZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1223,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/59744_cb_1093626159_1684080681086837233.jpg",
+            "submission_id": 183109,
+            "total_vote": 345,
+            "votes": {
+                "1": 95,
+                "3": 233,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "HÜSEYİN YILDIZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1222,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1281_bulk_999999999_1684081916565098766.jpeg",
+            "submission_id": 193673,
+            "total_vote": 333,
+            "votes": {
+                "1": 91,
+                "2": 1,
+                "3": 223,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1281_mv_1083626158_1684089170606642303.jpg",
+            "submission_id": 387316,
+            "total_vote": 328,
+            "votes": {
+                "10": 6,
+                "11": 14,
+                "12": 14,
+                "13": 26,
+                "19": 3,
+                "21": 128,
+                "22": 57,
+                "24": 6,
+                "3": 1,
+                "6": 1,
+                "7": 8,
+                "8": 1,
+                "9": 63
+            }
+        },
+        "school_name": "HÜSEYİN YILDIZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1224,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1281_cb_1093626160_1684091427770178481.jpg",
+            "submission_id": 440038,
+            "total_vote": 327,
+            "votes": {
+                "1": 90,
+                "2": 2,
+                "3": 231,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1281_mv_1083626160_1684091459750154690.jpg",
+            "submission_id": 440542,
+            "total_vote": 326,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 7,
+                "12": 16,
+                "13": 35,
+                "14": 0,
+                "15": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 137,
+                "22": 44,
+                "24": 5,
+                "3": 3,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 5,
+                "9": 67
+            }
+        },
+        "school_name": "HÜSEYİN YILDIZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1234,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/59430_cb_1093626170_1684093116847483293.jpg",
+            "submission_id": 465629,
+            "total_vote": 313,
+            "votes": {
+                "1": 67,
+                "3": 229,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "HÜSEYİN YILDIZ ANADOLU LİSESİ"
+    }
+]

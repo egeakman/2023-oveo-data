@@ -1,0 +1,525 @@
+[
+    {
+        "ballot_box_number": 3144,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/bb4b36c3-db5d-4519-b91d-90024df32905-1684106346029750556.jpeg",
+            "submission_id": 774457,
+            "total_vote": 329,
+            "votes": {
+                "1": 69,
+                "3": 253,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "TOKİ ERDEM BEYAZIT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3140,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11938_cb_1093869326_1684081910919321700.jpg",
+            "submission_id": 193591,
+            "total_vote": 346,
+            "votes": {
+                "1": 69,
+                "2": 1,
+                "3": 264,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11938_mv_1083869326_1684082359880635703.jpg",
+            "submission_id": 199122,
+            "total_vote": 344,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 9,
+                "12": 14,
+                "13": 41,
+                "14": 1,
+                "15": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 167,
+                "22": 34,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 2,
+                "8": 1,
+                "9": 63
+            }
+        },
+        "school_name": "TOKİ ERDEM BEYAZIT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3139,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a741581c-8c06-4f1e-9b6c-9267de306939-1684106375528986820.jpeg",
+            "submission_id": 778515,
+            "total_vote": 344,
+            "votes": {
+                "1": 74,
+                "2": 1,
+                "3": 258,
+                "4": 11
+            }
+        },
+        "mv_result": null,
+        "school_name": "TOKİ ERDEM BEYAZIT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3147,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/35765_cb_1093869333_1684088604731129433.jpg",
+            "submission_id": 370753,
+            "total_vote": 337,
+            "votes": {
+                "1": 61,
+                "3": 268,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/10747_bulk_999999999_1684095629326760089.jpg",
+            "submission_id": 505128,
+            "total_vote": 333,
+            "votes": {
+                "11": 9,
+                "12": 12,
+                "13": 34,
+                "15": 1,
+                "21": 182,
+                "22": 39,
+                "24": 4,
+                "7": 5,
+                "8": 1,
+                "9": 46
+            }
+        },
+        "school_name": "TOKİ ERDEM BEYAZIT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3135,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/43710_bulk_999999999_1684088218431836263.jpeg",
+            "submission_id": 358816,
+            "total_vote": 344,
+            "votes": {
+                "1": 54,
+                "2": 0,
+                "3": 275,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e0330558-22fb-4227-b99d-7970d2012413-1684106178751979634.jpeg",
+            "submission_id": 749374,
+            "total_vote": 342,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 7,
+                "12": 8,
+                "13": 27,
+                "14": 1,
+                "15": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 192,
+                "22": 48,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 1,
+                "9": 41
+            }
+        },
+        "school_name": "TOKİ ERDEM BEYAZIT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3137,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/35765_cb_1093869323_1684088739445810274.jpg",
+            "submission_id": 374840,
+            "total_vote": 331,
+            "votes": {
+                "1": 47,
+                "2": 1,
+                "3": 267,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/35765_mv_1083869323_1684088692317384337.jpg",
+            "submission_id": 373472,
+            "total_vote": 320,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 7,
+                "12": 12,
+                "13": 17,
+                "14": 0,
+                "15": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 159,
+                "22": 52,
+                "24": 8,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 55
+            }
+        },
+        "school_name": "TOKİ ERDEM BEYAZIT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3138,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/26854_cb_1093869324_1684079239805118653.jpg",
+            "submission_id": 176352,
+            "total_vote": 340,
+            "votes": {
+                "1": 53,
+                "2": 0,
+                "3": 277,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/26854_mv_1083869324_1684083595801502314.jpg",
+            "submission_id": 219661,
+            "total_vote": 338,
+            "votes": {
+                "11": 11,
+                "12": 20,
+                "13": 31,
+                "19": 1,
+                "21": 170,
+                "22": 59,
+                "24": 5,
+                "7": 3,
+                "9": 38
+            }
+        },
+        "school_name": "TOKİ ERDEM BEYAZIT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3142,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/59255_bulk_999999999_1684086899968012231.jpg",
+            "submission_id": 315454,
+            "total_vote": 343,
+            "votes": {
+                "1": 70,
+                "2": 0,
+                "3": 263,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/35765_mv_1083869328_1684089602505651986.jpg",
+            "submission_id": 399146,
+            "total_vote": 336,
+            "votes": {
+                "10": 3,
+                "11": 12,
+                "12": 8,
+                "13": 41,
+                "20": 1,
+                "21": 187,
+                "22": 29,
+                "24": 10,
+                "5": 1,
+                "7": 5,
+                "8": 1,
+                "9": 38
+            }
+        },
+        "school_name": "TOKİ ERDEM BEYAZIT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3146,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/35765_cb_1093869332_1684092106937574597.jpg",
+            "submission_id": 451080,
+            "total_vote": 334,
+            "votes": {
+                "1": 52,
+                "2": 2,
+                "3": 271,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/35765_mv_1083869332_1684091220169657623.jpg",
+            "submission_id": 436225,
+            "total_vote": 333,
+            "votes": {
+                "10": 1,
+                "11": 5,
+                "12": 15,
+                "13": 48,
+                "14": 0,
+                "21": 166,
+                "22": 46,
+                "24": 5,
+                "7": 2,
+                "9": 45
+            }
+        },
+        "school_name": "TOKİ ERDEM BEYAZIT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3143,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1814_bulk_999999999_1684089158241792299.jpg",
+            "submission_id": 386953,
+            "total_vote": 347,
+            "votes": {
+                "1": 60,
+                "2": 1,
+                "3": 269,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e94e1ece-b2b7-409b-8c6e-fcdce281ca7f-1684105891894203724.jpeg",
+            "submission_id": 709724,
+            "total_vote": 328,
+            "votes": {
+                "10": 3,
+                "11": 2,
+                "12": 85,
+                "13": 37,
+                "21": 110,
+                "24": 43,
+                "4": 0,
+                "7": 4,
+                "8": 2,
+                "9": 42
+            }
+        },
+        "school_name": "TOKİ ERDEM BEYAZIT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3134,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/35765_cb_1093869320_1684088518109012297.jpg",
+            "submission_id": 368050,
+            "total_vote": 334,
+            "votes": {
+                "1": 41,
+                "2": 1,
+                "3": 280,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/35765_mv_1083869320_1684088425880421604.jpg",
+            "submission_id": 365219,
+            "total_vote": 331,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 9,
+                "12": 9,
+                "13": 48,
+                "14": 0,
+                "15": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 178,
+                "22": 42,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 2,
+                "9": 31
+            }
+        },
+        "school_name": "TOKİ ERDEM BEYAZIT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3133,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/35765_cb_1093869319_1684088935612779042.jpg",
+            "submission_id": 380664,
+            "total_vote": 317,
+            "votes": {
+                "1": 49,
+                "2": 0,
+                "3": 262,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/35765_mv_1083869319_1684090610923858754.jpg",
+            "submission_id": 423826,
+            "total_vote": 311,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 10,
+                "12": 10,
+                "13": 18,
+                "14": 0,
+                "15": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 2,
+                "21": 193,
+                "22": 37,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 1,
+                "8": 0,
+                "9": 35
+            }
+        },
+        "school_name": "TOKİ ERDEM BEYAZIT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3145,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/10617_cb_1093869331_1684091533232453784.jpg",
+            "submission_id": 441740,
+            "total_vote": 338,
+            "votes": {
+                "1": 63,
+                "2": 0,
+                "3": 269,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/10617_mv_1083869331_1684092440587941359.jpg",
+            "submission_id": 456338,
+            "total_vote": 336,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 7,
+                "12": 12,
+                "13": 41,
+                "21": 172,
+                "22": 43,
+                "24": 8,
+                "3": 1,
+                "4": 1,
+                "6": 1,
+                "7": 5,
+                "8": 2,
+                "9": 41
+            }
+        },
+        "school_name": "TOKİ ERDEM BEYAZIT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3136,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/26806_cb_1093869322_1684085806759840686.jpg",
+            "submission_id": 278611,
+            "total_vote": 340,
+            "votes": {
+                "1": 45,
+                "3": 277,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/26806_mv_1083869322_1684086001536402837.jpg",
+            "submission_id": 284977,
+            "total_vote": 338,
+            "votes": {
+                "1": 1,
+                "11": 6,
+                "12": 22,
+                "13": 40,
+                "20": 1,
+                "21": 180,
+                "22": 39,
+                "24": 8,
+                "7": 1,
+                "8": 1,
+                "9": 39
+            }
+        },
+        "school_name": "TOKİ ERDEM BEYAZIT ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 3141,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1814_cb_1093869327_1684079465385085539.jpg",
+            "submission_id": 177110,
+            "total_vote": 344,
+            "votes": {
+                "1": 62,
+                "2": 1,
+                "3": 268,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/35765_mv_1083869327_1684089457588169760.jpg",
+            "submission_id": 395052,
+            "total_vote": 344,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 8,
+                "12": 10,
+                "13": 36,
+                "14": 0,
+                "15": 0,
+                "17": 6,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 185,
+                "22": 33,
+                "24": 10,
+                "3": 3,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 1,
+                "9": 46
+            }
+        },
+        "school_name": "TOKİ ERDEM BEYAZIT ORTAOKULU"
+    }
+]

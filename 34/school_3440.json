@@ -1,0 +1,550 @@
+[
+    {
+        "ballot_box_number": 1178,
+        "cm_result": {
+            "image_url": "https://source1-secim-images.oyveotesi.org/raw/1001984_cb_3771932_1684083719.jpeg",
+            "submission_id": 222450,
+            "total_vote": 328,
+            "votes": {
+                "1": 81,
+                "2": 0,
+                "3": 206,
+                "4": 41
+            }
+        },
+        "mv_result": null,
+        "school_name": "NİMETULLAH MAHRUKİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1171,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/70860_cb_1093771925_1684088779145566796.jpg",
+            "submission_id": 376031,
+            "total_vote": 338,
+            "votes": {
+                "1": 80,
+                "2": 0,
+                "3": 225,
+                "4": 33
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/70860_mv_1083771925_1684089833516740753.jpg",
+            "submission_id": 405357,
+            "total_vote": 336,
+            "votes": {
+                "10": 3,
+                "11": 19,
+                "12": 1,
+                "13": 14,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "20": 0,
+                "21": 143,
+                "22": 69,
+                "23": 1,
+                "24": 24,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 1,
+                "9": 58
+            }
+        },
+        "school_name": "NİMETULLAH MAHRUKİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1179,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/8414_bulk_999999999_1684087195827273346.jpeg",
+            "submission_id": 325893,
+            "total_vote": 335,
+            "votes": {
+                "1": 67,
+                "2": 2,
+                "3": 234,
+                "4": 32
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/64947_mv_1083771933_1684087483231320525.jpg",
+            "submission_id": 335322,
+            "total_vote": 334,
+            "votes": {
+                "10": 9,
+                "11": 18,
+                "12": 3,
+                "13": 17,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "20": 0,
+                "21": 134,
+                "22": 82,
+                "23": 0,
+                "24": 16,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 2,
+                "9": 46
+            }
+        },
+        "school_name": "NİMETULLAH MAHRUKİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1175,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/38690_cb_1093771929_1684087562815223888.jpg",
+            "submission_id": 337910,
+            "total_vote": 319,
+            "votes": {
+                "1": 81,
+                "2": 0,
+                "3": 211,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/38690_mv_1083771929_1684087598797711807.jpg",
+            "submission_id": 339047,
+            "total_vote": 312,
+            "votes": {
+                "10": 5,
+                "11": 16,
+                "12": 3,
+                "13": 11,
+                "21": 134,
+                "22": 57,
+                "23": 2,
+                "24": 16,
+                "7": 2,
+                "9": 66
+            }
+        },
+        "school_name": "NİMETULLAH MAHRUKİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1169,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/38690_cb_1093771923_1684087376125775982.jpg",
+            "submission_id": 331908,
+            "total_vote": 337,
+            "votes": {
+                "1": 72,
+                "2": 0,
+                "3": 238,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/38690_cb_1093771923_1684087285629768550.jpg",
+            "submission_id": 328946,
+            "total_vote": 333,
+            "votes": {
+                "10": 8,
+                "11": 17,
+                "12": 1,
+                "13": 15,
+                "14": 0,
+                "15": 0,
+                "20": 0,
+                "21": 167,
+                "22": 55,
+                "23": 0,
+                "24": 18,
+                "7": 2,
+                "8": 1,
+                "9": 49
+            }
+        },
+        "school_name": "NİMETULLAH MAHRUKİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1168,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/64947_cb_1093771922_1684087021211237851.jpg",
+            "submission_id": 319703,
+            "total_vote": 328,
+            "votes": {
+                "1": 94,
+                "2": 2,
+                "3": 209,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/64947_mv_1083771922_1684087053193817618.jpg",
+            "submission_id": 320813,
+            "total_vote": 325,
+            "votes": {
+                "10": 8,
+                "11": 9,
+                "12": 1,
+                "13": 11,
+                "21": 129,
+                "22": 67,
+                "24": 14,
+                "7": 8,
+                "8": 3,
+                "9": 75
+            }
+        },
+        "school_name": "NİMETULLAH MAHRUKİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1174,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/64947_cb_1093771928_1684091194168763062.jpg",
+            "submission_id": 435716,
+            "total_vote": 329,
+            "votes": {
+                "1": 64,
+                "2": 2,
+                "3": 237,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/64947_mv_1083771928_1684091114832530232.jpg",
+            "submission_id": 434203,
+            "total_vote": 326,
+            "votes": {
+                "1": 0,
+                "10": 8,
+                "11": 15,
+                "12": 1,
+                "13": 6,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 149,
+                "22": 83,
+                "23": 1,
+                "24": 18,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 41
+            }
+        },
+        "school_name": "NİMETULLAH MAHRUKİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1173,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/64947_cb_1093771927_1684088061931685447.jpg",
+            "submission_id": 353973,
+            "total_vote": 339,
+            "votes": {
+                "1": 74,
+                "2": 0,
+                "3": 242,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/38690_mv_1083771927_1684088783901859079.jpg",
+            "submission_id": 376155,
+            "total_vote": 336,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 15,
+                "12": 0,
+                "13": 12,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "2": 0,
+                "20": 0,
+                "21": 163,
+                "22": 54,
+                "23": 1,
+                "24": 21,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 8,
+                "8": 2,
+                "9": 55
+            }
+        },
+        "school_name": "NİMETULLAH MAHRUKİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1172,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/64947_cb_1093771926_1684087531776618105.jpg",
+            "submission_id": 336923,
+            "total_vote": 337,
+            "votes": {
+                "1": 86,
+                "3": 215,
+                "4": 36
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/64947_mv_1083771926_1684088224366657854.jpg",
+            "submission_id": 359025,
+            "total_vote": 328,
+            "votes": {
+                "1": 0,
+                "10": 11,
+                "11": 21,
+                "12": 1,
+                "13": 10,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 1,
+                "21": 125,
+                "22": 75,
+                "23": 0,
+                "24": 22,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 2,
+                "8": 1,
+                "9": 56
+            }
+        },
+        "school_name": "NİMETULLAH MAHRUKİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1176,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/64947_cb_1093771930_1684087392509321589.jpg",
+            "submission_id": 332464,
+            "total_vote": 333,
+            "votes": {
+                "1": 98,
+                "2": 1,
+                "3": 198,
+                "4": 36
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/64947_mv_1083771920_1684087423200967241.jpg",
+            "submission_id": 333424,
+            "total_vote": 330,
+            "votes": {
+                "1": 0,
+                "10": 11,
+                "11": 21,
+                "12": 0,
+                "13": 23,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 122,
+                "22": 52,
+                "23": 0,
+                "24": 21,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 7,
+                "8": 2,
+                "9": 68
+            }
+        },
+        "school_name": "NİMETULLAH MAHRUKİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1167,
+        "cm_result": {
+            "image_url": "https://source1-secim-images.oyveotesi.org/raw/1001984_cb_3771921_1684083815.jpeg",
+            "submission_id": 224537,
+            "total_vote": 322,
+            "votes": {
+                "1": 91,
+                "2": 0,
+                "3": 209,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/64947_mv_1083771921_1684087087520334193.jpg",
+            "submission_id": 322097,
+            "total_vote": 321,
+            "votes": {
+                "1": 1,
+                "10": 5,
+                "11": 23,
+                "12": 4,
+                "13": 8,
+                "14": 1,
+                "18": 1,
+                "21": 121,
+                "22": 71,
+                "24": 17,
+                "7": 9,
+                "8": 1,
+                "9": 59
+            }
+        },
+        "school_name": "NİMETULLAH MAHRUKİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1170,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/64947_cb_1093771924_1684081857570241676.jpg",
+            "submission_id": 193026,
+            "total_vote": 321,
+            "votes": {
+                "1": 78,
+                "3": 196,
+                "4": 47
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/70860_mv_1083771924_1684090154691385188.jpg",
+            "submission_id": 413487,
+            "total_vote": 320,
+            "votes": {
+                "1": 0,
+                "10": 8,
+                "11": 28,
+                "12": 4,
+                "13": 11,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 114,
+                "22": 71,
+                "23": 1,
+                "24": 19,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 11,
+                "8": 1,
+                "9": 49
+            }
+        },
+        "school_name": "NİMETULLAH MAHRUKİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1166,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/64947_cb_1093771920_1684087170767824010.jpg",
+            "submission_id": 325002,
+            "total_vote": 309,
+            "votes": {
+                "1": 74,
+                "3": 225,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/38690_mv_1083771920_1684089022793395725.jpg",
+            "submission_id": 383199,
+            "total_vote": 302,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 19,
+                "12": 2,
+                "13": 8,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 166,
+                "22": 44,
+                "23": 0,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 2,
+                "9": 44
+            }
+        },
+        "school_name": "NİMETULLAH MAHRUKİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1177,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/64947_cb_1093771931_1684088278054120558.jpg",
+            "submission_id": 360646,
+            "total_vote": 327,
+            "votes": {
+                "1": 66,
+                "2": 4,
+                "3": 231,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/76435_bulk_999999999_1684089814482788326.jpeg",
+            "submission_id": 404861,
+            "total_vote": 329,
+            "votes": {
+                "10": 3,
+                "11": 14,
+                "12": 2,
+                "13": 14,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "19": 2,
+                "20": 0,
+                "21": 138,
+                "22": 76,
+                "23": 0,
+                "24": 21,
+                "5": 1,
+                "6": 0,
+                "7": 4,
+                "8": 0,
+                "9": 54
+            }
+        },
+        "school_name": "NİMETULLAH MAHRUKİ İLKOKULU"
+    }
+]

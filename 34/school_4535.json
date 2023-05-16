@@ -1,0 +1,657 @@
+[
+    {
+        "ballot_box_number": 1060,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1132_cb_1093616173_1684090759737563888.jpg",
+            "submission_id": 426833,
+            "total_vote": 323,
+            "votes": {
+                "1": 125,
+                "2": 1,
+                "3": 177,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/71170_cb_1093616173_1684090569646265328.jpg",
+            "submission_id": 423017,
+            "total_vote": 316,
+            "votes": {
+                "1": 0,
+                "10": 8,
+                "11": 22,
+                "12": 12,
+                "13": 13,
+                "14": 0,
+                "15": 1,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 112,
+                "22": 39,
+                "24": 13,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 1,
+                "9": 90
+            }
+        },
+        "school_name": "İNÖNÜ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1063,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/41177_cb_1093616656_1684086178691605565.jpg",
+            "submission_id": 290739,
+            "total_vote": 338,
+            "votes": {
+                "1": 134,
+                "3": 190,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1132_bulk_999999999_1684088892923967269.jpg",
+            "submission_id": 379337,
+            "total_vote": 331,
+            "votes": {
+                "1": 0,
+                "10": 12,
+                "11": 14,
+                "12": 11,
+                "13": 18,
+                "14": 1,
+                "15": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 120,
+                "22": 30,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 2,
+                "7": 4,
+                "8": 1,
+                "9": 104
+            }
+        },
+        "school_name": "İNÖNÜ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1065,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/9365_cb_1093616658_1684079628249182621.jpg",
+            "submission_id": 177705,
+            "total_vote": 312,
+            "votes": {
+                "1": 108,
+                "2": 0,
+                "3": 192,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1132_mv_1083616658_1684087033694159167.jpg",
+            "submission_id": 320145,
+            "total_vote": 304,
+            "votes": {
+                "10": 8,
+                "11": 17,
+                "12": 23,
+                "13": 13,
+                "14": 0,
+                "15": 3,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "20": 1,
+                "21": 107,
+                "22": 40,
+                "24": 9,
+                "5": 0,
+                "6": 3,
+                "7": 5,
+                "8": 2,
+                "9": 72
+            }
+        },
+        "school_name": "İNÖNÜ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1051,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/9365_cb_1093616164_1684082631132016502.jpg",
+            "submission_id": 202807,
+            "total_vote": 293,
+            "votes": {
+                "1": 110,
+                "2": 2,
+                "3": 175,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/9365_mv_1083616164_1684082684136175199.jpg",
+            "submission_id": 203587,
+            "total_vote": 290,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 10,
+                "12": 6,
+                "13": 7,
+                "14": 1,
+                "15": 1,
+                "18": 1,
+                "19": 2,
+                "2": 1,
+                "20": 1,
+                "21": 130,
+                "22": 32,
+                "24": 3,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "7": 1,
+                "8": 2,
+                "9": 86
+            }
+        },
+        "school_name": "İNÖNÜ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1052,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1132_cb_1093616165_1684084752983471535.jpg",
+            "submission_id": 247283,
+            "total_vote": 302,
+            "votes": {
+                "1": 102,
+                "2": 1,
+                "3": 191,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1132_mv_1083616165_1684084695066407123.jpg",
+            "submission_id": 245754,
+            "total_vote": 298,
+            "votes": {
+                "10": 4,
+                "11": 12,
+                "12": 10,
+                "13": 21,
+                "14": 0,
+                "15": 0,
+                "17": 1,
+                "18": 0,
+                "19": 1,
+                "20": 0,
+                "21": 125,
+                "22": 29,
+                "24": 13,
+                "5": 1,
+                "6": 2,
+                "7": 3,
+                "8": 1,
+                "9": 75
+            }
+        },
+        "school_name": "İNÖNÜ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1062,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11817_cb_1093616655_1684085702575085107.jpg",
+            "submission_id": 275147,
+            "total_vote": 312,
+            "votes": {
+                "1": 126,
+                "2": 1,
+                "3": 177,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1132_bulk_999999999_1684087784425504207.jpg",
+            "submission_id": 345089,
+            "total_vote": 305,
+            "votes": {
+                "1": 2,
+                "10": 7,
+                "11": 15,
+                "12": 22,
+                "13": 14,
+                "14": 0,
+                "15": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 117,
+                "22": 21,
+                "24": 4,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 6,
+                "8": 4,
+                "9": 90
+            }
+        },
+        "school_name": "İNÖNÜ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1061,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1132_cb_1093616174_1684084261032328961.jpg",
+            "submission_id": 234555,
+            "total_vote": 329,
+            "votes": {
+                "1": 124,
+                "2": 0,
+                "3": 199,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1132_mv_1083616174_1684085606908829456.jpg",
+            "submission_id": 272025,
+            "total_vote": 327,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 10,
+                "12": 21,
+                "13": 18,
+                "14": 0,
+                "15": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 130,
+                "22": 32,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 4,
+                "8": 0,
+                "9": 99
+            }
+        },
+        "school_name": "İNÖNÜ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1058,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1132_bulk_999999999_1684089134296762461.jpg",
+            "submission_id": 386231,
+            "total_vote": 308,
+            "votes": {
+                "1": 118,
+                "2": 2,
+                "3": 164,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1132_bulk_999999999_1684089107905846704.jpg",
+            "submission_id": 385576,
+            "total_vote": 311,
+            "votes": {
+                "10": 6,
+                "11": 23,
+                "12": 9,
+                "13": 12,
+                "15": 0,
+                "21": 105,
+                "24": 50,
+                "6": 7,
+                "7": 7,
+                "8": 4,
+                "9": 88
+            }
+        },
+        "school_name": "İNÖNÜ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1053,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/9365_cb_1093616166_1684082061410244189.jpg",
+            "submission_id": 195369,
+            "total_vote": 324,
+            "votes": {
+                "1": 142,
+                "2": 1,
+                "3": 154,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1132_mv_1083616166_1684084606622098726.jpg",
+            "submission_id": 243297,
+            "total_vote": 323,
+            "votes": {
+                "1": 1,
+                "10": 8,
+                "11": 31,
+                "12": 9,
+                "13": 10,
+                "14": 2,
+                "21": 92,
+                "22": 47,
+                "24": 19,
+                "3": 1,
+                "6": 3,
+                "7": 1,
+                "8": 4,
+                "9": 95
+            }
+        },
+        "school_name": "İNÖNÜ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1057,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/9013_cb_1093616170_1684087583443779379.jpg",
+            "submission_id": 338577,
+            "total_vote": 319,
+            "votes": {
+                "1": 122,
+                "2": 1,
+                "3": 178,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/9013_mv_1083616170_1684087739933076905.jpg",
+            "submission_id": 343668,
+            "total_vote": 315,
+            "votes": {
+                "1": 1,
+                "10": 12,
+                "11": 14,
+                "12": 13,
+                "13": 19,
+                "15": 1,
+                "21": 113,
+                "22": 32,
+                "24": 13,
+                "3": 1,
+                "7": 4,
+                "8": 2,
+                "9": 90
+            }
+        },
+        "school_name": "İNÖNÜ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1059,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1132_cb_1093616172_1684084477981553451.jpg",
+            "submission_id": 239942,
+            "total_vote": 325,
+            "votes": {
+                "1": 133,
+                "3": 179,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1132_mv_1083616172_1684085418554751659.jpg",
+            "submission_id": 266207,
+            "total_vote": 322,
+            "votes": {
+                "1": 1,
+                "10": 9,
+                "11": 18,
+                "12": 15,
+                "13": 25,
+                "14": 0,
+                "15": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 114,
+                "22": 26,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 4,
+                "8": 2,
+                "9": 97
+            }
+        },
+        "school_name": "İNÖNÜ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1054,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1132_mv_1083616167_1684084882273625093.jpg",
+            "submission_id": 250812,
+            "total_vote": 311,
+            "votes": {
+                "1": 99,
+                "3": 199,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d1cbae0e-355b-4bfe-babb-65b943828c2a-1684105954599249295.jpeg",
+            "submission_id": 717415,
+            "total_vote": 304,
+            "votes": {
+                "10": 3,
+                "11": 16,
+                "12": 19,
+                "13": 13,
+                "14": 1,
+                "19": 3,
+                "20": 1,
+                "21": 128,
+                "22": 35,
+                "24": 4,
+                "3": 1,
+                "6": 1,
+                "7": 6,
+                "9": 73
+            }
+        },
+        "school_name": "İNÖNÜ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1055,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1132_bulk_999999999_1684087174374780718.jpg",
+            "submission_id": 325167,
+            "total_vote": 324,
+            "votes": {
+                "1": 149,
+                "3": 156,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/1132_bulk_999999999_1684087502673088116.jpg",
+            "submission_id": 335997,
+            "total_vote": 319,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 116,
+                "12": 7,
+                "13": 20,
+                "14": 23,
+                "15": 18,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 82,
+                "22": 26,
+                "23": 0,
+                "24": 17,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 2,
+                "9": 5
+            }
+        },
+        "school_name": "İNÖNÜ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1056,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/9365_cb_1093616169_1684082884353812256.jpg",
+            "submission_id": 206793,
+            "total_vote": 308,
+            "votes": {
+                "1": 116,
+                "2": 1,
+                "3": 176,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/9365_mv_1083616169_1684083089156206396.jpg",
+            "submission_id": 210229,
+            "total_vote": 307,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 28,
+                "12": 15,
+                "13": 16,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 109,
+                "22": 33,
+                "23": 0,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 3,
+                "7": 4,
+                "8": 2,
+                "9": 78
+            }
+        },
+        "school_name": "İNÖNÜ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1064,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1132_cb_1093616657_1684090609892341992.jpg",
+            "submission_id": 423807,
+            "total_vote": 320,
+            "votes": {
+                "1": 118,
+                "3": 188,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "İNÖNÜ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1066,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1132_cb_1093616659_1684082603518196036.jpg",
+            "submission_id": 202398,
+            "total_vote": 321,
+            "votes": {
+                "1": 133,
+                "3": 175,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1132_mv_1083616659_1684084114174489985.jpg",
+            "submission_id": 230722,
+            "total_vote": 314,
+            "votes": {
+                "10": 2,
+                "11": 15,
+                "12": 26,
+                "13": 17,
+                "15": 1,
+                "18": 1,
+                "19": 2,
+                "21": 98,
+                "22": 31,
+                "24": 6,
+                "7": 4,
+                "8": 1,
+                "9": 110
+            }
+        },
+        "school_name": "İNÖNÜ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1050,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/12576_cb_1093616163_1684083884145233341.jpg",
+            "submission_id": 225812,
+            "total_vote": 284,
+            "votes": {
+                "1": 119,
+                "2": 2,
+                "3": 150,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/12576_mv_1083616163_1684083356617701238.jpg",
+            "submission_id": 215008,
+            "total_vote": 275,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 13,
+                "12": 5,
+                "13": 7,
+                "15": 1,
+                "19": 2,
+                "20": 1,
+                "21": 111,
+                "22": 29,
+                "24": 10,
+                "7": 2,
+                "8": 2,
+                "9": 89
+            }
+        },
+        "school_name": "İNÖNÜ İLKOKULU"
+    }
+]

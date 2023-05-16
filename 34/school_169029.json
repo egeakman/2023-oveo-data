@@ -1,0 +1,92 @@
+[
+    {
+        "ballot_box_number": 1220,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/52097_cb_1093775311_1684093088357666751.jpg",
+            "submission_id": 465120,
+            "total_vote": 289,
+            "votes": {
+                "1": 131,
+                "2": 2,
+                "3": 152,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/52097_mv_1083775311_1684092724520967137.jpg",
+            "submission_id": 460175,
+            "total_vote": 286,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 20,
+                "12": 4,
+                "13": 18,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 107,
+                "22": 23,
+                "23": 0,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "6": 0,
+                "7": 3,
+                "8": 1,
+                "9": 101
+            }
+        },
+        "school_name": "ÖRNEK ÇINAR KAFE KIRAATHANESİ"
+    },
+    {
+        "ballot_box_number": 1219,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/47908_bulk_999999999_1684100759335239269.jpg",
+            "submission_id": 538352,
+            "total_vote": 297,
+            "votes": {
+                "1": 180,
+                "2": 2,
+                "3": 96,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/47908_bulk_999999999_1684100803447441308.jpg",
+            "submission_id": 538547,
+            "total_vote": 296,
+            "votes": {
+                "1": 1,
+                "10": 8,
+                "11": 36,
+                "12": 4,
+                "13": 2,
+                "14": 2,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 71,
+                "22": 16,
+                "23": 0,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 3,
+                "9": 142
+            }
+        },
+        "school_name": "ÖRNEK ÇINAR KAFE KIRAATHANESİ"
+    }
+]

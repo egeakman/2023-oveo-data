@@ -1,0 +1,18 @@
+[
+    {
+        "ballot_box_number": 1101,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/342_bulk_999999999_1684096555896117446.jpg",
+            "submission_id": 513581,
+            "total_vote": 338,
+            "votes": {
+                "1": 245,
+                "2": 2,
+                "3": 76,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "ORUÇOĞLU AVCILIK VE ATCILIK DERNEĞİ"
+    }
+]

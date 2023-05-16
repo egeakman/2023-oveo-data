@@ -1,0 +1,703 @@
+[
+    {
+        "ballot_box_number": 3239,
+        "cm_result": {
+            "image_url": "https://source1-secim-images.oyveotesi.org/raw/1040330_cb_3787895_1684090709.jpeg",
+            "submission_id": 425811,
+            "total_vote": 328,
+            "votes": {
+                "1": 225,
+                "2": 1,
+                "3": 85,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/61870_bulk_999999999_1684253229060141164.jpg",
+            "submission_id": 1032108,
+            "total_vote": 322,
+            "votes": {
+                "1": 0,
+                "10": 14,
+                "11": 29,
+                "12": 18,
+                "13": 3,
+                "14": 0,
+                "15": 9,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 43,
+                "22": 21,
+                "24": 13,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 1,
+                "9": 166
+            }
+        },
+        "school_name": "KOCAYUSUF İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3243,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/50294_bulk_999999999_1684093218988288846.jpeg",
+            "submission_id": 467094,
+            "total_vote": 343,
+            "votes": {
+                "1": 211,
+                "2": 0,
+                "3": 115,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/50294_bulk_999999999_1684093219380731532.jpeg",
+            "submission_id": 467102,
+            "total_vote": 334,
+            "votes": {
+                "10": 16,
+                "11": 25,
+                "12": 25,
+                "13": 11,
+                "14": 0,
+                "15": 2,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 50,
+                "22": 28,
+                "24": 14,
+                "3": 0,
+                "7": 2,
+                "8": 3,
+                "9": 158
+            }
+        },
+        "school_name": "KOCAYUSUF İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3236,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/50294_bulk_999999999_1684086982430142735.jpeg",
+            "submission_id": 318321,
+            "total_vote": 330,
+            "votes": {
+                "1": 231,
+                "3": 90,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/50294_bulk_999999999_1684086636695821508.jpeg",
+            "submission_id": 306269,
+            "total_vote": 317,
+            "votes": {
+                "1": 1,
+                "10": 17,
+                "11": 27,
+                "12": 17,
+                "13": 4,
+                "14": 0,
+                "15": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 51,
+                "22": 13,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 5,
+                "8": 1,
+                "9": 171
+            }
+        },
+        "school_name": "KOCAYUSUF İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3245,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/61812_cb_1093787901_1684090514153573393.jpg",
+            "submission_id": 421667,
+            "total_vote": 333,
+            "votes": {
+                "1": 204,
+                "2": 1,
+                "3": 114,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/61812_mv_1083787901_1684092193674192126.jpg",
+            "submission_id": 452376,
+            "total_vote": 321,
+            "votes": {
+                "1": 0,
+                "10": 18,
+                "11": 29,
+                "12": 40,
+                "13": 6,
+                "14": 1,
+                "15": 2,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 55,
+                "22": 18,
+                "24": 10,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 2,
+                "9": 137
+            }
+        },
+        "school_name": "KOCAYUSUF İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3238,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/50294_bulk_999999999_1684098635069215922.jpeg",
+            "submission_id": 528397,
+            "total_vote": 347,
+            "votes": {
+                "1": 241,
+                "2": 1,
+                "3": 86,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/50294_bulk_999999999_1684256766734149135.jpeg",
+            "submission_id": 1032398,
+            "total_vote": 342,
+            "votes": {
+                "10": 28,
+                "11": 31,
+                "12": 24,
+                "13": 6,
+                "19": 1,
+                "21": 38,
+                "22": 20,
+                "24": 8,
+                "7": 4,
+                "8": 1,
+                "9": 181
+            }
+        },
+        "school_name": "KOCAYUSUF İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3246,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/50294_bulk_999999999_1684093218585437221.jpeg",
+            "submission_id": 467084,
+            "total_vote": 331,
+            "votes": {
+                "1": 204,
+                "3": 110,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/50294_bulk_999999999_1684093218435618321.jpeg",
+            "submission_id": 467081,
+            "total_vote": 325,
+            "votes": {
+                "1": 0,
+                "10": 18,
+                "11": 23,
+                "12": 27,
+                "13": 4,
+                "14": 1,
+                "15": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 45,
+                "22": 33,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 6,
+                "8": 1,
+                "9": 158
+            }
+        },
+        "school_name": "KOCAYUSUF İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3250,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/50294_bulk_999999999_1684087054415521346.jpeg",
+            "submission_id": 320870,
+            "total_vote": 340,
+            "votes": {
+                "1": 213,
+                "3": 96,
+                "4": 31
+            }
+        },
+        "mv_result": null,
+        "school_name": "KOCAYUSUF İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3234,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/50294_bulk_999999999_1684086859671141443.jpeg",
+            "submission_id": 314090,
+            "total_vote": 336,
+            "votes": {
+                "1": 232,
+                "3": 87,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/50294_bulk_999999999_1684086859761863108.jpeg",
+            "submission_id": 314094,
+            "total_vote": 327,
+            "votes": {
+                "10": 19,
+                "11": 29,
+                "12": 15,
+                "13": 5,
+                "21": 42,
+                "22": 20,
+                "24": 11,
+                "5": 1,
+                "7": 3,
+                "8": 1,
+                "9": 181
+            }
+        },
+        "school_name": "KOCAYUSUF İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3240,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/61870_cb_1093787896_1684087861679259235.jpg",
+            "submission_id": 347435,
+            "total_vote": 338,
+            "votes": {
+                "1": 221,
+                "3": 101,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/61870_mv_1083787896_1684087971157054358.jpg",
+            "submission_id": 350956,
+            "total_vote": 332,
+            "votes": {
+                "10": 11,
+                "11": 19,
+                "12": 20,
+                "13": 12,
+                "14": 2,
+                "21": 53,
+                "22": 11,
+                "24": 9,
+                "7": 7,
+                "8": 4,
+                "9": 184
+            }
+        },
+        "school_name": "KOCAYUSUF İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3244,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/50294_bulk_999999999_1684086982269584548.jpeg",
+            "submission_id": 318316,
+            "total_vote": 331,
+            "votes": {
+                "1": 192,
+                "2": 0,
+                "3": 120,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/61870_bulk_999999999_1684253228930128633.jpg",
+            "submission_id": 1032106,
+            "total_vote": 320,
+            "votes": {
+                "1": 0,
+                "10": 11,
+                "11": 27,
+                "12": 23,
+                "13": 6,
+                "14": 0,
+                "15": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 64,
+                "22": 33,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 0,
+                "7": 1,
+                "8": 7,
+                "9": 134
+            }
+        },
+        "school_name": "KOCAYUSUF İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3231,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/50294_bulk_999999999_1684086982179923320.jpeg",
+            "submission_id": 318313,
+            "total_vote": 318,
+            "votes": {
+                "1": 196,
+                "2": 1,
+                "3": 115,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/50294_bulk_999999999_1684086982358084626.jpeg",
+            "submission_id": 318319,
+            "total_vote": 311,
+            "votes": {
+                "1": 1,
+                "10": 15,
+                "11": 17,
+                "12": 18,
+                "13": 7,
+                "14": 1,
+                "15": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 66,
+                "22": 17,
+                "24": 6,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 3,
+                "7": 2,
+                "8": 3,
+                "9": 152
+            }
+        },
+        "school_name": "KOCAYUSUF İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3232,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/23ba66e5-deb2-4754-be1e-3b0c05115159-1684106272210470955.jpg",
+            "submission_id": 765028,
+            "total_vote": 310,
+            "votes": {
+                "1": 189,
+                "2": 3,
+                "3": 98,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/50294_bulk_999999999_1684086702561894785.jpeg",
+            "submission_id": 308593,
+            "total_vote": 303,
+            "votes": {
+                "1": 2,
+                "10": 21,
+                "11": 26,
+                "12": 30,
+                "13": 2,
+                "15": 1,
+                "17": 1,
+                "19": 1,
+                "21": 43,
+                "22": 26,
+                "24": 9,
+                "6": 1,
+                "7": 2,
+                "8": 4,
+                "9": 134
+            }
+        },
+        "school_name": "KOCAYUSUF İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3237,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/50294_bulk_999999999_1684090462499481414.jpeg",
+            "submission_id": 420463,
+            "total_vote": 334,
+            "votes": {
+                "1": 219,
+                "2": 0,
+                "3": 92,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/61870_bulk_999999999_1684253229142651721.jpg",
+            "submission_id": 1032109,
+            "total_vote": 329,
+            "votes": {
+                "1": 0,
+                "10": 12,
+                "11": 24,
+                "12": 6,
+                "13": 8,
+                "14": 0,
+                "15": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 60,
+                "22": 20,
+                "24": 13,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 4,
+                "9": 176
+            }
+        },
+        "school_name": "KOCAYUSUF İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3242,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/50294_bulk_999999999_1684086859981697546.jpeg",
+            "submission_id": 314113,
+            "total_vote": 329,
+            "votes": {
+                "1": 184,
+                "3": 134,
+                "4": 11
+            }
+        },
+        "mv_result": null,
+        "school_name": "KOCAYUSUF İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3247,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/50294_bulk_999999999_1684086582260981716.jpeg",
+            "submission_id": 304423,
+            "total_vote": 327,
+            "votes": {
+                "1": 206,
+                "3": 99,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/50294_bulk_999999999_1684089481507256383.jpeg",
+            "submission_id": 395748,
+            "total_vote": 321,
+            "votes": {
+                "10": 15,
+                "11": 33,
+                "12": 25,
+                "13": 6,
+                "18": 2,
+                "21": 48,
+                "22": 18,
+                "24": 11,
+                "4": 1,
+                "6": 1,
+                "7": 3,
+                "8": 3,
+                "9": 155
+            }
+        },
+        "school_name": "KOCAYUSUF İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3249,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/50294_bulk_999999999_1684086860392297502.jpeg",
+            "submission_id": 314130,
+            "total_vote": 333,
+            "votes": {
+                "1": 194,
+                "2": 0,
+                "3": 119,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/50294_bulk_999999999_1684086860424543695.jpeg",
+            "submission_id": 314136,
+            "total_vote": 326,
+            "votes": {
+                "10": 14,
+                "11": 23,
+                "12": 17,
+                "13": 6,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 65,
+                "22": 33,
+                "24": 12,
+                "3": 1,
+                "4": 0,
+                "7": 2,
+                "8": 8,
+                "9": 143
+            }
+        },
+        "school_name": "KOCAYUSUF İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3241,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/50294_bulk_999999999_1684086982033733250.jpeg",
+            "submission_id": 318307,
+            "total_vote": 342,
+            "votes": {
+                "1": 226,
+                "2": 1,
+                "3": 97,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/50294_bulk_999999999_1684089481613965021.jpeg",
+            "submission_id": 395751,
+            "total_vote": 333,
+            "votes": {
+                "10": 23,
+                "11": 28,
+                "12": 14,
+                "13": 5,
+                "14": 1,
+                "15": 0,
+                "17": 0,
+                "18": 0,
+                "21": 55,
+                "22": 20,
+                "24": 12,
+                "6": 0,
+                "7": 4,
+                "8": 6,
+                "9": 165
+            }
+        },
+        "school_name": "KOCAYUSUF İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3233,
+        "cm_result": {
+            "image_url": "https://source1-secim-images.oyveotesi.org/raw/1040330_cb_3787769_1684082218.jpeg",
+            "submission_id": 197337,
+            "total_vote": 331,
+            "votes": {
+                "1": 205,
+                "2": 1,
+                "3": 102,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "KOCAYUSUF İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3248,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/50294_bulk_999999999_1684086982467004140.jpeg",
+            "submission_id": 318325,
+            "total_vote": 343,
+            "votes": {
+                "1": 228,
+                "2": 0,
+                "3": 100,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/50294_bulk_999999999_1684097931630673290.jpeg",
+            "submission_id": 524111,
+            "total_vote": 328,
+            "votes": {
+                "10": 19,
+                "11": 26,
+                "12": 22,
+                "13": 6,
+                "14": 1,
+                "19": 1,
+                "21": 39,
+                "22": 27,
+                "24": 10,
+                "7": 3,
+                "8": 3,
+                "9": 171
+            }
+        },
+        "school_name": "KOCAYUSUF İLKOKULU"
+    },
+    {
+        "ballot_box_number": 3235,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/50294_bulk_999999999_1684098223224488345.jpeg",
+            "submission_id": 525921,
+            "total_vote": 340,
+            "votes": {
+                "1": 228,
+                "2": 1,
+                "3": 91,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/1766d6ac-2470-41df-87ff-caea1c02b411-1684106490732711959.jpg",
+            "submission_id": 795304,
+            "total_vote": 335,
+            "votes": {
+                "10": 23,
+                "11": 34,
+                "12": 15,
+                "13": 2,
+                "21": 49,
+                "22": 22,
+                "24": 10,
+                "5": 1,
+                "7": 5,
+                "8": 2,
+                "9": 172
+            }
+        },
+        "school_name": "KOCAYUSUF İLKOKULU"
+    }
+]

@@ -1,0 +1,783 @@
+[
+    {
+        "ballot_box_number": 2249,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/4302_bulk_999999999_1684089584932180560.jpeg",
+            "submission_id": 398655,
+            "total_vote": 317,
+            "votes": {
+                "1": 147,
+                "2": 1,
+                "3": 162,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/55632_bulk_999999999_1684088455134705023.jpeg",
+            "submission_id": 366085,
+            "total_vote": 313,
+            "votes": {
+                "1": 1,
+                "10": 7,
+                "11": 16,
+                "12": 20,
+                "13": 18,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 91,
+                "22": 30,
+                "23": 2,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 1,
+                "8": 3,
+                "9": 116
+            }
+        },
+        "school_name": "TOKİ ŞEHİT MUSTAFA KARTAL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2260,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/68834_bulk_999999999_1684084690723515132.jpeg",
+            "submission_id": 245630,
+            "total_vote": 329,
+            "votes": {
+                "1": 140,
+                "2": 3,
+                "3": 166,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/4302_bulk_999999999_1684084841478659449.jpeg",
+            "submission_id": 249668,
+            "total_vote": 327,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 23,
+                "12": 22,
+                "13": 15,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 90,
+                "22": 45,
+                "23": 0,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 0,
+                "8": 3,
+                "9": 109
+            }
+        },
+        "school_name": "TOKİ ŞEHİT MUSTAFA KARTAL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2251,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/79428_cb_1093784185_1684088609268801499.jpg",
+            "submission_id": 370883,
+            "total_vote": 345,
+            "votes": {
+                "1": 148,
+                "2": 2,
+                "3": 173,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "TOKİ ŞEHİT MUSTAFA KARTAL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2263,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/60587_cb_1093784317_1684088234977756603.jpg",
+            "submission_id": 359303,
+            "total_vote": 339,
+            "votes": {
+                "1": 148,
+                "2": 1,
+                "3": 174,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/60587_mv_1083784317_1684088287597429106.jpg",
+            "submission_id": 360917,
+            "total_vote": 337,
+            "votes": {
+                "10": 8,
+                "11": 22,
+                "12": 38,
+                "13": 19,
+                "14": 1,
+                "15": 0,
+                "20": 0,
+                "21": 88,
+                "22": 28,
+                "23": 1,
+                "24": 13,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 4,
+                "9": 111
+            }
+        },
+        "school_name": "TOKİ ŞEHİT MUSTAFA KARTAL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2262,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5641_cb_1093784316_1684086659327340493.jpg",
+            "submission_id": 307055,
+            "total_vote": 355,
+            "votes": {
+                "1": 171,
+                "2": 0,
+                "3": 168,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5641_mv_1083784316_1684086735197921054.jpg",
+            "submission_id": 309783,
+            "total_vote": 353,
+            "votes": {
+                "10": 10,
+                "11": 16,
+                "12": 27,
+                "13": 7,
+                "14": 1,
+                "15": 2,
+                "19": 1,
+                "21": 100,
+                "22": 28,
+                "23": 3,
+                "24": 12,
+                "5": 1,
+                "6": 1,
+                "7": 4,
+                "8": 4,
+                "9": 136
+            }
+        },
+        "school_name": "TOKİ ŞEHİT MUSTAFA KARTAL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2264,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5641_cb_1093784318_1684087268865587793.jpg",
+            "submission_id": 328362,
+            "total_vote": 344,
+            "votes": {
+                "1": 155,
+                "2": 0,
+                "3": 171,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "TOKİ ŞEHİT MUSTAFA KARTAL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2255,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/4302_bulk_999999999_1684090442775634617.jpeg",
+            "submission_id": 419988,
+            "total_vote": 343,
+            "votes": {
+                "1": 174,
+                "2": 1,
+                "3": 144,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/4302_bulk_999999999_1684090294600537125.jpeg",
+            "submission_id": 416778,
+            "total_vote": 346,
+            "votes": {
+                "1": 0,
+                "10": 8,
+                "11": 19,
+                "12": 15,
+                "13": 18,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 83,
+                "22": 29,
+                "23": 0,
+                "24": 19,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 5,
+                "7": 4,
+                "8": 6,
+                "9": 139
+            }
+        },
+        "school_name": "TOKİ ŞEHİT MUSTAFA KARTAL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2254,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4302_cb_1093784188_1684088089568160685.jpg",
+            "submission_id": 354852,
+            "total_vote": 355,
+            "votes": {
+                "1": 147,
+                "3": 183,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4302_mv_1083784188_1684088770330140116.jpg",
+            "submission_id": 375775,
+            "total_vote": 352,
+            "votes": {
+                "1": 0,
+                "10": 9,
+                "11": 25,
+                "12": 19,
+                "13": 14,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 94,
+                "22": 54,
+                "23": 0,
+                "24": 16,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 3,
+                "9": 110
+            }
+        },
+        "school_name": "TOKİ ŞEHİT MUSTAFA KARTAL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2252,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/79428_cb_1093784186_1684088531139218122.jpg",
+            "submission_id": 368478,
+            "total_vote": 337,
+            "votes": {
+                "1": 153,
+                "2": 3,
+                "3": 161,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/79428_mv_1083784186_1684088485220971905.jpg",
+            "submission_id": 367023,
+            "total_vote": 335,
+            "votes": {
+                "1": 0,
+                "10": 13,
+                "11": 20,
+                "12": 20,
+                "13": 12,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 7,
+                "21": 97,
+                "22": 21,
+                "23": 0,
+                "24": 18,
+                "3": 1,
+                "4": 0,
+                "5": 2,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 121
+            }
+        },
+        "school_name": "TOKİ ŞEHİT MUSTAFA KARTAL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2266,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/36560_cb_1093784320_1684095950999205535.jpg",
+            "submission_id": 508196,
+            "total_vote": 340,
+            "votes": {
+                "1": 164,
+                "2": 1,
+                "3": 157,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/36560_mv_1083784320_1684096007628128640.jpg",
+            "submission_id": 508719,
+            "total_vote": 335,
+            "votes": {
+                "10": 10,
+                "11": 27,
+                "12": 24,
+                "13": 17,
+                "21": 85,
+                "22": 31,
+                "23": 1,
+                "24": 9,
+                "3": 1,
+                "7": 5,
+                "8": 3,
+                "9": 122
+            }
+        },
+        "school_name": "TOKİ ŞEHİT MUSTAFA KARTAL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2253,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/822676a3-8e97-436c-af60-40bb8a8ca23c-1684105559718983413.jpg",
+            "submission_id": 658161,
+            "total_vote": 341,
+            "votes": {
+                "1": 153,
+                "2": 0,
+                "3": 174,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/4302_bulk_999999999_1684095396443664481.png",
+            "submission_id": 502601,
+            "total_vote": 334,
+            "votes": {
+                "10": 7,
+                "11": 24,
+                "12": 43,
+                "13": 8,
+                "21": 83,
+                "22": 33,
+                "23": 1,
+                "24": 11,
+                "4": 1,
+                "6": 1,
+                "7": 7,
+                "8": 4,
+                "9": 111
+            }
+        },
+        "school_name": "TOKİ ŞEHİT MUSTAFA KARTAL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2257,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/14365_cb_1093784191_1684090756625754541.jpg",
+            "submission_id": 426771,
+            "total_vote": 339,
+            "votes": {
+                "1": 177,
+                "3": 146,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4302_mv_1083784191_1684091272801542228.jpg",
+            "submission_id": 437241,
+            "total_vote": 337,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 38,
+                "12": 27,
+                "13": 14,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 79,
+                "22": 31,
+                "23": 1,
+                "24": 8,
+                "3": 2,
+                "4": 0,
+                "5": 2,
+                "6": 2,
+                "7": 4,
+                "8": 1,
+                "9": 120
+            }
+        },
+        "school_name": "TOKİ ŞEHİT MUSTAFA KARTAL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2259,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4302_cb_1093784193_1684089195548039041.jpg",
+            "submission_id": 388019,
+            "total_vote": 336,
+            "votes": {
+                "1": 149,
+                "2": 1,
+                "3": 164,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4302_mv_1083784193_1684089253186443394.jpg",
+            "submission_id": 389632,
+            "total_vote": 332,
+            "votes": {
+                "1": 1,
+                "10": 6,
+                "11": 27,
+                "12": 35,
+                "13": 13,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 98,
+                "22": 28,
+                "23": 2,
+                "24": 13,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 3,
+                "8": 4,
+                "9": 101
+            }
+        },
+        "school_name": "TOKİ ŞEHİT MUSTAFA KARTAL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2258,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4302_cb_1093784192_1684092373553269915.jpg",
+            "submission_id": 455286,
+            "total_vote": 349,
+            "votes": {
+                "1": 154,
+                "2": 0,
+                "3": 182,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4302_mv_1083784192_1684092014027946251.jpg",
+            "submission_id": 449539,
+            "total_vote": 345,
+            "votes": {
+                "1": 0,
+                "10": 12,
+                "11": 20,
+                "12": 42,
+                "13": 13,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 90,
+                "22": 35,
+                "23": 0,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 4,
+                "9": 119
+            }
+        },
+        "school_name": "TOKİ ŞEHİT MUSTAFA KARTAL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2261,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4302_cb_1093784315_1684092684363681698.jpg",
+            "submission_id": 459621,
+            "total_vote": 341,
+            "votes": {
+                "1": 159,
+                "2": 0,
+                "3": 167,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4302_mv_1083784315_1684092911840772993.jpg",
+            "submission_id": 462791,
+            "total_vote": 333,
+            "votes": {
+                "10": 4,
+                "11": 18,
+                "12": 24,
+                "13": 10,
+                "19": 1,
+                "21": 92,
+                "22": 30,
+                "23": 1,
+                "24": 13,
+                "3": 2,
+                "5": 1,
+                "6": 1,
+                "7": 1,
+                "8": 2,
+                "9": 133
+            }
+        },
+        "school_name": "TOKİ ŞEHİT MUSTAFA KARTAL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2256,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11184_cb_1093784190_1684080550981242814.jpg",
+            "submission_id": 182333,
+            "total_vote": 342,
+            "votes": {
+                "1": 165,
+                "2": 1,
+                "3": 165,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/11184_mv_1083784190_1684086651839181081.jpg",
+            "submission_id": 306820,
+            "total_vote": 339,
+            "votes": {
+                "10": 7,
+                "11": 25,
+                "12": 30,
+                "13": 13,
+                "14": 1,
+                "19": 1,
+                "21": 95,
+                "22": 27,
+                "24": 10,
+                "7": 2,
+                "8": 2,
+                "9": 126
+            }
+        },
+        "school_name": "TOKİ ŞEHİT MUSTAFA KARTAL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2250,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/79428_cb_1093784184_1684088157430361122.jpg",
+            "submission_id": 357049,
+            "total_vote": 345,
+            "votes": {
+                "1": 147,
+                "3": 180,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/79428_mv_1083784184_1684088294350719257.jpg",
+            "submission_id": 361143,
+            "total_vote": 345,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 33,
+                "12": 24,
+                "13": 24,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "2": 1,
+                "21": 99,
+                "22": 33,
+                "24": 10,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 3,
+                "9": 107
+            }
+        },
+        "school_name": "TOKİ ŞEHİT MUSTAFA KARTAL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2265,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16493_cb_1093784319_1684090247227451137.jpg",
+            "submission_id": 415681,
+            "total_vote": 344,
+            "votes": {
+                "1": 139,
+                "2": 2,
+                "3": 188,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16493_mv_1083784319_1684093279491178525.jpg",
+            "submission_id": 467905,
+            "total_vote": 342,
+            "votes": {
+                "1": 1,
+                "10": 11,
+                "11": 9,
+                "12": 37,
+                "13": 18,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 101,
+                "22": 34,
+                "23": 1,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 8,
+                "9": 105
+            }
+        },
+        "school_name": "TOKİ ŞEHİT MUSTAFA KARTAL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2267,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/4302_cb_1093784321_1684086026645174727.jpg",
+            "submission_id": 285801,
+            "total_vote": 346,
+            "votes": {
+                "1": 165,
+                "3": 167,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/75846_mv_1083784321_1684087333138624393.jpg",
+            "submission_id": 330469,
+            "total_vote": 336,
+            "votes": {
+                "10": 6,
+                "11": 14,
+                "12": 39,
+                "13": 15,
+                "21": 76,
+                "22": 40,
+                "23": 2,
+                "24": 8,
+                "3": 1,
+                "5": 1,
+                "7": 2,
+                "8": 6,
+                "9": 126
+            }
+        },
+        "school_name": "TOKİ ŞEHİT MUSTAFA KARTAL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2248,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/4302_bulk_999999999_1684091564959028857.png",
+            "submission_id": 442228,
+            "total_vote": 320,
+            "votes": {
+                "1": 177,
+                "2": 3,
+                "3": 134,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/4302_bulk_999999999_1684090214394071651.jpeg",
+            "submission_id": 414871,
+            "total_vote": 317,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 18,
+                "12": 15,
+                "13": 4,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 6,
+                "18": 0,
+                "19": 0,
+                "2": 2,
+                "20": 0,
+                "21": 20,
+                "22": 28,
+                "23": 9,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 2,
+                "8": 5,
+                "9": 197
+            }
+        },
+        "school_name": "TOKİ ŞEHİT MUSTAFA KARTAL ORTAOKULU"
+    }
+]

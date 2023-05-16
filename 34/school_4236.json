@@ -1,0 +1,674 @@
+[
+    {
+        "ballot_box_number": 1334,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/83948_cb_1093788801_1684082659417722855.jpg",
+            "submission_id": 203234,
+            "total_vote": 346,
+            "votes": {
+                "1": 181,
+                "2": 3,
+                "3": 154,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/24463_mv_1083788801_1684087780809534290.jpg",
+            "submission_id": 344992,
+            "total_vote": 344,
+            "votes": {
+                "1": 0,
+                "10": 12,
+                "11": 25,
+                "12": 6,
+                "13": 8,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 90,
+                "22": 47,
+                "23": 0,
+                "24": 7,
+                "3": 1,
+                "4": 0,
+                "5": 3,
+                "6": 0,
+                "7": 7,
+                "8": 0,
+                "9": 136
+            }
+        },
+        "school_name": "RAMİ-ATATÜRK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1333,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/6531_cb_1093788800_1684082096686244296.jpg",
+            "submission_id": 195798,
+            "total_vote": 340,
+            "votes": {
+                "1": 179,
+                "2": 1,
+                "3": 139,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/24463_mv_1083788800_1684086002917899581.jpg",
+            "submission_id": 285019,
+            "total_vote": 337,
+            "votes": {
+                "10": 13,
+                "11": 17,
+                "12": 11,
+                "13": 7,
+                "21": 80,
+                "22": 44,
+                "23": 1,
+                "24": 14,
+                "6": 1,
+                "7": 9,
+                "8": 4,
+                "9": 136
+            }
+        },
+        "school_name": "RAMİ-ATATÜRK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1322,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/68434_bulk_999999999_1684086378943272094.jpeg",
+            "submission_id": 297317,
+            "total_vote": 337,
+            "votes": {
+                "1": 153,
+                "2": 1,
+                "3": 161,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/68434_bulk_999999999_1684086400678149707.jpeg",
+            "submission_id": 298057,
+            "total_vote": 336,
+            "votes": {
+                "1": 2,
+                "10": 21,
+                "11": 19,
+                "12": 3,
+                "13": 12,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 96,
+                "22": 45,
+                "23": 0,
+                "24": 20,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 6,
+                "8": 4,
+                "9": 104
+            }
+        },
+        "school_name": "RAMİ-ATATÜRK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1331,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/83948_cb_1093788798_1684083653411392445.jpg",
+            "submission_id": 220855,
+            "total_vote": 345,
+            "votes": {
+                "1": 158,
+                "3": 162,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/83948_mv_1083788798_1684083674974134537.jpg",
+            "submission_id": 221343,
+            "total_vote": 343,
+            "votes": {
+                "10": 26,
+                "11": 16,
+                "12": 7,
+                "13": 13,
+                "14": 1,
+                "21": 95,
+                "22": 53,
+                "23": 1,
+                "24": 11,
+                "7": 9,
+                "8": 5,
+                "9": 106
+            }
+        },
+        "school_name": "RAMİ-ATATÜRK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1326,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/70334_bulk_999999999_1684086706530459372.jpeg",
+            "submission_id": 308751,
+            "total_vote": 345,
+            "votes": {
+                "1": 173,
+                "2": 1,
+                "3": 157,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/34735_mv_1083788773_1684093844163340825.jpg",
+            "submission_id": 475259,
+            "total_vote": 345,
+            "votes": {
+                "10": 17,
+                "11": 20,
+                "12": 18,
+                "13": 10,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 82,
+                "22": 49,
+                "23": 0,
+                "24": 8,
+                "3": 0,
+                "5": 2,
+                "6": 0,
+                "7": 4,
+                "8": 1,
+                "9": 132
+            }
+        },
+        "school_name": "RAMİ-ATATÜRK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1330,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/6531_bulk_999999999_1684082540497866360.jpeg",
+            "submission_id": 201514,
+            "total_vote": 344,
+            "votes": {
+                "1": 187,
+                "3": 142,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/34735_mv_1083788797_1684090637852856004.jpg",
+            "submission_id": 424298,
+            "total_vote": 346,
+            "votes": {
+                "1": 1,
+                "10": 17,
+                "11": 17,
+                "12": 10,
+                "13": 5,
+                "15": 2,
+                "21": 94,
+                "22": 36,
+                "23": 2,
+                "24": 11,
+                "4": 1,
+                "7": 4,
+                "8": 2,
+                "9": 144
+            }
+        },
+        "school_name": "RAMİ-ATATÜRK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1324,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/6689_cb_1093788771_1684091544427705648.jpg",
+            "submission_id": 441892,
+            "total_vote": 341,
+            "votes": {
+                "1": 161,
+                "2": 0,
+                "3": 157,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/6689_mv_1083788771_1684092289916026334.jpg",
+            "submission_id": 453973,
+            "total_vote": 339,
+            "votes": {
+                "1": 1,
+                "10": 21,
+                "11": 14,
+                "12": 11,
+                "13": 15,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 85,
+                "22": 52,
+                "23": 1,
+                "24": 13,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 1,
+                "9": 119
+            }
+        },
+        "school_name": "RAMİ-ATATÜRK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1332,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/6531_cb_1093788799_1684082784019136694.jpg",
+            "submission_id": 205182,
+            "total_vote": 331,
+            "votes": {
+                "1": 157,
+                "2": 2,
+                "3": 146,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/54576_mv_1083788799_1684089623737213143.jpg",
+            "submission_id": 399702,
+            "total_vote": 325,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 13,
+                "12": 1,
+                "13": 12,
+                "14": 0,
+                "15": 1,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 90,
+                "22": 38,
+                "23": 1,
+                "24": 20,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 7,
+                "7": 3,
+                "8": 7,
+                "9": 125
+            }
+        },
+        "school_name": "RAMİ-ATATÜRK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1328,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/6531_cb_1093788795_1684086159513235577.jpg",
+            "submission_id": 290054,
+            "total_vote": 343,
+            "votes": {
+                "1": 156,
+                "2": 2,
+                "3": 156,
+                "4": 29
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/6531_mv_1083788795_1684093108134378934.jpg",
+            "submission_id": 465469,
+            "total_vote": 340,
+            "votes": {
+                "1": 1,
+                "10": 8,
+                "11": 19,
+                "12": 12,
+                "13": 12,
+                "20": 1,
+                "21": 89,
+                "22": 42,
+                "23": 1,
+                "24": 20,
+                "6": 3,
+                "7": 4,
+                "8": 2,
+                "9": 126
+            }
+        },
+        "school_name": "RAMİ-ATATÜRK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1319,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/54576_cb_1093788766_1684088428849514042.jpg",
+            "submission_id": 365312,
+            "total_vote": 288,
+            "votes": {
+                "1": 145,
+                "2": 3,
+                "3": 133,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/54576_mv_1083788766_1684088464772551004.jpg",
+            "submission_id": 366374,
+            "total_vote": 272,
+            "votes": {
+                "10": 6,
+                "11": 11,
+                "12": 4,
+                "13": 9,
+                "21": 75,
+                "22": 38,
+                "23": 1,
+                "24": 5,
+                "7": 4,
+                "8": 2,
+                "9": 117
+            }
+        },
+        "school_name": "RAMİ-ATATÜRK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1318,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/54576_cb_1093788765_1684090793367929508.jpg",
+            "submission_id": 427551,
+            "total_vote": 326,
+            "votes": {
+                "1": 149,
+                "2": 2,
+                "3": 158,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/6531_bulk_999999999_1684088275903350634.jpeg",
+            "submission_id": 360578,
+            "total_vote": 317,
+            "votes": {
+                "1": 0,
+                "10": 13,
+                "11": 15,
+                "12": 1,
+                "13": 1,
+                "14": 0,
+                "15": 3,
+                "16": 0,
+                "17": 1,
+                "18": 1,
+                "19": 0,
+                "2": 3,
+                "20": 1,
+                "21": 102,
+                "22": 42,
+                "23": 1,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 4,
+                "7": 6,
+                "8": 3,
+                "9": 112
+            }
+        },
+        "school_name": "RAMİ-ATATÜRK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1329,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/34735_cb_1093788796_1684093696178515516.jpg",
+            "submission_id": 472979,
+            "total_vote": 358,
+            "votes": {
+                "1": 178,
+                "2": 2,
+                "3": 156,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/34735_mv_1083788796_1684093672793805938.jpg",
+            "submission_id": 472712,
+            "total_vote": 352,
+            "votes": {
+                "10": 7,
+                "11": 25,
+                "12": 1,
+                "13": 11,
+                "20": 1,
+                "21": 94,
+                "22": 51,
+                "23": 1,
+                "24": 17,
+                "6": 2,
+                "7": 2,
+                "8": 3,
+                "9": 137
+            }
+        },
+        "school_name": "RAMİ-ATATÜRK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1323,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/6689_cb_1093788770_1684089477300887334.jpg",
+            "submission_id": 395643,
+            "total_vote": 349,
+            "votes": {
+                "1": 157,
+                "2": 1,
+                "3": 174,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/6689_mv_1083788770_1684089756877928644.jpg",
+            "submission_id": 403269,
+            "total_vote": 340,
+            "votes": {
+                "1": 1,
+                "10": 17,
+                "11": 13,
+                "12": 8,
+                "13": 10,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 110,
+                "22": 36,
+                "23": 0,
+                "24": 14,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 1,
+                "8": 1,
+                "9": 125
+            }
+        },
+        "school_name": "RAMİ-ATATÜRK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1321,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/68434_cb_1093788768_1684080500651405841.jpg",
+            "submission_id": 182060,
+            "total_vote": 345,
+            "votes": {
+                "1": 177,
+                "3": 143,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/68434_mv_1083788768_1684081238188606184.jpg",
+            "submission_id": 187133,
+            "total_vote": 342,
+            "votes": {
+                "10": 17,
+                "11": 23,
+                "12": 5,
+                "13": 8,
+                "21": 94,
+                "22": 45,
+                "23": 3,
+                "24": 11,
+                "6": 3,
+                "7": 5,
+                "9": 128
+            }
+        },
+        "school_name": "RAMİ-ATATÜRK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1320,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/54576_cb_1093788767_1684080822075978876.jpg",
+            "submission_id": 184010,
+            "total_vote": 319,
+            "votes": {
+                "1": 165,
+                "3": 138,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/54576_mv_1083788767_1684086637474193371.jpg",
+            "submission_id": 306295,
+            "total_vote": 321,
+            "votes": {
+                "1": 0,
+                "10": 13,
+                "11": 11,
+                "12": 3,
+                "13": 10,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 89,
+                "22": 40,
+                "23": 0,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 1,
+                "9": 140
+            }
+        },
+        "school_name": "RAMİ-ATATÜRK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1325,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/54044_bulk_999999999_1684084767429057268.jpeg",
+            "submission_id": 247698,
+            "total_vote": 346,
+            "votes": {
+                "1": 150,
+                "2": 0,
+                "3": 173,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/54044_bulk_999999999_1684084964058294663.jpeg",
+            "submission_id": 253062,
+            "total_vote": 342,
+            "votes": {
+                "1": 1,
+                "10": 14,
+                "11": 13,
+                "12": 14,
+                "13": 11,
+                "15": 1,
+                "20": 1,
+                "21": 115,
+                "22": 38,
+                "24": 10,
+                "7": 9,
+                "8": 3,
+                "9": 112
+            }
+        },
+        "school_name": "RAMİ-ATATÜRK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1327,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/6531_bulk_999999999_1684089509666809786.jpeg",
+            "submission_id": 396476,
+            "total_vote": 330,
+            "votes": {
+                "1": 169,
+                "3": 140,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/54949_mv_1083788774_1684090224993409517.jpg",
+            "submission_id": 415148,
+            "total_vote": 323,
+            "votes": {
+                "10": 21,
+                "11": 10,
+                "12": 11,
+                "13": 11,
+                "14": 1,
+                "21": 83,
+                "22": 35,
+                "23": 3,
+                "24": 8,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 135
+            }
+        },
+        "school_name": "RAMİ-ATATÜRK ANADOLU LİSESİ"
+    }
+]

@@ -1,0 +1,740 @@
+[
+    {
+        "ballot_box_number": 1126,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/50097_cb_1093685532_1684092088042675902.jpg",
+            "submission_id": 450715,
+            "total_vote": 307,
+            "votes": {
+                "1": 95,
+                "2": 0,
+                "3": 212,
+                "4": 0
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/50097_mv_1083685532_1684092017098254382.jpg",
+            "submission_id": 449606,
+            "total_vote": 325,
+            "votes": {
+                "1": 0,
+                "10": 12,
+                "11": 8,
+                "12": 22,
+                "13": 20,
+                "14": 0,
+                "15": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 133,
+                "22": 37,
+                "23": 0,
+                "24": 14,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 3,
+                "7": 3,
+                "8": 4,
+                "9": 68
+            }
+        },
+        "school_name": "SELAHATTİN EYYUBİ HAMZA SARUHAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1135,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/48964_cb_1093686481_1684085262657027510.jpg",
+            "submission_id": 261673,
+            "total_vote": 330,
+            "votes": {
+                "1": 91,
+                "3": 219,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/48964_bulk_999999999_1684087902734044535.jpeg",
+            "submission_id": 348759,
+            "total_vote": 329,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 1,
+                "12": 16,
+                "13": 14,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 137,
+                "22": 48,
+                "23": 1,
+                "24": 16,
+                "3": 11,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 2,
+                "9": 76
+            }
+        },
+        "school_name": "SELAHATTİN EYYUBİ HAMZA SARUHAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1130,
+        "cm_result": {
+            "image_url": "https://source1-secim-images.oyveotesi.org/raw/1001185_cb_3686476_1684083278.jpeg",
+            "submission_id": 213765,
+            "total_vote": 317,
+            "votes": {
+                "1": 95,
+                "3": 210,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/50097_mv_1083686476_1684089474724695152.jpg",
+            "submission_id": 395570,
+            "total_vote": 313,
+            "votes": {
+                "10": 5,
+                "11": 13,
+                "12": 16,
+                "13": 25,
+                "15": 1,
+                "21": 144,
+                "22": 26,
+                "23": 1,
+                "24": 5,
+                "3": 1,
+                "7": 3,
+                "8": 2,
+                "9": 71
+            }
+        },
+        "school_name": "SELAHATTİN EYYUBİ HAMZA SARUHAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1132,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/29116438-8a7c-4d03-9f5c-60c4582dfc6d-1684105288888122037.jpeg",
+            "submission_id": 611521,
+            "total_vote": 342,
+            "votes": {
+                "1": 107,
+                "2": 0,
+                "3": 224,
+                "4": 11
+            }
+        },
+        "mv_result": null,
+        "school_name": "SELAHATTİN EYYUBİ HAMZA SARUHAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1120,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/35940_cb_1093685526_1684083340684427767.jpg",
+            "submission_id": 214689,
+            "total_vote": 336,
+            "votes": {
+                "1": 96,
+                "3": 225,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/35940_mv_1083685526_1684092964519451770.jpg",
+            "submission_id": 463446,
+            "total_vote": 334,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 13,
+                "12": 16,
+                "13": 22,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 136,
+                "22": 52,
+                "23": 1,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 4,
+                "9": 74
+            }
+        },
+        "school_name": "SELAHATTİN EYYUBİ HAMZA SARUHAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1119,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/50097_cb_1093685525_1684090927313568927.jpg",
+            "submission_id": 430415,
+            "total_vote": 341,
+            "votes": {
+                "1": 95,
+                "2": 0,
+                "3": 225,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/50097_mv_1083685525_1684090881782751850.jpg",
+            "submission_id": 429475,
+            "total_vote": 335,
+            "votes": {
+                "10": 2,
+                "11": 13,
+                "12": 13,
+                "13": 38,
+                "14": 1,
+                "15": 2,
+                "17": 1,
+                "21": 134,
+                "22": 40,
+                "23": 3,
+                "24": 9,
+                "3": 1,
+                "7": 3,
+                "8": 2,
+                "9": 73
+            }
+        },
+        "school_name": "SELAHATTİN EYYUBİ HAMZA SARUHAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1121,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/50097_cb_1093685527_1684087370843289493.jpg",
+            "submission_id": 331741,
+            "total_vote": 338,
+            "votes": {
+                "1": 108,
+                "2": 1,
+                "3": 210,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/50097_mv_1083685527_1684092207426949448.jpg",
+            "submission_id": 452646,
+            "total_vote": 336,
+            "votes": {
+                "10": 4,
+                "11": 22,
+                "12": 16,
+                "13": 28,
+                "21": 122,
+                "22": 46,
+                "24": 13,
+                "7": 2,
+                "8": 1,
+                "9": 82
+            }
+        },
+        "school_name": "SELAHATTİN EYYUBİ HAMZA SARUHAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1117,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/50097_cb_1093685523_1684090033395381159.jpg",
+            "submission_id": 410552,
+            "total_vote": 299,
+            "votes": {
+                "1": 133,
+                "2": 2,
+                "3": 158,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/50097_mv_1083685523_1684090086716628759.jpg",
+            "submission_id": 411822,
+            "total_vote": 291,
+            "votes": {
+                "10": 3,
+                "11": 12,
+                "12": 11,
+                "13": 6,
+                "15": 1,
+                "19": 2,
+                "21": 107,
+                "22": 28,
+                "24": 8,
+                "5": 1,
+                "7": 4,
+                "9": 108
+            }
+        },
+        "school_name": "SELAHATTİN EYYUBİ HAMZA SARUHAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1123,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/34980_cb_1093685529_1684088799090370577.jpg",
+            "submission_id": 376601,
+            "total_vote": 330,
+            "votes": {
+                "1": 84,
+                "2": 1,
+                "3": 227,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/34980_mv_1083685529_1684088725854926860.jpg",
+            "submission_id": 374432,
+            "total_vote": 322,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 11,
+                "12": 13,
+                "13": 20,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "2": 0,
+                "20": 0,
+                "21": 132,
+                "22": 54,
+                "23": 0,
+                "24": 10,
+                "3": 4,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 2,
+                "9": 66
+            }
+        },
+        "school_name": "SELAHATTİN EYYUBİ HAMZA SARUHAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1129,
+        "cm_result": {
+            "image_url": "https://source1-secim-images.oyveotesi.org/raw/1001185_cb_3686475_1684083093.jpeg",
+            "submission_id": 210497,
+            "total_vote": 338,
+            "votes": {
+                "1": 117,
+                "3": 206,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/50097_mv_1083686475_1684086034240084931.jpg",
+            "submission_id": 286067,
+            "total_vote": 336,
+            "votes": {
+                "1": 0,
+                "10": 10,
+                "11": 17,
+                "12": 17,
+                "13": 24,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 126,
+                "22": 40,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 3,
+                "9": 83
+            }
+        },
+        "school_name": "SELAHATTİN EYYUBİ HAMZA SARUHAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1122,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/34959_cb_1093685528_1684086405897984735.jpg",
+            "submission_id": 298247,
+            "total_vote": 332,
+            "votes": {
+                "1": 91,
+                "3": 224,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/34959_mv_1083685528_1684087019657935323.jpg",
+            "submission_id": 319640,
+            "total_vote": 327,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 4,
+                "12": 13,
+                "13": 26,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 7,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 130,
+                "22": 50,
+                "23": 1,
+                "24": 14,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 5,
+                "9": 65
+            }
+        },
+        "school_name": "SELAHATTİN EYYUBİ HAMZA SARUHAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1118,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/38285_cb_1093685524_1684087864624764470.jpg",
+            "submission_id": 347513,
+            "total_vote": 306,
+            "votes": {
+                "1": 107,
+                "2": 2,
+                "3": 193,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/38285_mv_1083685524_1684090962087458147.jpg",
+            "submission_id": 431148,
+            "total_vote": 303,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 10,
+                "12": 7,
+                "13": 11,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 130,
+                "22": 33,
+                "23": 0,
+                "24": 4,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 2,
+                "9": 96
+            }
+        },
+        "school_name": "SELAHATTİN EYYUBİ HAMZA SARUHAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1128,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/35171_bulk_999999999_1684095018440026636.jpg",
+            "submission_id": 498869,
+            "total_vote": 326,
+            "votes": {
+                "1": 95,
+                "2": 1,
+                "3": 219,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/60b9c756-d94c-4935-9d74-bb9209bb76ad-1684105245199941755.jpeg",
+            "submission_id": 602672,
+            "total_vote": 327,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 12,
+                "12": 29,
+                "13": 17,
+                "15": 1,
+                "21": 131,
+                "22": 43,
+                "24": 9,
+                "7": 5,
+                "8": 1,
+                "9": 74
+            }
+        },
+        "school_name": "SELAHATTİN EYYUBİ HAMZA SARUHAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1124,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/35162_cb_1093685530_1684086963214051124.jpg",
+            "submission_id": 317677,
+            "total_vote": 342,
+            "votes": {
+                "1": 99,
+                "2": 3,
+                "3": 224,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/50097_mv_1083685530_1684092348483244020.jpg",
+            "submission_id": 454914,
+            "total_vote": 339,
+            "votes": {
+                "1": 0,
+                "10": 8,
+                "11": 14,
+                "12": 15,
+                "13": 18,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 142,
+                "22": 49,
+                "23": 1,
+                "24": 15,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 1,
+                "9": 72
+            }
+        },
+        "school_name": "SELAHATTİN EYYUBİ HAMZA SARUHAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1127,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/50097_cb_1093685533_1684089239457095214.jpg",
+            "submission_id": 389229,
+            "total_vote": 326,
+            "votes": {
+                "1": 89,
+                "3": 220,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3ef4b800-24ce-4d49-8cdd-6d3726401fd1-1684105827800735927.jpeg",
+            "submission_id": 700884,
+            "total_vote": 322,
+            "votes": {
+                "10": 8,
+                "11": 13,
+                "12": 9,
+                "13": 31,
+                "14": 2,
+                "21": 121,
+                "22": 54,
+                "23": 2,
+                "24": 8,
+                "3": 1,
+                "7": 3,
+                "8": 1,
+                "9": 69
+            }
+        },
+        "school_name": "SELAHATTİN EYYUBİ HAMZA SARUHAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1131,
+        "cm_result": {
+            "image_url": "https://source1-secim-images.oyveotesi.org/raw/1001185_cb_3686477_1684083357.jpeg",
+            "submission_id": 215307,
+            "total_vote": 328,
+            "votes": {
+                "1": 121,
+                "2": 1,
+                "3": 194,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source1-secim-images.oyveotesi.org/raw/1000000_mv_3686477_1684091207.jpeg",
+            "submission_id": 436026,
+            "total_vote": 322,
+            "votes": {
+                "10": 7,
+                "11": 16,
+                "12": 18,
+                "13": 19,
+                "15": 1,
+                "17": 1,
+                "21": 114,
+                "22": 44,
+                "24": 10,
+                "3": 2,
+                "5": 1,
+                "7": 3,
+                "8": 1,
+                "9": 85
+            }
+        },
+        "school_name": "SELAHATTİN EYYUBİ HAMZA SARUHAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1125,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/50097_cb_1093685531_1684088886156932465.jpg",
+            "submission_id": 379128,
+            "total_vote": 339,
+            "votes": {
+                "1": 88,
+                "2": 1,
+                "3": 231,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/50097_mv_1083685531_1684090483519718125.jpg",
+            "submission_id": 420971,
+            "total_vote": 333,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 12,
+                "12": 3,
+                "13": 36,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 1,
+                "18": 1,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 148,
+                "22": 43,
+                "23": 0,
+                "24": 13,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 3,
+                "9": 60
+            }
+        },
+        "school_name": "SELAHATTİN EYYUBİ HAMZA SARUHAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1134,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/34950_cb_1093686480_1684087095484837040.jpg",
+            "submission_id": 322391,
+            "total_vote": 339,
+            "votes": {
+                "1": 89,
+                "3": 238,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/50097_mv_1083686480_1684089038647929080.jpg",
+            "submission_id": 383631,
+            "total_vote": 338,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 19,
+                "12": 14,
+                "13": 26,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 150,
+                "22": 34,
+                "23": 0,
+                "24": 13,
+                "3": 3,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 71
+            }
+        },
+        "school_name": "SELAHATTİN EYYUBİ HAMZA SARUHAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1133,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/34894_cb_1093686479_1684090389520637522.jpg",
+            "submission_id": 418842,
+            "total_vote": 332,
+            "votes": {
+                "1": 92,
+                "2": 2,
+                "3": 223,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/34894_mv_1083686479_1684091971253646001.jpg",
+            "submission_id": 448765,
+            "total_vote": 326,
+            "votes": {
+                "10": 2,
+                "11": 14,
+                "12": 13,
+                "13": 19,
+                "15": 1,
+                "21": 145,
+                "22": 45,
+                "23": 1,
+                "24": 16,
+                "7": 2,
+                "8": 2,
+                "9": 66
+            }
+        },
+        "school_name": "SELAHATTİN EYYUBİ HAMZA SARUHAN ORTAOKULU"
+    }
+]

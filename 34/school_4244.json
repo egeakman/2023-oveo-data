@@ -1,0 +1,47 @@
+[
+    {
+        "ballot_box_number": 2001,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/6083_cb_1093634223_1684087641860604242.jpg",
+            "submission_id": 340479,
+            "total_vote": 240,
+            "votes": {
+                "1": 115,
+                "2": 0,
+                "3": 113,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/6083_mv_1083634223_1684087292199607779.jpg",
+            "submission_id": 329121,
+            "total_vote": 222,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 12,
+                "12": 6,
+                "13": 5,
+                "14": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 77,
+                "22": 26,
+                "23": 1,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 83
+            }
+        },
+        "school_name": "AĞAÇLI İLKOKULU"
+    }
+]

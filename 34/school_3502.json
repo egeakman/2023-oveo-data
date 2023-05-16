@@ -1,0 +1,713 @@
+[
+    {
+        "ballot_box_number": 2073,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/62612_cb_1093862131_1684095870064348730.jpg",
+            "submission_id": 507520,
+            "total_vote": 357,
+            "votes": {
+                "1": 81,
+                "2": 0,
+                "3": 269,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/14_bulk_999999999_1684237903470476052.jpeg",
+            "submission_id": 1028120,
+            "total_vote": 347,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 10,
+                "12": 6,
+                "13": 33,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 192,
+                "22": 31,
+                "23": 0,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 2,
+                "9": 59
+            }
+        },
+        "school_name": "ZİHNİPAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2067,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5913_cb_1093862125_1684091035337231823.jpg",
+            "submission_id": 432604,
+            "total_vote": 357,
+            "votes": {
+                "1": 83,
+                "2": 1,
+                "3": 268,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5913_mv_1083862125_1684090825738028593.jpg",
+            "submission_id": 428244,
+            "total_vote": 358,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 6,
+                "12": 7,
+                "13": 27,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 210,
+                "22": 24,
+                "23": 1,
+                "24": 5,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 70
+            }
+        },
+        "school_name": "ZİHNİPAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2065,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/5913_bulk_999999999_1684083612438615512.jpeg",
+            "submission_id": 219986,
+            "total_vote": 362,
+            "votes": {
+                "1": 64,
+                "2": 1,
+                "3": 290,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/5913_bulk_999999999_1684089440260397893.jpeg",
+            "submission_id": 394559,
+            "total_vote": 359,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 4,
+                "12": 11,
+                "13": 30,
+                "16": 1,
+                "21": 210,
+                "22": 38,
+                "24": 4,
+                "8": 1,
+                "9": 58
+            }
+        },
+        "school_name": "ZİHNİPAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2061,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/5913_bulk_999999999_1684089598214105184.jpeg",
+            "submission_id": 399048,
+            "total_vote": 324,
+            "votes": {
+                "1": 68,
+                "2": 1,
+                "3": 254,
+                "4": 1
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/5913_bulk_999999999_1684089635548775464.jpeg",
+            "submission_id": 400024,
+            "total_vote": 321,
+            "votes": {
+                "10": 4,
+                "11": 6,
+                "12": 2,
+                "13": 9,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "21": 212,
+                "22": 27,
+                "23": 0,
+                "24": 3,
+                "6": 1,
+                "7": 0,
+                "8": 1,
+                "9": 53
+            }
+        },
+        "school_name": "ZİHNİPAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2062,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/60326_cb_1093862120_1684081262245051523.jpg",
+            "submission_id": 187316,
+            "total_vote": 341,
+            "votes": {
+                "1": 49,
+                "3": 287,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/60326_mv_1083862120_1684088201773539909.jpg",
+            "submission_id": 358305,
+            "total_vote": 332,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 3,
+                "12": 5,
+                "13": 12,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 231,
+                "22": 30,
+                "23": 0,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 0,
+                "8": 5,
+                "9": 41
+            }
+        },
+        "school_name": "ZİHNİPAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2063,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/60059_cb_1093862121_1684087411324742591.jpg",
+            "submission_id": 333064,
+            "total_vote": 345,
+            "votes": {
+                "1": 74,
+                "2": 1,
+                "3": 266,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/60059_mv_1083862121_1684087536788299550.jpg",
+            "submission_id": 337076,
+            "total_vote": 338,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 6,
+                "12": 7,
+                "13": 27,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 208,
+                "22": 22,
+                "23": 0,
+                "24": 1,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 1,
+                "9": 63
+            }
+        },
+        "school_name": "ZİHNİPAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2076,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/60218_cb_1093862134_1684088233042609639.jpg",
+            "submission_id": 359241,
+            "total_vote": 353,
+            "votes": {
+                "1": 73,
+                "2": 2,
+                "3": 267,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/60218_mv_1083862134_1684088249231308945.jpg",
+            "submission_id": 359752,
+            "total_vote": 350,
+            "votes": {
+                "10": 2,
+                "11": 8,
+                "12": 8,
+                "13": 30,
+                "15": 1,
+                "21": 197,
+                "22": 37,
+                "24": 7,
+                "7": 1,
+                "8": 1,
+                "9": 58
+            }
+        },
+        "school_name": "ZİHNİPAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2060,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/28296_bulk_999999999_1684094080551393622.jpeg",
+            "submission_id": 485503,
+            "total_vote": 315,
+            "votes": {
+                "1": 48,
+                "2": 1,
+                "3": 263,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/28296_mv_1083862118_1684093923527546041.jpg",
+            "submission_id": 477835,
+            "total_vote": 316,
+            "votes": {
+                "11": 3,
+                "12": 4,
+                "13": 9,
+                "19": 1,
+                "20": 1,
+                "21": 219,
+                "22": 32,
+                "3": 2,
+                "6": 1,
+                "8": 1,
+                "9": 43
+            }
+        },
+        "school_name": "ZİHNİPAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2069,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/21389_cb_1093862127_1684085471200894058.jpg",
+            "submission_id": 267716,
+            "total_vote": 346,
+            "votes": {
+                "1": 105,
+                "3": 229,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/5913_bulk_999999999_1684089154945627582.jpeg",
+            "submission_id": 386856,
+            "total_vote": 347,
+            "votes": {
+                "10": 7,
+                "11": 19,
+                "12": 2,
+                "13": 33,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "20": 1,
+                "21": 156,
+                "22": 34,
+                "23": 0,
+                "24": 10,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 80
+            }
+        },
+        "school_name": "ZİHNİPAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2070,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/51703_mv_1083862128_1684080704342410057.jpg",
+            "submission_id": 183271,
+            "total_vote": 349,
+            "votes": {
+                "1": 89,
+                "2": 1,
+                "3": 244,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/51703_mv_1083862128_1684085635671857640.jpg",
+            "submission_id": 272925,
+            "total_vote": 342,
+            "votes": {
+                "10": 6,
+                "11": 8,
+                "12": 5,
+                "13": 29,
+                "21": 180,
+                "22": 38,
+                "24": 6,
+                "7": 4,
+                "8": 1,
+                "9": 65
+            }
+        },
+        "school_name": "ZİHNİPAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2072,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/5913_bulk_999999999_1684082432034957838.jpeg",
+            "submission_id": 200060,
+            "total_vote": 356,
+            "votes": {
+                "1": 79,
+                "2": 0,
+                "3": 271,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/51722_mv_1083862130_1684088439617269295.jpg",
+            "submission_id": 365629,
+            "total_vote": 352,
+            "votes": {
+                "1": 2,
+                "10": 4,
+                "11": 7,
+                "12": 6,
+                "13": 22,
+                "14": 2,
+                "15": 0,
+                "16": 25,
+                "17": 5,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 2,
+                "21": 200,
+                "22": 32,
+                "23": 0,
+                "24": 6,
+                "3": 0,
+                "4": 12,
+                "5": 1,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 23
+            }
+        },
+        "school_name": "ZİHNİPAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2071,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/53421_cb_1093862118_1684089575477824825.jpg",
+            "submission_id": 398372,
+            "total_vote": 353,
+            "votes": {
+                "1": 88,
+                "2": 1,
+                "3": 254,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/53421_mv_1083862129_1684092153888767693.jpg",
+            "submission_id": 451806,
+            "total_vote": 353,
+            "votes": {
+                "10": 1,
+                "11": 14,
+                "12": 7,
+                "13": 26,
+                "21": 202,
+                "22": 18,
+                "24": 4,
+                "3": 1,
+                "6": 1,
+                "7": 4,
+                "9": 75
+            }
+        },
+        "school_name": "ZİHNİPAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2074,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/73261_cb_1093862132_1684091679077050371.jpg",
+            "submission_id": 444053,
+            "total_vote": 354,
+            "votes": {
+                "1": 91,
+                "2": 1,
+                "3": 250,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "ZİHNİPAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2064,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/60459_cb_1093862122_1684083852786073564.jpg",
+            "submission_id": 225151,
+            "total_vote": 353,
+            "votes": {
+                "1": 85,
+                "2": 0,
+                "3": 259,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/60459_mv_1083862122_1684091845650466701.jpg",
+            "submission_id": 446676,
+            "total_vote": 349,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 7,
+                "12": 7,
+                "13": 40,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 171,
+                "22": 38,
+                "23": 0,
+                "24": 5,
+                "3": 1,
+                "4": 1,
+                "5": 1,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 69
+            }
+        },
+        "school_name": "ZİHNİPAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2066,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/5913_bulk_999999999_1684088887130200314.jpeg",
+            "submission_id": 379155,
+            "total_vote": 356,
+            "votes": {
+                "1": 68,
+                "2": 0,
+                "3": 281,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/53855_mv_1083862124_1684094841950173349.jpg",
+            "submission_id": 496776,
+            "total_vote": 357,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 5,
+                "12": 2,
+                "13": 35,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 198,
+                "22": 48,
+                "23": 0,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 2,
+                "9": 54
+            }
+        },
+        "school_name": "ZİHNİPAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2078,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/5913_bulk_999999999_1684083079934458624.jpeg",
+            "submission_id": 210082,
+            "total_vote": 389,
+            "votes": {
+                "1": 93,
+                "2": 1,
+                "3": 287,
+                "4": 8
+            }
+        },
+        "mv_result": null,
+        "school_name": "ZİHNİPAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2068,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/5913_bulk_999999999_1684092004559736123.jpeg",
+            "submission_id": 449385,
+            "total_vote": 349,
+            "votes": {
+                "1": 81,
+                "2": 2,
+                "3": 256,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/5913_bulk_999999999_1684092024241216951.jpeg",
+            "submission_id": 449734,
+            "total_vote": 342,
+            "votes": {
+                "10": 1,
+                "11": 4,
+                "12": 13,
+                "13": 32,
+                "15": 1,
+                "21": 171,
+                "23": 40,
+                "24": 7,
+                "3": 1,
+                "7": 4,
+                "9": 68
+            }
+        },
+        "school_name": "ZİHNİPAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2077,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/59808_bulk_999999999_1684088731505295176.jpg",
+            "submission_id": 374599,
+            "total_vote": 355,
+            "votes": {
+                "1": 79,
+                "3": 269,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/5913_bulk_999999999_1684091767367293463.jpeg",
+            "submission_id": 445477,
+            "total_vote": 351,
+            "votes": {
+                "10": 3,
+                "11": 9,
+                "12": 5,
+                "13": 33,
+                "15": 2,
+                "21": 197,
+                "22": 35,
+                "23": 1,
+                "24": 5,
+                "7": 4,
+                "8": 2,
+                "9": 55
+            }
+        },
+        "school_name": "ZİHNİPAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2075,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/5913_bulk_999999999_1684095838319841499.jpeg",
+            "submission_id": 507239,
+            "total_vote": 346,
+            "votes": {
+                "1": 64,
+                "3": 275,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/5913_mv_1083862133_1684095887599506945.jpg",
+            "submission_id": 507688,
+            "total_vote": 344,
+            "votes": {
+                "10": 5,
+                "11": 8,
+                "12": 6,
+                "13": 35,
+                "21": 202,
+                "22": 27,
+                "24": 3,
+                "3": 2,
+                "7": 3,
+                "9": 53
+            }
+        },
+        "school_name": "ZİHNİPAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2059,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/5913_bulk_999999999_1684088974985237139.jpeg",
+            "submission_id": 381790,
+            "total_vote": 344,
+            "votes": {
+                "1": 95,
+                "2": 1,
+                "3": 241,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "ZİHNİPAŞA İLKOKULU"
+    }
+]

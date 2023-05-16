@@ -1,0 +1,42 @@
+[
+    {
+        "ballot_box_number": 1178,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "ALP İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1179,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "ALP İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1177,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/fc0d90f3-95dc-4222-a5d1-5f5d69ad4663-1684106488140193517.jpeg",
+            "submission_id": 795548,
+            "total_vote": 257,
+            "votes": {
+                "10": 13,
+                "11": 34,
+                "12": 17,
+                "13": 7,
+                "14": 1,
+                "15": 1,
+                "17": 1,
+                "19": 1,
+                "2": 1,
+                "21": 37,
+                "22": 38,
+                "24": 9,
+                "4": 1,
+                "7": 3,
+                "8": 1,
+                "9": 92
+            }
+        },
+        "school_name": "ALP İLKOKULU"
+    }
+]

@@ -1,0 +1,492 @@
+[
+    {
+        "ballot_box_number": 1347,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1192_cb_1093786760_1684084101645185490.jpg",
+            "submission_id": 230399,
+            "total_vote": 337,
+            "votes": {
+                "1": 117,
+                "2": 0,
+                "3": 203,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/19578_bulk_999999999_1684083800866787485.jpg",
+            "submission_id": 224058,
+            "total_vote": 334,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 18,
+                "12": 5,
+                "13": 25,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 142,
+                "22": 28,
+                "23": 0,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 4,
+                "9": 94
+            }
+        },
+        "school_name": "KÜÇÜKYALI REZAN HAS ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1341,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/19570_cb_1093786674_1684091781630743954.jpg",
+            "submission_id": 445715,
+            "total_vote": 312,
+            "votes": {
+                "1": 96,
+                "2": 2,
+                "3": 206,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1192_mv_1083786674_1684090967365742793.jpg",
+            "submission_id": 431255,
+            "total_vote": 302,
+            "votes": {
+                "10": 5,
+                "11": 9,
+                "12": 3,
+                "13": 7,
+                "21": 164,
+                "22": 28,
+                "24": 2,
+                "7": 2,
+                "9": 82
+            }
+        },
+        "school_name": "KÜÇÜKYALI REZAN HAS ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1348,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/78483_bulk_999999999_1684086148303647821.jpeg",
+            "submission_id": 289710,
+            "total_vote": 338,
+            "votes": {
+                "1": 118,
+                "3": 211,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/78483_bulk_999999999_1684086760659475397.jpeg",
+            "submission_id": 310693,
+            "total_vote": 331,
+            "votes": {
+                "10": 4,
+                "11": 12,
+                "12": 5,
+                "13": 40,
+                "14": 2,
+                "18": 1,
+                "21": 133,
+                "22": 27,
+                "24": 4,
+                "7": 1,
+                "8": 4,
+                "9": 98
+            }
+        },
+        "school_name": "KÜÇÜKYALI REZAN HAS ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1345,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/13072_cb_1093786758_1684086526704000840.jpg",
+            "submission_id": 302482,
+            "total_vote": 342,
+            "votes": {
+                "1": 113,
+                "2": 0,
+                "3": 209,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "KÜÇÜKYALI REZAN HAS ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1343,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/60242_cb_1093786756_1684087072218782249.jpg",
+            "submission_id": 321528,
+            "total_vote": 334,
+            "votes": {
+                "1": 139,
+                "3": 177,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1192_mv_1083786756_1684089659986911145.jpg",
+            "submission_id": 400673,
+            "total_vote": 334,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 19,
+                "12": 6,
+                "13": 24,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 121,
+                "22": 25,
+                "23": 2,
+                "24": 9,
+                "3": 0,
+                "4": 2,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 4,
+                "9": 115
+            }
+        },
+        "school_name": "KÜÇÜKYALI REZAN HAS ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1342,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/13738_cb_1093786755_1684086869881524217.jpg",
+            "submission_id": 314472,
+            "total_vote": 344,
+            "votes": {
+                "1": 127,
+                "2": 2,
+                "3": 203,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/13738_mv_1083786755_1684089360082605850.jpg",
+            "submission_id": 392410,
+            "total_vote": 335,
+            "votes": {
+                "10": 8,
+                "11": 22,
+                "12": 10,
+                "13": 22,
+                "21": 133,
+                "22": 32,
+                "24": 9,
+                "7": 3,
+                "8": 10,
+                "9": 86
+            }
+        },
+        "school_name": "KÜÇÜKYALI REZAN HAS ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1352,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1192_cb_1093786765_1684086183255302281.jpg",
+            "submission_id": 290877,
+            "total_vote": 346,
+            "votes": {
+                "1": 107,
+                "3": 228,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/38252_mv_1083786765_1684086065453567469.jpg",
+            "submission_id": 287030,
+            "total_vote": 344,
+            "votes": {
+                "10": 5,
+                "11": 26,
+                "12": 10,
+                "13": 38,
+                "21": 131,
+                "22": 45,
+                "24": 8,
+                "3": 1,
+                "4": 1,
+                "7": 4,
+                "8": 1,
+                "9": 74
+            }
+        },
+        "school_name": "KÜÇÜKYALI REZAN HAS ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1351,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1192_cb_1093786764_1684083985753211732.jpg",
+            "submission_id": 227801,
+            "total_vote": 341,
+            "votes": {
+                "1": 131,
+                "2": 0,
+                "3": 197,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1192_mv_1083786764_1684084012050439021.jpg",
+            "submission_id": 228383,
+            "total_vote": 337,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 22,
+                "12": 7,
+                "13": 23,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 129,
+                "22": 45,
+                "23": 1,
+                "24": 7,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 4,
+                "9": 91
+            }
+        },
+        "school_name": "KÜÇÜKYALI REZAN HAS ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1344,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/13073_cb_1093786757_1684083461548577425.jpg",
+            "submission_id": 217058,
+            "total_vote": 347,
+            "votes": {
+                "1": 114,
+                "2": 1,
+                "3": 216,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/13073_mv_1083786757_1684084242146761414.jpg",
+            "submission_id": 234075,
+            "total_vote": 339,
+            "votes": {
+                "10": 4,
+                "11": 17,
+                "12": 10,
+                "13": 32,
+                "20": 1,
+                "21": 140,
+                "22": 31,
+                "23": 1,
+                "24": 13,
+                "7": 4,
+                "8": 4,
+                "9": 82
+            }
+        },
+        "school_name": "KÜÇÜKYALI REZAN HAS ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1340,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1192_cb_1093786673_1684088751360374339.jpg",
+            "submission_id": 375243,
+            "total_vote": 320,
+            "votes": {
+                "1": 102,
+                "2": 0,
+                "3": 209,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1192_mv_1083786673_1684088827888975803.jpg",
+            "submission_id": 377403,
+            "total_vote": 318,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 11,
+                "12": 6,
+                "13": 11,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 1,
+                "21": 174,
+                "22": 19,
+                "23": 1,
+                "24": 1,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "7": 1,
+                "8": 2,
+                "9": 84
+            }
+        },
+        "school_name": "KÜÇÜKYALI REZAN HAS ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1350,
+        "cm_result": {
+            "image_url": "https://source1-secim-images.oyveotesi.org/raw/1039392_cb_3786763_1684082991.jpeg",
+            "submission_id": 208610,
+            "total_vote": 338,
+            "votes": {
+                "1": 108,
+                "2": 1,
+                "3": 216,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1192_mv_1083786763_1684090589326529952.jpg",
+            "submission_id": 423442,
+            "total_vote": 337,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 18,
+                "12": 6,
+                "13": 25,
+                "14": 0,
+                "15": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 151,
+                "22": 35,
+                "23": 0,
+                "24": 6,
+                "3": 3,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 0,
+                "9": 85
+            }
+        },
+        "school_name": "KÜÇÜKYALI REZAN HAS ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1349,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/19566_cb_1093786762_1684088043035356637.jpg",
+            "submission_id": 353351,
+            "total_vote": 336,
+            "votes": {
+                "1": 116,
+                "2": 0,
+                "3": 210,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/1192_mv_1083786762_1684088304514849755.jpg",
+            "submission_id": 361485,
+            "total_vote": 334,
+            "votes": {
+                "1": 0,
+                "10": 11,
+                "11": 16,
+                "12": 13,
+                "13": 38,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 124,
+                "22": 32,
+                "23": 0,
+                "24": 4,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 2,
+                "8": 2,
+                "9": 87
+            }
+        },
+        "school_name": "KÜÇÜKYALI REZAN HAS ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1346,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/13732_bulk_999999999_1684085536370328428.jpeg",
+            "submission_id": 269749,
+            "total_vote": 336,
+            "votes": {
+                "1": 126,
+                "2": 1,
+                "3": 197,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/13732_bulk_999999999_1684086542156854767.jpeg",
+            "submission_id": 302982,
+            "total_vote": 327,
+            "votes": {
+                "10": 8,
+                "11": 23,
+                "12": 12,
+                "13": 27,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "20": 1,
+                "21": 111,
+                "22": 41,
+                "23": 0,
+                "24": 8,
+                "6": 1,
+                "7": 3,
+                "8": 2,
+                "9": 88
+            }
+        },
+        "school_name": "KÜÇÜKYALI REZAN HAS ANADOLU LİSESİ"
+    }
+]

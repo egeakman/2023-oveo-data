@@ -1,0 +1,348 @@
+[
+    {
+        "ballot_box_number": 2049,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/34b109b8-18a4-422c-b4ee-5ba0f65e0aef-1684105266330002569.jpeg",
+            "submission_id": 608083,
+            "total_vote": 321,
+            "votes": {
+                "1": 0,
+                "10": 17,
+                "11": 21,
+                "12": 43,
+                "13": 4,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 62,
+                "20": 0,
+                "21": 0,
+                "22": 0,
+                "23": 1,
+                "24": 1,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 2,
+                "9": 164
+            }
+        },
+        "school_name": "REŞAT TARDU ORTA OKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2040,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/7903_bulk_999999999_1684093251690422006.jpeg",
+            "submission_id": 467583,
+            "total_vote": 306,
+            "votes": {
+                "1": 163,
+                "2": 2,
+                "3": 135,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/707e5cca-5249-414e-8c96-ac1388ff1c4b-1684105226740810746.jpeg",
+            "submission_id": 599474,
+            "total_vote": 294,
+            "votes": {
+                "10": 8,
+                "11": 8,
+                "12": 43,
+                "13": 4,
+                "14": 1,
+                "15": 2,
+                "21": 67,
+                "22": 18,
+                "23": 1,
+                "24": 3,
+                "6": 1,
+                "7": 4,
+                "8": 3,
+                "9": 131
+            }
+        },
+        "school_name": "REŞAT TARDU ORTA OKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2042,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/3846_cb_1093781826_1684083973498805722.jpeg",
+            "submission_id": 227524,
+            "total_vote": 309,
+            "votes": {
+                "1": 135,
+                "2": 1,
+                "3": 161,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/7905_bulk_999999999_1684095896891611255.jpeg",
+            "submission_id": 507769,
+            "total_vote": 309,
+            "votes": {
+                "10": 6,
+                "11": 20,
+                "12": 68,
+                "13": 5,
+                "14": 1,
+                "21": 53,
+                "22": 33,
+                "24": 8,
+                "7": 3,
+                "8": 5,
+                "9": 107
+            }
+        },
+        "school_name": "REŞAT TARDU ORTA OKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2045,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/3846_cb_1093781829_1684085904470103435.jpg",
+            "submission_id": 281939,
+            "total_vote": 299,
+            "votes": {
+                "1": 158,
+                "3": 123,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/3846_mv_1083781829_1684085960081116120.jpg",
+            "submission_id": 283715,
+            "total_vote": 294,
+            "votes": {
+                "1": 2,
+                "10": 18,
+                "11": 15,
+                "12": 61,
+                "13": 5,
+                "14": 0,
+                "15": 6,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 32,
+                "22": 29,
+                "23": 0,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 2,
+                "9": 113
+            }
+        },
+        "school_name": "REŞAT TARDU ORTA OKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2047,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/3846_cb_1093781831_1684088733103430953.jpg",
+            "submission_id": 374646,
+            "total_vote": 305,
+            "votes": {
+                "1": 139,
+                "2": 1,
+                "3": 151,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "REŞAT TARDU ORTA OKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2048,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/75297_bulk_999999999_1684089982324227718.jpeg",
+            "submission_id": 409282,
+            "total_vote": 313,
+            "votes": {
+                "1": 141,
+                "3": 152,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "REŞAT TARDU ORTA OKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2044,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/7905_bulk_999999999_1684095685354077136.jpeg",
+            "submission_id": 505746,
+            "total_vote": 302,
+            "votes": {
+                "1": 157,
+                "2": 2,
+                "3": 135,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/7905_bulk_999999999_1684096154746172134.jpeg",
+            "submission_id": 509882,
+            "total_vote": 299,
+            "votes": {
+                "10": 14,
+                "11": 13,
+                "12": 58,
+                "13": 4,
+                "21": 47,
+                "22": 23,
+                "23": 1,
+                "24": 9,
+                "4": 1,
+                "7": 3,
+                "8": 2,
+                "9": 124
+            }
+        },
+        "school_name": "REŞAT TARDU ORTA OKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2043,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/3846_cb_1093781827_1684091495434596580.jpg",
+            "submission_id": 441121,
+            "total_vote": 313,
+            "votes": {
+                "1": 150,
+                "2": 0,
+                "3": 153,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/3846_cb_1093781827_1684089818812286034.jpg",
+            "submission_id": 404955,
+            "total_vote": 259,
+            "votes": {
+                "1": 0,
+                "10": 8,
+                "11": 23,
+                "12": 59,
+                "13": 12,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "22": 28,
+                "23": 2,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 3,
+                "8": 2,
+                "9": 117
+            }
+        },
+        "school_name": "REŞAT TARDU ORTA OKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2046,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/3846_cb_1093781830_1684087721555883916.jpg",
+            "submission_id": 343113,
+            "total_vote": 317,
+            "votes": {
+                "1": 175,
+                "2": 1,
+                "3": 128,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/3846_mv_1083781830_1684087748443816124.jpg",
+            "submission_id": 343950,
+            "total_vote": 312,
+            "votes": {
+                "10": 17,
+                "11": 16,
+                "12": 47,
+                "13": 9,
+                "14": 1,
+                "21": 46,
+                "22": 27,
+                "24": 5,
+                "3": 1,
+                "7": 10,
+                "8": 5,
+                "9": 128
+            }
+        },
+        "school_name": "REŞAT TARDU ORTA OKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2050,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/3846_cb_1093781834_1684091557194344103.jpg",
+            "submission_id": 442110,
+            "total_vote": 323,
+            "votes": {
+                "1": 170,
+                "2": 1,
+                "3": 141,
+                "4": 11
+            }
+        },
+        "mv_result": null,
+        "school_name": "REŞAT TARDU ORTA OKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2041,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/3846_cb_1093781825_1684083734997174894.jpg",
+            "submission_id": 222605,
+            "total_vote": 294,
+            "votes": {
+                "1": 129,
+                "2": 2,
+                "3": 146,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/7905_bulk_999999999_1684095988979846606.jpeg",
+            "submission_id": 508551,
+            "total_vote": 283,
+            "votes": {
+                "10": 6,
+                "11": 18,
+                "12": 63,
+                "13": 7,
+                "14": 1,
+                "15": 1,
+                "21": 49,
+                "22": 24,
+                "23": 1,
+                "24": 9,
+                "5": 1,
+                "7": 2,
+                "8": 1,
+                "9": 100
+            }
+        },
+        "school_name": "REŞAT TARDU ORTA OKULU A BLOK"
+    }
+]

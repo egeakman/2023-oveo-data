@@ -1,0 +1,435 @@
+[
+    {
+        "ballot_box_number": 2290,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/195_bulk_999999999_1684102343962613764.jpg",
+            "submission_id": 544001,
+            "total_vote": 348,
+            "votes": {
+                "1": 226,
+                "2": 0,
+                "3": 105,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/195_bulk_999999999_1684102400015433039.jpg",
+            "submission_id": 544198,
+            "total_vote": 343,
+            "votes": {
+                "10": 6,
+                "11": 34,
+                "12": 31,
+                "13": 6,
+                "18": 1,
+                "2": 1,
+                "21": 40,
+                "22": 24,
+                "24": 12,
+                "5": 2,
+                "6": 3,
+                "7": 4,
+                "8": 3,
+                "9": 176
+            }
+        },
+        "school_name": "ORUÇ REİS İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2288,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/31934_cb_1093776097_1684089194970076357.jpg",
+            "submission_id": 387998,
+            "total_vote": 344,
+            "votes": {
+                "1": 210,
+                "2": 4,
+                "3": 117,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/31934_cb_1093776097_1684088777037948452.jpg",
+            "submission_id": 375958,
+            "total_vote": 347,
+            "votes": {
+                "1": 0,
+                "10": 25,
+                "11": 22,
+                "12": 35,
+                "13": 7,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 9,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 52,
+                "22": 22,
+                "23": 1,
+                "24": 15,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 6,
+                "9": 147
+            }
+        },
+        "school_name": "ORUÇ REİS İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2287,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/26308_cb_1093776096_1684088329073499789.jpg",
+            "submission_id": 362158,
+            "total_vote": 326,
+            "votes": {
+                "1": 219,
+                "2": 0,
+                "3": 96,
+                "4": 11
+            }
+        },
+        "mv_result": null,
+        "school_name": "ORUÇ REİS İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2289,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/26308_cb_1093776098_1684088398593138746.jpg",
+            "submission_id": 364375,
+            "total_vote": 337,
+            "votes": {
+                "1": 220,
+                "2": 0,
+                "3": 100,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "ORUÇ REİS İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2284,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/26308_cb_1093775953_1684087198114027768.jpg",
+            "submission_id": 325963,
+            "total_vote": 322,
+            "votes": {
+                "1": 192,
+                "2": 1,
+                "3": 113,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/23500_mv_1083775953_1684087635592387429.jpg",
+            "submission_id": 340255,
+            "total_vote": 318,
+            "votes": {
+                "1": 0,
+                "10": 12,
+                "11": 32,
+                "12": 45,
+                "13": 13,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 41,
+                "22": 15,
+                "23": 0,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 5,
+                "8": 2,
+                "9": 136
+            }
+        },
+        "school_name": "ORUÇ REİS İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2292,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/8374_bulk_999999999_1684100172803910129.jpeg",
+            "submission_id": 535987,
+            "total_vote": 326,
+            "votes": {
+                "1": 1,
+                "10": 14,
+                "11": 22,
+                "12": 21,
+                "13": 3,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 43,
+                "22": 11,
+                "23": 1,
+                "24": 15,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 2,
+                "8": 4,
+                "9": 187
+            }
+        },
+        "school_name": "ORUÇ REİS İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2286,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/31934_cb_1093776095_1684082243571680721.jpg",
+            "submission_id": 197631,
+            "total_vote": 336,
+            "votes": {
+                "1": 246,
+                "2": 2,
+                "3": 75,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/31934_mv_1083776095_1684088479653773555.jpg",
+            "submission_id": 366838,
+            "total_vote": 328,
+            "votes": {
+                "1": 0,
+                "10": 19,
+                "11": 24,
+                "12": 21,
+                "13": 1,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 40,
+                "22": 17,
+                "23": 1,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 1,
+                "9": 192
+            }
+        },
+        "school_name": "ORUÇ REİS İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2281,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/26308_cb_1093775950_1684085109686717563.jpg",
+            "submission_id": 257210,
+            "total_vote": 337,
+            "votes": {
+                "1": 240,
+                "2": 3,
+                "3": 78,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/26308_mv_1083775950_1684086447389832179.jpg",
+            "submission_id": 299677,
+            "total_vote": 332,
+            "votes": {
+                "10": 19,
+                "11": 31,
+                "12": 18,
+                "13": 3,
+                "21": 47,
+                "22": 8,
+                "24": 16,
+                "5": 1,
+                "6": 1,
+                "7": 1,
+                "8": 3,
+                "9": 184
+            }
+        },
+        "school_name": "ORUÇ REİS İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2280,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/26308_cb_1093775949_1684087575365160826.jpg",
+            "submission_id": 338314,
+            "total_vote": 312,
+            "votes": {
+                "1": 201,
+                "2": 1,
+                "3": 101,
+                "4": 9
+            }
+        },
+        "mv_result": null,
+        "school_name": "ORUÇ REİS İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2291,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/8374_bulk_999999999_1684100245849242375.jpeg",
+            "submission_id": 536334,
+            "total_vote": 339,
+            "votes": {
+                "1": 222,
+                "2": 0,
+                "3": 100,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/8374_bulk_999999999_1684100245950380199.jpeg",
+            "submission_id": 536335,
+            "total_vote": 329,
+            "votes": {
+                "10": 14,
+                "11": 33,
+                "12": 39,
+                "13": 5,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 38,
+                "22": 18,
+                "23": 1,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 4,
+                "9": 166
+            }
+        },
+        "school_name": "ORUÇ REİS İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2282,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7b46eb02-4652-4af1-b69e-206877c541cb-1684106684625221363.jpeg",
+            "submission_id": 823772,
+            "total_vote": 353,
+            "votes": {
+                "1": 245,
+                "2": 0,
+                "3": 90,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7989fa6c-a757-4eae-a56e-b24143e71267-1684105610617672364.jpeg",
+            "submission_id": 666542,
+            "total_vote": 346,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 39,
+                "12": 35,
+                "13": 7,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 28,
+                "22": 15,
+                "23": 0,
+                "24": 17,
+                "3": 2,
+                "4": 0,
+                "5": 4,
+                "6": 1,
+                "7": 4,
+                "8": 3,
+                "9": 182
+            }
+        },
+        "school_name": "ORUÇ REİS İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2285,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/195_bulk_999999999_1684102309699839391.jpg",
+            "submission_id": 543863,
+            "total_vote": 334,
+            "votes": {
+                "1": 216,
+                "3": 102,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "ORUÇ REİS İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2283,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/8374_bulk_999999999_1684100101076675219.jpeg",
+            "submission_id": 535703,
+            "total_vote": 336,
+            "votes": {
+                "1": 241,
+                "2": 3,
+                "3": 80,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/8374_bulk_999999999_1684100100962561119.jpeg",
+            "submission_id": 535702,
+            "total_vote": 327,
+            "votes": {
+                "10": 10,
+                "11": 29,
+                "12": 24,
+                "13": 5,
+                "14": 1,
+                "15": 1,
+                "21": 39,
+                "22": 13,
+                "24": 6,
+                "6": 1,
+                "7": 3,
+                "8": 2,
+                "9": 193
+            }
+        },
+        "school_name": "ORUÇ REİS İLKOKULU"
+    }
+]

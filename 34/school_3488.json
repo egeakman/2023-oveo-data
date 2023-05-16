@@ -1,0 +1,558 @@
+[
+    {
+        "ballot_box_number": 1276,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/59109_bulk_999999999_1684085942356074334.jpeg",
+            "submission_id": 283156,
+            "total_vote": 314,
+            "votes": {
+                "1": 52,
+                "2": 0,
+                "3": 252,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "KEMAL ATATÜRK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1280,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/59252_cb_1093657212_1684087810635948275.jpg",
+            "submission_id": 345907,
+            "total_vote": 306,
+            "votes": {
+                "1": 56,
+                "2": 2,
+                "3": 238,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/59252_mv_1083657212_1684088574229803175.jpg",
+            "submission_id": 369789,
+            "total_vote": 303,
+            "votes": {
+                "11": 6,
+                "12": 38,
+                "13": 43,
+                "18": 1,
+                "19": 1,
+                "21": 124,
+                "22": 22,
+                "23": 1,
+                "24": 7,
+                "3": 4,
+                "6": 1,
+                "7": 6,
+                "9": 49
+            }
+        },
+        "school_name": "KEMAL ATATÜRK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1274,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/18844_cb_1093657206_1684084369247907897.jpg",
+            "submission_id": 237198,
+            "total_vote": 310,
+            "votes": {
+                "1": 47,
+                "3": 252,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/18844_mv_1083657206_1684086722806296658.jpg",
+            "submission_id": 309312,
+            "total_vote": 309,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 5,
+                "12": 51,
+                "13": 38,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 132,
+                "22": 29,
+                "23": 0,
+                "24": 11,
+                "3": 2,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 37
+            }
+        },
+        "school_name": "KEMAL ATATÜRK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1271,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/667_bulk_999999999_1684092309269020343.jpg",
+            "submission_id": 454253,
+            "total_vote": 309,
+            "votes": {
+                "1": 51,
+                "2": 0,
+                "3": 250,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/667_bulk_999999999_1684092404879405704.jpg",
+            "submission_id": 455771,
+            "total_vote": 304,
+            "votes": {
+                "10": 0,
+                "11": 11,
+                "12": 37,
+                "13": 46,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 135,
+                "22": 19,
+                "23": 0,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 2,
+                "7": 2,
+                "8": 0,
+                "9": 43
+            }
+        },
+        "school_name": "KEMAL ATATÜRK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1282,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/51110_cb_1093657214_1684086166509271030.jpg",
+            "submission_id": 290353,
+            "total_vote": 309,
+            "votes": {
+                "1": 57,
+                "2": 0,
+                "3": 244,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/51110_mv_1083657214_1684086186182402185.jpg",
+            "submission_id": 290967,
+            "total_vote": 306,
+            "votes": {
+                "10": 2,
+                "11": 11,
+                "12": 43,
+                "13": 52,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "21": 114,
+                "22": 30,
+                "23": 0,
+                "24": 6,
+                "3": 5,
+                "4": 0,
+                "5": 2,
+                "6": 0,
+                "7": 1,
+                "8": 1,
+                "9": 37
+            }
+        },
+        "school_name": "KEMAL ATATÜRK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1277,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/27249_bulk_999999999_1684086672685427468.jpeg",
+            "submission_id": 307526,
+            "total_vote": 318,
+            "votes": {
+                "1": 63,
+                "2": 0,
+                "3": 252,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/27249_cb_1093657209_1684086540978166912.jpg",
+            "submission_id": 302935,
+            "total_vote": 315,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 6,
+                "12": 54,
+                "13": 54,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 124,
+                "22": 19,
+                "23": 0,
+                "24": 1,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 3,
+                "8": 2,
+                "9": 48
+            }
+        },
+        "school_name": "KEMAL ATATÜRK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1272,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/60321_cb_1093657204_1684090656286127537.jpg",
+            "submission_id": 424696,
+            "total_vote": 307,
+            "votes": {
+                "1": 47,
+                "2": 1,
+                "3": 244,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/60321_mv_1083657204_1684090485804898801.jpg",
+            "submission_id": 421029,
+            "total_vote": 305,
+            "votes": {
+                "11": 6,
+                "12": 40,
+                "13": 55,
+                "14": 2,
+                "2": 3,
+                "21": 125,
+                "22": 25,
+                "23": 1,
+                "24": 9,
+                "3": 2,
+                "7": 3,
+                "9": 34
+            }
+        },
+        "school_name": "KEMAL ATATÜRK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1279,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/43591_cb_1093657211_1684088248064006524.jpg",
+            "submission_id": 359716,
+            "total_vote": 306,
+            "votes": {
+                "1": 54,
+                "2": 1,
+                "3": 236,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/43591_cb_1093657211_1684088189489015367.jpg",
+            "submission_id": 357969,
+            "total_vote": 304,
+            "votes": {
+                "1": 1,
+                "11": 17,
+                "12": 53,
+                "13": 44,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "20": 1,
+                "21": 110,
+                "22": 20,
+                "24": 10,
+                "3": 2,
+                "5": 2,
+                "7": 6,
+                "9": 38
+            }
+        },
+        "school_name": "KEMAL ATATÜRK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1275,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/59592_cb_1093657207_1684093425822619071.jpg",
+            "submission_id": 469704,
+            "total_vote": 312,
+            "votes": {
+                "1": 43,
+                "2": 0,
+                "3": 257,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/59592_mv_1083657210_1684094179132674540.jpg",
+            "submission_id": 488864,
+            "total_vote": 303,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 8,
+                "12": 37,
+                "13": 53,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 134,
+                "22": 28,
+                "23": 1,
+                "24": 8,
+                "3": 2,
+                "4": 0,
+                "5": 2,
+                "6": 1,
+                "7": 2,
+                "8": 2,
+                "9": 24
+            }
+        },
+        "school_name": "KEMAL ATATÜRK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1270,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/6395_cb_1093657202_1684093928320672520.jpg",
+            "submission_id": 477941,
+            "total_vote": 291,
+            "votes": {
+                "1": 68,
+                "2": 4,
+                "3": 213,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/6395_mv_1083657202_1684091514797319768.jpg",
+            "submission_id": 441430,
+            "total_vote": 283,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 10,
+                "12": 20,
+                "13": 10,
+                "14": 1,
+                "15": 3,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 157,
+                "23": 2,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 19,
+                "6": 1,
+                "7": 3,
+                "8": 2,
+                "9": 45
+            }
+        },
+        "school_name": "KEMAL ATATÜRK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1283,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/18797_cb_1093658815_1684086323189362200.jpg",
+            "submission_id": 295508,
+            "total_vote": 323,
+            "votes": {
+                "1": 48,
+                "3": 262,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/18797_mv_1083658815_1684087853042233154.jpg",
+            "submission_id": 347211,
+            "total_vote": 320,
+            "votes": {
+                "10": 4,
+                "11": 7,
+                "12": 39,
+                "13": 65,
+                "21": 125,
+                "22": 28,
+                "23": 1,
+                "24": 11,
+                "3": 2,
+                "7": 3,
+                "8": 2,
+                "9": 33
+            }
+        },
+        "school_name": "KEMAL ATATÜRK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1269,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/667_cb_1093657201_1684088062874070512.jpg",
+            "submission_id": 354010,
+            "total_vote": 289,
+            "votes": {
+                "1": 73,
+                "2": 1,
+                "3": 208,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/667_bulk_999999999_1684088628853931361.jpg",
+            "submission_id": 371503,
+            "total_vote": 284,
+            "votes": {
+                "10": 3,
+                "11": 8,
+                "12": 24,
+                "13": 16,
+                "14": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 135,
+                "22": 28,
+                "24": 3,
+                "3": 1,
+                "5": 1,
+                "6": 0,
+                "7": 6,
+                "8": 2,
+                "9": 55
+            }
+        },
+        "school_name": "KEMAL ATATÜRK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1281,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/51174_cb_1093657213_1684088218026085358.jpg",
+            "submission_id": 358798,
+            "total_vote": 312,
+            "votes": {
+                "1": 37,
+                "3": 260,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/51174_mv_1083657213_1684089337330467202.jpg",
+            "submission_id": 391800,
+            "total_vote": 302,
+            "votes": {
+                "10": 2,
+                "11": 6,
+                "12": 54,
+                "13": 57,
+                "19": 1,
+                "21": 128,
+                "22": 13,
+                "24": 9,
+                "7": 5,
+                "9": 27
+            }
+        },
+        "school_name": "KEMAL ATATÜRK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1278,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/667_cb_1093657210_1684094090627558399.jpg",
+            "submission_id": 485967,
+            "total_vote": 320,
+            "votes": {
+                "1": 53,
+                "2": 1,
+                "3": 263,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/60077_bulk_999999999_1684097928083950245.jpeg",
+            "submission_id": 524091,
+            "total_vote": 316,
+            "votes": {
+                "10": 2,
+                "11": 6,
+                "12": 42,
+                "13": 68,
+                "21": 122,
+                "22": 30,
+                "24": 2,
+                "3": 1,
+                "7": 2,
+                "8": 3,
+                "9": 38
+            }
+        },
+        "school_name": "KEMAL ATATÜRK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1273,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/58518_cb_1093657205_1684084835671023515.jpg",
+            "submission_id": 249490,
+            "total_vote": 311,
+            "votes": {
+                "1": 56,
+                "2": 1,
+                "3": 248,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/58518_mv_1083657205_1684085034557115210.jpg",
+            "submission_id": 255141,
+            "total_vote": 308,
+            "votes": {
+                "11": 15,
+                "12": 36,
+                "13": 59,
+                "17": 1,
+                "21": 134,
+                "22": 15,
+                "7": 6,
+                "9": 42
+            }
+        },
+        "school_name": "KEMAL ATATÜRK ANADOLU LİSESİ"
+    }
+]

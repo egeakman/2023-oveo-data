@@ -1,0 +1,773 @@
+[
+    {
+        "ballot_box_number": 1312,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/39799_cb_1093786671_1684086164055890729.jpg",
+            "submission_id": 290255,
+            "total_vote": 334,
+            "votes": {
+                "1": 170,
+                "3": 142,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/39799_mv_1083786671_1684086292024890563.jpg",
+            "submission_id": 294488,
+            "total_vote": 329,
+            "votes": {
+                "10": 13,
+                "11": 22,
+                "12": 37,
+                "13": 6,
+                "14": 0,
+                "20": 0,
+                "21": 78,
+                "22": 12,
+                "23": 1,
+                "24": 15,
+                "3": 1,
+                "5": 0,
+                "6": 3,
+                "7": 2,
+                "8": 4,
+                "9": 135
+            }
+        },
+        "school_name": "TOKİ MALTEPE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1291,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16108_cb_1093786590_1684088749188831696.jpg",
+            "submission_id": 375154,
+            "total_vote": 311,
+            "votes": {
+                "1": 183,
+                "2": 0,
+                "3": 117,
+                "4": 11
+            }
+        },
+        "mv_result": null,
+        "school_name": "TOKİ MALTEPE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1298,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/39799_cb_1093786657_1684085639145400768.jpg",
+            "submission_id": 273045,
+            "total_vote": 339,
+            "votes": {
+                "1": 192,
+                "2": 2,
+                "3": 130,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "TOKİ MALTEPE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1293,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/39866_cb_1093786592_1684094581698538822.jpg",
+            "submission_id": 493731,
+            "total_vote": 322,
+            "votes": {
+                "1": 168,
+                "2": 2,
+                "3": 129,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/39866_mv_1083786592_1684094612019503415.jpg",
+            "submission_id": 494061,
+            "total_vote": 319,
+            "votes": {
+                "1": 1,
+                "10": 11,
+                "11": 29,
+                "12": 36,
+                "13": 9,
+                "21": 62,
+                "22": 23,
+                "24": 13,
+                "7": 6,
+                "9": 129
+            }
+        },
+        "school_name": "TOKİ MALTEPE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1301,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16531_cb_1093786660_1684081878506255121.jpg",
+            "submission_id": 193245,
+            "total_vote": 327,
+            "votes": {
+                "1": 175,
+                "2": 1,
+                "3": 136,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/16531_mv_1083786660_1684088369572897477.jpg",
+            "submission_id": 363403,
+            "total_vote": 315,
+            "votes": {
+                "10": 14,
+                "11": 33,
+                "12": 29,
+                "13": 15,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 62,
+                "22": 20,
+                "23": 1,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 5,
+                "8": 9,
+                "9": 118
+            }
+        },
+        "school_name": "TOKİ MALTEPE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1305,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/8478_cb_1093786664_1684086627373593945.jpg",
+            "submission_id": 305960,
+            "total_vote": 339,
+            "votes": {
+                "1": 181,
+                "2": 1,
+                "3": 133,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/8478_bulk_999999999_1684087783374343698.jpeg",
+            "submission_id": 345063,
+            "total_vote": 324,
+            "votes": {
+                "1": 0,
+                "10": 14,
+                "11": 32,
+                "12": 25,
+                "13": 4,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 0,
+                "21": 69,
+                "22": 29,
+                "23": 1,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 3,
+                "8": 6,
+                "9": 131
+            }
+        },
+        "school_name": "TOKİ MALTEPE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1308,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/27659_cb_1093786667_1684083431047352604.jpg",
+            "submission_id": 216481,
+            "total_vote": 327,
+            "votes": {
+                "1": 182,
+                "3": 119,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/39799_mv_1083786667_1684086412575504581.jpg",
+            "submission_id": 298463,
+            "total_vote": 322,
+            "votes": {
+                "10": 13,
+                "11": 35,
+                "12": 23,
+                "13": 9,
+                "21": 61,
+                "22": 26,
+                "23": 1,
+                "24": 12,
+                "3": 1,
+                "6": 2,
+                "7": 3,
+                "8": 3,
+                "9": 133
+            }
+        },
+        "school_name": "TOKİ MALTEPE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1299,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/39799_cb_1093786658_1684086756781714100.jpg",
+            "submission_id": 310557,
+            "total_vote": 344,
+            "votes": {
+                "1": 191,
+                "2": 1,
+                "3": 130,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "TOKİ MALTEPE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1292,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/47869_cb_1093786591_1684085973595403034.jpg",
+            "submission_id": 284166,
+            "total_vote": 297,
+            "votes": {
+                "1": 176,
+                "2": 2,
+                "3": 108,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/39799_mv_1083786591_1684088140227419893.jpg",
+            "submission_id": 356530,
+            "total_vote": 284,
+            "votes": {
+                "1": 1,
+                "10": 5,
+                "11": 15,
+                "12": 19,
+                "13": 16,
+                "15": 1,
+                "17": 1,
+                "18": 1,
+                "21": 56,
+                "22": 17,
+                "24": 7,
+                "7": 5,
+                "8": 1,
+                "9": 139
+            }
+        },
+        "school_name": "TOKİ MALTEPE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1309,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/8681_bulk_999999999_1684084740642638589.jpeg",
+            "submission_id": 246989,
+            "total_vote": 320,
+            "votes": {
+                "1": 180,
+                "2": 1,
+                "3": 117,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/8681_bulk_999999999_1684084740542189092.jpeg",
+            "submission_id": 246986,
+            "total_vote": 319,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 28,
+                "12": 25,
+                "13": 13,
+                "14": 7,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 63,
+                "22": 18,
+                "23": 1,
+                "24": 16,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 3,
+                "8": 6,
+                "9": 133
+            }
+        },
+        "school_name": "TOKİ MALTEPE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1297,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/68403_cb_1093786656_1684082539922989886.jpg",
+            "submission_id": 201496,
+            "total_vote": 330,
+            "votes": {
+                "1": 197,
+                "2": 2,
+                "3": 118,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/68403_mv_1083786656_1684090610194862828.jpg",
+            "submission_id": 423816,
+            "total_vote": 328,
+            "votes": {
+                "10": 10,
+                "11": 28,
+                "12": 7,
+                "13": 10,
+                "15": 2,
+                "21": 81,
+                "22": 14,
+                "23": 2,
+                "24": 7,
+                "3": 2,
+                "6": 4,
+                "7": 8,
+                "8": 6,
+                "9": 147
+            }
+        },
+        "school_name": "TOKİ MALTEPE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1306,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/12945_cb_1093786665_1684085826736649537.jpg",
+            "submission_id": 279353,
+            "total_vote": 332,
+            "votes": {
+                "1": 181,
+                "2": 0,
+                "3": 135,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/12945_cb_1093786665_1684085736650750754.jpg",
+            "submission_id": 276229,
+            "total_vote": 328,
+            "votes": {
+                "1": 1,
+                "10": 12,
+                "11": 29,
+                "12": 19,
+                "13": 5,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 81,
+                "22": 28,
+                "23": 1,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 5,
+                "8": 2,
+                "9": 135
+            }
+        },
+        "school_name": "TOKİ MALTEPE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1296,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/39799_cb_1093786655_1684084636048130104.jpg",
+            "submission_id": 244115,
+            "total_vote": 328,
+            "votes": {
+                "1": 171,
+                "2": 1,
+                "3": 144,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/39866_mv_1083786655_1684092235506452711.jpg",
+            "submission_id": 453101,
+            "total_vote": 323,
+            "votes": {
+                "10": 6,
+                "11": 13,
+                "12": 32,
+                "13": 10,
+                "14": 1,
+                "19": 2,
+                "21": 90,
+                "22": 13,
+                "24": 4,
+                "3": 1,
+                "6": 1,
+                "7": 1,
+                "8": 4,
+                "9": 145
+            }
+        },
+        "school_name": "TOKİ MALTEPE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1307,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/39866_cb_1093786666_1684091960177625889.jpg",
+            "submission_id": 448589,
+            "total_vote": 335,
+            "votes": {
+                "1": 179,
+                "3": 142,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/39866_mv_1083786666_1684092000830077702.jpg",
+            "submission_id": 449339,
+            "total_vote": 333,
+            "votes": {
+                "10": 11,
+                "11": 27,
+                "12": 28,
+                "13": 12,
+                "15": 1,
+                "21": 83,
+                "22": 21,
+                "24": 6,
+                "6": 1,
+                "7": 4,
+                "9": 139
+            }
+        },
+        "school_name": "TOKİ MALTEPE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1294,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/10672_cb_1093786593_1684097432757669639.jpeg",
+            "submission_id": 520683,
+            "total_vote": 334,
+            "votes": {
+                "1": 161,
+                "2": 1,
+                "3": 163,
+                "4": 9
+            }
+        },
+        "mv_result": null,
+        "school_name": "TOKİ MALTEPE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1302,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/39866_cb_1093786661_1684091746884012569.jpg",
+            "submission_id": 445156,
+            "total_vote": 334,
+            "votes": {
+                "1": 192,
+                "2": 1,
+                "3": 118,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/39866_mv_1083786661_1684092446501303472.jpg",
+            "submission_id": 456421,
+            "total_vote": 321,
+            "votes": {
+                "10": 10,
+                "11": 29,
+                "12": 23,
+                "13": 6,
+                "14": 1,
+                "17": 1,
+                "21": 60,
+                "22": 28,
+                "24": 15,
+                "6": 1,
+                "7": 1,
+                "8": 11,
+                "9": 135
+            }
+        },
+        "school_name": "TOKİ MALTEPE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1311,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/39799_cb_1093786670_1684087422040905619.jpg",
+            "submission_id": 333388,
+            "total_vote": 332,
+            "votes": {
+                "1": 162,
+                "2": 1,
+                "3": 152,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/39799_mv_1083786670_1684087471749942829.jpg",
+            "submission_id": 334965,
+            "total_vote": 324,
+            "votes": {
+                "10": 12,
+                "11": 27,
+                "12": 18,
+                "13": 12,
+                "17": 1,
+                "21": 82,
+                "22": 31,
+                "23": 2,
+                "24": 10,
+                "6": 2,
+                "7": 4,
+                "8": 4,
+                "9": 119
+            }
+        },
+        "school_name": "TOKİ MALTEPE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1313,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/39799_cb_1093786671_1684086039298575912.jpg",
+            "submission_id": 286229,
+            "total_vote": 319,
+            "votes": {
+                "1": 169,
+                "3": 131,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/39799_mv_1083786672_1684086228103060848.jpg",
+            "submission_id": 292356,
+            "total_vote": 314,
+            "votes": {
+                "10": 8,
+                "11": 25,
+                "12": 23,
+                "13": 16,
+                "15": 1,
+                "21": 70,
+                "22": 25,
+                "23": 1,
+                "24": 4,
+                "6": 1,
+                "7": 1,
+                "8": 3,
+                "9": 136
+            }
+        },
+        "school_name": "TOKİ MALTEPE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1310,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/39799_cb_1093786669_1684085230949922659.jpg",
+            "submission_id": 260739,
+            "total_vote": 324,
+            "votes": {
+                "1": 199,
+                "2": 1,
+                "3": 108,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/39873_mv_1083786669_1684089801473156706.jpg",
+            "submission_id": 404543,
+            "total_vote": 323,
+            "votes": {
+                "10": 9,
+                "11": 35,
+                "12": 22,
+                "13": 13,
+                "19": 1,
+                "21": 55,
+                "22": 20,
+                "23": 1,
+                "24": 10,
+                "5": 1,
+                "6": 3,
+                "7": 2,
+                "8": 3,
+                "9": 148
+            }
+        },
+        "school_name": "TOKİ MALTEPE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1303,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/32842_cb_1093786662_1684086163844211286.jpg",
+            "submission_id": 290243,
+            "total_vote": 322,
+            "votes": {
+                "1": 178,
+                "2": 0,
+                "3": 122,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/32842_mv_1083786662_1684086914845032340.jpg",
+            "submission_id": 315947,
+            "total_vote": 320,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 29,
+                "12": 28,
+                "13": 8,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 57,
+                "22": 26,
+                "23": 1,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 6,
+                "8": 3,
+                "9": 146
+            }
+        },
+        "school_name": "TOKİ MALTEPE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1300,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/39866_cb_1093786659_1684091046455459700.jpg",
+            "submission_id": 432845,
+            "total_vote": 327,
+            "votes": {
+                "1": 164,
+                "2": 0,
+                "3": 150,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/39866_mv_1083786659_1684094095977314955.jpg",
+            "submission_id": 486321,
+            "total_vote": 317,
+            "votes": {
+                "10": 15,
+                "11": 20,
+                "12": 28,
+                "13": 19,
+                "21": 86,
+                "22": 16,
+                "23": 1,
+                "24": 14,
+                "3": 1,
+                "7": 3,
+                "8": 4,
+                "9": 110
+            }
+        },
+        "school_name": "TOKİ MALTEPE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1295,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/39866_cb_1093786594_1684091133513463972.jpg",
+            "submission_id": 434527,
+            "total_vote": 331,
+            "votes": {
+                "1": 166,
+                "3": 150,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/39866_mv_1083786594_1684091210857254729.jpg",
+            "submission_id": 436044,
+            "total_vote": 326,
+            "votes": {
+                "1": 1,
+                "10": 8,
+                "11": 21,
+                "12": 48,
+                "13": 9,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 75,
+                "22": 22,
+                "23": 0,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 3,
+                "8": 2,
+                "9": 125
+            }
+        },
+        "school_name": "TOKİ MALTEPE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1304,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/client/45757_cb_1093786663_1684087470268096650.jpg",
+            "submission_id": 334917,
+            "total_vote": 318,
+            "votes": {
+                "1": 155,
+                "2": 1,
+                "3": 139,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "TOKİ MALTEPE ANADOLU LİSESİ"
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "ballot_box_number": 1044,
+        "cm_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8b949a85-f530-4bb4-9488-aa408d13ade4-1684106342724672506.jpg",
+            "submission_id": 774308,
+            "total_vote": 229,
+            "votes": {
+                "1": 74,
+                "3": 144,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d48a0220-7438-4ef2-9037-225ce3f7438d-1684106359345226158.jpg",
+            "submission_id": 775881,
+            "total_vote": 226,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 16,
+                "12": 14,
+                "13": 6,
+                "14": 0,
+                "15": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 88,
+                "22": 28,
+                "24": 9,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 3,
+                "8": 2,
+                "9": 48
+            }
+        },
+        "school_name": "ALİPAŞA DÜĞÜN VE TOPLANTI SALONU"
+    },
+    {
+        "ballot_box_number": 1045,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/57944_bulk_999999999_1684088480956117360.jpg",
+            "submission_id": 366880,
+            "total_vote": 253,
+            "votes": {
+                "1": 97,
+                "2": 1,
+                "3": 146,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/6c4be58b-573a-46a9-bdf0-6445cdc2bd1f-1684105854080803154.jpg",
+            "submission_id": 703642,
+            "total_vote": 249,
+            "votes": {
+                "10": 3,
+                "11": 12,
+                "12": 10,
+                "13": 14,
+                "19": 1,
+                "21": 99,
+                "22": 17,
+                "24": 8,
+                "7": 2,
+                "8": 3,
+                "9": 80
+            }
+        },
+        "school_name": "ALİPAŞA DÜĞÜN VE TOPLANTI SALONU"
+    },
+    {
+        "ballot_box_number": 1043,
+        "cm_result": {
+            "image_url": "https://secim-images.oyveotesi.org/oyveotesi/raw/server/57944_bulk_999999999_1684088334472493531.jpg",
+            "submission_id": 362332,
+            "total_vote": 243,
+            "votes": {
+                "1": 81,
+                "3": 155,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://source3-secim-images.oyveotesi.org/raw/bulk_download/v2/01520f7d-85f5-4f88-80b1-ef364d6314b9-1684105992944831001.jpg",
+            "submission_id": 722712,
+            "total_vote": 243,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 14,
+                "12": 10,
+                "13": 4,
+                "14": 1,
+                "15": 3,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 104,
+                "22": 37,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 0,
+                "9": 52
+            }
+        },
+        "school_name": "ALİPAŞA DÜĞÜN VE TOPLANTI SALONU"
+    }
+]
