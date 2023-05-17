@@ -1,3 +1,5 @@
+# NOTICE: Use the oveo2023.sqlite3 database instead of the JSON files. The JSON files are too hard to fetch and download. The database is much easier to use.
+
 # Oy ve Otesi Data for the 2023 Turkish General Election
 
 This repository contains the unofficial numbers and reports reported by Oy ve Otesi volunteers for the 2023 Turkish General Election. The data is collected from Oy ve Otesi's API (api-sonuc.oyveotesi.org/api/v1/). The official results will be announced by the Supreme Election Council (YSK) after the finalization of the election results.
