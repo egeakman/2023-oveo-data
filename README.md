@@ -26,16 +26,16 @@ The directory names are the plate numbers of their respective cities. The ``xxxx
 PLEASE CONTRIBUTE! It takes time to fetch and download all the data for each city. If you have the time, please help us by fetching the data for a city and opening a pull request. Here are the steps:
 
 1. Fork this repository
-2. Clone https://github.com/egeakman/sandik : <!--egeakman/sandik until the pull request gets merged, after that kiliczsh/sandik-->
+2. Clone https://github.com/kiliczsh/sandik :
    ```
-   git clone https://github.com/egeakman/sandik
+   git clone https://github.com/kiliczsh/sandik
    ```
 3. Change directory to ``sandik`` -> ``cd sandik``
-4. Install dependencies : 
+4. Install dependencies :
    ```
    pip3 install -r requirements.txt
    ```
-5. Clone this repository as ``data`` while in the ``sandik`` directory : 
+5. Clone this repository as ``data`` while in the ``sandik`` directory :
    ```
    git clone https://github.com/egeakman/2023-oveo-data data
    ```
