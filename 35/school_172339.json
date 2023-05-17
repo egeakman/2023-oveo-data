@@ -1,0 +1,406 @@
+[
+    {
+        "ballot_box_number": 1204,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68312_cb_1093798778_1684087095840868853.jpg",
+            "submission_id": 322399,
+            "total_vote": 322,
+            "votes": {
+                "1": 158,
+                "2": 1,
+                "3": 131,
+                "4": 32
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68312_mv_1083798778_1684088204253489846.jpg",
+            "submission_id": 358360,
+            "total_vote": 317,
+            "votes": {
+                "1": 0,
+                "10": 13,
+                "11": 25,
+                "12": 2,
+                "14": 1,
+                "15": 2,
+                "16": 1,
+                "17": 1,
+                "18": 1,
+                "19": 1,
+                "2": 7,
+                "20": 0,
+                "21": 71,
+                "22": 36,
+                "23": 7,
+                "24": 10,
+                "3": 1,
+                "4": 1,
+                "5": 1,
+                "6": 7,
+                "7": 2,
+                "8": 1,
+                "9": 126
+            }
+        },
+        "school_name": "TORBALI AYRANCILAR ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1196,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68312_cb_1093798430_1684086807662485819.jpg",
+            "submission_id": 312307,
+            "total_vote": 283,
+            "votes": {
+                "1": 184,
+                "2": 3,
+                "3": 88,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68312_cb_1093798430_1684083200969833499.jpg",
+            "submission_id": 212157,
+            "total_vote": 278,
+            "votes": {
+                "10": 2,
+                "11": 36,
+                "12": 14,
+                "14": 2,
+                "15": 2,
+                "2": 1,
+                "20": 2,
+                "21": 49,
+                "22": 21,
+                "23": 2,
+                "24": 3,
+                "4": 1,
+                "6": 2,
+                "7": 5,
+                "8": 5,
+                "9": 131
+            }
+        },
+        "school_name": "TORBALI AYRANCILAR ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1202,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68312_cb_1093798776_1684087055603913998.jpg",
+            "submission_id": 320908,
+            "total_vote": 331,
+            "votes": {
+                "1": 154,
+                "2": 1,
+                "3": 163,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68312_mv_1083798776_1684088130419167399.jpg",
+            "submission_id": 356169,
+            "total_vote": 329,
+            "votes": {
+                "10": 2,
+                "11": 41,
+                "12": 33,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "20": 2,
+                "21": 89,
+                "22": 36,
+                "23": 1,
+                "24": 7,
+                "6": 0,
+                "7": 5,
+                "8": 0,
+                "9": 112
+            }
+        },
+        "school_name": "TORBALI AYRANCILAR ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1201,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68312_cb_1093798775_1684086978353293050.jpg",
+            "submission_id": 318198,
+            "total_vote": 322,
+            "votes": {
+                "1": 143,
+                "2": 4,
+                "3": 146,
+                "4": 29
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68312_mv_1083798775_1684088291292952657.jpg",
+            "submission_id": 361044,
+            "total_vote": 320,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 23,
+                "12": 29,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 86,
+                "22": 29,
+                "23": 0,
+                "24": 15,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 1,
+                "9": 126
+            }
+        },
+        "school_name": "TORBALI AYRANCILAR ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1206,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/43515_bulk_999999999_1684084857904974218.jpg",
+            "submission_id": 250091,
+            "total_vote": 333,
+            "votes": {
+                "1": 166,
+                "2": 2,
+                "3": 155,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/43515_bulk_999999999_1684084920821976542.jpg",
+            "submission_id": 251875,
+            "total_vote": 330,
+            "votes": {
+                "10": 5,
+                "11": 27,
+                "12": 38,
+                "14": 1,
+                "15": 1,
+                "17": 1,
+                "21": 86,
+                "22": 25,
+                "23": 4,
+                "24": 3,
+                "3": 2,
+                "6": 5,
+                "7": 4,
+                "8": 1,
+                "9": 127
+            }
+        },
+        "school_name": "TORBALI AYRANCILAR ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1200,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68312_cb_1093798434_1684086953914156472.jpg",
+            "submission_id": 317344,
+            "total_vote": 320,
+            "votes": {
+                "1": 151,
+                "2": 2,
+                "3": 148,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68312_mv_1083798434_1684088065345751347.jpg",
+            "submission_id": 354089,
+            "total_vote": 318,
+            "votes": {
+                "1": 3,
+                "10": 5,
+                "11": 24,
+                "12": 40,
+                "21": 82,
+                "22": 26,
+                "23": 2,
+                "24": 11,
+                "6": 2,
+                "7": 2,
+                "9": 121
+            }
+        },
+        "school_name": "TORBALI AYRANCILAR ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1197,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68312_cb_1093798431_1684086850243943340.jpg",
+            "submission_id": 313778,
+            "total_vote": 331,
+            "votes": {
+                "1": 154,
+                "2": 4,
+                "3": 159,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68312_mv_1083798431_1684087993394988359.jpg",
+            "submission_id": 351742,
+            "total_vote": 334,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 30,
+                "12": 19,
+                "14": 8,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 15,
+                "22": 122,
+                "23": 0,
+                "24": 8,
+                "3": 8,
+                "4": 0,
+                "5": 1,
+                "6": 3,
+                "7": 2,
+                "8": 1,
+                "9": 114
+            }
+        },
+        "school_name": "TORBALI AYRANCILAR ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1203,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68312_cb_1093798777_1684083367531779594.jpg",
+            "submission_id": 215245,
+            "total_vote": 315,
+            "votes": {
+                "1": 132,
+                "2": 2,
+                "3": 160,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "TORBALI AYRANCILAR ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1199,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68312_cb_1093798433_1684086917034894957.jpg",
+            "submission_id": 316039,
+            "total_vote": 325,
+            "votes": {
+                "1": 155,
+                "2": 1,
+                "3": 137,
+                "4": 32
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68312_mv_1083798433_1684087955163602642.jpg",
+            "submission_id": 350413,
+            "total_vote": 316,
+            "votes": {
+                "1": 0,
+                "10": 8,
+                "11": 25,
+                "12": 29,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 82,
+                "22": 18,
+                "23": 2,
+                "24": 17,
+                "3": 2,
+                "4": 1,
+                "5": 0,
+                "6": 4,
+                "7": 8,
+                "8": 4,
+                "9": 114
+            }
+        },
+        "school_name": "TORBALI AYRANCILAR ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1198,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68312_cb_1093798432_1684086885025604761.jpg",
+            "submission_id": 314951,
+            "total_vote": 324,
+            "votes": {
+                "1": 155,
+                "3": 148,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68312_mv_1083798432_1684087909814264897.jpg",
+            "submission_id": 349017,
+            "total_vote": 316,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 16,
+                "12": 43,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 76,
+                "22": 22,
+                "23": 1,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "8": 2,
+                "9": 138
+            }
+        },
+        "school_name": "TORBALI AYRANCILAR ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1205,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68312_cb_1093798779_1684087133513270663.jpg",
+            "submission_id": 323676,
+            "total_vote": 326,
+            "votes": {
+                "1": 171,
+                "2": 1,
+                "3": 131,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "TORBALI AYRANCILAR ANADOLU İMAM HATİP LİSESİ"
+    }
+]

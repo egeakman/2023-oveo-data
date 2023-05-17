@@ -1,0 +1,32 @@
+[
+    {
+        "ballot_box_number": 1109,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e3df1036-94ad-463d-a2d4-cce472a77128-1684106577902775268.jpg",
+            "submission_id": 808579,
+            "total_vote": 95,
+            "votes": {
+                "1": 32,
+                "3": 50,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/41ecb3c1-f816-43d6-aaae-4a374a940769-1684106573175018396.jpg",
+            "submission_id": 807716,
+            "total_vote": 93,
+            "votes": {
+                "10": 2,
+                "11": 6,
+                "12": 6,
+                "13": 1,
+                "21": 30,
+                "22": 18,
+                "24": 2,
+                "7": 2,
+                "9": 26
+            }
+        },
+        "school_name": "SAMURLU TEAŞ LOJ.SOS.TESİSLERİ"
+    }
+]

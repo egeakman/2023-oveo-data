@@ -1,0 +1,708 @@
+[
+    {
+        "ballot_box_number": 1102,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29243_cb_1093864520_1684079736305990096.jpg",
+            "submission_id": 178116,
+            "total_vote": 344,
+            "votes": {
+                "1": 39,
+                "2": 1,
+                "3": 299,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/56806_bulk_999999999_1684156301069499199.jpg",
+            "submission_id": 1022290,
+            "total_vote": 341,
+            "votes": {
+                "11": 7,
+                "12": 3,
+                "13": 34,
+                "21": 224,
+                "22": 36,
+                "24": 5,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 28
+            }
+        },
+        "school_name": "FEVZİPAŞA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1101,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/29243_bulk_999999999_1684084469030778831.jpeg",
+            "submission_id": 239701,
+            "total_vote": 317,
+            "votes": {
+                "1": 37,
+                "2": 3,
+                "3": 274,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/1684103443.jpg",
+            "submission_id": 564391,
+            "total_vote": 314,
+            "votes": {
+                "10": 1,
+                "11": 8,
+                "12": 4,
+                "13": 14,
+                "17": 1,
+                "19": 2,
+                "21": 224,
+                "22": 26,
+                "24": 1,
+                "6": 2,
+                "7": 4,
+                "8": 1,
+                "9": 26
+            }
+        },
+        "school_name": "FEVZİPAŞA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1114,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/76950_cb_1093864532_1684089469884268490.jpg",
+            "submission_id": 395404,
+            "total_vote": 341,
+            "votes": {
+                "1": 34,
+                "2": 0,
+                "3": 302,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/76950_mv_1083864532_1684090112299017471.jpg",
+            "submission_id": 412445,
+            "total_vote": 338,
+            "votes": {
+                "11": 8,
+                "12": 17,
+                "13": 28,
+                "21": 204,
+                "22": 44,
+                "24": 5,
+                "6": 1,
+                "7": 4,
+                "8": 1,
+                "9": 26
+            }
+        },
+        "school_name": "FEVZİPAŞA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1103,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29348_cb_1093864521_1684086076826397811.jpg",
+            "submission_id": 287406,
+            "total_vote": 349,
+            "votes": {
+                "1": 49,
+                "2": 1,
+                "3": 294,
+                "4": 5
+            }
+        },
+        "mv_result": null,
+        "school_name": "FEVZİPAŞA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1097,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "FEVZİPAŞA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1110,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/56806_cb_1093864528_1684090468125125022.jpg",
+            "submission_id": 420605,
+            "total_vote": 352,
+            "votes": {
+                "1": 23,
+                "2": 3,
+                "3": 314,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/56806_bulk_999999999_1684156371425822219.jpg",
+            "submission_id": 1022309,
+            "total_vote": 348,
+            "votes": {
+                "1": 2,
+                "11": 8,
+                "12": 10,
+                "13": 26,
+                "21": 209,
+                "22": 55,
+                "24": 7,
+                "3": 3,
+                "5": 3,
+                "6": 2,
+                "7": 5,
+                "8": 1,
+                "9": 17
+            }
+        },
+        "school_name": "FEVZİPAŞA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1118,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/76950_cb_1093864556_1684083201244090225.jpg",
+            "submission_id": 212163,
+            "total_vote": 344,
+            "votes": {
+                "1": 32,
+                "2": 0,
+                "3": 304,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/76950_mv_1083864555_1684087475434566798.jpg",
+            "submission_id": 335070,
+            "total_vote": 345,
+            "votes": {
+                "11": 3,
+                "12": 15,
+                "13": 38,
+                "21": 219,
+                "22": 30,
+                "24": 9,
+                "7": 2,
+                "9": 29
+            }
+        },
+        "school_name": "FEVZİPAŞA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1098,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/56806_bulk_999999999_1684156486559175048.jpg",
+            "submission_id": 1022331,
+            "total_vote": 335,
+            "votes": {
+                "1": 60,
+                "3": 269,
+                "4": 6
+            }
+        },
+        "mv_result": null,
+        "school_name": "FEVZİPAŞA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1115,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16397_cb_1093864533_1684084302432795168.jpg",
+            "submission_id": 235542,
+            "total_vote": 341,
+            "votes": {
+                "1": 47,
+                "3": 290,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16397_mv_1083864533_1684085669651087858.jpg",
+            "submission_id": 274046,
+            "total_vote": 340,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 7,
+                "12": 17,
+                "13": 36,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 142,
+                "22": 40,
+                "23": 0,
+                "24": 1,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 3,
+                "8": 1,
+                "9": 90
+            }
+        },
+        "school_name": "FEVZİPAŞA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1111,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19743_mv_1083864529_1684090448210890625.jpg",
+            "submission_id": 420124,
+            "total_vote": 351,
+            "votes": {
+                "1": 36,
+                "3": 306,
+                "4": 9
+            }
+        },
+        "mv_result": null,
+        "school_name": "FEVZİPAŞA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1117,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/76950_cb_1093864555_1684083801679611959.jpg",
+            "submission_id": 224069,
+            "total_vote": 344,
+            "votes": {
+                "1": 39,
+                "2": 1,
+                "3": 293,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/76950_bulk_999999999_1684087941845218190.jpg",
+            "submission_id": 349991,
+            "total_vote": 342,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 3,
+                "12": 12,
+                "13": 20,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 211,
+                "22": 40,
+                "23": 0,
+                "24": 6,
+                "3": 7,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 3,
+                "8": 0,
+                "9": 35
+            }
+        },
+        "school_name": "FEVZİPAŞA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1107,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39564_cb_1093864525_1684084014944306628.jpg",
+            "submission_id": 228440,
+            "total_vote": 359,
+            "votes": {
+                "1": 50,
+                "2": 1,
+                "3": 298,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9251ae3b-41b0-4f5c-9579-7b3a2d6b4537-1684105857729952775.jpg",
+            "submission_id": 705020,
+            "total_vote": 358,
+            "votes": {
+                "10": 1,
+                "11": 7,
+                "12": 9,
+                "13": 35,
+                "15": 1,
+                "20": 1,
+                "21": 212,
+                "22": 35,
+                "24": 8,
+                "3": 1,
+                "5": 2,
+                "6": 2,
+                "7": 4,
+                "9": 40
+            }
+        },
+        "school_name": "FEVZİPAŞA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1120,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19743_cb_1093864558_1684089998719508445.jpg",
+            "submission_id": 409711,
+            "total_vote": 349,
+            "votes": {
+                "1": 44,
+                "2": 2,
+                "3": 296,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19743_mv_1083864558_1684090047689819741.jpg",
+            "submission_id": 410877,
+            "total_vote": 349,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 7,
+                "12": 8,
+                "13": 30,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 220,
+                "22": 33,
+                "23": 0,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 6,
+                "8": 0,
+                "9": 38
+            }
+        },
+        "school_name": "FEVZİPAŞA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1104,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39564_cb_1093864522_1684084084670043828.jpg",
+            "submission_id": 230005,
+            "total_vote": 355,
+            "votes": {
+                "1": 44,
+                "2": 1,
+                "3": 300,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "FEVZİPAŞA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1099,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c040814b-17f9-48ba-801e-0165f79ca360-1684105969627013833.jpeg",
+            "submission_id": 720532,
+            "total_vote": 337,
+            "votes": {
+                "1": 41,
+                "3": 287,
+                "4": 9
+            }
+        },
+        "mv_result": null,
+        "school_name": "FEVZİPAŞA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1108,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/56806_bulk_999999999_1684156371304428705.jpg",
+            "submission_id": 1022306,
+            "total_vote": 347,
+            "votes": {
+                "1": 44,
+                "2": 2,
+                "3": 289,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "FEVZİPAŞA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1100,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/beeddc5d-66e2-47f1-93dc-e800e37eaacc-1684105531797792052.jpg",
+            "submission_id": 654299,
+            "total_vote": 338,
+            "votes": {
+                "1": 26,
+                "2": 0,
+                "3": 309,
+                "4": 3
+            }
+        },
+        "mv_result": null,
+        "school_name": "FEVZİPAŞA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1116,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16397_cb_1093864534_1684085933307410677.jpg",
+            "submission_id": 282849,
+            "total_vote": 349,
+            "votes": {
+                "1": 29,
+                "2": 2,
+                "3": 308,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16397_mv_1083864534_1684085957032806528.jpg",
+            "submission_id": 283612,
+            "total_vote": 348,
+            "votes": {
+                "11": 8,
+                "12": 21,
+                "13": 30,
+                "19": 1,
+                "21": 206,
+                "22": 49,
+                "24": 3,
+                "3": 3,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 22
+            }
+        },
+        "school_name": "FEVZİPAŞA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1105,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39564_cb_1093864523_1684087928246413333.jpg",
+            "submission_id": 349548,
+            "total_vote": 351,
+            "votes": {
+                "1": 51,
+                "2": 0,
+                "3": 291,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/39564_bulk_999999999_1684263960070209950.jpg",
+            "submission_id": 1033105,
+            "total_vote": 347,
+            "votes": {
+                "10": 1,
+                "11": 13,
+                "12": 4,
+                "13": 40,
+                "14": 1,
+                "15": 1,
+                "20": 1,
+                "21": 197,
+                "22": 46,
+                "23": 1,
+                "24": 8,
+                "3": 1,
+                "6": 1,
+                "7": 3,
+                "9": 29
+            }
+        },
+        "school_name": "FEVZİPAŞA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1109,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/56806_cb_1093864527_1684085099381828514.jpg",
+            "submission_id": 256963,
+            "total_vote": 348,
+            "votes": {
+                "1": 42,
+                "2": 1,
+                "3": 298,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/56806_mv_1083864527_1684099465692758356.jpeg",
+            "submission_id": 533105,
+            "total_vote": 347,
+            "votes": {
+                "1": 2,
+                "10": 2,
+                "11": 6,
+                "12": 15,
+                "13": 36,
+                "19": 2,
+                "21": 200,
+                "22": 40,
+                "23": 1,
+                "24": 6,
+                "4": 1,
+                "6": 2,
+                "7": 3,
+                "9": 31
+            }
+        },
+        "school_name": "FEVZİPAŞA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1119,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/19743_bulk_999999999_1684085852673783372.jpeg",
+            "submission_id": 280229,
+            "total_vote": 342,
+            "votes": {
+                "1": 44,
+                "2": 0,
+                "3": 290,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19743_mv_1083864557_1684089157903006440.jpg",
+            "submission_id": 386939,
+            "total_vote": 339,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 6,
+                "12": 14,
+                "13": 35,
+                "14": 0,
+                "15": 0,
+                "2": 0,
+                "21": 203,
+                "22": 34,
+                "23": 1,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 2,
+                "9": 34
+            }
+        },
+        "school_name": "FEVZİPAŞA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1113,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/76950_cb_1093864531_1684087800261737338.jpg",
+            "submission_id": 345586,
+            "total_vote": 354,
+            "votes": {
+                "1": 43,
+                "2": 1,
+                "3": 304,
+                "4": 6
+            }
+        },
+        "mv_result": null,
+        "school_name": "FEVZİPAŞA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1106,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20830_cb_1093864524_1684082951939209972.jpg",
+            "submission_id": 207932,
+            "total_vote": 355,
+            "votes": {
+                "1": 24,
+                "2": 1,
+                "3": 317,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/56806_bulk_999999999_1684156301355148390.jpg",
+            "submission_id": 1022294,
+            "total_vote": 353,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 1,
+                "12": 17,
+                "13": 34,
+                "15": 1,
+                "16": 1,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "21": 222,
+                "22": 41,
+                "23": 1,
+                "24": 4,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 1,
+                "9": 23
+            }
+        },
+        "school_name": "FEVZİPAŞA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1112,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/74377_cb_1093864530_1684080349501102296.jpg",
+            "submission_id": 181127,
+            "total_vote": 344,
+            "votes": {
+                "1": 62,
+                "2": 3,
+                "3": 270,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/48a6128b-d540-4ba1-933e-415a7754fdd6-1684106008920917033.jpeg",
+            "submission_id": 725920,
+            "total_vote": 340,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 0,
+                "12": 8,
+                "13": 29,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 187,
+                "22": 41,
+                "23": 4,
+                "24": 0,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 0,
+                "9": 56
+            }
+        },
+        "school_name": "FEVZİPAŞA ORTAOKULU"
+    }
+]

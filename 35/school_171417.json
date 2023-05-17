@@ -1,0 +1,152 @@
+[
+    {
+        "ballot_box_number": 1225,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8f5e56ae-989d-4969-a7e8-e897c9ac99b0-1684106171611671455.jpg",
+            "submission_id": 748816,
+            "total_vote": 319,
+            "votes": {
+                "1": 138,
+                "2": 2,
+                "3": 151,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/1606b584-5524-4335-872f-b7a610444c47-1684106167648154963.jpg",
+            "submission_id": 748106,
+            "total_vote": 303,
+            "votes": {
+                "1": 2,
+                "10": 2,
+                "11": 14,
+                "12": 2,
+                "13": 3,
+                "2": 1,
+                "21": 120,
+                "22": 22,
+                "23": 1,
+                "24": 9,
+                "6": 8,
+                "7": 2,
+                "8": 1,
+                "9": 116
+            }
+        },
+        "school_name": "İSTİKLAL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1223,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9e58baca-c96e-447c-8ce8-7b174a0ade3b-1684105701322907067.jpg",
+            "submission_id": 681682,
+            "total_vote": 287,
+            "votes": {
+                "1": 161,
+                "2": 2,
+                "3": 121,
+                "4": 3
+            }
+        },
+        "mv_result": null,
+        "school_name": "İSTİKLAL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1227,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/420c863f-2219-4267-827f-089b220139bb-1684105846927491255.jpg",
+            "submission_id": 703382,
+            "total_vote": 329,
+            "votes": {
+                "1": 175,
+                "2": 3,
+                "3": 129,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "İSTİKLAL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1224,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f8e0cf2d-3845-4661-a1ca-ad3cf25bd66d-1684106227296516766.jpg",
+            "submission_id": 757734,
+            "total_vote": 332,
+            "votes": {
+                "1": 167,
+                "2": 4,
+                "3": 138,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d156dc7d-8a0d-43a4-adc9-7dbf21b95d7f-1684105815961336965.jpg",
+            "submission_id": 699886,
+            "total_vote": 310,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 20,
+                "12": 6,
+                "13": 3,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 102,
+                "22": 23,
+                "23": 2,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 8,
+                "8": 3,
+                "9": 132
+            }
+        },
+        "school_name": "İSTİKLAL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1226,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8b904a1e-aaa3-4b48-bd97-02f3c959421f-1684106110116681449.jpg",
+            "submission_id": 739779,
+            "total_vote": 323,
+            "votes": {
+                "1": 159,
+                "2": 2,
+                "3": 138,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/857223d1-fec0-44ef-b9b5-a34a959fdee6-1684106086622739967.jpg",
+            "submission_id": 736676,
+            "total_vote": 300,
+            "votes": {
+                "10": 1,
+                "11": 22,
+                "12": 4,
+                "13": 6,
+                "14": 2,
+                "15": 1,
+                "21": 96,
+                "22": 27,
+                "23": 1,
+                "24": 5,
+                "6": 1,
+                "7": 7,
+                "8": 5,
+                "9": 122
+            }
+        },
+        "school_name": "İSTİKLAL İLKOKULU"
+    }
+]

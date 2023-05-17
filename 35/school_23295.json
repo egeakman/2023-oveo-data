@@ -1,0 +1,46 @@
+[
+    {
+        "ballot_box_number": 1260,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/54654_cb_1093799114_1684084616645570673.jpg",
+            "submission_id": 243570,
+            "total_vote": 207,
+            "votes": {
+                "1": 105,
+                "2": 4,
+                "3": 88,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/54654_mv_1083799114_1684084849334282064.jpg",
+            "submission_id": 249885,
+            "total_vote": 204,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 19,
+                "12": 0,
+                "13": 6,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "2": 0,
+                "20": 0,
+                "21": 57,
+                "22": 26,
+                "23": 2,
+                "24": 3,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 4,
+                "8": 1,
+                "9": 77
+            }
+        },
+        "school_name": "TERZİHALİLLER MAH. DÜĞÜN SALONU"
+    }
+]

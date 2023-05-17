@@ -1,0 +1,80 @@
+[
+    {
+        "ballot_box_number": 1286,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/32291_bulk_999999999_1684082156095093566.jpg",
+            "submission_id": 196525,
+            "total_vote": 261,
+            "votes": {
+                "1": 107,
+                "2": 3,
+                "3": 139,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "YUKARIBEY MAH. KOZAK ÇOK PROGRAMLI LİSESİ"
+    },
+    {
+        "ballot_box_number": 1285,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/32291_bulk_999999999_1684084181785115792.jpg",
+            "submission_id": 232362,
+            "total_vote": 242,
+            "votes": {
+                "1": 117,
+                "2": 2,
+                "3": 114,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/32291_bulk_999999999_1684084214044742270.jpg",
+            "submission_id": 233228,
+            "total_vote": 232,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 24,
+                "12": 1,
+                "13": 2,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 76,
+                "22": 23,
+                "23": 1,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 1,
+                "8": 2,
+                "9": 95
+            }
+        },
+        "school_name": "YUKARIBEY MAH. KOZAK ÇOK PROGRAMLI LİSESİ"
+    },
+    {
+        "ballot_box_number": 1287,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/32291_bulk_999999999_1684082914668195254.jpg",
+            "submission_id": 207277,
+            "total_vote": 270,
+            "votes": {
+                "1": 106,
+                "2": 0,
+                "3": 154,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "YUKARIBEY MAH. KOZAK ÇOK PROGRAMLI LİSESİ"
+    }
+]

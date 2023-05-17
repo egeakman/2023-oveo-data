@@ -1,0 +1,255 @@
+[
+    {
+        "ballot_box_number": 2043,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/14767_cb_1093797477_1684090372019632916.jpg",
+            "submission_id": 418470,
+            "total_vote": 303,
+            "votes": {
+                "1": 173,
+                "2": 3,
+                "3": 121,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/14767_mv_1083797477_1684091490256206508.jpg",
+            "submission_id": 441022,
+            "total_vote": 289,
+            "votes": {
+                "10": 6,
+                "11": 5,
+                "12": 39,
+                "21": 59,
+                "22": 16,
+                "23": 1,
+                "24": 5,
+                "6": 3,
+                "7": 1,
+                "9": 154
+            }
+        },
+        "school_name": "İBN-İ SİNA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2041,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/14767_cb_1093797475_1684088354675532746.jpg",
+            "submission_id": 362942,
+            "total_vote": 293,
+            "votes": {
+                "1": 161,
+                "3": 126,
+                "4": 6
+            }
+        },
+        "mv_result": null,
+        "school_name": "İBN-İ SİNA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2042,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/14767_cb_1093797476_1684085252649641036.jpg",
+            "submission_id": 261380,
+            "total_vote": 293,
+            "votes": {
+                "1": 167,
+                "2": 2,
+                "3": 114,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/14767_mv_1083797476_1684085208990657128.jpg",
+            "submission_id": 260115,
+            "total_vote": 280,
+            "votes": {
+                "10": 4,
+                "11": 8,
+                "12": 28,
+                "14": 1,
+                "15": 1,
+                "19": 1,
+                "20": 6,
+                "21": 54,
+                "22": 24,
+                "23": 1,
+                "24": 8,
+                "5": 1,
+                "6": 2,
+                "7": 1,
+                "8": 4,
+                "9": 136
+            }
+        },
+        "school_name": "İBN-İ SİNA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2044,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/14767_cb_1093797478_1684086414100845682.jpg",
+            "submission_id": 298522,
+            "total_vote": 294,
+            "votes": {
+                "1": 171,
+                "2": 3,
+                "3": 112,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/14767_mv_1083797478_1684090212027930172.jpg",
+            "submission_id": 414801,
+            "total_vote": 285,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 10,
+                "12": 34,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 4,
+                "21": 51,
+                "22": 16,
+                "23": 2,
+                "24": 4,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 11,
+                "7": 4,
+                "8": 0,
+                "9": 146
+            }
+        },
+        "school_name": "İBN-İ SİNA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2040,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22167_cb_1093797194_1684081289306242903.jpg",
+            "submission_id": 187547,
+            "total_vote": 269,
+            "votes": {
+                "1": 153,
+                "2": 0,
+                "3": 108,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/14767_mv_1083797194_1684087744188512814.jpg",
+            "submission_id": 343790,
+            "total_vote": 252,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 3,
+                "12": 20,
+                "14": 0,
+                "15": 0,
+                "2": 0,
+                "20": 0,
+                "21": 69,
+                "22": 16,
+                "23": 3,
+                "24": 4,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 1,
+                "9": 128
+            }
+        },
+        "school_name": "İBN-İ SİNA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2046,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/14767_cb_1093797480_1684086451832055693.jpg",
+            "submission_id": 299750,
+            "total_vote": 290,
+            "votes": {
+                "1": 164,
+                "2": 4,
+                "3": 118,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/14767_mv_1083797480_1684090788512397316.jpg",
+            "submission_id": 427454,
+            "total_vote": 277,
+            "votes": {
+                "10": 2,
+                "11": 13,
+                "12": 46,
+                "19": 1,
+                "20": 3,
+                "21": 48,
+                "22": 19,
+                "23": 1,
+                "24": 7,
+                "3": 1,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 131
+            }
+        },
+        "school_name": "İBN-İ SİNA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2045,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/14767_cb_1093797479_1684089772149528820.jpg",
+            "submission_id": 403740,
+            "total_vote": 289,
+            "votes": {
+                "1": 163,
+                "2": 0,
+                "3": 120,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/14767_mv_1083797479_1684089996687410813.jpg",
+            "submission_id": 409634,
+            "total_vote": 276,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 9,
+                "12": 30,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 2,
+                "21": 69,
+                "22": 14,
+                "23": 0,
+                "24": 5,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 3,
+                "7": 3,
+                "8": 1,
+                "9": 133
+            }
+        },
+        "school_name": "İBN-İ SİNA ORTAOKULU"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "ballot_box_number": 2097,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3e12dc67-5f60-46f9-a3dd-be156617619c-1684106132490701113.jpeg",
+            "submission_id": 743344,
+            "total_vote": 313,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 9,
+                "12": 5,
+                "13": 20,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 143,
+                "22": 46,
+                "23": 1,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 0,
+                "9": 72
+            }
+        },
+        "school_name": "ŞÜKRÜ SEHER ERGİL ÇOK PROĞRAMLI AND. LİSESİ SPOR SALONU"
+    },
+    {
+        "ballot_box_number": 2096,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3c29f6db-0c02-41e6-92b2-caebca927fed-1684105953850123302.jpg",
+            "submission_id": 718152,
+            "total_vote": 309,
+            "votes": {
+                "1": 73,
+                "2": 2,
+                "3": 217,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞÜKRÜ SEHER ERGİL ÇOK PROĞRAMLI AND. LİSESİ SPOR SALONU"
+    },
+    {
+        "ballot_box_number": 2098,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ba75a96d-1a9f-401a-a4e8-302ccba72f57-1684105974760552541.jpg",
+            "submission_id": 721324,
+            "total_vote": 309,
+            "votes": {
+                "1": 81,
+                "2": 3,
+                "3": 207,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞÜKRÜ SEHER ERGİL ÇOK PROĞRAMLI AND. LİSESİ SPOR SALONU"
+    },
+    {
+        "ballot_box_number": 2095,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/78cc0c21-8ae4-4592-bf8f-d12e124ff5f1-1684106761343435998.jpg",
+            "submission_id": 834033,
+            "total_vote": 288,
+            "votes": {
+                "1": 101,
+                "2": 1,
+                "3": 181,
+                "4": 5
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞÜKRÜ SEHER ERGİL ÇOK PROĞRAMLI AND. LİSESİ SPOR SALONU"
+    }
+]

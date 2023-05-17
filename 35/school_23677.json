@@ -1,0 +1,731 @@
+[
+    {
+        "ballot_box_number": 1141,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/78201_cb_1093576808_1684086546961195682.jpg",
+            "submission_id": 303188,
+            "total_vote": 342,
+            "votes": {
+                "1": 120,
+                "2": 0,
+                "3": 210,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10071_mv_1083576808_1684088058424541768.jpg",
+            "submission_id": 353874,
+            "total_vote": 334,
+            "votes": {
+                "10": 3,
+                "11": 13,
+                "12": 14,
+                "14": 1,
+                "21": 137,
+                "22": 62,
+                "23": 1,
+                "24": 11,
+                "6": 1,
+                "7": 3,
+                "8": 2,
+                "9": 86
+            }
+        },
+        "school_name": "YAHYA KEMAL BEYATLI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1156,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/42122_cb_1093577583_1684084468185199025.jpg",
+            "submission_id": 239688,
+            "total_vote": 353,
+            "votes": {
+                "1": 111,
+                "2": 0,
+                "3": 226,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/78201_mv_1083577583_1684087679444342658.jpg",
+            "submission_id": 341728,
+            "total_vote": 354,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 17,
+                "12": 12,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 148,
+                "22": 67,
+                "23": 0,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 4,
+                "8": 1,
+                "9": 89
+            }
+        },
+        "school_name": "YAHYA KEMAL BEYATLI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1144,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/37378_cb_1093576811_1684083620170742676.jpg",
+            "submission_id": 220139,
+            "total_vote": 337,
+            "votes": {
+                "1": 105,
+                "3": 215,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/37378_mv_1083576811_1684083938003178460.jpg",
+            "submission_id": 226830,
+            "total_vote": 335,
+            "votes": {
+                "10": 3,
+                "11": 20,
+                "12": 5,
+                "20": 1,
+                "21": 152,
+                "22": 61,
+                "23": 5,
+                "24": 4,
+                "5": 1,
+                "7": 3,
+                "8": 3,
+                "9": 77
+            }
+        },
+        "school_name": "YAHYA KEMAL BEYATLI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1147,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/78201_mv_1083576807_1684083906415609525.jpg",
+            "submission_id": 226199,
+            "total_vote": 350,
+            "votes": {
+                "1": 109,
+                "2": 0,
+                "3": 226,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/78201_mv_1083576814_1684084654943064660.jpg",
+            "submission_id": 244625,
+            "total_vote": 351,
+            "votes": {
+                "10": 5,
+                "11": 20,
+                "12": 18,
+                "14": 1,
+                "21": 132,
+                "22": 75,
+                "24": 10,
+                "5": 1,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 86
+            }
+        },
+        "school_name": "YAHYA KEMAL BEYATLI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1139,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/37378_bulk_999999999_1684088358691212962.jpg",
+            "submission_id": 363052,
+            "total_vote": 336,
+            "votes": {
+                "1": 107,
+                "2": 3,
+                "3": 202,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/78201_mv_1083576806_1684088792701272085.jpg",
+            "submission_id": 376432,
+            "total_vote": 330,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 16,
+                "12": 11,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 143,
+                "22": 56,
+                "23": 1,
+                "24": 14,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 1,
+                "9": 83
+            }
+        },
+        "school_name": "YAHYA KEMAL BEYATLI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1140,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10071_cb_1093576807_1684088574935497702.jpg",
+            "submission_id": 369825,
+            "total_vote": 344,
+            "votes": {
+                "1": 112,
+                "2": 0,
+                "3": 213,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10071_mv_1083576807_1684088609719597112.jpg",
+            "submission_id": 370897,
+            "total_vote": 342,
+            "votes": {
+                "1": 2,
+                "10": 6,
+                "11": 11,
+                "12": 17,
+                "15": 1,
+                "19": 1,
+                "21": 145,
+                "22": 48,
+                "23": 2,
+                "24": 12,
+                "5": 2,
+                "7": 6,
+                "8": 3,
+                "9": 86
+            }
+        },
+        "school_name": "YAHYA KEMAL BEYATLI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1137,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/37378_cb_1093576804_1684087972977159217.jpg",
+            "submission_id": 351031,
+            "total_vote": 312,
+            "votes": {
+                "1": 104,
+                "2": 1,
+                "3": 197,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10071_mv_1083576804_1684090161920437137.jpg",
+            "submission_id": 413655,
+            "total_vote": 308,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 13,
+                "12": 8,
+                "17": 1,
+                "19": 2,
+                "21": 140,
+                "22": 47,
+                "23": 1,
+                "24": 5,
+                "3": 1,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 80
+            }
+        },
+        "school_name": "YAHYA KEMAL BEYATLI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1149,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/24345_cb_1093577576_1684083127542082332.jpg",
+            "submission_id": 210868,
+            "total_vote": 336,
+            "votes": {
+                "1": 97,
+                "2": 2,
+                "3": 214,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/24345_mv_1083577576_1684083670563026588.jpg",
+            "submission_id": 221247,
+            "total_vote": 336,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 26,
+                "12": 10,
+                "14": 1,
+                "19": 1,
+                "21": 137,
+                "22": 68,
+                "24": 13,
+                "7": 10,
+                "8": 1,
+                "9": 67
+            }
+        },
+        "school_name": "YAHYA KEMAL BEYATLI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1145,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/37378_cb_1093576812_1684086509490661547.jpg",
+            "submission_id": 301831,
+            "total_vote": 342,
+            "votes": {
+                "1": 121,
+                "2": 4,
+                "3": 182,
+                "4": 35
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/37378_mv_1083576812_1684087509275975148.jpg",
+            "submission_id": 336212,
+            "total_vote": 335,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 20,
+                "12": 20,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 112,
+                "22": 52,
+                "23": 1,
+                "24": 25,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 1,
+                "9": 91
+            }
+        },
+        "school_name": "YAHYA KEMAL BEYATLI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1151,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10071_cb_1093577578_1684083595758315530.jpg",
+            "submission_id": 219660,
+            "total_vote": 346,
+            "votes": {
+                "1": 111,
+                "2": 1,
+                "3": 216,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10071_mv_1083577578_1684084603763337842.jpg",
+            "submission_id": 243220,
+            "total_vote": 339,
+            "votes": {
+                "10": 3,
+                "11": 16,
+                "12": 12,
+                "21": 133,
+                "22": 63,
+                "23": 2,
+                "24": 13,
+                "3": 1,
+                "7": 11,
+                "8": 4,
+                "9": 81
+            }
+        },
+        "school_name": "YAHYA KEMAL BEYATLI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1138,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/37378_cb_1093576805_1684088078485791081.jpg",
+            "submission_id": 354533,
+            "total_vote": 303,
+            "votes": {
+                "1": 89,
+                "3": 206,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/37378_mv_1083576805_1684088040112467223.jpg",
+            "submission_id": 353243,
+            "total_vote": 297,
+            "votes": {
+                "11": 11,
+                "12": 6,
+                "19": 2,
+                "21": 142,
+                "22": 48,
+                "23": 3,
+                "24": 4,
+                "3": 1,
+                "7": 4,
+                "9": 76
+            }
+        },
+        "school_name": "YAHYA KEMAL BEYATLI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1146,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/24345_cb_1093576813_1684088715323293603.jpg",
+            "submission_id": 374146,
+            "total_vote": 344,
+            "votes": {
+                "1": 101,
+                "2": 1,
+                "3": 212,
+                "4": 30
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/78201_mv_1083576813_1684087149760601266.jpg",
+            "submission_id": 324281,
+            "total_vote": 341,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 15,
+                "12": 3,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 138,
+                "23": 74,
+                "24": 15,
+                "3": 4,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 2,
+                "9": 82
+            }
+        },
+        "school_name": "YAHYA KEMAL BEYATLI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1143,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10071_cb_1093576810_1684086004298877126.jpg",
+            "submission_id": 285052,
+            "total_vote": 353,
+            "votes": {
+                "1": 89,
+                "2": 1,
+                "3": 234,
+                "4": 29
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10071_mv_1083576810_1684086587237208678.jpg",
+            "submission_id": 304583,
+            "total_vote": 343,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 18,
+                "12": 11,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 168,
+                "22": 42,
+                "23": 0,
+                "24": 9,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 2,
+                "7": 14,
+                "8": 2,
+                "9": 71
+            }
+        },
+        "school_name": "YAHYA KEMAL BEYATLI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1152,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10071_cb_1093577579_1684083988409098491.jpg",
+            "submission_id": 227849,
+            "total_vote": 333,
+            "votes": {
+                "1": 93,
+                "2": 3,
+                "3": 213,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/78201_mv_1083577579_1684088702740708728.jpg",
+            "submission_id": 373790,
+            "total_vote": 330,
+            "votes": {
+                "10": 2,
+                "11": 13,
+                "12": 12,
+                "14": 1,
+                "16": 1,
+                "19": 3,
+                "20": 1,
+                "21": 140,
+                "22": 68,
+                "24": 14,
+                "7": 2,
+                "9": 73
+            }
+        },
+        "school_name": "YAHYA KEMAL BEYATLI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1142,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/37378_cb_1093576809_1684085242131807063.jpg",
+            "submission_id": 261078,
+            "total_vote": 339,
+            "votes": {
+                "1": 85,
+                "2": 2,
+                "3": 237,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/37378_mv_1083576809_1684085951221319712.jpg",
+            "submission_id": 283436,
+            "total_vote": 342,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 12,
+                "12": 10,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 173,
+                "22": 47,
+                "23": 1,
+                "24": 13,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 4,
+                "7": 5,
+                "8": 2,
+                "9": 72
+            }
+        },
+        "school_name": "YAHYA KEMAL BEYATLI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1150,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10071_cb_1093577577_1684082286207218706.jpg",
+            "submission_id": 198192,
+            "total_vote": 351,
+            "votes": {
+                "1": 97,
+                "2": 1,
+                "3": 232,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "YAHYA KEMAL BEYATLI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1153,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10071_cb_1093577580_1684081925406861007.jpg",
+            "submission_id": 193768,
+            "total_vote": 345,
+            "votes": {
+                "1": 97,
+                "2": 3,
+                "3": 223,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10071_mv_1083577580_1684082813010968284.jpg",
+            "submission_id": 205627,
+            "total_vote": 340,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 24,
+                "12": 7,
+                "14": 2,
+                "15": 3,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 137,
+                "22": 79,
+                "23": 4,
+                "24": 11,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 0,
+                "9": 69
+            }
+        },
+        "school_name": "YAHYA KEMAL BEYATLI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1154,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10071_cb_1093577579_1684083740403618090.jpg",
+            "submission_id": 222704,
+            "total_vote": 348,
+            "votes": {
+                "1": 113,
+                "2": 2,
+                "3": 215,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10071_mv_1083577581_1684083456770293753.jpg",
+            "submission_id": 216956,
+            "total_vote": 345,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 26,
+                "12": 16,
+                "13": 0,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 154,
+                "22": 46,
+                "23": 1,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 7,
+                "8": 4,
+                "9": 82
+            }
+        },
+        "school_name": "YAHYA KEMAL BEYATLI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1155,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/78201_cb_1093577582_1684088365406368782.jpg",
+            "submission_id": 363251,
+            "total_vote": 345,
+            "votes": {
+                "1": 92,
+                "2": 2,
+                "3": 224,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/42122_cb_1093577582_1684087659348075169.jpg",
+            "submission_id": 341043,
+            "total_vote": 340,
+            "votes": {
+                "10": 4,
+                "11": 22,
+                "12": 4,
+                "21": 138,
+                "22": 87,
+                "23": 3,
+                "24": 12,
+                "7": 4,
+                "8": 2,
+                "9": 64
+            }
+        },
+        "school_name": "YAHYA KEMAL BEYATLI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1148,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10071_cb_1093577575_1684085164041059227.jpg",
+            "submission_id": 258777,
+            "total_vote": 343,
+            "votes": {
+                "1": 94,
+                "3": 222,
+                "4": 27
+            }
+        },
+        "mv_result": null,
+        "school_name": "YAHYA KEMAL BEYATLI İLKOKULU"
+    }
+]

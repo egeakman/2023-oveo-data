@@ -1,0 +1,18 @@
+[
+    {
+        "ballot_box_number": 1046,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/da564faa-4d5a-41f5-8092-bfe91ab9ed09-1684106682665088604.jpeg",
+            "submission_id": 823314,
+            "total_vote": 232,
+            "votes": {
+                "1": 159,
+                "2": 2,
+                "3": 43,
+                "4": 28
+            }
+        },
+        "mv_result": null,
+        "school_name": "KALABAK İLKOKULU"
+    }
+]

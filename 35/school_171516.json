@@ -1,0 +1,180 @@
+[
+    {
+        "ballot_box_number": 1320,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/25852_bulk_999999999_1684090658458064218.jpg",
+            "submission_id": 424761,
+            "total_vote": 266,
+            "votes": {
+                "1": 124,
+                "2": 0,
+                "3": 137,
+                "4": 5
+            }
+        },
+        "mv_result": null,
+        "school_name": "HATİPOĞLU MUSTAFA ERDEM ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1321,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/4364_bulk_999999999_1684095762515610506.jpeg",
+            "submission_id": 506509,
+            "total_vote": 277,
+            "votes": {
+                "1": 110,
+                "2": 1,
+                "3": 154,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/4364_bulk_999999999_1684095762472342734.jpeg",
+            "submission_id": 506507,
+            "total_vote": 260,
+            "votes": {
+                "1": 2,
+                "10": 7,
+                "11": 24,
+                "12": 5,
+                "13": 7,
+                "15": 0,
+                "16": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 104,
+                "22": 25,
+                "23": 2,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 2,
+                "9": 75
+            }
+        },
+        "school_name": "HATİPOĞLU MUSTAFA ERDEM ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1322,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25852_cb_1093580871_1684084218475750811.jpg",
+            "submission_id": 233347,
+            "total_vote": 281,
+            "votes": {
+                "1": 98,
+                "2": 2,
+                "3": 172,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25852_mv_1083580871_1684089861186713105.jpg",
+            "submission_id": 406076,
+            "total_vote": 274,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 8,
+                "12": 2,
+                "13": 12,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 130,
+                "22": 30,
+                "23": 0,
+                "24": 4,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 3,
+                "8": 2,
+                "9": 79
+            }
+        },
+        "school_name": "HATİPOĞLU MUSTAFA ERDEM ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1324,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25852_cb_1093580873_1684091383143270739.jpg",
+            "submission_id": 439306,
+            "total_vote": 284,
+            "votes": {
+                "1": 100,
+                "2": 0,
+                "3": 165,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/25852_bulk_999999999_1684091874611127744.jpg",
+            "submission_id": 447144,
+            "total_vote": 258,
+            "votes": {
+                "10": 4,
+                "11": 22,
+                "12": 3,
+                "13": 7,
+                "14": 1,
+                "2": 1,
+                "21": 108,
+                "22": 35,
+                "23": 1,
+                "24": 12,
+                "3": 1,
+                "7": 1,
+                "8": 3,
+                "9": 59
+            }
+        },
+        "school_name": "HATİPOĞLU MUSTAFA ERDEM ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1323,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25852_cb_1093580872_1684083850122388177.jpg",
+            "submission_id": 225087,
+            "total_vote": 267,
+            "votes": {
+                "1": 92,
+                "2": 3,
+                "3": 153,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25852_mv_1083580872_1684083513538054903.jpg",
+            "submission_id": 218066,
+            "total_vote": 260,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 10,
+                "12": 3,
+                "13": 10,
+                "14": 1,
+                "21": 95,
+                "22": 43,
+                "23": 1,
+                "24": 9,
+                "6": 1,
+                "7": 4,
+                "8": 4,
+                "9": 77
+            }
+        },
+        "school_name": "HATİPOĞLU MUSTAFA ERDEM ORTAOKULU"
+    }
+]

@@ -1,0 +1,243 @@
+[
+    {
+        "ballot_box_number": 1383,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23448_cb_1093584936_1684088118455205499.jpg",
+            "submission_id": 355767,
+            "total_vote": 341,
+            "votes": {
+                "1": 33,
+                "2": 1,
+                "3": 290,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d1893d5f-acd2-4e30-aadb-602e1a9c4c43-1684106030125954861.jpg",
+            "submission_id": 728711,
+            "total_vote": 341,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 4,
+                "12": 12,
+                "13": 24,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 204,
+                "22": 56,
+                "23": 0,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 0,
+                "9": 28
+            }
+        },
+        "school_name": "FATİH SULTAN MEHMET (ALİ SUAVİ) İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1382,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23448_cb_1093584935_1684083267071441525.jpg",
+            "submission_id": 213342,
+            "total_vote": 332,
+            "votes": {
+                "1": 63,
+                "2": 1,
+                "3": 262,
+                "4": 6
+            }
+        },
+        "mv_result": null,
+        "school_name": "FATİH SULTAN MEHMET (ALİ SUAVİ) İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1380,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26582_cb_1093584313_1684084633895420433.jpg",
+            "submission_id": 244059,
+            "total_vote": 316,
+            "votes": {
+                "1": 60,
+                "2": 1,
+                "3": 237,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "FATİH SULTAN MEHMET (ALİ SUAVİ) İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1378,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/29273_bulk_999999999_1684087310451005188.jpg",
+            "submission_id": 329726,
+            "total_vote": 327,
+            "votes": {
+                "1": 63,
+                "2": 2,
+                "3": 253,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/29273_bulk_999999999_1684087604683961451.jpg",
+            "submission_id": 339219,
+            "total_vote": 323,
+            "votes": {
+                "1": 1,
+                "11": 12,
+                "12": 13,
+                "13": 32,
+                "21": 172,
+                "22": 37,
+                "24": 6,
+                "3": 1,
+                "7": 1,
+                "8": 1,
+                "9": 47
+            }
+        },
+        "school_name": "FATİH SULTAN MEHMET (ALİ SUAVİ) İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1379,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26582_cb_1093584312_1684087991915226917.jpg",
+            "submission_id": 351686,
+            "total_vote": 339,
+            "votes": {
+                "1": 40,
+                "2": 1,
+                "3": 286,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source1-secim-images.oyveotesi.org/raw/1005620_mv_3584312_1684098055.jpeg",
+            "submission_id": 524933,
+            "total_vote": 333,
+            "votes": {
+                "1": 1,
+                "11": 7,
+                "12": 8,
+                "13": 34,
+                "2": 1,
+                "21": 187,
+                "22": 56,
+                "24": 8,
+                "3": 1,
+                "7": 1,
+                "8": 1,
+                "9": 28
+            }
+        },
+        "school_name": "FATİH SULTAN MEHMET (ALİ SUAVİ) İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1377,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23255_cb_1093584310_1684091389162006518.jpg",
+            "submission_id": 439380,
+            "total_vote": 324,
+            "votes": {
+                "1": 54,
+                "2": 0,
+                "3": 255,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "FATİH SULTAN MEHMET (ALİ SUAVİ) İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1376,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26582_cb_1093584309_1684088188746779364.jpg",
+            "submission_id": 357954,
+            "total_vote": 320,
+            "votes": {
+                "1": 63,
+                "3": 251,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26582_mv_1083584309_1684088224748568937.jpg",
+            "submission_id": 359032,
+            "total_vote": 316,
+            "votes": {
+                "10": 1,
+                "11": 8,
+                "12": 8,
+                "13": 19,
+                "15": 1,
+                "19": 2,
+                "21": 176,
+                "22": 47,
+                "24": 3,
+                "4": 1,
+                "6": 1,
+                "7": 2,
+                "9": 47
+            }
+        },
+        "school_name": "FATİH SULTAN MEHMET (ALİ SUAVİ) İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1381,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26582_cb_1093584314_1684091564217812751.jpg",
+            "submission_id": 442213,
+            "total_vote": 337,
+            "votes": {
+                "1": 41,
+                "2": 2,
+                "3": 276,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26582_mv_1083584314_1684091102563438907.jpg",
+            "submission_id": 433916,
+            "total_vote": 337,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 13,
+                "12": 8,
+                "13": 24,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 3,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 187,
+                "22": 59,
+                "23": 0,
+                "24": 10,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 26
+            }
+        },
+        "school_name": "FATİH SULTAN MEHMET (ALİ SUAVİ) İLKOKULU B BLOK"
+    }
+]

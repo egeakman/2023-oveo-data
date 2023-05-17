@@ -1,0 +1,802 @@
+[
+    {
+        "ballot_box_number": 1267,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18112_cb_1093760438_1684088570751193876.jpg",
+            "submission_id": 369660,
+            "total_vote": 347,
+            "votes": {
+                "1": 106,
+                "2": 2,
+                "3": 198,
+                "4": 41
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18112_mv_1083760438_1684088631973217890.jpg",
+            "submission_id": 371648,
+            "total_vote": 339,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 16,
+                "12": 7,
+                "13": 10,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 121,
+                "22": 66,
+                "23": 1,
+                "24": 21,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 9,
+                "8": 2,
+                "9": 81
+            }
+        },
+        "school_name": "ERDİNÇ AHMET CENGİZ MESLEKİ EĞİTİM MERKEZİ"
+    },
+    {
+        "ballot_box_number": 1270,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/84550_cb_1093760441_1684085698487232743.jpg",
+            "submission_id": 275008,
+            "total_vote": 333,
+            "votes": {
+                "1": 98,
+                "2": 1,
+                "3": 200,
+                "4": 34
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/84550_mv_1083760441_1684085589868407250.jpg",
+            "submission_id": 271420,
+            "total_vote": 330,
+            "votes": {
+                "10": 6,
+                "11": 27,
+                "12": 13,
+                "13": 19,
+                "15": 1,
+                "20": 1,
+                "21": 115,
+                "22": 62,
+                "24": 16,
+                "3": 3,
+                "6": 1,
+                "7": 7,
+                "8": 1,
+                "9": 58
+            }
+        },
+        "school_name": "ERDİNÇ AHMET CENGİZ MESLEKİ EĞİTİM MERKEZİ"
+    },
+    {
+        "ballot_box_number": 1272,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/75096_bulk_999999999_1684091177678191479.jpg",
+            "submission_id": 435440,
+            "total_vote": 358,
+            "votes": {
+                "1": 106,
+                "2": 3,
+                "3": 209,
+                "4": 40
+            }
+        },
+        "mv_result": null,
+        "school_name": "ERDİNÇ AHMET CENGİZ MESLEKİ EĞİTİM MERKEZİ"
+    },
+    {
+        "ballot_box_number": 1278,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/78225_cb_1093760449_1684086801358719582.jpg",
+            "submission_id": 312082,
+            "total_vote": 353,
+            "votes": {
+                "1": 109,
+                "2": 2,
+                "3": 205,
+                "4": 37
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/78225_mv_1083760449_1684087808924754320.jpg",
+            "submission_id": 345859,
+            "total_vote": 344,
+            "votes": {
+                "10": 4,
+                "11": 34,
+                "12": 15,
+                "13": 14,
+                "21": 114,
+                "22": 69,
+                "24": 15,
+                "6": 1,
+                "7": 8,
+                "8": 1,
+                "9": 69
+            }
+        },
+        "school_name": "ERDİNÇ AHMET CENGİZ MESLEKİ EĞİTİM MERKEZİ"
+    },
+    {
+        "ballot_box_number": 1281,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21976_cb_1093760452_1684090173762155980.jpg",
+            "submission_id": 413922,
+            "total_vote": 345,
+            "votes": {
+                "1": 104,
+                "3": 200,
+                "4": 41
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3c10a484-5311-4a45-94b5-cc318868a17d-1684105543600670654.jpg",
+            "submission_id": 656284,
+            "total_vote": 341,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 34,
+                "12": 8,
+                "13": 18,
+                "14": 4,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 123,
+                "22": 58,
+                "23": 0,
+                "24": 15,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 6,
+                "8": 1,
+                "9": 69
+            }
+        },
+        "school_name": "ERDİNÇ AHMET CENGİZ MESLEKİ EĞİTİM MERKEZİ"
+    },
+    {
+        "ballot_box_number": 1274,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/84550_cb_1093760445_1684086923212201045.jpg",
+            "submission_id": 316299,
+            "total_vote": 333,
+            "votes": {
+                "1": 108,
+                "2": 1,
+                "3": 187,
+                "4": 37
+            }
+        },
+        "mv_result": null,
+        "school_name": "ERDİNÇ AHMET CENGİZ MESLEKİ EĞİTİM MERKEZİ"
+    },
+    {
+        "ballot_box_number": 1277,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/14052_cb_1093760448_1684094920193039635.jpg",
+            "submission_id": 497719,
+            "total_vote": 342,
+            "votes": {
+                "1": 104,
+                "2": 3,
+                "3": 206,
+                "4": 29
+            }
+        },
+        "mv_result": null,
+        "school_name": "ERDİNÇ AHMET CENGİZ MESLEKİ EĞİTİM MERKEZİ"
+    },
+    {
+        "ballot_box_number": 1285,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/09bf7adb-4c2a-4adb-a6fc-eab0a9f4688e-1684105418318942995.jpg",
+            "submission_id": 635372,
+            "total_vote": 341,
+            "votes": {
+                "1": 99,
+                "2": 1,
+                "3": 210,
+                "4": 31
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/06d3e4cc-2ff7-4403-abc0-57a0ab52e57f-1684105402925984147.jpg",
+            "submission_id": 632569,
+            "total_vote": 332,
+            "votes": {
+                "1": 1,
+                "10": 6,
+                "11": 33,
+                "12": 12,
+                "13": 22,
+                "15": 1,
+                "19": 1,
+                "21": 115,
+                "22": 53,
+                "24": 16,
+                "3": 1,
+                "5": 1,
+                "7": 6,
+                "9": 64
+            }
+        },
+        "school_name": "ERDİNÇ AHMET CENGİZ MESLEKİ EĞİTİM MERKEZİ"
+    },
+    {
+        "ballot_box_number": 1271,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/84550_cb_1093760442_1684084982695519260.jpg",
+            "submission_id": 253648,
+            "total_vote": 349,
+            "votes": {
+                "1": 99,
+                "2": 3,
+                "3": 215,
+                "4": 32
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/84550_mv_1083760442_1684085831350515660.jpg",
+            "submission_id": 279468,
+            "total_vote": 345,
+            "votes": {
+                "1": 3,
+                "10": 2,
+                "11": 31,
+                "12": 24,
+                "13": 17,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 122,
+                "22": 45,
+                "23": 1,
+                "24": 20,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 5,
+                "7": 7,
+                "8": 1,
+                "9": 63
+            }
+        },
+        "school_name": "ERDİNÇ AHMET CENGİZ MESLEKİ EĞİTİM MERKEZİ"
+    },
+    {
+        "ballot_box_number": 1284,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/805a449b-66e4-4477-8ff3-6f679826f92b-1684105443189014705.jpg",
+            "submission_id": 639793,
+            "total_vote": 353,
+            "votes": {
+                "1": 115,
+                "2": 0,
+                "3": 211,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2fabbee3-b707-4e28-b918-22894f4a6b79-1684105438692817319.jpg",
+            "submission_id": 639086,
+            "total_vote": 344,
+            "votes": {
+                "10": 5,
+                "11": 33,
+                "12": 7,
+                "13": 11,
+                "19": 2,
+                "21": 128,
+                "22": 57,
+                "24": 14,
+                "6": 2,
+                "7": 4,
+                "9": 81
+            }
+        },
+        "school_name": "ERDİNÇ AHMET CENGİZ MESLEKİ EĞİTİM MERKEZİ"
+    },
+    {
+        "ballot_box_number": 1286,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/52944_bulk_999999999_1684088248726396256.jpg",
+            "submission_id": 359737,
+            "total_vote": 345,
+            "votes": {
+                "1": 108,
+                "2": 4,
+                "3": 198,
+                "4": 35
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/52944_bulk_999999999_1684088293815913808.jpg",
+            "submission_id": 361133,
+            "total_vote": 346,
+            "votes": {
+                "1": 0,
+                "10": 13,
+                "11": 23,
+                "12": 13,
+                "13": 8,
+                "14": 0,
+                "15": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 138,
+                "22": 46,
+                "23": 0,
+                "24": 14,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 9,
+                "8": 2,
+                "9": 78
+            }
+        },
+        "school_name": "ERDİNÇ AHMET CENGİZ MESLEKİ EĞİTİM MERKEZİ"
+    },
+    {
+        "ballot_box_number": 1264,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/14052_cb_1093760435_1684092024971218426.jpg",
+            "submission_id": 449741,
+            "total_vote": 321,
+            "votes": {
+                "1": 100,
+                "2": 5,
+                "3": 207,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/1b86b65b-b228-4c8f-a646-338cdac36693-1684105781328971013.jpeg",
+            "submission_id": 694645,
+            "total_vote": 307,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 23,
+                "12": 6,
+                "13": 16,
+                "14": 1,
+                "15": 2,
+                "16": 0,
+                "17": 2,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 137,
+                "22": 39,
+                "23": 0,
+                "24": 4,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 1,
+                "9": 71
+            }
+        },
+        "school_name": "ERDİNÇ AHMET CENGİZ MESLEKİ EĞİTİM MERKEZİ"
+    },
+    {
+        "ballot_box_number": 1287,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/84550_cb_1093760798_1684084480255974606.jpg",
+            "submission_id": 240019,
+            "total_vote": 348,
+            "votes": {
+                "1": 94,
+                "3": 212,
+                "4": 42
+            }
+        },
+        "mv_result": null,
+        "school_name": "ERDİNÇ AHMET CENGİZ MESLEKİ EĞİTİM MERKEZİ"
+    },
+    {
+        "ballot_box_number": 1273,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/14052_cb_1093760444_1684092982914014752.jpg",
+            "submission_id": 463733,
+            "total_vote": 350,
+            "votes": {
+                "1": 116,
+                "2": 2,
+                "3": 196,
+                "4": 36
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/14052_mv_1083760444_1684093014557898920.jpg",
+            "submission_id": 464116,
+            "total_vote": 344,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 28,
+                "12": 8,
+                "13": 15,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 120,
+                "22": 57,
+                "23": 4,
+                "24": 15,
+                "3": 0,
+                "6": 0,
+                "7": 7,
+                "8": 1,
+                "9": 83
+            }
+        },
+        "school_name": "ERDİNÇ AHMET CENGİZ MESLEKİ EĞİTİM MERKEZİ"
+    },
+    {
+        "ballot_box_number": 1266,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0cc870ad-06e7-4ff5-a420-72bb41620e09-1684105982893476765.jpeg",
+            "submission_id": 722181,
+            "total_vote": 326,
+            "votes": {
+                "1": 102,
+                "2": 2,
+                "3": 201,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8473fd38-6e33-4b5f-a738-5bf3d2fa84ec-1684105770416293919.jpeg",
+            "submission_id": 692730,
+            "total_vote": 318,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 32,
+                "12": 11,
+                "13": 18,
+                "14": 2,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "2": 0,
+                "20": 0,
+                "21": 119,
+                "22": 48,
+                "23": 0,
+                "24": 11,
+                "3": 2,
+                "4": 1,
+                "5": 0,
+                "6": 3,
+                "7": 5,
+                "8": 1,
+                "9": 65
+            }
+        },
+        "school_name": "ERDİNÇ AHMET CENGİZ MESLEKİ EĞİTİM MERKEZİ"
+    },
+    {
+        "ballot_box_number": 1269,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18112_cb_1093760440_1684080534167494828.jpg",
+            "submission_id": 182260,
+            "total_vote": 345,
+            "votes": {
+                "1": 89,
+                "2": 1,
+                "3": 215,
+                "4": 40
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18112_mv_1083760440_1684088355044224884.jpg",
+            "submission_id": 362948,
+            "total_vote": 336,
+            "votes": {
+                "10": 8,
+                "11": 29,
+                "12": 9,
+                "13": 9,
+                "14": 1,
+                "18": 1,
+                "21": 153,
+                "22": 52,
+                "23": 1,
+                "24": 13,
+                "6": 2,
+                "7": 13,
+                "8": 4,
+                "9": 41
+            }
+        },
+        "school_name": "ERDİNÇ AHMET CENGİZ MESLEKİ EĞİTİM MERKEZİ"
+    },
+    {
+        "ballot_box_number": 1275,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21976_cb_1093760446_1684090523103536063.jpg",
+            "submission_id": 421900,
+            "total_vote": 343,
+            "votes": {
+                "1": 109,
+                "2": 5,
+                "3": 190,
+                "4": 39
+            }
+        },
+        "mv_result": null,
+        "school_name": "ERDİNÇ AHMET CENGİZ MESLEKİ EĞİTİM MERKEZİ"
+    },
+    {
+        "ballot_box_number": 1276,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/84550_cb_1093760447_1684083562164286875.jpg",
+            "submission_id": 219012,
+            "total_vote": 345,
+            "votes": {
+                "1": 112,
+                "2": 6,
+                "3": 190,
+                "4": 37
+            }
+        },
+        "mv_result": null,
+        "school_name": "ERDİNÇ AHMET CENGİZ MESLEKİ EĞİTİM MERKEZİ"
+    },
+    {
+        "ballot_box_number": 1268,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/227b4cac-014f-45d3-acbf-4f88b642f6e8-1684105292570313271.jpg",
+            "submission_id": 612748,
+            "total_vote": 348,
+            "votes": {
+                "1": 100,
+                "2": 3,
+                "3": 206,
+                "4": 39
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ef8a9fcf-d8bc-4ee6-8d75-0ddb977e5309-1684105290720549909.jpg",
+            "submission_id": 612357,
+            "total_vote": 340,
+            "votes": {
+                "1": 1,
+                "10": 6,
+                "11": 28,
+                "12": 12,
+                "13": 7,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 1,
+                "20": 0,
+                "21": 127,
+                "22": 59,
+                "23": 1,
+                "24": 20,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 8,
+                "8": 1,
+                "9": 61
+            }
+        },
+        "school_name": "ERDİNÇ AHMET CENGİZ MESLEKİ EĞİTİM MERKEZİ"
+    },
+    {
+        "ballot_box_number": 1279,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/78225_cb_1093760450_1684086754648138971.jpg",
+            "submission_id": 310490,
+            "total_vote": 352,
+            "votes": {
+                "1": 121,
+                "2": 6,
+                "3": 202,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "ERDİNÇ AHMET CENGİZ MESLEKİ EĞİTİM MERKEZİ"
+    },
+    {
+        "ballot_box_number": 1265,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/14052_cb_1093760436_1684091951456434564.jpg",
+            "submission_id": 448430,
+            "total_vote": 319,
+            "votes": {
+                "1": 83,
+                "2": 2,
+                "3": 221,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/39826255-6784-42bc-a046-1259917d7ad7-1684105776082973850.jpeg",
+            "submission_id": 693519,
+            "total_vote": 303,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 14,
+                "12": 7,
+                "13": 12,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 153,
+                "22": 39,
+                "23": 0,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 5,
+                "8": 2,
+                "9": 59
+            }
+        },
+        "school_name": "ERDİNÇ AHMET CENGİZ MESLEKİ EĞİTİM MERKEZİ"
+    },
+    {
+        "ballot_box_number": 1283,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/84550_cb_1093760454_1684083902238025313.jpg",
+            "submission_id": 226145,
+            "total_vote": 355,
+            "votes": {
+                "1": 99,
+                "2": 0,
+                "3": 220,
+                "4": 36
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/84550_mv_1083760454_1684084237554198987.jpg",
+            "submission_id": 233931,
+            "total_vote": 349,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 34,
+                "12": 11,
+                "13": 15,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 125,
+                "22": 62,
+                "23": 0,
+                "24": 23,
+                "3": 4,
+                "4": 0,
+                "5": 2,
+                "6": 0,
+                "7": 10,
+                "8": 0,
+                "9": 56
+            }
+        },
+        "school_name": "ERDİNÇ AHMET CENGİZ MESLEKİ EĞİTİM MERKEZİ"
+    },
+    {
+        "ballot_box_number": 1282,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67045_cb_1093760453_1684087951126663197.jpg",
+            "submission_id": 350281,
+            "total_vote": 336,
+            "votes": {
+                "1": 119,
+                "2": 5,
+                "3": 183,
+                "4": 29
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67045_cb_1093760453_1684087904621604652.jpg",
+            "submission_id": 348848,
+            "total_vote": 333,
+            "votes": {
+                "1": 2,
+                "10": 7,
+                "11": 27,
+                "12": 7,
+                "13": 18,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 106,
+                "22": 50,
+                "23": 0,
+                "24": 18,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 7,
+                "8": 1,
+                "9": 86
+            }
+        },
+        "school_name": "ERDİNÇ AHMET CENGİZ MESLEKİ EĞİTİM MERKEZİ"
+    },
+    {
+        "ballot_box_number": 1280,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/14052_cb_1093760451_1684088927589719424.jpg",
+            "submission_id": 380431,
+            "total_vote": 345,
+            "votes": {
+                "1": 118,
+                "2": 2,
+                "3": 186,
+                "4": 39
+            }
+        },
+        "mv_result": null,
+        "school_name": "ERDİNÇ AHMET CENGİZ MESLEKİ EĞİTİM MERKEZİ"
+    }
+]

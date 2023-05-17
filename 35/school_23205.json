@@ -1,0 +1,520 @@
+[
+    {
+        "ballot_box_number": 1130,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28698_cb_1093798200_1684091042207049180.jpg",
+            "submission_id": 432748,
+            "total_vote": 338,
+            "votes": {
+                "1": 182,
+                "3": 131,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28698_mv_1083798200_1684091006329609660.jpg",
+            "submission_id": 432060,
+            "total_vote": 330,
+            "votes": {
+                "1": 0,
+                "10": 12,
+                "11": 36,
+                "12": 8,
+                "13": 6,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 75,
+                "22": 45,
+                "23": 1,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 1,
+                "8": 4,
+                "9": 129
+            }
+        },
+        "school_name": "MERKEZ ATATÜRK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1114,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28698_cb_1093797924_1684090114776679747.jpg",
+            "submission_id": 412526,
+            "total_vote": 307,
+            "votes": {
+                "1": 155,
+                "3": 135,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28698_mv_1083797924_1684090163903544554.jpg",
+            "submission_id": 413696,
+            "total_vote": 300,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 23,
+                "12": 11,
+                "13": 3,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 82,
+                "22": 39,
+                "23": 0,
+                "24": 18,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 1,
+                "8": 1,
+                "9": 115
+            }
+        },
+        "school_name": "MERKEZ ATATÜRK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1116,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28698_cb_1093797926_1684080446259400909.jpg",
+            "submission_id": 181707,
+            "total_vote": 325,
+            "votes": {
+                "1": 162,
+                "2": 1,
+                "3": 144,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28698_mv_1083797926_1684086107336213882.jpg",
+            "submission_id": 288369,
+            "total_vote": 322,
+            "votes": {
+                "1": 1,
+                "10": 10,
+                "11": 31,
+                "12": 11,
+                "13": 10,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 90,
+                "22": 31,
+                "23": 2,
+                "24": 16,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 112
+            }
+        },
+        "school_name": "MERKEZ ATATÜRK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1113,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28698_cb_1093797923_1684090009419961497.jpg",
+            "submission_id": 409997,
+            "total_vote": 302,
+            "votes": {
+                "1": 174,
+                "2": 1,
+                "3": 110,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "MERKEZ ATATÜRK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1128,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28698_cb_1093798198_1684089746126111430.jpg",
+            "submission_id": 402999,
+            "total_vote": 333,
+            "votes": {
+                "1": 178,
+                "3": 127,
+                "4": 28
+            }
+        },
+        "mv_result": null,
+        "school_name": "MERKEZ ATATÜRK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1121,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "MERKEZ ATATÜRK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1115,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28698_cb_1093797925_1684083711165120914.jpg",
+            "submission_id": 222118,
+            "total_vote": 325,
+            "votes": {
+                "1": 194,
+                "3": 107,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28698_mv_1083797925_1684083747379183087.jpg",
+            "submission_id": 222846,
+            "total_vote": 322,
+            "votes": {
+                "1": 2,
+                "10": 9,
+                "11": 55,
+                "12": 2,
+                "13": 8,
+                "20": 1,
+                "21": 78,
+                "22": 19,
+                "23": 1,
+                "24": 10,
+                "6": 2,
+                "7": 6,
+                "8": 3,
+                "9": 126
+            }
+        },
+        "school_name": "MERKEZ ATATÜRK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1120,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28698_cb_1093797930_1684085834686386174.jpg",
+            "submission_id": 279609,
+            "total_vote": 329,
+            "votes": {
+                "1": 164,
+                "2": 3,
+                "3": 134,
+                "4": 28
+            }
+        },
+        "mv_result": null,
+        "school_name": "MERKEZ ATATÜRK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1129,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28698_cb_1093798199_1684090952505078604.jpg",
+            "submission_id": 430958,
+            "total_vote": 324,
+            "votes": {
+                "1": 167,
+                "2": 0,
+                "3": 135,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "MERKEZ ATATÜRK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1124,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28698_cb_1093797934_1684090609094172867.jpg",
+            "submission_id": 423786,
+            "total_vote": 334,
+            "votes": {
+                "1": 174,
+                "2": 1,
+                "3": 138,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "MERKEZ ATATÜRK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1127,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28698_cb_1093798197_1684088838841348322.jpg",
+            "submission_id": 377756,
+            "total_vote": 321,
+            "votes": {
+                "1": 173,
+                "2": 2,
+                "3": 126,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28698_mv_1083797924_1684088944913802245.jpg",
+            "submission_id": 380929,
+            "total_vote": 318,
+            "votes": {
+                "1": 0,
+                "10": 16,
+                "11": 37,
+                "12": 10,
+                "13": 7,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 74,
+                "22": 38,
+                "23": 0,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 9,
+                "8": 0,
+                "9": 116
+            }
+        },
+        "school_name": "MERKEZ ATATÜRK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1126,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28698_cb_1093797929_1684086037457310715.jpg",
+            "submission_id": 286170,
+            "total_vote": 326,
+            "votes": {
+                "1": 175,
+                "3": 127,
+                "4": 24
+            }
+        },
+        "mv_result": null,
+        "school_name": "MERKEZ ATATÜRK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1119,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28698_cb_1093797929_1684090344770728812.jpg",
+            "submission_id": 417863,
+            "total_vote": 326,
+            "votes": {
+                "1": 175,
+                "3": 127,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28698_mv_1083797929_1684090400872837511.jpg",
+            "submission_id": 419048,
+            "total_vote": 317,
+            "votes": {
+                "1": 1,
+                "10": 12,
+                "11": 34,
+                "12": 5,
+                "13": 5,
+                "19": 1,
+                "21": 89,
+                "22": 26,
+                "23": 1,
+                "24": 12,
+                "6": 3,
+                "7": 5,
+                "8": 3,
+                "9": 120
+            }
+        },
+        "school_name": "MERKEZ ATATÜRK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1123,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28698_cb_1093797933_1684082378518627983.jpg",
+            "submission_id": 199377,
+            "total_vote": 322,
+            "votes": {
+                "1": 160,
+                "2": 2,
+                "3": 123,
+                "4": 37
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28698_mv_1083797933_1684082195202280219.jpg",
+            "submission_id": 196975,
+            "total_vote": 307,
+            "votes": {
+                "10": 8,
+                "11": 40,
+                "12": 13,
+                "13": 9,
+                "21": 75,
+                "22": 21,
+                "23": 1,
+                "24": 19,
+                "3": 2,
+                "6": 1,
+                "7": 5,
+                "8": 2,
+                "9": 111
+            }
+        },
+        "school_name": "MERKEZ ATATÜRK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1125,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28698_cb_1093798195_1684090670729304626.jpg",
+            "submission_id": 424964,
+            "total_vote": 344,
+            "votes": {
+                "1": 178,
+                "2": 2,
+                "3": 148,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28698_mv_1083798195_1684090723836559246.jpg",
+            "submission_id": 426035,
+            "total_vote": 338,
+            "votes": {
+                "1": 1,
+                "10": 9,
+                "11": 46,
+                "12": 9,
+                "13": 9,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 89,
+                "22": 39,
+                "23": 0,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 2,
+                "9": 128
+            }
+        },
+        "school_name": "MERKEZ ATATÜRK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1117,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28698_cb_1093797927_1684085999191219647.jpg",
+            "submission_id": 284894,
+            "total_vote": 333,
+            "votes": {
+                "1": 189,
+                "2": 0,
+                "3": 128,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28698_mv_1083797927_1684085952195076204.jpg",
+            "submission_id": 283473,
+            "total_vote": 326,
+            "votes": {
+                "1": 1,
+                "10": 16,
+                "11": 33,
+                "12": 9,
+                "13": 19,
+                "20": 1,
+                "21": 71,
+                "22": 23,
+                "23": 2,
+                "24": 9,
+                "7": 2,
+                "8": 6,
+                "9": 134
+            }
+        },
+        "school_name": "MERKEZ ATATÜRK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1118,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28698_cb_1093797928_1684090233341895613.jpg",
+            "submission_id": 415351,
+            "total_vote": 334,
+            "votes": {
+                "1": 183,
+                "2": 2,
+                "3": 131,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "MERKEZ ATATÜRK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1122,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28698_cb_1093797932_1684082329839073202.jpg",
+            "submission_id": 198781,
+            "total_vote": 331,
+            "votes": {
+                "1": 147,
+                "2": 2,
+                "3": 162,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28698_mv_1083797932_1684082288275789750.jpg",
+            "submission_id": 198214,
+            "total_vote": 325,
+            "votes": {
+                "10": 9,
+                "11": 42,
+                "12": 1,
+                "13": 13,
+                "17": 1,
+                "21": 106,
+                "22": 33,
+                "24": 10,
+                "3": 1,
+                "7": 1,
+                "8": 1,
+                "9": 107
+            }
+        },
+        "school_name": "MERKEZ ATATÜRK ORTAOKULU"
+    }
+]

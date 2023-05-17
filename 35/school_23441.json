@@ -1,0 +1,81 @@
+[
+    {
+        "ballot_box_number": 1165,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/09632cd3-79ca-4a8d-9fea-dfc76e29d55d-1684105932795711973.jpg",
+            "submission_id": 714114,
+            "total_vote": 243,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 4,
+                "12": 5,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 139,
+                "22": 40,
+                "23": 0,
+                "24": 4,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 0,
+                "8": 0,
+                "9": 45
+            }
+        },
+        "school_name": "URLA ANODULU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1166,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f6a39b3b-e8df-4760-8cd9-d0870f50c345-1684105925449953490.jpg",
+            "submission_id": 713167,
+            "total_vote": 248,
+            "votes": {
+                "1": 38,
+                "2": 1,
+                "3": 202,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/faa50c3a-b864-4580-835b-0bb5435b0e01-1684105920240150874.jpg",
+            "submission_id": 712678,
+            "total_vote": 238,
+            "votes": {
+                "10": 2,
+                "11": 5,
+                "12": 11,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 145,
+                "22": 37,
+                "23": 0,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 4,
+                "7": 0,
+                "8": 1,
+                "9": 26
+            }
+        },
+        "school_name": "URLA ANODULU İMAM HATİP LİSESİ"
+    }
+]

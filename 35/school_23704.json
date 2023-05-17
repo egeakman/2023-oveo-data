@@ -1,0 +1,816 @@
+[
+    {
+        "ballot_box_number": 2097,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/77414_bulk_999999999_1684081510427166313.jpg",
+            "submission_id": 189476,
+            "total_vote": 314,
+            "votes": {
+                "1": 54,
+                "2": 1,
+                "3": 252,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21874_mv_1083864471_1684085417695478189.jpg",
+            "submission_id": 266176,
+            "total_vote": 312,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 7,
+                "12": 12,
+                "13": 16,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 187,
+                "22": 38,
+                "23": 4,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 1,
+                "9": 40
+            }
+        },
+        "school_name": "CEMİL AKYÜZ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2096,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32372_cb_1093864470_1684088266130957758.jpg",
+            "submission_id": 360308,
+            "total_vote": 318,
+            "votes": {
+                "1": 57,
+                "3": 254,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32372_mv_1083864470_1684088357621564691.jpg",
+            "submission_id": 363014,
+            "total_vote": 322,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 5,
+                "12": 3,
+                "13": 25,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 1,
+                "21": 193,
+                "22": 36,
+                "23": 1,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 5,
+                "7": 3,
+                "8": 2,
+                "9": 44
+            }
+        },
+        "school_name": "CEMİL AKYÜZ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2095,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20029_cb_1093864469_1684086860826255137.jpg",
+            "submission_id": 314147,
+            "total_vote": 330,
+            "votes": {
+                "1": 60,
+                "3": 267,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20029_mv_1083864469_1684086697105827199.jpg",
+            "submission_id": 308410,
+            "total_vote": 331,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 10,
+                "12": 6,
+                "13": 13,
+                "15": 1,
+                "21": 197,
+                "22": 46,
+                "24": 3,
+                "7": 4,
+                "8": 3,
+                "9": 46
+            }
+        },
+        "school_name": "CEMİL AKYÜZ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2113,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/75332_cb_1093864507_1684084209898535191.jpg",
+            "submission_id": 233100,
+            "total_vote": 328,
+            "votes": {
+                "1": 58,
+                "2": 1,
+                "3": 261,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/32372_bulk_999999999_1684091000449661172.jpg",
+            "submission_id": 431942,
+            "total_vote": 326,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 13,
+                "12": 17,
+                "13": 23,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "20": 0,
+                "21": 184,
+                "22": 35,
+                "23": 0,
+                "24": 7,
+                "6": 1,
+                "7": 0,
+                "8": 0,
+                "9": 44
+            }
+        },
+        "school_name": "CEMİL AKYÜZ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2110,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32372_cb_1093864504_1684078218240682575.jpg",
+            "submission_id": 174149,
+            "total_vote": 343,
+            "votes": {
+                "1": 41,
+                "3": 296,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32372_mv_1083864504_1684083794022854593.jpg",
+            "submission_id": 223887,
+            "total_vote": 243,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 10,
+                "12": 8,
+                "13": 36,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 100,
+                "22": 51,
+                "23": 0,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 3,
+                "8": 0,
+                "9": 25
+            }
+        },
+        "school_name": "CEMİL AKYÜZ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2107,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32372_cb_1093864501_1684083590991904164.jpg",
+            "submission_id": 219572,
+            "total_vote": 339,
+            "votes": {
+                "1": 50,
+                "2": 3,
+                "3": 269,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32372_mv_1083864501_1684090917096879768.jpg",
+            "submission_id": 430221,
+            "total_vote": 335,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 6,
+                "12": 14,
+                "13": 39,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 182,
+                "22": 39,
+                "23": 0,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 7,
+                "8": 1,
+                "9": 34
+            }
+        },
+        "school_name": "CEMİL AKYÜZ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2115,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/75332_cb_1093864509_1684079997101016699.jpg",
+            "submission_id": 179287,
+            "total_vote": 329,
+            "votes": {
+                "1": 37,
+                "3": 281,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/75332_mv_1083864509_1684084281704300997.jpg",
+            "submission_id": 235078,
+            "total_vote": 327,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 9,
+                "12": 16,
+                "13": 35,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 195,
+                "22": 34,
+                "23": 0,
+                "24": 4,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 0,
+                "9": 31
+            }
+        },
+        "school_name": "CEMİL AKYÜZ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2100,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/56793_cb_1093864474_1684083839991788953.jpg",
+            "submission_id": 224877,
+            "total_vote": 352,
+            "votes": {
+                "1": 53,
+                "2": 1,
+                "3": 280,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/56793_mv_1083864474_1684084146118543153.jpg",
+            "submission_id": 231440,
+            "total_vote": 346,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 9,
+                "12": 10,
+                "13": 26,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 202,
+                "22": 41,
+                "23": 1,
+                "24": 6,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 7,
+                "8": 0,
+                "9": 40
+            }
+        },
+        "school_name": "CEMİL AKYÜZ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2105,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32372_cb_1093864499_1684085956974877195.jpg",
+            "submission_id": 283611,
+            "total_vote": 349,
+            "votes": {
+                "1": 42,
+                "2": 0,
+                "3": 290,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32372_mv_1083864499_1684086084270635028.jpg",
+            "submission_id": 287655,
+            "total_vote": 345,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 2,
+                "12": 8,
+                "13": 30,
+                "14": 1,
+                "15": 1,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 197,
+                "22": 54,
+                "23": 1,
+                "24": 10,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 1,
+                "8": 1,
+                "9": 31
+            }
+        },
+        "school_name": "CEMİL AKYÜZ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2106,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32372_cb_1093864500_1684079798673211107.jpg",
+            "submission_id": 178383,
+            "total_vote": 337,
+            "votes": {
+                "1": 47,
+                "2": 3,
+                "3": 263,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48357_mv_1083864500_1684091324153988364.jpg",
+            "submission_id": 438165,
+            "total_vote": 332,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 0,
+                "12": 11,
+                "13": 33,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 172,
+                "22": 48,
+                "23": 0,
+                "24": 14,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 8,
+                "8": 0,
+                "9": 41
+            }
+        },
+        "school_name": "CEMİL AKYÜZ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2114,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32372_cb_1093864508_1684082374846573025.jpg",
+            "submission_id": 199321,
+            "total_vote": 339,
+            "votes": {
+                "1": 29,
+                "3": 297,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32372_mv_1083864508_1684083372511866898.jpg",
+            "submission_id": 215351,
+            "total_vote": 338,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 3,
+                "12": 8,
+                "13": 29,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 211,
+                "22": 46,
+                "23": 0,
+                "24": 5,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 3,
+                "9": 24
+            }
+        },
+        "school_name": "CEMİL AKYÜZ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2108,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/75332_cb_1093864502_1684089244865973717.jpg",
+            "submission_id": 389398,
+            "total_vote": 346,
+            "votes": {
+                "1": 46,
+                "3": 289,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32372_mv_1083864502_1684091708010088212.jpg",
+            "submission_id": 444573,
+            "total_vote": 333,
+            "votes": {
+                "11": 5,
+                "12": 12,
+                "13": 34,
+                "21": 182,
+                "22": 54,
+                "24": 4,
+                "3": 1,
+                "7": 3,
+                "8": 1,
+                "9": 37
+            }
+        },
+        "school_name": "CEMİL AKYÜZ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2101,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32372_cb_1093864495_1684088769641672464.jpg",
+            "submission_id": 375737,
+            "total_vote": 344,
+            "votes": {
+                "1": 62,
+                "2": 0,
+                "3": 267,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/48358_bulk_999999999_1684089127260607143.jpeg",
+            "submission_id": 386054,
+            "total_vote": 337,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 12,
+                "12": 7,
+                "13": 35,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 171,
+                "22": 47,
+                "23": 0,
+                "24": 6,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 1,
+                "9": 49
+            }
+        },
+        "school_name": "CEMİL AKYÜZ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2098,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32372_cb_1093864472_1684081105837901655.jpg",
+            "submission_id": 186106,
+            "total_vote": 337,
+            "votes": {
+                "1": 49,
+                "2": 1,
+                "3": 283,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32372_mv_1083864472_1684084577224764716.jpg",
+            "submission_id": 242534,
+            "total_vote": 331,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 6,
+                "12": 4,
+                "13": 19,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 216,
+                "22": 40,
+                "23": 0,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 36
+            }
+        },
+        "school_name": "CEMİL AKYÜZ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2103,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32372_cb_1093864497_1684078993273310745.jpg",
+            "submission_id": 175688,
+            "total_vote": 340,
+            "votes": {
+                "1": 69,
+                "2": 1,
+                "3": 258,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "CEMİL AKYÜZ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2104,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/75332_cb_1093864498_1684081504096646683.jpg",
+            "submission_id": 189405,
+            "total_vote": 345,
+            "votes": {
+                "1": 45,
+                "2": 1,
+                "3": 287,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32372_mv_1083864498_1684084137009474635.jpg",
+            "submission_id": 231223,
+            "total_vote": 339,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 12,
+                "12": 18,
+                "13": 31,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 173,
+                "22": 54,
+                "23": 0,
+                "24": 8,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 30
+            }
+        },
+        "school_name": "CEMİL AKYÜZ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2112,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/74353_cb_1093864506_1684084277416356354.jpg",
+            "submission_id": 234976,
+            "total_vote": 341,
+            "votes": {
+                "1": 34,
+                "2": 1,
+                "3": 296,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/74353_mv_1083864506_1684084307743436216.jpg",
+            "submission_id": 235689,
+            "total_vote": 340,
+            "votes": {
+                "10": 1,
+                "11": 8,
+                "12": 11,
+                "13": 29,
+                "21": 210,
+                "22": 44,
+                "23": 1,
+                "24": 9,
+                "3": 1,
+                "5": 1,
+                "7": 1,
+                "9": 24
+            }
+        },
+        "school_name": "CEMİL AKYÜZ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2111,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/56793_cb_1093864505_1684083679054501217.jpg",
+            "submission_id": 221426,
+            "total_vote": 335,
+            "votes": {
+                "1": 54,
+                "3": 266,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/56793_mv_1083864505_1684091357542788512.jpg",
+            "submission_id": 438819,
+            "total_vote": 331,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 13,
+                "12": 9,
+                "13": 33,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 181,
+                "22": 41,
+                "23": 1,
+                "24": 11,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 1,
+                "9": 35
+            }
+        },
+        "school_name": "CEMİL AKYÜZ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2099,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32372_cb_1093864473_1684079150898480790.jpg",
+            "submission_id": 176095,
+            "total_vote": 342,
+            "votes": {
+                "1": 70,
+                "2": 1,
+                "3": 255,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32372_mv_1083864473_1684084046915819331.jpg",
+            "submission_id": 229135,
+            "total_vote": 341,
+            "votes": {
+                "11": 8,
+                "12": 8,
+                "13": 30,
+                "20": 1,
+                "21": 166,
+                "22": 51,
+                "23": 1,
+                "24": 7,
+                "3": 3,
+                "5": 1,
+                "6": 2,
+                "7": 3,
+                "9": 60
+            }
+        },
+        "school_name": "CEMİL AKYÜZ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2102,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32372_cb_1093864496_1684085604501085695.jpg",
+            "submission_id": 271930,
+            "total_vote": 341,
+            "votes": {
+                "1": 54,
+                "3": 276,
+                "4": 11
+            }
+        },
+        "mv_result": null,
+        "school_name": "CEMİL AKYÜZ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2109,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/75332_cb_1093864503_1684079639781613871.jpg",
+            "submission_id": 177743,
+            "total_vote": 351,
+            "votes": {
+                "1": 45,
+                "3": 291,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "CEMİL AKYÜZ ORTAOKULU"
+    }
+]

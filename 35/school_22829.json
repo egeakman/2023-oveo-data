@@ -1,0 +1,71 @@
+[
+    {
+        "ballot_box_number": 1089,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/70826_cb_1093859703_1684088620968676721.jpg",
+            "submission_id": 371248,
+            "total_vote": 233,
+            "votes": {
+                "1": 89,
+                "2": 4,
+                "3": 135,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/70826_mv_1083859703_1684090432271844252.jpg",
+            "submission_id": 419745,
+            "total_vote": 226,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 11,
+                "12": 20,
+                "13": 2,
+                "2": 4,
+                "21": 90,
+                "22": 14,
+                "23": 1,
+                "24": 2,
+                "4": 2,
+                "5": 1,
+                "7": 5,
+                "8": 1,
+                "9": 71
+            }
+        },
+        "school_name": "KIRATLI ESİN ÇAĞDAŞ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1090,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/70826_cb_1093859704_1684088859016695348.jpg",
+            "submission_id": 378312,
+            "total_vote": 246,
+            "votes": {
+                "1": 93,
+                "2": 5,
+                "3": 138,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/70826_mv_1083859704_1684088905164583302.jpg",
+            "submission_id": 379728,
+            "total_vote": 240,
+            "votes": {
+                "10": 1,
+                "11": 12,
+                "12": 35,
+                "13": 2,
+                "21": 99,
+                "23": 7,
+                "24": 2,
+                "7": 4,
+                "8": 1,
+                "9": 77
+            }
+        },
+        "school_name": "KIRATLI ESİN ÇAĞDAŞ İLKOKULU"
+    }
+]

@@ -1,0 +1,495 @@
+[
+    {
+        "ballot_box_number": 1287,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20336_cb_1093800058_1684094380481771516.jpg",
+            "submission_id": 491280,
+            "total_vote": 331,
+            "votes": {
+                "1": 85,
+                "2": 1,
+                "3": 225,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "TİCARET ODASI 80.YIL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1282,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20336_cb_1093799853_1684094196744726480.jpg",
+            "submission_id": 489106,
+            "total_vote": 330,
+            "votes": {
+                "1": 115,
+                "2": 4,
+                "3": 184,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20336_mv_1083799853_1684094211970842162.jpg",
+            "submission_id": 489309,
+            "total_vote": 324,
+            "votes": {
+                "10": 3,
+                "12": 19,
+                "14": 12,
+                "21": 118,
+                "23": 51,
+                "24": 10,
+                "4": 4,
+                "6": 2,
+                "7": 1,
+                "8": 5,
+                "9": 99
+            }
+        },
+        "school_name": "TİCARET ODASI 80.YIL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1278,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20336_cb_1093799849_1684084747717183907.jpg",
+            "submission_id": 247141,
+            "total_vote": 328,
+            "votes": {
+                "1": 96,
+                "2": 1,
+                "3": 213,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20336_mv_1083799849_1684084717016612836.jpg",
+            "submission_id": 246348,
+            "total_vote": 324,
+            "votes": {
+                "10": 5,
+                "11": 25,
+                "12": 24,
+                "21": 138,
+                "22": 48,
+                "23": 1,
+                "24": 9,
+                "3": 1,
+                "4": 1,
+                "7": 2,
+                "8": 1,
+                "9": 69
+            }
+        },
+        "school_name": "TİCARET ODASI 80.YIL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1276,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20336_cb_1093799847_1684094054346796237.jpg",
+            "submission_id": 484121,
+            "total_vote": 307,
+            "votes": {
+                "1": 119,
+                "2": 2,
+                "3": 169,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "TİCARET ODASI 80.YIL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1283,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20336_cb_1093799854_1684094226707554334.jpg",
+            "submission_id": 489504,
+            "total_vote": 326,
+            "votes": {
+                "1": 105,
+                "2": 0,
+                "3": 193,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20336_mv_1083799854_1684094245348463724.jpg",
+            "submission_id": 489707,
+            "total_vote": 321,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 10,
+                "12": 12,
+                "14": 1,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 146,
+                "22": 37,
+                "23": 1,
+                "24": 13,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 2,
+                "7": 8,
+                "8": 1,
+                "9": 83
+            }
+        },
+        "school_name": "TİCARET ODASI 80.YIL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1275,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20336_cb_1093799846_1684094018035726806.jpg",
+            "submission_id": 482278,
+            "total_vote": 314,
+            "votes": {
+                "1": 100,
+                "2": 2,
+                "3": 194,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20336_mv_1083799846_1684094036062064903.jpg",
+            "submission_id": 483288,
+            "total_vote": 311,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 15,
+                "12": 16,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 133,
+                "22": 41,
+                "23": 1,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 2,
+                "9": 84
+            }
+        },
+        "school_name": "TİCARET ODASI 80.YIL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1279,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20336_cb_1093799850_1684085148157863910.jpg",
+            "submission_id": 258332,
+            "total_vote": 330,
+            "votes": {
+                "1": 103,
+                "2": 2,
+                "3": 204,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20336_mv_1083799850_1684085251136634404.jpg",
+            "submission_id": 261334,
+            "total_vote": 325,
+            "votes": {
+                "10": 8,
+                "11": 17,
+                "12": 15,
+                "19": 1,
+                "21": 144,
+                "22": 51,
+                "24": 6,
+                "7": 4,
+                "9": 79
+            }
+        },
+        "school_name": "TİCARET ODASI 80.YIL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1277,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20336_mv_1083799848_1684083564415999252.jpg",
+            "submission_id": 219067,
+            "total_vote": 316,
+            "votes": {
+                "1": 86,
+                "2": 1,
+                "3": 213,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20336_mv_1083799848_1684094091191052187.jpg",
+            "submission_id": 486011,
+            "total_vote": 313,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 17,
+                "12": 24,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 153,
+                "22": 39,
+                "23": 1,
+                "24": 4,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 4,
+                "8": 0,
+                "9": 61
+            }
+        },
+        "school_name": "TİCARET ODASI 80.YIL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1280,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20336_cb_1093799851_1684094511830420167.jpg",
+            "submission_id": 492813,
+            "total_vote": 330,
+            "votes": {
+                "1": 87,
+                "2": 0,
+                "3": 216,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20336_mv_1083799851_1684094539388301903.jpg",
+            "submission_id": 493162,
+            "total_vote": 330,
+            "votes": {
+                "1": 1,
+                "10": 5,
+                "11": 12,
+                "12": 23,
+                "19": 1,
+                "21": 156,
+                "22": 51,
+                "24": 11,
+                "3": 1,
+                "6": 3,
+                "7": 2,
+                "9": 64
+            }
+        },
+        "school_name": "TİCARET ODASI 80.YIL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1285,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20336_cb_1093800056_1684086725934668613.jpg",
+            "submission_id": 309446,
+            "total_vote": 323,
+            "votes": {
+                "1": 90,
+                "2": 5,
+                "3": 205,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20336_mv_1083800056_1684094899907551377.jpg",
+            "submission_id": 497505,
+            "total_vote": 320,
+            "votes": {
+                "10": 3,
+                "11": 19,
+                "12": 24,
+                "21": 122,
+                "22": 50,
+                "23": 1,
+                "24": 15,
+                "3": 4,
+                "4": 1,
+                "6": 2,
+                "7": 12,
+                "8": 1,
+                "9": 66
+            }
+        },
+        "school_name": "TİCARET ODASI 80.YIL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1288,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20336_cb_1093800059_1684094417066818081.jpg",
+            "submission_id": 491718,
+            "total_vote": 336,
+            "votes": {
+                "1": 95,
+                "2": 2,
+                "3": 217,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source1-secim-images.oyveotesi.org/raw/1000000_mv_3800059_1684233462.jpeg",
+            "submission_id": 1027648,
+            "total_vote": 332,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 9,
+                "12": 18,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 145,
+                "22": 55,
+                "23": 2,
+                "24": 12,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 4,
+                "8": 0,
+                "9": 79
+            }
+        },
+        "school_name": "TİCARET ODASI 80.YIL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1284,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20336_cb_1093800055_1684094323695997827.jpg",
+            "submission_id": 490633,
+            "total_vote": 331,
+            "votes": {
+                "1": 92,
+                "2": 1,
+                "3": 215,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20336_mv_1083800055_1684094346183011330.jpg",
+            "submission_id": 490883,
+            "total_vote": 326,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 16,
+                "12": 20,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 138,
+                "22": 54,
+                "23": 1,
+                "24": 10,
+                "3": 0,
+                "4": 1,
+                "5": 2,
+                "6": 2,
+                "7": 5,
+                "8": 1,
+                "9": 73
+            }
+        },
+        "school_name": "TİCARET ODASI 80.YIL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1281,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20336_cb_1093799852_1684094163782716862.jpg",
+            "submission_id": 488690,
+            "total_vote": 325,
+            "votes": {
+                "1": 88,
+                "3": 223,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20336_mv_1083799852_1684094801238163465.jpg",
+            "submission_id": 496301,
+            "total_vote": 321,
+            "votes": {
+                "10": 1,
+                "11": 22,
+                "12": 22,
+                "21": 159,
+                "22": 41,
+                "24": 4,
+                "3": 3,
+                "7": 6,
+                "9": 63
+            }
+        },
+        "school_name": "TİCARET ODASI 80.YIL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1286,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20336_cb_1093800057_1684087556911512526.jpg",
+            "submission_id": 337735,
+            "total_vote": 333,
+            "votes": {
+                "1": 95,
+                "2": 2,
+                "3": 219,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20336_mv_1083800057_1684094969886680192.jpg",
+            "submission_id": 498299,
+            "total_vote": 326,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 16,
+                "12": 20,
+                "14": 0,
+                "2": 0,
+                "21": 134,
+                "22": 59,
+                "23": 0,
+                "24": 11,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 2,
+                "9": 74
+            }
+        },
+        "school_name": "TİCARET ODASI 80.YIL İLKOKULU"
+    }
+]

@@ -1,0 +1,251 @@
+[
+    {
+        "ballot_box_number": 2122,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/48155_bulk_999999999_1684092893502048052.jpg",
+            "submission_id": 462579,
+            "total_vote": 311,
+            "votes": {
+                "1": 124,
+                "2": 1,
+                "3": 159,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/48155_bulk_999999999_1684092933190987405.jpg",
+            "submission_id": 463049,
+            "total_vote": 309,
+            "votes": {
+                "10": 1,
+                "11": 19,
+                "12": 14,
+                "13": 7,
+                "21": 104,
+                "22": 38,
+                "23": 1,
+                "24": 8,
+                "5": 1,
+                "6": 1,
+                "7": 4,
+                "8": 3,
+                "9": 108
+            }
+        },
+        "school_name": "EKREM HAYRİ ÜSTÜNDAĞ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2119,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/48155_bulk_999999999_1684092390761770560.jpg",
+            "submission_id": 455583,
+            "total_vote": 313,
+            "votes": {
+                "1": 114,
+                "2": 3,
+                "3": 169,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/48155_bulk_999999999_1684092390676784980.jpg",
+            "submission_id": 455582,
+            "total_vote": 302,
+            "votes": {
+                "10": 5,
+                "11": 15,
+                "12": 11,
+                "13": 19,
+                "21": 108,
+                "22": 36,
+                "23": 1,
+                "24": 7,
+                "4": 2,
+                "6": 1,
+                "7": 5,
+                "8": 1,
+                "9": 91
+            }
+        },
+        "school_name": "EKREM HAYRİ ÜSTÜNDAĞ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2118,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e72e99bb-026c-40bc-a89f-ed0be3184256-1684106391650542158.jpg",
+            "submission_id": 780620,
+            "total_vote": 312,
+            "votes": {
+                "1": 108,
+                "2": 2,
+                "3": 182,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/48155_bulk_999999999_1684095357733716807.jpeg",
+            "submission_id": 502221,
+            "total_vote": 309,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 15,
+                "12": 17,
+                "13": 24,
+                "14": 0,
+                "15": 1,
+                "18": 0,
+                "2": 0,
+                "21": 111,
+                "22": 11,
+                "23": 34,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "6": 1,
+                "7": 5,
+                "9": 82
+            }
+        },
+        "school_name": "EKREM HAYRİ ÜSTÜNDAĞ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2117,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/48155_bulk_999999999_1684092390867175220.jpg",
+            "submission_id": 455585,
+            "total_vote": 325,
+            "votes": {
+                "1": 131,
+                "2": 2,
+                "3": 170,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "EKREM HAYRİ ÜSTÜNDAĞ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2120,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/48155_bulk_999999999_1684092390339005425.jpg",
+            "submission_id": 455574,
+            "total_vote": 317,
+            "votes": {
+                "1": 92,
+                "2": 2,
+                "3": 200,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "EKREM HAYRİ ÜSTÜNDAĞ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2115,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/48155_bulk_999999999_1684092809225452547.jpg",
+            "submission_id": 461426,
+            "total_vote": 298,
+            "votes": {
+                "1": 117,
+                "2": 2,
+                "3": 169,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/921807ac-9820-48cb-992b-962afa838004-1684106583678054094.jpg",
+            "submission_id": 809384,
+            "total_vote": 287,
+            "votes": {
+                "1": 2,
+                "10": 6,
+                "11": 10,
+                "12": 10,
+                "13": 11,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 2,
+                "21": 101,
+                "22": 36,
+                "23": 1,
+                "24": 0,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 2,
+                "8": 2,
+                "9": 100
+            }
+        },
+        "school_name": "EKREM HAYRİ ÜSTÜNDAĞ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2116,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/fcea2f1c-68f3-43ae-8f65-9daa1e3ebc4b-1684106362922277055.jpg",
+            "submission_id": 777100,
+            "total_vote": 308,
+            "votes": {
+                "1": 116,
+                "2": 1,
+                "3": 170,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2af64c48-ea88-4ea8-ba4f-6b9505413544-1684106302821885069.jpg",
+            "submission_id": 768549,
+            "total_vote": 304,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 14,
+                "12": 7,
+                "13": 16,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 111,
+                "22": 40,
+                "23": 0,
+                "24": 7,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 1,
+                "9": 98
+            }
+        },
+        "school_name": "EKREM HAYRİ ÜSTÜNDAĞ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2121,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/745b686e-232a-4587-82f3-7284c0cfd47b-1684106384270281895.jpeg",
+            "submission_id": 780599,
+            "total_vote": 313,
+            "votes": {
+                "1": 92,
+                "3": 192,
+                "4": 29
+            }
+        },
+        "mv_result": null,
+        "school_name": "EKREM HAYRİ ÜSTÜNDAĞ İLKOKULU"
+    }
+]

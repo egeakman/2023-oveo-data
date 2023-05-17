@@ -1,0 +1,18 @@
+[
+    {
+        "ballot_box_number": 1122,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/35507_bulk_999999999_1684088462478967444.jpeg",
+            "submission_id": 366304,
+            "total_vote": 208,
+            "votes": {
+                "1": 74,
+                "2": 6,
+                "3": 117,
+                "4": 11
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇAMLICA KÖY KAHVESİ"
+    }
+]

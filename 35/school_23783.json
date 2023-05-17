@@ -1,0 +1,132 @@
+[
+    {
+        "ballot_box_number": 1241,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684086736432571033.jpg",
+            "submission_id": 309835,
+            "total_vote": 252,
+            "votes": {
+                "1": 153,
+                "2": 6,
+                "3": 81,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684086736492565384.jpg",
+            "submission_id": 309837,
+            "total_vote": 253,
+            "votes": {
+                "10": 2,
+                "11": 19,
+                "12": 7,
+                "19": 1,
+                "21": 61,
+                "22": 12,
+                "23": 1,
+                "24": 7,
+                "3": 3,
+                "7": 5,
+                "8": 1,
+                "9": 134
+            }
+        },
+        "school_name": "ŞEHİT ER İ. KOCAGÖBEK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1238,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684086770484742458.jpg",
+            "submission_id": 311031,
+            "total_vote": 252,
+            "votes": {
+                "1": 143,
+                "2": 5,
+                "3": 96,
+                "4": 8
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ER İ. KOCAGÖBEK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1239,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684086770215612924.jpg",
+            "submission_id": 311019,
+            "total_vote": 270,
+            "votes": {
+                "1": 161,
+                "2": 3,
+                "3": 94,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/67cd6ee6-9e1e-4266-a2f6-b409a229d4e1-1684106103235200105.jpg",
+            "submission_id": 738769,
+            "total_vote": 262,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 0,
+                "12": 3,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 1,
+                "21": 76,
+                "22": 20,
+                "23": 0,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 7,
+                "8": 4,
+                "9": 137
+            }
+        },
+        "school_name": "ŞEHİT ER İ. KOCAGÖBEK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1240,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684086770179198714.jpg",
+            "submission_id": 311013,
+            "total_vote": 266,
+            "votes": {
+                "1": 139,
+                "2": 4,
+                "3": 111,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a0cf756e-427b-453b-aff6-97f5ac8ef6c3-1684106271373777019.jpg",
+            "submission_id": 764693,
+            "total_vote": 258,
+            "votes": {
+                "10": 3,
+                "11": 21,
+                "12": 1,
+                "14": 1,
+                "16": 1,
+                "20": 2,
+                "21": 86,
+                "22": 15,
+                "24": 6,
+                "6": 2,
+                "7": 3,
+                "8": 2,
+                "9": 115
+            }
+        },
+        "school_name": "ŞEHİT ER İ. KOCAGÖBEK İLKOKULU"
+    }
+]

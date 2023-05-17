@@ -1,0 +1,339 @@
+[
+    {
+        "ballot_box_number": 1029,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68652_cb_1093797153_1684087544115299711.jpg",
+            "submission_id": 337309,
+            "total_vote": 331,
+            "votes": {
+                "1": 61,
+                "2": 1,
+                "3": 254,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/188bc393-3695-4422-8a72-bdd193acbef4-1684105427108733948.jpeg",
+            "submission_id": 638811,
+            "total_vote": 330,
+            "votes": {
+                "10": 1,
+                "11": 18,
+                "12": 35,
+                "15": 1,
+                "19": 2,
+                "2": 1,
+                "21": 169,
+                "22": 48,
+                "23": 1,
+                "24": 4,
+                "4": 1,
+                "6": 1,
+                "7": 7,
+                "8": 1,
+                "9": 40
+            }
+        },
+        "school_name": "CAMİKEBİR MÜŞERREF HEPKON İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1034,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/500bf33c-a5f8-4f22-b21b-38ec60c1040b-1684105821199806689.jpeg",
+            "submission_id": 700398,
+            "total_vote": 324,
+            "votes": {
+                "1": 83,
+                "3": 224,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "CAMİKEBİR MÜŞERREF HEPKON İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1035,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/75694_bulk_999999999_1684097240259413838.jpg",
+            "submission_id": 519273,
+            "total_vote": 324,
+            "votes": {
+                "1": 61,
+                "2": 0,
+                "3": 248,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/75694_bulk_999999999_1684095530910825334.jpg",
+            "submission_id": 504063,
+            "total_vote": 323,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 14,
+                "12": 20,
+                "19": 3,
+                "21": 163,
+                "22": 64,
+                "23": 1,
+                "24": 8,
+                "4": 1,
+                "7": 1,
+                "9": 45
+            }
+        },
+        "school_name": "CAMİKEBİR MÜŞERREF HEPKON İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1033,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17758_cb_1093797459_1684087464776278293.jpg",
+            "submission_id": 334751,
+            "total_vote": 338,
+            "votes": {
+                "1": 94,
+                "2": 3,
+                "3": 226,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17758_mv_1083797459_1684086926374462747.jpg",
+            "submission_id": 316414,
+            "total_vote": 330,
+            "votes": {
+                "10": 4,
+                "11": 18,
+                "12": 19,
+                "21": 162,
+                "22": 42,
+                "24": 10,
+                "7": 2,
+                "8": 2,
+                "9": 71
+            }
+        },
+        "school_name": "CAMİKEBİR MÜŞERREF HEPKON İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1030,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68685_cb_1093797456_1684086304227778152.jpg",
+            "submission_id": 294893,
+            "total_vote": 329,
+            "votes": {
+                "1": 62,
+                "2": 1,
+                "3": 252,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "CAMİKEBİR MÜŞERREF HEPKON İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1027,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68652_cb_1093797153_1684088349876714863.jpg",
+            "submission_id": 362803,
+            "total_vote": 308,
+            "votes": {
+                "1": 66,
+                "2": 1,
+                "3": 236,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17758_mv_1083797153_1684089487857951726.jpg",
+            "submission_id": 395900,
+            "total_vote": 307,
+            "votes": {
+                "11": 4,
+                "12": 35,
+                "17": 1,
+                "21": 169,
+                "22": 31,
+                "24": 2,
+                "3": 3,
+                "7": 2,
+                "8": 1,
+                "9": 59
+            }
+        },
+        "school_name": "CAMİKEBİR MÜŞERREF HEPKON İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1028,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/73648_bulk_999999999_1684087945270854886.jpg",
+            "submission_id": 350104,
+            "total_vote": 333,
+            "votes": {
+                "1": 73,
+                "3": 252,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17758_mv_1083797154_1684089768244598092.jpg",
+            "submission_id": 403635,
+            "total_vote": 323,
+            "votes": {
+                "10": 1,
+                "11": 19,
+                "12": 15,
+                "20": 1,
+                "21": 184,
+                "22": 37,
+                "24": 3,
+                "3": 4,
+                "5": 2,
+                "6": 2,
+                "7": 3,
+                "9": 52
+            }
+        },
+        "school_name": "CAMİKEBİR MÜŞERREF HEPKON İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1036,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/75694_bulk_999999999_1684095397658351782.jpg",
+            "submission_id": 502624,
+            "total_vote": 346,
+            "votes": {
+                "1": 70,
+                "2": 1,
+                "3": 262,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/fb897232-2bec-4f63-98cc-99286e8cd31e-1684106172198922658.jpeg",
+            "submission_id": 748783,
+            "total_vote": 338,
+            "votes": {
+                "10": 1,
+                "11": 23,
+                "12": 26,
+                "18": 1,
+                "21": 186,
+                "22": 43,
+                "24": 1,
+                "3": 3,
+                "5": 1,
+                "6": 2,
+                "7": 7,
+                "9": 44
+            }
+        },
+        "school_name": "CAMİKEBİR MÜŞERREF HEPKON İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1032,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/75694_bulk_999999999_1684097227740869124.jpg",
+            "submission_id": 519189,
+            "total_vote": 327,
+            "votes": {
+                "1": 82,
+                "2": 0,
+                "3": 233,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/692d030f-a0f1-46eb-b392-0bd95aa5a8dc-1684106312194051252.jpeg",
+            "submission_id": 769851,
+            "total_vote": 324,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 21,
+                "12": 2,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 166,
+                "22": 62,
+                "23": 7,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 56
+            }
+        },
+        "school_name": "CAMİKEBİR MÜŞERREF HEPKON İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1031,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f323b4f5-ec56-486c-8af7-9e944a87a02a-1684105510926244894.jpeg",
+            "submission_id": 650614,
+            "total_vote": 338,
+            "votes": {
+                "1": 85,
+                "2": 0,
+                "3": 236,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "CAMİKEBİR MÜŞERREF HEPKON İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1037,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/73648_bulk_999999999_1684138235493528753.jpg",
+            "submission_id": 1017307,
+            "total_vote": 321,
+            "votes": {
+                "1": 66,
+                "3": 239,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/75694_bulk_999999999_1684095397724678686.jpg",
+            "submission_id": 502625,
+            "total_vote": 314,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 12,
+                "12": 26,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 167,
+                "22": 39,
+                "23": 0,
+                "24": 9,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 7,
+                "8": 1,
+                "9": 48
+            }
+        },
+        "school_name": "CAMİKEBİR MÜŞERREF HEPKON İLKOKULU"
+    }
+]

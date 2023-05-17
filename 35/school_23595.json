@@ -1,0 +1,24 @@
+[
+    {
+        "ballot_box_number": 1254,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "KARAKIZLAR DÜĞÜN SALONU"
+    },
+    {
+        "ballot_box_number": 1255,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source1-secim-images.oyveotesi.org/raw/1000924_cb_3799329_1684079729.jpeg",
+            "submission_id": 178092,
+            "total_vote": 196,
+            "votes": {
+                "1": 92,
+                "2": 2,
+                "3": 96,
+                "4": 6
+            }
+        },
+        "mv_result": null,
+        "school_name": "KARAKIZLAR DÜĞÜN SALONU"
+    }
+]

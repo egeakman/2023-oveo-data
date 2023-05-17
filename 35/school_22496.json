@@ -1,0 +1,17 @@
+[
+    {
+        "ballot_box_number": 1089,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e0446669-7fb8-4416-8996-dfa97ac924e9-1684106740902937348.jpg",
+            "submission_id": 831860,
+            "total_vote": 142,
+            "votes": {
+                "1": 51,
+                "3": 71,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "BAĞCILAR KÖY İLKOKULU"
+    }
+]

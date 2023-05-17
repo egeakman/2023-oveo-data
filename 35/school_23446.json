@@ -1,0 +1,48 @@
+[
+    {
+        "ballot_box_number": 1110,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/47857_bulk_999999999_1684081154557541954.jpeg",
+            "submission_id": 186502,
+            "total_vote": 153,
+            "votes": {
+                "1": 28,
+                "2": 0,
+                "3": 117,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/47857_bulk_999999999_1684081244131224922.jpeg",
+            "submission_id": 187170,
+            "total_vote": 151,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 5,
+                "12": 3,
+                "13": 0,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 100,
+                "22": 12,
+                "23": 2,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 0,
+                "8": 0,
+                "9": 22
+            }
+        },
+        "school_name": "OVACIK MAHALLESİ KAHVEHANE"
+    }
+]

@@ -1,0 +1,329 @@
+[
+    {
+        "ballot_box_number": 1060,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/6e9a4ff4-7db4-41f3-8241-f35f754a3633-1684105206831275482.jpeg",
+            "submission_id": 594730,
+            "total_vote": 342,
+            "votes": {
+                "1": 57,
+                "2": 2,
+                "3": 273,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a1caca66-738c-4dcd-94ee-3668a03d3e22-1684105198946554133.jpeg",
+            "submission_id": 593419,
+            "total_vote": 335,
+            "votes": {
+                "10": 0,
+                "11": 7,
+                "12": 18,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "20": 0,
+                "21": 192,
+                "22": 56,
+                "23": 3,
+                "24": 3,
+                "3": 0,
+                "4": 2,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 0,
+                "9": 47
+            }
+        },
+        "school_name": "MUSTAFA URCAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1058,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17481_cb_1093797272_1684085891065166850.jpg",
+            "submission_id": 281530,
+            "total_vote": 335,
+            "votes": {
+                "1": 71,
+                "3": 250,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "MUSTAFA URCAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1061,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/41524_bulk_999999999_1684096146849158484.jpg",
+            "submission_id": 509799,
+            "total_vote": 342,
+            "votes": {
+                "1": 65,
+                "2": 0,
+                "3": 268,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/fa62e7b5-b146-4aca-8fa4-87c08865a536-1684105311677966282.jpeg",
+            "submission_id": 616452,
+            "total_vote": 337,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 8,
+                "12": 15,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 193,
+                "22": 52,
+                "23": 1,
+                "24": 7,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 4,
+                "8": 0,
+                "9": 49
+            }
+        },
+        "school_name": "MUSTAFA URCAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1062,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/41524_bulk_999999999_1684096147101016440.jpg",
+            "submission_id": 509806,
+            "total_vote": 345,
+            "votes": {
+                "1": 68,
+                "2": 0,
+                "3": 261,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "MUSTAFA URCAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1063,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17481_cb_1093797597_1684083999845165617.jpg",
+            "submission_id": 228103,
+            "total_vote": 340,
+            "votes": {
+                "1": 64,
+                "2": 1,
+                "3": 256,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17481_mv_1083797597_1684084033932134746.jpg",
+            "submission_id": 228842,
+            "total_vote": 339,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 6,
+                "12": 14,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "2": 0,
+                "21": 196,
+                "22": 54,
+                "23": 2,
+                "24": 6,
+                "3": 3,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 5,
+                "8": 0,
+                "9": 46
+            }
+        },
+        "school_name": "MUSTAFA URCAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1057,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17481_cb_1093797271_1684084541812060126.jpg",
+            "submission_id": 241567,
+            "total_vote": 291,
+            "votes": {
+                "1": 59,
+                "2": 0,
+                "3": 227,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/41524_bulk_999999999_1684096185955735678.jpg",
+            "submission_id": 510188,
+            "total_vote": 290,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 5,
+                "12": 9,
+                "14": 0,
+                "15": 9,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 99,
+                "22": 96,
+                "23": 0,
+                "24": 1,
+                "3": 9,
+                "4": 6,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 0,
+                "9": 53
+            }
+        },
+        "school_name": "MUSTAFA URCAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1059,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/35280_bulk_999999999_1684087438921171483.jpeg",
+            "submission_id": 333927,
+            "total_vote": 340,
+            "votes": {
+                "1": 59,
+                "2": 1,
+                "3": 267,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/35280_bulk_999999999_1684087439084021634.jpeg",
+            "submission_id": 333930,
+            "total_vote": 334,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 5,
+                "12": 16,
+                "21": 181,
+                "22": 67,
+                "23": 2,
+                "24": 8,
+                "7": 3,
+                "9": 48
+            }
+        },
+        "school_name": "MUSTAFA URCAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1064,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17481_cb_1093797598_1684086947728551133.jpg",
+            "submission_id": 317154,
+            "total_vote": 345,
+            "votes": {
+                "1": 50,
+                "2": 0,
+                "3": 278,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17481_mv_1083797598_1684087484683319033.jpg",
+            "submission_id": 335391,
+            "total_vote": 342,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 12,
+                "12": 14,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 0,
+                "21": 202,
+                "22": 49,
+                "23": 2,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 6,
+                "8": 0,
+                "9": 43
+            }
+        },
+        "school_name": "MUSTAFA URCAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1056,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17481_cb_1093797270_1684083107239825190.jpg",
+            "submission_id": 210514,
+            "total_vote": 308,
+            "votes": {
+                "1": 56,
+                "2": 2,
+                "3": 244,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17481_mv_1083797270_1684083134004170924.jpg",
+            "submission_id": 210976,
+            "total_vote": 306,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 5,
+                "12": 4,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 198,
+                "22": 36,
+                "23": 0,
+                "24": 2,
+                "3": 1,
+                "4": 0,
+                "5": 2,
+                "6": 1,
+                "7": 2,
+                "8": 0,
+                "9": 53
+            }
+        },
+        "school_name": "MUSTAFA URCAN İLKOKULU"
+    }
+]

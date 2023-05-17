@@ -1,0 +1,35 @@
+[
+    {
+        "ballot_box_number": 1006,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28707_bulk_999999999_1684166905301341225.jpg",
+            "submission_id": 1023686,
+            "total_vote": 243,
+            "votes": {
+                "1": 32,
+                "2": 2,
+                "3": 203,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28707_bulk_999999999_1684166905399091027.jpg",
+            "submission_id": 1023687,
+            "total_vote": 236,
+            "votes": {
+                "10": 1,
+                "11": 5,
+                "12": 10,
+                "19": 1,
+                "21": 151,
+                "22": 39,
+                "23": 1,
+                "24": 3,
+                "5": 2,
+                "8": 1,
+                "9": 22
+            }
+        },
+        "school_name": "İNECİK KÖY KONAĞI"
+    }
+]

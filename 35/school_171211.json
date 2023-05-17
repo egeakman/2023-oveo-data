@@ -1,0 +1,352 @@
+[
+    {
+        "ballot_box_number": 1143,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39634_cb_1093757067_1684087620308157227.jpg",
+            "submission_id": 339728,
+            "total_vote": 321,
+            "votes": {
+                "1": 101,
+                "2": 2,
+                "3": 189,
+                "4": 29
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39634_mv_1083757067_1684087654495536335.jpg",
+            "submission_id": 340903,
+            "total_vote": 317,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 17,
+                "12": 45,
+                "13": 16,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 4,
+                "21": 104,
+                "22": 22,
+                "24": 13,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 5,
+                "8": 4,
+                "9": 78
+            }
+        },
+        "school_name": "MENEMEN TOKİ AHISKA KENT İLKOKUL VE ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1144,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39634_cb_1093757068_1684088644164950643.jpg",
+            "submission_id": 372018,
+            "total_vote": 333,
+            "votes": {
+                "1": 106,
+                "2": 1,
+                "3": 208,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39634_mv_1083757068_1684088575614317051.jpg",
+            "submission_id": 369852,
+            "total_vote": 326,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 26,
+                "12": 30,
+                "13": 20,
+                "14": 0,
+                "19": 0,
+                "2": 1,
+                "20": 1,
+                "21": 111,
+                "22": 36,
+                "23": 1,
+                "24": 15,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 2,
+                "7": 5,
+                "8": 0,
+                "9": 75
+            }
+        },
+        "school_name": "MENEMEN TOKİ AHISKA KENT İLKOKUL VE ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1141,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/64536_bulk_999999999_1684087163906165246.jpg",
+            "submission_id": 324737,
+            "total_vote": 314,
+            "votes": {
+                "1": 108,
+                "3": 188,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/64536_mv_1083757065_1684086429544937045.jpg",
+            "submission_id": 299018,
+            "total_vote": 306,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 20,
+                "12": 57,
+                "13": 5,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 95,
+                "22": 28,
+                "23": 0,
+                "24": 6,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 5,
+                "7": 5,
+                "8": 1,
+                "9": 77
+            }
+        },
+        "school_name": "MENEMEN TOKİ AHISKA KENT İLKOKUL VE ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1148,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39634_cb_1093757072_1684083033792504450.jpg",
+            "submission_id": 209317,
+            "total_vote": 311,
+            "votes": {
+                "1": 104,
+                "2": 3,
+                "3": 185,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39634_mv_1083757072_1684088193835471517.jpg",
+            "submission_id": 358087,
+            "total_vote": 301,
+            "votes": {
+                "10": 5,
+                "11": 27,
+                "12": 40,
+                "13": 15,
+                "21": 114,
+                "22": 13,
+                "23": 1,
+                "24": 13,
+                "5": 1,
+                "6": 1,
+                "7": 8,
+                "9": 63
+            }
+        },
+        "school_name": "MENEMEN TOKİ AHISKA KENT İLKOKUL VE ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1142,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39634_cb_1093757066_1684088452580872196.jpg",
+            "submission_id": 366019,
+            "total_vote": 326,
+            "votes": {
+                "1": 127,
+                "2": 1,
+                "3": 181,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39634_mv_1083757066_1684089937760141637.jpg",
+            "submission_id": 408121,
+            "total_vote": 315,
+            "votes": {
+                "10": 3,
+                "11": 30,
+                "12": 46,
+                "13": 21,
+                "21": 94,
+                "22": 22,
+                "24": 7,
+                "5": 1,
+                "7": 4,
+                "8": 4,
+                "9": 83
+            }
+        },
+        "school_name": "MENEMEN TOKİ AHISKA KENT İLKOKUL VE ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1147,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39634_cb_1093757071_1684082941896348838.jpg",
+            "submission_id": 207769,
+            "total_vote": 313,
+            "votes": {
+                "1": 121,
+                "3": 160,
+                "4": 32
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39634_mv_1083757071_1684082992749372096.jpg",
+            "submission_id": 208594,
+            "total_vote": 303,
+            "votes": {
+                "10": 7,
+                "11": 34,
+                "12": 45,
+                "13": 16,
+                "21": 81,
+                "22": 15,
+                "23": 1,
+                "24": 12,
+                "7": 10,
+                "9": 82
+            }
+        },
+        "school_name": "MENEMEN TOKİ AHISKA KENT İLKOKUL VE ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1140,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/64536_cb_1093757064_1684079614381337446.jpg",
+            "submission_id": 177662,
+            "total_vote": 297,
+            "votes": {
+                "1": 114,
+                "2": 0,
+                "3": 175,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39634_mv_1083757064_1684088374130885821.jpg",
+            "submission_id": 363548,
+            "total_vote": 287,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 11,
+                "12": 31,
+                "13": 13,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 2,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 111,
+                "22": 15,
+                "23": 0,
+                "24": 0,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 0,
+                "8": 0,
+                "9": 96
+            }
+        },
+        "school_name": "MENEMEN TOKİ AHISKA KENT İLKOKUL VE ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1146,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39634_cb_1093757070_1684085955129655245.jpg",
+            "submission_id": 283555,
+            "total_vote": 316,
+            "votes": {
+                "1": 126,
+                "2": 1,
+                "3": 161,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39634_mv_1083757070_1684085995371552983.jpg",
+            "submission_id": 284775,
+            "total_vote": 308,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 22,
+                "12": 36,
+                "13": 15,
+                "21": 88,
+                "22": 19,
+                "24": 9,
+                "7": 7,
+                "8": 3,
+                "9": 105
+            }
+        },
+        "school_name": "MENEMEN TOKİ AHISKA KENT İLKOKUL VE ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1145,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39634_cb_1093757069_1684087092699781595.jpg",
+            "submission_id": 322278,
+            "total_vote": 320,
+            "votes": {
+                "1": 108,
+                "2": 1,
+                "3": 190,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39634_mv_1083757069_1684087781437317655.jpg",
+            "submission_id": 345008,
+            "total_vote": 314,
+            "votes": {
+                "1": 1,
+                "10": 7,
+                "11": 29,
+                "12": 42,
+                "13": 5,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "2": 0,
+                "21": 94,
+                "22": 37,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 6,
+                "7": 5,
+                "8": 2,
+                "9": 74
+            }
+        },
+        "school_name": "MENEMEN TOKİ AHISKA KENT İLKOKUL VE ORTAOKULU"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "ballot_box_number": 1058,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/29900_bulk_999999999_1684088503306691597.jpg",
+            "submission_id": 367593,
+            "total_vote": 304,
+            "votes": {
+                "1": 86,
+                "2": 3,
+                "3": 189,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/29900_bulk_999999999_1684088503414477900.jpg",
+            "submission_id": 367595,
+            "total_vote": 302,
+            "votes": {
+                "10": 3,
+                "11": 18,
+                "12": 1,
+                "13": 8,
+                "21": 156,
+                "22": 30,
+                "24": 5,
+                "3": 1,
+                "7": 8,
+                "8": 1,
+                "9": 71
+            }
+        },
+        "school_name": "BAĞYURDU KAZIMDİRİK ORTAOKULU"
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "ballot_box_number": 1009,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/4364_bulk_999999999_1684089153607725553.jpeg",
+            "submission_id": 386806,
+            "total_vote": 270,
+            "votes": {
+                "1": 77,
+                "3": 180,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/4364_bulk_999999999_1684087295298128524.jpeg",
+            "submission_id": 329222,
+            "total_vote": 253,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 19,
+                "12": 1,
+                "13": 7,
+                "14": 1,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 123,
+                "22": 37,
+                "23": 0,
+                "24": 6,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 2,
+                "9": 43
+            }
+        },
+        "school_name": "HALK EĞİTİM MERKEZİ"
+    },
+    {
+        "ballot_box_number": 1010,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/4364_bulk_999999999_1684089153462047155.jpeg",
+            "submission_id": 386800,
+            "total_vote": 291,
+            "votes": {
+                "1": 89,
+                "2": 0,
+                "3": 185,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/4364_bulk_999999999_1684087295208430425.jpeg",
+            "submission_id": 329220,
+            "total_vote": 284,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 18,
+                "12": 0,
+                "13": 11,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 148,
+                "22": 24,
+                "23": 0,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 2,
+                "9": 68
+            }
+        },
+        "school_name": "HALK EĞİTİM MERKEZİ"
+    }
+]

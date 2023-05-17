@@ -1,0 +1,458 @@
+[
+    {
+        "ballot_box_number": 1023,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/30377_cb_1093859157_1684088170763094144.jpg",
+            "submission_id": 357424,
+            "total_vote": 302,
+            "votes": {
+                "1": 27,
+                "2": 2,
+                "3": 269,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/30377_mv_1083859157_1684089741742249665.jpg",
+            "submission_id": 402889,
+            "total_vote": 298,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 2,
+                "12": 27,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 188,
+                "22": 49,
+                "23": 0,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 1,
+                "8": 0,
+                "9": 23
+            }
+        },
+        "school_name": "ÖZEL SAINT JOSEPH FRANSIZ LİSESİ"
+    },
+    {
+        "ballot_box_number": 1025,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17496_cb_1093859159_1684087162458000471.jpg",
+            "submission_id": 324681,
+            "total_vote": 301,
+            "votes": {
+                "1": 40,
+                "3": 250,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/30377_bulk_999999999_1684093041573248689.jpeg",
+            "submission_id": 464499,
+            "total_vote": 300,
+            "votes": {
+                "1": 2,
+                "10": 2,
+                "11": 9,
+                "12": 0,
+                "14": 24,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 176,
+                "22": 10,
+                "23": 40,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "7": 2,
+                "8": 6,
+                "9": 21
+            }
+        },
+        "school_name": "ÖZEL SAINT JOSEPH FRANSIZ LİSESİ"
+    },
+    {
+        "ballot_box_number": 1021,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/30377_cb_1093859155_1684090130637229997.jpg",
+            "submission_id": 412881,
+            "total_vote": 318,
+            "votes": {
+                "1": 33,
+                "2": 2,
+                "3": 276,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/30377_mv_1083859155_1684090184529537742.jpg",
+            "submission_id": 414183,
+            "total_vote": 314,
+            "votes": {
+                "11": 3,
+                "12": 34,
+                "14": 1,
+                "18": 1,
+                "21": 195,
+                "22": 40,
+                "23": 1,
+                "24": 3,
+                "3": 2,
+                "6": 3,
+                "7": 6,
+                "9": 25
+            }
+        },
+        "school_name": "ÖZEL SAINT JOSEPH FRANSIZ LİSESİ"
+    },
+    {
+        "ballot_box_number": 1017,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/43019_cb_1093858891_1684088574043963931.jpg",
+            "submission_id": 369777,
+            "total_vote": 285,
+            "votes": {
+                "1": 29,
+                "2": 2,
+                "3": 251,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/43019_mv_1083858891_1684088234373552068.jpg",
+            "submission_id": 359284,
+            "total_vote": 283,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 2,
+                "12": 11,
+                "15": 1,
+                "21": 202,
+                "22": 35,
+                "3": 1,
+                "6": 1,
+                "7": 3,
+                "9": 25
+            }
+        },
+        "school_name": "ÖZEL SAINT JOSEPH FRANSIZ LİSESİ"
+    },
+    {
+        "ballot_box_number": 1020,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18601_cb_1093858894_1684081688532803841.jpg",
+            "submission_id": 191290,
+            "total_vote": 315,
+            "votes": {
+                "1": 29,
+                "2": 0,
+                "3": 279,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÖZEL SAINT JOSEPH FRANSIZ LİSESİ"
+    },
+    {
+        "ballot_box_number": 1016,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18503_cb_1093858890_1684087693716554301.jpg",
+            "submission_id": 342210,
+            "total_vote": 295,
+            "votes": {
+                "1": 48,
+                "3": 245,
+                "4": 2
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18503_mv_1083858890_1684088316025869503.jpg",
+            "submission_id": 361799,
+            "total_vote": 294,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 6,
+                "12": 11,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 2,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 213,
+                "22": 17,
+                "23": 1,
+                "24": 1,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 2,
+                "9": 34
+            }
+        },
+        "school_name": "ÖZEL SAINT JOSEPH FRANSIZ LİSESİ"
+    },
+    {
+        "ballot_box_number": 1024,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/30377_cb_1093859158_1684090244274981783.jpg",
+            "submission_id": 415616,
+            "total_vote": 306,
+            "votes": {
+                "1": 28,
+                "3": 270,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/30377_mv_1083859158_1684090274532827238.jpg",
+            "submission_id": 416304,
+            "total_vote": 307,
+            "votes": {
+                "10": 1,
+                "11": 5,
+                "12": 12,
+                "15": 1,
+                "21": 191,
+                "22": 65,
+                "24": 4,
+                "3": 4,
+                "4": 1,
+                "7": 1,
+                "8": 1,
+                "9": 21
+            }
+        },
+        "school_name": "ÖZEL SAINT JOSEPH FRANSIZ LİSESİ"
+    },
+    {
+        "ballot_box_number": 1019,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/30377_mv_1083858893_1684090563471242147.jpg",
+            "submission_id": 422884,
+            "total_vote": 305,
+            "votes": {
+                "1": 57,
+                "3": 241,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/30377_cb_1093858893_1684090535684135852.jpg",
+            "submission_id": 422198,
+            "total_vote": 305,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "12": 19,
+                "14": 5,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 45,
+                "21": 183,
+                "22": 38,
+                "23": 0,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 7,
+                "8": 0
+            }
+        },
+        "school_name": "ÖZEL SAINT JOSEPH FRANSIZ LİSESİ"
+    },
+    {
+        "ballot_box_number": 1018,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/43019_cb_1093858892_1684087429822048158.jpg",
+            "submission_id": 333644,
+            "total_vote": 296,
+            "votes": {
+                "1": 25,
+                "3": 269,
+                "4": 2
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18503_mv_1083858892_1684089335348142692.jpg",
+            "submission_id": 391763,
+            "total_vote": 298,
+            "votes": {
+                "1": 3,
+                "10": 1,
+                "11": 4,
+                "12": 10,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 213,
+                "22": 37,
+                "23": 1,
+                "24": 3,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 1,
+                "8": 0,
+                "9": 19
+            }
+        },
+        "school_name": "ÖZEL SAINT JOSEPH FRANSIZ LİSESİ"
+    },
+    {
+        "ballot_box_number": 1022,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17496_mv_1083859156_1684087028156517393.jpg",
+            "submission_id": 319940,
+            "total_vote": 306,
+            "votes": {
+                "1": 31,
+                "3": 272,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17496_mv_1083859156_1684087090947321782.jpg",
+            "submission_id": 322214,
+            "total_vote": 303,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 7,
+                "12": 31,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 196,
+                "22": 39,
+                "23": 0,
+                "24": 4,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 1,
+                "9": 19
+            }
+        },
+        "school_name": "ÖZEL SAINT JOSEPH FRANSIZ LİSESİ"
+    },
+    {
+        "ballot_box_number": 1027,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17496_cb_1093859161_1684086900956655441.jpg",
+            "submission_id": 315491,
+            "total_vote": 301,
+            "votes": {
+                "1": 40,
+                "2": 0,
+                "3": 254,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17496_mv_1083859161_1684087618390764083.jpg",
+            "submission_id": 339668,
+            "total_vote": 296,
+            "votes": {
+                "11": 6,
+                "12": 27,
+                "20": 1,
+                "21": 183,
+                "22": 34,
+                "24": 4,
+                "3": 2,
+                "7": 4,
+                "9": 35
+            }
+        },
+        "school_name": "ÖZEL SAINT JOSEPH FRANSIZ LİSESİ"
+    },
+    {
+        "ballot_box_number": 1028,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17496_cb_1093859162_1684087188586427536.jpg",
+            "submission_id": 325623,
+            "total_vote": 313,
+            "votes": {
+                "1": 33,
+                "2": 1,
+                "3": 272,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÖZEL SAINT JOSEPH FRANSIZ LİSESİ"
+    },
+    {
+        "ballot_box_number": 1026,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/30377_cb_1093859160_1684089977886160557.jpg",
+            "submission_id": 409168,
+            "total_vote": 309,
+            "votes": {
+                "1": 46,
+                "2": 1,
+                "3": 256,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/6a83bea7-dac2-4495-9ba5-f775d16240db-1684105146754164990.jpeg",
+            "submission_id": 582371,
+            "total_vote": 304,
+            "votes": {
+                "11": 14,
+                "12": 19,
+                "17": 1,
+                "20": 1,
+                "21": 185,
+                "22": 45,
+                "24": 6,
+                "8": 1,
+                "9": 32
+            }
+        },
+        "school_name": "ÖZEL SAINT JOSEPH FRANSIZ LİSESİ"
+    }
+]

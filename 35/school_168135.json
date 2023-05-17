@@ -1,0 +1,381 @@
+[
+    {
+        "ballot_box_number": 2203,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/673e7760-9491-4276-92fe-b3c560cc49af-1684105151842795087.jpeg",
+            "submission_id": 584065,
+            "total_vote": 337,
+            "votes": {
+                "1": 101,
+                "2": 2,
+                "3": 223,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/351692f0-9042-4266-8678-bdf22bc69b54-1684105154337628991.jpeg",
+            "submission_id": 584563,
+            "total_vote": 325,
+            "votes": {
+                "10": 2,
+                "11": 16,
+                "12": 104,
+                "13": 12,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "20": 0,
+                "21": 95,
+                "22": 10,
+                "23": 0,
+                "24": 0,
+                "4": 0,
+                "5": 2,
+                "6": 0,
+                "7": 7,
+                "8": 3,
+                "9": 74
+            }
+        },
+        "school_name": "SELAHADDİN EYYUBİ İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2206,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c4106202-b75d-4113-9ddf-20a3e6065885-1684105634987378139.jpeg",
+            "submission_id": 670651,
+            "total_vote": 325,
+            "votes": {
+                "1": 110,
+                "3": 203,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "SELAHADDİN EYYUBİ İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2209,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/af7379c4-1ddf-4a67-982b-9e056f7e764f-1684105139176143825.jpeg",
+            "submission_id": 581309,
+            "total_vote": 339,
+            "votes": {
+                "1": 89,
+                "2": 2,
+                "3": 244,
+                "4": 4
+            }
+        },
+        "mv_result": null,
+        "school_name": "SELAHADDİN EYYUBİ İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2205,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8ddbf5f0-405f-4bc0-b627-6d0218bd9836-1684105860310591834.jpg",
+            "submission_id": 704965,
+            "total_vote": 314,
+            "votes": {
+                "1": 91,
+                "2": 1,
+                "3": 217,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2e0579db-4a73-4c11-b363-face80008fa6-1684105950747812335.jpeg",
+            "submission_id": 717610,
+            "total_vote": 305,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 11,
+                "12": 130,
+                "13": 8,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 61,
+                "22": 5,
+                "23": 0,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 4,
+                "6": 1,
+                "7": 2,
+                "8": 0,
+                "9": 78
+            }
+        },
+        "school_name": "SELAHADDİN EYYUBİ İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2208,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/db769695-84d7-4732-a423-1a4e7343eb90-1684105598035078173.jpeg",
+            "submission_id": 664721,
+            "total_vote": 326,
+            "votes": {
+                "1": 95,
+                "2": 2,
+                "3": 222,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f4076aac-e924-4a1b-9ed5-ccbcca534850-1684105395130644345.jpeg",
+            "submission_id": 631502,
+            "total_vote": 315,
+            "votes": {
+                "10": 1,
+                "11": 13,
+                "12": 129,
+                "13": 14,
+                "21": 79,
+                "22": 4,
+                "24": 1,
+                "6": 1,
+                "7": 1,
+                "9": 72
+            }
+        },
+        "school_name": "SELAHADDİN EYYUBİ İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2207,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "SELAHADDİN EYYUBİ İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2204,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5dec8c60-91d4-4df8-89ce-629b082575cf-1684105147817281558.jpeg",
+            "submission_id": 583226,
+            "total_vote": 337,
+            "votes": {
+                "1": 119,
+                "2": 3,
+                "3": 204,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/cde5e0b0-25a8-4600-8cce-87208d60be4f-1684105151340653729.jpeg",
+            "submission_id": 584210,
+            "total_vote": 329,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 12,
+                "12": 112,
+                "13": 14,
+                "21": 75,
+                "22": 12,
+                "5": 2,
+                "6": 1,
+                "7": 4,
+                "8": 1,
+                "9": 93
+            }
+        },
+        "school_name": "SELAHADDİN EYYUBİ İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2198,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/08b861c1-7c70-425d-94e7-f9eee3e5bde2-1684105167990313178.jpeg",
+            "submission_id": 587867,
+            "total_vote": 334,
+            "votes": {
+                "1": 72,
+                "2": 1,
+                "3": 253,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a89df85d-89bf-44cb-a3c4-4cba3d901415-1684105262771210272.jpeg",
+            "submission_id": 607502,
+            "total_vote": 323,
+            "votes": {
+                "11": 7,
+                "12": 106,
+                "13": 10,
+                "17": 1,
+                "21": 117,
+                "22": 16,
+                "23": 1,
+                "24": 7,
+                "3": 1,
+                "5": 1,
+                "7": 3,
+                "8": 1,
+                "9": 52
+            }
+        },
+        "school_name": "SELAHADDİN EYYUBİ İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2202,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7df62e68-d4ad-47e7-b1cc-e89c2a989ce7-1684105308811271520.jpeg",
+            "submission_id": 615872,
+            "total_vote": 329,
+            "votes": {
+                "1": 85,
+                "2": 3,
+                "3": 231,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0a42431f-3d00-4c83-b4f3-300fcbaf7739-1684105280603741010.jpeg",
+            "submission_id": 611636,
+            "total_vote": 313,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 14,
+                "12": 127,
+                "13": 13,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 75,
+                "22": 13,
+                "23": 0,
+                "24": 2,
+                "3": 1,
+                "4": 2,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 58
+            }
+        },
+        "school_name": "SELAHADDİN EYYUBİ İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2199,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/59ac3fc3-97dc-4baa-b31d-562472790fe9-1684105176234768181.jpeg",
+            "submission_id": 589454,
+            "total_vote": 314,
+            "votes": {
+                "1": 81,
+                "2": 0,
+                "3": 231,
+                "4": 2
+            }
+        },
+        "mv_result": null,
+        "school_name": "SELAHADDİN EYYUBİ İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2210,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5fa3320e-f2a7-497e-bcf4-5e78f54d5bc3-1684105792316700095.jpeg",
+            "submission_id": 696957,
+            "total_vote": 326,
+            "votes": {
+                "1": 92,
+                "2": 1,
+                "3": 228,
+                "4": 5
+            }
+        },
+        "mv_result": null,
+        "school_name": "SELAHADDİN EYYUBİ İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2200,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21942_mv_1083578086_1684093748238526527.jpg",
+            "submission_id": 473683,
+            "total_vote": 328,
+            "votes": {
+                "1": 101,
+                "2": 1,
+                "3": 218,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21942_mv_1083578086_1684100449404302660.jpg",
+            "submission_id": 537097,
+            "total_vote": 314,
+            "votes": {
+                "10": 8,
+                "11": 5,
+                "12": 117,
+                "13": 17,
+                "21": 76,
+                "22": 8,
+                "23": 2,
+                "24": 2,
+                "6": 3,
+                "9": 76
+            }
+        },
+        "school_name": "SELAHADDİN EYYUBİ İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2201,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7f686b7c-4240-4ea3-86fc-f2e49f753eb6-1684105159517163022.jpeg",
+            "submission_id": 585899,
+            "total_vote": 311,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 7,
+                "12": 97,
+                "13": 13,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 88,
+                "22": 7,
+                "23": 0,
+                "24": 1,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 1,
+                "7": 2,
+                "8": 0,
+                "9": 93
+            }
+        },
+        "school_name": "SELAHADDİN EYYUBİ İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2211,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "SELAHADDİN EYYUBİ İMAM HATİP ORTAOKULU"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "ballot_box_number": 1064,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/1731_bulk_999999999_1684097821173576073.JPG",
+            "submission_id": 523288,
+            "total_vote": 207,
+            "votes": {
+                "1": 99,
+                "2": 3,
+                "3": 93,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "HAVUTÇULU MAH-ANAOKULU"
+    }
+]

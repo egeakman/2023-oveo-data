@@ -1,0 +1,106 @@
+[
+    {
+        "ballot_box_number": 1063,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "ALİ ÇETİNKAYA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1067,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "ALİ ÇETİNKAYA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1062,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "ALİ ÇETİNKAYA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1066,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "ALİ ÇETİNKAYA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1069,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "ALİ ÇETİNKAYA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1064,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/efe51aab-0823-42be-b191-446dfc5109fe-1684106695100875234.jpg",
+            "submission_id": 825024,
+            "total_vote": 334,
+            "votes": {
+                "1": 87,
+                "2": 4,
+                "3": 231,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "ALİ ÇETİNKAYA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1061,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/34982_cb_1093859468_1684076870116608797.jpg",
+            "submission_id": 173008,
+            "total_vote": 297,
+            "votes": {
+                "1": 86,
+                "2": 2,
+                "3": 204,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/34982_mv_1083859468_1684084355052032338.jpg",
+            "submission_id": 236853,
+            "total_vote": 288,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 13,
+                "12": 8,
+                "13": 12,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 2,
+                "2": 1,
+                "20": 0,
+                "21": 140,
+                "22": 40,
+                "23": 1,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 60
+            }
+        },
+        "school_name": "ALİ ÇETİNKAYA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1065,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "ALİ ÇETİNKAYA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1068,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "ALİ ÇETİNKAYA İLKOKULU"
+    }
+]

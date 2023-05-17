@@ -1,0 +1,86 @@
+[
+    {
+        "ballot_box_number": 1102,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/bb7348a4-c1d1-49c1-a2fc-d5393d380178-1684106566730712859.jpg",
+            "submission_id": 806588,
+            "total_vote": 246,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 13,
+                "12": 0,
+                "13": 7,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 1,
+                "21": 104,
+                "22": 8,
+                "23": 2,
+                "24": 3,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 0,
+                "8": 1,
+                "9": 97
+            }
+        },
+        "school_name": "ÇAYLI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1104,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/b48cc9b2-e631-44ae-9560-baea0e66ee5c-1684106665572548017.jpg",
+            "submission_id": 820979,
+            "total_vote": 253,
+            "votes": {
+                "1": 115,
+                "2": 1,
+                "3": 133,
+                "4": 4
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇAYLI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1101,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/bfb6063b-bf5a-43fb-9916-e81c30baafbc-1684106643259537341.jpg",
+            "submission_id": 817589,
+            "total_vote": 229,
+            "votes": {
+                "1": 117,
+                "2": 2,
+                "3": 105,
+                "4": 5
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇAYLI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1103,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3e25283b-5b0b-48c8-871f-455423ff1948-1684106618122086463.jpg",
+            "submission_id": 814104,
+            "total_vote": 273,
+            "votes": {
+                "1": 120,
+                "2": 3,
+                "3": 143,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇAYLI ORTAOKULU"
+    }
+]

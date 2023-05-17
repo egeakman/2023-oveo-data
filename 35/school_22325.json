@@ -1,0 +1,183 @@
+[
+    {
+        "ballot_box_number": 1003,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/44716_cb_1093796461_1684087735836124646.jpg",
+            "submission_id": 343546,
+            "total_vote": 330,
+            "votes": {
+                "1": 80,
+                "2": 2,
+                "3": 219,
+                "4": 29
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/44716_mv_1083796461_1684087764640687928.jpg",
+            "submission_id": 344479,
+            "total_vote": 327,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 28,
+                "12": 26,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 150,
+                "22": 29,
+                "23": 0,
+                "24": 15,
+                "3": 6,
+                "4": 0,
+                "5": 0,
+                "6": 8,
+                "7": 5,
+                "8": 0,
+                "9": 56
+            }
+        },
+        "school_name": "MEHMET AKPINAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1001,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/46521_cb_1093796459_1684084439639331417.jpg",
+            "submission_id": 238980,
+            "total_vote": 314,
+            "votes": {
+                "1": 85,
+                "2": 2,
+                "3": 216,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/44716_mv_1083796459_1684086734569717928.jpg",
+            "submission_id": 309756,
+            "total_vote": 304,
+            "votes": {
+                "1": 2,
+                "10": 0,
+                "11": 22,
+                "12": 7,
+                "13": 0,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 164,
+                "22": 33,
+                "23": 3,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 4,
+                "7": 3,
+                "8": 1,
+                "9": 55
+            }
+        },
+        "school_name": "MEHMET AKPINAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1004,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/46521_cb_1093796462_1684084767782085057.jpg",
+            "submission_id": 247703,
+            "total_vote": 320,
+            "votes": {
+                "1": 96,
+                "2": 0,
+                "3": 206,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/46521_mv_1083796462_1684084658423408158.jpg",
+            "submission_id": 244734,
+            "total_vote": 316,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 33,
+                "12": 21,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 0,
+                "21": 146,
+                "22": 40,
+                "23": 0,
+                "24": 9,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 1,
+                "9": 58
+            }
+        },
+        "school_name": "MEHMET AKPINAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1002,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/44716_cb_1093796460_1684088894384389962.jpg",
+            "submission_id": 379399,
+            "total_vote": 329,
+            "votes": {
+                "1": 102,
+                "2": 2,
+                "3": 205,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/46521_bulk_999999999_1684098149773443010.jpeg",
+            "submission_id": 525459,
+            "total_vote": 332,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 26,
+                "12": 33,
+                "14": 5,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 141,
+                "22": 32,
+                "23": 0,
+                "24": 13,
+                "3": 3,
+                "4": 1,
+                "5": 2,
+                "6": 2,
+                "7": 4,
+                "8": 0,
+                "9": 68
+            }
+        },
+        "school_name": "MEHMET AKPINAR ORTAOKULU"
+    }
+]

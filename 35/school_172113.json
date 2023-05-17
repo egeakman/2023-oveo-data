@@ -1,0 +1,17 @@
+[
+    {
+        "ballot_box_number": 1320,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2a18cc9c-f6a3-4044-9459-cf08008c5943-1684105732051875084.jpeg",
+            "submission_id": 686453,
+            "total_vote": 238,
+            "votes": {
+                "1": 49,
+                "3": 181,
+                "4": 8
+            }
+        },
+        "mv_result": null,
+        "school_name": "NAİME KÖY KAHVESİ"
+    }
+]

@@ -1,0 +1,61 @@
+[
+    {
+        "ballot_box_number": 1112,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4db3324c-8c5d-45c3-8c69-5ab20bcf8c98-1684105571809443647.jpg",
+            "submission_id": 660999,
+            "total_vote": 197,
+            "votes": {
+                "1": 76,
+                "2": 0,
+                "3": 118,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3a2358e4-6bba-4bda-b5ec-9ff3a68015b2-1684105588632200244.jpg",
+            "submission_id": 663161,
+            "total_vote": 195,
+            "votes": {
+                "10": 0,
+                "11": 7,
+                "12": 44,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 50,
+                "22": 20,
+                "23": 0,
+                "24": 0,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 2,
+                "8": 1,
+                "9": 67
+            }
+        },
+        "school_name": "EMİNE BAĞCILAR 78 NOLU SAĞLIK OCAĞI"
+    },
+    {
+        "ballot_box_number": 1113,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/00998927-1a7f-4df6-b499-eb96b3f17a9e-1684105969105049410.jpg",
+            "submission_id": 719976,
+            "total_vote": 206,
+            "votes": {
+                "1": 74,
+                "3": 128,
+                "4": 4
+            }
+        },
+        "mv_result": null,
+        "school_name": "EMİNE BAĞCILAR 78 NOLU SAĞLIK OCAĞI"
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "ballot_box_number": 1334,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/92de942c-a228-413f-bee2-2ceec133fcc7-1684106517376159265.jpg",
+            "submission_id": 800137,
+            "total_vote": 211,
+            "votes": {
+                "1": 132,
+                "2": 5,
+                "3": 70,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9f42e610-0c8d-455e-a295-fb7691776192-1684106594839724252.jpg",
+            "submission_id": 811263,
+            "total_vote": 198,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 8,
+                "12": 15,
+                "13": 2,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 44,
+                "22": 9,
+                "23": 1,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "8": 2,
+                "9": 105
+            }
+        },
+        "school_name": "TEVFİK FİKRET İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1333,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e434c99c-3c89-4434-81a1-cfb182f52346-1684106632086589105.jpg",
+            "submission_id": 816465,
+            "total_vote": 203,
+            "votes": {
+                "1": 130,
+                "2": 1,
+                "3": 64,
+                "4": 8
+            }
+        },
+        "mv_result": null,
+        "school_name": "TEVFİK FİKRET İLKOKULU"
+    }
+]

@@ -1,0 +1,157 @@
+[
+    {
+        "ballot_box_number": 1018,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/9006_cb_1093568092_1684083509782976262.jpg",
+            "submission_id": 217989,
+            "total_vote": 260,
+            "votes": {
+                "1": 47,
+                "3": 204,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/9006_mv_1083568092_1684083282299070098.jpg",
+            "submission_id": 213597,
+            "total_vote": 256,
+            "votes": {
+                "10": 3,
+                "11": 14,
+                "12": 10,
+                "13": 15,
+                "2": 1,
+                "21": 150,
+                "22": 24,
+                "24": 5,
+                "7": 2,
+                "8": 2,
+                "9": 30
+            }
+        },
+        "school_name": "YENİ FOÇA REHA MİDİLLİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1016,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/9006_cb_1093568090_1684087741048625013.jpg",
+            "submission_id": 343701,
+            "total_vote": 257,
+            "votes": {
+                "1": 54,
+                "3": 198,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/9006_mv_1083568090_1684089169939480151.jpg",
+            "submission_id": 387292,
+            "total_vote": 254,
+            "votes": {
+                "1": 2,
+                "10": 1,
+                "11": 11,
+                "12": 11,
+                "13": 18,
+                "20": 1,
+                "21": 135,
+                "22": 30,
+                "23": 1,
+                "3": 1,
+                "4": 1,
+                "8": 1,
+                "9": 41
+            }
+        },
+        "school_name": "YENİ FOÇA REHA MİDİLLİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1019,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/9006_cb_1093568093_1684083424680149956.jpg",
+            "submission_id": 216359,
+            "total_vote": 256,
+            "votes": {
+                "1": 52,
+                "2": 1,
+                "3": 199,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/9006_mv_1083568093_1684083359141930389.jpg",
+            "submission_id": 215066,
+            "total_vote": 246,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 13,
+                "12": 12,
+                "13": 35,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 101,
+                "22": 38,
+                "23": 0,
+                "24": 0,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 2,
+                "8": 0,
+                "9": 41
+            }
+        },
+        "school_name": "YENİ FOÇA REHA MİDİLLİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1017,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/9006_cb_1093568091_1684083712260213913.jpg",
+            "submission_id": 222131,
+            "total_vote": 252,
+            "votes": {
+                "1": 55,
+                "2": 2,
+                "3": 181,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/9006_mv_1083568091_1684089069476003096.jpg",
+            "submission_id": 384461,
+            "total_vote": 249,
+            "votes": {
+                "10": 1,
+                "11": 14,
+                "12": 14,
+                "13": 13,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "2": 0,
+                "20": 0,
+                "21": 112,
+                "22": 40,
+                "23": 1,
+                "24": 5,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 5,
+                "8": 0,
+                "9": 41
+            }
+        },
+        "school_name": "YENİ FOÇA REHA MİDİLLİ ORTAOKULU"
+    }
+]

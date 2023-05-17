@@ -1,0 +1,46 @@
+[
+    {
+        "ballot_box_number": 1271,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17587_cb_1093862165_1684084305084029421.jpg",
+            "submission_id": 235618,
+            "total_vote": 307,
+            "votes": {
+                "1": 79,
+                "3": 220,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39080_mv_1083862165_1684084893545207747.jpg",
+            "submission_id": 251116,
+            "total_vote": 300,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 9,
+                "12": 18,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 156,
+                "22": 32,
+                "23": 1,
+                "24": 5,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 5,
+                "7": 4,
+                "8": 0,
+                "9": 65
+            }
+        },
+        "school_name": "SARIKAMIŞ İLKOKULU"
+    }
+]

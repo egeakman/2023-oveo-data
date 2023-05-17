@@ -1,0 +1,697 @@
+[
+    {
+        "ballot_box_number": 1125,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/11318_cb_1093756549_1684094158706895410.jpg",
+            "submission_id": 488617,
+            "total_vote": 328,
+            "votes": {
+                "1": 129,
+                "2": 3,
+                "3": 170,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/11318_mv_1083756549_1684094202033506670.jpg",
+            "submission_id": 489162,
+            "total_vote": 324,
+            "votes": {
+                "10": 6,
+                "11": 26,
+                "12": 11,
+                "13": 17,
+                "21": 99,
+                "22": 47,
+                "24": 17,
+                "4": 1,
+                "6": 3,
+                "7": 5,
+                "8": 1,
+                "9": 91
+            }
+        },
+        "school_name": "MENEMEN ATATÜRK ANADOLU LİSESİ (ESKİ BİNA LİSE YOLU)"
+    },
+    {
+        "ballot_box_number": 1127,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18236_cb_1093756551_1684086236282121325.jpg",
+            "submission_id": 292589,
+            "total_vote": 340,
+            "votes": {
+                "1": 123,
+                "2": 4,
+                "3": 185,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18236_mv_1083756551_1684086699105571582.jpg",
+            "submission_id": 308480,
+            "total_vote": 333,
+            "votes": {
+                "1": 1,
+                "10": 8,
+                "11": 25,
+                "12": 12,
+                "13": 6,
+                "20": 1,
+                "21": 125,
+                "22": 41,
+                "23": 2,
+                "24": 14,
+                "3": 1,
+                "5": 1,
+                "6": 3,
+                "7": 5,
+                "8": 2,
+                "9": 86
+            }
+        },
+        "school_name": "MENEMEN ATATÜRK ANADOLU LİSESİ (ESKİ BİNA LİSE YOLU)"
+    },
+    {
+        "ballot_box_number": 1118,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17732_cb_1093756542_1684087854610526162.jpg",
+            "submission_id": 347240,
+            "total_vote": 318,
+            "votes": {
+                "1": 96,
+                "3": 199,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17732_mv_1083756542_1684087803215611346.jpg",
+            "submission_id": 345673,
+            "total_vote": 310,
+            "votes": {
+                "10": 5,
+                "11": 18,
+                "12": 26,
+                "13": 9,
+                "15": 2,
+                "21": 117,
+                "22": 42,
+                "24": 14,
+                "6": 1,
+                "7": 7,
+                "8": 2,
+                "9": 67
+            }
+        },
+        "school_name": "MENEMEN ATATÜRK ANADOLU LİSESİ (ESKİ BİNA LİSE YOLU)"
+    },
+    {
+        "ballot_box_number": 1123,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41281_cb_1093756547_1684082107774735647.jpg",
+            "submission_id": 195932,
+            "total_vote": 338,
+            "votes": {
+                "1": 97,
+                "2": 1,
+                "3": 205,
+                "4": 35
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41281_mv_1083756547_1684082221541600260.jpg",
+            "submission_id": 197356,
+            "total_vote": 332,
+            "votes": {
+                "10": 7,
+                "11": 28,
+                "12": 10,
+                "13": 19,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 123,
+                "22": 47,
+                "23": 0,
+                "24": 19,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 5,
+                "8": 0,
+                "9": 69
+            }
+        },
+        "school_name": "MENEMEN ATATÜRK ANADOLU LİSESİ (ESKİ BİNA LİSE YOLU)"
+    },
+    {
+        "ballot_box_number": 1120,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/11318_bulk_999999999_1684094085532749420.jpg",
+            "submission_id": 485767,
+            "total_vote": 338,
+            "votes": {
+                "1": 111,
+                "2": 1,
+                "3": 191,
+                "4": 35
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/11318_mv_1083756544_1684093323893067988.jpg",
+            "submission_id": 468484,
+            "total_vote": 329,
+            "votes": {
+                "10": 2,
+                "11": 24,
+                "12": 25,
+                "13": 16,
+                "15": 1,
+                "21": 104,
+                "22": 38,
+                "23": 1,
+                "24": 24,
+                "6": 3,
+                "7": 9,
+                "8": 7,
+                "9": 75
+            }
+        },
+        "school_name": "MENEMEN ATATÜRK ANADOLU LİSESİ (ESKİ BİNA LİSE YOLU)"
+    },
+    {
+        "ballot_box_number": 1116,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18048_cb_1093756540_1684090339811319491.jpg",
+            "submission_id": 417739,
+            "total_vote": 298,
+            "votes": {
+                "1": 79,
+                "3": 203,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18048_mv_1083756540_1684090383366464486.jpg",
+            "submission_id": 418695,
+            "total_vote": 296,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 21,
+                "12": 14,
+                "13": 6,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 135,
+                "22": 42,
+                "23": 0,
+                "24": 12,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 2,
+                "9": 50
+            }
+        },
+        "school_name": "MENEMEN ATATÜRK ANADOLU LİSESİ (ESKİ BİNA LİSE YOLU)"
+    },
+    {
+        "ballot_box_number": 1124,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/11318_cb_1093756548_1684093640263140380.jpg",
+            "submission_id": 472343,
+            "total_vote": 336,
+            "votes": {
+                "1": 127,
+                "2": 0,
+                "3": 174,
+                "4": 35
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41281_mv_1083756548_1684094630172129109.jpg",
+            "submission_id": 494220,
+            "total_vote": 337,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 29,
+                "12": 25,
+                "13": 9,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 101,
+                "22": 41,
+                "23": 1,
+                "24": 16,
+                "3": 5,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 2,
+                "9": 103
+            }
+        },
+        "school_name": "MENEMEN ATATÜRK ANADOLU LİSESİ (ESKİ BİNA LİSE YOLU)"
+    },
+    {
+        "ballot_box_number": 1117,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17732_cb_1093756541_1684086507221048842.jpg",
+            "submission_id": 301746,
+            "total_vote": 307,
+            "votes": {
+                "1": 92,
+                "2": 1,
+                "3": 184,
+                "4": 30
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17732_mv_1083756541_1684087728609108805.jpg",
+            "submission_id": 343336,
+            "total_vote": 307,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 30,
+                "12": 14,
+                "13": 12,
+                "14": 0,
+                "15": 3,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 131,
+                "22": 35,
+                "23": 1,
+                "24": 11,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 61
+            }
+        },
+        "school_name": "MENEMEN ATATÜRK ANADOLU LİSESİ (ESKİ BİNA LİSE YOLU)"
+    },
+    {
+        "ballot_box_number": 1132,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41281_cb_1093757056_1684094510266736405.jpg",
+            "submission_id": 492784,
+            "total_vote": 322,
+            "votes": {
+                "1": 100,
+                "2": 1,
+                "3": 201,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "MENEMEN ATATÜRK ANADOLU LİSESİ (ESKİ BİNA LİSE YOLU)"
+    },
+    {
+        "ballot_box_number": 1131,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source1-secim-images.oyveotesi.org/raw/1003322_cb_3757055_1684101284.jpeg",
+            "submission_id": 540681,
+            "total_vote": 331,
+            "votes": {
+                "1": 109,
+                "2": 3,
+                "3": 193,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/11318_mv_1083757055_1684094273308008065.jpg",
+            "submission_id": 490043,
+            "total_vote": 324,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 27,
+                "12": 20,
+                "13": 17,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 119,
+                "22": 35,
+                "23": 1,
+                "24": 13,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 1,
+                "8": 0,
+                "9": 81
+            }
+        },
+        "school_name": "MENEMEN ATATÜRK ANADOLU LİSESİ (ESKİ BİNA LİSE YOLU)"
+    },
+    {
+        "ballot_box_number": 1122,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48601_cb_1093756546_1684085833866178734.jpg",
+            "submission_id": 279567,
+            "total_vote": 340,
+            "votes": {
+                "1": 116,
+                "2": 1,
+                "3": 208,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "MENEMEN ATATÜRK ANADOLU LİSESİ (ESKİ BİNA LİSE YOLU)"
+    },
+    {
+        "ballot_box_number": 1130,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/54607_bulk_999999999_1684084063500955361.jpeg",
+            "submission_id": 229507,
+            "total_vote": 342,
+            "votes": {
+                "1": 108,
+                "2": 2,
+                "3": 206,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/11318_bulk_999999999_1684141310126947029.jpg",
+            "submission_id": 1018106,
+            "total_vote": 335,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 31,
+                "12": 10,
+                "13": 9,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 128,
+                "22": 42,
+                "23": 1,
+                "24": 16,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 6,
+                "8": 4,
+                "9": 80
+            }
+        },
+        "school_name": "MENEMEN ATATÜRK ANADOLU LİSESİ (ESKİ BİNA LİSE YOLU)"
+    },
+    {
+        "ballot_box_number": 1126,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18295_cb_1093756540_1684085058174231587.jpg",
+            "submission_id": 255836,
+            "total_vote": 327,
+            "votes": {
+                "1": 119,
+                "2": 5,
+                "3": 182,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18295_mv_1083756540_1684085128720616628.jpg",
+            "submission_id": 257734,
+            "total_vote": 318,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 23,
+                "12": 9,
+                "13": 26,
+                "14": 0,
+                "15": 9,
+                "16": 0,
+                "17": 0,
+                "18": 2,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 106,
+                "22": 43,
+                "23": 0,
+                "24": 3,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 6,
+                "8": 1,
+                "9": 82
+            }
+        },
+        "school_name": "MENEMEN ATATÜRK ANADOLU LİSESİ (ESKİ BİNA LİSE YOLU)"
+    },
+    {
+        "ballot_box_number": 1119,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17820_cb_1093756543_1684084365845728890.jpg",
+            "submission_id": 237122,
+            "total_vote": 334,
+            "votes": {
+                "1": 103,
+                "2": 1,
+                "3": 198,
+                "4": 32
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17820_mv_1083756543_1684084654752689925.jpg",
+            "submission_id": 244618,
+            "total_vote": 324,
+            "votes": {
+                "10": 1,
+                "11": 21,
+                "12": 15,
+                "13": 8,
+                "21": 125,
+                "22": 45,
+                "23": 1,
+                "24": 16,
+                "7": 11,
+                "9": 81
+            }
+        },
+        "school_name": "MENEMEN ATATÜRK ANADOLU LİSESİ (ESKİ BİNA LİSE YOLU)"
+    },
+    {
+        "ballot_box_number": 1128,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16395_cb_1093756552_1684084861319040551.jpg",
+            "submission_id": 250203,
+            "total_vote": 325,
+            "votes": {
+                "1": 89,
+                "2": 4,
+                "3": 204,
+                "4": 28
+            }
+        },
+        "mv_result": null,
+        "school_name": "MENEMEN ATATÜRK ANADOLU LİSESİ (ESKİ BİNA LİSE YOLU)"
+    },
+    {
+        "ballot_box_number": 1134,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/46875_bulk_999999999_1684092626648780917.jpeg",
+            "submission_id": 458947,
+            "total_vote": 319,
+            "votes": {
+                "1": 107,
+                "2": 1,
+                "3": 190,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "MENEMEN ATATÜRK ANADOLU LİSESİ (ESKİ BİNA LİSE YOLU)"
+    },
+    {
+        "ballot_box_number": 1115,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18048_cb_1093756539_1684090260568522003.jpg",
+            "submission_id": 416012,
+            "total_vote": 317,
+            "votes": {
+                "1": 87,
+                "2": 0,
+                "3": 217,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18048_mv_1083756539_1684090200055141116.jpg",
+            "submission_id": 414541,
+            "total_vote": 314,
+            "votes": {
+                "10": 1,
+                "11": 15,
+                "12": 6,
+                "13": 8,
+                "2": 1,
+                "21": 149,
+                "22": 51,
+                "23": 2,
+                "24": 5,
+                "7": 1,
+                "8": 3,
+                "9": 72
+            }
+        },
+        "school_name": "MENEMEN ATATÜRK ANADOLU LİSESİ (ESKİ BİNA LİSE YOLU)"
+    },
+    {
+        "ballot_box_number": 1129,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/28b41f6c-bf9f-4c07-a917-d4a995792c03-1684105569691885278.jpg",
+            "submission_id": 661193,
+            "total_vote": 326,
+            "votes": {
+                "1": 86,
+                "2": 2,
+                "3": 217,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3e258a2c-b87a-416a-8ec4-eae86262dee1-1684105557813991285.jpg",
+            "submission_id": 657769,
+            "total_vote": 325,
+            "votes": {
+                "10": 3,
+                "11": 34,
+                "12": 31,
+                "13": 20,
+                "19": 0,
+                "21": 115,
+                "22": 47,
+                "23": 1,
+                "24": 14,
+                "5": 5,
+                "6": 1,
+                "7": 5,
+                "9": 49
+            }
+        },
+        "school_name": "MENEMEN ATATÜRK ANADOLU LİSESİ (ESKİ BİNA LİSE YOLU)"
+    },
+    {
+        "ballot_box_number": 1121,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41281_cb_1093756545_1684094562064817839.jpg",
+            "submission_id": 493467,
+            "total_vote": 336,
+            "votes": {
+                "1": 91,
+                "2": 6,
+                "3": 213,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41281_mv_1083756545_1684094600066083615.jpg",
+            "submission_id": 493903,
+            "total_vote": 337,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 19,
+                "12": 12,
+                "13": 20,
+                "21": 138,
+                "22": 44,
+                "23": 1,
+                "24": 14,
+                "4": 4,
+                "6": 1,
+                "7": 8,
+                "8": 1,
+                "9": 72
+            }
+        },
+        "school_name": "MENEMEN ATATÜRK ANADOLU LİSESİ (ESKİ BİNA LİSE YOLU)"
+    },
+    {
+        "ballot_box_number": 1133,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/11318_cb_1093757057_1684093813745543709.jpg",
+            "submission_id": 474594,
+            "total_vote": 326,
+            "votes": {
+                "1": 116,
+                "2": 2,
+                "3": 190,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41281_mv_1083757057_1684094700973285441.jpg",
+            "submission_id": 495124,
+            "total_vote": 320,
+            "votes": {
+                "10": 9,
+                "11": 24,
+                "12": 19,
+                "13": 11,
+                "21": 114,
+                "22": 44,
+                "23": 1,
+                "24": 11,
+                "3": 1,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 83
+            }
+        },
+        "school_name": "MENEMEN ATATÜRK ANADOLU LİSESİ (ESKİ BİNA LİSE YOLU)"
+    }
+]

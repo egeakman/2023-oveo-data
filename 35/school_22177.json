@@ -1,0 +1,122 @@
+[
+    {
+        "ballot_box_number": 1086,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61601_mv_1083798341_1684085715816384604.jpg",
+            "submission_id": 275594,
+            "total_vote": 334,
+            "votes": {
+                "1": 110,
+                "2": 5,
+                "3": 199,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61601_mv_1083798340_1684087233243389597.jpg",
+            "submission_id": 327161,
+            "total_vote": 316,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 30,
+                "12": 13,
+                "2": 2,
+                "21": 146,
+                "22": 33,
+                "23": 1,
+                "24": 7,
+                "3": 1,
+                "5": 1,
+                "6": 4,
+                "7": 10,
+                "8": 1,
+                "9": 65
+            }
+        },
+        "school_name": "ORHANLI MAH. YENI ORHANLI ILKOKULU"
+    },
+    {
+        "ballot_box_number": 1087,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61601_mv_1083798341_1684085539725269430.jpg",
+            "submission_id": 269837,
+            "total_vote": 333,
+            "votes": {
+                "1": 113,
+                "2": 2,
+                "3": 198,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61601_cb_1093798341_1684085803796194191.jpg",
+            "submission_id": 278531,
+            "total_vote": 332,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 34,
+                "12": 12,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 2,
+                "2": 1,
+                "20": 1,
+                "21": 146,
+                "22": 43,
+                "23": 1,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 81
+            }
+        },
+        "school_name": "ORHANLI MAH. YENI ORHANLI ILKOKULU"
+    },
+    {
+        "ballot_box_number": 1085,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61601_cb_1093798339_1684081754790621412.jpg",
+            "submission_id": 191957,
+            "total_vote": 308,
+            "votes": {
+                "1": 106,
+                "2": 6,
+                "3": 185,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61601_mv_1083798339_1684081696993512906.jpg",
+            "submission_id": 191383,
+            "total_vote": 303,
+            "votes": {
+                "10": 2,
+                "11": 29,
+                "12": 13,
+                "19": 2,
+                "2": 2,
+                "20": 2,
+                "21": 133,
+                "22": 37,
+                "23": 1,
+                "24": 4,
+                "3": 1,
+                "5": 1,
+                "6": 4,
+                "7": 7,
+                "8": 3,
+                "9": 62
+            }
+        },
+        "school_name": "ORHANLI MAH. YENI ORHANLI ILKOKULU"
+    }
+]

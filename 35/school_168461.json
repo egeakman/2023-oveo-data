@@ -1,0 +1,782 @@
+[
+    {
+        "ballot_box_number": 2237,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/62319_cb_1093578832_1684084691063553186.jpg",
+            "submission_id": 245637,
+            "total_vote": 305,
+            "votes": {
+                "1": 107,
+                "3": 192,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/62319_mv_1083578832_1684086185208406740.jpg",
+            "submission_id": 290936,
+            "total_vote": 297,
+            "votes": {
+                "10": 1,
+                "11": 12,
+                "12": 7,
+                "13": 15,
+                "15": 2,
+                "21": 142,
+                "22": 28,
+                "23": 2,
+                "24": 3,
+                "3": 1,
+                "6": 1,
+                "7": 2,
+                "9": 81
+            }
+        },
+        "school_name": "ŞÜKRÜ SEHER ERGİL ÇOK PROĞRAMLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2235,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/39f36345-7346-4095-8e5d-eadd8e7fe710-1684106110941136986.jpeg",
+            "submission_id": 739956,
+            "total_vote": 301,
+            "votes": {
+                "1": 126,
+                "2": 0,
+                "3": 169,
+                "4": 6
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞÜKRÜ SEHER ERGİL ÇOK PROĞRAMLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2248,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67511_cb_1093579463_1684084438223955953.jpg",
+            "submission_id": 238954,
+            "total_vote": 335,
+            "votes": {
+                "1": 116,
+                "2": 2,
+                "3": 194,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67511_mv_1083579463_1684084300136986995.jpg",
+            "submission_id": 235503,
+            "total_vote": 330,
+            "votes": {
+                "1": 2,
+                "10": 2,
+                "11": 18,
+                "12": 12,
+                "13": 17,
+                "15": 1,
+                "2": 0,
+                "21": 131,
+                "22": 37,
+                "23": 3,
+                "24": 8,
+                "3": 1,
+                "6": 4,
+                "7": 4,
+                "8": 2,
+                "9": 88
+            }
+        },
+        "school_name": "ŞÜKRÜ SEHER ERGİL ÇOK PROĞRAMLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2253,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2d93fe6e-c925-4e19-849b-a6e75677c87b-1684106586819596305.jpg",
+            "submission_id": 809931,
+            "total_vote": 334,
+            "votes": {
+                "1": 117,
+                "2": 2,
+                "3": 191,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c4d807f6-fabc-40a4-b6be-71211f954a8d-1684106584868938540.jpg",
+            "submission_id": 809659,
+            "total_vote": 329,
+            "votes": {
+                "1": 2,
+                "10": 6,
+                "11": 14,
+                "12": 7,
+                "13": 9,
+                "21": 111,
+                "22": 48,
+                "23": 4,
+                "24": 10,
+                "3": 1,
+                "6": 3,
+                "7": 13,
+                "8": 2,
+                "9": 99
+            }
+        },
+        "school_name": "ŞÜKRÜ SEHER ERGİL ÇOK PROĞRAMLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2238,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/62319_mv_1083578833_1684084466699606581.jpg",
+            "submission_id": 239650,
+            "total_vote": 342,
+            "votes": {
+                "1": 116,
+                "2": 1,
+                "3": 204,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/62319_cb_1093578833_1684084305314824033.jpg",
+            "submission_id": 235625,
+            "total_vote": 340,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 27,
+                "12": 7,
+                "13": 18,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 142,
+                "22": 45,
+                "23": 2,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 5,
+                "7": 5,
+                "8": 0,
+                "9": 78
+            }
+        },
+        "school_name": "ŞÜKRÜ SEHER ERGİL ÇOK PROĞRAMLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2247,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67511_cb_1093579462_1684087731083989092.jpg",
+            "submission_id": 343419,
+            "total_vote": 342,
+            "votes": {
+                "1": 115,
+                "2": 2,
+                "3": 200,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/49151_bulk_999999999_1684089474456976526.jpeg",
+            "submission_id": 395563,
+            "total_vote": 332,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 15,
+                "12": 16,
+                "13": 15,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 124,
+                "22": 38,
+                "23": 2,
+                "24": 13,
+                "3": 7,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 4,
+                "8": 5,
+                "9": 89
+            }
+        },
+        "school_name": "ŞÜKRÜ SEHER ERGİL ÇOK PROĞRAMLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2243,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67511_cb_1093579458_1684088428893184125.jpg",
+            "submission_id": 365316,
+            "total_vote": 350,
+            "votes": {
+                "1": 113,
+                "3": 216,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67511_mv_1083579458_1684088326907137425.jpg",
+            "submission_id": 362112,
+            "total_vote": 342,
+            "votes": {
+                "1": 1,
+                "11": 16,
+                "12": 6,
+                "13": 15,
+                "14": 1,
+                "15": 2,
+                "20": 1,
+                "21": 139,
+                "22": 54,
+                "24": 13,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 89
+            }
+        },
+        "school_name": "ŞÜKRÜ SEHER ERGİL ÇOK PROĞRAMLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2244,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21530_cb_1093579459_1684086564146286390.jpg",
+            "submission_id": 303746,
+            "total_vote": 347,
+            "votes": {
+                "1": 116,
+                "2": 1,
+                "3": 207,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/49122_bulk_999999999_1684097656560539884.jpg",
+            "submission_id": 522205,
+            "total_vote": 345,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 21,
+                "12": 20,
+                "13": 14,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 134,
+                "22": 38,
+                "23": 2,
+                "24": 15,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 4,
+                "8": 2,
+                "9": 83
+            }
+        },
+        "school_name": "ŞÜKRÜ SEHER ERGİL ÇOK PROĞRAMLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2252,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67511_cb_1093579467_1684086410348559658.jpg",
+            "submission_id": 298388,
+            "total_vote": 339,
+            "votes": {
+                "1": 106,
+                "3": 213,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67511_mv_1083579467_1684086482689221928.jpg",
+            "submission_id": 300898,
+            "total_vote": 325,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 12,
+                "13": 9,
+                "14": 2,
+                "15": 1,
+                "18": 1,
+                "2": 1,
+                "21": 146,
+                "22": 45,
+                "24": 7,
+                "3": 1,
+                "7": 5,
+                "8": 5,
+                "9": 87
+            }
+        },
+        "school_name": "ŞÜKRÜ SEHER ERGİL ÇOK PROĞRAMLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2255,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67511_cb_1093579470_1684087922643527274.jpg",
+            "submission_id": 349383,
+            "total_vote": 346,
+            "votes": {
+                "1": 104,
+                "2": 2,
+                "3": 216,
+                "4": 24
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞÜKRÜ SEHER ERGİL ÇOK PROĞRAMLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2241,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65823_cb_1093579456_1684084749604032154.jpg",
+            "submission_id": 247181,
+            "total_vote": 346,
+            "votes": {
+                "1": 113,
+                "2": 1,
+                "3": 213,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65823_mv_1083579457_1684085226249615256.jpg",
+            "submission_id": 260611,
+            "total_vote": 338,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 18,
+                "12": 8,
+                "13": 10,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 2,
+                "18": 0,
+                "19": 0,
+                "20": 0,
+                "21": 148,
+                "22": 42,
+                "23": 0,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 6,
+                "7": 2,
+                "8": 2,
+                "9": 84
+            }
+        },
+        "school_name": "ŞÜKRÜ SEHER ERGİL ÇOK PROĞRAMLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2236,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67511_cb_1093578831_1684084684081962648.jpg",
+            "submission_id": 245450,
+            "total_vote": 305,
+            "votes": {
+                "1": 118,
+                "2": 2,
+                "3": 169,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67511_mv_1083579463_1684084136586981919.jpg",
+            "submission_id": 231208,
+            "total_vote": 297,
+            "votes": {
+                "10": 4,
+                "11": 19,
+                "12": 6,
+                "13": 5,
+                "14": 1,
+                "18": 1,
+                "19": 1,
+                "2": 1,
+                "20": 1,
+                "21": 124,
+                "22": 31,
+                "23": 2,
+                "24": 6,
+                "4": 1,
+                "6": 2,
+                "7": 1,
+                "9": 91
+            }
+        },
+        "school_name": "ŞÜKRÜ SEHER ERGİL ÇOK PROĞRAMLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2250,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67511_cb_1093579465_1684086198877112669.jpg",
+            "submission_id": 291388,
+            "total_vote": 336,
+            "votes": {
+                "1": 80,
+                "2": 1,
+                "3": 227,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67511_cb_1093579465_1684086142863157576.jpg",
+            "submission_id": 289534,
+            "total_vote": 337,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 12,
+                "12": 6,
+                "13": 17,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 142,
+                "22": 63,
+                "23": 3,
+                "24": 13,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 6,
+                "8": 0,
+                "9": 63
+            }
+        },
+        "school_name": "ŞÜKRÜ SEHER ERGİL ÇOK PROĞRAMLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2246,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48986_cb_1093579461_1684081407228652616.jpg",
+            "submission_id": 188581,
+            "total_vote": 351,
+            "votes": {
+                "1": 138,
+                "2": 1,
+                "3": 185,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48986_mv_1083579461_1684082741415472558.jpg",
+            "submission_id": 204505,
+            "total_vote": 339,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 24,
+                "12": 6,
+                "13": 13,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 109,
+                "22": 52,
+                "23": 0,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 9,
+                "8": 1,
+                "9": 109
+            }
+        },
+        "school_name": "ŞÜKRÜ SEHER ERGİL ÇOK PROĞRAMLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2242,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65823_cb_1093579457_1684084256923092059.jpg",
+            "submission_id": 234440,
+            "total_vote": 328,
+            "votes": {
+                "1": 98,
+                "3": 203,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65823_mv_1083579457_1684085305590039146.jpg",
+            "submission_id": 262934,
+            "total_vote": 325,
+            "votes": {
+                "10": 1,
+                "11": 20,
+                "12": 13,
+                "13": 23,
+                "20": 1,
+                "21": 122,
+                "22": 44,
+                "23": 1,
+                "24": 14,
+                "7": 5,
+                "9": 81
+            }
+        },
+        "school_name": "ŞÜKRÜ SEHER ERGİL ÇOK PROĞRAMLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2249,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/63021_cb_1093579464_1684087078871953240.jpg",
+            "submission_id": 321779,
+            "total_vote": 354,
+            "votes": {
+                "1": 110,
+                "2": 2,
+                "3": 225,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/63021_mv_1083579464_1684088236972972626.jpg",
+            "submission_id": 359362,
+            "total_vote": 352,
+            "votes": {
+                "1": 3,
+                "10": 1,
+                "11": 15,
+                "12": 6,
+                "13": 13,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 4,
+                "2": 9,
+                "20": 0,
+                "21": 144,
+                "22": 51,
+                "23": 0,
+                "24": 7,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 92
+            }
+        },
+        "school_name": "ŞÜKRÜ SEHER ERGİL ÇOK PROĞRAMLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2251,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67511_cb_1093579466_1684085954021179651.jpg",
+            "submission_id": 283531,
+            "total_vote": 336,
+            "votes": {
+                "1": 115,
+                "2": 3,
+                "3": 206,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67511_mv_1083579466_1684086031029370179.jpg",
+            "submission_id": 285963,
+            "total_vote": 326,
+            "votes": {
+                "1": 2,
+                "10": 1,
+                "11": 11,
+                "12": 14,
+                "13": 11,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 127,
+                "22": 43,
+                "23": 0,
+                "24": 8,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 9,
+                "8": 2,
+                "9": 96
+            }
+        },
+        "school_name": "ŞÜKRÜ SEHER ERGİL ÇOK PROĞRAMLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2240,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65834_cb_1093579455_1684081615261970946.jpg",
+            "submission_id": 190541,
+            "total_vote": 340,
+            "votes": {
+                "1": 106,
+                "2": 2,
+                "3": 211,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65834_mv_1083579455_1684082915465217668.jpg",
+            "submission_id": 207289,
+            "total_vote": 335,
+            "votes": {
+                "10": 3,
+                "11": 24,
+                "12": 5,
+                "13": 12,
+                "14": 2,
+                "21": 154,
+                "22": 44,
+                "23": 3,
+                "24": 8,
+                "6": 2,
+                "7": 4,
+                "8": 2,
+                "9": 72
+            }
+        },
+        "school_name": "ŞÜKRÜ SEHER ERGİL ÇOK PROĞRAMLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2254,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67511_cb_1093579469_1684086638970148458.jpg",
+            "submission_id": 306379,
+            "total_vote": 341,
+            "votes": {
+                "1": 123,
+                "2": 1,
+                "3": 204,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞÜKRÜ SEHER ERGİL ÇOK PROĞRAMLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2239,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65834_cb_1093578834_1684078270458850776.jpg",
+            "submission_id": 174215,
+            "total_vote": 341,
+            "votes": {
+                "1": 115,
+                "2": 4,
+                "3": 196,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65834_mv_1083578834_1684082634644681143.jpg",
+            "submission_id": 202853,
+            "total_vote": 336,
+            "votes": {
+                "10": 1,
+                "11": 24,
+                "12": 14,
+                "13": 23,
+                "14": 1,
+                "2": 1,
+                "21": 131,
+                "22": 38,
+                "24": 10,
+                "5": 1,
+                "7": 7,
+                "9": 85
+            }
+        },
+        "school_name": "ŞÜKRÜ SEHER ERGİL ÇOK PROĞRAMLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2245,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22986_cb_1093579460_1684085458658052757.jpg",
+            "submission_id": 267365,
+            "total_vote": 338,
+            "votes": {
+                "1": 101,
+                "2": 1,
+                "3": 212,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22986_mv_1083579460_1684085369979699137.jpg",
+            "submission_id": 264777,
+            "total_vote": 330,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 16,
+                "12": 0,
+                "13": 20,
+                "14": 7,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 144,
+                "22": 50,
+                "23": 2,
+                "24": 7,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 0,
+                "9": 75
+            }
+        },
+        "school_name": "ŞÜKRÜ SEHER ERGİL ÇOK PROĞRAMLI ANADOLU LİSESİ"
+    }
+]

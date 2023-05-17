@@ -1,0 +1,90 @@
+[
+    {
+        "ballot_box_number": 2306,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/54267_bulk_999999999_1684088167726507960.jpg",
+            "submission_id": 357355,
+            "total_vote": 237,
+            "votes": {
+                "1": 81,
+                "2": 3,
+                "3": 138,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/54267_bulk_999999999_1684088191862207282.jpg",
+            "submission_id": 358031,
+            "total_vote": 227,
+            "votes": {
+                "10": 3,
+                "11": 11,
+                "12": 8,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 3,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 85,
+                "22": 35,
+                "23": 1,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 1,
+                "9": 67
+            }
+        },
+        "school_name": "KARABAĞLAR MESLEKİ EĞİTİM MERKEZİ."
+    },
+    {
+        "ballot_box_number": 2307,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/54267_bulk_999999999_1684088300618574245.jpg",
+            "submission_id": 361334,
+            "total_vote": 292,
+            "votes": {
+                "1": 101,
+                "2": 1,
+                "3": 172,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/54267_bulk_999999999_1684088359536031138.jpg",
+            "submission_id": 363093,
+            "total_vote": 287,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 21,
+                "12": 39,
+                "14": 5,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 5,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 110,
+                "23": 19,
+                "24": 2,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 79
+            }
+        },
+        "school_name": "KARABAĞLAR MESLEKİ EĞİTİM MERKEZİ."
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "ballot_box_number": 1052,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4ffd0087-e4d2-45f2-8923-f91d0854a064-1684106176716985002.png",
+            "submission_id": 750399,
+            "total_vote": 191,
+            "votes": {
+                "1": 78,
+                "2": 3,
+                "3": 97,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/b31b4d04-2311-4c6c-8a1f-64bd3297b42b-1684106168812866940.png",
+            "submission_id": 749063,
+            "total_vote": 182,
+            "votes": {
+                "10": 2,
+                "11": 12,
+                "12": 5,
+                "13": 1,
+                "14": 1,
+                "19": 1,
+                "21": 56,
+                "22": 36,
+                "24": 3,
+                "7": 5,
+                "8": 1,
+                "9": 59
+            }
+        },
+        "school_name": "BARBAROS MAH. ZİRAAT ODASI BİNASI"
+    },
+    {
+        "ballot_box_number": 1051,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "BARBAROS MAH. ZİRAAT ODASI BİNASI"
+    }
+]

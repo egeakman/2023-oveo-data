@@ -1,0 +1,18 @@
+[
+    {
+        "ballot_box_number": 1012,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/4364_bulk_999999999_1684089119873314031.jpeg",
+            "submission_id": 385870,
+            "total_vote": 202,
+            "votes": {
+                "1": 81,
+                "2": 3,
+                "3": 110,
+                "4": 8
+            }
+        },
+        "mv_result": null,
+        "school_name": "MESLEKİ EĞİTİM MERKEZİ"
+    }
+]

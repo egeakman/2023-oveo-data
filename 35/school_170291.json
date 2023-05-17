@@ -1,0 +1,18 @@
+[
+    {
+        "ballot_box_number": 1189,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/1dafa61b-068b-4b31-8be8-71c0f81f3bfd-1684105953902201268.jpg",
+            "submission_id": 718437,
+            "total_vote": 284,
+            "votes": {
+                "1": 197,
+                "2": 4,
+                "3": 67,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "KIRANLI MAH. KIRANLI LKOKULU"
+    }
+]

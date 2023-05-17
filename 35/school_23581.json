@@ -1,0 +1,342 @@
+[
+    {
+        "ballot_box_number": 1139,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61306_cb_1093797533_1684090953423301225.jpeg",
+            "submission_id": 430992,
+            "total_vote": 301,
+            "votes": {
+                "1": 83,
+                "2": 2,
+                "3": 210,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61306_cb_1093797533_1684090919327072436.jpeg",
+            "submission_id": 430252,
+            "total_vote": 295,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 13,
+                "12": 17,
+                "15": 1,
+                "19": 1,
+                "21": 155,
+                "22": 26,
+                "24": 6,
+                "3": 2,
+                "5": 1,
+                "7": 6,
+                "8": 1,
+                "9": 64
+            }
+        },
+        "school_name": "CENGİZ TOPEL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1149,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61306_cb_1093797823_1684092506943036198.jpeg",
+            "submission_id": 457384,
+            "total_vote": 331,
+            "votes": {
+                "1": 106,
+                "2": 4,
+                "3": 204,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "CENGİZ TOPEL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1147,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "CENGİZ TOPEL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1140,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61306_cb_1093797534_1684091014616995435.jpeg",
+            "submission_id": 432228,
+            "total_vote": 326,
+            "votes": {
+                "1": 75,
+                "2": 0,
+                "3": 239,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61306_mv_1083797534_1684090998105773472.jpeg",
+            "submission_id": 431897,
+            "total_vote": 316,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 14,
+                "12": 13,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 2,
+                "21": 163,
+                "22": 54,
+                "23": 0,
+                "24": 2,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 8,
+                "7": 3,
+                "8": 1,
+                "9": 55
+            }
+        },
+        "school_name": "CENGİZ TOPEL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1144,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61306_cb_1093797818_1684091368124444311.jpeg",
+            "submission_id": 438998,
+            "total_vote": 337,
+            "votes": {
+                "1": 114,
+                "2": 2,
+                "3": 206,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61306_mv_1083797818_1684091381263724693.jpeg",
+            "submission_id": 439282,
+            "total_vote": 337,
+            "votes": {
+                "11": 25,
+                "12": 20,
+                "21": 145,
+                "22": 46,
+                "24": 7,
+                "3": 1,
+                "6": 5,
+                "7": 3,
+                "9": 85
+            }
+        },
+        "school_name": "CENGİZ TOPEL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1141,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61306_cb_1093797815_1684091121118718377.jpeg",
+            "submission_id": 434313,
+            "total_vote": 329,
+            "votes": {
+                "1": 87,
+                "2": 1,
+                "3": 220,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61306_mv_1083797815_1684091049720971052.jpeg",
+            "submission_id": 432902,
+            "total_vote": 325,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 12,
+                "12": 22,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 133,
+                "22": 50,
+                "23": 0,
+                "24": 14,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 4,
+                "8": 0,
+                "9": 76
+            }
+        },
+        "school_name": "CENGİZ TOPEL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1142,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61306_cb_1093797816_1684091148460638777.jpeg",
+            "submission_id": 434863,
+            "total_vote": 318,
+            "votes": {
+                "1": 93,
+                "2": 1,
+                "3": 195,
+                "4": 29
+            }
+        },
+        "mv_result": null,
+        "school_name": "CENGİZ TOPEL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1145,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61306_cb_1093797819_1684091430151343992.jpeg",
+            "submission_id": 440072,
+            "total_vote": 333,
+            "votes": {
+                "1": 99,
+                "2": 1,
+                "3": 205,
+                "4": 28
+            }
+        },
+        "mv_result": null,
+        "school_name": "CENGİZ TOPEL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1143,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61306_cb_1093797817_1684091301485131243.jpeg",
+            "submission_id": 437762,
+            "total_vote": 332,
+            "votes": {
+                "1": 111,
+                "2": 4,
+                "3": 202,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61306_mv_1083797817_1684092226524983669.jpeg",
+            "submission_id": 452970,
+            "total_vote": 312,
+            "votes": {
+                "10": 3,
+                "11": 16,
+                "12": 5,
+                "19": 2,
+                "21": 147,
+                "22": 42,
+                "23": 1,
+                "24": 7,
+                "3": 1,
+                "6": 2,
+                "7": 5,
+                "8": 2,
+                "9": 79
+            }
+        },
+        "school_name": "CENGİZ TOPEL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1146,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61306_cb_1093797820_1684092264814124524.jpeg",
+            "submission_id": 453574,
+            "total_vote": 312,
+            "votes": {
+                "1": 99,
+                "3": 192,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61306_mv_1083797820_1684092284180790332.jpeg",
+            "submission_id": 453876,
+            "total_vote": 292,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 20,
+                "12": 0,
+                "13": 0,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 1,
+                "21": 135,
+                "22": 41,
+                "23": 1,
+                "24": 6,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 7,
+                "8": 1,
+                "9": 71
+            }
+        },
+        "school_name": "CENGİZ TOPEL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1150,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61306_cb_1093797824_1684092545854206574.jpeg",
+            "submission_id": 457948,
+            "total_vote": 332,
+            "votes": {
+                "1": 107,
+                "2": 2,
+                "3": 207,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "CENGİZ TOPEL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1148,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61306_cb_1093797822_1684092466939403658.jpeg",
+            "submission_id": 456740,
+            "total_vote": 321,
+            "votes": {
+                "1": 81,
+                "2": 1,
+                "3": 216,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61306_mv_1083797822_1684092486501523803.jpeg",
+            "submission_id": 457074,
+            "total_vote": 314,
+            "votes": {
+                "10": 3,
+                "11": 13,
+                "12": 20,
+                "14": 2,
+                "21": 153,
+                "22": 32,
+                "24": 13,
+                "3": 3,
+                "6": 3,
+                "7": 4,
+                "9": 68
+            }
+        },
+        "school_name": "CENGİZ TOPEL İLKOKULU"
+    }
+]

@@ -1,0 +1,547 @@
+[
+    {
+        "ballot_box_number": 1012,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67380_cb_1093568466_1684086705486328928.jpg",
+            "submission_id": 308701,
+            "total_vote": 321,
+            "votes": {
+                "1": 52,
+                "3": 255,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67380_mv_1083568466_1684087205131049112.jpg",
+            "submission_id": 326268,
+            "total_vote": 319,
+            "votes": {
+                "1": 2,
+                "10": 1,
+                "11": 12,
+                "12": 15,
+                "13": 37,
+                "21": 163,
+                "22": 38,
+                "24": 7,
+                "3": 2,
+                "6": 1,
+                "7": 2,
+                "8": 3,
+                "9": 36
+            }
+        },
+        "school_name": "ALİŞİRNEVAİ İORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1010,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65437_cb_1093568464_1684090399519767672.jpg",
+            "submission_id": 419019,
+            "total_vote": 338,
+            "votes": {
+                "1": 64,
+                "2": 2,
+                "3": 261,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65437_mv_1083568464_1684090463572447437.jpg",
+            "submission_id": 420486,
+            "total_vote": 338,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 14,
+                "12": 19,
+                "13": 26,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 182,
+                "22": 32,
+                "23": 0,
+                "24": 6,
+                "3": 2,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 3,
+                "9": 45
+            }
+        },
+        "school_name": "ALİŞİRNEVAİ İORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1016,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22730_cb_1093568470_1684093065879911489.jpg",
+            "submission_id": 464798,
+            "total_vote": 332,
+            "votes": {
+                "1": 64,
+                "2": 0,
+                "3": 259,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22730_mv_1083568470_1684093172716986232.jpg",
+            "submission_id": 466389,
+            "total_vote": 326,
+            "votes": {
+                "10": 2,
+                "11": 9,
+                "12": 29,
+                "13": 35,
+                "15": 1,
+                "21": 169,
+                "22": 22,
+                "24": 4,
+                "3": 2,
+                "5": 1,
+                "6": 1,
+                "7": 3,
+                "9": 48
+            }
+        },
+        "school_name": "ALİŞİRNEVAİ İORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1009,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22730_cb_1093568463_1684087483194440575.jpg",
+            "submission_id": 335319,
+            "total_vote": 344,
+            "votes": {
+                "1": 64,
+                "2": 1,
+                "3": 266,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/04578b89-7d5c-4959-b4f5-b62996342e31-1684105430663159507.jpg",
+            "submission_id": 638640,
+            "total_vote": 343,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 16,
+                "12": 17,
+                "13": 35,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "2": 0,
+                "20": 0,
+                "21": 171,
+                "22": 33,
+                "23": 0,
+                "24": 8,
+                "3": 4,
+                "4": 1,
+                "5": 0,
+                "6": 2,
+                "7": 6,
+                "8": 0,
+                "9": 47
+            }
+        },
+        "school_name": "ALİŞİRNEVAİ İORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1015,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31508_mv_1083568469_1684085298341371381.jpg",
+            "submission_id": 262688,
+            "total_vote": 347,
+            "votes": {
+                "1": 67,
+                "2": 1,
+                "3": 267,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "ALİŞİRNEVAİ İORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1011,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65136_cb_1093568465_1684086368814917652.jpg",
+            "submission_id": 296955,
+            "total_vote": 350,
+            "votes": {
+                "1": 60,
+                "2": 1,
+                "3": 271,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a789c305-9a1b-4e96-8ae7-59765bd9d1e3-1684105401607977585.jpg",
+            "submission_id": 632992,
+            "total_vote": 326,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 9,
+                "12": 34,
+                "13": 28,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 167,
+                "22": 35,
+                "23": 0,
+                "24": 11,
+                "3": 2,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 0,
+                "9": 32
+            }
+        },
+        "school_name": "ALİŞİRNEVAİ İORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1013,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/63488_cb_1093568467_1684084162445842826.jpg",
+            "submission_id": 231835,
+            "total_vote": 341,
+            "votes": {
+                "1": 48,
+                "3": 284,
+                "4": 9
+            }
+        },
+        "mv_result": null,
+        "school_name": "ALİŞİRNEVAİ İORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1017,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/40115_cb_1093568471_1684084759972641857.jpg",
+            "submission_id": 247474,
+            "total_vote": 344,
+            "votes": {
+                "1": 47,
+                "3": 288,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/40115_mv_1083568471_1684084795246558869.jpg",
+            "submission_id": 248408,
+            "total_vote": 341,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 12,
+                "12": 31,
+                "13": 32,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 182,
+                "22": 29,
+                "23": 0,
+                "24": 6,
+                "3": 1,
+                "4": 0,
+                "5": 2,
+                "6": 1,
+                "7": 4,
+                "8": 1,
+                "9": 37
+            }
+        },
+        "school_name": "ALİŞİRNEVAİ İORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1007,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22730_cb_1093568461_1684086716222710305.jpg",
+            "submission_id": 309115,
+            "total_vote": 329,
+            "votes": {
+                "1": 65,
+                "3": 255,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22730_mv_1083568461_1684086755917281083.jpg",
+            "submission_id": 310532,
+            "total_vote": 329,
+            "votes": {
+                "10": 2,
+                "11": 10,
+                "12": 15,
+                "13": 24,
+                "15": 1,
+                "19": 1,
+                "21": 177,
+                "22": 41,
+                "23": 2,
+                "24": 5,
+                "3": 1,
+                "7": 1,
+                "9": 49
+            }
+        },
+        "school_name": "ALİŞİRNEVAİ İORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1005,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67384_cb_1093568459_1684082549505064245.jpg",
+            "submission_id": 201640,
+            "total_vote": 345,
+            "votes": {
+                "1": 66,
+                "2": 3,
+                "3": 263,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67384_mv_1083568459_1684083748910775575.jpg",
+            "submission_id": 222878,
+            "total_vote": 341,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 12,
+                "12": 20,
+                "13": 14,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 0,
+                "21": 203,
+                "22": 28,
+                "23": 0,
+                "24": 1,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 5,
+                "8": 2,
+                "9": 51
+            }
+        },
+        "school_name": "ALİŞİRNEVAİ İORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1019,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22730_cb_1093568473_1684093222457830906.jpg",
+            "submission_id": 467166,
+            "total_vote": 344,
+            "votes": {
+                "1": 56,
+                "2": 0,
+                "3": 277,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22730_mv_1083568473_1684093250564100874.jpg",
+            "submission_id": 467549,
+            "total_vote": 334,
+            "votes": {
+                "11": 16,
+                "12": 27,
+                "13": 30,
+                "21": 166,
+                "22": 46,
+                "24": 7,
+                "7": 4,
+                "9": 38
+            }
+        },
+        "school_name": "ALİŞİRNEVAİ İORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1014,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31508_cb_1093568468_1684088292744984294.jpg",
+            "submission_id": 361097,
+            "total_vote": 331,
+            "votes": {
+                "1": 72,
+                "2": 2,
+                "3": 243,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22730_mv_1083568468_1684092746449592239.jpg",
+            "submission_id": 460482,
+            "total_vote": 321,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 7,
+                "12": 18,
+                "13": 26,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 162,
+                "22": 16,
+                "23": 0,
+                "24": 12,
+                "3": 11,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 0,
+                "9": 63
+            }
+        },
+        "school_name": "ALİŞİRNEVAİ İORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1018,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/71595_cb_1093568472_1684081136679572309.jpg",
+            "submission_id": 186356,
+            "total_vote": 344,
+            "votes": {
+                "1": 70,
+                "3": 257,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/71595_mv_1083568472_1684085899305322981.jpg",
+            "submission_id": 281763,
+            "total_vote": 340,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 23,
+                "12": 25,
+                "13": 34,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 4,
+                "2": 0,
+                "20": 0,
+                "21": 162,
+                "22": 37,
+                "23": 2,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 1,
+                "9": 43
+            }
+        },
+        "school_name": "ALİŞİRNEVAİ İORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1006,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22730_cb_1093568460_1684089105113343139.jpg",
+            "submission_id": 385492,
+            "total_vote": 317,
+            "votes": {
+                "1": 41,
+                "2": 1,
+                "3": 266,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/95bce28d-d828-4c29-a14b-2606d4276760-1684105290312953132.jpeg",
+            "submission_id": 612360,
+            "total_vote": 316,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 4,
+                "12": 16,
+                "13": 25,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 2,
+                "21": 190,
+                "22": 34,
+                "23": 0,
+                "24": 1,
+                "3": 0,
+                "4": 1,
+                "5": 4,
+                "6": 1,
+                "7": 1,
+                "8": 0,
+                "9": 34
+            }
+        },
+        "school_name": "ALİŞİRNEVAİ İORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1008,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22730_cb_1093568462_1684089186227431718.jpg",
+            "submission_id": 387712,
+            "total_vote": 339,
+            "votes": {
+                "1": 77,
+                "2": 2,
+                "3": 242,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "ALİŞİRNEVAİ İORTA OKULU"
+    }
+]

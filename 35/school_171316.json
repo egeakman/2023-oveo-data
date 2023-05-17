@@ -1,0 +1,121 @@
+[
+    {
+        "ballot_box_number": 1034,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/65815_bulk_999999999_1684083465913790891.jpeg",
+            "submission_id": 217154,
+            "total_vote": 268,
+            "votes": {
+                "1": 68,
+                "2": 2,
+                "3": 187,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/65815_bulk_999999999_1684085172338548819.jpeg",
+            "submission_id": 259047,
+            "total_vote": 262,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 20,
+                "12": 19,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 2,
+                "21": 103,
+                "22": 54,
+                "23": 0,
+                "24": 7,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 0,
+                "9": 46
+            }
+        },
+        "school_name": "ATATÜRK MAH-ŞEHİT POLİS DEMET SEZEN (METAL)"
+    },
+    {
+        "ballot_box_number": 1035,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c62015c9-c61c-4a51-8e92-3d373c052ecb-1684105873667467792.jpeg",
+            "submission_id": 707376,
+            "total_vote": 265,
+            "votes": {
+                "1": 74,
+                "3": 174,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "ATATÜRK MAH-ŞEHİT POLİS DEMET SEZEN (METAL)"
+    },
+    {
+        "ballot_box_number": 1032,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29885_cb_1093754566_1684086365133252832.jpg",
+            "submission_id": 296837,
+            "total_vote": 263,
+            "votes": {
+                "1": 73,
+                "3": 177,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "ATATÜRK MAH-ŞEHİT POLİS DEMET SEZEN (METAL)"
+    },
+    {
+        "ballot_box_number": 1033,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29885_cb_1093754567_1684084886749086142.jpg",
+            "submission_id": 250913,
+            "total_vote": 273,
+            "votes": {
+                "1": 81,
+                "3": 170,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/76457_bulk_999999999_1684131433349388445.jpeg",
+            "submission_id": 1012368,
+            "total_vote": 273,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 23,
+                "12": 8,
+                "14": 0,
+                "15": 1,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 1,
+                "21": 114,
+                "22": 42,
+                "23": 2,
+                "24": 12,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 7,
+                "8": 0,
+                "9": 56
+            }
+        },
+        "school_name": "ATATÜRK MAH-ŞEHİT POLİS DEMET SEZEN (METAL)"
+    }
+]

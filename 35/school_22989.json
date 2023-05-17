@@ -1,0 +1,331 @@
+[
+    {
+        "ballot_box_number": 2058,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/27869_cb_1093797492_1684102066378250318.jpg",
+            "submission_id": 543097,
+            "total_vote": 280,
+            "votes": {
+                "1": 81,
+                "2": 1,
+                "3": 194,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/27869_bulk_999999999_1684100573597318420.jpg",
+            "submission_id": 537642,
+            "total_vote": 269,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 11,
+                "12": 86,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 0,
+                "21": 75,
+                "22": 21,
+                "23": 0,
+                "24": 1,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 1,
+                "7": 3,
+                "8": 3,
+                "9": 59
+            }
+        },
+        "school_name": "İNKILAP İLKOKULU VE ORTAOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 2064,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/16789_bulk_999999999_1684097082904666311.jpeg",
+            "submission_id": 518090,
+            "total_vote": 301,
+            "votes": {
+                "1": 77,
+                "2": 1,
+                "3": 219,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/16789_bulk_999999999_1684097082780705297.jpeg",
+            "submission_id": 518089,
+            "total_vote": 295,
+            "votes": {
+                "10": 2,
+                "11": 6,
+                "12": 166,
+                "14": 2,
+                "16": 1,
+                "20": 1,
+                "21": 40,
+                "22": 11,
+                "23": 1,
+                "24": 2,
+                "5": 1,
+                "6": 2,
+                "7": 2,
+                "8": 1,
+                "9": 57
+            }
+        },
+        "school_name": "İNKILAP İLKOKULU VE ORTAOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 2063,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/27869_bulk_999999999_1684101308468354855.jpg",
+            "submission_id": 540759,
+            "total_vote": 300,
+            "votes": {
+                "1": 73,
+                "2": 2,
+                "3": 219,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/27869_mv_1083797777_1684102348270477398.jpg",
+            "submission_id": 544020,
+            "total_vote": 292,
+            "votes": {
+                "11": 6,
+                "12": 152,
+                "14": 1,
+                "17": 1,
+                "2": 1,
+                "21": 52,
+                "22": 13,
+                "24": 3,
+                "4": 2,
+                "5": 1,
+                "7": 5,
+                "8": 1,
+                "9": 54
+            }
+        },
+        "school_name": "İNKILAP İLKOKULU VE ORTAOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 2065,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/27869_bulk_999999999_1684100573510498310.jpg",
+            "submission_id": 537640,
+            "total_vote": 304,
+            "votes": {
+                "1": 82,
+                "2": 1,
+                "3": 220,
+                "4": 1
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/27869_bulk_999999999_1684100573426693433.jpg",
+            "submission_id": 537639,
+            "total_vote": 294,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 4,
+                "12": 161,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 37,
+                "22": 17,
+                "23": 1,
+                "24": 1,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 1,
+                "8": 1,
+                "9": 68
+            }
+        },
+        "school_name": "İNKILAP İLKOKULU VE ORTAOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 2061,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/27869_bulk_999999999_1684101308030448100.jpg",
+            "submission_id": 540750,
+            "total_vote": 289,
+            "votes": {
+                "1": 75,
+                "2": 1,
+                "3": 211,
+                "4": 2
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/27869_bulk_999999999_1684101308126618342.jpg",
+            "submission_id": 540752,
+            "total_vote": 274,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 5,
+                "12": 143,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 0,
+                "21": 47,
+                "22": 13,
+                "23": 0,
+                "24": 1,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 0,
+                "8": 1,
+                "9": 55
+            }
+        },
+        "school_name": "İNKILAP İLKOKULU VE ORTAOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 2062,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/16789_bulk_999999999_1684097083030815932.jpeg",
+            "submission_id": 518092,
+            "total_vote": 284,
+            "votes": {
+                "1": 71,
+                "2": 1,
+                "3": 207,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/27869_bulk_999999999_1684100573771675831.jpg",
+            "submission_id": 537645,
+            "total_vote": 278,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 5,
+                "12": 156,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 42,
+                "22": 9,
+                "23": 0,
+                "24": 1,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 0,
+                "9": 61
+            }
+        },
+        "school_name": "İNKILAP İLKOKULU VE ORTAOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 2059,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/27869_bulk_999999999_1684101307944195110.jpg",
+            "submission_id": 540748,
+            "total_vote": 294,
+            "votes": {
+                "1": 73,
+                "2": 1,
+                "3": 216,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/27869_bulk_999999999_1684100573890650440.jpg",
+            "submission_id": 537646,
+            "total_vote": 291,
+            "votes": {
+                "1": 1,
+                "11": 8,
+                "12": 152,
+                "14": 1,
+                "17": 1,
+                "21": 56,
+                "22": 10,
+                "23": 2,
+                "24": 1,
+                "9": 59
+            }
+        },
+        "school_name": "İNKILAP İLKOKULU VE ORTAOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 2060,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/27869_cb_1093797494_1684101463146418377.jpg",
+            "submission_id": 541259,
+            "total_vote": 303,
+            "votes": {
+                "1": 82,
+                "2": 3,
+                "3": 210,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/27869_mv_1083797494_1684101906391135504.jpg",
+            "submission_id": 542693,
+            "total_vote": 294,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 3,
+                "12": 147,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 42,
+                "22": 21,
+                "23": 0,
+                "24": 0,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 4,
+                "8": 1,
+                "9": 70
+            }
+        },
+        "school_name": "İNKILAP İLKOKULU VE ORTAOKULU B BLOK"
+    }
+]

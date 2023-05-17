@@ -1,0 +1,566 @@
+[
+    {
+        "ballot_box_number": 1055,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/50822_cb_1093571689_1684085744657293475.jpg",
+            "submission_id": 276470,
+            "total_vote": 343,
+            "votes": {
+                "1": 89,
+                "2": 1,
+                "3": 236,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/50822_mv_1083571689_1684087018892200764.jpg",
+            "submission_id": 319623,
+            "total_vote": 338,
+            "votes": {
+                "10": 3,
+                "11": 14,
+                "12": 11,
+                "21": 151,
+                "22": 72,
+                "24": 8,
+                "4": 1,
+                "7": 6,
+                "9": 72
+            }
+        },
+        "school_name": "ŞHT. ER UĞUR PALANCI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1058,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/72327_mv_1083571692_1684087887997748919.jpg",
+            "submission_id": 348281,
+            "total_vote": 344,
+            "votes": {
+                "1": 98,
+                "2": 2,
+                "3": 219,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/72327_cb_1093571692_1684087864799444691.jpg",
+            "submission_id": 347515,
+            "total_vote": 342,
+            "votes": {
+                "10": 2,
+                "11": 16,
+                "12": 8,
+                "15": 1,
+                "19": 2,
+                "21": 159,
+                "22": 54,
+                "23": 2,
+                "24": 15,
+                "6": 1,
+                "7": 5,
+                "8": 1,
+                "9": 76
+            }
+        },
+        "school_name": "ŞHT. ER UĞUR PALANCI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1056,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/50822_cb_1093571690_1684086071348581348.jpg",
+            "submission_id": 287229,
+            "total_vote": 342,
+            "votes": {
+                "1": 90,
+                "2": 1,
+                "3": 222,
+                "4": 29
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/50822_mv_1083571690_1684086552812650635.jpg",
+            "submission_id": 303356,
+            "total_vote": 335,
+            "votes": {
+                "10": 2,
+                "11": 17,
+                "12": 5,
+                "21": 157,
+                "22": 63,
+                "23": 1,
+                "24": 11,
+                "5": 1,
+                "6": 2,
+                "7": 1,
+                "9": 75
+            }
+        },
+        "school_name": "ŞHT. ER UĞUR PALANCI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1049,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/84216_bulk_999999999_1684086926811731528.jpg",
+            "submission_id": 316440,
+            "total_vote": 345,
+            "votes": {
+                "1": 80,
+                "3": 251,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/84216_bulk_999999999_1684087061642256981.jpg",
+            "submission_id": 321142,
+            "total_vote": 341,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 9,
+                "12": 6,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 159,
+                "22": 76,
+                "23": 1,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 6,
+                "8": 0,
+                "9": 69
+            }
+        },
+        "school_name": "ŞHT. ER UĞUR PALANCI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1047,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/72327_cb_1093571681_1684090279849013529.jpg",
+            "submission_id": 416430,
+            "total_vote": 323,
+            "votes": {
+                "1": 82,
+                "2": 0,
+                "3": 221,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/72327_mv_1083571681_1684090419483132218.jpg",
+            "submission_id": 419497,
+            "total_vote": 319,
+            "votes": {
+                "10": 3,
+                "11": 8,
+                "12": 3,
+                "14": 1,
+                "15": 1,
+                "21": 174,
+                "22": 39,
+                "23": 2,
+                "24": 16,
+                "7": 3,
+                "8": 1,
+                "9": 68
+            }
+        },
+        "school_name": "ŞHT. ER UĞUR PALANCI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1060,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/70696_cb_1093571694_1684085994328497296.jpg",
+            "submission_id": 284750,
+            "total_vote": 364,
+            "votes": {
+                "1": 81,
+                "2": 1,
+                "3": 254,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/70696_mv_1083571694_1684086078868664212.jpg",
+            "submission_id": 287463,
+            "total_vote": 356,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 15,
+                "12": 9,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 165,
+                "22": 65,
+                "23": 2,
+                "24": 14,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 9,
+                "8": 0,
+                "9": 71
+            }
+        },
+        "school_name": "ŞHT. ER UĞUR PALANCI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1059,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/70952_mv_1083571693_1684085815863000573.jpg",
+            "submission_id": 278960,
+            "total_vote": 343,
+            "votes": {
+                "1": 93,
+                "2": 0,
+                "3": 225,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/70952_cb_1093571693_1684085779782284707.jpg",
+            "submission_id": 277736,
+            "total_vote": 341,
+            "votes": {
+                "1": 2,
+                "11": 15,
+                "12": 20,
+                "2": 1,
+                "21": 148,
+                "22": 61,
+                "23": 1,
+                "24": 10,
+                "7": 5,
+                "8": 3,
+                "9": 75
+            }
+        },
+        "school_name": "ŞHT. ER UĞUR PALANCI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1053,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/72327_cb_1093571687_1684088134166077775.jpg",
+            "submission_id": 356288,
+            "total_vote": 341,
+            "votes": {
+                "1": 81,
+                "2": 0,
+                "3": 234,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/72327_mv_1083571687_1684088156932216781.jpg",
+            "submission_id": 357036,
+            "total_vote": 336,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 13,
+                "12": 12,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 164,
+                "22": 64,
+                "23": 4,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 4,
+                "7": 3,
+                "8": 0,
+                "9": 60
+            }
+        },
+        "school_name": "ŞHT. ER UĞUR PALANCI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1052,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/72327_mv_1083571686_1684088085764127038.jpg",
+            "submission_id": 354756,
+            "total_vote": 335,
+            "votes": {
+                "1": 93,
+                "2": 2,
+                "3": 220,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/72327_cb_1093571686_1684088070968543183.jpg",
+            "submission_id": 354294,
+            "total_vote": 335,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 15,
+                "12": 5,
+                "20": 1,
+                "21": 158,
+                "22": 56,
+                "24": 11,
+                "3": 1,
+                "6": 2,
+                "7": 10,
+                "9": 73
+            }
+        },
+        "school_name": "ŞHT. ER UĞUR PALANCI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1048,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/72327_mv_1083571682_1684088533362831014.jpg",
+            "submission_id": 368583,
+            "total_vote": 350,
+            "votes": {
+                "1": 92,
+                "2": 0,
+                "3": 244,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/72327_cb_1093571682_1684088512036063321.jpg",
+            "submission_id": 367861,
+            "total_vote": 349,
+            "votes": {
+                "10": 4,
+                "11": 17,
+                "12": 8,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 172,
+                "22": 56,
+                "23": 0,
+                "24": 12,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 74
+            }
+        },
+        "school_name": "ŞHT. ER UĞUR PALANCI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1057,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/71037_cb_1093571691_1684087286206297708.jpg",
+            "submission_id": 328969,
+            "total_vote": 347,
+            "votes": {
+                "1": 93,
+                "2": 2,
+                "3": 227,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/71037_mv_1083571691_1684087342835537756.jpg",
+            "submission_id": 330761,
+            "total_vote": 342,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 22,
+                "12": 6,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 157,
+                "22": 60,
+                "23": 1,
+                "24": 9,
+                "3": 0,
+                "4": 2,
+                "5": 0,
+                "6": 4,
+                "7": 7,
+                "8": 2,
+                "9": 67
+            }
+        },
+        "school_name": "ŞHT. ER UĞUR PALANCI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1051,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/72327_cb_1093571685_1684086830077206247.jpg",
+            "submission_id": 313094,
+            "total_vote": 346,
+            "votes": {
+                "1": 91,
+                "2": 0,
+                "3": 231,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/72327_mv_1083571685_1684086849862820812.jpg",
+            "submission_id": 313767,
+            "total_vote": 341,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 13,
+                "12": 10,
+                "14": 2,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 158,
+                "22": 61,
+                "23": 0,
+                "24": 7,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 7,
+                "8": 1,
+                "9": 73
+            }
+        },
+        "school_name": "ŞHT. ER UĞUR PALANCI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1050,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/72327_cb_1093571684_1684087598639334888.jpg",
+            "submission_id": 339043,
+            "total_vote": 350,
+            "votes": {
+                "1": 94,
+                "2": 3,
+                "3": 242,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/72327_mv_1083571684_1684087620529717163.jpg",
+            "submission_id": 339734,
+            "total_vote": 350,
+            "votes": {
+                "10": 1,
+                "11": 15,
+                "12": 14,
+                "15": 1,
+                "21": 192,
+                "22": 34,
+                "24": 9,
+                "7": 8,
+                "8": 5,
+                "9": 71
+            }
+        },
+        "school_name": "ŞHT. ER UĞUR PALANCI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1046,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/56794_cb_1093571680_1684088055475338268.jpg",
+            "submission_id": 353737,
+            "total_vote": 315,
+            "votes": {
+                "1": 98,
+                "2": 4,
+                "3": 204,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/56794_mv_1083571680_1684088128664517402.jpg",
+            "submission_id": 356121,
+            "total_vote": 313,
+            "votes": {
+                "10": 1,
+                "11": 9,
+                "12": 4,
+                "20": 1,
+                "21": 145,
+                "22": 50,
+                "24": 3,
+                "3": 1,
+                "5": 1,
+                "7": 5,
+                "9": 93
+            }
+        },
+        "school_name": "ŞHT. ER UĞUR PALANCI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1054,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source1-secim-images.oyveotesi.org/raw/1002308_cb_3571688_1684083358.jpeg",
+            "submission_id": 215123,
+            "total_vote": 337,
+            "votes": {
+                "1": 83,
+                "3": 246,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/72327_bulk_999999999_1684088367786775298.jpeg",
+            "submission_id": 363345,
+            "total_vote": 333,
+            "votes": {
+                "11": 7,
+                "12": 7,
+                "21": 175,
+                "22": 58,
+                "23": 1,
+                "24": 7,
+                "3": 1,
+                "5": 1,
+                "7": 2,
+                "9": 74
+            }
+        },
+        "school_name": "ŞHT. ER UĞUR PALANCI ORTAOKULU"
+    }
+]

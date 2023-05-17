@@ -1,0 +1,94 @@
+[
+    {
+        "ballot_box_number": 1389,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/64223_cb_1093761693_1684088711107811544.jpg",
+            "submission_id": 374020,
+            "total_vote": 319,
+            "votes": {
+                "1": 124,
+                "2": 4,
+                "3": 178,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e465e72b-36ae-4ec1-990d-a8dbe446575b-1684105531252409448.jpg",
+            "submission_id": 654244,
+            "total_vote": 314,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 27,
+                "12": 42,
+                "13": 7,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 85,
+                "22": 42,
+                "23": 1,
+                "24": 2,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 6,
+                "8": 1,
+                "9": 90
+            }
+        },
+        "school_name": "YAHŞELLİ KÖY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1390,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/64223_cb_1093761694_1684086777504098760.jpg",
+            "submission_id": 311268,
+            "total_vote": 324,
+            "votes": {
+                "1": 135,
+                "2": 2,
+                "3": 166,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9b864e85-519a-4587-8391-9c94994243b6-1684105634858125740.jpg",
+            "submission_id": 670742,
+            "total_vote": 326,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 23,
+                "12": 38,
+                "13": 3,
+                "14": 2,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 9,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 92,
+                "22": 15,
+                "23": 3,
+                "24": 13,
+                "3": 2,
+                "4": 9,
+                "5": 0,
+                "6": 3,
+                "7": 9,
+                "8": 3,
+                "9": 98
+            }
+        },
+        "school_name": "YAHŞELLİ KÖY İLKOKULU"
+    }
+]

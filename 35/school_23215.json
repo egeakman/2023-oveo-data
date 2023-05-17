@@ -1,0 +1,234 @@
+[
+    {
+        "ballot_box_number": 1210,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/27672_bulk_999999999_1684087968988678855.jpg",
+            "submission_id": 350902,
+            "total_vote": 345,
+            "votes": {
+                "1": 213,
+                "2": 2,
+                "3": 104,
+                "4": 26
+            }
+        },
+        "mv_result": null,
+        "school_name": "80.YIL SÜTÇÜLER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1211,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/27672_bulk_999999999_1684087877555588464.jpg",
+            "submission_id": 347929,
+            "total_vote": 355,
+            "votes": {
+                "1": 222,
+                "2": 2,
+                "3": 110,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/27672_bulk_999999999_1684087877632528601.jpg",
+            "submission_id": 347932,
+            "total_vote": 348,
+            "votes": {
+                "1": 0,
+                "10": 10,
+                "11": 46,
+                "12": 5,
+                "13": 6,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "21": 77,
+                "23": 3,
+                "24": 12,
+                "5": 0,
+                "6": 2,
+                "7": 4,
+                "8": 2,
+                "9": 181
+            }
+        },
+        "school_name": "80.YIL SÜTÇÜLER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1214,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29991_cb_1093799549_1684083027011062876.jpg",
+            "submission_id": 209192,
+            "total_vote": 330,
+            "votes": {
+                "1": 204,
+                "2": 1,
+                "3": 99,
+                "4": 26
+            }
+        },
+        "mv_result": null,
+        "school_name": "80.YIL SÜTÇÜLER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1212,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/27672_bulk_999999999_1684090590375879482.jpg",
+            "submission_id": 423463,
+            "total_vote": 337,
+            "votes": {
+                "1": 202,
+                "2": 1,
+                "3": 112,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "80.YIL SÜTÇÜLER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1209,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/27672_bulk_999999999_1684086611039877473.jpg",
+            "submission_id": 305374,
+            "total_vote": 302,
+            "votes": {
+                "1": 182,
+                "2": 1,
+                "3": 108,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/27672_bulk_999999999_1684086745179815629.jpg",
+            "submission_id": 310169,
+            "total_vote": 295,
+            "votes": {
+                "10": 9,
+                "11": 34,
+                "12": 6,
+                "13": 3,
+                "14": 1,
+                "15": 1,
+                "19": 2,
+                "21": 69,
+                "22": 26,
+                "24": 3,
+                "3": 1,
+                "5": 1,
+                "7": 1,
+                "8": 4,
+                "9": 134
+            }
+        },
+        "school_name": "80.YIL SÜTÇÜLER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1215,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/45211_cb_1093799550_1684085201724133970.jpg",
+            "submission_id": 259944,
+            "total_vote": 341,
+            "votes": {
+                "1": 203,
+                "2": 3,
+                "3": 112,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/45211_mv_1083799550_1684085780754997519.jpg",
+            "submission_id": 277777,
+            "total_vote": 337,
+            "votes": {
+                "10": 11,
+                "11": 38,
+                "12": 6,
+                "13": 5,
+                "14": 1,
+                "21": 76,
+                "22": 28,
+                "24": 10,
+                "6": 1,
+                "7": 4,
+                "8": 1,
+                "9": 156
+            }
+        },
+        "school_name": "80.YIL SÜTÇÜLER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1216,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/27672_cb_1093799551_1684084578388729474.jpg",
+            "submission_id": 242583,
+            "total_vote": 336,
+            "votes": {
+                "1": 207,
+                "2": 0,
+                "3": 99,
+                "4": 30
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/27672_mv_1083799551_1684086112936992672.jpg",
+            "submission_id": 288552,
+            "total_vote": 323,
+            "votes": {
+                "10": 12,
+                "11": 60,
+                "12": 3,
+                "13": 2,
+                "14": 2,
+                "15": 1,
+                "2": 1,
+                "20": 1,
+                "21": 72,
+                "22": 25,
+                "24": 6,
+                "5": 1,
+                "6": 1,
+                "7": 7,
+                "8": 3,
+                "9": 126
+            }
+        },
+        "school_name": "80.YIL SÜTÇÜLER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1213,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29991_cb_1093799548_1684082474778607868.jpg",
+            "submission_id": 200658,
+            "total_vote": 343,
+            "votes": {
+                "1": 194,
+                "2": 1,
+                "3": 130,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/27672_bulk_999999999_1684089039966440054.jpg",
+            "submission_id": 383673,
+            "total_vote": 332,
+            "votes": {
+                "10": 6,
+                "11": 34,
+                "12": 4,
+                "13": 5,
+                "15": 2,
+                "2": 1,
+                "21": 93,
+                "22": 21,
+                "23": 2,
+                "24": 11,
+                "7": 8,
+                "8": 6,
+                "9": 139
+            }
+        },
+        "school_name": "80.YIL SÜTÇÜLER İLKOKULU"
+    }
+]

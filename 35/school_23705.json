@@ -1,0 +1,160 @@
+[
+    {
+        "ballot_box_number": 2154,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/40661_cb_1093864588_1684080987212991169.jpg",
+            "submission_id": 185216,
+            "total_vote": 321,
+            "votes": {
+                "1": 131,
+                "3": 174,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/40661_mv_1083864588_1684087551156121640.jpg",
+            "submission_id": 337517,
+            "total_vote": 313,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 11,
+                "12": 36,
+                "13": 18,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 82,
+                "22": 37,
+                "23": 0,
+                "24": 11,
+                "3": 2,
+                "4": 1,
+                "5": 0,
+                "6": 3,
+                "7": 1,
+                "8": 1,
+                "9": 107
+            }
+        },
+        "school_name": "ENGİN ÖZMERİÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2151,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20089_bulk_999999999_1684087633594354287.jpeg",
+            "submission_id": 340187,
+            "total_vote": 290,
+            "votes": {
+                "1": 133,
+                "2": 1,
+                "3": 145,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4d3726e0-f6d8-424e-9b1a-3a89ab782a6f-1684106361981139832.jpeg",
+            "submission_id": 777191,
+            "total_vote": 288,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 21,
+                "12": 20,
+                "13": 9,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 92,
+                "22": 19,
+                "23": 0,
+                "24": 5,
+                "3": 2,
+                "4": 1,
+                "5": 0,
+                "6": 3,
+                "7": 3,
+                "8": 1,
+                "9": 108
+            }
+        },
+        "school_name": "ENGİN ÖZMERİÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2152,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20089_bulk_999999999_1684084230499848121.jpeg",
+            "submission_id": 233711,
+            "total_vote": 306,
+            "votes": {
+                "1": 134,
+                "2": 0,
+                "3": 164,
+                "4": 8
+            }
+        },
+        "mv_result": null,
+        "school_name": "ENGİN ÖZMERİÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2153,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2b54a9cd-f616-4ea8-a776-50cf4a150804-1684105699863762954.jpeg",
+            "submission_id": 681552,
+            "total_vote": 316,
+            "votes": {
+                "1": 130,
+                "2": 2,
+                "3": 170,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "ENGİN ÖZMERİÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2155,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/40661_cb_1093864589_1684088203419976214.jpg",
+            "submission_id": 358342,
+            "total_vote": 307,
+            "votes": {
+                "1": 100,
+                "2": 1,
+                "3": 190,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/40661_mv_1083864589_1684088269313796932.jpg",
+            "submission_id": 360389,
+            "total_vote": 300,
+            "votes": {
+                "10": 3,
+                "11": 24,
+                "12": 37,
+                "13": 18,
+                "2": 1,
+                "21": 102,
+                "22": 26,
+                "23": 1,
+                "24": 7,
+                "3": 2,
+                "6": 2,
+                "8": 1,
+                "9": 76
+            }
+        },
+        "school_name": "ENGİN ÖZMERİÇ İLKOKULU"
+    }
+]

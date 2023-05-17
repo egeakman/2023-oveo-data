@@ -1,0 +1,494 @@
+[
+    {
+        "ballot_box_number": 1064,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26559_cb_1093859429_1684082212324417536.jpg",
+            "submission_id": 197216,
+            "total_vote": 327,
+            "votes": {
+                "1": 75,
+                "2": 0,
+                "3": 238,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26559_mv_1083859429_1684082232696732243.jpg",
+            "submission_id": 197491,
+            "total_vote": 321,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 6,
+                "12": 29,
+                "13": 0,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 159,
+                "22": 48,
+                "23": 0,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 1,
+                "8": 0,
+                "9": 67
+            }
+        },
+        "school_name": "OSMAN KİBAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1058,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12497_cb_1093859423_1684080584998372378.jpg",
+            "submission_id": 182535,
+            "total_vote": 326,
+            "votes": {
+                "1": 76,
+                "2": 1,
+                "3": 226,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/40220_mv_1083859423_1684089904125129565.jpg",
+            "submission_id": 407273,
+            "total_vote": 323,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 16,
+                "12": 19,
+                "14": 1,
+                "15": 2,
+                "21": 157,
+                "22": 43,
+                "24": 10,
+                "3": 1,
+                "6": 3,
+                "7": 5,
+                "8": 4,
+                "9": 59
+            }
+        },
+        "school_name": "OSMAN KİBAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1063,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12497_cb_1093859428_1684083612661920540.jpg",
+            "submission_id": 219988,
+            "total_vote": 330,
+            "votes": {
+                "1": 92,
+                "2": 1,
+                "3": 224,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/12497_bulk_999999999_1684134592732983026.jpg",
+            "submission_id": 1015437,
+            "total_vote": 322,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 11,
+                "12": 17,
+                "14": 0,
+                "15": 11,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 0,
+                "22": 154,
+                "23": 11,
+                "24": 11,
+                "3": 20,
+                "4": 2,
+                "5": 1,
+                "6": 2,
+                "7": 8,
+                "8": 0,
+                "9": 70
+            }
+        },
+        "school_name": "OSMAN KİBAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1067,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12497_cb_1093859432_1684089086255636514.jpg",
+            "submission_id": 384996,
+            "total_vote": 320,
+            "votes": {
+                "1": 87,
+                "2": 0,
+                "3": 219,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12497_mv_1083859432_1684089004141896870.jpg",
+            "submission_id": 382657,
+            "total_vote": 313,
+            "votes": {
+                "11": 10,
+                "12": 19,
+                "15": 1,
+                "19": 2,
+                "21": 145,
+                "22": 46,
+                "24": 10,
+                "3": 5,
+                "6": 1,
+                "7": 4,
+                "8": 1,
+                "9": 69
+            }
+        },
+        "school_name": "OSMAN KİBAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1062,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28584_cb_1093859427_1684081786905626208.jpg",
+            "submission_id": 192292,
+            "total_vote": 326,
+            "votes": {
+                "1": 91,
+                "2": 0,
+                "3": 216,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12497_mv_1083859427_1684084372328249460.jpg",
+            "submission_id": 237280,
+            "total_vote": 323,
+            "votes": {
+                "10": 3,
+                "11": 16,
+                "12": 16,
+                "21": 149,
+                "22": 54,
+                "24": 8,
+                "3": 1,
+                "6": 1,
+                "7": 4,
+                "8": 3,
+                "9": 68
+            }
+        },
+        "school_name": "OSMAN KİBAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1060,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/40226_cb_1093859425_1684086534020268625.jpg",
+            "submission_id": 302699,
+            "total_vote": 329,
+            "votes": {
+                "1": 82,
+                "2": 0,
+                "3": 230,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/40220_mv_1083859425_1684088208144045264.jpg",
+            "submission_id": 358493,
+            "total_vote": 327,
+            "votes": {
+                "1": 2,
+                "10": 5,
+                "11": 12,
+                "12": 32,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 150,
+                "22": 51,
+                "23": 1,
+                "24": 11,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 1,
+                "8": 1,
+                "9": 59
+            }
+        },
+        "school_name": "OSMAN KİBAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1057,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9c928fa2-607b-4e97-bee8-623fa8c6a928-1684105654501021927.jpg",
+            "submission_id": 674804,
+            "total_vote": 327,
+            "votes": {
+                "1": 84,
+                "2": 1,
+                "3": 224,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "OSMAN KİBAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1054,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/9676_cb_1093859419_1684087022122325571.jpg",
+            "submission_id": 319723,
+            "total_vote": 294,
+            "votes": {
+                "1": 83,
+                "2": 1,
+                "3": 204,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/9676_mv_1083859419_1684087382211336550.jpg",
+            "submission_id": 332099,
+            "total_vote": 285,
+            "votes": {
+                "11": 8,
+                "12": 19,
+                "15": 1,
+                "17": 2,
+                "18": 1,
+                "20": 1,
+                "21": 135,
+                "22": 44,
+                "23": 2,
+                "24": 3,
+                "9": 69
+            }
+        },
+        "school_name": "OSMAN KİBAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1061,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12497_cb_1093859426_1684091005910339461.jpg",
+            "submission_id": 432050,
+            "total_vote": 333,
+            "votes": {
+                "1": 82,
+                "3": 237,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "OSMAN KİBAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1056,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/75946_bulk_999999999_1684083329979640689.jpg",
+            "submission_id": 214482,
+            "total_vote": 287,
+            "votes": {
+                "1": 88,
+                "2": 1,
+                "3": 191,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "OSMAN KİBAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1059,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12497_cb_1093859424_1684090922181709292.jpg",
+            "submission_id": 430304,
+            "total_vote": 321,
+            "votes": {
+                "1": 97,
+                "3": 216,
+                "4": 8
+            }
+        },
+        "mv_result": null,
+        "school_name": "OSMAN KİBAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1069,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12497_cb_1093859434_1684088866247611964.jpg",
+            "submission_id": 378511,
+            "total_vote": 335,
+            "votes": {
+                "1": 121,
+                "2": 1,
+                "3": 200,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12497_mv_1083859434_1684089246908740291.jpg",
+            "submission_id": 389468,
+            "total_vote": 335,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 10,
+                "12": 10,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 126,
+                "22": 66,
+                "23": 1,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 5,
+                "8": 0,
+                "9": 100
+            }
+        },
+        "school_name": "OSMAN KİBAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1055,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/240ae6b4-c176-4336-a5de-3d9aca76850a-1684106381458291593.jpg",
+            "submission_id": 780014,
+            "total_vote": 298,
+            "votes": {
+                "1": 55,
+                "2": 2,
+                "3": 234,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "OSMAN KİBAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1068,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12497_cb_1093859433_1684088769569131992.jpg",
+            "submission_id": 375734,
+            "total_vote": 326,
+            "votes": {
+                "1": 79,
+                "2": 3,
+                "3": 230,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12497_mv_1083859433_1684088815625505302.jpg",
+            "submission_id": 377078,
+            "total_vote": 320,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 6,
+                "12": 23,
+                "21": 169,
+                "22": 34,
+                "24": 5,
+                "3": 3,
+                "6": 2,
+                "7": 10,
+                "8": 1,
+                "9": 65
+            }
+        },
+        "school_name": "OSMAN KİBAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1066,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12497_cb_1093859431_1684089135598677924.jpg",
+            "submission_id": 386275,
+            "total_vote": 327,
+            "votes": {
+                "1": 79,
+                "3": 241,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4134196d-097a-461c-8bed-822d1208ff14-1684105861730369285.jpg",
+            "submission_id": 705728,
+            "total_vote": 320,
+            "votes": {
+                "11": 6,
+                "12": 23,
+                "15": 1,
+                "21": 156,
+                "22": 51,
+                "24": 3,
+                "7": 5,
+                "9": 75
+            }
+        },
+        "school_name": "OSMAN KİBAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1065,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4ac97296-e640-49f7-924c-22f3eb5d83af-1684105783474752847.jpg",
+            "submission_id": 695496,
+            "total_vote": 337,
+            "votes": {
+                "1": 72,
+                "2": 1,
+                "3": 252,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/beb895e6-96c3-45a5-9517-d0529dc734ce-1684105780611238055.jpg",
+            "submission_id": 695028,
+            "total_vote": 333,
+            "votes": {
+                "10": 1,
+                "11": 7,
+                "12": 18,
+                "14": 1,
+                "20": 1,
+                "21": 164,
+                "22": 62,
+                "24": 9,
+                "6": 2,
+                "7": 4,
+                "8": 3,
+                "9": 61
+            }
+        },
+        "school_name": "OSMAN KİBAR ORTAOKULU"
+    }
+]

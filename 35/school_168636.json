@@ -1,0 +1,556 @@
+[
+    {
+        "ballot_box_number": 1440,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/eadeb676-45ae-465d-a3eb-e3a564f098a1-1684105671217533758.jpg",
+            "submission_id": 677325,
+            "total_vote": 335,
+            "votes": {
+                "1": 90,
+                "2": 3,
+                "3": 227,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT MUSTAFA NERKİS (80.YIL) ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1446,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/27034437-62ef-4f47-99a2-1fd5fea5f8ae-1684105404468017919.jpeg",
+            "submission_id": 633538,
+            "total_vote": 332,
+            "votes": {
+                "1": 96,
+                "3": 218,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/23358_bulk_999999999_1684101418275336085.jpeg",
+            "submission_id": 541144,
+            "total_vote": 326,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 18,
+                "12": 28,
+                "13": 19,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "2": 0,
+                "20": 0,
+                "21": 130,
+                "22": 35,
+                "23": 66,
+                "24": 8,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 7,
+                "7": 6,
+                "8": 3,
+                "9": 0
+            }
+        },
+        "school_name": "ŞEHİT MUSTAFA NERKİS (80.YIL) ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1442,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21182_cb_1093585722_1684084649165798108.jpg",
+            "submission_id": 244468,
+            "total_vote": 327,
+            "votes": {
+                "1": 133,
+                "2": 1,
+                "3": 174,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/23358_bulk_999999999_1684087562391995638.jpeg",
+            "submission_id": 337904,
+            "total_vote": 322,
+            "votes": {
+                "10": 12,
+                "11": 15,
+                "12": 18,
+                "13": 15,
+                "14": 1,
+                "15": 1,
+                "21": 105,
+                "22": 28,
+                "23": 1,
+                "24": 14,
+                "6": 2,
+                "7": 8,
+                "8": 2,
+                "9": 100
+            }
+        },
+        "school_name": "ŞEHİT MUSTAFA NERKİS (80.YIL) ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1439,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21214_bulk_999999999_1684093629696934731.jpg",
+            "submission_id": 472229,
+            "total_vote": 332,
+            "votes": {
+                "1": 111,
+                "2": 1,
+                "3": 181,
+                "4": 39
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21214_bulk_999999999_1684093629799601854.jpg",
+            "submission_id": 472232,
+            "total_vote": 323,
+            "votes": {
+                "10": 7,
+                "11": 17,
+                "12": 29,
+                "13": 12,
+                "15": 2,
+                "19": 1,
+                "21": 108,
+                "22": 34,
+                "23": 1,
+                "24": 12,
+                "6": 4,
+                "7": 7,
+                "8": 3,
+                "9": 86
+            }
+        },
+        "school_name": "ŞEHİT MUSTAFA NERKİS (80.YIL) ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1445,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21214_bulk_999999999_1684093629440467510.jpg",
+            "submission_id": 472223,
+            "total_vote": 332,
+            "votes": {
+                "1": 112,
+                "2": 1,
+                "3": 187,
+                "4": 32
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21214_bulk_999999999_1684093629542940546.jpg",
+            "submission_id": 472227,
+            "total_vote": 328,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 20,
+                "12": 31,
+                "13": 10,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 1,
+                "21": 109,
+                "22": 44,
+                "23": 0,
+                "24": 15,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 6,
+                "8": 2,
+                "9": 80
+            }
+        },
+        "school_name": "ŞEHİT MUSTAFA NERKİS (80.YIL) ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1435,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/805d3731-ffb8-43a4-b77d-94fc251bf8dc-1684105708067292486.jpg",
+            "submission_id": 683104,
+            "total_vote": 308,
+            "votes": {
+                "1": 98,
+                "2": 1,
+                "3": 198,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21214_bulk_999999999_1684093843471447723.jpg",
+            "submission_id": 475245,
+            "total_vote": 306,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 20,
+                "12": 18,
+                "13": 14,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 140,
+                "22": 26,
+                "23": 1,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 0,
+                "9": 73
+            }
+        },
+        "school_name": "ŞEHİT MUSTAFA NERKİS (80.YIL) ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1447,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21214_bulk_999999999_1684093275589045416.jpg",
+            "submission_id": 467873,
+            "total_vote": 340,
+            "votes": {
+                "1": 124,
+                "2": 1,
+                "3": 199,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/23358_bulk_999999999_1684101418194325433.jpeg",
+            "submission_id": 541143,
+            "total_vote": 334,
+            "votes": {
+                "1": 0,
+                "11": 20,
+                "12": 43,
+                "13": 14,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "20": 0,
+                "21": 117,
+                "22": 27,
+                "23": 3,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "6": 1,
+                "7": 5,
+                "8": 5,
+                "9": 93
+            }
+        },
+        "school_name": "ŞEHİT MUSTAFA NERKİS (80.YIL) ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1436,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/23358_bulk_999999999_1684087957802713732.jpeg",
+            "submission_id": 350493,
+            "total_vote": 297,
+            "votes": {
+                "1": 113,
+                "2": 2,
+                "3": 178,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/23358_bulk_999999999_1684087923910661506.jpeg",
+            "submission_id": 349423,
+            "total_vote": 282,
+            "votes": {
+                "10": 4,
+                "11": 12,
+                "12": 24,
+                "13": 11,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "20": 0,
+                "21": 96,
+                "22": 39,
+                "23": 1,
+                "24": 4,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 85
+            }
+        },
+        "school_name": "ŞEHİT MUSTAFA NERKİS (80.YIL) ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1444,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21182_cb_1093585724_1684084703692064372.jpg",
+            "submission_id": 245988,
+            "total_vote": 321,
+            "votes": {
+                "1": 122,
+                "2": 1,
+                "3": 178,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21214_bulk_999999999_1684093629937285543.jpg",
+            "submission_id": 472233,
+            "total_vote": 319,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 20,
+                "12": 17,
+                "13": 15,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 116,
+                "22": 31,
+                "23": 0,
+                "24": 5,
+                "3": 0,
+                "4": 1,
+                "5": 1,
+                "6": 7,
+                "7": 3,
+                "8": 1,
+                "9": 97
+            }
+        },
+        "school_name": "ŞEHİT MUSTAFA NERKİS (80.YIL) ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1438,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21214_bulk_999999999_1684093842905408179.jpg",
+            "submission_id": 475231,
+            "total_vote": 331,
+            "votes": {
+                "1": 77,
+                "2": 1,
+                "3": 221,
+                "4": 32
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2916bbcf-29d7-4b27-937d-459e14268093-1684105824435173410.jpeg",
+            "submission_id": 700937,
+            "total_vote": 325,
+            "votes": {
+                "1": 0,
+                "10": 63,
+                "11": 9,
+                "12": 23,
+                "13": 24,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 138,
+                "22": 38,
+                "23": 1,
+                "24": 15,
+                "3": 0,
+                "4": 4,
+                "5": 0,
+                "6": 1,
+                "7": 0,
+                "8": 4,
+                "9": 3
+            }
+        },
+        "school_name": "ŞEHİT MUSTAFA NERKİS (80.YIL) ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1443,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21214_bulk_999999999_1684093629111319663.jpg",
+            "submission_id": 472220,
+            "total_vote": 330,
+            "votes": {
+                "1": 110,
+                "2": 3,
+                "3": 192,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/23358_bulk_999999999_1684101418118567013.jpeg",
+            "submission_id": 541142,
+            "total_vote": 323,
+            "votes": {
+                "1": 2,
+                "10": 0,
+                "11": 28,
+                "12": 20,
+                "13": 23,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 109,
+                "22": 40,
+                "23": 2,
+                "24": 8,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 5,
+                "7": 8,
+                "8": 0,
+                "9": 77
+            }
+        },
+        "school_name": "ŞEHİT MUSTAFA NERKİS (80.YIL) ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1448,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/23358_bulk_999999999_1684088001090424973.jpeg",
+            "submission_id": 352022,
+            "total_vote": 308,
+            "votes": {
+                "1": 84,
+                "2": 1,
+                "3": 207,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21214_bulk_999999999_1684093399334151593.jpg",
+            "submission_id": 469400,
+            "total_vote": 299,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 19,
+                "12": 23,
+                "13": 27,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 116,
+                "22": 38,
+                "23": 0,
+                "24": 10,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 1,
+                "8": 2,
+                "9": 61
+            }
+        },
+        "school_name": "ŞEHİT MUSTAFA NERKİS (80.YIL) ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1437,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21182_cb_1093585717_1684081327023464694.jpg",
+            "submission_id": 187877,
+            "total_vote": 313,
+            "votes": {
+                "1": 102,
+                "2": 1,
+                "3": 193,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21182_mv_1083585717_1684082967918932790.jpg",
+            "submission_id": 208164,
+            "total_vote": 314,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 7,
+                "12": 32,
+                "13": 24,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 107,
+                "22": 32,
+                "23": 1,
+                "24": 7,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 5,
+                "7": 5,
+                "8": 2,
+                "9": 87
+            }
+        },
+        "school_name": "ŞEHİT MUSTAFA NERKİS (80.YIL) ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1441,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/23358_bulk_999999999_1684101417891500263.jpeg",
+            "submission_id": 541140,
+            "total_vote": 318,
+            "votes": {
+                "1": 103,
+                "2": 2,
+                "3": 193,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT MUSTAFA NERKİS (80.YIL) ORTAOKULU"
+    }
+]

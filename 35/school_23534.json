@@ -1,0 +1,1088 @@
+[
+    {
+        "ballot_box_number": 1470,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25864_cb_1093587824_1684090174636262723.jpeg",
+            "submission_id": 413952,
+            "total_vote": 297,
+            "votes": {
+                "1": 90,
+                "2": 4,
+                "3": 198,
+                "4": 5
+            }
+        },
+        "mv_result": null,
+        "school_name": "VALİ RAHMİ BEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1473,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/40845_cb_1093587827_1684082700012266040.jpg",
+            "submission_id": 203868,
+            "total_vote": 333,
+            "votes": {
+                "1": 68,
+                "2": 0,
+                "3": 246,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/40845_bulk_999999999_1684085300621983851.jpeg",
+            "submission_id": 262762,
+            "total_vote": 333,
+            "votes": {
+                "11": 10,
+                "12": 5,
+                "14": 1,
+                "19": 1,
+                "21": 177,
+                "22": 59,
+                "24": 13,
+                "3": 2,
+                "6": 3,
+                "7": 4,
+                "8": 3,
+                "9": 55
+            }
+        },
+        "school_name": "VALİ RAHMİ BEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1493,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25864_cb_1093588627_1684089804342537209.jpeg",
+            "submission_id": 404617,
+            "total_vote": 333,
+            "votes": {
+                "1": 98,
+                "3": 224,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/17027_bulk_999999999_1684099872650815748.jpeg",
+            "submission_id": 534756,
+            "total_vote": 331,
+            "votes": {
+                "10": 1,
+                "11": 12,
+                "12": 9,
+                "15": 1,
+                "19": 3,
+                "21": 154,
+                "22": 59,
+                "24": 5,
+                "4": 1,
+                "6": 1,
+                "7": 4,
+                "8": 1,
+                "9": 80
+            }
+        },
+        "school_name": "VALİ RAHMİ BEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1490,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/37986_cb_1093588624_1684082766631879857.jpg",
+            "submission_id": 204893,
+            "total_vote": 325,
+            "votes": {
+                "1": 98,
+                "2": 1,
+                "3": 214,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17724_mv_1083588624_1684088814894168511.jpg",
+            "submission_id": 377047,
+            "total_vote": 323,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 18,
+                "12": 7,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 2,
+                "19": 2,
+                "2": 0,
+                "20": 2,
+                "21": 150,
+                "22": 55,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 0,
+                "9": 79
+            }
+        },
+        "school_name": "VALİ RAHMİ BEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1476,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/78145_bulk_999999999_1684083926491586985.jpeg",
+            "submission_id": 226610,
+            "total_vote": 325,
+            "votes": {
+                "1": 68,
+                "2": 2,
+                "3": 235,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/17027_bulk_999999999_1684099872912487562.jpeg",
+            "submission_id": 534762,
+            "total_vote": 325,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 8,
+                "12": 18,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 181,
+                "22": 36,
+                "23": 2,
+                "24": 7,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 2,
+                "7": 5,
+                "8": 1,
+                "9": 60
+            }
+        },
+        "school_name": "VALİ RAHMİ BEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1484,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/40311_cb_1093588618_1684085434872238635.jpg",
+            "submission_id": 266671,
+            "total_vote": 342,
+            "votes": {
+                "1": 103,
+                "2": 0,
+                "3": 227,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/40311_mv_1083588618_1684085508972018023.jpg",
+            "submission_id": 268867,
+            "total_vote": 342,
+            "votes": {
+                "10": 2,
+                "11": 14,
+                "12": 18,
+                "15": 1,
+                "20": 2,
+                "21": 154,
+                "22": 49,
+                "23": 1,
+                "24": 11,
+                "3": 1,
+                "4": 1,
+                "6": 2,
+                "7": 3,
+                "8": 2,
+                "9": 81
+            }
+        },
+        "school_name": "VALİ RAHMİ BEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1474,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/40845_cb_1093587828_1684083133770932874.jpg",
+            "submission_id": 210970,
+            "total_vote": 323,
+            "votes": {
+                "1": 79,
+                "2": 2,
+                "3": 221,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "VALİ RAHMİ BEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1475,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8d45dc0c-5ec0-486c-a018-564869c625e6-1684106718069844696.jpeg",
+            "submission_id": 828609,
+            "total_vote": 347,
+            "votes": {
+                "1": 107,
+                "3": 220,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "VALİ RAHMİ BEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1468,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/40311_cb_1093587822_1684084361185482390.jpg",
+            "submission_id": 237003,
+            "total_vote": 299,
+            "votes": {
+                "1": 76,
+                "2": 2,
+                "3": 215,
+                "4": 6
+            }
+        },
+        "mv_result": null,
+        "school_name": "VALİ RAHMİ BEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1496,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25909_cb_1093588630_1684086752521374973.jpg",
+            "submission_id": 310429,
+            "total_vote": 339,
+            "votes": {
+                "1": 68,
+                "2": 1,
+                "3": 253,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4117476f-27a1-4e3f-bc5f-5574834dddf2-1684105361405081824.jpeg",
+            "submission_id": 626289,
+            "total_vote": 333,
+            "votes": {
+                "10": 2,
+                "11": 7,
+                "12": 19,
+                "15": 1,
+                "20": 1,
+                "21": 178,
+                "22": 48,
+                "23": 2,
+                "24": 11,
+                "4": 1,
+                "6": 3,
+                "7": 4,
+                "8": 3,
+                "9": 53
+            }
+        },
+        "school_name": "VALİ RAHMİ BEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1479,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4ae5bf57-7408-4ebc-b65b-e0b1f17c49d7-1684105971319417902.jpeg",
+            "submission_id": 720803,
+            "total_vote": 349,
+            "votes": {
+                "1": 112,
+                "3": 224,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "VALİ RAHMİ BEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1494,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17724_cb_1093588628_1684085982302106465.jpg",
+            "submission_id": 284396,
+            "total_vote": 346,
+            "votes": {
+                "1": 87,
+                "2": 1,
+                "3": 235,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17724_mv_1083588628_1684086011949756304.jpg",
+            "submission_id": 285299,
+            "total_vote": 342,
+            "votes": {
+                "10": 2,
+                "11": 8,
+                "12": 16,
+                "21": 145,
+                "22": 73,
+                "24": 8,
+                "3": 2,
+                "6": 4,
+                "7": 12,
+                "8": 1,
+                "9": 71
+            }
+        },
+        "school_name": "VALİ RAHMİ BEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1488,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/182fede9-c760-4cf2-a929-8e173e230b97-1684106560367114930.jpg",
+            "submission_id": 805950,
+            "total_vote": 347,
+            "votes": {
+                "1": 76,
+                "2": 3,
+                "3": 257,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a1ad5c0c-1cf5-4a2c-9b12-2456803f23a4-1684106329351643818.jpg",
+            "submission_id": 772127,
+            "total_vote": 340,
+            "votes": {
+                "1": 1,
+                "10": 5,
+                "11": 12,
+                "12": 21,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 156,
+                "22": 64,
+                "23": 0,
+                "24": 10,
+                "3": 4,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 61
+            }
+        },
+        "school_name": "VALİ RAHMİ BEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1478,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/18018_bulk_999999999_1684095281934779307.jpg",
+            "submission_id": 501513,
+            "total_vote": 344,
+            "votes": {
+                "1": 93,
+                "2": 1,
+                "3": 229,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/17027_bulk_999999999_1684099917586464972.jpeg",
+            "submission_id": 534981,
+            "total_vote": 342,
+            "votes": {
+                "1": 2,
+                "10": 6,
+                "11": 18,
+                "12": 14,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 4,
+                "21": 169,
+                "22": 45,
+                "23": 2,
+                "24": 5,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 0,
+                "9": 69
+            }
+        },
+        "school_name": "VALİ RAHMİ BEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1482,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12102_cb_1093588616_1684084117636977435.jpg",
+            "submission_id": 230827,
+            "total_vote": 342,
+            "votes": {
+                "1": 74,
+                "2": 0,
+                "3": 255,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12102_mv_1083588616_1684084408135832741.jpg",
+            "submission_id": 238219,
+            "total_vote": 342,
+            "votes": {
+                "10": 1,
+                "11": 4,
+                "12": 18,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "20": 0,
+                "21": 179,
+                "22": 57,
+                "23": 1,
+                "24": 4,
+                "3": 3,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 70
+            }
+        },
+        "school_name": "VALİ RAHMİ BEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1467,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/40311_cb_1093587821_1684083948281697410.jpg",
+            "submission_id": 227049,
+            "total_vote": 306,
+            "votes": {
+                "1": 85,
+                "3": 212,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/40311_mv_1083587821_1684085230415065009.jpg",
+            "submission_id": 260722,
+            "total_vote": 305,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 15,
+                "12": 0,
+                "14": 1,
+                "15": 1,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 0,
+                "21": 151,
+                "22": 50,
+                "23": 0,
+                "24": 7,
+                "3": 2,
+                "4": 1,
+                "5": 1,
+                "6": 2,
+                "7": 1,
+                "8": 2,
+                "9": 62
+            }
+        },
+        "school_name": "VALİ RAHMİ BEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1491,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/25_bulk_999999999_1684098193290720162.jpg",
+            "submission_id": 525718,
+            "total_vote": 334,
+            "votes": {
+                "1": 79,
+                "2": 2,
+                "3": 237,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/17027_bulk_999999999_1684099872495558148.jpeg",
+            "submission_id": 534754,
+            "total_vote": 328,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 6,
+                "12": 11,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 174,
+                "22": 52,
+                "23": 0,
+                "24": 7,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 7,
+                "8": 6,
+                "9": 64
+            }
+        },
+        "school_name": "VALİ RAHMİ BEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1483,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12102_cb_1093588617_1684084591009621846.jpg",
+            "submission_id": 242902,
+            "total_vote": 336,
+            "votes": {
+                "1": 90,
+                "2": 1,
+                "3": 223,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/17027_bulk_999999999_1684099632780602292.jpeg",
+            "submission_id": 533726,
+            "total_vote": 335,
+            "votes": {
+                "10": 3,
+                "11": 6,
+                "12": 11,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "19": 2,
+                "20": 0,
+                "21": 144,
+                "22": 64,
+                "23": 3,
+                "24": 10,
+                "3": 1,
+                "4": 1,
+                "5": 1,
+                "6": 3,
+                "7": 5,
+                "8": 1,
+                "9": 79
+            }
+        },
+        "school_name": "VALİ RAHMİ BEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1481,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12102_cb_1093588615_1684083575156728670.jpg",
+            "submission_id": 219262,
+            "total_vote": 342,
+            "votes": {
+                "1": 65,
+                "3": 261,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/40311_mv_1083588615_1684085648364654981.jpg",
+            "submission_id": 273354,
+            "total_vote": 344,
+            "votes": {
+                "10": 3,
+                "11": 9,
+                "12": 17,
+                "19": 1,
+                "21": 186,
+                "22": 58,
+                "24": 8,
+                "5": 3,
+                "6": 1,
+                "7": 2,
+                "9": 56
+            }
+        },
+        "school_name": "VALİ RAHMİ BEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1472,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/40845_cb_1093587826_1684082903752567948.jpg",
+            "submission_id": 207089,
+            "total_vote": 337,
+            "votes": {
+                "1": 84,
+                "2": 2,
+                "3": 243,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/40845_mv_1083587826_1684083425502145082.jpg",
+            "submission_id": 216379,
+            "total_vote": 331,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 21,
+                "12": 17,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 152,
+                "22": 61,
+                "23": 0,
+                "24": 6,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 6,
+                "8": 1,
+                "9": 61
+            }
+        },
+        "school_name": "VALİ RAHMİ BEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1485,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/bb5eeeff-4d25-4c1c-b38c-b97784cde0c9-1684106273052328554.jpg",
+            "submission_id": 764662,
+            "total_vote": 339,
+            "votes": {
+                "1": 93,
+                "2": 1,
+                "3": 222,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/17027_bulk_999999999_1684099917980772997.jpeg",
+            "submission_id": 534987,
+            "total_vote": 332,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 9,
+                "12": 11,
+                "13": 0,
+                "14": 0,
+                "15": 3,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 141,
+                "22": 64,
+                "23": 1,
+                "24": 16,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 0,
+                "9": 79
+            }
+        },
+        "school_name": "VALİ RAHMİ BEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1477,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25909_cb_1093587831_1684084444979422062.jpg",
+            "submission_id": 239116,
+            "total_vote": 346,
+            "votes": {
+                "1": 90,
+                "2": 1,
+                "3": 244,
+                "4": 11
+            }
+        },
+        "mv_result": null,
+        "school_name": "VALİ RAHMİ BEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1471,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25864_cb_1093587825_1684090772384830323.jpeg",
+            "submission_id": 427137,
+            "total_vote": 296,
+            "votes": {
+                "1": 92,
+                "2": 1,
+                "3": 196,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/17027_bulk_999999999_1684099918155007592.jpeg",
+            "submission_id": 534990,
+            "total_vote": 288,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 8,
+                "12": 12,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 141,
+                "22": 35,
+                "23": 1,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 4,
+                "9": 79
+            }
+        },
+        "school_name": "VALİ RAHMİ BEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1495,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/25909_bulk_999999999_1684087317194335774.jpeg",
+            "submission_id": 329950,
+            "total_vote": 350,
+            "votes": {
+                "1": 85,
+                "2": 1,
+                "3": 245,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/25909_bulk_999999999_1684087289823491269.jpeg",
+            "submission_id": 329051,
+            "total_vote": 350,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 13,
+                "12": 26,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 162,
+                "22": 64,
+                "23": 1,
+                "24": 7,
+                "3": 0,
+                "4": 1,
+                "5": 2,
+                "6": 2,
+                "7": 1,
+                "8": 2,
+                "9": 68
+            }
+        },
+        "school_name": "VALİ RAHMİ BEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1489,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41391_cb_1093588623_1684096034260216270.jpg",
+            "submission_id": 508949,
+            "total_vote": 344,
+            "votes": {
+                "1": 84,
+                "2": 2,
+                "3": 248,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/11274_bulk_999999999_1684196176508406753.jpeg",
+            "submission_id": 1025989,
+            "total_vote": 340,
+            "votes": {
+                "1": 1,
+                "10": 5,
+                "11": 5,
+                "12": 14,
+                "19": 1,
+                "20": 1,
+                "21": 181,
+                "22": 48,
+                "23": 1,
+                "24": 7,
+                "3": 1,
+                "6": 2,
+                "7": 4,
+                "8": 4,
+                "9": 65
+            }
+        },
+        "school_name": "VALİ RAHMİ BEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1487,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/38ce7ec8-8646-4458-b0d4-2bfcbb18f9e3-1684106037844860195.jpg",
+            "submission_id": 729825,
+            "total_vote": 343,
+            "votes": {
+                "1": 86,
+                "2": 1,
+                "3": 237,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/72400e82-99d7-4039-af40-ed383ea5c179-1684106023862518696.jpg",
+            "submission_id": 727652,
+            "total_vote": 341,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 7,
+                "12": 15,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 167,
+                "22": 49,
+                "23": 0,
+                "24": 15,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 5,
+                "8": 2,
+                "9": 72
+            }
+        },
+        "school_name": "VALİ RAHMİ BEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1486,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/33763_cb_1093588620_1684079744672087312.jpg",
+            "submission_id": 178152,
+            "total_vote": 350,
+            "votes": {
+                "1": 87,
+                "2": 1,
+                "3": 256,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/33763_mv_1083588620_1684084129620272096.jpg",
+            "submission_id": 231060,
+            "total_vote": 345,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 9,
+                "12": 34,
+                "21": 163,
+                "22": 53,
+                "24": 5,
+                "3": 2,
+                "4": 1,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 72
+            }
+        },
+        "school_name": "VALİ RAHMİ BEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1497,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17724_mv_1083588631_1684084487965372572.jpg",
+            "submission_id": 240240,
+            "total_vote": 335,
+            "votes": {
+                "1": 79,
+                "2": 1,
+                "3": 239,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/25909_bulk_999999999_1684085713159679881.jpg",
+            "submission_id": 275494,
+            "total_vote": 337,
+            "votes": {
+                "10": 2,
+                "11": 10,
+                "12": 7,
+                "2": 1,
+                "20": 1,
+                "21": 176,
+                "22": 58,
+                "23": 1,
+                "24": 8,
+                "3": 1,
+                "6": 1,
+                "7": 4,
+                "9": 67
+            }
+        },
+        "school_name": "VALİ RAHMİ BEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1469,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25864_mv_1083587823_1684089716692007847.jpeg",
+            "submission_id": 402200,
+            "total_vote": 300,
+            "votes": {
+                "1": 60,
+                "2": 1,
+                "3": 232,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5dfcaf53-76b6-4829-ba1e-f548139994c3-1684105882005794541.jpg",
+            "submission_id": 708701,
+            "total_vote": 293,
+            "votes": {
+                "11": 3,
+                "12": 4,
+                "19": 1,
+                "21": 184,
+                "22": 36,
+                "24": 4,
+                "4": 1,
+                "6": 2,
+                "7": 3,
+                "9": 55
+            }
+        },
+        "school_name": "VALİ RAHMİ BEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1480,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18018_cb_1093587834_1684084237931142274.jpg",
+            "submission_id": 233944,
+            "total_vote": 333,
+            "votes": {
+                "1": 94,
+                "3": 223,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/18018_bulk_999999999_1684086684974103747.jpg",
+            "submission_id": 307962,
+            "total_vote": 328,
+            "votes": {
+                "10": 1,
+                "11": 12,
+                "12": 14,
+                "14": 1,
+                "15": 1,
+                "21": 166,
+                "22": 41,
+                "24": 9,
+                "3": 1,
+                "6": 1,
+                "7": 4,
+                "9": 77
+            }
+        },
+        "school_name": "VALİ RAHMİ BEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1492,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17724_mv_1083588626_1684089158190111521.jpg",
+            "submission_id": 386950,
+            "total_vote": 342,
+            "votes": {
+                "1": 79,
+                "2": 1,
+                "3": 249,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17724_cb_1093588626_1684089128932364617.jpg",
+            "submission_id": 386083,
+            "total_vote": 335,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 8,
+                "12": 22,
+                "14": 1,
+                "20": 1,
+                "21": 156,
+                "22": 63,
+                "24": 3,
+                "5": 1,
+                "7": 7,
+                "8": 4,
+                "9": 67
+            }
+        },
+        "school_name": "VALİ RAHMİ BEY İLKOKULU"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "ballot_box_number": 1123,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12688_cb_1093798937_1684086915679809316.jpg",
+            "submission_id": 315998,
+            "total_vote": 300,
+            "votes": {
+                "1": 76,
+                "2": 4,
+                "3": 212,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12688_mv_1083798937_1684086424781789162.jpg",
+            "submission_id": 298857,
+            "total_vote": 297,
+            "votes": {
+                "10": 1,
+                "11": 26,
+                "12": 17,
+                "15": 1,
+                "20": 1,
+                "21": 160,
+                "22": 33,
+                "24": 3,
+                "3": 1,
+                "6": 1,
+                "7": 4,
+                "9": 49
+            }
+        },
+        "school_name": "TURGUT MAH. TURGUT KOY ILKOKULU"
+    }
+]

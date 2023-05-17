@@ -1,0 +1,30 @@
+[
+    {
+        "ballot_box_number": 1151,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/70159_bulk_999999999_1684087075150417571.jpg",
+            "submission_id": 321646,
+            "total_vote": 322,
+            "votes": {
+                "1": 118,
+                "2": 4,
+                "3": 172,
+                "4": 28
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÖDEMİŞ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1150,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "ÖDEMİŞ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1152,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "ÖDEMİŞ ANADOLU LİSESİ"
+    }
+]

@@ -1,0 +1,390 @@
+[
+    {
+        "ballot_box_number": 1354,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/30859_bulk_999999999_1684087533938906390.jpg",
+            "submission_id": 336977,
+            "total_vote": 318,
+            "votes": {
+                "1": 54,
+                "2": 2,
+                "3": 245,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/30859_bulk_999999999_1684087503788710307.jpg",
+            "submission_id": 336042,
+            "total_vote": 311,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 8,
+                "12": 9,
+                "13": 0,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 167,
+                "22": 61,
+                "23": 0,
+                "24": 5,
+                "3": 3,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 5,
+                "8": 0,
+                "9": 48
+            }
+        },
+        "school_name": "MURAT REİS İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1358,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/6330869b-f194-4441-9a77-2a2023ea379e-1684105750778262366.jpg",
+            "submission_id": 689235,
+            "total_vote": 326,
+            "votes": {
+                "1": 64,
+                "2": 1,
+                "3": 248,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "MURAT REİS İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1350,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/30859_bulk_999999999_1684087320024677988.jpg",
+            "submission_id": 330057,
+            "total_vote": 296,
+            "votes": {
+                "1": 53,
+                "2": 1,
+                "3": 233,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/30859_bulk_999999999_1684087339583204545.jpg",
+            "submission_id": 330654,
+            "total_vote": 288,
+            "votes": {
+                "11": 8,
+                "12": 4,
+                "15": 0,
+                "17": 1,
+                "18": 2,
+                "19": 1,
+                "20": 1,
+                "21": 176,
+                "22": 45,
+                "23": 1,
+                "24": 5,
+                "7": 3,
+                "8": 1,
+                "9": 40
+            }
+        },
+        "school_name": "MURAT REİS İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1351,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/30859_cb_1093862745_1684088613326998092.jpg",
+            "submission_id": 371037,
+            "total_vote": 299,
+            "votes": {
+                "1": 48,
+                "2": 2,
+                "3": 245,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/30859_mv_1083862745_1684088642501693505.jpg",
+            "submission_id": 371965,
+            "total_vote": 292,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 4,
+                "12": 2,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 186,
+                "22": 47,
+                "23": 0,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 5,
+                "8": 1,
+                "9": 40
+            }
+        },
+        "school_name": "MURAT REİS İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1359,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/30859_cb_1093862753_1684087916628184328.jpg",
+            "submission_id": 349223,
+            "total_vote": 324,
+            "votes": {
+                "1": 61,
+                "2": 3,
+                "3": 249,
+                "4": 11
+            }
+        },
+        "mv_result": null,
+        "school_name": "MURAT REİS İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1355,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0b96c19e-c65a-4f4a-833f-10f87b1ba191-1684105785792822984.jpg",
+            "submission_id": 695156,
+            "total_vote": 321,
+            "votes": {
+                "1": 34,
+                "2": 1,
+                "3": 274,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "MURAT REİS İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1360,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21209_cb_1093862754_1684092740974200746.jpg",
+            "submission_id": 460374,
+            "total_vote": 319,
+            "votes": {
+                "1": 46,
+                "2": 1,
+                "3": 263,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21209_bulk_999999999_1684093007599127201.jpeg",
+            "submission_id": 464019,
+            "total_vote": 319,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 6,
+                "12": 9,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 201,
+                "22": 51,
+                "23": 0,
+                "24": 5,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 5,
+                "8": 0,
+                "9": 37
+            }
+        },
+        "school_name": "MURAT REİS İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1353,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/30859_bulk_999999999_1684087444545988509.jpg",
+            "submission_id": 334119,
+            "total_vote": 324,
+            "votes": {
+                "1": 42,
+                "3": 273,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f0c38491-f410-4e69-b758-31f38c3afb98-1684105805388288363.jpg",
+            "submission_id": 698232,
+            "total_vote": 316,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 0,
+                "12": 17,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 2,
+                "20": 0,
+                "21": 212,
+                "22": 41,
+                "23": 0,
+                "24": 3,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 4,
+                "8": 4,
+                "9": 27
+            }
+        },
+        "school_name": "MURAT REİS İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1356,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d17c9c90-e9a6-4e5c-9379-9b708d2badd5-1684105773733191686.jpg",
+            "submission_id": 692959,
+            "total_vote": 326,
+            "votes": {
+                "1": 36,
+                "2": 0,
+                "3": 277,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d137eeb4-e0ad-42d0-84ad-bc6cf0832092-1684105768715227776.jpg",
+            "submission_id": 692340,
+            "total_vote": 324,
+            "votes": {
+                "10": 2,
+                "11": 8,
+                "12": 12,
+                "19": 1,
+                "21": 199,
+                "22": 64,
+                "23": 1,
+                "24": 5,
+                "3": 3,
+                "6": 2,
+                "7": 1,
+                "8": 1,
+                "9": 25
+            }
+        },
+        "school_name": "MURAT REİS İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1352,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12164_cb_1093862746_1684085441952234430.jpg",
+            "submission_id": 266850,
+            "total_vote": 300,
+            "votes": {
+                "1": 43,
+                "2": 0,
+                "3": 250,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12164_mv_1083862746_1684087140074801921.jpg",
+            "submission_id": 323894,
+            "total_vote": 288,
+            "votes": {
+                "10": 1,
+                "11": 2,
+                "12": 10,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 181,
+                "22": 45,
+                "23": 0,
+                "24": 5,
+                "3": 3,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 1,
+                "9": 35
+            }
+        },
+        "school_name": "MURAT REİS İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1357,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12128_cb_1093862751_1684084030273814781.jpg",
+            "submission_id": 228759,
+            "total_vote": 316,
+            "votes": {
+                "1": 56,
+                "2": 1,
+                "3": 241,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12128_mv_1083862751_1684084281693371387.jpg",
+            "submission_id": 235077,
+            "total_vote": 316,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 8,
+                "12": 12,
+                "14": 0,
+                "15": 1,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 3,
+                "2": 0,
+                "20": 0,
+                "21": 169,
+                "22": 59,
+                "23": 0,
+                "24": 9,
+                "3": 1,
+                "4": 0,
+                "5": 2,
+                "6": 3,
+                "7": 1,
+                "8": 0,
+                "9": 47
+            }
+        },
+        "school_name": "MURAT REİS İLKOKULU"
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "ballot_box_number": 2111,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/14807af9-1c55-442f-8792-fb23f172fdcd-1684105797397733144.jpeg",
+            "submission_id": 697104,
+            "total_vote": 223,
+            "votes": {
+                "1": 129,
+                "2": 3,
+                "3": 88,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e3777bfc-a717-4d4d-8ce6-0ce879c30d63-1684105809231180329.jpeg",
+            "submission_id": 698829,
+            "total_vote": 213,
+            "votes": {
+                "11": 6,
+                "12": 2,
+                "20": 1,
+                "21": 69,
+                "22": 24,
+                "23": 2,
+                "24": 1,
+                "6": 2,
+                "9": 106
+            }
+        },
+        "school_name": "ZİYA GÖKALP İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2112,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/6181fe42-ff40-4260-806b-de77a37347c0-1684106006167441724.jpeg",
+            "submission_id": 725583,
+            "total_vote": 213,
+            "votes": {
+                "1": 107,
+                "2": 3,
+                "3": 98,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e9166547-cfac-4520-a273-46f65da10f1e-1684105995726165580.jpeg",
+            "submission_id": 723835,
+            "total_vote": 200,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 3,
+                "12": 3,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 73,
+                "22": 15,
+                "23": 0,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "9": 93
+            }
+        },
+        "school_name": "ZİYA GÖKALP İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2113,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/b5610f72-3f05-4a15-9c0a-c32c5fe2cc3c-1684105931495568717.jpeg",
+            "submission_id": 714764,
+            "total_vote": 216,
+            "votes": {
+                "1": 103,
+                "2": 0,
+                "3": 112,
+                "4": 1
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/1881a734-54c5-45c0-86aa-a90960084b74-1684105913337277190.jpeg",
+            "submission_id": 712254,
+            "total_vote": 212,
+            "votes": {
+                "10": 5,
+                "11": 5,
+                "12": 2,
+                "17": 1,
+                "21": 87,
+                "22": 15,
+                "24": 1,
+                "3": 1,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 90
+            }
+        },
+        "school_name": "ZİYA GÖKALP İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2110,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a190cc5b-f437-4b10-a967-4c1a28b47e26-1684105775028504613.jpeg",
+            "submission_id": 693257,
+            "total_vote": 237,
+            "votes": {
+                "1": 135,
+                "2": 1,
+                "3": 99,
+                "4": 2
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/83fd41dd-426c-4994-bf9f-16b8379d6cae-1684106036643671906.jpeg",
+            "submission_id": 730596,
+            "total_vote": 221,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 11,
+                "12": 3,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 70,
+                "22": 17,
+                "23": 0,
+                "24": 1,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 0,
+                "8": 2,
+                "9": 111
+            }
+        },
+        "school_name": "ZİYA GÖKALP İMAM HATİP ORTAOKULU"
+    }
+]

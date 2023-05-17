@@ -1,0 +1,565 @@
+[
+    {
+        "ballot_box_number": 1051,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/59789_cb_1093571405_1684090645060594231.jpg",
+            "submission_id": 424466,
+            "total_vote": 335,
+            "votes": {
+                "1": 97,
+                "2": 0,
+                "3": 216,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/59789_bulk_999999999_1684090761168039021.jpg",
+            "submission_id": 426866,
+            "total_vote": 331,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 18,
+                "12": 12,
+                "13": 33,
+                "14": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 131,
+                "22": 36,
+                "23": 1,
+                "24": 12,
+                "3": 3,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 4,
+                "8": 1,
+                "9": 71
+            }
+        },
+        "school_name": "PİYALE İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1041,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/59789_cb_1093571395_1684087234246176026.jpg",
+            "submission_id": 327177,
+            "total_vote": 312,
+            "votes": {
+                "1": 121,
+                "2": 1,
+                "3": 177,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/59789_mv_1083571395_1684086620013821125.jpg",
+            "submission_id": 305674,
+            "total_vote": 309,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 10,
+                "12": 5,
+                "13": 5,
+                "15": 1,
+                "17": 1,
+                "20": 1,
+                "21": 134,
+                "22": 30,
+                "23": 2,
+                "24": 6,
+                "3": 2,
+                "6": 2,
+                "7": 3,
+                "8": 1,
+                "9": 104
+            }
+        },
+        "school_name": "PİYALE İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1043,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/59789_cb_1093571397_1684085666473471912.jpg",
+            "submission_id": 273919,
+            "total_vote": 332,
+            "votes": {
+                "1": 100,
+                "2": 4,
+                "3": 214,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/59789_cb_1093571397_1684084953376432660.jpg",
+            "submission_id": 252783,
+            "total_vote": 326,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 9,
+                "12": 5,
+                "13": 10,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 2,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 148,
+                "22": 44,
+                "23": 1,
+                "24": 7,
+                "3": 3,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 6,
+                "8": 2,
+                "9": 83
+            }
+        },
+        "school_name": "PİYALE İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1047,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/59789_cb_1093571401_1684087687635616472.jpg",
+            "submission_id": 342031,
+            "total_vote": 334,
+            "votes": {
+                "1": 105,
+                "3": 209,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/59789_mv_1083571401_1684087714566899305.jpg",
+            "submission_id": 342885,
+            "total_vote": 327,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 17,
+                "12": 13,
+                "13": 17,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 137,
+                "22": 34,
+                "23": 0,
+                "24": 10,
+                "3": 3,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 1,
+                "9": 85
+            }
+        },
+        "school_name": "PİYALE İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1048,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/59789_cb_1093571402_1684087359296946185.jpg",
+            "submission_id": 331318,
+            "total_vote": 340,
+            "votes": {
+                "1": 85,
+                "3": 231,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/59789_mv_1083571402_1684087397359524394.jpg",
+            "submission_id": 332633,
+            "total_vote": 336,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 15,
+                "12": 11,
+                "13": 18,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 3,
+                "21": 144,
+                "22": 50,
+                "23": 1,
+                "24": 15,
+                "3": 1,
+                "4": 1,
+                "5": 1,
+                "6": 1,
+                "7": 8,
+                "8": 0,
+                "9": 60
+            }
+        },
+        "school_name": "PİYALE İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1045,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/59789_cb_1093571399_1684086863715329493.jpg",
+            "submission_id": 314242,
+            "total_vote": 351,
+            "votes": {
+                "1": 105,
+                "2": 3,
+                "3": 222,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/59789_bulk_999999999_1684090983131720295.jpg",
+            "submission_id": 431591,
+            "total_vote": 350,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 15,
+                "12": 2,
+                "13": 20,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 138,
+                "22": 53,
+                "23": 1,
+                "24": 16,
+                "3": 3,
+                "4": 1,
+                "5": 0,
+                "6": 2,
+                "7": 7,
+                "8": 1,
+                "9": 87
+            }
+        },
+        "school_name": "PİYALE İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1054,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/59789_cb_1093571408_1684087793455684720.jpg",
+            "submission_id": 345345,
+            "total_vote": 339,
+            "votes": {
+                "1": 94,
+                "3": 233,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/59789_mv_1083571408_1684087826196762427.jpg",
+            "submission_id": 346392,
+            "total_vote": 331,
+            "votes": {
+                "10": 3,
+                "11": 14,
+                "12": 16,
+                "13": 19,
+                "19": 1,
+                "20": 1,
+                "21": 122,
+                "22": 68,
+                "24": 5,
+                "3": 1,
+                "6": 1,
+                "7": 5,
+                "8": 2,
+                "9": 73
+            }
+        },
+        "school_name": "PİYALE İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1046,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/59789_cb_1093571400_1684086781680618669.jpg",
+            "submission_id": 311412,
+            "total_vote": 346,
+            "votes": {
+                "1": 119,
+                "2": 3,
+                "3": 202,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/59789_mv_1083571400_1684086810062607936.jpg",
+            "submission_id": 312398,
+            "total_vote": 342,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 22,
+                "12": 5,
+                "13": 31,
+                "14": 1,
+                "18": 1,
+                "19": 1,
+                "21": 130,
+                "22": 32,
+                "24": 8,
+                "3": 1,
+                "7": 10,
+                "8": 3,
+                "9": 94
+            }
+        },
+        "school_name": "PİYALE İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1044,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/59789_cb_1093571398_1684086899085491823.jpg",
+            "submission_id": 315422,
+            "total_vote": 335,
+            "votes": {
+                "1": 106,
+                "2": 1,
+                "3": 212,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/59789_mv_1083571398_1684089418587893154.jpg",
+            "submission_id": 393988,
+            "total_vote": 331,
+            "votes": {
+                "10": 3,
+                "11": 12,
+                "12": 11,
+                "13": 20,
+                "15": 1,
+                "16": 1,
+                "21": 139,
+                "22": 42,
+                "24": 14,
+                "6": 2,
+                "9": 86
+            }
+        },
+        "school_name": "PİYALE İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1052,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21641_cb_1093571406_1684089218260134206.jpg",
+            "submission_id": 388655,
+            "total_vote": 341,
+            "votes": {
+                "1": 93,
+                "2": 3,
+                "3": 227,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21641_mv_1083571406_1684089252238842870.jpg",
+            "submission_id": 389606,
+            "total_vote": 329,
+            "votes": {
+                "10": 1,
+                "11": 12,
+                "12": 9,
+                "13": 15,
+                "14": 2,
+                "19": 1,
+                "21": 141,
+                "22": 58,
+                "24": 9,
+                "3": 2,
+                "7": 4,
+                "9": 75
+            }
+        },
+        "school_name": "PİYALE İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1050,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21641_mv_1083571404_1684085222405629152.jpg",
+            "submission_id": 260512,
+            "total_vote": 341,
+            "votes": {
+                "1": 99,
+                "2": 1,
+                "3": 221,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21641_mv_1083571404_1684085287218674480.jpg",
+            "submission_id": 262366,
+            "total_vote": 335,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 15,
+                "12": 4,
+                "13": 30,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 125,
+                "22": 46,
+                "23": 1,
+                "24": 16,
+                "3": 2,
+                "4": 0,
+                "5": 2,
+                "6": 2,
+                "7": 5,
+                "8": 0,
+                "9": 83
+            }
+        },
+        "school_name": "PİYALE İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1049,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21641_cb_1093571403_1684086129833833001.jpg",
+            "submission_id": 289169,
+            "total_vote": 343,
+            "votes": {
+                "1": 109,
+                "2": 1,
+                "3": 209,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21641_mv_1083571403_1684087443990858643.jpg",
+            "submission_id": 334093,
+            "total_vote": 335,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 13,
+                "13": 18,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 125,
+                "22": 54,
+                "23": 3,
+                "24": 18,
+                "3": 2,
+                "4": 0,
+                "6": 0,
+                "8": 14,
+                "9": 86
+            }
+        },
+        "school_name": "PİYALE İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1053,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21641_cb_1093571407_1684089409876777175.jpg",
+            "submission_id": 393695,
+            "total_vote": 338,
+            "votes": {
+                "1": 105,
+                "3": 217,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21641_mv_1083571407_1684089450934464492.jpg",
+            "submission_id": 394866,
+            "total_vote": 332,
+            "votes": {
+                "10": 2,
+                "11": 18,
+                "12": 4,
+                "13": 20,
+                "19": 3,
+                "21": 151,
+                "22": 35,
+                "24": 6,
+                "3": 1,
+                "6": 3,
+                "7": 3,
+                "9": 86
+            }
+        },
+        "school_name": "PİYALE İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1042,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/59789_cb_1093571396_1684087597054809558.jpg",
+            "submission_id": 338992,
+            "total_vote": 314,
+            "votes": {
+                "1": 87,
+                "3": 218,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/59789_mv_1083571396_1684087627955312368.jpg",
+            "submission_id": 339951,
+            "total_vote": 316,
+            "votes": {
+                "10": 2,
+                "11": 8,
+                "12": 6,
+                "13": 11,
+                "16": 1,
+                "19": 2,
+                "21": 173,
+                "22": 26,
+                "23": 1,
+                "24": 6,
+                "4": 1,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 74
+            }
+        },
+        "school_name": "PİYALE İLKOKULU"
+    }
+]

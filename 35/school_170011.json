@@ -1,0 +1,18 @@
+[
+    {
+        "ballot_box_number": 1288,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d6f9f59f-8a4a-4163-96cf-24b4153e3afb-1684106644645935726.jpg",
+            "submission_id": 817307,
+            "total_vote": 159,
+            "votes": {
+                "1": 86,
+                "2": 2,
+                "3": 63,
+                "4": 8
+            }
+        },
+        "mv_result": null,
+        "school_name": "YUKARICUMA MAH. TOPLANTI SALONU"
+    }
+]

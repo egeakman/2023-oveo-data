@@ -1,0 +1,610 @@
+[
+    {
+        "ballot_box_number": 1305,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16972_cb_1093800619_1684082519386191546.jpg",
+            "submission_id": 201221,
+            "total_vote": 353,
+            "votes": {
+                "1": 44,
+                "2": 1,
+                "3": 297,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16972_mv_1083800619_1684083096309666784.jpg",
+            "submission_id": 210343,
+            "total_vote": 350,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 10,
+                "12": 4,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 238,
+                "22": 58,
+                "23": 0,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 32
+            }
+        },
+        "school_name": "GÜZELYALI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1294,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17505_cb_1093800428_1684080170933396119.jpg",
+            "submission_id": 180125,
+            "total_vote": 330,
+            "votes": {
+                "1": 38,
+                "2": 0,
+                "3": 289,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52049_mv_1083800428_1684086707103593641.jpg",
+            "submission_id": 308763,
+            "total_vote": 325,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 4,
+                "12": 1,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 258,
+                "22": 30,
+                "23": 1,
+                "24": 0,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 2,
+                "9": 27
+            }
+        },
+        "school_name": "GÜZELYALI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1295,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52049_cb_1093800429_1684086842111775518.jpg",
+            "submission_id": 313475,
+            "total_vote": 333,
+            "votes": {
+                "1": 52,
+                "2": 1,
+                "3": 270,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52049_mv_1083800429_1684086878696340659.jpg",
+            "submission_id": 314752,
+            "total_vote": 335,
+            "votes": {
+                "1": 0,
+                "10": 9,
+                "11": 8,
+                "12": 8,
+                "14": 0,
+                "15": 0,
+                "16": 6,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 8,
+                "20": 222,
+                "21": 40,
+                "22": 0,
+                "23": 13,
+                "24": 7,
+                "3": 1,
+                "4": 7,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 1,
+                "9": 4
+            }
+        },
+        "school_name": "GÜZELYALI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1302,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/12426_bulk_999999999_1684089862205027254.jpeg",
+            "submission_id": 406110,
+            "total_vote": 366,
+            "votes": {
+                "1": 34,
+                "2": 1,
+                "3": 322,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12426_mv_1083800616_1684091735614091571.jpg",
+            "submission_id": 444969,
+            "total_vote": 367,
+            "votes": {
+                "10": 3,
+                "11": 9,
+                "12": 13,
+                "14": 0,
+                "19": 0,
+                "20": 0,
+                "21": 233,
+                "22": 72,
+                "23": 1,
+                "24": 8,
+                "6": 1,
+                "7": 2,
+                "8": 0,
+                "9": 25
+            }
+        },
+        "school_name": "GÜZELYALI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1299,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/16926_bulk_999999999_1684083496216504461.jpg",
+            "submission_id": 217717,
+            "total_vote": 347,
+            "votes": {
+                "1": 36,
+                "2": 0,
+                "3": 299,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16926_mv_1083800433_1684089957689751028.jpg",
+            "submission_id": 408636,
+            "total_vote": 341,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 11,
+                "12": 13,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 230,
+                "22": 42,
+                "23": 1,
+                "24": 8,
+                "3": 4,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 25
+            }
+        },
+        "school_name": "GÜZELYALI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1304,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16972_cb_1093800618_1684088927537931613.jpg",
+            "submission_id": 380428,
+            "total_vote": 352,
+            "votes": {
+                "1": 46,
+                "2": 1,
+                "3": 298,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16972_mv_1083800618_1684089265433325164.jpg",
+            "submission_id": 389968,
+            "total_vote": 350,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 10,
+                "12": 9,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 9,
+                "19": 0,
+                "2": 9,
+                "20": 9,
+                "21": 227,
+                "22": 61,
+                "23": 1,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 2
+            }
+        },
+        "school_name": "GÜZELYALI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1297,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52049_cb_1093800431_1684091007246337505.jpg",
+            "submission_id": 432073,
+            "total_vote": 363,
+            "votes": {
+                "1": 40,
+                "2": 0,
+                "3": 314,
+                "4": 9
+            }
+        },
+        "mv_result": null,
+        "school_name": "GÜZELYALI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1306,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22818_cb_1093800620_1684086183439925854.jpg",
+            "submission_id": 290886,
+            "total_vote": 348,
+            "votes": {
+                "1": 41,
+                "2": 2,
+                "3": 297,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22818_mv_1083800620_1684087094711985869.jpg",
+            "submission_id": 322357,
+            "total_vote": 348,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 7,
+                "12": 12,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 216,
+                "22": 63,
+                "23": 0,
+                "24": 4,
+                "3": 6,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 1,
+                "9": 35
+            }
+        },
+        "school_name": "GÜZELYALI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1300,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52049_cb_1093800434_1684088986390782028.jpg",
+            "submission_id": 382149,
+            "total_vote": 350,
+            "votes": {
+                "1": 47,
+                "2": 1,
+                "3": 292,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52049_mv_1083800434_1684089030276790883.jpg",
+            "submission_id": 383382,
+            "total_vote": 349,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 5,
+                "12": 23,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 217,
+                "22": 47,
+                "23": 1,
+                "24": 6,
+                "3": 1,
+                "4": 2,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 3,
+                "9": 36
+            }
+        },
+        "school_name": "GÜZELYALI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1296,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/71cf3c9e-2a29-4271-acce-5f0d75ed9514-1684105275927729437.jpeg",
+            "submission_id": 609584,
+            "total_vote": 322,
+            "votes": {
+                "1": 45,
+                "2": 2,
+                "3": 269,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/eba0784c-6972-4cab-b167-003ecce466dc-1684105164041041943.jpeg",
+            "submission_id": 586482,
+            "total_vote": 319,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 5,
+                "12": 6,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 1,
+                "21": 229,
+                "22": 33,
+                "23": 1,
+                "24": 3,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 34
+            }
+        },
+        "school_name": "GÜZELYALI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1298,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16926_cb_1093800432_1684088821362407348.jpg",
+            "submission_id": 377233,
+            "total_vote": 351,
+            "votes": {
+                "1": 42,
+                "2": 1,
+                "3": 300,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12426_mv_1083800432_1684090622586920209.jpg",
+            "submission_id": 424045,
+            "total_vote": 346,
+            "votes": {
+                "10": 2,
+                "11": 5,
+                "12": 13,
+                "21": 213,
+                "22": 75,
+                "24": 9,
+                "7": 3,
+                "9": 26
+            }
+        },
+        "school_name": "GÜZELYALI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1308,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48176_cb_1093800622_1684079804651575687.jpg",
+            "submission_id": 178408,
+            "total_vote": 344,
+            "votes": {
+                "1": 48,
+                "2": 2,
+                "3": 285,
+                "4": 9
+            }
+        },
+        "mv_result": null,
+        "school_name": "GÜZELYALI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1293,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/12426_bulk_999999999_1684089280713837161.jpeg",
+            "submission_id": 390399,
+            "total_vote": 327,
+            "votes": {
+                "1": 48,
+                "2": 2,
+                "3": 271,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16972_mv_1083800427_1684091938518507202.jpg",
+            "submission_id": 448218,
+            "total_vote": 322,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 3,
+                "12": 5,
+                "14": 0,
+                "15": 11,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 212,
+                "22": 43,
+                "23": 1,
+                "24": 0,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 42
+            }
+        },
+        "school_name": "GÜZELYALI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1303,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/72054_cb_1093800617_1684080827601802581.jpg",
+            "submission_id": 184047,
+            "total_vote": 357,
+            "votes": {
+                "1": 39,
+                "2": 0,
+                "3": 308,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/72054_mv_1083800617_1684081437396156481.jpg",
+            "submission_id": 188815,
+            "total_vote": 353,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 3,
+                "12": 12,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 2,
+                "18": 0,
+                "19": 0,
+                "20": 0,
+                "21": 233,
+                "22": 59,
+                "23": 0,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 0,
+                "9": 34
+            }
+        },
+        "school_name": "GÜZELYALI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1301,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52049_cb_1093800615_1684086019007439619.jpg",
+            "submission_id": 285547,
+            "total_vote": 343,
+            "votes": {
+                "1": 44,
+                "2": 0,
+                "3": 290,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52049_mv_1083800615_1684086067853468695.jpg",
+            "submission_id": 287105,
+            "total_vote": 345,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 12,
+                "12": 14,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 212,
+                "22": 61,
+                "23": 0,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 1,
+                "8": 0,
+                "9": 30
+            }
+        },
+        "school_name": "GÜZELYALI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1307,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/72054_bulk_999999999_1684081106152309732.jpg",
+            "submission_id": 186110,
+            "total_vote": 354,
+            "votes": {
+                "1": 37,
+                "2": 1,
+                "3": 301,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "GÜZELYALI ORTAOKULU"
+    }
+]

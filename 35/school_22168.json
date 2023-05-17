@@ -1,0 +1,34 @@
+[
+    {
+        "ballot_box_number": 1034,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/16499_bulk_999999999_1684083174523849313.jpeg",
+            "submission_id": 211670,
+            "total_vote": 112,
+            "votes": {
+                "1": 30,
+                "2": 2,
+                "3": 76,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/16499_bulk_999999999_1684083977377262430.jpeg",
+            "submission_id": 227608,
+            "total_vote": 112,
+            "votes": {
+                "11": 5,
+                "12": 2,
+                "19": 1,
+                "21": 54,
+                "22": 15,
+                "23": 1,
+                "24": 1,
+                "3": 2,
+                "6": 2,
+                "9": 29
+            }
+        },
+        "school_name": "SALMAN KÖY ODASI"
+    }
+]

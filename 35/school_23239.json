@@ -1,0 +1,83 @@
+[
+    {
+        "ballot_box_number": 1030,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29720_cb_1093569984_1684082840181494820.jpg",
+            "submission_id": 206052,
+            "total_vote": 257,
+            "votes": {
+                "1": 89,
+                "3": 160,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29720_mv_1083569984_1684082728921751685.jpg",
+            "submission_id": 204304,
+            "total_vote": 256,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 17,
+                "12": 5,
+                "13": 6,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 105,
+                "22": 38,
+                "23": 1,
+                "24": 4,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 4,
+                "8": 0,
+                "9": 69
+            }
+        },
+        "school_name": "ÇALTILIDERE İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1031,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29720_cb_1093569985_1684085445842941283.jpg",
+            "submission_id": 266966,
+            "total_vote": 265,
+            "votes": {
+                "1": 84,
+                "3": 168,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29720_mv_1083569985_1684084551655962292.jpg",
+            "submission_id": 241818,
+            "total_vote": 261,
+            "votes": {
+                "1": 2,
+                "10": 3,
+                "11": 11,
+                "12": 10,
+                "13": 6,
+                "14": 1,
+                "15": 1,
+                "20": 1,
+                "21": 122,
+                "22": 29,
+                "23": 1,
+                "24": 5,
+                "5": 1,
+                "7": 6,
+                "9": 62
+            }
+        },
+        "school_name": "ÇALTILIDERE İLKOKULU"
+    }
+]

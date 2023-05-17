@@ -1,0 +1,160 @@
+[
+    {
+        "ballot_box_number": 2023,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/50103_cb_1093796898_1684081953576046361.jpg",
+            "submission_id": 194078,
+            "total_vote": 284,
+            "votes": {
+                "1": 107,
+                "2": 3,
+                "3": 149,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/50103_mv_1083796898_1684083197285460466.jpg",
+            "submission_id": 212096,
+            "total_vote": 282,
+            "votes": {
+                "10": 5,
+                "11": 18,
+                "12": 20,
+                "20": 2,
+                "21": 97,
+                "22": 35,
+                "24": 11,
+                "4": 1,
+                "5": 1,
+                "6": 2,
+                "7": 8,
+                "9": 82
+            }
+        },
+        "school_name": "KARABAĞLAR MESLEKİ EĞİTİM MERKEZİ"
+    },
+    {
+        "ballot_box_number": 2022,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/39063_bulk_999999999_1684082794918728894.jpg",
+            "submission_id": 205360,
+            "total_vote": 282,
+            "votes": {
+                "1": 112,
+                "2": 1,
+                "3": 151,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ee3c4c34-a52c-437f-8478-298de856fb1f-1684106034061530819.jpg",
+            "submission_id": 729263,
+            "total_vote": 269,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 14,
+                "12": 9,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 92,
+                "22": 43,
+                "23": 1,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 7,
+                "8": 3,
+                "9": 91
+            }
+        },
+        "school_name": "KARABAĞLAR MESLEKİ EĞİTİM MERKEZİ"
+    },
+    {
+        "ballot_box_number": 2020,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/43092_cb_1093796895_1684079596500554167.jpg",
+            "submission_id": 177579,
+            "total_vote": 267,
+            "votes": {
+                "1": 120,
+                "2": 2,
+                "3": 137,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/43092_mv_1083796895_1684080752527124068.jpg",
+            "submission_id": 183545,
+            "total_vote": 263,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 12,
+                "12": 21,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 88,
+                "22": 25,
+                "23": 1,
+                "24": 10,
+                "3": 1,
+                "4": 1,
+                "5": 1,
+                "6": 0,
+                "7": 4,
+                "8": 3,
+                "9": 92
+            }
+        },
+        "school_name": "KARABAĞLAR MESLEKİ EĞİTİM MERKEZİ"
+    },
+    {
+        "ballot_box_number": 2021,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/43092_cb_1093796896_1684084705956001644.jpg",
+            "submission_id": 246050,
+            "total_vote": 286,
+            "votes": {
+                "1": 127,
+                "2": 3,
+                "3": 138,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/43092_mv_1083796896_1684084795183495426.jpg",
+            "submission_id": 248406,
+            "total_vote": 287,
+            "votes": {
+                "10": 1,
+                "11": 25,
+                "12": 16,
+                "20": 1,
+                "21": 84,
+                "22": 29,
+                "24": 9,
+                "3": 2,
+                "6": 9,
+                "7": 7,
+                "8": 4,
+                "9": 100
+            }
+        },
+        "school_name": "KARABAĞLAR MESLEKİ EĞİTİM MERKEZİ"
+    }
+]

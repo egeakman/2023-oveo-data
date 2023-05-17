@@ -1,0 +1,560 @@
+[
+    {
+        "ballot_box_number": 2186,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21185_cb_1093578140_1684080473292971656.jpg",
+            "submission_id": 181899,
+            "total_vote": 329,
+            "votes": {
+                "1": 132,
+                "2": 0,
+                "3": 190,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21071_mv_1083578140_1684086882707887603.jpg",
+            "submission_id": 314896,
+            "total_vote": 317,
+            "votes": {
+                "10": 4,
+                "11": 9,
+                "12": 12,
+                "13": 6,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 1,
+                "2": 0,
+                "20": 1,
+                "21": 125,
+                "22": 39,
+                "23": 1,
+                "24": 6,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 2,
+                "7": 4,
+                "8": 2,
+                "9": 103
+            }
+        },
+        "school_name": "EVRENOSOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2195,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21185_cb_1093578149_1684082881321980497.jpg",
+            "submission_id": 206741,
+            "total_vote": 338,
+            "votes": {
+                "1": 116,
+                "2": 2,
+                "3": 189,
+                "4": 31
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21185_mv_1083578149_1684084954558202156.jpg",
+            "submission_id": 252815,
+            "total_vote": 325,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 12,
+                "12": 11,
+                "13": 11,
+                "14": 2,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 7,
+                "20": 0,
+                "21": 121,
+                "22": 35,
+                "23": 3,
+                "24": 16,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 6,
+                "7": 2,
+                "8": 0,
+                "9": 96
+            }
+        },
+        "school_name": "EVRENOSOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2193,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21071_cb_1093578147_1684086618349233035.jpg",
+            "submission_id": 305613,
+            "total_vote": 343,
+            "votes": {
+                "1": 115,
+                "3": 206,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "EVRENOSOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2198,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21185_cb_1093578152_1684082147410905964.jpg",
+            "submission_id": 196427,
+            "total_vote": 339,
+            "votes": {
+                "1": 128,
+                "2": 5,
+                "3": 173,
+                "4": 33
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21071_mv_1083578152_1684088729815968284.jpg",
+            "submission_id": 374542,
+            "total_vote": 332,
+            "votes": {
+                "10": 10,
+                "11": 16,
+                "12": 15,
+                "13": 11,
+                "14": 1,
+                "15": 1,
+                "21": 113,
+                "22": 43,
+                "23": 2,
+                "24": 10,
+                "3": 1,
+                "6": 1,
+                "7": 6,
+                "8": 1,
+                "9": 101
+            }
+        },
+        "school_name": "EVRENOSOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2192,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/65974_bulk_999999999_1684085178868497076.jpeg",
+            "submission_id": 259219,
+            "total_vote": 339,
+            "votes": {
+                "1": 138,
+                "2": 3,
+                "3": 181,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "EVRENOSOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2201,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21071_cb_1093578815_1684088064606042486.jpg",
+            "submission_id": 354066,
+            "total_vote": 349,
+            "votes": {
+                "1": 129,
+                "2": 1,
+                "3": 196,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21071_mv_1083578815_1684088104407521389.jpg",
+            "submission_id": 355291,
+            "total_vote": 340,
+            "votes": {
+                "10": 3,
+                "11": 17,
+                "12": 23,
+                "13": 14,
+                "14": 1,
+                "15": 1,
+                "19": 1,
+                "21": 118,
+                "22": 42,
+                "24": 10,
+                "3": 2,
+                "6": 1,
+                "7": 5,
+                "8": 1,
+                "9": 101
+            }
+        },
+        "school_name": "EVRENOSOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2199,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21071_cb_1093578153_1684090217842746287.jpg",
+            "submission_id": 414993,
+            "total_vote": 333,
+            "votes": {
+                "1": 127,
+                "2": 3,
+                "3": 187,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "EVRENOSOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2190,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/71425_cb_1093578144_1684087103022394583.jpg",
+            "submission_id": 322670,
+            "total_vote": 337,
+            "votes": {
+                "1": 146,
+                "2": 1,
+                "3": 171,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "EVRENOSOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2200,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21071_cb_1093578154_1684088334511600338.jpg",
+            "submission_id": 362328,
+            "total_vote": 343,
+            "votes": {
+                "1": 120,
+                "2": 1,
+                "3": 193,
+                "4": 29
+            }
+        },
+        "mv_result": null,
+        "school_name": "EVRENOSOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2185,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21185_cb_1093578139_1684084877487558903.jpg",
+            "submission_id": 250677,
+            "total_vote": 306,
+            "votes": {
+                "1": 110,
+                "2": 1,
+                "3": 181,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21071_mv_1083578139_1684086842145508360.jpg",
+            "submission_id": 313476,
+            "total_vote": 302,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 9,
+                "12": 17,
+                "13": 13,
+                "17": 1,
+                "19": 1,
+                "21": 110,
+                "22": 43,
+                "23": 3,
+                "24": 5,
+                "3": 1,
+                "4": 1,
+                "6": 2,
+                "7": 3,
+                "8": 3,
+                "9": 87
+            }
+        },
+        "school_name": "EVRENOSOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2187,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21185_bulk_999999999_1684082646953756903.jpeg",
+            "submission_id": 203024,
+            "total_vote": 312,
+            "votes": {
+                "1": 109,
+                "2": 3,
+                "3": 182,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21185_bulk_999999999_1684084441009562430.jpeg",
+            "submission_id": 239009,
+            "total_vote": 307,
+            "votes": {
+                "10": 5,
+                "11": 9,
+                "12": 13,
+                "13": 5,
+                "19": 1,
+                "21": 127,
+                "22": 46,
+                "24": 13,
+                "6": 2,
+                "7": 1,
+                "8": 2,
+                "9": 83
+            }
+        },
+        "school_name": "EVRENOSOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2196,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21071_cb_1093578150_1684087428766028351.jpg",
+            "submission_id": 333615,
+            "total_vote": 330,
+            "votes": {
+                "1": 110,
+                "2": 1,
+                "3": 201,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21071_mv_1083578150_1684087947179864444.jpg",
+            "submission_id": 350151,
+            "total_vote": 322,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 13,
+                "12": 17,
+                "13": 13,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "2": 0,
+                "20": 0,
+                "21": 114,
+                "22": 54,
+                "23": 0,
+                "24": 7,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 4,
+                "8": 0,
+                "9": 95
+            }
+        },
+        "school_name": "EVRENOSOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2202,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21071_mv_1083578816_1684089768116858299.jpg",
+            "submission_id": 403629,
+            "total_vote": 326,
+            "votes": {
+                "10": 3,
+                "11": 17,
+                "12": 17,
+                "13": 14,
+                "15": 1,
+                "20": 2,
+                "21": 89,
+                "22": 44,
+                "23": 3,
+                "24": 6,
+                "5": 1,
+                "6": 1,
+                "7": 8,
+                "8": 2,
+                "9": 118
+            }
+        },
+        "school_name": "EVRENOSOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2188,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21071_cb_1093578142_1684080042444683461.jpg",
+            "submission_id": 179486,
+            "total_vote": 349,
+            "votes": {
+                "1": 125,
+                "2": 3,
+                "3": 200,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21071_mv_1083578142_1684086044132969510.jpg",
+            "submission_id": 286407,
+            "total_vote": 342,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 31,
+                "12": 37,
+                "13": 14,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 105,
+                "22": 42,
+                "23": 1,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 93
+            }
+        },
+        "school_name": "EVRENOSOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2194,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21071_cb_1093578148_1684088935771648523.jpg",
+            "submission_id": 380666,
+            "total_vote": 360,
+            "votes": {
+                "1": 147,
+                "2": 3,
+                "3": 195,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "EVRENOSOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2189,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21185_cb_1093578143_1684082011307399679.jpg",
+            "submission_id": 194719,
+            "total_vote": 341,
+            "votes": {
+                "1": 128,
+                "2": 2,
+                "3": 187,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21185_mv_1083578143_1684081127912074775.jpg",
+            "submission_id": 186272,
+            "total_vote": 334,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 14,
+                "12": 17,
+                "13": 10,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 111,
+                "22": 50,
+                "23": 0,
+                "24": 6,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 4,
+                "8": 2,
+                "9": 111
+            }
+        },
+        "school_name": "EVRENOSOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2197,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21071_cb_1093578151_1684090077072328233.jpg",
+            "submission_id": 411579,
+            "total_vote": 336,
+            "votes": {
+                "1": 115,
+                "2": 0,
+                "3": 206,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "EVRENOSOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2191,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21071_cb_1093578145_1684086521085424876.jpg",
+            "submission_id": 302294,
+            "total_vote": 345,
+            "votes": {
+                "1": 123,
+                "2": 1,
+                "3": 208,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21071_mv_1083578145_1684086570241198538.jpg",
+            "submission_id": 303978,
+            "total_vote": 329,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 17,
+                "12": 33,
+                "13": 13,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 112,
+                "22": 54,
+                "23": 1,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 1,
+                "9": 87
+            }
+        },
+        "school_name": "EVRENOSOĞLU ORTAOKULU"
+    }
+]

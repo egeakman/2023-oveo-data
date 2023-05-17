@@ -1,0 +1,747 @@
+[
+    {
+        "ballot_box_number": 2311,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/49865_bulk_999999999_1684092888942666816.jpeg",
+            "submission_id": 462494,
+            "total_vote": 332,
+            "votes": {
+                "1": 121,
+                "2": 0,
+                "3": 197,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "PETKİM LATİFE HANIM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2308,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2f8813ac-78c4-4623-9f71-a4bad7e6c5a7-1684105136590585869.jpg",
+            "submission_id": 579830,
+            "total_vote": 291,
+            "votes": {
+                "1": 95,
+                "3": 188,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d457ee62-6082-4dd7-b924-b4c33c3590e2-1684105134437959556.jpg",
+            "submission_id": 579204,
+            "total_vote": 287,
+            "votes": {
+                "10": 1,
+                "11": 11,
+                "12": 36,
+                "13": 10,
+                "17": 1,
+                "19": 1,
+                "21": 127,
+                "22": 9,
+                "23": 2,
+                "24": 7,
+                "5": 1,
+                "7": 2,
+                "8": 2,
+                "9": 77
+            }
+        },
+        "school_name": "PETKİM LATİFE HANIM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2312,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/67804_bulk_999999999_1684092963194293516.jpeg",
+            "submission_id": 463433,
+            "total_vote": 322,
+            "votes": {
+                "1": 132,
+                "2": 2,
+                "3": 174,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c59bb7b8-65a0-48e4-80cf-a62a06f1a34a-1684106292430960093.jpg",
+            "submission_id": 767009,
+            "total_vote": 315,
+            "votes": {
+                "10": 1,
+                "11": 20,
+                "12": 77,
+                "13": 12,
+                "14": 1,
+                "21": 69,
+                "22": 21,
+                "23": 1,
+                "24": 13,
+                "6": 3,
+                "8": 1,
+                "9": 96
+            }
+        },
+        "school_name": "PETKİM LATİFE HANIM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2325,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/49865_bulk_999999999_1684086933115487052.jpeg",
+            "submission_id": 316652,
+            "total_vote": 324,
+            "votes": {
+                "1": 133,
+                "2": 2,
+                "3": 178,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/63360_bulk_999999999_1684087335306660075.jpeg",
+            "submission_id": 330521,
+            "total_vote": 309,
+            "votes": {
+                "1": 0,
+                "10": 8,
+                "11": 17,
+                "12": 51,
+                "13": 16,
+                "14": 1,
+                "15": 3,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 92,
+                "22": 12,
+                "23": 1,
+                "24": 5,
+                "3": 0,
+                "4": 1,
+                "5": 1,
+                "6": 0,
+                "7": 3,
+                "8": 1,
+                "9": 97
+            }
+        },
+        "school_name": "PETKİM LATİFE HANIM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2315,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16460_cb_1093582357_1684090707115807727.jpg",
+            "submission_id": 425711,
+            "total_vote": 340,
+            "votes": {
+                "1": 142,
+                "2": 1,
+                "3": 183,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "PETKİM LATİFE HANIM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2313,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16460_cb_1093582355_1684090490279900202.jpg",
+            "submission_id": 421145,
+            "total_vote": 331,
+            "votes": {
+                "1": 154,
+                "3": 171,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/49865_bulk_999999999_1684087622358504039.jpeg",
+            "submission_id": 339772,
+            "total_vote": 322,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 25,
+                "12": 60,
+                "13": 11,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 84,
+                "22": 10,
+                "23": 2,
+                "24": 6,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 4,
+                "9": 114
+            }
+        },
+        "school_name": "PETKİM LATİFE HANIM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2309,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/49865_bulk_999999999_1684092889278051599.jpeg",
+            "submission_id": 462499,
+            "total_vote": 325,
+            "votes": {
+                "1": 126,
+                "2": 2,
+                "3": 183,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/65cd39f2-aedc-4384-a4c3-9ac5b26cbd7f-1684105133184398751.jpg",
+            "submission_id": 579124,
+            "total_vote": 313,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 21,
+                "12": 50,
+                "13": 10,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 97,
+                "22": 16,
+                "23": 0,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 3,
+                "9": 99
+            }
+        },
+        "school_name": "PETKİM LATİFE HANIM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2318,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16460_cb_1093582360_1684091102505670715.jpg",
+            "submission_id": 433914,
+            "total_vote": 328,
+            "votes": {
+                "1": 117,
+                "2": 4,
+                "3": 196,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16460_mv_1083582360_1684091050073437901.jpg",
+            "submission_id": 432910,
+            "total_vote": 327,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 13,
+                "12": 72,
+                "13": 22,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 97,
+                "22": 10,
+                "23": 1,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 7,
+                "9": 91
+            }
+        },
+        "school_name": "PETKİM LATİFE HANIM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2321,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16460_cb_1093582363_1684093100270222123.jpg",
+            "submission_id": 465359,
+            "total_vote": 329,
+            "votes": {
+                "1": 135,
+                "2": 2,
+                "3": 182,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5bb1608a-514a-4c6c-9662-fa821d987980-1684105101301209653.jpg",
+            "submission_id": 571639,
+            "total_vote": 319,
+            "votes": {
+                "10": 3,
+                "11": 26,
+                "12": 68,
+                "13": 11,
+                "14": 1,
+                "15": 1,
+                "21": 87,
+                "22": 14,
+                "23": 1,
+                "24": 4,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 98
+            }
+        },
+        "school_name": "PETKİM LATİFE HANIM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2326,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18522_mv_1083582368_1684088061181114333.jpg",
+            "submission_id": 353948,
+            "total_vote": 315,
+            "votes": {
+                "1": 127,
+                "2": 2,
+                "3": 172,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18522_cb_1093582368_1684088026370760355.jpg",
+            "submission_id": 352800,
+            "total_vote": 310,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 25,
+                "12": 48,
+                "13": 14,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 90,
+                "22": 18,
+                "23": 1,
+                "24": 3,
+                "3": 2,
+                "4": 0,
+                "5": 4,
+                "6": 4,
+                "7": 2,
+                "8": 2,
+                "9": 94
+            }
+        },
+        "school_name": "PETKİM LATİFE HANIM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2327,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9a523fb7-b8c6-4717-9646-2783256eb775-1684106151730927912.jpg",
+            "submission_id": 745879,
+            "total_vote": 331,
+            "votes": {
+                "1": 131,
+                "3": 185,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18522_cb_1093582369_1684087620451073471.jpg",
+            "submission_id": 339731,
+            "total_vote": 321,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 16,
+                "12": 81,
+                "13": 15,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 76,
+                "22": 16,
+                "23": 1,
+                "24": 8,
+                "3": 0,
+                "4": 1,
+                "5": 3,
+                "6": 0,
+                "7": 1,
+                "8": 0,
+                "9": 97
+            }
+        },
+        "school_name": "PETKİM LATİFE HANIM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2307,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16460_cb_1093581589_1684090843955309104.jpg",
+            "submission_id": 428603,
+            "total_vote": 314,
+            "votes": {
+                "1": 100,
+                "3": 208,
+                "4": 6
+            }
+        },
+        "mv_result": null,
+        "school_name": "PETKİM LATİFE HANIM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2317,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16460_cb_1093582359_1684091150043472278.jpg",
+            "submission_id": 434890,
+            "total_vote": 332,
+            "votes": {
+                "1": 116,
+                "3": 202,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16460_mv_1083582359_1684091262765189329.jpg",
+            "submission_id": 437009,
+            "total_vote": 328,
+            "votes": {
+                "10": 2,
+                "11": 24,
+                "12": 69,
+                "13": 19,
+                "14": 1,
+                "15": 1,
+                "21": 94,
+                "22": 16,
+                "24": 5,
+                "3": 1,
+                "5": 2,
+                "6": 2,
+                "7": 1,
+                "9": 91
+            }
+        },
+        "school_name": "PETKİM LATİFE HANIM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2319,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/49865_bulk_999999999_1684087000255373325.jpeg",
+            "submission_id": 318966,
+            "total_vote": 325,
+            "votes": {
+                "1": 138,
+                "3": 168,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18522_mv_1083582361_1684087882100487314.jpg",
+            "submission_id": 348066,
+            "total_vote": 318,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 29,
+                "12": 57,
+                "13": 14,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 73,
+                "22": 23,
+                "23": 0,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 1,
+                "8": 0,
+                "9": 105
+            }
+        },
+        "school_name": "PETKİM LATİFE HANIM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2310,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49865_mv_1083581592_1684086413339592926.jpg",
+            "submission_id": 298490,
+            "total_vote": 328,
+            "votes": {
+                "1": 141,
+                "2": 2,
+                "3": 174,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49865_cb_1093581592_1684086330920749747.jpg",
+            "submission_id": 295774,
+            "total_vote": 317,
+            "votes": {
+                "10": 9,
+                "11": 17,
+                "12": 55,
+                "13": 17,
+                "15": 1,
+                "21": 70,
+                "22": 24,
+                "24": 6,
+                "5": 1,
+                "7": 2,
+                "9": 115
+            }
+        },
+        "school_name": "PETKİM LATİFE HANIM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2306,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16460_cb_1093581588_1684090669742227780.jpg",
+            "submission_id": 424941,
+            "total_vote": 323,
+            "votes": {
+                "1": 108,
+                "2": 1,
+                "3": 204,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16460_mv_1083581588_1684090616751543798.jpg",
+            "submission_id": 423928,
+            "total_vote": 316,
+            "votes": {
+                "1": 2,
+                "10": 4,
+                "11": 20,
+                "12": 71,
+                "13": 15,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 101,
+                "22": 13,
+                "23": 0,
+                "24": 2,
+                "3": 2,
+                "4": 0,
+                "5": 2,
+                "6": 1,
+                "7": 5,
+                "8": 1,
+                "9": 77
+            }
+        },
+        "school_name": "PETKİM LATİFE HANIM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2314,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/1dfebff3-17c7-4ad9-af55-694aab8bc141-1684105122733359155.jpg",
+            "submission_id": 577623,
+            "total_vote": 341,
+            "votes": {
+                "1": 152,
+                "2": 0,
+                "3": 172,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "PETKİM LATİFE HANIM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2322,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18522_mv_1083582364_1684087749146056268.jpg",
+            "submission_id": 343976,
+            "total_vote": 316,
+            "votes": {
+                "1": 134,
+                "3": 169,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "PETKİM LATİFE HANIM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2323,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18522_cb_1093582365_1684090309808402813.jpg",
+            "submission_id": 417093,
+            "total_vote": 321,
+            "votes": {
+                "1": 115,
+                "2": 2,
+                "3": 190,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16460_mv_1083582365_1684090388435929440.jpg",
+            "submission_id": 418814,
+            "total_vote": 312,
+            "votes": {
+                "11": 19,
+                "12": 75,
+                "13": 12,
+                "14": 1,
+                "17": 1,
+                "21": 91,
+                "22": 11,
+                "24": 5,
+                "5": 1,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 93
+            }
+        },
+        "school_name": "PETKİM LATİFE HANIM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2324,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a0409e5a-8177-44ea-9413-f5e7c2b50aa2-1684106329922295636.jpg",
+            "submission_id": 772468,
+            "total_vote": 321,
+            "votes": {
+                "1": 135,
+                "2": 2,
+                "3": 170,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "PETKİM LATİFE HANIM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2316,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49865_cb_1093582358_1684088422380709957.jpg",
+            "submission_id": 365116,
+            "total_vote": 327,
+            "votes": {
+                "1": 137,
+                "2": 1,
+                "3": 175,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49865_cb_1093582358_1684088355186229593.jpg",
+            "submission_id": 362956,
+            "total_vote": 321,
+            "votes": {
+                "10": 4,
+                "11": 34,
+                "12": 67,
+                "13": 10,
+                "21": 83,
+                "22": 13,
+                "24": 8,
+                "6": 2,
+                "7": 2,
+                "9": 98
+            }
+        },
+        "school_name": "PETKİM LATİFE HANIM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2320,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18522_mv_1083582362_1684087794335342796.jpg",
+            "submission_id": 345377,
+            "total_vote": 323,
+            "votes": {
+                "1": 154,
+                "2": 1,
+                "3": 154,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18522_cb_1093582362_1684087774345767730.jpg",
+            "submission_id": 344787,
+            "total_vote": 318,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 33,
+                "12": 63,
+                "13": 10,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 75,
+                "22": 10,
+                "23": 1,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 110
+            }
+        },
+        "school_name": "PETKİM LATİFE HANIM İLKOKULU"
+    }
+]

@@ -1,0 +1,382 @@
+[
+    {
+        "ballot_box_number": 1319,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49543_cb_1093761123_1684092692830849075.jpg",
+            "submission_id": 459749,
+            "total_vote": 341,
+            "votes": {
+                "1": 144,
+                "2": 1,
+                "3": 178,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "KUBİLAY İLKOKULU A VE B BLOK"
+    },
+    {
+        "ballot_box_number": 1318,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/11612_cb_1093761122_1684085969381381632.jpg",
+            "submission_id": 284040,
+            "total_vote": 331,
+            "votes": {
+                "1": 140,
+                "2": 4,
+                "3": 165,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "KUBİLAY İLKOKULU A VE B BLOK"
+    },
+    {
+        "ballot_box_number": 1326,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/40985_cb_1093761130_1684084874622958946.jpg",
+            "submission_id": 250608,
+            "total_vote": 333,
+            "votes": {
+                "1": 117,
+                "2": 4,
+                "3": 190,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "KUBİLAY İLKOKULU A VE B BLOK"
+    },
+    {
+        "ballot_box_number": 1322,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/73361_mv_1083761126_1684088141625090614.jpg",
+            "submission_id": 356581,
+            "total_vote": 334,
+            "votes": {
+                "1": 108,
+                "2": 2,
+                "3": 202,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "KUBİLAY İLKOKULU A VE B BLOK"
+    },
+    {
+        "ballot_box_number": 1314,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49543_cb_1093761118_1684084597717925364.jpg",
+            "submission_id": 243066,
+            "total_vote": 308,
+            "votes": {
+                "1": 116,
+                "2": 0,
+                "3": 178,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "KUBİLAY İLKOKULU A VE B BLOK"
+    },
+    {
+        "ballot_box_number": 1323,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/11638_cb_1093761127_1684081903397494148.jpg",
+            "submission_id": 193502,
+            "total_vote": 324,
+            "votes": {
+                "1": 106,
+                "2": 1,
+                "3": 188,
+                "4": 29
+            }
+        },
+        "mv_result": null,
+        "school_name": "KUBİLAY İLKOKULU A VE B BLOK"
+    },
+    {
+        "ballot_box_number": 1329,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "KUBİLAY İLKOKULU A VE B BLOK"
+    },
+    {
+        "ballot_box_number": 1325,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/46293_cb_1093761129_1684079459491503706.jpg",
+            "submission_id": 177091,
+            "total_vote": 336,
+            "votes": {
+                "1": 129,
+                "2": 1,
+                "3": 179,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/46293_mv_1083761129_1684086904129513562.jpg",
+            "submission_id": 315586,
+            "total_vote": 334,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 46,
+                "12": 6,
+                "13": 9,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 111,
+                "22": 66,
+                "23": 1,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 5,
+                "8": 1,
+                "9": 70
+            }
+        },
+        "school_name": "KUBİLAY İLKOKULU A VE B BLOK"
+    },
+    {
+        "ballot_box_number": 1327,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/11612_bulk_999999999_1684082197989196596.jpeg",
+            "submission_id": 197011,
+            "total_vote": 337,
+            "votes": {
+                "1": 97,
+                "2": 2,
+                "3": 214,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/11612_cb_1093761132_1684086639389543727.jpg",
+            "submission_id": 306397,
+            "total_vote": 326,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 25,
+                "12": 5,
+                "13": 17,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 128,
+                "22": 55,
+                "23": 1,
+                "24": 15,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 3,
+                "8": 4,
+                "9": 67
+            }
+        },
+        "school_name": "KUBİLAY İLKOKULU A VE B BLOK"
+    },
+    {
+        "ballot_box_number": 1315,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/11612_cb_1093761119_1684085245710503636.jpg",
+            "submission_id": 261165,
+            "total_vote": 344,
+            "votes": {
+                "1": 116,
+                "2": 2,
+                "3": 205,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "KUBİLAY İLKOKULU A VE B BLOK"
+    },
+    {
+        "ballot_box_number": 1320,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68502_cb_1093761124_1684265634186455909.jpeg",
+            "submission_id": 1033321,
+            "total_vote": 334,
+            "votes": {
+                "1": 133,
+                "2": 2,
+                "3": 172,
+                "4": 27
+            }
+        },
+        "mv_result": null,
+        "school_name": "KUBİLAY İLKOKULU A VE B BLOK"
+    },
+    {
+        "ballot_box_number": 1313,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49543_cb_1093761117_1684078984407935626.jpg",
+            "submission_id": 175661,
+            "total_vote": 298,
+            "votes": {
+                "1": 103,
+                "2": 6,
+                "3": 175,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49543_mv_1083761117_1684084242866211840.jpg",
+            "submission_id": 234097,
+            "total_vote": 288,
+            "votes": {
+                "1": 2,
+                "10": 1,
+                "11": 19,
+                "12": 5,
+                "13": 6,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 110,
+                "22": 51,
+                "23": 1,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 3,
+                "7": 7,
+                "8": 0,
+                "9": 76
+            }
+        },
+        "school_name": "KUBİLAY İLKOKULU A VE B BLOK"
+    },
+    {
+        "ballot_box_number": 1324,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/11638_cb_1093761127_1684080482468443624.jpg",
+            "submission_id": 181949,
+            "total_vote": 319,
+            "votes": {
+                "1": 88,
+                "2": 1,
+                "3": 203,
+                "4": 27
+            }
+        },
+        "mv_result": null,
+        "school_name": "KUBİLAY İLKOKULU A VE B BLOK"
+    },
+    {
+        "ballot_box_number": 1317,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/11612_bulk_999999999_1684082197707601698.jpeg",
+            "submission_id": 197006,
+            "total_vote": 336,
+            "votes": {
+                "1": 130,
+                "2": 1,
+                "3": 180,
+                "4": 25
+            }
+        },
+        "mv_result": null,
+        "school_name": "KUBİLAY İLKOKULU A VE B BLOK"
+    },
+    {
+        "ballot_box_number": 1328,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/40962_mv_1083761132_1684088998334403679.jpg",
+            "submission_id": 382515,
+            "total_vote": 336,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 30,
+                "12": 2,
+                "13": 15,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 128,
+                "22": 53,
+                "23": 3,
+                "24": 16,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 9,
+                "8": 2,
+                "9": 75
+            }
+        },
+        "school_name": "KUBİLAY İLKOKULU A VE B BLOK"
+    },
+    {
+        "ballot_box_number": 1321,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/11612_cb_1093761125_1684085386253319229.jpg",
+            "submission_id": 265283,
+            "total_vote": 329,
+            "votes": {
+                "10": 4,
+                "11": 32,
+                "12": 11,
+                "13": 7,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "2": 0,
+                "20": 0,
+                "21": 117,
+                "22": 47,
+                "23": 1,
+                "24": 8,
+                "3": 2,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 7,
+                "8": 3,
+                "9": 89
+            }
+        },
+        "school_name": "KUBİLAY İLKOKULU A VE B BLOK"
+    },
+    {
+        "ballot_box_number": 1316,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "KUBİLAY İLKOKULU A VE B BLOK"
+    }
+]

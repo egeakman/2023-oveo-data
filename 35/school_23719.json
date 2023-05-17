@@ -1,0 +1,463 @@
+[
+    {
+        "ballot_box_number": 2296,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21777_cb_1093864974_1684088259347059370.jpg",
+            "submission_id": 360079,
+            "total_vote": 332,
+            "votes": {
+                "1": 41,
+                "2": 1,
+                "3": 283,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "HAMDULLAH SUPHİ TANRIÖVER ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2306,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/028938f2-79bc-421e-828e-90b50a23432e-1684105919085695569.jpeg",
+            "submission_id": 712348,
+            "total_vote": 337,
+            "votes": {
+                "1": 31,
+                "2": 1,
+                "3": 294,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9f6258e4-26e3-454f-979c-6e5c7e0c0c0d-1684105911138932203.jpeg",
+            "submission_id": 711491,
+            "total_vote": 337,
+            "votes": {
+                "10": 3,
+                "11": 8,
+                "12": 12,
+                "13": 24,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 224,
+                "22": 28,
+                "23": 1,
+                "24": 7,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 2,
+                "8": 0,
+                "9": 24
+            }
+        },
+        "school_name": "HAMDULLAH SUPHİ TANRIÖVER ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2295,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21777_cb_1093864973_1684090240208670875.jpg",
+            "submission_id": 415523,
+            "total_vote": 325,
+            "votes": {
+                "1": 45,
+                "2": 1,
+                "3": 273,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21777_bulk_999999999_1684090367271606575.jpeg",
+            "submission_id": 418357,
+            "total_vote": 318,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 7,
+                "12": 6,
+                "13": 22,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 214,
+                "22": 27,
+                "23": 0,
+                "24": 2,
+                "3": 0,
+                "4": 3,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 0,
+                "9": 34
+            }
+        },
+        "school_name": "HAMDULLAH SUPHİ TANRIÖVER ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2299,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16406_cb_1093865037_1684081490961259064.jpg",
+            "submission_id": 189294,
+            "total_vote": 340,
+            "votes": {
+                "1": 35,
+                "2": 8,
+                "3": 288,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16406_mv_1083865037_1684082221960490301.jpg",
+            "submission_id": 197361,
+            "total_vote": 332,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 5,
+                "12": 20,
+                "13": 31,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 183,
+                "22": 49,
+                "23": 1,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 7,
+                "8": 1,
+                "9": 28
+            }
+        },
+        "school_name": "HAMDULLAH SUPHİ TANRIÖVER ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2300,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/53696_cb_1093865038_1684090493186389583.jpg",
+            "submission_id": 421204,
+            "total_vote": 333,
+            "votes": {
+                "1": 42,
+                "3": 284,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/53696_mv_1083865038_1684090534878629630.jpg",
+            "submission_id": 422167,
+            "total_vote": 332,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 6,
+                "12": 4,
+                "13": 36,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 206,
+                "22": 42,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "8": 4,
+                "9": 29
+            }
+        },
+        "school_name": "HAMDULLAH SUPHİ TANRIÖVER ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2293,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21777_cb_1093864971_1684088462767397230.jpg",
+            "submission_id": 366315,
+            "total_vote": 322,
+            "votes": {
+                "1": 32,
+                "2": 0,
+                "3": 281,
+                "4": 9
+            }
+        },
+        "mv_result": null,
+        "school_name": "HAMDULLAH SUPHİ TANRIÖVER ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2303,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c44361de-3104-47e7-860e-ef60e79ba252-1684106259077198767.jpeg",
+            "submission_id": 762544,
+            "total_vote": 334,
+            "votes": {
+                "1": 38,
+                "2": 1,
+                "3": 284,
+                "4": 11
+            }
+        },
+        "mv_result": null,
+        "school_name": "HAMDULLAH SUPHİ TANRIÖVER ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2294,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/53696_bulk_999999999_1684104529982535942.jpeg",
+            "submission_id": 564688,
+            "total_vote": 312,
+            "votes": {
+                "1": 36,
+                "2": 1,
+                "3": 267,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d47222e9-b9a9-49a6-aff1-98637bd059c2-1684106015865552875.jpeg",
+            "submission_id": 726112,
+            "total_vote": 306,
+            "votes": {
+                "10": 1,
+                "11": 3,
+                "12": 12,
+                "13": 14,
+                "19": 1,
+                "21": 208,
+                "22": 32,
+                "24": 4,
+                "8": 2,
+                "9": 29
+            }
+        },
+        "school_name": "HAMDULLAH SUPHİ TANRIÖVER ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2304,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a2bc6c30-5c0e-4b5a-99c5-e080b9c95de2-1684105657825623634.jpeg",
+            "submission_id": 674390,
+            "total_vote": 339,
+            "votes": {
+                "1": 37,
+                "2": 0,
+                "3": 293,
+                "4": 9
+            }
+        },
+        "mv_result": null,
+        "school_name": "HAMDULLAH SUPHİ TANRIÖVER ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2302,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/56844_cb_1093865040_1684083209765916944.jpg",
+            "submission_id": 212302,
+            "total_vote": 332,
+            "votes": {
+                "1": 36,
+                "2": 2,
+                "3": 289,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/56844_mv_1083865040_1684089210629286384.jpg",
+            "submission_id": 388437,
+            "total_vote": 321,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 2,
+                "12": 15,
+                "13": 28,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 26,
+                "20": 1,
+                "21": 195,
+                "22": 18,
+                "23": 0,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 25
+            }
+        },
+        "school_name": "HAMDULLAH SUPHİ TANRIÖVER ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2297,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20222_cb_1093865035_1684084785646887287.jpg",
+            "submission_id": 248142,
+            "total_vote": 322,
+            "votes": {
+                "1": 42,
+                "2": 0,
+                "3": 272,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20222_mv_1083865035_1684085352073109777.jpg",
+            "submission_id": 264253,
+            "total_vote": 329,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 11,
+                "12": 11,
+                "13": 33,
+                "14": 1,
+                "21": 184,
+                "22": 39,
+                "24": 3,
+                "6": 2,
+                "7": 6,
+                "9": 37
+            }
+        },
+        "school_name": "HAMDULLAH SUPHİ TANRIÖVER ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2305,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3615ebe2-eea8-4fde-9fb8-c0425de20ce7-1684105235317912513.jpeg",
+            "submission_id": 601466,
+            "total_vote": 337,
+            "votes": {
+                "1": 31,
+                "2": 0,
+                "3": 290,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/62cfdb06-83af-48a4-8011-11f323e901e2-1684105233186517319.jpeg",
+            "submission_id": 600980,
+            "total_vote": 333,
+            "votes": {
+                "10": 0,
+                "11": 7,
+                "12": 8,
+                "13": 22,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "18": 0,
+                "20": 0,
+                "21": 218,
+                "22": 42,
+                "23": 0,
+                "24": 6,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 0,
+                "9": 28
+            }
+        },
+        "school_name": "HAMDULLAH SUPHİ TANRIÖVER ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2298,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/41840_bulk_999999999_1684092443866174927.jpeg",
+            "submission_id": 456380,
+            "total_vote": 333,
+            "votes": {
+                "1": 37,
+                "2": 1,
+                "3": 287,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/41840_bulk_999999999_1684092443998614858.jpeg",
+            "submission_id": 456383,
+            "total_vote": 327,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 9,
+                "12": 9,
+                "13": 40,
+                "19": 1,
+                "2": 1,
+                "21": 180,
+                "22": 49,
+                "7": 5,
+                "9": 30
+            }
+        },
+        "school_name": "HAMDULLAH SUPHİ TANRIÖVER ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2301,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32070_cb_1093865039_1684087600021209942.jpg",
+            "submission_id": 339081,
+            "total_vote": 343,
+            "votes": {
+                "1": 46,
+                "2": 2,
+                "3": 290,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/25a6be90-9b09-4494-8eaf-c621b291622e-1684105599973774308.jpeg",
+            "submission_id": 664557,
+            "total_vote": 338,
+            "votes": {
+                "11": 10,
+                "12": 9,
+                "13": 28,
+                "21": 190,
+                "22": 56,
+                "24": 1,
+                "3": 4,
+                "6": 2,
+                "7": 4,
+                "9": 34
+            }
+        },
+        "school_name": "HAMDULLAH SUPHİ TANRIÖVER ORTAOKULU"
+    }
+]

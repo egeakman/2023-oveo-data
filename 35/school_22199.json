@@ -1,0 +1,301 @@
+[
+    {
+        "ballot_box_number": 1112,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22775_cb_1093574586_1684086167422250295.jpg",
+            "submission_id": 290391,
+            "total_vote": 335,
+            "votes": {
+                "1": 69,
+                "2": 0,
+                "3": 253,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22775_mv_1083574586_1684086208122080059.jpg",
+            "submission_id": 291712,
+            "total_vote": 334,
+            "votes": {
+                "10": 4,
+                "11": 6,
+                "12": 11,
+                "13": 14,
+                "21": 181,
+                "22": 53,
+                "24": 9,
+                "7": 1,
+                "9": 55
+            }
+        },
+        "school_name": "ŞEHİT SAMET ÇAKIR (ÇİFTE HAVUZLAR) ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1111,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22775_cb_1093574585_1684090376124649927.jpg",
+            "submission_id": 418554,
+            "total_vote": 346,
+            "votes": {
+                "1": 76,
+                "2": 2,
+                "3": 261,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT SAMET ÇAKIR (ÇİFTE HAVUZLAR) ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1110,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/22775_bulk_999999999_1684082278001774295.jpg",
+            "submission_id": 198080,
+            "total_vote": 338,
+            "votes": {
+                "1": 66,
+                "2": 2,
+                "3": 254,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22775_mv_1083574584_1684083126962472237.jpg",
+            "submission_id": 210854,
+            "total_vote": 335,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 7,
+                "12": 24,
+                "13": 31,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 158,
+                "22": 38,
+                "23": 0,
+                "24": 13,
+                "3": 1,
+                "4": 0,
+                "5": 2,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 56
+            }
+        },
+        "school_name": "ŞEHİT SAMET ÇAKIR (ÇİFTE HAVUZLAR) ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1109,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22775_cb_1093574583_1684088379782300424.jpg",
+            "submission_id": 363752,
+            "total_vote": 343,
+            "votes": {
+                "1": 66,
+                "2": 1,
+                "3": 265,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/48632b76-f887-4dd3-bb7d-e68b7cdf6823-1684105424627812479.jpeg",
+            "submission_id": 637598,
+            "total_vote": 337,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 11,
+                "12": 12,
+                "13": 33,
+                "19": 1,
+                "21": 181,
+                "22": 31,
+                "23": 2,
+                "24": 10,
+                "6": 1,
+                "7": 4,
+                "9": 49
+            }
+        },
+        "school_name": "ŞEHİT SAMET ÇAKIR (ÇİFTE HAVUZLAR) ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1114,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22775_cb_1093574588_1684086282311139937.jpg",
+            "submission_id": 294156,
+            "total_vote": 341,
+            "votes": {
+                "1": 79,
+                "2": 2,
+                "3": 245,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/67441edf-55d4-466c-a1bc-0d5d76a75475-1684105957943064534.jpeg",
+            "submission_id": 719760,
+            "total_vote": 335,
+            "votes": {
+                "1": 1,
+                "11": 15,
+                "12": 25,
+                "13": 23,
+                "21": 149,
+                "22": 39,
+                "24": 10,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "8": 2,
+                "9": 66
+            }
+        },
+        "school_name": "ŞEHİT SAMET ÇAKIR (ÇİFTE HAVUZLAR) ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1108,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22775_cb_1093574582_1684086353239692476.jpg",
+            "submission_id": 296474,
+            "total_vote": 324,
+            "votes": {
+                "1": 72,
+                "2": 1,
+                "3": 244,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22775_mv_1083574582_1684087464456056588.jpg",
+            "submission_id": 334744,
+            "total_vote": 317,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 16,
+                "12": 11,
+                "13": 26,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 177,
+                "22": 34,
+                "23": 1,
+                "24": 5,
+                "3": 1,
+                "5": 0,
+                "6": 1,
+                "7": 0,
+                "8": 0,
+                "9": 43
+            }
+        },
+        "school_name": "ŞEHİT SAMET ÇAKIR (ÇİFTE HAVUZLAR) ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1107,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22775_cb_1093574581_1684088090238381904.jpg",
+            "submission_id": 354866,
+            "total_vote": 323,
+            "votes": {
+                "1": 59,
+                "2": 1,
+                "3": 261,
+                "4": 2
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22775_mv_1083574581_1684127834609548705.jpg",
+            "submission_id": 1011272,
+            "total_vote": 318,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 12,
+                "12": 17,
+                "13": 17,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 2,
+                "21": 190,
+                "22": 27,
+                "23": 0,
+                "24": 1,
+                "3": 3,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 1,
+                "9": 42
+            }
+        },
+        "school_name": "ŞEHİT SAMET ÇAKIR (ÇİFTE HAVUZLAR) ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1113,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22775_cb_1093574587_1684086438823570015.jpg",
+            "submission_id": 299321,
+            "total_vote": 346,
+            "votes": {
+                "1": 76,
+                "2": 1,
+                "3": 259,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22775_mv_1083574587_1684087239763999507.jpg",
+            "submission_id": 327330,
+            "total_vote": 347,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 13,
+                "12": 27,
+                "13": 36,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 157,
+                "22": 34,
+                "23": 0,
+                "24": 7,
+                "3": 1,
+                "4": 1,
+                "5": 1,
+                "6": 0,
+                "7": 1,
+                "8": 5,
+                "9": 62
+            }
+        },
+        "school_name": "ŞEHİT SAMET ÇAKIR (ÇİFTE HAVUZLAR) ORTA OKULU"
+    }
+]

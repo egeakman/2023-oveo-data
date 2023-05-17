@@ -1,0 +1,275 @@
+[
+    {
+        "ballot_box_number": 1081,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/35370_cb_1093798335_1684080875427271642.jpg",
+            "submission_id": 184407,
+            "total_vote": 322,
+            "votes": {
+                "1": 77,
+                "2": 3,
+                "3": 230,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e50c0325-d691-4a20-84fa-84ea97a2db72-1684106253615799294.jpg",
+            "submission_id": 761849,
+            "total_vote": 318,
+            "votes": {
+                "1": 2,
+                "10": 3,
+                "11": 11,
+                "12": 39,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 145,
+                "22": 42,
+                "23": 0,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 1,
+                "7": 3,
+                "8": 2,
+                "9": 60
+            }
+        },
+        "school_name": "MERSİN ALANI MAH. SALİH DEĞERLİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1082,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17996_cb_1093798336_1684084733778509981.jpg",
+            "submission_id": 246785,
+            "total_vote": 309,
+            "votes": {
+                "1": 93,
+                "2": 1,
+                "3": 208,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/75694_bulk_999999999_1684096800694799264.jpg",
+            "submission_id": 515920,
+            "total_vote": 301,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 12,
+                "12": 51,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 125,
+                "22": 27,
+                "23": 0,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 0,
+                "9": 71
+            }
+        },
+        "school_name": "MERSİN ALANI MAH. SALİH DEĞERLİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1084,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17996_mv_1083798338_1684095387586216125.jpg",
+            "submission_id": 502473,
+            "total_vote": 314,
+            "votes": {
+                "1": 117,
+                "2": 1,
+                "3": 185,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17996_mv_1083798338_1684095693640114753.jpg",
+            "submission_id": 505830,
+            "total_vote": 313,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 14,
+                "12": 42,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 109,
+                "22": 31,
+                "23": 2,
+                "24": 8,
+                "3": 1,
+                "4": 0,
+                "5": 2,
+                "6": 0,
+                "7": 5,
+                "8": 0,
+                "9": 98
+            }
+        },
+        "school_name": "MERSİN ALANI MAH. SALİH DEĞERLİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1080,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/75694_bulk_999999999_1684078612706687227.jpg",
+            "submission_id": 174803,
+            "total_vote": 311,
+            "votes": {
+                "1": 83,
+                "3": 215,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17996_mv_1083798074_1684096000133617181.jpg",
+            "submission_id": 508645,
+            "total_vote": 307,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 14,
+                "12": 43,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 119,
+                "22": 47,
+                "23": 1,
+                "24": 7,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 2,
+                "9": 67
+            }
+        },
+        "school_name": "MERSİN ALANI MAH. SALİH DEĞERLİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1078,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17996_cb_1093798072_1684089852119024776.jpg",
+            "submission_id": 405836,
+            "total_vote": 318,
+            "votes": {
+                "1": 82,
+                "2": 2,
+                "3": 229,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17996_mv_1083798072_1684096177331219084.jpg",
+            "submission_id": 510100,
+            "total_vote": 305,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 10,
+                "12": 22,
+                "14": 0,
+                "15": 18,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 0,
+                "21": 158,
+                "22": 22,
+                "23": 1,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 4,
+                "7": 1,
+                "8": 1,
+                "9": 57
+            }
+        },
+        "school_name": "MERSİN ALANI MAH. SALİH DEĞERLİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1083,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17996_cb_1093798337_1684095630507414645.jpg",
+            "submission_id": 505142,
+            "total_vote": 313,
+            "votes": {
+                "1": 95,
+                "2": 3,
+                "3": 196,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8514eb60-a6bd-4f6f-9ed6-38182f4a9fb2-1684106141017990872.jpg",
+            "submission_id": 744787,
+            "total_vote": 311,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 17,
+                "12": 32,
+                "21": 133,
+                "22": 33,
+                "23": 2,
+                "24": 7,
+                "7": 13,
+                "8": 1,
+                "9": 71
+            }
+        },
+        "school_name": "MERSİN ALANI MAH. SALİH DEĞERLİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1079,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17996_cb_1093798073_1684089735190784173.jpg",
+            "submission_id": 402731,
+            "total_vote": 319,
+            "votes": {
+                "1": 132,
+                "2": 1,
+                "3": 174,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "MERSİN ALANI MAH. SALİH DEĞERLİ ANADOLU LİSESİ"
+    }
+]

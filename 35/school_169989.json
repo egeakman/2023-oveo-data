@@ -1,0 +1,336 @@
+[
+    {
+        "ballot_box_number": 2251,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23824_cb_1093800045_1684092188130961911.jpg",
+            "submission_id": 452314,
+            "total_vote": 298,
+            "votes": {
+                "1": 128,
+                "2": 0,
+                "3": 162,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23824_mv_1083800045_1684092197973610811.jpg",
+            "submission_id": 452467,
+            "total_vote": 292,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 15,
+                "12": 107,
+                "14": 0,
+                "15": 3,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "20": 0,
+                "21": 40,
+                "22": 12,
+                "23": 0,
+                "24": 4,
+                "3": 2,
+                "4": 0,
+                "5": 2,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 100
+            }
+        },
+        "school_name": "ULUĞBEY İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2253,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23824_cb_1093800047_1684092231346266389.jpg",
+            "submission_id": 453035,
+            "total_vote": 288,
+            "votes": {
+                "1": 120,
+                "2": 1,
+                "3": 155,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23824_mv_1083800047_1684092240127558582.jpg",
+            "submission_id": 453171,
+            "total_vote": 282,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 13,
+                "12": 117,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 35,
+                "21": 10,
+                "22": 1,
+                "23": 8,
+                "3": 0,
+                "4": 0,
+                "6": 3,
+                "7": 1,
+                "8": 1,
+                "9": 86
+            }
+        },
+        "school_name": "ULUĞBEY İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2255,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23824_mv_1083800049_1684092367579687597.jpg",
+            "submission_id": 455189,
+            "total_vote": 281,
+            "votes": {
+                "1": 2,
+                "10": 2,
+                "11": 3,
+                "12": 118,
+                "2": 0,
+                "21": 41,
+                "22": 9,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 0,
+                "7": 4,
+                "8": 0,
+                "9": 96
+            }
+        },
+        "school_name": "ULUĞBEY İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2250,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23824_cb_1093800044_1684092146242540034.jpg",
+            "submission_id": 451715,
+            "total_vote": 294,
+            "votes": {
+                "1": 95,
+                "2": 2,
+                "3": 188,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c845e646-82aa-48e5-a31d-bf72c1dfe1e0-1684105290395278217.jpg",
+            "submission_id": 612418,
+            "total_vote": 292,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 6,
+                "12": 157,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 24,
+                "22": 10,
+                "23": 0,
+                "24": 5,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 1,
+                "8": 1,
+                "9": 79
+            }
+        },
+        "school_name": "ULUĞBEY İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2249,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23824_cb_1093800043_1684092126099557106.jpg",
+            "submission_id": 451344,
+            "total_vote": 284,
+            "votes": {
+                "1": 108,
+                "2": 2,
+                "3": 162,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "ULUĞBEY İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2252,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23824_cb_1093800046_1684092210288586141.jpg",
+            "submission_id": 452692,
+            "total_vote": 289,
+            "votes": {
+                "1": 107,
+                "2": 2,
+                "3": 170,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "ULUĞBEY İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2248,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23824_cb_1093800042_1684092068648216929.jpg",
+            "submission_id": 450463,
+            "total_vote": 271,
+            "votes": {
+                "1": 119,
+                "2": 1,
+                "3": 144,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/68d36876-416f-4a29-8088-17973f5affcd-1684105605716601493.jpg",
+            "submission_id": 665697,
+            "total_vote": 263,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "12": 76,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "22": 72,
+                "24": 0,
+                "3": 0,
+                "4": 7,
+                "5": 1,
+                "6": 0,
+                "7": 2,
+                "8": 2,
+                "9": 102
+            }
+        },
+        "school_name": "ULUĞBEY İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2254,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/17375df8-b1c9-4906-88c2-300961dc20ee-1684105550828176673.jpg",
+            "submission_id": 657250,
+            "total_vote": 299,
+            "votes": {
+                "1": 96,
+                "2": 0,
+                "3": 196,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "ULUĞBEY İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2257,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23824_cb_1093800051_1684092410009628681.jpg",
+            "submission_id": 455827,
+            "total_vote": 305,
+            "votes": {
+                "1": 108,
+                "2": 1,
+                "3": 183,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23824_mv_1083800051_1684092419511498592.jpg",
+            "submission_id": 456020,
+            "total_vote": 301,
+            "votes": {
+                "10": 8,
+                "11": 19,
+                "12": 138,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "21": 38,
+                "22": 0,
+                "23": 3,
+                "3": 9,
+                "4": 0,
+                "5": 2,
+                "6": 4,
+                "7": 2,
+                "8": 0,
+                "9": 77
+            }
+        },
+        "school_name": "ULUĞBEY İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2256,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23824_cb_1093800050_1684092390863481834.jpg",
+            "submission_id": 455584,
+            "total_vote": 304,
+            "votes": {
+                "1": 85,
+                "2": 2,
+                "3": 202,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/acae4fdf-b135-496d-99a3-0017c4ec0159-1684105465439627419.jpg",
+            "submission_id": 644061,
+            "total_vote": 298,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 14,
+                "12": 152,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 39,
+                "22": 9,
+                "23": 1,
+                "24": 6,
+                "3": 1,
+                "4": 0,
+                "5": 5,
+                "6": 5,
+                "7": 3,
+                "8": 0,
+                "9": 57
+            }
+        },
+        "school_name": "ULUĞBEY İLKOKULU A BLOK"
+    }
+]

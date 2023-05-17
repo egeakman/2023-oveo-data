@@ -1,0 +1,129 @@
+[
+    {
+        "ballot_box_number": 1172,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/69581_cb_1093798326_1684083195978355234.jpg",
+            "submission_id": 212074,
+            "total_vote": 284,
+            "votes": {
+                "1": 150,
+                "3": 113,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/69581_mv_1083798326_1684083234069065062.jpg",
+            "submission_id": 212766,
+            "total_vote": 278,
+            "votes": {
+                "1": 1,
+                "10": 7,
+                "11": 27,
+                "12": 1,
+                "13": 3,
+                "14": 2,
+                "18": 1,
+                "20": 1,
+                "21": 82,
+                "22": 26,
+                "24": 8,
+                "7": 1,
+                "8": 2,
+                "9": 116
+            }
+        },
+        "school_name": "İSLAMSARAY MAH. GAZİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1173,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/69581_cb_1093798327_1684083936624495670.jpg",
+            "submission_id": 226796,
+            "total_vote": 286,
+            "votes": {
+                "1": 131,
+                "2": 6,
+                "3": 123,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/69581_mv_1083798327_1684084937714581441.jpg",
+            "submission_id": 252325,
+            "total_vote": 276,
+            "votes": {
+                "1": 0,
+                "10": 11,
+                "11": 26,
+                "12": 2,
+                "13": 2,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 84,
+                "22": 32,
+                "23": 2,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "5": 3,
+                "6": 2,
+                "7": 7,
+                "8": 1,
+                "9": 92
+            }
+        },
+        "school_name": "İSLAMSARAY MAH. GAZİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1171,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/69581_cb_1093798325_1684086881052635955.jpg",
+            "submission_id": 314832,
+            "total_vote": 274,
+            "votes": {
+                "1": 158,
+                "2": 2,
+                "3": 94,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/69581_mv_1083798325_1684095670903823522.jpg",
+            "submission_id": 505564,
+            "total_vote": 267,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 30,
+                "12": 5,
+                "13": 6,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 61,
+                "22": 21,
+                "23": 0,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 2,
+                "9": 125
+            }
+        },
+        "school_name": "İSLAMSARAY MAH. GAZİ ORTAOKULU"
+    }
+]

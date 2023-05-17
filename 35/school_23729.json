@@ -1,0 +1,237 @@
+[
+    {
+        "ballot_box_number": 2375,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20089_bulk_999999999_1684082757845120305.jpeg",
+            "submission_id": 204750,
+            "total_vote": 303,
+            "votes": {
+                "1": 92,
+                "2": 1,
+                "3": 200,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/690f504e-230d-46ee-bba9-2a53652c3001-1684105501802278269.jpeg",
+            "submission_id": 650075,
+            "total_vote": 305,
+            "votes": {
+                "10": 3,
+                "11": 11,
+                "12": 26,
+                "13": 17,
+                "15": 1,
+                "21": 131,
+                "22": 28,
+                "23": 1,
+                "24": 7,
+                "7": 2,
+                "8": 2,
+                "9": 76
+            }
+        },
+        "school_name": "ENGİN ÖZMERİÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2372,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/99caf3c9-2123-4929-8941-456e981baa98-1684105573588732517.jpeg",
+            "submission_id": 661112,
+            "total_vote": 282,
+            "votes": {
+                "1": 84,
+                "2": 1,
+                "3": 181,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "ENGİN ÖZMERİÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2374,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20089_bulk_999999999_1684088380736002104.jpeg",
+            "submission_id": 363785,
+            "total_vote": 306,
+            "votes": {
+                "1": 83,
+                "2": 2,
+                "3": 202,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20089_bulk_999999999_1684088380589595447.jpeg",
+            "submission_id": 363783,
+            "total_vote": 300,
+            "votes": {
+                "10": 3,
+                "11": 13,
+                "12": 24,
+                "13": 24,
+                "20": 1,
+                "21": 118,
+                "22": 31,
+                "23": 3,
+                "24": 5,
+                "3": 1,
+                "5": 1,
+                "7": 5,
+                "8": 2,
+                "9": 69
+            }
+        },
+        "school_name": "ENGİN ÖZMERİÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2378,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/40820_cb_1093865138_1684088870473665736.jpg",
+            "submission_id": 378627,
+            "total_vote": 304,
+            "votes": {
+                "1": 100,
+                "2": 2,
+                "3": 191,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/40820_bulk_999999999_1684090550862583279.jpg",
+            "submission_id": 422596,
+            "total_vote": 302,
+            "votes": {
+                "1": 2,
+                "10": 1,
+                "11": 12,
+                "12": 18,
+                "13": 17,
+                "15": 1,
+                "21": 125,
+                "22": 38,
+                "24": 1,
+                "6": 2,
+                "9": 85
+            }
+        },
+        "school_name": "ENGİN ÖZMERİÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2373,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20089_bulk_999999999_1684084400825905938.jpg",
+            "submission_id": 237995,
+            "total_vote": 315,
+            "votes": {
+                "1": 91,
+                "2": 2,
+                "3": 208,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20089_bulk_999999999_1684086577855152581.jpeg",
+            "submission_id": 304252,
+            "total_vote": 310,
+            "votes": {
+                "10": 2,
+                "11": 9,
+                "12": 25,
+                "13": 19,
+                "14": 1,
+                "2": 1,
+                "21": 133,
+                "22": 34,
+                "23": 1,
+                "24": 6,
+                "3": 1,
+                "6": 2,
+                "7": 3,
+                "8": 1,
+                "9": 72
+            }
+        },
+        "school_name": "ENGİN ÖZMERİÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2376,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20088_cb_1093865136_1684081654083762185.jpg",
+            "submission_id": 190934,
+            "total_vote": 300,
+            "votes": {
+                "1": 93,
+                "2": 2,
+                "3": 193,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20088_mv_1083865136_1684087715609142779.jpg",
+            "submission_id": 342930,
+            "total_vote": 292,
+            "votes": {
+                "10": 4,
+                "11": 15,
+                "12": 22,
+                "13": 26,
+                "2": 1,
+                "20": 3,
+                "21": 122,
+                "22": 29,
+                "24": 2,
+                "7": 2,
+                "8": 2,
+                "9": 64
+            }
+        },
+        "school_name": "ENGİN ÖZMERİÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2377,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48366_cb_1093865137_1684081559521368702.jpg",
+            "submission_id": 189943,
+            "total_vote": 302,
+            "votes": {
+                "1": 86,
+                "3": 204,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5ac3a313-ce0d-4346-b724-7f8f475e03e3-1684105441603521412.jpeg",
+            "submission_id": 640077,
+            "total_vote": 301,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 10,
+                "12": 20,
+                "13": 18,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 121,
+                "22": 38,
+                "23": 1,
+                "24": 8,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 75
+            }
+        },
+        "school_name": "ENGİN ÖZMERİÇ İLKOKULU"
+    }
+]

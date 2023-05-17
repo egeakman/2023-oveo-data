@@ -1,0 +1,346 @@
+[
+    {
+        "ballot_box_number": 1041,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67682_cb_1093796879_1684085270431986107.jpg",
+            "submission_id": 261883,
+            "total_vote": 343,
+            "votes": {
+                "1": 105,
+                "2": 3,
+                "3": 197,
+                "4": 38
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/67682_bulk_999999999_1684088419104831023.jpeg",
+            "submission_id": 365031,
+            "total_vote": 333,
+            "votes": {
+                "10": 1,
+                "11": 26,
+                "12": 10,
+                "13": 20,
+                "17": 1,
+                "21": 111,
+                "22": 65,
+                "24": 13,
+                "5": 3,
+                "7": 6,
+                "9": 77
+            }
+        },
+        "school_name": "BAHÇELİEVLER MAH. ALİ RIZA EROĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1044,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67682_cb_1093796882_1684087873299951227.jpg",
+            "submission_id": 347773,
+            "total_vote": 351,
+            "votes": {
+                "1": 105,
+                "2": 2,
+                "3": 220,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67682_mv_1083796882_1684088648424581938.jpg",
+            "submission_id": 372137,
+            "total_vote": 339,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 20,
+                "12": 13,
+                "13": 7,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 141,
+                "22": 59,
+                "23": 2,
+                "24": 4,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 84
+            }
+        },
+        "school_name": "BAHÇELİEVLER MAH. ALİ RIZA EROĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1042,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26482_cb_1093796880_1684080133296347463.jpg",
+            "submission_id": 179939,
+            "total_vote": 334,
+            "votes": {
+                "1": 94,
+                "2": 2,
+                "3": 215,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/67682_bulk_999999999_1684088378706816615.jpeg",
+            "submission_id": 363720,
+            "total_vote": 331,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 21,
+                "12": 3,
+                "13": 16,
+                "14": 1,
+                "15": 1,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 135,
+                "22": 70,
+                "23": 0,
+                "24": 12,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 0,
+                "9": 63
+            }
+        },
+        "school_name": "BAHÇELİEVLER MAH. ALİ RIZA EROĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1045,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/69350_bulk_999999999_1684083359183131497.jpg",
+            "submission_id": 215071,
+            "total_vote": 344,
+            "votes": {
+                "1": 105,
+                "2": 3,
+                "3": 212,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/67682_bulk_999999999_1684089462462827734.jpeg",
+            "submission_id": 395194,
+            "total_vote": 339,
+            "votes": {
+                "1": 1,
+                "10": 7,
+                "11": 21,
+                "12": 2,
+                "13": 17,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 150,
+                "22": 49,
+                "23": 3,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 8,
+                "8": 1,
+                "9": 74
+            }
+        },
+        "school_name": "BAHÇELİEVLER MAH. ALİ RIZA EROĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1040,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67682_cb_1093796878_1684084270773781141.jpg",
+            "submission_id": 234803,
+            "total_vote": 349,
+            "votes": {
+                "1": 119,
+                "2": 2,
+                "3": 204,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67682_mv_1083796878_1684089075869279217.jpg",
+            "submission_id": 384652,
+            "total_vote": 342,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 36,
+                "12": 6,
+                "13": 11,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 126,
+                "22": 60,
+                "23": 0,
+                "24": 3,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 9,
+                "8": 1,
+                "9": 84
+            }
+        },
+        "school_name": "BAHÇELİEVLER MAH. ALİ RIZA EROĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1043,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/67682_bulk_999999999_1684091363787092410.jpeg",
+            "submission_id": 438916,
+            "total_vote": 336,
+            "votes": {
+                "1": 113,
+                "2": 3,
+                "3": 204,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/67682_bulk_999999999_1684094518153407715.jpeg",
+            "submission_id": 492902,
+            "total_vote": 323,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 22,
+                "12": 1,
+                "13": 55,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 3,
+                "2": 0,
+                "20": 0,
+                "21": 121,
+                "22": 78,
+                "23": 2,
+                "24": 7,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 5,
+                "8": 2,
+                "9": 18
+            }
+        },
+        "school_name": "BAHÇELİEVLER MAH. ALİ RIZA EROĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1039,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67682_cb_1093796877_1684085127020747287.jpg",
+            "submission_id": 257686,
+            "total_vote": 326,
+            "votes": {
+                "1": 100,
+                "3": 217,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/67682_bulk_999999999_1684088351467753912.jpeg",
+            "submission_id": 362851,
+            "total_vote": 324,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 22,
+                "12": 2,
+                "13": 13,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 160,
+                "22": 39,
+                "23": 2,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 2,
+                "9": 70
+            }
+        },
+        "school_name": "BAHÇELİEVLER MAH. ALİ RIZA EROĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1038,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67682_cb_1093796876_1684087755831521788.jpg",
+            "submission_id": 344197,
+            "total_vote": 312,
+            "votes": {
+                "1": 102,
+                "2": 2,
+                "3": 201,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/67682_bulk_999999999_1684089611345151769.png",
+            "submission_id": 399367,
+            "total_vote": 303,
+            "votes": {
+                "10": 6,
+                "11": 15,
+                "12": 4,
+                "13": 9,
+                "14": 1,
+                "19": 4,
+                "21": 137,
+                "22": 45,
+                "23": 1,
+                "24": 5,
+                "6": 1,
+                "7": 3,
+                "8": 2,
+                "9": 70
+            }
+        },
+        "school_name": "BAHÇELİEVLER MAH. ALİ RIZA EROĞLU İLKOKULU"
+    }
+]

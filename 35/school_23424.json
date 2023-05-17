@@ -1,0 +1,47 @@
+[
+    {
+        "ballot_box_number": 1030,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20822_bulk_999999999_1684080635815517149.jpg",
+            "submission_id": 182827,
+            "total_vote": 215,
+            "votes": {
+                "1": 82,
+                "3": 126,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20822_bulk_999999999_1684081451535138453.jpg",
+            "submission_id": 188946,
+            "total_vote": 210,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 18,
+                "12": 9,
+                "13": 0,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 91,
+                "22": 24,
+                "23": 1,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 0,
+                "9": 57
+            }
+        },
+        "school_name": "KÜÇÜKKAYA KAHVEHANESİ"
+    }
+]

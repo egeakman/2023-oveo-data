@@ -1,0 +1,440 @@
+[
+    {
+        "ballot_box_number": 1086,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/66085_cb_1093572704_1684085881580163827.jpg",
+            "submission_id": 281230,
+            "total_vote": 327,
+            "votes": {
+                "1": 152,
+                "2": 1,
+                "3": 148,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/66085_mv_1083572704_1684085913961570980.jpg",
+            "submission_id": 282238,
+            "total_vote": 327,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 21,
+                "12": 50,
+                "13": 8,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 67,
+                "22": 21,
+                "23": 0,
+                "24": 10,
+                "3": 3,
+                "4": 0,
+                "5": 0,
+                "6": 4,
+                "7": 4,
+                "8": 2,
+                "9": 130
+            }
+        },
+        "school_name": "BATIÇİM İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1094,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/66085_cb_1093572712_1684084016234824569.jpg",
+            "submission_id": 228466,
+            "total_vote": 330,
+            "votes": {
+                "1": 151,
+                "3": 158,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "BATIÇİM İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1088,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/66085_cb_1093572706_1684086459001072355.jpg",
+            "submission_id": 300012,
+            "total_vote": 337,
+            "votes": {
+                "1": 152,
+                "2": 6,
+                "3": 153,
+                "4": 26
+            }
+        },
+        "mv_result": null,
+        "school_name": "BATIÇİM İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1092,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/66085_cb_1093572710_1684088661225997829.jpg",
+            "submission_id": 372531,
+            "total_vote": 309,
+            "votes": {
+                "1": 153,
+                "3": 142,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/66085_mv_1083572710_1684088470314496457.jpg",
+            "submission_id": 366571,
+            "total_vote": 310,
+            "votes": {
+                "1": 1,
+                "10": 9,
+                "11": 31,
+                "12": 58,
+                "13": 8,
+                "14": 2,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 74,
+                "22": 8,
+                "23": 1,
+                "24": 6,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 1,
+                "9": 107
+            }
+        },
+        "school_name": "BATIÇİM İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1083,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/66085_cb_1093572701_1684086100120553047.jpg",
+            "submission_id": 288162,
+            "total_vote": 301,
+            "votes": {
+                "1": 158,
+                "2": 2,
+                "3": 126,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "BATIÇİM İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1089,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/66085_cb_1093572707_1684086422133446834.jpg",
+            "submission_id": 298752,
+            "total_vote": 329,
+            "votes": {
+                "1": 157,
+                "3": 153,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/66085_mv_1083572707_1684087767894845730.jpg",
+            "submission_id": 344592,
+            "total_vote": 339,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 29,
+                "12": 55,
+                "13": 3,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 79,
+                "22": 26,
+                "23": 3,
+                "24": 13,
+                "3": 0,
+                "4": 0,
+                "5": 4,
+                "6": 0,
+                "7": 2,
+                "8": 5,
+                "9": 114
+            }
+        },
+        "school_name": "BATIÇİM İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1093,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/66085_cb_1093572711_1684083748265498451.jpg",
+            "submission_id": 222864,
+            "total_vote": 335,
+            "votes": {
+                "1": 160,
+                "2": 0,
+                "3": 154,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/66085_mv_1083572711_1684083788893845244.jpg",
+            "submission_id": 223767,
+            "total_vote": 327,
+            "votes": {
+                "1": 1,
+                "10": 8,
+                "11": 26,
+                "12": 61,
+                "13": 6,
+                "15": 1,
+                "21": 66,
+                "22": 18,
+                "23": 4,
+                "24": 4,
+                "5": 2,
+                "6": 1,
+                "7": 3,
+                "8": 3,
+                "9": 123
+            }
+        },
+        "school_name": "BATIÇİM İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1084,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/66085_cb_1093572702_1684085959166091967.jpg",
+            "submission_id": 283682,
+            "total_vote": 307,
+            "votes": {
+                "1": 121,
+                "2": 5,
+                "3": 161,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/66085_mv_1083572702_1684086049250664066.jpg",
+            "submission_id": 286559,
+            "total_vote": 301,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 36,
+                "12": 45,
+                "13": 5,
+                "14": 0,
+                "15": 1,
+                "16": 1,
+                "17": 1,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 94,
+                "22": 15,
+                "23": 0,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "6": 1,
+                "7": 3,
+                "8": 2,
+                "9": 80
+            }
+        },
+        "school_name": "BATIÇİM İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1095,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/66085_bulk_999999999_1684084217567081893.jpg",
+            "submission_id": 233325,
+            "total_vote": 340,
+            "votes": {
+                "1": 147,
+                "2": 1,
+                "3": 171,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "BATIÇİM İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1096,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/66085_cb_1093572714_1684087541092154142.jpg",
+            "submission_id": 337210,
+            "total_vote": 335,
+            "votes": {
+                "1": 157,
+                "2": 2,
+                "3": 138,
+                "4": 38
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/66085_cb_1093572714_1684087584155274960.jpg",
+            "submission_id": 338607,
+            "total_vote": 329,
+            "votes": {
+                "1": 0,
+                "11": 40,
+                "12": 31,
+                "13": 9,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 79,
+                "22": 20,
+                "23": 0,
+                "24": 22,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 5,
+                "8": 5,
+                "9": 116
+            }
+        },
+        "school_name": "BATIÇİM İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1087,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/66085_cb_1093572705_1684086273350462623.jpg",
+            "submission_id": 293858,
+            "total_vote": 332,
+            "votes": {
+                "1": 170,
+                "2": 1,
+                "3": 141,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "BATIÇİM İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1090,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/66085_cb_1093572708_1684087245592415043.jpg",
+            "submission_id": 327527,
+            "total_vote": 333,
+            "votes": {
+                "1": 172,
+                "2": 2,
+                "3": 146,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/66085_mv_1083572708_1684087286368042256.jpg",
+            "submission_id": 328973,
+            "total_vote": 322,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 34,
+                "12": 68,
+                "13": 1,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 0,
+                "21": 61,
+                "22": 19,
+                "23": 1,
+                "24": 2,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 3,
+                "9": 119
+            }
+        },
+        "school_name": "BATIÇİM İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1091,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/66085_cb_1093572709_1684085635103355636.jpg",
+            "submission_id": 272911,
+            "total_vote": 339,
+            "votes": {
+                "1": 172,
+                "2": 2,
+                "3": 143,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "BATIÇİM İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1085,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/66085_cb_1093572703_1684083868625988939.jpg",
+            "submission_id": 225487,
+            "total_vote": 328,
+            "votes": {
+                "1": 178,
+                "2": 2,
+                "3": 136,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/66085_mv_1083572703_1684086214524374489.jpg",
+            "submission_id": 291904,
+            "total_vote": 324,
+            "votes": {
+                "10": 10,
+                "11": 30,
+                "12": 51,
+                "13": 6,
+                "18": 1,
+                "21": 59,
+                "22": 24,
+                "23": 2,
+                "24": 8,
+                "7": 3,
+                "8": 2,
+                "9": 128
+            }
+        },
+        "school_name": "BATIÇİM İLKOKULU B BLOK"
+    }
+]

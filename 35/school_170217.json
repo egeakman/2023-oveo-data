@@ -1,0 +1,137 @@
+[
+    {
+        "ballot_box_number": 1016,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28678_cb_1093570531_1684085309208203702.jpg",
+            "submission_id": 263076,
+            "total_vote": 300,
+            "votes": {
+                "1": 81,
+                "2": 1,
+                "3": 210,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/18211_bulk_999999999_1684085756727183833.jpg",
+            "submission_id": 276957,
+            "total_vote": 295,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 11,
+                "12": 21,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 2,
+                "20": 1,
+                "21": 150,
+                "22": 25,
+                "23": 1,
+                "24": 5,
+                "3": 8,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 0,
+                "8": 2,
+                "9": 64
+            }
+        },
+        "school_name": "KARABURUN ORTAOKUL"
+    },
+    {
+        "ballot_box_number": 1017,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28678_cb_1093570532_1684081156227569857.jpg",
+            "submission_id": 186519,
+            "total_vote": 316,
+            "votes": {
+                "1": 106,
+                "2": 2,
+                "3": 191,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28678_mv_1083570532_1684087246107922390.jpg",
+            "submission_id": 327541,
+            "total_vote": 302,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 15,
+                "12": 25,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 1,
+                "21": 131,
+                "22": 22,
+                "23": 0,
+                "24": 8,
+                "3": 1,
+                "4": 1,
+                "5": 1,
+                "6": 1,
+                "7": 4,
+                "8": 1,
+                "9": 84
+            }
+        },
+        "school_name": "KARABURUN ORTAOKUL"
+    },
+    {
+        "ballot_box_number": 1018,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28678_cb_1093570533_1684084143798145832.jpg",
+            "submission_id": 231374,
+            "total_vote": 308,
+            "votes": {
+                "1": 79,
+                "2": 1,
+                "3": 205,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/51b7e9d5-2147-4479-8476-d0b6b67ccfd7-1684106299929876641.jpg",
+            "submission_id": 768204,
+            "total_vote": 305,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 12,
+                "12": 28,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 5,
+                "2": 0,
+                "20": 0,
+                "21": 143,
+                "22": 29,
+                "23": 0,
+                "24": 11,
+                "3": 6,
+                "4": 2,
+                "5": 0,
+                "6": 2,
+                "7": 1,
+                "8": 0,
+                "9": 62
+            }
+        },
+        "school_name": "KARABURUN ORTAOKUL"
+    }
+]

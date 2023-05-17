@@ -1,0 +1,288 @@
+[
+    {
+        "ballot_box_number": 1131,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/edf552a7-806c-4c43-a059-29aafdc92885-1684106582737120638.jpg",
+            "submission_id": 809253,
+            "total_vote": 342,
+            "votes": {
+                "1": 84,
+                "2": 2,
+                "3": 224,
+                "4": 32
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3dbca497-5749-457d-8b5d-c63d0bebddb6-1684106377239541842.jpg",
+            "submission_id": 779027,
+            "total_vote": 338,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 31,
+                "12": 20,
+                "13": 31,
+                "21": 113,
+                "22": 50,
+                "23": 1,
+                "24": 15,
+                "3": 1,
+                "6": 1,
+                "7": 9,
+                "9": 61
+            }
+        },
+        "school_name": "TOKİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1130,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8d3ba943-d384-430c-a49f-4b7dd11cc5cf-1684106501675529173.jpg",
+            "submission_id": 797564,
+            "total_vote": 347,
+            "votes": {
+                "1": 122,
+                "2": 1,
+                "3": 191,
+                "4": 33
+            }
+        },
+        "mv_result": null,
+        "school_name": "TOKİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1134,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/95ba8588-e0f9-4797-89ad-ec73ea46294f-1684106167027525782.jpg",
+            "submission_id": 748189,
+            "total_vote": 360,
+            "votes": {
+                "1": 116,
+                "2": 2,
+                "3": 212,
+                "4": 30
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/99c2e065-5158-4d83-b711-76847ed85f53-1684105792825526636.jpg",
+            "submission_id": 696479,
+            "total_vote": 351,
+            "votes": {
+                "10": 3,
+                "11": 28,
+                "12": 13,
+                "13": 25,
+                "15": 2,
+                "21": 127,
+                "22": 40,
+                "23": 1,
+                "24": 16,
+                "5": 1,
+                "6": 2,
+                "7": 5,
+                "8": 4,
+                "9": 84
+            }
+        },
+        "school_name": "TOKİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1127,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9ca80c2d-a91b-4055-a4c7-a903fb01064d-1684106180784161808.jpg",
+            "submission_id": 750066,
+            "total_vote": 338,
+            "votes": {
+                "1": 113,
+                "2": 2,
+                "3": 199,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/27dfd70f-614e-4b5b-9da6-c1ca5a1027b0-1684106166799893253.jpg",
+            "submission_id": 747711,
+            "total_vote": 328,
+            "votes": {
+                "10": 4,
+                "11": 29,
+                "12": 15,
+                "13": 24,
+                "14": 1,
+                "17": 2,
+                "19": 1,
+                "21": 114,
+                "22": 42,
+                "24": 11,
+                "5": 1,
+                "6": 1,
+                "7": 4,
+                "8": 2,
+                "9": 77
+            }
+        },
+        "school_name": "TOKİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1132,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/b8836c21-5920-47ff-a7b0-33f679e7805a-1684105594350535755.jpg",
+            "submission_id": 664183,
+            "total_vote": 340,
+            "votes": {
+                "1": 100,
+                "2": 2,
+                "3": 206,
+                "4": 32
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20711_mv_1083575066_1684112132086106957.jpeg",
+            "submission_id": 1010100,
+            "total_vote": 341,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 41,
+                "12": 10,
+                "13": 25,
+                "14": 2,
+                "15": 0,
+                "2": 0,
+                "20": 0,
+                "21": 118,
+                "22": 59,
+                "24": 20,
+                "3": 1,
+                "4": 2,
+                "5": 0,
+                "6": 3,
+                "7": 1,
+                "8": 2,
+                "9": 55
+            }
+        },
+        "school_name": "TOKİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1129,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/711f0e40-44db-435c-a59a-d6ab053d303c-1684106205177628949.jpg",
+            "submission_id": 754355,
+            "total_vote": 356,
+            "votes": {
+                "1": 101,
+                "2": 1,
+                "3": 230,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c363bb74-6199-4f61-b989-751d5ce8f717-1684106391634548907.jpg",
+            "submission_id": 781070,
+            "total_vote": 348,
+            "votes": {
+                "10": 4,
+                "11": 37,
+                "12": 8,
+                "13": 19,
+                "14": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 155,
+                "22": 43,
+                "23": 2,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 6,
+                "8": 0,
+                "9": 59
+            }
+        },
+        "school_name": "TOKİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1128,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/63305_bulk_999999999_1684083396835022599.jpeg",
+            "submission_id": 215834,
+            "total_vote": 355,
+            "votes": {
+                "1": 121,
+                "2": 1,
+                "3": 205,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/63305_bulk_999999999_1684094268697098159.jpeg",
+            "submission_id": 489992,
+            "total_vote": 349,
+            "votes": {
+                "1": 0,
+                "10": 12,
+                "11": 40,
+                "12": 11,
+                "13": 18,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 130,
+                "22": 46,
+                "23": 1,
+                "24": 13,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 2,
+                "9": 69
+            }
+        },
+        "school_name": "TOKİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1133,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20733_cb_1093575067_1684089308497507244.jpg",
+            "submission_id": 391072,
+            "total_vote": 352,
+            "votes": {
+                "1": 100,
+                "2": 1,
+                "3": 225,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20733_mv_1083575067_1684091510907081057.jpg",
+            "submission_id": 441350,
+            "total_vote": 342,
+            "votes": {
+                "10": 4,
+                "11": 34,
+                "12": 7,
+                "13": 23,
+                "19": 1,
+                "20": 1,
+                "21": 135,
+                "22": 59,
+                "24": 19,
+                "5": 1,
+                "7": 4,
+                "9": 54
+            }
+        },
+        "school_name": "TOKİ İLKOKULU"
+    }
+]

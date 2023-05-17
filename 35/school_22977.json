@@ -1,0 +1,159 @@
+[
+    {
+        "ballot_box_number": 2179,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/71dc4df6-e819-4f6d-8f75-6a980769564a-1684105213907278759.jpg",
+            "submission_id": 595480,
+            "total_vote": 265,
+            "votes": {
+                "1": 97,
+                "2": 1,
+                "3": 152,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "ALİ FUAT CEBESOY ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2181,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/41752_bulk_999999999_1684086380469049872.jpeg",
+            "submission_id": 297380,
+            "total_vote": 255,
+            "votes": {
+                "1": 100,
+                "2": 4,
+                "3": 146,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/41752_bulk_999999999_1684086380305378325.jpeg",
+            "submission_id": 297362,
+            "total_vote": 294,
+            "votes": {
+                "1": 21,
+                "10": 0,
+                "11": 14,
+                "12": 10,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 104,
+                "22": 30,
+                "23": 0,
+                "24": 1,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 24,
+                "7": 1,
+                "8": 1,
+                "9": 87
+            }
+        },
+        "school_name": "ALİ FUAT CEBESOY ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2178,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/41752_bulk_999999999_1684086451966103817.jpeg",
+            "submission_id": 299765,
+            "total_vote": 255,
+            "votes": {
+                "1": 97,
+                "2": 2,
+                "3": 149,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "ALİ FUAT CEBESOY ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2182,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/41752_bulk_999999999_1684077988952551048.jpeg",
+            "submission_id": 173860,
+            "total_vote": 275,
+            "votes": {
+                "1": 132,
+                "2": 3,
+                "3": 126,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a9d367fe-0843-4e80-85b2-a5fb69798e2f-1684106049740568770.jpg",
+            "submission_id": 731317,
+            "total_vote": 274,
+            "votes": {
+                "10": 1,
+                "11": 13,
+                "12": 16,
+                "14": 1,
+                "15": 0,
+                "20": 32,
+                "21": 89,
+                "24": 6,
+                "3": 2,
+                "6": 4,
+                "7": 2,
+                "8": 3,
+                "9": 105
+            }
+        },
+        "school_name": "ALİ FUAT CEBESOY ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2180,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/cccd6a0a-0035-44d8-ad12-80283390c5bb-1684105321718795363.jpg",
+            "submission_id": 617470,
+            "total_vote": 300,
+            "votes": {
+                "1": 118,
+                "2": 3,
+                "3": 167,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/602a4886-c144-4155-b932-a0bb7ae705c0-1684105326646628493.jpg",
+            "submission_id": 618453,
+            "total_vote": 299,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 9,
+                "12": 31,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 115,
+                "22": 20,
+                "23": 1,
+                "24": 4,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 4,
+                "7": 4,
+                "8": 0,
+                "9": 105
+            }
+        },
+        "school_name": "ALİ FUAT CEBESOY ORTAOKULU"
+    }
+]

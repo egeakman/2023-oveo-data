@@ -1,0 +1,299 @@
+[
+    {
+        "ballot_box_number": 1106,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/34966_cb_1093859933_1684087362588644481.jpg",
+            "submission_id": 331438,
+            "total_vote": 351,
+            "votes": {
+                "1": 36,
+                "2": 2,
+                "3": 305,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9f8a29c2-0300-4aa6-bdec-fbe674d613ef-1684105811149261096.jpg",
+            "submission_id": 699663,
+            "total_vote": 351,
+            "votes": {
+                "11": 4,
+                "12": 18,
+                "21": 221,
+                "22": 62,
+                "23": 1,
+                "24": 5,
+                "3": 2,
+                "6": 2,
+                "7": 2,
+                "8": 1,
+                "9": 33
+            }
+        },
+        "school_name": "ÖZEL TÜRK KOLEJİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1111,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18501_cb_1093860158_1684091224670219357.jpg",
+            "submission_id": 436338,
+            "total_vote": 345,
+            "votes": {
+                "1": 40,
+                "2": 0,
+                "3": 296,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18501_cb_1093860158_1684091192390033563.jpg",
+            "submission_id": 435698,
+            "total_vote": 346,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 5,
+                "12": 10,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 226,
+                "22": 57,
+                "23": 0,
+                "24": 6,
+                "3": 4,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 2,
+                "9": 32
+            }
+        },
+        "school_name": "ÖZEL TÜRK KOLEJİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1103,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12413_cb_1093859930_1684089899589681825.jpg",
+            "submission_id": 407131,
+            "total_vote": 318,
+            "votes": {
+                "1": 52,
+                "2": 3,
+                "3": 262,
+                "4": 1
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12413_mv_1083859930_1684090004558175907.jpg",
+            "submission_id": 409878,
+            "total_vote": 315,
+            "votes": {
+                "1": 1,
+                "11": 12,
+                "12": 5,
+                "19": 3,
+                "21": 229,
+                "22": 22,
+                "3": 1,
+                "7": 4,
+                "8": 1,
+                "9": 37
+            }
+        },
+        "school_name": "ÖZEL TÜRK KOLEJİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1108,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21986_cb_1093860155_1684094190495519067.jpg",
+            "submission_id": 489022,
+            "total_vote": 341,
+            "votes": {
+                "1": 57,
+                "2": 2,
+                "3": 276,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21986_mv_1083860155_1684094365646653564.jpg",
+            "submission_id": 491119,
+            "total_vote": 340,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 12,
+                "12": 8,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 5,
+                "21": 212,
+                "22": 50,
+                "23": 1,
+                "24": 4,
+                "3": 3,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 3,
+                "9": 38
+            }
+        },
+        "school_name": "ÖZEL TÜRK KOLEJİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1107,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21235_cb_1093859934_1684089697395711360.jpg",
+            "submission_id": 401705,
+            "total_vote": 350,
+            "votes": {
+                "1": 48,
+                "2": 1,
+                "3": 297,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2d0b6df8-14e1-4f2d-9d57-8fff3a6b217a-1684105278194856500.jpg",
+            "submission_id": 610099,
+            "total_vote": 348,
+            "votes": {
+                "10": 4,
+                "11": 6,
+                "12": 13,
+                "19": 1,
+                "21": 242,
+                "22": 40,
+                "24": 4,
+                "6": 1,
+                "7": 1,
+                "9": 36
+            }
+        },
+        "school_name": "ÖZEL TÜRK KOLEJİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1109,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/34158_cb_1093860156_1684089106524290012.jpg",
+            "submission_id": 385524,
+            "total_vote": 349,
+            "votes": {
+                "1": 32,
+                "2": 0,
+                "3": 307,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÖZEL TÜRK KOLEJİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1105,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21986_cb_1093859932_1684093021615864737.jpg",
+            "submission_id": 464215,
+            "total_vote": 341,
+            "votes": {
+                "1": 48,
+                "2": 0,
+                "3": 290,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4ebf5842-7c58-4575-9414-dd0c5962b1a6-1684105124344724883.jpg",
+            "submission_id": 577904,
+            "total_vote": 339,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 3,
+                "12": 8,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 223,
+                "22": 50,
+                "23": 0,
+                "24": 4,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 3,
+                "9": 42
+            }
+        },
+        "school_name": "ÖZEL TÜRK KOLEJİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1104,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21986_cb_1093859931_1684094471225078569.jpg",
+            "submission_id": 492364,
+            "total_vote": 317,
+            "votes": {
+                "1": 30,
+                "2": 0,
+                "3": 282,
+                "4": 5
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÖZEL TÜRK KOLEJİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1110,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21986_cb_1093860157_1684094270860953164.jpg",
+            "submission_id": 490022,
+            "total_vote": 347,
+            "votes": {
+                "1": 44,
+                "2": 2,
+                "3": 291,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21986_mv_1083860157_1684094310153892132.jpg",
+            "submission_id": 490467,
+            "total_vote": 343,
+            "votes": {
+                "11": 6,
+                "12": 6,
+                "14": 2,
+                "19": 2,
+                "21": 222,
+                "22": 55,
+                "24": 10,
+                "4": 3,
+                "6": 1,
+                "7": 3,
+                "9": 33
+            }
+        },
+        "school_name": "ÖZEL TÜRK KOLEJİ ANADOLU LİSESİ"
+    }
+]

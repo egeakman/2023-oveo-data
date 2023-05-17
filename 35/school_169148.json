@@ -1,0 +1,399 @@
+[
+    {
+        "ballot_box_number": 1002,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48605_cb_1093568276_1684080573944342901.jpg",
+            "submission_id": 182470,
+            "total_vote": 327,
+            "votes": {
+                "1": 144,
+                "2": 0,
+                "3": 171,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48605_mv_1083568276_1684082935192320106.jpg",
+            "submission_id": 207667,
+            "total_vote": 320,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 23,
+                "12": 46,
+                "13": 0,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 92,
+                "22": 24,
+                "23": 2,
+                "24": 6,
+                "3": 2,
+                "4": 1,
+                "5": 1,
+                "6": 3,
+                "7": 2,
+                "8": 0,
+                "9": 114
+            }
+        },
+        "school_name": "EMREZ MAH ANAFARTALAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1010,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/10102_bulk_999999999_1684090490367289956.jpg",
+            "submission_id": 421149,
+            "total_vote": 319,
+            "votes": {
+                "1": 149,
+                "2": 2,
+                "3": 151,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/10102_bulk_999999999_1684090297364497812.jpg",
+            "submission_id": 416843,
+            "total_vote": 312,
+            "votes": {
+                "10": 7,
+                "11": 28,
+                "12": 45,
+                "21": 88,
+                "22": 16,
+                "23": 1,
+                "24": 7,
+                "3": 2,
+                "5": 3,
+                "7": 5,
+                "8": 2,
+                "9": 108
+            }
+        },
+        "school_name": "EMREZ MAH ANAFARTALAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1012,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10102_cb_1093568286_1684085378219086897.jpg",
+            "submission_id": 265037,
+            "total_vote": 327,
+            "votes": {
+                "1": 114,
+                "2": 0,
+                "3": 190,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "EMREZ MAH ANAFARTALAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1007,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/69177_cb_1093568281_1684085250667847186.jpg",
+            "submission_id": 261318,
+            "total_vote": 318,
+            "votes": {
+                "1": 139,
+                "2": 1,
+                "3": 159,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/69177_mv_1083568281_1684085291834286081.jpg",
+            "submission_id": 262504,
+            "total_vote": 318,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 37,
+                "12": 58,
+                "15": 1,
+                "21": 75,
+                "22": 19,
+                "23": 1,
+                "24": 11,
+                "3": 1,
+                "5": 1,
+                "6": 9,
+                "7": 3,
+                "8": 2,
+                "9": 94
+            }
+        },
+        "school_name": "EMREZ MAH ANAFARTALAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1003,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/66084_cb_1093568277_1684086176461136938.jpg",
+            "submission_id": 290684,
+            "total_vote": 320,
+            "votes": {
+                "1": 147,
+                "2": 1,
+                "3": 141,
+                "4": 31
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/66084_mv_1083568277_1684088206442418851.jpg",
+            "submission_id": 358439,
+            "total_vote": 314,
+            "votes": {
+                "10": 2,
+                "11": 38,
+                "12": 41,
+                "14": 2,
+                "21": 76,
+                "22": 33,
+                "23": 1,
+                "24": 11,
+                "3": 1,
+                "6": 2,
+                "7": 2,
+                "8": 4,
+                "9": 101
+            }
+        },
+        "school_name": "EMREZ MAH ANAFARTALAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1011,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/70778_mv_1083568285_1684088597512907599.jpg",
+            "submission_id": 370552,
+            "total_vote": 327,
+            "votes": {
+                "1": 139,
+                "2": 2,
+                "3": 166,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "EMREZ MAH ANAFARTALAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1006,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/10102_bulk_999999999_1684090620559498884.jpg",
+            "submission_id": 424000,
+            "total_vote": 332,
+            "votes": {
+                "1": 137,
+                "2": 2,
+                "3": 185,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5ec358ec-9fe6-4171-9487-2a12e455a4b0-1684105159439187133.jpeg",
+            "submission_id": 586238,
+            "total_vote": 320,
+            "votes": {
+                "10": 2,
+                "11": 27,
+                "12": 64,
+                "21": 92,
+                "22": 22,
+                "24": 6,
+                "3": 2,
+                "5": 1,
+                "6": 2,
+                "7": 2,
+                "8": 1,
+                "9": 99
+            }
+        },
+        "school_name": "EMREZ MAH ANAFARTALAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1013,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10102_cb_1093568287_1684084490583910853.jpg",
+            "submission_id": 240302,
+            "total_vote": 320,
+            "votes": {
+                "1": 150,
+                "2": 2,
+                "3": 156,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "EMREZ MAH ANAFARTALAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1001,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48605_cb_1093568275_1684082995151066629.jpg",
+            "submission_id": 208637,
+            "total_vote": 319,
+            "votes": {
+                "1": 119,
+                "2": 1,
+                "3": 183,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10102_mv_1083568275_1684082518640831565.jpg",
+            "submission_id": 201228,
+            "total_vote": 309,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 21,
+                "12": 40,
+                "13": 0,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 2,
+                "21": 105,
+                "22": 34,
+                "23": 1,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 3,
+                "7": 1,
+                "8": 2,
+                "9": 87
+            }
+        },
+        "school_name": "EMREZ MAH ANAFARTALAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1008,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/69177_cb_1093568282_1684087055928789439.jpg",
+            "submission_id": 320923,
+            "total_vote": 332,
+            "votes": {
+                "1": 169,
+                "3": 152,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/10102_bulk_999999999_1684091145705953145.jpg",
+            "submission_id": 434803,
+            "total_vote": 323,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 31,
+                "12": 43,
+                "21": 78,
+                "22": 22,
+                "23": 1,
+                "24": 6,
+                "3": 1,
+                "5": 3,
+                "6": 1,
+                "7": 9,
+                "8": 1,
+                "9": 124
+            }
+        },
+        "school_name": "EMREZ MAH ANAFARTALAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1009,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48789_cb_1093568283_1684084092711022499.jpg",
+            "submission_id": 230205,
+            "total_vote": 342,
+            "votes": {
+                "1": 158,
+                "3": 158,
+                "4": 26
+            }
+        },
+        "mv_result": null,
+        "school_name": "EMREZ MAH ANAFARTALAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1004,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/34548_cb_1093568278_1684082744586955631.jpg",
+            "submission_id": 204555,
+            "total_vote": 329,
+            "votes": {
+                "1": 142,
+                "2": 1,
+                "3": 162,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/34548_mv_1083568278_1684082765766847368.jpg",
+            "submission_id": 204873,
+            "total_vote": 324,
+            "votes": {
+                "10": 6,
+                "11": 31,
+                "12": 44,
+                "21": 90,
+                "22": 34,
+                "24": 8,
+                "3": 2,
+                "7": 1,
+                "9": 108
+            }
+        },
+        "school_name": "EMREZ MAH ANAFARTALAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1005,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source1-secim-images.oyveotesi.org/raw/1002308_cb_3568279_1684080076.jpeg",
+            "submission_id": 179656,
+            "total_vote": 338,
+            "votes": {
+                "1": 161,
+                "2": 2,
+                "3": 155,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10102_mv_1083568279_1684087324039878248.jpg",
+            "submission_id": 330170,
+            "total_vote": 330,
+            "votes": {
+                "10": 2,
+                "11": 24,
+                "12": 46,
+                "14": 2,
+                "20": 1,
+                "21": 79,
+                "22": 26,
+                "23": 3,
+                "24": 10,
+                "3": 2,
+                "5": 1,
+                "6": 1,
+                "7": 3,
+                "9": 130
+            }
+        },
+        "school_name": "EMREZ MAH ANAFARTALAR İLKOKULU"
+    }
+]

@@ -1,0 +1,250 @@
+[
+    {
+        "ballot_box_number": 1001,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20381_cb_1093568047_1684084399857410405.jpg",
+            "submission_id": 237975,
+            "total_vote": 281,
+            "votes": {
+                "1": 62,
+                "2": 1,
+                "3": 214,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20381_mv_1083568047_1684084519375868239.jpg",
+            "submission_id": 240976,
+            "total_vote": 274,
+            "votes": {
+                "11": 6,
+                "12": 6,
+                "14": 1,
+                "19": 1,
+                "20": 1,
+                "21": 164,
+                "22": 33,
+                "24": 4,
+                "5": 2,
+                "6": 3,
+                "7": 3,
+                "9": 50
+            }
+        },
+        "school_name": "VALİ KAZIM PAŞA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1007,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47800_cb_1093568053_1684086462138922731.jpg",
+            "submission_id": 300131,
+            "total_vote": 309,
+            "votes": {
+                "1": 108,
+                "2": 4,
+                "3": 180,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47800_mv_1083568053_1684086492400111141.jpg",
+            "submission_id": 301240,
+            "total_vote": 304,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 12,
+                "12": 18,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 3,
+                "2": 1,
+                "20": 0,
+                "21": 130,
+                "22": 36,
+                "23": 0,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 5,
+                "8": 1,
+                "9": 89
+            }
+        },
+        "school_name": "VALİ KAZIM PAŞA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1004,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20394_cb_1093568050_1684085390428415337.jpg",
+            "submission_id": 265400,
+            "total_vote": 303,
+            "votes": {
+                "1": 105,
+                "2": 5,
+                "3": 174,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20381_cb_1093568050_1684085292733378405.jpg",
+            "submission_id": 262531,
+            "total_vote": 292,
+            "votes": {
+                "10": 4,
+                "11": 16,
+                "12": 11,
+                "21": 123,
+                "22": 41,
+                "23": 2,
+                "24": 8,
+                "6": 1,
+                "7": 6,
+                "8": 1,
+                "9": 79
+            }
+        },
+        "school_name": "VALİ KAZIM PAŞA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1006,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20381_cb_1093568052_1684086157566588376.jpg",
+            "submission_id": 289984,
+            "total_vote": 298,
+            "votes": {
+                "1": 102,
+                "2": 4,
+                "3": 172,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20381_mv_1083568052_1684086118080431996.jpg",
+            "submission_id": 288742,
+            "total_vote": 291,
+            "votes": {
+                "10": 1,
+                "11": 19,
+                "12": 15,
+                "21": 131,
+                "22": 31,
+                "24": 15,
+                "5": 1,
+                "7": 3,
+                "8": 1,
+                "9": 74
+            }
+        },
+        "school_name": "VALİ KAZIM PAŞA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1003,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20383_cb_1093568049_1684084843664109726.jpg",
+            "submission_id": 249725,
+            "total_vote": 292,
+            "votes": {
+                "1": 102,
+                "2": 3,
+                "3": 174,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20383_mv_1083568049_1684084657508056540.jpg",
+            "submission_id": 244701,
+            "total_vote": 288,
+            "votes": {
+                "10": 2,
+                "11": 14,
+                "12": 18,
+                "21": 115,
+                "22": 38,
+                "23": 1,
+                "24": 5,
+                "3": 1,
+                "7": 5,
+                "8": 4,
+                "9": 85
+            }
+        },
+        "school_name": "VALİ KAZIM PAŞA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1005,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20383_cb_1093568051_1684089086506942231.jpg",
+            "submission_id": 385006,
+            "total_vote": 295,
+            "votes": {
+                "1": 88,
+                "2": 2,
+                "3": 188,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20383_mv_1083568051_1684089111435183125.jpg",
+            "submission_id": 385667,
+            "total_vote": 286,
+            "votes": {
+                "10": 1,
+                "11": 11,
+                "12": 15,
+                "15": 1,
+                "2": 1,
+                "21": 145,
+                "22": 26,
+                "24": 8,
+                "4": 1,
+                "6": 1,
+                "7": 3,
+                "8": 2,
+                "9": 71
+            }
+        },
+        "school_name": "VALİ KAZIM PAŞA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1002,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/83804_mv_1083570996_1684087436170720184.jpg",
+            "submission_id": 333840,
+            "total_vote": 288,
+            "votes": {
+                "1": 92,
+                "2": 3,
+                "3": 178,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20383_mv_1083568048_1684088321845690846.jpg",
+            "submission_id": 361950,
+            "total_vote": 279,
+            "votes": {
+                "11": 13,
+                "12": 17,
+                "15": 1,
+                "17": 1,
+                "19": 1,
+                "2": 1,
+                "20": 2,
+                "21": 125,
+                "22": 30,
+                "24": 9,
+                "3": 3,
+                "6": 2,
+                "7": 6,
+                "9": 68
+            }
+        },
+        "school_name": "VALİ KAZIM PAŞA ORTAOKULU"
+    }
+]

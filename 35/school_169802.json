@@ -1,0 +1,618 @@
+[
+    {
+        "ballot_box_number": 1283,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23301_cb_1093800417_1684088522530958746.jpg",
+            "submission_id": 368183,
+            "total_vote": 331,
+            "votes": {
+                "1": 84,
+                "2": 1,
+                "3": 228,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12261_mv_1083800417_1684089247535475055.jpg",
+            "submission_id": 389497,
+            "total_vote": 329,
+            "votes": {
+                "1": 1,
+                "10": 5,
+                "11": 11,
+                "12": 16,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "2": 0,
+                "20": 0,
+                "21": 171,
+                "22": 40,
+                "23": 1,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 7,
+                "8": 0,
+                "9": 63
+            }
+        },
+        "school_name": "KARABAĞLAR NEVVAR SALİH İŞGÖREN ANADOLU LİSESİ(M.OKTAY M.)"
+    },
+    {
+        "ballot_box_number": 1278,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/51231_cb_1093800213_1684085574838157482.jpg",
+            "submission_id": 270909,
+            "total_vote": 304,
+            "votes": {
+                "1": 85,
+                "2": 1,
+                "3": 211,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/51209_mv_1083800213_1684087168329161400.jpg",
+            "submission_id": 324917,
+            "total_vote": 294,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 9,
+                "12": 20,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 2,
+                "18": 0,
+                "19": 4,
+                "2": 0,
+                "20": 0,
+                "21": 148,
+                "22": 35,
+                "23": 1,
+                "24": 0,
+                "3": 0,
+                "4": 2,
+                "5": 4,
+                "6": 0,
+                "7": 1,
+                "8": 1,
+                "9": 65
+            }
+        },
+        "school_name": "KARABAĞLAR NEVVAR SALİH İŞGÖREN ANADOLU LİSESİ(M.OKTAY M.)"
+    },
+    {
+        "ballot_box_number": 1281,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/23301_bulk_999999999_1684087937333532843.jpg",
+            "submission_id": 349846,
+            "total_vote": 333,
+            "votes": {
+                "1": 89,
+                "2": 1,
+                "3": 226,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/23301_bulk_999999999_1684087937215879374.jpg",
+            "submission_id": 349838,
+            "total_vote": 330,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 12,
+                "12": 28,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 147,
+                "22": 52,
+                "23": 0,
+                "24": 7,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 5,
+                "8": 2,
+                "9": 69
+            }
+        },
+        "school_name": "KARABAĞLAR NEVVAR SALİH İŞGÖREN ANADOLU LİSESİ(M.OKTAY M.)"
+    },
+    {
+        "ballot_box_number": 1285,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/35181_cb_1093800419_1684085337293245403.jpg",
+            "submission_id": 263802,
+            "total_vote": 313,
+            "votes": {
+                "1": 77,
+                "2": 2,
+                "3": 220,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12261_mv_1083800419_1684086740202624203.jpg",
+            "submission_id": 309970,
+            "total_vote": 302,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 8,
+                "12": 31,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 127,
+                "22": 52,
+                "23": 0,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 6,
+                "8": 1,
+                "9": 58
+            }
+        },
+        "school_name": "KARABAĞLAR NEVVAR SALİH İŞGÖREN ANADOLU LİSESİ(M.OKTAY M.)"
+    },
+    {
+        "ballot_box_number": 1282,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/bd3d66c2-3d48-4a65-ba9e-1aee007a1148-1684105657248698355.jpeg",
+            "submission_id": 675469,
+            "total_vote": 309,
+            "votes": {
+                "1": 63,
+                "2": 3,
+                "3": 236,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12261_mv_1083800416_1684085106927758820.jpg",
+            "submission_id": 257145,
+            "total_vote": 305,
+            "votes": {
+                "10": 2,
+                "11": 9,
+                "12": 23,
+                "21": 168,
+                "22": 40,
+                "24": 4,
+                "5": 2,
+                "6": 2,
+                "7": 4,
+                "9": 51
+            }
+        },
+        "school_name": "KARABAĞLAR NEVVAR SALİH İŞGÖREN ANADOLU LİSESİ(M.OKTAY M.)"
+    },
+    {
+        "ballot_box_number": 1279,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/35181_bulk_999999999_1684093199423466312.jpeg",
+            "submission_id": 466750,
+            "total_vote": 283,
+            "votes": {
+                "1": 100,
+                "2": 2,
+                "3": 169,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/cbfabae6-0af1-44f6-bc3d-0f08a96fff1e-1684105925936030353.jpeg",
+            "submission_id": 713865,
+            "total_vote": 274,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 17,
+                "12": 10,
+                "14": 0,
+                "15": 2,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 124,
+                "22": 28,
+                "23": 1,
+                "24": 9,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 5,
+                "9": 68
+            }
+        },
+        "school_name": "KARABAĞLAR NEVVAR SALİH İŞGÖREN ANADOLU LİSESİ(M.OKTAY M.)"
+    },
+    {
+        "ballot_box_number": 1286,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12261_cb_1093800420_1684087607138023392.jpg",
+            "submission_id": 339302,
+            "total_vote": 331,
+            "votes": {
+                "1": 104,
+                "3": 216,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12261_mv_1083800420_1684087689347645172.jpg",
+            "submission_id": 342081,
+            "total_vote": 328,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 10,
+                "12": 34,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 143,
+                "22": 37,
+                "23": 1,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 0,
+                "8": 9,
+                "9": 81
+            }
+        },
+        "school_name": "KARABAĞLAR NEVVAR SALİH İŞGÖREN ANADOLU LİSESİ(M.OKTAY M.)"
+    },
+    {
+        "ballot_box_number": 1287,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/54743_cb_1093800421_1684087625857411249.jpg",
+            "submission_id": 339879,
+            "total_vote": 336,
+            "votes": {
+                "1": 95,
+                "2": 0,
+                "3": 226,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/54743_bulk_999999999_1684089268053167794.jpeg",
+            "submission_id": 390065,
+            "total_vote": 328,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 11,
+                "12": 30,
+                "13": 0,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 153,
+                "22": 31,
+                "23": 1,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 6,
+                "9": 80
+            }
+        },
+        "school_name": "KARABAĞLAR NEVVAR SALİH İŞGÖREN ANADOLU LİSESİ(M.OKTAY M.)"
+    },
+    {
+        "ballot_box_number": 1280,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/35181_cb_1093800214_1684086370468734900.jpg",
+            "submission_id": 297008,
+            "total_vote": 322,
+            "votes": {
+                "1": 72,
+                "2": 0,
+                "3": 240,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/35181_mv_1083800214_1684086297593208547.jpg",
+            "submission_id": 294647,
+            "total_vote": 321,
+            "votes": {
+                "1": 0,
+                "11": 12,
+                "12": 14,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 3,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 194,
+                "22": 36,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 3,
+                "7": 1,
+                "8": 2,
+                "9": 53
+            }
+        },
+        "school_name": "KARABAĞLAR NEVVAR SALİH İŞGÖREN ANADOLU LİSESİ(M.OKTAY M.)"
+    },
+    {
+        "ballot_box_number": 1292,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/53887_cb_1093800426_1684085162417398098.jpg",
+            "submission_id": 258727,
+            "total_vote": 328,
+            "votes": {
+                "1": 91,
+                "2": 0,
+                "3": 223,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/53887_cb_1093800426_1684085100977208097.jpg",
+            "submission_id": 257006,
+            "total_vote": 325,
+            "votes": {
+                "1": 1,
+                "10": 5,
+                "11": 9,
+                "12": 15,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 137,
+                "22": 63,
+                "23": 2,
+                "24": 11,
+                "3": 2,
+                "4": 0,
+                "5": 2,
+                "6": 1,
+                "7": 6,
+                "8": 4,
+                "9": 67
+            }
+        },
+        "school_name": "KARABAĞLAR NEVVAR SALİH İŞGÖREN ANADOLU LİSESİ(M.OKTAY M.)"
+    },
+    {
+        "ballot_box_number": 1291,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12261_cb_1093800425_1684086502969283468.jpg",
+            "submission_id": 301587,
+            "total_vote": 329,
+            "votes": {
+                "1": 91,
+                "2": 2,
+                "3": 224,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "KARABAĞLAR NEVVAR SALİH İŞGÖREN ANADOLU LİSESİ(M.OKTAY M.)"
+    },
+    {
+        "ballot_box_number": 1284,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/70493_cb_1093800418_1684081609770254123.jpg",
+            "submission_id": 190476,
+            "total_vote": 333,
+            "votes": {
+                "1": 83,
+                "2": 1,
+                "3": 228,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/70493_mv_1083800418_1684083718627127540.jpg",
+            "submission_id": 222252,
+            "total_vote": 331,
+            "votes": {
+                "1": 1,
+                "10": 6,
+                "11": 19,
+                "12": 22,
+                "14": 9,
+                "15": 0,
+                "16": 17,
+                "17": 4,
+                "18": 2,
+                "19": 9,
+                "2": 9,
+                "20": 1,
+                "21": 110,
+                "22": 45,
+                "23": 1,
+                "24": 11,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 2,
+                "9": 57
+            }
+        },
+        "school_name": "KARABAĞLAR NEVVAR SALİH İŞGÖREN ANADOLU LİSESİ(M.OKTAY M.)"
+    },
+    {
+        "ballot_box_number": 1288,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12261_cb_1093800422_1684084004427458136.jpg",
+            "submission_id": 228243,
+            "total_vote": 328,
+            "votes": {
+                "1": 81,
+                "2": 0,
+                "3": 234,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12261_mv_1083800422_1684084796372738927.jpg",
+            "submission_id": 248439,
+            "total_vote": 325,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 9,
+                "12": 13,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 174,
+                "22": 45,
+                "23": 0,
+                "24": 7,
+                "3": 2,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 3,
+                "9": 65
+            }
+        },
+        "school_name": "KARABAĞLAR NEVVAR SALİH İŞGÖREN ANADOLU LİSESİ(M.OKTAY M.)"
+    },
+    {
+        "ballot_box_number": 1289,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/73817_bulk_999999999_1684086929519719642.jpg",
+            "submission_id": 316537,
+            "total_vote": 318,
+            "votes": {
+                "1": 93,
+                "2": 0,
+                "3": 210,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/03811b0e-dec2-4956-a05b-62654413696c-1684105407801365146.jpeg",
+            "submission_id": 633465,
+            "total_vote": 316,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 18,
+                "12": 14,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 151,
+                "22": 41,
+                "23": 1,
+                "24": 6,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 5,
+                "8": 2,
+                "9": 74
+            }
+        },
+        "school_name": "KARABAĞLAR NEVVAR SALİH İŞGÖREN ANADOLU LİSESİ(M.OKTAY M.)"
+    },
+    {
+        "ballot_box_number": 1290,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12261_cb_1093800424_1684085624224405430.jpg",
+            "submission_id": 272560,
+            "total_vote": 333,
+            "votes": {
+                "1": 103,
+                "2": 2,
+                "3": 213,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12261_mv_1083800424_1684085664934649337.jpg",
+            "submission_id": 273855,
+            "total_vote": 334,
+            "votes": {
+                "10": 3,
+                "11": 21,
+                "12": 23,
+                "20": 1,
+                "21": 144,
+                "22": 48,
+                "24": 8,
+                "6": 2,
+                "7": 5,
+                "8": 4,
+                "9": 75
+            }
+        },
+        "school_name": "KARABAĞLAR NEVVAR SALİH İŞGÖREN ANADOLU LİSESİ(M.OKTAY M.)"
+    }
+]

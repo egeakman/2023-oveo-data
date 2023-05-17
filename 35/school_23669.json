@@ -1,0 +1,275 @@
+[
+    {
+        "ballot_box_number": 1272,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10079_cb_1093580919_1684087197657240348.jpg",
+            "submission_id": 325952,
+            "total_vote": 341,
+            "votes": {
+                "1": 95,
+                "2": 2,
+                "3": 227,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10079_mv_1083580919_1684087225344115678.jpg",
+            "submission_id": 326879,
+            "total_vote": 340,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 13,
+                "12": 13,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 150,
+                "22": 65,
+                "23": 0,
+                "24": 7,
+                "3": 3,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 6,
+                "8": 2,
+                "9": 73
+            }
+        },
+        "school_name": "SABİHA GÖKÇEN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1266,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10079_cb_1093580233_1684081101684295965.jpg",
+            "submission_id": 186077,
+            "total_vote": 333,
+            "votes": {
+                "1": 95,
+                "2": 0,
+                "3": 227,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10079_mv_1083580233_1684087342590593175.jpg",
+            "submission_id": 330757,
+            "total_vote": 329,
+            "votes": {
+                "10": 4,
+                "11": 20,
+                "12": 7,
+                "15": 1,
+                "20": 1,
+                "21": 148,
+                "22": 71,
+                "23": 4,
+                "24": 3,
+                "7": 5,
+                "8": 1,
+                "9": 64
+            }
+        },
+        "school_name": "SABİHA GÖKÇEN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1275,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source1-secim-images.oyveotesi.org/raw/1002587_cb_3580922_1684081734.jpeg",
+            "submission_id": 191856,
+            "total_vote": 327,
+            "votes": {
+                "1": 82,
+                "2": 1,
+                "3": 220,
+                "4": 24
+            }
+        },
+        "mv_result": null,
+        "school_name": "SABİHA GÖKÇEN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1268,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source1-secim-images.oyveotesi.org/raw/1002587_cb_3580915_1684081053.jpeg",
+            "submission_id": 185793,
+            "total_vote": 350,
+            "votes": {
+                "1": 68,
+                "2": 3,
+                "3": 262,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "SABİHA GÖKÇEN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1273,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "SABİHA GÖKÇEN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1264,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10079_cb_1093580231_1684087250018002062.jpg",
+            "submission_id": 327686,
+            "total_vote": 326,
+            "votes": {
+                "1": 58,
+                "2": 0,
+                "3": 254,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "SABİHA GÖKÇEN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1270,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21157_cb_1093580230_1684080502469920712.jpg",
+            "submission_id": 182068,
+            "total_vote": 328,
+            "votes": {
+                "1": 75,
+                "2": 3,
+                "3": 231,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10079_mv_1083580917_1684087158719586305.jpg",
+            "submission_id": 324562,
+            "total_vote": 323,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 16,
+                "12": 8,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 175,
+                "22": 50,
+                "23": 3,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 6,
+                "8": 1,
+                "9": 53
+            }
+        },
+        "school_name": "SABİHA GÖKÇEN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1274,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "SABİHA GÖKÇEN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1271,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "SABİHA GÖKÇEN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1263,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10079_cb_1093580230_1684083797127487395.jpg",
+            "submission_id": 223963,
+            "total_vote": 308,
+            "votes": {
+                "1": 73,
+                "2": 2,
+                "3": 221,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "SABİHA GÖKÇEN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1267,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/272_bulk_999999999_1684107874066755476.jpeg",
+            "submission_id": 1007012,
+            "total_vote": 322,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 12,
+                "12": 10,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 1,
+                "21": 146,
+                "22": 67,
+                "23": 0,
+                "24": 12,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 1,
+                "9": 65
+            }
+        },
+        "school_name": "SABİHA GÖKÇEN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1269,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10079_cb_1093580916_1684087089228285221.jpg",
+            "submission_id": 322162,
+            "total_vote": 340,
+            "votes": {
+                "1": 64,
+                "2": 2,
+                "3": 255,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "SABİHA GÖKÇEN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1265,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10079_cb_1093580232_1684081655610094060.jpg",
+            "submission_id": 190949,
+            "total_vote": 346,
+            "votes": {
+                "1": 85,
+                "2": 1,
+                "3": 238,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "SABİHA GÖKÇEN İLKOKULU"
+    }
+]

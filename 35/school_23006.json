@@ -1,0 +1,121 @@
+[
+    {
+        "ballot_box_number": 1167,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31510_cb_1093860881_1684081069531522115.jpg",
+            "submission_id": 185821,
+            "total_vote": 246,
+            "votes": {
+                "1": 56,
+                "3": 179,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31510_mv_1083860881_1684080992530361598.jpg",
+            "submission_id": 185252,
+            "total_vote": 244,
+            "votes": {
+                "10": 1,
+                "11": 8,
+                "12": 12,
+                "19": 1,
+                "21": 127,
+                "22": 36,
+                "24": 3,
+                "3": 1,
+                "6": 8,
+                "7": 3,
+                "8": 1,
+                "9": 43
+            }
+        },
+        "school_name": "HALİTBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1168,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31510_cb_1093860882_1684082609486768698.jpg",
+            "submission_id": 202483,
+            "total_vote": 245,
+            "votes": {
+                "1": 52,
+                "2": 1,
+                "3": 181,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48023_mv_1083860882_1684081308736308410.jpg",
+            "submission_id": 187702,
+            "total_vote": 242,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 9,
+                "12": 14,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 121,
+                "22": 41,
+                "23": 1,
+                "24": 2,
+                "3": 0,
+                "4": 2,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 0,
+                "9": 45
+            }
+        },
+        "school_name": "HALİTBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1166,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31510_cb_1093860880_1684085401253413775.jpg",
+            "submission_id": 265692,
+            "total_vote": 252,
+            "votes": {
+                "1": 65,
+                "2": 1,
+                "3": 173,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48023_mv_1083860880_1684088202840695880.jpg",
+            "submission_id": 358330,
+            "total_vote": 243,
+            "votes": {
+                "10": 0,
+                "11": 12,
+                "12": 12,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 3,
+                "20": 1,
+                "21": 111,
+                "22": 36,
+                "23": 2,
+                "24": 9,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 52
+            }
+        },
+        "school_name": "HALİTBEY İLKOKULU"
+    }
+]

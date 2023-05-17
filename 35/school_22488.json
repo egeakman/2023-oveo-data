@@ -1,0 +1,100 @@
+[
+    {
+        "ballot_box_number": 1411,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/fb24e764-8ccf-45ea-9520-f8a1433e7ec4-1684105281580144562.jpeg",
+            "submission_id": 610820,
+            "total_vote": 303,
+            "votes": {
+                "1": 167,
+                "2": 3,
+                "3": 103,
+                "4": 30
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4f6130b6-3b55-4564-8c5a-03d14afa338d-1684105267350755918.jpeg",
+            "submission_id": 607785,
+            "total_vote": 298,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 46,
+                "12": 0,
+                "13": 2,
+                "14": 3,
+                "15": 1,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 3,
+                "21": 63,
+                "22": 40,
+                "23": 0,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 5,
+                "8": 1,
+                "9": 116
+            }
+        },
+        "school_name": "TÜRKELLİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1413,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/69f5cc8a-7543-49cb-82f5-4da5ec29af3c-1684105262284166273.jpeg",
+            "submission_id": 607139,
+            "total_vote": 343,
+            "votes": {
+                "1": 156,
+                "2": 4,
+                "3": 141,
+                "4": 42
+            }
+        },
+        "mv_result": null,
+        "school_name": "TÜRKELLİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1412,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/fb477bb5-f4e5-40b2-8371-c2da78499947-1684105519978881934.jpeg",
+            "submission_id": 652548,
+            "total_vote": 327,
+            "votes": {
+                "1": 168,
+                "2": 3,
+                "3": 127,
+                "4": 29
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/63ee9baf-6061-4290-b83f-2da2fbae3701-1684105513514020861.jpeg",
+            "submission_id": 653346,
+            "total_vote": 320,
+            "votes": {
+                "10": 5,
+                "11": 48,
+                "12": 2,
+                "13": 6,
+                "14": 1,
+                "2": 1,
+                "21": 90,
+                "22": 38,
+                "23": 3,
+                "24": 10,
+                "3": 1,
+                "6": 1,
+                "7": 6,
+                "8": 1,
+                "9": 107
+            }
+        },
+        "school_name": "TÜRKELLİ İLKOKULU"
+    }
+]

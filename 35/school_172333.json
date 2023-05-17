@@ -1,0 +1,79 @@
+[
+    {
+        "ballot_box_number": 1135,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/61341_bulk_999999999_1684094777088783093.jpeg",
+            "submission_id": 496046,
+            "total_vote": 317,
+            "votes": {
+                "1": 147,
+                "2": 2,
+                "3": 147,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61341_mv_1083797529_1684094709542303379.jpg",
+            "submission_id": 495231,
+            "total_vote": 306,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 26,
+                "12": 0,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 119,
+                "22": 26,
+                "23": 0,
+                "24": 10,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 7,
+                "8": 1,
+                "9": 112
+            }
+        },
+        "school_name": "DİRMİL ORTAOKOLU"
+    },
+    {
+        "ballot_box_number": 1134,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/61341_bulk_999999999_1684094444996299883.jpeg",
+            "submission_id": 492049,
+            "total_vote": 277,
+            "votes": {
+                "1": 136,
+                "2": 2,
+                "3": 133,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61341_mv_1083797528_1684094656737438108.jpg",
+            "submission_id": 494593,
+            "total_vote": 276,
+            "votes": {
+                "10": 3,
+                "11": 16,
+                "21": 103,
+                "22": 21,
+                "23": 1,
+                "24": 1,
+                "5": 1,
+                "7": 10,
+                "8": 1,
+                "9": 119
+            }
+        },
+        "school_name": "DİRMİL ORTAOKOLU"
+    }
+]

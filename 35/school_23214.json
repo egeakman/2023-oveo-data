@@ -1,0 +1,237 @@
+[
+    {
+        "ballot_box_number": 1208,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22738_cb_1093799307_1684091775642420393.jpg",
+            "submission_id": 445602,
+            "total_vote": 340,
+            "votes": {
+                "1": 133,
+                "3": 191,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22738_mv_1083799307_1684092201423997979.jpg",
+            "submission_id": 452540,
+            "total_vote": 332,
+            "votes": {
+                "1": 0,
+                "10": 12,
+                "11": 33,
+                "12": 14,
+                "13": 18,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 127,
+                "22": 26,
+                "23": 2,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 0,
+                "8": 1,
+                "9": 83
+            }
+        },
+        "school_name": "PAKMAYA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1206,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68750_cb_1093799305_1684089585627622275.jpg",
+            "submission_id": 398679,
+            "total_vote": 350,
+            "votes": {
+                "1": 171,
+                "3": 173,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68750_mv_1083799305_1684090974275585152.jpg",
+            "submission_id": 431421,
+            "total_vote": 343,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 49,
+                "12": 6,
+                "13": 12,
+                "14": 2,
+                "15": 1,
+                "17": 1,
+                "20": 1,
+                "21": 130,
+                "22": 18,
+                "24": 5,
+                "7": 5,
+                "8": 4,
+                "9": 104
+            }
+        },
+        "school_name": "PAKMAYA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1203,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68750_cb_1093799302_1684089186720987438.jpg",
+            "submission_id": 387725,
+            "total_vote": 337,
+            "votes": {
+                "1": 141,
+                "2": 1,
+                "3": 178,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68750_mv_1083799302_1684090197260967586.jpg",
+            "submission_id": 414451,
+            "total_vote": 322,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 40,
+                "12": 8,
+                "13": 12,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 1,
+                "21": 126,
+                "22": 24,
+                "23": 0,
+                "24": 5,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 4,
+                "9": 87
+            }
+        },
+        "school_name": "PAKMAYA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1205,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/77756_bulk_999999999_1684090293770594397.jpeg",
+            "submission_id": 416763,
+            "total_vote": 353,
+            "votes": {
+                "1": 174,
+                "2": 2,
+                "3": 162,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/77756_bulk_999999999_1684090651542828502.jpeg",
+            "submission_id": 424601,
+            "total_vote": 340,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 36,
+                "12": 8,
+                "13": 19,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 1,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 102,
+                "22": 21,
+                "23": 1,
+                "24": 9,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 1,
+                "8": 2,
+                "9": 130
+            }
+        },
+        "school_name": "PAKMAYA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1204,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/68750_bulk_999999999_1684090408310171232.jpg",
+            "submission_id": 419277,
+            "total_vote": 335,
+            "votes": {
+                "1": 124,
+                "2": 2,
+                "3": 189,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68750_mv_1083799303_1684091818581315884.jpg",
+            "submission_id": 446218,
+            "total_vote": 338,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 31,
+                "12": 11,
+                "13": 15,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 11,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 138,
+                "22": 33,
+                "23": 0,
+                "24": 5,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 0,
+                "9": 86
+            }
+        },
+        "school_name": "PAKMAYA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1207,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22738_cb_1093799306_1684086716497787022.jpg",
+            "submission_id": 309129,
+            "total_vote": 335,
+            "votes": {
+                "1": 134,
+                "2": 1,
+                "3": 191,
+                "4": 9
+            }
+        },
+        "mv_result": null,
+        "school_name": "PAKMAYA İLKOKULU"
+    }
+]

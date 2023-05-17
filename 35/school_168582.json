@@ -1,0 +1,33 @@
+[
+    {
+        "ballot_box_number": 1044,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/54712_cb_1093571098_1684080492860604314.jpg",
+            "submission_id": 182016,
+            "total_vote": 234,
+            "votes": {
+                "1": 99,
+                "3": 116,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/54712_mv_1083571098_1684081188184040593.jpg",
+            "submission_id": 186741,
+            "total_vote": 233,
+            "votes": {
+                "10": 1,
+                "11": 50,
+                "13": 4,
+                "18": 1,
+                "21": 82,
+                "22": 31,
+                "24": 12,
+                "3": 2,
+                "6": 1,
+                "9": 49
+            }
+        },
+        "school_name": "HOROZGEDİĞİ KÖY KAHVESİ"
+    }
+]

@@ -1,0 +1,118 @@
+[
+    {
+        "ballot_box_number": 1344,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d5563f34-482a-4741-8fd8-6d7e55d8266f-1684106605636254481.jpg",
+            "submission_id": 812215,
+            "total_vote": 303,
+            "votes": {
+                "1": 98,
+                "2": 1,
+                "3": 195,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e6f626a0-92dd-49d6-9d86-96718c54a31e-1684105752059363627.jpg",
+            "submission_id": 689637,
+            "total_vote": 299,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 18,
+                "12": 146,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 35,
+                "22": 9,
+                "23": 1,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 77
+            }
+        },
+        "school_name": "SUBAŞI MUSTAFA TOPALAN ÇOK PROGRAMLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1340,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "SUBAŞI MUSTAFA TOPALAN ÇOK PROGRAMLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1342,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/04c7bbc6-2aba-4e08-a35b-43408a8a8967-1684106297530162406.jpg",
+            "submission_id": 767705,
+            "total_vote": 301,
+            "votes": {
+                "1": 58,
+                "2": 3,
+                "3": 228,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "SUBAŞI MUSTAFA TOPALAN ÇOK PROGRAMLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1341,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/bfe55ebd-53f7-4b75-b335-18c22cf7dab3-1684106479172978054.jpg",
+            "submission_id": 794088,
+            "total_vote": 296,
+            "votes": {
+                "1": 70,
+                "2": 1,
+                "3": 218,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0ab00d29-84bc-4c43-bf75-eee2ce2e21a2-1684106308581408242.jpg",
+            "submission_id": 769426,
+            "total_vote": 281,
+            "votes": {
+                "10": 1,
+                "11": 9,
+                "12": 154,
+                "21": 40,
+                "22": 11,
+                "23": 1,
+                "24": 2,
+                "5": 2,
+                "6": 2,
+                "7": 3,
+                "9": 56
+            }
+        },
+        "school_name": "SUBAŞI MUSTAFA TOPALAN ÇOK PROGRAMLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1343,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d9fd24c1-2923-43c7-97f3-a07813ea0b5e-1684106342758737941.jpg",
+            "submission_id": 774315,
+            "total_vote": 309,
+            "votes": {
+                "1": 97,
+                "2": 1,
+                "3": 207,
+                "4": 4
+            }
+        },
+        "mv_result": null,
+        "school_name": "SUBAŞI MUSTAFA TOPALAN ÇOK PROGRAMLI ANADOLU LİSESİ"
+    }
+]

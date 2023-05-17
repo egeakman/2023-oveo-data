@@ -1,0 +1,375 @@
+[
+    {
+        "ballot_box_number": 1146,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7ba546b9-4dbf-4e4e-b709-6ef1f173b28f-1684105299496188106.jpeg",
+            "submission_id": 614198,
+            "total_vote": 331,
+            "votes": {
+                "1": 62,
+                "2": 3,
+                "3": 248,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8827f806-596e-49fe-bdb8-3dcd4f0f2626-1684105294119604017.jpeg",
+            "submission_id": 612923,
+            "total_vote": 333,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 12,
+                "12": 33,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 156,
+                "22": 54,
+                "23": 0,
+                "24": 10,
+                "3": 1,
+                "4": 0,
+                "5": 2,
+                "6": 2,
+                "7": 8,
+                "8": 1,
+                "9": 51
+            }
+        },
+        "school_name": "VALİ KUTLU AKTAŞ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1151,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3f8d4464-df53-40e6-bccf-0e432bbe3577-1684105443147061669.jpeg",
+            "submission_id": 640584,
+            "total_vote": 357,
+            "votes": {
+                "1": 81,
+                "3": 263,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5cde270a-3c02-4892-9e32-10ab6bae3384-1684105333361869805.jpeg",
+            "submission_id": 620712,
+            "total_vote": 354,
+            "votes": {
+                "11": 17,
+                "12": 29,
+                "21": 170,
+                "22": 61,
+                "24": 8,
+                "6": 3,
+                "7": 6,
+                "8": 3,
+                "9": 57
+            }
+        },
+        "school_name": "VALİ KUTLU AKTAŞ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1145,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/bc734d05-886b-4815-9678-eceb272a4a8d-1684105282637897104.jpeg",
+            "submission_id": 611449,
+            "total_vote": 338,
+            "votes": {
+                "1": 85,
+                "2": 4,
+                "3": 233,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/45819_mv_1083798050_1684087363877528625.jpg",
+            "submission_id": 331484,
+            "total_vote": 338,
+            "votes": {
+                "1": 1,
+                "11": 21,
+                "12": 15,
+                "21": 172,
+                "22": 43,
+                "23": 2,
+                "24": 12,
+                "6": 2,
+                "7": 10,
+                "8": 1,
+                "9": 59
+            }
+        },
+        "school_name": "VALİ KUTLU AKTAŞ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1149,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26155_cb_1093798054_1684083082570411134.jpg",
+            "submission_id": 210121,
+            "total_vote": 354,
+            "votes": {
+                "1": 63,
+                "2": 0,
+                "3": 277,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26155_mv_1083798054_1684083914911017328.jpg",
+            "submission_id": 226370,
+            "total_vote": 353,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 11,
+                "12": 17,
+                "14": 0,
+                "20": 1,
+                "21": 194,
+                "22": 61,
+                "23": 1,
+                "24": 15,
+                "5": 0,
+                "6": 3,
+                "7": 3,
+                "8": 2,
+                "9": 45
+            }
+        },
+        "school_name": "VALİ KUTLU AKTAŞ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1143,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e8631463-e78b-4423-930e-94a1f9dc3f2c-1684105282030395029.jpg",
+            "submission_id": 613590,
+            "total_vote": 350,
+            "votes": {
+                "1": 76,
+                "2": 1,
+                "3": 264,
+                "4": 9
+            }
+        },
+        "mv_result": null,
+        "school_name": "VALİ KUTLU AKTAŞ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1139,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "VALİ KUTLU AKTAŞ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1142,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/26155_bulk_999999999_1684087527164871480.jpg",
+            "submission_id": 336795,
+            "total_vote": 359,
+            "votes": {
+                "1": 65,
+                "3": 280,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/26155_bulk_999999999_1684087639645727017.jpg",
+            "submission_id": 340414,
+            "total_vote": 354,
+            "votes": {
+                "1": 2,
+                "10": 4,
+                "11": 9,
+                "12": 21,
+                "16": 2,
+                "20": 1,
+                "21": 205,
+                "22": 40,
+                "24": 15,
+                "3": 1,
+                "6": 1,
+                "8": 1,
+                "9": 52
+            }
+        },
+        "school_name": "VALİ KUTLU AKTAŞ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1152,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39237_cb_1093798357_1684084359999001226.jpg",
+            "submission_id": 236976,
+            "total_vote": 352,
+            "votes": {
+                "1": 58,
+                "2": 1,
+                "3": 276,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4e6a99ec-5006-4b03-9410-21c8c1fb27da-1684106235866003213.jpeg",
+            "submission_id": 758678,
+            "total_vote": 349,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 8,
+                "12": 24,
+                "14": 1,
+                "18": 1,
+                "19": 1,
+                "21": 186,
+                "22": 54,
+                "23": 2,
+                "24": 12,
+                "3": 4,
+                "4": 1,
+                "7": 5,
+                "8": 3,
+                "9": 44
+            }
+        },
+        "school_name": "VALİ KUTLU AKTAŞ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1141,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26155_cb_1093798046_1684082481806833022.jpg",
+            "submission_id": 200755,
+            "total_vote": 331,
+            "votes": {
+                "1": 81,
+                "2": 1,
+                "3": 247,
+                "4": 2
+            }
+        },
+        "mv_result": null,
+        "school_name": "VALİ KUTLU AKTAŞ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1148,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ed6b4712-f5dd-42e7-becd-7f396363dda4-1684105314535987728.jpeg",
+            "submission_id": 617272,
+            "total_vote": 348,
+            "votes": {
+                "1": 68,
+                "2": 1,
+                "3": 267,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/26155_bulk_999999999_1684087639559081761.jpg",
+            "submission_id": 340404,
+            "total_vote": 346,
+            "votes": {
+                "1": 1,
+                "11": 11,
+                "12": 19,
+                "15": 1,
+                "21": 189,
+                "22": 56,
+                "24": 6,
+                "7": 5,
+                "9": 58
+            }
+        },
+        "school_name": "VALİ KUTLU AKTAŞ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1150,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26155_cb_1093798355_1684080455299177223.jpg",
+            "submission_id": 181786,
+            "total_vote": 348,
+            "votes": {
+                "1": 79,
+                "3": 249,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/df383336-148f-4103-956e-ef3121a6cba8-1684105508549954153.jpeg",
+            "submission_id": 651179,
+            "total_vote": 342,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 15,
+                "12": 21,
+                "16": 1,
+                "19": 1,
+                "20": 1,
+                "21": 189,
+                "22": 35,
+                "23": 1,
+                "24": 10,
+                "6": 2,
+                "7": 4,
+                "9": 60
+            }
+        },
+        "school_name": "VALİ KUTLU AKTAŞ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1144,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52193_cb_1093798049_1684087204086286250.jpg",
+            "submission_id": 326207,
+            "total_vote": 352,
+            "votes": {
+                "1": 49,
+                "2": 1,
+                "3": 292,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52193_mv_1083798049_1684087183401067480.jpg",
+            "submission_id": 325414,
+            "total_vote": 349,
+            "votes": {
+                "11": 13,
+                "12": 19,
+                "21": 222,
+                "22": 47,
+                "24": 7,
+                "5": 1,
+                "7": 3,
+                "9": 37
+            }
+        },
+        "school_name": "VALİ KUTLU AKTAŞ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1140,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "VALİ KUTLU AKTAŞ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1147,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/13108_cb_1093798052_1684090117038753055.jpg",
+            "submission_id": 412582,
+            "total_vote": 338,
+            "votes": {
+                "1": 65,
+                "2": 2,
+                "3": 263,
+                "4": 8
+            }
+        },
+        "mv_result": null,
+        "school_name": "VALİ KUTLU AKTAŞ İLKOKULU"
+    }
+]

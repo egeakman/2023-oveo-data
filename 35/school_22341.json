@@ -1,0 +1,33 @@
+[
+    {
+        "ballot_box_number": 1109,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/14894_cb_1093797943_1684085417482465006.jpg",
+            "submission_id": 266170,
+            "total_vote": 253,
+            "votes": {
+                "1": 49,
+                "3": 199,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/14894_mv_1083797943_1684086347941259750.jpg",
+            "submission_id": 296325,
+            "total_vote": 251,
+            "votes": {
+                "1": 1,
+                "11": 12,
+                "12": 27,
+                "15": 1,
+                "21": 138,
+                "22": 28,
+                "24": 7,
+                "6": 1,
+                "7": 5,
+                "9": 31
+            }
+        },
+        "school_name": "80. YIL ÇİFTLİK ORTAOKULU"
+    }
+]

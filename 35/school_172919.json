@@ -1,0 +1,46 @@
+[
+    {
+        "ballot_box_number": 1210,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52831_cb_1093861424_1684086910447133399.jpg",
+            "submission_id": 315816,
+            "total_vote": 278,
+            "votes": {
+                "1": 67,
+                "2": 2,
+                "3": 202,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/52831_bulk_999999999_1684089711727363284.jpg",
+            "submission_id": 402068,
+            "total_vote": 271,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 15,
+                "12": 20,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 130,
+                "22": 45,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 0,
+                "9": 49
+            }
+        },
+        "school_name": "İZMİR DIŞ TİCARET MTAL"
+    }
+]

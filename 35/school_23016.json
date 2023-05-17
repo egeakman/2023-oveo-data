@@ -1,0 +1,196 @@
+[
+    {
+        "ballot_box_number": 2090,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65833_cb_1093798084_1684082880229006056.jpg",
+            "submission_id": 206715,
+            "total_vote": 314,
+            "votes": {
+                "1": 42,
+                "3": 262,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65833_mv_1083798084_1684085495722477370.jpg",
+            "submission_id": 268472,
+            "total_vote": 306,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 2,
+                "12": 26,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 215,
+                "22": 13,
+                "23": 3,
+                "24": 5,
+                "3": 3,
+                "4": 1,
+                "5": 0,
+                "6": 2,
+                "7": 1,
+                "8": 0,
+                "9": 31
+            }
+        },
+        "school_name": "SEYFİ GÜLMEZOĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2086,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65833_cb_1093798080_1684086975615412891.jpg",
+            "submission_id": 318118,
+            "total_vote": 327,
+            "votes": {
+                "1": 60,
+                "2": 1,
+                "3": 261,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65833_mv_1083798080_1684086937462010965.jpg",
+            "submission_id": 316790,
+            "total_vote": 321,
+            "votes": {
+                "10": 1,
+                "11": 4,
+                "12": 17,
+                "15": 2,
+                "17": 3,
+                "20": 1,
+                "21": 221,
+                "22": 12,
+                "3": 3,
+                "5": 1,
+                "7": 7,
+                "8": 1,
+                "9": 48
+            }
+        },
+        "school_name": "SEYFİ GÜLMEZOĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2091,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65833_cb_1093798085_1684085445741872443.jpg",
+            "submission_id": 266960,
+            "total_vote": 325,
+            "votes": {
+                "1": 64,
+                "2": 1,
+                "3": 255,
+                "4": 5
+            }
+        },
+        "mv_result": null,
+        "school_name": "SEYFİ GÜLMEZOĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2089,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65833_cb_1093798083_1684084628969485301.jpg",
+            "submission_id": 243925,
+            "total_vote": 326,
+            "votes": {
+                "1": 60,
+                "2": 1,
+                "3": 260,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65833_mv_1083798083_1684088760359646714.jpg",
+            "submission_id": 375503,
+            "total_vote": 320,
+            "votes": {
+                "11": 2,
+                "12": 28,
+                "21": 213,
+                "22": 17,
+                "23": 2,
+                "24": 4,
+                "3": 2,
+                "7": 2,
+                "9": 50
+            }
+        },
+        "school_name": "SEYFİ GÜLMEZOĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2087,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65833_cb_1093798081_1684082805809187769.jpg",
+            "submission_id": 205510,
+            "total_vote": 327,
+            "votes": {
+                "1": 56,
+                "3": 266,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65833_mv_1083798081_1684084549016133377.jpg",
+            "submission_id": 241747,
+            "total_vote": 319,
+            "votes": {
+                "10": 2,
+                "11": 7,
+                "12": 23,
+                "2": 1,
+                "21": 217,
+                "22": 14,
+                "24": 2,
+                "3": 3,
+                "4": 1,
+                "5": 1,
+                "6": 1,
+                "7": 3,
+                "9": 44
+            }
+        },
+        "school_name": "SEYFİ GÜLMEZOĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2088,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65833_cb_1093798082_1684082846141437152.jpg",
+            "submission_id": 206146,
+            "total_vote": 350,
+            "votes": {
+                "1": 69,
+                "3": 276,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49652_mv_1083798082_1684088139276317134.jpg",
+            "submission_id": 356485,
+            "total_vote": 345,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 3,
+                "12": 24,
+                "2": 1,
+                "21": 225,
+                "22": 15,
+                "24": 3,
+                "3": 5,
+                "6": 1,
+                "7": 4,
+                "8": 1,
+                "9": 61
+            }
+        },
+        "school_name": "SEYFİ GÜLMEZOĞLU İLKOKULU"
+    }
+]

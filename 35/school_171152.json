@@ -1,0 +1,111 @@
+[
+    {
+        "ballot_box_number": 1373,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26823_cb_1093862867_1684085857478362244.jpg",
+            "submission_id": 280392,
+            "total_vote": 239,
+            "votes": {
+                "1": 108,
+                "2": 2,
+                "3": 125,
+                "4": 4
+            }
+        },
+        "mv_result": null,
+        "school_name": "İSMET PAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1371,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26823_cb_1093862865_1684086468785074778.jpg",
+            "submission_id": 300353,
+            "total_vote": 230,
+            "votes": {
+                "1": 107,
+                "2": 0,
+                "3": 119,
+                "4": 4
+            }
+        },
+        "mv_result": null,
+        "school_name": "İSMET PAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1370,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26823_cb_1093862864_1684085721819556377.jpg",
+            "submission_id": 275803,
+            "total_vote": 237,
+            "votes": {
+                "1": 121,
+                "2": 0,
+                "3": 105,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26823_mv_1083862864_1684085759834752820.jpg",
+            "submission_id": 277084,
+            "total_vote": 230,
+            "votes": {
+                "10": 5,
+                "11": 6,
+                "12": 51,
+                "21": 40,
+                "22": 12,
+                "23": 4,
+                "24": 3,
+                "5": 1,
+                "6": 3,
+                "8": 1,
+                "9": 104
+            }
+        },
+        "school_name": "İSMET PAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1372,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26823_cb_1093862866_1684087307621853503.jpg",
+            "submission_id": 329616,
+            "total_vote": 247,
+            "votes": {
+                "1": 89,
+                "3": 154,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26823_mv_1083862866_1684087383325846601.jpg",
+            "submission_id": 332139,
+            "total_vote": 241,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 2,
+                "12": 98,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 45,
+                "22": 8,
+                "23": 0,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 1,
+                "8": 1,
+                "9": 81
+            }
+        },
+        "school_name": "İSMET PAŞA İLKOKULU"
+    }
+]

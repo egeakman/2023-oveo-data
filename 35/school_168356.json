@@ -1,0 +1,697 @@
+[
+    {
+        "ballot_box_number": 1247,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/59015_bulk_999999999_1684091051069052603.jpeg",
+            "submission_id": 432932,
+            "total_vote": 305,
+            "votes": {
+                "1": 137,
+                "2": 2,
+                "3": 152,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16344_mv_1083579781_1684091451485146760.jpg",
+            "submission_id": 440415,
+            "total_vote": 299,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 23,
+                "12": 18,
+                "13": 7,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 2,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 108,
+                "22": 21,
+                "23": 0,
+                "24": 6,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 6,
+                "8": 4,
+                "9": 96
+            }
+        },
+        "school_name": "80.YIL METAŞ ORTAOKULU(NECİP FAZIL KISAKÜREK ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 1264,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16344_cb_1093580378_1684093858487458613.jpg",
+            "submission_id": 475591,
+            "total_vote": 308,
+            "votes": {
+                "1": 156,
+                "2": 1,
+                "3": 132,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "80.YIL METAŞ ORTAOKULU(NECİP FAZIL KISAKÜREK ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 1257,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/16460_bulk_999999999_1684089760166590728.jpg",
+            "submission_id": 403389,
+            "total_vote": 324,
+            "votes": {
+                "1": 169,
+                "2": 1,
+                "3": 125,
+                "4": 29
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16344_mv_1083579791_1684092906144746046.jpg",
+            "submission_id": 462719,
+            "total_vote": 320,
+            "votes": {
+                "1": 2,
+                "10": 1,
+                "11": 20,
+                "12": 23,
+                "13": 13,
+                "14": 2,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 61,
+                "22": 24,
+                "23": 0,
+                "24": 13,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 7,
+                "8": 7,
+                "9": 142
+            }
+        },
+        "school_name": "80.YIL METAŞ ORTAOKULU(NECİP FAZIL KISAKÜREK ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 1261,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16344_cb_1093580375_1684093718294349646.jpg",
+            "submission_id": 473261,
+            "total_vote": 324,
+            "votes": {
+                "1": 164,
+                "2": 3,
+                "3": 134,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/46ef1cfd-4332-4c3a-a984-316af2030c2c-1684105193306312129.jpg",
+            "submission_id": 592247,
+            "total_vote": 320,
+            "votes": {
+                "10": 4,
+                "11": 20,
+                "12": 21,
+                "13": 9,
+                "14": 1,
+                "2": 1,
+                "21": 78,
+                "22": 33,
+                "23": 2,
+                "24": 7,
+                "3": 1,
+                "7": 5,
+                "8": 8,
+                "9": 130
+            }
+        },
+        "school_name": "80.YIL METAŞ ORTAOKULU(NECİP FAZIL KISAKÜREK ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 1255,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/16460_bulk_999999999_1684089760092177625.jpg",
+            "submission_id": 403386,
+            "total_vote": 332,
+            "votes": {
+                "1": 170,
+                "2": 3,
+                "3": 137,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16344_mv_1083579789_1684096156878910198.jpg",
+            "submission_id": 509901,
+            "total_vote": 324,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 16,
+                "12": 11,
+                "13": 6,
+                "14": 1,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 89,
+                "22": 28,
+                "23": 1,
+                "24": 15,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 0,
+                "8": 6,
+                "9": 145
+            }
+        },
+        "school_name": "80.YIL METAŞ ORTAOKULU(NECİP FAZIL KISAKÜREK ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 1266,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16344_cb_1093580380_1684093611049415400.jpg",
+            "submission_id": 471940,
+            "total_vote": 333,
+            "votes": {
+                "1": 183,
+                "2": 2,
+                "3": 129,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "80.YIL METAŞ ORTAOKULU(NECİP FAZIL KISAKÜREK ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 1249,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/59015_bulk_999999999_1684091050752841471.jpeg",
+            "submission_id": 432924,
+            "total_vote": 314,
+            "votes": {
+                "1": 186,
+                "2": 3,
+                "3": 108,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/59015_bulk_999999999_1684091050625478715.jpeg",
+            "submission_id": 432923,
+            "total_vote": 307,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 18,
+                "12": 17,
+                "13": 7,
+                "15": 4,
+                "21": 48,
+                "22": 35,
+                "24": 2,
+                "3": 2,
+                "5": 1,
+                "6": 3,
+                "7": 7,
+                "8": 3,
+                "9": 158
+            }
+        },
+        "school_name": "80.YIL METAŞ ORTAOKULU(NECİP FAZIL KISAKÜREK ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 1256,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/16460_bulk_999999999_1684089760385820769.jpg",
+            "submission_id": 403397,
+            "total_vote": 321,
+            "votes": {
+                "1": 149,
+                "2": 4,
+                "3": 148,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "80.YIL METAŞ ORTAOKULU(NECİP FAZIL KISAKÜREK ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 1253,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/59015_bulk_999999999_1684090652767744853.jpeg",
+            "submission_id": 424629,
+            "total_vote": 325,
+            "votes": {
+                "1": 178,
+                "2": 0,
+                "3": 134,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/59015_bulk_999999999_1684090652872296863.jpeg",
+            "submission_id": 424631,
+            "total_vote": 322,
+            "votes": {
+                "1": 2,
+                "10": 2,
+                "11": 35,
+                "12": 29,
+                "13": 19,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 52,
+                "22": 32,
+                "23": 0,
+                "24": 9,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 11,
+                "9": 124
+            }
+        },
+        "school_name": "80.YIL METAŞ ORTAOKULU(NECİP FAZIL KISAKÜREK ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 1252,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/59015_bulk_999999999_1684091051172527476.jpeg",
+            "submission_id": 432933,
+            "total_vote": 323,
+            "votes": {
+                "1": 172,
+                "2": 2,
+                "3": 128,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16344_mv_1083579786_1684092075207790091.jpg",
+            "submission_id": 450545,
+            "total_vote": 309,
+            "votes": {
+                "10": 3,
+                "11": 19,
+                "12": 17,
+                "13": 9,
+                "15": 4,
+                "19": 1,
+                "20": 1,
+                "21": 65,
+                "22": 33,
+                "23": 1,
+                "24": 8,
+                "6": 3,
+                "7": 6,
+                "8": 4,
+                "9": 135
+            }
+        },
+        "school_name": "80.YIL METAŞ ORTAOKULU(NECİP FAZIL KISAKÜREK ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 1265,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16344_cb_1093580379_1684093544593078965.jpg",
+            "submission_id": 471133,
+            "total_vote": 315,
+            "votes": {
+                "1": 148,
+                "2": 3,
+                "3": 148,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16344_mv_1083580379_1684093506543979433.jpg",
+            "submission_id": 470657,
+            "total_vote": 308,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 14,
+                "12": 13,
+                "13": 20,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 93,
+                "22": 26,
+                "23": 1,
+                "24": 7,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 4,
+                "9": 121
+            }
+        },
+        "school_name": "80.YIL METAŞ ORTAOKULU(NECİP FAZIL KISAKÜREK ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 1263,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16344_cb_1093580377_1684093385398858302.jpg",
+            "submission_id": 469246,
+            "total_vote": 329,
+            "votes": {
+                "1": 161,
+                "2": 1,
+                "3": 141,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16344_mv_1083580377_1684093353929624513.jpg",
+            "submission_id": 468833,
+            "total_vote": 326,
+            "votes": {
+                "10": 6,
+                "11": 19,
+                "12": 17,
+                "13": 4,
+                "21": 95,
+                "22": 32,
+                "23": 1,
+                "24": 13,
+                "3": 3,
+                "7": 3,
+                "8": 4,
+                "9": 129
+            }
+        },
+        "school_name": "80.YIL METAŞ ORTAOKULU(NECİP FAZIL KISAKÜREK ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 1262,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16344_cb_1093580376_1684094444231039436.jpg",
+            "submission_id": 492039,
+            "total_vote": 333,
+            "votes": {
+                "1": 154,
+                "2": 4,
+                "3": 153,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16344_mv_1083580376_1684094397981456430.jpg",
+            "submission_id": 491490,
+            "total_vote": 330,
+            "votes": {
+                "10": 1,
+                "11": 20,
+                "12": 12,
+                "13": 8,
+                "15": 1,
+                "21": 116,
+                "22": 28,
+                "23": 3,
+                "24": 8,
+                "7": 7,
+                "8": 2,
+                "9": 124
+            }
+        },
+        "school_name": "80.YIL METAŞ ORTAOKULU(NECİP FAZIL KISAKÜREK ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 1258,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16344_cb_1093579792_1684092157179444277.jpg",
+            "submission_id": 451846,
+            "total_vote": 318,
+            "votes": {
+                "1": 155,
+                "2": 4,
+                "3": 143,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/49951_bulk_999999999_1684093164483313381.jpg",
+            "submission_id": 466256,
+            "total_vote": 310,
+            "votes": {
+                "10": 1,
+                "11": 33,
+                "12": 22,
+                "13": 11,
+                "15": 1,
+                "20": 1,
+                "21": 86,
+                "22": 21,
+                "23": 1,
+                "24": 9,
+                "5": 1,
+                "6": 2,
+                "7": 2,
+                "8": 8,
+                "9": 111
+            }
+        },
+        "school_name": "80.YIL METAŞ ORTAOKULU(NECİP FAZIL KISAKÜREK ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 1248,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/59015_bulk_999999999_1684091752100246064.jpeg",
+            "submission_id": 445221,
+            "total_vote": 289,
+            "votes": {
+                "1": 137,
+                "2": 1,
+                "3": 141,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16344_mv_1083579782_1684091662171658350.jpg",
+            "submission_id": 443784,
+            "total_vote": 281,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 19,
+                "12": 30,
+                "13": 13,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 72,
+                "22": 24,
+                "23": 0,
+                "24": 6,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 5,
+                "9": 103
+            }
+        },
+        "school_name": "80.YIL METAŞ ORTAOKULU(NECİP FAZIL KISAKÜREK ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 1260,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16344_cb_1093579794_1684093152923453208.jpg",
+            "submission_id": 466091,
+            "total_vote": 328,
+            "votes": {
+                "1": 149,
+                "2": 3,
+                "3": 161,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16344_mv_1083579794_1684093262436357851.jpg",
+            "submission_id": 467687,
+            "total_vote": 319,
+            "votes": {
+                "1": 1,
+                "10": 6,
+                "11": 13,
+                "12": 29,
+                "13": 11,
+                "15": 1,
+                "17": 1,
+                "18": 1,
+                "19": 1,
+                "20": 1,
+                "21": 92,
+                "22": 25,
+                "23": 1,
+                "24": 4,
+                "3": 1,
+                "6": 2,
+                "7": 5,
+                "8": 2,
+                "9": 122
+            }
+        },
+        "school_name": "80.YIL METAŞ ORTAOKULU(NECİP FAZIL KISAKÜREK ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 1259,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16344_cb_1093579793_1684093755084926670.jpg",
+            "submission_id": 473764,
+            "total_vote": 327,
+            "votes": {
+                "1": 174,
+                "2": 3,
+                "3": 123,
+                "4": 27
+            }
+        },
+        "mv_result": null,
+        "school_name": "80.YIL METAŞ ORTAOKULU(NECİP FAZIL KISAKÜREK ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 1250,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/59015_bulk_999999999_1684090419479254652.jpeg",
+            "submission_id": 419502,
+            "total_vote": 309,
+            "votes": {
+                "1": 148,
+                "2": 1,
+                "3": 146,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/59015_bulk_999999999_1684090419347675963.jpeg",
+            "submission_id": 419496,
+            "total_vote": 294,
+            "votes": {
+                "10": 5,
+                "11": 5,
+                "12": 36,
+                "13": 11,
+                "14": 1,
+                "21": 64,
+                "22": 26,
+                "23": 1,
+                "24": 7,
+                "3": 3,
+                "5": 2,
+                "6": 3,
+                "7": 1,
+                "8": 2,
+                "9": 127
+            }
+        },
+        "school_name": "80.YIL METAŞ ORTAOKULU(NECİP FAZIL KISAKÜREK ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 1254,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/16460_bulk_999999999_1684089760638464942.jpg",
+            "submission_id": 403408,
+            "total_vote": 328,
+            "votes": {
+                "1": 175,
+                "2": 0,
+                "3": 136,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "80.YIL METAŞ ORTAOKULU(NECİP FAZIL KISAKÜREK ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 1251,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/59015_bulk_999999999_1684091050855889330.jpeg",
+            "submission_id": 432927,
+            "total_vote": 327,
+            "votes": {
+                "1": 154,
+                "2": 2,
+                "3": 138,
+                "4": 33
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16344_mv_1083579785_1684091921734835896.jpg",
+            "submission_id": 447963,
+            "total_vote": 328,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 39,
+                "12": 26,
+                "13": 24,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 71,
+                "22": 19,
+                "23": 0,
+                "24": 21,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 3,
+                "8": 3,
+                "9": 115
+            }
+        },
+        "school_name": "80.YIL METAŞ ORTAOKULU(NECİP FAZIL KISAKÜREK ORTAOKULU)"
+    }
+]

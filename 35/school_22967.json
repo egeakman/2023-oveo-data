@@ -1,0 +1,446 @@
+[
+    {
+        "ballot_box_number": 2268,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25465_cb_1093800322_1684088350643659476.jpg",
+            "submission_id": 362829,
+            "total_vote": 306,
+            "votes": {
+                "1": 140,
+                "3": 151,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "MUSTAFA RAHMİ BALABAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2259,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25465_cb_1093800133_1684086361306167782.jpg",
+            "submission_id": 296709,
+            "total_vote": 299,
+            "votes": {
+                "1": 121,
+                "2": 2,
+                "3": 166,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68589_mv_1083800133_1684087549846511557.jpg",
+            "submission_id": 337472,
+            "total_vote": 284,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 2,
+                "12": 10,
+                "14": 3,
+                "15": 3,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 116,
+                "22": 42,
+                "23": 3,
+                "24": 2,
+                "3": 2,
+                "4": 2,
+                "5": 0,
+                "6": 1,
+                "7": 0,
+                "8": 2,
+                "9": 93
+            }
+        },
+        "school_name": "MUSTAFA RAHMİ BALABAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2260,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/25465_bulk_999999999_1684088255433071682.jpeg",
+            "submission_id": 359942,
+            "total_vote": 309,
+            "votes": {
+                "1": 108,
+                "2": 0,
+                "3": 185,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25465_mv_1083800134_1684088534087547791.jpg",
+            "submission_id": 368622,
+            "total_vote": 302,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 15,
+                "12": 17,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 131,
+                "22": 23,
+                "23": 1,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 8,
+                "7": 5,
+                "8": 1,
+                "9": 89
+            }
+        },
+        "school_name": "MUSTAFA RAHMİ BALABAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2264,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/44248_bulk_999999999_1684086920970467373.jpg",
+            "submission_id": 316202,
+            "total_vote": 315,
+            "votes": {
+                "1": 135,
+                "2": 1,
+                "3": 168,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25465_mv_1083800318_1684088852639104102.jpg",
+            "submission_id": 378155,
+            "total_vote": 310,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 11,
+                "12": 17,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 114,
+                "22": 25,
+                "23": 3,
+                "24": 9,
+                "3": 0,
+                "4": 2,
+                "5": 0,
+                "6": 4,
+                "7": 3,
+                "8": 7,
+                "9": 113
+            }
+        },
+        "school_name": "MUSTAFA RAHMİ BALABAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2266,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68589_cb_1093800320_1684088167658654699.jpg",
+            "submission_id": 357352,
+            "total_vote": 315,
+            "votes": {
+                "1": 123,
+                "2": 2,
+                "3": 175,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/354560fb-c554-4f84-99aa-6c4de99db8f7-1684105453496819655.jpg",
+            "submission_id": 642267,
+            "total_vote": 310,
+            "votes": {
+                "10": 2,
+                "11": 17,
+                "12": 14,
+                "14": 1,
+                "15": 1,
+                "17": 1,
+                "2": 1,
+                "21": 122,
+                "22": 37,
+                "23": 10,
+                "3": 1,
+                "6": 1,
+                "8": 4,
+                "9": 98
+            }
+        },
+        "school_name": "MUSTAFA RAHMİ BALABAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2267,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25465_mv_1083800321_1684087591903644153.jpg",
+            "submission_id": 338858,
+            "total_vote": 316,
+            "votes": {
+                "1": 149,
+                "3": 159,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25465_cb_1093800321_1684087563060654506.jpg",
+            "submission_id": 337916,
+            "total_vote": 310,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 9,
+                "12": 22,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 4,
+                "21": 106,
+                "22": 26,
+                "23": 1,
+                "24": 0,
+                "3": 0,
+                "4": 1,
+                "5": 1,
+                "6": 6,
+                "7": 2,
+                "8": 1,
+                "9": 122
+            }
+        },
+        "school_name": "MUSTAFA RAHMİ BALABAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2258,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25465_cb_1093800132_1684089674067317757.jpg",
+            "submission_id": 401048,
+            "total_vote": 301,
+            "votes": {
+                "1": 137,
+                "3": 162,
+                "4": 2
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25465_mv_1083800132_1684089712115322978.jpg",
+            "submission_id": 402076,
+            "total_vote": 293,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 3,
+                "12": 11,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 128,
+                "22": 17,
+                "23": 4,
+                "24": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 7,
+                "7": 1,
+                "8": 0,
+                "9": 117
+            }
+        },
+        "school_name": "MUSTAFA RAHMİ BALABAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2263,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/44248_bulk_999999999_1684083514610327854.jpg",
+            "submission_id": 218090,
+            "total_vote": 306,
+            "votes": {
+                "1": 132,
+                "2": 1,
+                "3": 164,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/44248_bulk_999999999_1684087187763979512.jpg",
+            "submission_id": 325595,
+            "total_vote": 292,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 11,
+                "12": 22,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 111,
+                "22": 24,
+                "23": 0,
+                "24": 6,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 3,
+                "7": 2,
+                "8": 1,
+                "9": 108
+            }
+        },
+        "school_name": "MUSTAFA RAHMİ BALABAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2261,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25465_cb_1093800315_1684086526825309117.jpg",
+            "submission_id": 302489,
+            "total_vote": 308,
+            "votes": {
+                "1": 127,
+                "2": 2,
+                "3": 168,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25465_mv_1083800315_1684087080220187571.jpg",
+            "submission_id": 321817,
+            "total_vote": 288,
+            "votes": {
+                "10": 3,
+                "11": 15,
+                "12": 15,
+                "15": 1,
+                "19": 1,
+                "21": 110,
+                "22": 36,
+                "23": 1,
+                "24": 5,
+                "4": 1,
+                "7": 1,
+                "8": 5,
+                "9": 94
+            }
+        },
+        "school_name": "MUSTAFA RAHMİ BALABAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2262,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/44248_bulk_999999999_1684084501881087827.jpg",
+            "submission_id": 240562,
+            "total_vote": 312,
+            "votes": {
+                "1": 143,
+                "2": 1,
+                "3": 156,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25465_mv_1083800316_1684088583795812473.jpg",
+            "submission_id": 370133,
+            "total_vote": 293,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 19,
+                "12": 12,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 117,
+                "22": 20,
+                "23": 2,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 5,
+                "8": 4,
+                "9": 104
+            }
+        },
+        "school_name": "MUSTAFA RAHMİ BALABAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2265,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/44248_bulk_999999999_1684086075027831423.jpg",
+            "submission_id": 287363,
+            "total_vote": 307,
+            "votes": {
+                "1": 125,
+                "2": 1,
+                "3": 172,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68589_mv_1083800319_1684088015186505684.jpg",
+            "submission_id": 352473,
+            "total_vote": 301,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 12,
+                "12": 21,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 119,
+                "22": 28,
+                "23": 0,
+                "24": 8,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 6,
+                "8": 0,
+                "9": 102
+            }
+        },
+        "school_name": "MUSTAFA RAHMİ BALABAN İLKOKULU"
+    }
+]

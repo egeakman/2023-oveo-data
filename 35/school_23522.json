@@ -1,0 +1,449 @@
+[
+    {
+        "ballot_box_number": 2320,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/64788_cb_1093791384_1684080299843265907.jpg",
+            "submission_id": 180830,
+            "total_vote": 332,
+            "votes": {
+                "1": 79,
+                "3": 228,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/64788_mv_1083791384_1684086148387201429.jpg",
+            "submission_id": 289704,
+            "total_vote": 330,
+            "votes": {
+                "1": 1,
+                "11": 19,
+                "12": 11,
+                "20": 2,
+                "21": 161,
+                "22": 42,
+                "23": 1,
+                "24": 15,
+                "6": 4,
+                "7": 6,
+                "9": 68
+            }
+        },
+        "school_name": "23 NİSAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2323,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/75928_cb_1093791387_1684085639601792452.jpg",
+            "submission_id": 273055,
+            "total_vote": 335,
+            "votes": {
+                "1": 83,
+                "2": 2,
+                "3": 219,
+                "4": 31
+            }
+        },
+        "mv_result": null,
+        "school_name": "23 NİSAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2326,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/77389_cb_1093791390_1684078985069553668.jpg",
+            "submission_id": 175667,
+            "total_vote": 335,
+            "votes": {
+                "1": 90,
+                "2": 1,
+                "3": 231,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/75928_mv_1083791390_1684085730117559286.jpg",
+            "submission_id": 276058,
+            "total_vote": 335,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 12,
+                "12": 18,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 171,
+                "22": 42,
+                "23": 0,
+                "24": 8,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 1,
+                "9": 76
+            }
+        },
+        "school_name": "23 NİSAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2318,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e1fb770d-6c90-42e5-8c0d-81b7bea6033a-1684106195685767916.jpg",
+            "submission_id": 752898,
+            "total_vote": 331,
+            "votes": {
+                "1": 83,
+                "2": 2,
+                "3": 224,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/b11d5cb8-cc71-479b-b688-1b4d381f9aca-1684105750656260399.jpg",
+            "submission_id": 689515,
+            "total_vote": 327,
+            "votes": {
+                "11": 19,
+                "12": 19,
+                "18": 1,
+                "19": 2,
+                "21": 135,
+                "22": 68,
+                "24": 14,
+                "3": 3,
+                "5": 2,
+                "7": 2,
+                "9": 62
+            }
+        },
+        "school_name": "23 NİSAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2331,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/75928_cb_1093791535_1684086143707193084.jpg",
+            "submission_id": 289568,
+            "total_vote": 332,
+            "votes": {
+                "1": 97,
+                "3": 211,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ee589129-77a3-46e3-bfd9-1e3996ec6034-1684105801481163068.jpg",
+            "submission_id": 697598,
+            "total_vote": 302,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 20,
+                "12": 0,
+                "13": 0,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 144,
+                "22": 47,
+                "23": 0,
+                "24": 18,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 0,
+                "9": 66
+            }
+        },
+        "school_name": "23 NİSAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2324,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/75928_cb_1093791388_1684083742696254998.jpg",
+            "submission_id": 222748,
+            "total_vote": 332,
+            "votes": {
+                "1": 79,
+                "3": 231,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/75928_mv_1083791388_1684084660249754716.jpg",
+            "submission_id": 244798,
+            "total_vote": 326,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 14,
+                "12": 9,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 149,
+                "22": 66,
+                "23": 0,
+                "24": 12,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 2,
+                "9": 64
+            }
+        },
+        "school_name": "23 NİSAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2330,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/75937_cb_1093791394_1684080321102762944.jpg",
+            "submission_id": 180949,
+            "total_vote": 318,
+            "votes": {
+                "1": 94,
+                "3": 210,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "23 NİSAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2328,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/fa01009d-6659-4b57-a6bb-40102009a259-1684106316135480515.jpg",
+            "submission_id": 770748,
+            "total_vote": 324,
+            "votes": {
+                "1": 80,
+                "2": 2,
+                "3": 228,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "23 NİSAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2319,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17966_cb_1093791383_1684080535164686301.jpg",
+            "submission_id": 182265,
+            "total_vote": 331,
+            "votes": {
+                "1": 75,
+                "2": 2,
+                "3": 238,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5f2dda69-97ea-4553-b9c6-730791294f23-1684106102415815808.jpg",
+            "submission_id": 738567,
+            "total_vote": 328,
+            "votes": {
+                "1": 0,
+                "11": 11,
+                "12": 7,
+                "19": 2,
+                "2": 0,
+                "21": 194,
+                "22": 43,
+                "24": 7,
+                "6": 2,
+                "7": 2,
+                "9": 60
+            }
+        },
+        "school_name": "23 NİSAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2322,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a574d27b-0c29-4415-8d52-2b551e736d3f-1684106245728628540.jpg",
+            "submission_id": 760461,
+            "total_vote": 331,
+            "votes": {
+                "1": 83,
+                "2": 1,
+                "3": 225,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "23 NİSAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2317,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/75928_cb_1093791381_1684084983190122019.jpg",
+            "submission_id": 253659,
+            "total_vote": 313,
+            "votes": {
+                "1": 93,
+                "3": 205,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/75928_mv_1083791381_1684085048900475085.jpg",
+            "submission_id": 255572,
+            "total_vote": 304,
+            "votes": {
+                "1": 1,
+                "11": 15,
+                "12": 5,
+                "15": 1,
+                "17": 1,
+                "19": 4,
+                "2": 1,
+                "20": 1,
+                "21": 158,
+                "22": 38,
+                "24": 6,
+                "6": 6,
+                "7": 2,
+                "8": 2,
+                "9": 63
+            }
+        },
+        "school_name": "23 NİSAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2325,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/75928_cb_1093791389_1684085762803226767.jpg",
+            "submission_id": 277174,
+            "total_vote": 335,
+            "votes": {
+                "1": 107,
+                "3": 210,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/75928_mv_1083791389_1684085799534009576.jpg",
+            "submission_id": 278397,
+            "total_vote": 334,
+            "votes": {
+                "10": 2,
+                "11": 13,
+                "12": 14,
+                "15": 1,
+                "19": 2,
+                "20": 1,
+                "21": 138,
+                "22": 56,
+                "23": 1,
+                "24": 9,
+                "6": 2,
+                "7": 7,
+                "8": 2,
+                "9": 86
+            }
+        },
+        "school_name": "23 NİSAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2327,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/75928_cb_1093791391_1684085982304895541.jpg",
+            "submission_id": 284397,
+            "total_vote": 343,
+            "votes": {
+                "1": 105,
+                "2": 2,
+                "3": 225,
+                "4": 11
+            }
+        },
+        "mv_result": null,
+        "school_name": "23 NİSAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2329,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/75928_cb_1093791393_1684086039819266884.jpg",
+            "submission_id": 286247,
+            "total_vote": 336,
+            "votes": {
+                "1": 104,
+                "2": 3,
+                "3": 214,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "23 NİSAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2316,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2a3d4aca-c104-46f6-a12b-4379e44a0a2b-1684105865866716801.jpg",
+            "submission_id": 706437,
+            "total_vote": 294,
+            "votes": {
+                "1": 83,
+                "3": 198,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "23 NİSAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2321,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/6117c4b9-9189-44c8-9e48-7fc34d5d1cd9-1684106219287620970.jpg",
+            "submission_id": 756638,
+            "total_vote": 333,
+            "votes": {
+                "1": 88,
+                "2": 2,
+                "3": 226,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c5c9b0ba-ae48-4d78-bc00-08e8318a8fb4-1684106131387838208.jpg",
+            "submission_id": 743288,
+            "total_vote": 325,
+            "votes": {
+                "11": 21,
+                "12": 14,
+                "21": 152,
+                "22": 44,
+                "23": 4,
+                "24": 11,
+                "3": 1,
+                "5": 1,
+                "6": 5,
+                "7": 9,
+                "8": 2,
+                "9": 61
+            }
+        },
+        "school_name": "23 NİSAN İLKOKULU"
+    }
+]

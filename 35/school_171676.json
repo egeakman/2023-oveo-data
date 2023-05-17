@@ -1,0 +1,323 @@
+[
+    {
+        "ballot_box_number": 2219,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28972_cb_1093799673_1684086630333322120.jpg",
+            "submission_id": 306056,
+            "total_vote": 290,
+            "votes": {
+                "1": 120,
+                "2": 2,
+                "3": 155,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28972_mv_1083799673_1684087382373254048.jpg",
+            "submission_id": 332107,
+            "total_vote": 276,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 12,
+                "12": 31,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 90,
+                "22": 25,
+                "23": 1,
+                "24": 8,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 1,
+                "8": 1,
+                "9": 101
+            }
+        },
+        "school_name": "BARBAROS HAYRETTİN İLKOKULU-BARBAROS HAYRETTİN İHO"
+    },
+    {
+        "ballot_box_number": 2224,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28972_cb_1093799898_1684095127461579099.jpg",
+            "submission_id": 499929,
+            "total_vote": 301,
+            "votes": {
+                "1": 102,
+                "2": 3,
+                "3": 181,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28972_mv_1083799898_1684095199701688400.jpg",
+            "submission_id": 500638,
+            "total_vote": 296,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 6,
+                "12": 31,
+                "15": 1,
+                "21": 117,
+                "22": 32,
+                "23": 1,
+                "24": 12,
+                "6": 5,
+                "7": 2,
+                "8": 2,
+                "9": 83
+            }
+        },
+        "school_name": "BARBAROS HAYRETTİN İLKOKULU-BARBAROS HAYRETTİN İHO"
+    },
+    {
+        "ballot_box_number": 2217,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28972_cb_1093799671_1684083751222995264.jpg",
+            "submission_id": 222942,
+            "total_vote": 284,
+            "votes": {
+                "1": 90,
+                "2": 3,
+                "3": 186,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28972_mv_1083799671_1684095077060177478.jpg",
+            "submission_id": 499455,
+            "total_vote": 278,
+            "votes": {
+                "11": 12,
+                "12": 2,
+                "15": 3,
+                "17": 1,
+                "21": 148,
+                "22": 29,
+                "24": 2,
+                "4": 1,
+                "6": 2,
+                "7": 3,
+                "8": 1,
+                "9": 74
+            }
+        },
+        "school_name": "BARBAROS HAYRETTİN İLKOKULU-BARBAROS HAYRETTİN İHO"
+    },
+    {
+        "ballot_box_number": 2220,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28972_cb_1093799674_1684095432600135174.jpg",
+            "submission_id": 503038,
+            "total_vote": 314,
+            "votes": {
+                "1": 118,
+                "2": 0,
+                "3": 186,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28972_mv_1083799674_1684094910994524826.jpg",
+            "submission_id": 497611,
+            "total_vote": 311,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 13,
+                "12": 34,
+                "21": 112,
+                "22": 42,
+                "23": 3,
+                "24": 7,
+                "6": 2,
+                "7": 3,
+                "9": 92
+            }
+        },
+        "school_name": "BARBAROS HAYRETTİN İLKOKULU-BARBAROS HAYRETTİN İHO"
+    },
+    {
+        "ballot_box_number": 2223,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28972_cb_1093799897_1684094499401438648.jpg",
+            "submission_id": 492642,
+            "total_vote": 300,
+            "votes": {
+                "1": 97,
+                "2": 0,
+                "3": 189,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23158_mv_1083799897_1684095214288061371.jpg",
+            "submission_id": 500805,
+            "total_vote": 294,
+            "votes": {
+                "10": 3,
+                "11": 11,
+                "12": 15,
+                "15": 1,
+                "21": 113,
+                "22": 56,
+                "23": 1,
+                "24": 5,
+                "3": 2,
+                "5": 3,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 79
+            }
+        },
+        "school_name": "BARBAROS HAYRETTİN İLKOKULU-BARBAROS HAYRETTİN İHO"
+    },
+    {
+        "ballot_box_number": 2221,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9a57b6ef-c86c-4a5b-8bb9-1f7720fc6118-1684105222099582645.jpg",
+            "submission_id": 598556,
+            "total_vote": 314,
+            "votes": {
+                "1": 112,
+                "2": 0,
+                "3": 184,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "BARBAROS HAYRETTİN İLKOKULU-BARBAROS HAYRETTİN İHO"
+    },
+    {
+        "ballot_box_number": 2222,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23158_cb_1093799674_1684095033936784349.jpg",
+            "submission_id": 499024,
+            "total_vote": 319,
+            "votes": {
+                "1": 99,
+                "2": 1,
+                "3": 210,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28972_mv_1083799896_1684095291092114434.jpg",
+            "submission_id": 501606,
+            "total_vote": 311,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 9,
+                "12": 26,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 2,
+                "21": 144,
+                "22": 38,
+                "23": 0,
+                "24": 5,
+                "3": 2,
+                "4": 0,
+                "6": 1,
+                "7": 2,
+                "8": 4,
+                "9": 71
+            }
+        },
+        "school_name": "BARBAROS HAYRETTİN İLKOKULU-BARBAROS HAYRETTİN İHO"
+    },
+    {
+        "ballot_box_number": 2225,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/18454bd1-4f39-44fe-aa20-4615d053aa75-1684105227907103480.jpg",
+            "submission_id": 599820,
+            "total_vote": 298,
+            "votes": {
+                "1": 106,
+                "2": 1,
+                "3": 183,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/b42a0dbd-5a8e-4c08-afb7-260334c626ff-1684105249641875999.jpg",
+            "submission_id": 604606,
+            "total_vote": 295,
+            "votes": {
+                "1": 2,
+                "11": 10,
+                "12": 16,
+                "15": 2,
+                "21": 116,
+                "22": 46,
+                "24": 4,
+                "3": 2,
+                "5": 1,
+                "6": 4,
+                "9": 92
+            }
+        },
+        "school_name": "BARBAROS HAYRETTİN İLKOKULU-BARBAROS HAYRETTİN İHO"
+    },
+    {
+        "ballot_box_number": 2218,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28972_cb_1093799672_1684083137488162426.jpg",
+            "submission_id": 211045,
+            "total_vote": 287,
+            "votes": {
+                "1": 110,
+                "2": 0,
+                "3": 177,
+                "4": 0
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28972_mv_1083799672_1684085604114011539.jpg",
+            "submission_id": 271919,
+            "total_vote": 280,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 12,
+                "12": 6,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 2,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 120,
+                "22": 43,
+                "23": 0,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 4,
+                "8": 0,
+                "9": 85
+            }
+        },
+        "school_name": "BARBAROS HAYRETTİN İLKOKULU-BARBAROS HAYRETTİN İHO"
+    }
+]

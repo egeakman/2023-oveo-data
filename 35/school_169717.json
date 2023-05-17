@@ -1,0 +1,464 @@
+[
+    {
+        "ballot_box_number": 2523,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17138_cb_1093802677_1684089740758678297.jpg",
+            "submission_id": 402861,
+            "total_vote": 344,
+            "votes": {
+                "1": 106,
+                "3": 229,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17138_mv_1083802677_1684089395201227412.jpg",
+            "submission_id": 393315,
+            "total_vote": 335,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 23,
+                "12": 43,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "20": 0,
+                "21": 152,
+                "22": 18,
+                "23": 3,
+                "24": 5,
+                "3": 7,
+                "4": 1,
+                "5": 4,
+                "6": 2,
+                "7": 4,
+                "8": 1,
+                "9": 71
+            }
+        },
+        "school_name": "ŞEHİT EGEMEN ÖZTÜRK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2526,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17138_cb_1093802680_1684089479271705555.jpg",
+            "submission_id": 395693,
+            "total_vote": 347,
+            "votes": {
+                "2": 135,
+                "3": 195,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT EGEMEN ÖZTÜRK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2518,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17138_cb_1093802532_1684089196799804138.jpg",
+            "submission_id": 388081,
+            "total_vote": 347,
+            "votes": {
+                "1": 130,
+                "2": 0,
+                "3": 199,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17138_mv_1083802532_1684089207651533417.jpg",
+            "submission_id": 388345,
+            "total_vote": 336,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 21,
+                "12": 51,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 113,
+                "22": 21,
+                "23": 1,
+                "24": 3,
+                "3": 0,
+                "5": 2,
+                "6": 1,
+                "7": 7,
+                "8": 2,
+                "9": 108
+            }
+        },
+        "school_name": "ŞEHİT EGEMEN ÖZTÜRK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2527,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17138_cb_1093802681_1684089517551942133.jpg",
+            "submission_id": 396706,
+            "total_vote": 338,
+            "votes": {
+                "1": 99,
+                "2": 1,
+                "3": 219,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT EGEMEN ÖZTÜRK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2520,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17138_cb_1093802534_1684089242539076820.jpg",
+            "submission_id": 389336,
+            "total_vote": 342,
+            "votes": {
+                "1": 87,
+                "2": 0,
+                "3": 239,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17138_mv_1083802534_1684089667511347642.jpg",
+            "submission_id": 400880,
+            "total_vote": 335,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 72,
+                "12": 67,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 2,
+                "21": 84,
+                "22": 28,
+                "23": 0,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 3,
+                "9": 64
+            }
+        },
+        "school_name": "ŞEHİT EGEMEN ÖZTÜRK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2516,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17138_cb_1093802530_1684089161519328897.jpg",
+            "submission_id": 387033,
+            "total_vote": 316,
+            "votes": {
+                "1": 99,
+                "2": 3,
+                "3": 209,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17138_mv_1083802530_1684089172185473644.jpg",
+            "submission_id": 387339,
+            "total_vote": 303,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 15,
+                "12": 51,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 131,
+                "22": 18,
+                "23": 3,
+                "24": 2,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 3,
+                "8": 2,
+                "9": 67
+            }
+        },
+        "school_name": "ŞEHİT EGEMEN ÖZTÜRK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2524,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17138_cb_1093802678_1684089422939029631.jpg",
+            "submission_id": 394096,
+            "total_vote": 345,
+            "votes": {
+                "1": 91,
+                "2": 1,
+                "3": 239,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17138_mv_1083802678_1684089436462406117.jpg",
+            "submission_id": 394435,
+            "total_vote": 340,
+            "votes": {
+                "10": 2,
+                "11": 16,
+                "12": 60,
+                "14": 2,
+                "17": 1,
+                "19": 1,
+                "20": 1,
+                "21": 145,
+                "22": 22,
+                "23": 2,
+                "24": 7,
+                "3": 1,
+                "6": 2,
+                "7": 2,
+                "9": 76
+            }
+        },
+        "school_name": "ŞEHİT EGEMEN ÖZTÜRK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2521,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17138_cb_1093802675_1684089274907657484.jpg",
+            "submission_id": 390277,
+            "total_vote": 347,
+            "votes": {
+                "1": 118,
+                "2": 0,
+                "3": 212,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17138_mv_1083802675_1684089706728288032.jpg",
+            "submission_id": 401914,
+            "total_vote": 337,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 16,
+                "12": 64,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 2,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 2,
+                "21": 119,
+                "22": 26,
+                "23": 1,
+                "24": 2,
+                "3": 4,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 90
+            }
+        },
+        "school_name": "ŞEHİT EGEMEN ÖZTÜRK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2522,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17138_cb_1093802676_1684089350107654327.jpg",
+            "submission_id": 392112,
+            "total_vote": 355,
+            "votes": {
+                "1": 111,
+                "2": 0,
+                "3": 233,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17138_mv_1083802676_1684089363796875484.jpg",
+            "submission_id": 392509,
+            "total_vote": 350,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 15,
+                "12": 51,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 130,
+                "22": 43,
+                "23": 0,
+                "24": 4,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 8,
+                "8": 0,
+                "9": 90
+            }
+        },
+        "school_name": "ŞEHİT EGEMEN ÖZTÜRK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2525,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17138_cb_1093802679_1684089450385405101.jpg",
+            "submission_id": 394853,
+            "total_vote": 347,
+            "votes": {
+                "1": 104,
+                "2": 2,
+                "3": 224,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17138_mv_1083802679_1684089465579423200.jpg",
+            "submission_id": 395281,
+            "total_vote": 344,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 18,
+                "12": 75,
+                "14": 1,
+                "15": 0,
+                "16": 1,
+                "17": 2,
+                "18": 0,
+                "19": 0,
+                "20": 0,
+                "21": 122,
+                "22": 27,
+                "23": 1,
+                "24": 5,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 4,
+                "8": 5,
+                "9": 79
+            }
+        },
+        "school_name": "ŞEHİT EGEMEN ÖZTÜRK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2517,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17138_cb_1093802531_1684089147760418073.jpg",
+            "submission_id": 386612,
+            "total_vote": 333,
+            "votes": {
+                "1": 77,
+                "2": 1,
+                "3": 241,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17138_mv_1083802531_1684089184558024403.jpg",
+            "submission_id": 387661,
+            "total_vote": 331,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 10,
+                "12": 48,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 3,
+                "2": 0,
+                "20": 0,
+                "21": 167,
+                "22": 22,
+                "23": 1,
+                "24": 5,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 70
+            }
+        },
+        "school_name": "ŞEHİT EGEMEN ÖZTÜRK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2519,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17138_cb_1093802533_1684089220218051252.jpg",
+            "submission_id": 388704,
+            "total_vote": 347,
+            "votes": {
+                "1": 122,
+                "2": 1,
+                "3": 213,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17138_mv_1083802533_1684089231824245421.jpg",
+            "submission_id": 389009,
+            "total_vote": 339,
+            "votes": {
+                "10": 4,
+                "11": 23,
+                "12": 42,
+                "14": 3,
+                "15": 0,
+                "2": 0,
+                "20": 1,
+                "21": 133,
+                "22": 29,
+                "23": 2,
+                "24": 3,
+                "3": 1,
+                "4": 0,
+                "5": 2,
+                "6": 2,
+                "7": 5,
+                "8": 1,
+                "9": 88
+            }
+        },
+        "school_name": "ŞEHİT EGEMEN ÖZTÜRK ORTAOKULU"
+    }
+]

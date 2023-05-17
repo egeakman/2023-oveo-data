@@ -1,0 +1,47 @@
+[
+    {
+        "ballot_box_number": 1375,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18504_cb_1093862869_1684084621707511603.jpg",
+            "submission_id": 243699,
+            "total_vote": 39,
+            "votes": {
+                "1": 20,
+                "2": 0,
+                "3": 19,
+                "4": 0
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18504_mv_1083862869_1684084577096913007.jpg",
+            "submission_id": 242528,
+            "total_vote": 38,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 3,
+                "12": 0,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 15,
+                "22": 0,
+                "23": 0,
+                "24": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 15
+            }
+        },
+        "school_name": "AHMET ŞEFİKA KİLİMCİ ÖZEL EĞİTİM VE UYGULAMA MERKEZİ"
+    }
+]

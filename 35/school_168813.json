@@ -1,0 +1,481 @@
+[
+    {
+        "ballot_box_number": 1041,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/684c180f-1966-4815-a7e0-c008f3736c60-1684105968746429122.jpg",
+            "submission_id": 720635,
+            "total_vote": 338,
+            "votes": {
+                "1": 111,
+                "3": 207,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "SEYİT ŞANLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1044,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/35986_cb_1093568492_1684086044149546171.jpg",
+            "submission_id": 286408,
+            "total_vote": 345,
+            "votes": {
+                "1": 70,
+                "2": 0,
+                "3": 253,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/35986_mv_1083568492_1684086097268726399.jpg",
+            "submission_id": 288083,
+            "total_vote": 342,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 19,
+                "12": 23,
+                "13": 23,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 167,
+                "22": 39,
+                "23": 0,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 7,
+                "8": 0,
+                "9": 56
+            }
+        },
+        "school_name": "SEYİT ŞANLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1047,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/35986_cb_1093570315_1684087128064181215.jpg",
+            "submission_id": 323526,
+            "total_vote": 342,
+            "votes": {
+                "1": 85,
+                "2": 3,
+                "3": 228,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/35986_mv_1083570315_1684087332630471030.jpg",
+            "submission_id": 330457,
+            "total_vote": 335,
+            "votes": {
+                "1": 2,
+                "10": 2,
+                "11": 11,
+                "12": 39,
+                "13": 16,
+                "15": 1,
+                "21": 124,
+                "22": 45,
+                "23": 2,
+                "24": 15,
+                "7": 2,
+                "9": 76
+            }
+        },
+        "school_name": "SEYİT ŞANLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1046,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/35986_cb_1093568494_1684087400782770673.jpg",
+            "submission_id": 332732,
+            "total_vote": 348,
+            "votes": {
+                "1": 89,
+                "3": 246,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f446469e-1fbc-498c-9655-0e7fbe693613-1684106108197602819.jpg",
+            "submission_id": 739668,
+            "total_vote": 345,
+            "votes": {
+                "10": 2,
+                "11": 15,
+                "12": 25,
+                "13": 31,
+                "14": 0,
+                "15": 1,
+                "21": 143,
+                "22": 44,
+                "24": 7,
+                "7": 4,
+                "9": 73
+            }
+        },
+        "school_name": "SEYİT ŞANLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1050,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/75308_bulk_999999999_1684085692751671442.jpeg",
+            "submission_id": 274822,
+            "total_vote": 338,
+            "votes": {
+                "1": 66,
+                "2": 0,
+                "3": 234,
+                "4": 38
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/75308_bulk_999999999_1684085644184317497.jpeg",
+            "submission_id": 273226,
+            "total_vote": 334,
+            "votes": {
+                "10": 1,
+                "11": 11,
+                "12": 26,
+                "13": 25,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 134,
+                "22": 47,
+                "23": 0,
+                "24": 17,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 3,
+                "7": 6,
+                "8": 0,
+                "9": 61
+            }
+        },
+        "school_name": "SEYİT ŞANLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1042,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4562c018-3217-423f-9750-4945fc458c54-1684105546788144889.jpg",
+            "submission_id": 657038,
+            "total_vote": 338,
+            "votes": {
+                "1": 77,
+                "2": 1,
+                "3": 240,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/28e7658a-ca2a-4745-b5aa-729294c96ba2-1684105541687665897.jpg",
+            "submission_id": 656432,
+            "total_vote": 336,
+            "votes": {
+                "1": 2,
+                "10": 7,
+                "11": 8,
+                "12": 13,
+                "13": 35,
+                "20": 1,
+                "21": 141,
+                "22": 46,
+                "23": 3,
+                "24": 13,
+                "3": 2,
+                "5": 1,
+                "6": 2,
+                "7": 2,
+                "8": 5,
+                "9": 55
+            }
+        },
+        "school_name": "SEYİT ŞANLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1043,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61439_cb_1093568491_1684089974553640617.jpeg",
+            "submission_id": 409063,
+            "total_vote": 345,
+            "votes": {
+                "1": 108,
+                "2": 1,
+                "3": 219,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "SEYİT ŞANLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1051,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/35986_cb_1093570319_1684087607486765798.jpg",
+            "submission_id": 339316,
+            "total_vote": 335,
+            "votes": {
+                "1": 68,
+                "2": 1,
+                "3": 245,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "SEYİT ŞANLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1038,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/35986_cb_1093568486_1684087681670862870.jpg",
+            "submission_id": 341775,
+            "total_vote": 314,
+            "votes": {
+                "1": 95,
+                "2": 0,
+                "3": 206,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61439_mv_1083568486_1684089895662338650.jpeg",
+            "submission_id": 407053,
+            "total_vote": 308,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 19,
+                "12": 15,
+                "13": 14,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 138,
+                "22": 7,
+                "23": 37,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 1,
+                "7": 0,
+                "8": 0,
+                "9": 64
+            }
+        },
+        "school_name": "SEYİT ŞANLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1039,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/35986_cb_1093568487_1684086220093971032.jpg",
+            "submission_id": 292108,
+            "total_vote": 310,
+            "votes": {
+                "1": 81,
+                "3": 221,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/35986_mv_1083568487_1684086261366471525.jpg",
+            "submission_id": 293463,
+            "total_vote": 312,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 15,
+                "12": 3,
+                "13": 22,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 152,
+                "22": 44,
+                "23": 0,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 66
+            }
+        },
+        "school_name": "SEYİT ŞANLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1049,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/35986_cb_1093570317_1684086430836983077.jpg",
+            "submission_id": 299061,
+            "total_vote": 346,
+            "votes": {
+                "1": 81,
+                "2": 0,
+                "3": 236,
+                "4": 29
+            }
+        },
+        "mv_result": null,
+        "school_name": "SEYİT ŞANLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1045,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/35986_cb_1093568493_1684085989382831341.jpg",
+            "submission_id": 284613,
+            "total_vote": 347,
+            "votes": {
+                "1": 93,
+                "2": 3,
+                "3": 236,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/36006_mv_1083568493_1684084239136916152.jpg",
+            "submission_id": 233986,
+            "total_vote": 344,
+            "votes": {
+                "10": 1,
+                "11": 10,
+                "12": 35,
+                "13": 22,
+                "15": 1,
+                "19": 1,
+                "20": 2,
+                "21": 139,
+                "22": 40,
+                "24": 7,
+                "7": 4,
+                "8": 3,
+                "9": 79
+            }
+        },
+        "school_name": "SEYİT ŞANLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1052,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/35986_cb_1093570320_1684086306020788686.jpg",
+            "submission_id": 294964,
+            "total_vote": 343,
+            "votes": {
+                "1": 80,
+                "2": 1,
+                "3": 239,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/35986_mv_1083570320_1684086365804019415.jpg",
+            "submission_id": 296856,
+            "total_vote": 341,
+            "votes": {
+                "10": 2,
+                "11": 10,
+                "12": 23,
+                "13": 26,
+                "19": 2,
+                "21": 126,
+                "22": 53,
+                "24": 22,
+                "6": 1,
+                "7": 7,
+                "8": 1,
+                "9": 68
+            }
+        },
+        "school_name": "SEYİT ŞANLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1048,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/35986_cb_1093570316_1684084786161272333.jpg",
+            "submission_id": 248156,
+            "total_vote": 343,
+            "votes": {
+                "1": 74,
+                "3": 252,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "SEYİT ŞANLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1040,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61439_cb_1093568488_1684089859329983316.jpeg",
+            "submission_id": 406036,
+            "total_vote": 353,
+            "votes": {
+                "1": 83,
+                "2": 1,
+                "3": 257,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ec219a1c-b3e5-4296-9b71-aa6f07f0527f-1684105627529827608.jpeg",
+            "submission_id": 668744,
+            "total_vote": 353,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 14,
+                "12": 25,
+                "13": 28,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 4,
+                "2": 0,
+                "20": 0,
+                "21": 165,
+                "22": 37,
+                "23": 0,
+                "24": 7,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 1,
+                "9": 64
+            }
+        },
+        "school_name": "SEYİT ŞANLI ANADOLU LİSESİ"
+    }
+]

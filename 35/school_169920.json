@@ -1,0 +1,174 @@
+[
+    {
+        "ballot_box_number": 1314,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/50638_cb_1093581528_1684081671223370895.jpg",
+            "submission_id": 191101,
+            "total_vote": 273,
+            "votes": {
+                "1": 113,
+                "2": 1,
+                "3": 149,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/06b2f2cf-4d7c-49e5-b01c-7ac0c6c555d7-1684106150502504906.jpg",
+            "submission_id": 745871,
+            "total_vote": 272,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 15,
+                "12": 19,
+                "13": 15,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 98,
+                "22": 23,
+                "23": 0,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 4,
+                "8": 0,
+                "9": 87
+            }
+        },
+        "school_name": "NERİMAN HAŞİM EMİRLİ ANAOKULU"
+    },
+    {
+        "ballot_box_number": 1315,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/50638_cb_1093581529_1684081468222273677.jpg",
+            "submission_id": 189096,
+            "total_vote": 288,
+            "votes": {
+                "1": 105,
+                "2": 1,
+                "3": 161,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f9cb28f9-accf-43f2-a5e3-ab7199f0954e-1684105748772000253.jpg",
+            "submission_id": 689067,
+            "total_vote": 284,
+            "votes": {
+                "10": 5,
+                "11": 18,
+                "12": 25,
+                "13": 22,
+                "14": 1,
+                "15": 1,
+                "21": 90,
+                "22": 22,
+                "24": 9,
+                "7": 4,
+                "8": 4,
+                "9": 83
+            }
+        },
+        "school_name": "NERİMAN HAŞİM EMİRLİ ANAOKULU"
+    },
+    {
+        "ballot_box_number": 1313,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/50638_cb_1093581527_1684080187448956638.jpg",
+            "submission_id": 180195,
+            "total_vote": 274,
+            "votes": {
+                "1": 88,
+                "2": 0,
+                "3": 176,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/50638_mv_1083581527_1684085911960565181.jpg",
+            "submission_id": 282175,
+            "total_vote": 276,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 17,
+                "12": 15,
+                "13": 18,
+                "14": 6,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 1,
+                "21": 115,
+                "22": 26,
+                "23": 1,
+                "24": 9,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 0,
+                "9": 64
+            }
+        },
+        "school_name": "NERİMAN HAŞİM EMİRLİ ANAOKULU"
+    },
+    {
+        "ballot_box_number": 1316,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/50638_cb_1093581530_1684084521845258841.jpg",
+            "submission_id": 241029,
+            "total_vote": 293,
+            "votes": {
+                "1": 93,
+                "2": 2,
+                "3": 175,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/50638_mv_1083581530_1684090731427946846.jpg",
+            "submission_id": 426245,
+            "total_vote": 292,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 6,
+                "12": 26,
+                "13": 20,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 104,
+                "22": 28,
+                "23": 1,
+                "24": 15,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 3,
+                "9": 79
+            }
+        },
+        "school_name": "NERİMAN HAŞİM EMİRLİ ANAOKULU"
+    }
+]

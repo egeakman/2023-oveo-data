@@ -1,0 +1,160 @@
+[
+    {
+        "ballot_box_number": 1273,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21493_cb_1093864772_1684091959458955870.jpg",
+            "submission_id": 448579,
+            "total_vote": 322,
+            "votes": {
+                "1": 27,
+                "2": 0,
+                "3": 287,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21493_mv_1083864772_1684091989236630721.jpg",
+            "submission_id": 449073,
+            "total_vote": 319,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 8,
+                "12": 2,
+                "13": 23,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 211,
+                "22": 39,
+                "23": 0,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 3,
+                "7": 0,
+                "8": 0,
+                "9": 24
+            }
+        },
+        "school_name": "MİRZA NİL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1276,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21493_cb_1093864795_1684091875644541785.jpg",
+            "submission_id": 447157,
+            "total_vote": 333,
+            "votes": {
+                "1": 57,
+                "2": 2,
+                "3": 266,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21502_mv_1083864773_1684092249944909762.jpg",
+            "submission_id": 453312,
+            "total_vote": 330,
+            "votes": {
+                "11": 11,
+                "12": 10,
+                "13": 45,
+                "20": 1,
+                "21": 176,
+                "22": 33,
+                "24": 7,
+                "5": 2,
+                "6": 1,
+                "7": 5,
+                "9": 39
+            }
+        },
+        "school_name": "MİRZA NİL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1275,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21493_cb_1093864774_1684091909920683134.jpg",
+            "submission_id": 447742,
+            "total_vote": 349,
+            "votes": {
+                "1": 41,
+                "2": 2,
+                "3": 297,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21493_mv_1083864774_1684091781377279707.jpg",
+            "submission_id": 445707,
+            "total_vote": 346,
+            "votes": {
+                "10": 1,
+                "11": 7,
+                "12": 28,
+                "13": 41,
+                "19": 1,
+                "21": 189,
+                "22": 37,
+                "24": 2,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "9": 36
+            }
+        },
+        "school_name": "MİRZA NİL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1274,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/56846_bulk_999999999_1684083490036917340.jpg",
+            "submission_id": 217594,
+            "total_vote": 329,
+            "votes": {
+                "1": 40,
+                "2": 0,
+                "3": 278,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/994989eb-49ec-4168-939b-23e5e8f45b92-1684105429803094735.jpeg",
+            "submission_id": 638610,
+            "total_vote": 324,
+            "votes": {
+                "10": 1,
+                "11": 12,
+                "12": 8,
+                "13": 43,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 184,
+                "22": 39,
+                "23": 0,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 1,
+                "8": 0,
+                "9": 27
+            }
+        },
+        "school_name": "MİRZA NİL İLKOKULU"
+    }
+]

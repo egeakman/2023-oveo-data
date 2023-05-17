@@ -1,0 +1,496 @@
+[
+    {
+        "ballot_box_number": 1021,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/51498ba1-b52b-413c-9a22-58fb3be66db9-1684105964175706977.jpg",
+            "submission_id": 719311,
+            "total_vote": 312,
+            "votes": {
+                "11": 5,
+                "12": 73,
+                "14": 2,
+                "15": 1,
+                "19": 1,
+                "2": 1,
+                "21": 125,
+                "22": 26,
+                "24": 6,
+                "3": 2,
+                "6": 4,
+                "7": 11,
+                "9": 55
+            }
+        },
+        "school_name": "BUCA IŞILAY SAYGIN GÜZEL SANATLAR LİSESİ"
+    },
+    {
+        "ballot_box_number": 1022,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/71514f36-2af9-43f8-909d-8850711f40ad-1684105955992434707.jpg",
+            "submission_id": 718277,
+            "total_vote": 319,
+            "votes": {
+                "1": 73,
+                "3": 218,
+                "4": 28
+            }
+        },
+        "mv_result": null,
+        "school_name": "BUCA IŞILAY SAYGIN GÜZEL SANATLAR LİSESİ"
+    },
+    {
+        "ballot_box_number": 1026,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/19909_bulk_999999999_1684094249474479629.jpg",
+            "submission_id": 489737,
+            "total_vote": 313,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 20,
+                "12": 64,
+                "13": 0,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 91,
+                "22": 48,
+                "23": 1,
+                "24": 6,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 0,
+                "9": 71
+            }
+        },
+        "school_name": "BUCA IŞILAY SAYGIN GÜZEL SANATLAR LİSESİ"
+    },
+    {
+        "ballot_box_number": 1019,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0cdd7938-8549-4c0c-a8f1-3e86fefe9b64-1684105998983360974.jpg",
+            "submission_id": 724166,
+            "total_vote": 318,
+            "votes": {
+                "1": 75,
+                "2": 3,
+                "3": 222,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/24387fc3-deb9-440f-b3f1-176b32203878-1684105989837312153.jpg",
+            "submission_id": 722700,
+            "total_vote": 317,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 8,
+                "12": 54,
+                "15": 2,
+                "17": 1,
+                "21": 127,
+                "22": 42,
+                "23": 1,
+                "24": 11,
+                "3": 1,
+                "5": 2,
+                "6": 1,
+                "7": 6,
+                "9": 56
+            }
+        },
+        "school_name": "BUCA IŞILAY SAYGIN GÜZEL SANATLAR LİSESİ"
+    },
+    {
+        "ballot_box_number": 1028,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/17027_bulk_999999999_1684099315071613933.jpeg",
+            "submission_id": 532402,
+            "total_vote": 317,
+            "votes": {
+                "1": 75,
+                "2": 1,
+                "3": 226,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "BUCA IŞILAY SAYGIN GÜZEL SANATLAR LİSESİ"
+    },
+    {
+        "ballot_box_number": 1023,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/90543e90-3611-45a7-acbd-4b39f6a84a23-1684106063399481252.jpg",
+            "submission_id": 733114,
+            "total_vote": 321,
+            "votes": {
+                "1": 81,
+                "2": 1,
+                "3": 226,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "BUCA IŞILAY SAYGIN GÜZEL SANATLAR LİSESİ"
+    },
+    {
+        "ballot_box_number": 1016,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/11274_bulk_999999999_1684196906137135528.jpeg",
+            "submission_id": 1026023,
+            "total_vote": 313,
+            "votes": {
+                "1": 89,
+                "2": 3,
+                "3": 202,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5edc2cfa-9b0b-45e3-ac40-11d3f9ae9e44-1684106027408568005.jpg",
+            "submission_id": 728095,
+            "total_vote": 314,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 19,
+                "12": 33,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 2,
+                "20": 1,
+                "21": 118,
+                "22": 47,
+                "23": 0,
+                "24": 10,
+                "3": 1,
+                "4": 1,
+                "5": 2,
+                "6": 3,
+                "7": 5,
+                "8": 0,
+                "9": 65
+            }
+        },
+        "school_name": "BUCA IŞILAY SAYGIN GÜZEL SANATLAR LİSESİ"
+    },
+    {
+        "ballot_box_number": 1027,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/db8ef456-54d2-4b13-9be3-26cfdd4dd1cf-1684105875426227931.jpg",
+            "submission_id": 707682,
+            "total_vote": 318,
+            "votes": {
+                "1": 81,
+                "2": 1,
+                "3": 227,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/11274_bulk_999999999_1684196906019749970.jpeg",
+            "submission_id": 1026022,
+            "total_vote": 311,
+            "votes": {
+                "10": 2,
+                "11": 10,
+                "12": 79,
+                "19": 1,
+                "21": 116,
+                "22": 35,
+                "23": 1,
+                "24": 6,
+                "3": 1,
+                "4": 2,
+                "8": 1,
+                "9": 57
+            }
+        },
+        "school_name": "BUCA IŞILAY SAYGIN GÜZEL SANATLAR LİSESİ"
+    },
+    {
+        "ballot_box_number": 1014,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ddcd5651-4c69-40db-89fb-79816fb54b7a-1684106035825137492.jpg",
+            "submission_id": 729408,
+            "total_vote": 313,
+            "votes": {
+                "1": 109,
+                "2": 3,
+                "3": 197,
+                "4": 4
+            }
+        },
+        "mv_result": null,
+        "school_name": "BUCA IŞILAY SAYGIN GÜZEL SANATLAR LİSESİ"
+    },
+    {
+        "ballot_box_number": 1015,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39846_cb_1093570378_1684083507808045425.jpg",
+            "submission_id": 217946,
+            "total_vote": 305,
+            "votes": {
+                "1": 93,
+                "3": 202,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39846_mv_1083570378_1684083196130110899.jpg",
+            "submission_id": 212075,
+            "total_vote": 302,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 7,
+                "12": 54,
+                "13": 0,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 103,
+                "22": 34,
+                "23": 0,
+                "24": 4,
+                "3": 0,
+                "4": 1,
+                "5": 1,
+                "6": 6,
+                "7": 4,
+                "8": 1,
+                "9": 82
+            }
+        },
+        "school_name": "BUCA IŞILAY SAYGIN GÜZEL SANATLAR LİSESİ"
+    },
+    {
+        "ballot_box_number": 1029,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/36445_bulk_999999999_1684089904825748718.jpg",
+            "submission_id": 407298,
+            "total_vote": 322,
+            "votes": {
+                "1": 97,
+                "3": 215,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/36445_bulk_999999999_1684089904678750558.jpg",
+            "submission_id": 407293,
+            "total_vote": 318,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 8,
+                "12": 50,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 130,
+                "22": 27,
+                "23": 0,
+                "24": 6,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 88
+            }
+        },
+        "school_name": "BUCA IŞILAY SAYGIN GÜZEL SANATLAR LİSESİ"
+    },
+    {
+        "ballot_box_number": 1025,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0167dc45-7ad6-4e7b-9a80-1a9c8ab725ed-1684106262327980261.jpg",
+            "submission_id": 763088,
+            "total_vote": 330,
+            "votes": {
+                "1": 96,
+                "2": 4,
+                "3": 213,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/64e653d4-9ad0-4c4e-81d8-20ce321eb504-1684106257621445798.jpg",
+            "submission_id": 762277,
+            "total_vote": 325,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 13,
+                "12": 61,
+                "17": 1,
+                "19": 1,
+                "21": 110,
+                "22": 33,
+                "23": 1,
+                "24": 12,
+                "3": 3,
+                "6": 3,
+                "7": 6,
+                "9": 77
+            }
+        },
+        "school_name": "BUCA IŞILAY SAYGIN GÜZEL SANATLAR LİSESİ"
+    },
+    {
+        "ballot_box_number": 1017,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5cbee647-0663-41a3-8251-bf83c5026b8d-1684106078907310560.jpg",
+            "submission_id": 735220,
+            "total_vote": 325,
+            "votes": {
+                "1": 4,
+                "10": 2,
+                "11": 15,
+                "12": 38,
+                "14": 0,
+                "15": 0,
+                "16": 4,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 6,
+                "20": 0,
+                "21": 135,
+                "22": 44,
+                "23": 0,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 5,
+                "8": 0,
+                "9": 62
+            }
+        },
+        "school_name": "BUCA IŞILAY SAYGIN GÜZEL SANATLAR LİSESİ"
+    },
+    {
+        "ballot_box_number": 1020,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0a9d7d44-3b08-42fc-8449-d92836c6a425-1684105894731532279.jpg",
+            "submission_id": 710247,
+            "total_vote": 319,
+            "votes": {
+                "1": 73,
+                "2": 2,
+                "3": 226,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4a4512d7-049c-4fa8-9fc1-6b562a021011-1684105923573044281.jpg",
+            "submission_id": 712860,
+            "total_vote": 314,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 9,
+                "12": 72,
+                "21": 120,
+                "22": 29,
+                "24": 11,
+                "3": 1,
+                "7": 6,
+                "9": 61
+            }
+        },
+        "school_name": "BUCA IŞILAY SAYGIN GÜZEL SANATLAR LİSESİ"
+    },
+    {
+        "ballot_box_number": 1024,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/326659db-761c-4829-a89f-24cddfafb50a-1684106226689063161.jpg",
+            "submission_id": 757520,
+            "total_vote": 317,
+            "votes": {
+                "1": 101,
+                "2": 1,
+                "3": 193,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "BUCA IŞILAY SAYGIN GÜZEL SANATLAR LİSESİ"
+    },
+    {
+        "ballot_box_number": 1018,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/17995_bulk_999999999_1684088219165990436.jpeg",
+            "submission_id": 358838,
+            "total_vote": 324,
+            "votes": {
+                "1": 83,
+                "2": 5,
+                "3": 221,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/17995_bulk_999999999_1684088219072952156.jpeg",
+            "submission_id": 358835,
+            "total_vote": 313,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 13,
+                "12": 49,
+                "13": 0,
+                "14": 0,
+                "15": 1,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 117,
+                "22": 40,
+                "23": 1,
+                "24": 8,
+                "3": 4,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 11,
+                "8": 0,
+                "9": 63
+            }
+        },
+        "school_name": "BUCA IŞILAY SAYGIN GÜZEL SANATLAR LİSESİ"
+    }
+]

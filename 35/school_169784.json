@@ -1,0 +1,579 @@
+[
+    {
+        "ballot_box_number": 1180,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16437_cb_1093864729_1684082069431116636.jpg",
+            "submission_id": 195487,
+            "total_vote": 356,
+            "votes": {
+                "1": 25,
+                "2": 0,
+                "3": 321,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16437_mv_1083864729_1684088677224458305.jpg",
+            "submission_id": 373031,
+            "total_vote": 353,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 3,
+                "12": 10,
+                "13": 38,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 2,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 217,
+                "22": 50,
+                "23": 1,
+                "24": 7,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 19
+            }
+        },
+        "school_name": "KARŞIYAKA CİHAT KORA ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1187,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19779_cb_1093864756_1684087830849449652.jpg",
+            "submission_id": 346521,
+            "total_vote": 351,
+            "votes": {
+                "1": 22,
+                "3": 326,
+                "4": 3
+            }
+        },
+        "mv_result": null,
+        "school_name": "KARŞIYAKA CİHAT KORA ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1178,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/9831_cb_1093864727_1684091725251461188.jpg",
+            "submission_id": 444837,
+            "total_vote": 342,
+            "votes": {
+                "1": 22,
+                "2": 1,
+                "3": 313,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/16437_bulk_999999999_1684092398807941906.jpeg",
+            "submission_id": 455689,
+            "total_vote": 341,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 3,
+                "12": 2,
+                "13": 27,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 241,
+                "22": 40,
+                "23": 0,
+                "24": 3,
+                "4": 3,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 19
+            }
+        },
+        "school_name": "KARŞIYAKA CİHAT KORA ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1185,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/9831_cb_1093864734_1684092378414096411.jpg",
+            "submission_id": 455366,
+            "total_vote": 354,
+            "votes": {
+                "1": 18,
+                "2": 0,
+                "3": 330,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/9831_mv_1083864734_1684092339790859062.jpg",
+            "submission_id": 454788,
+            "total_vote": 353,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 3,
+                "12": 7,
+                "13": 36,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 236,
+                "22": 49,
+                "23": 0,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 3,
+                "8": 1,
+                "9": 14
+            }
+        },
+        "school_name": "KARŞIYAKA CİHAT KORA ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1173,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/40709_cb_1093864722_1684081915785095628.jpg",
+            "submission_id": 193662,
+            "total_vote": 312,
+            "votes": {
+                "1": 29,
+                "3": 280,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/40709_mv_1083864722_1684088266596339288.jpg",
+            "submission_id": 360324,
+            "total_vote": 310,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 2,
+                "12": 3,
+                "13": 14,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 240,
+                "22": 21,
+                "23": 0,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 1,
+                "8": 0,
+                "9": 21
+            }
+        },
+        "school_name": "KARŞIYAKA CİHAT KORA ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1186,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16434_cb_1093864755_1684087571902493826.jpg",
+            "submission_id": 338208,
+            "total_vote": 353,
+            "votes": {
+                "1": 17,
+                "3": 328,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16434_mv_1083864755_1684087800756081955.jpg",
+            "submission_id": 345608,
+            "total_vote": 350,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 0,
+                "12": 10,
+                "13": 49,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 224,
+                "22": 44,
+                "23": 0,
+                "24": 4,
+                "3": 3,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 13
+            }
+        },
+        "school_name": "KARŞIYAKA CİHAT KORA ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1175,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18247_cb_1093864724_1684083915045831136.jpg",
+            "submission_id": 226376,
+            "total_vote": 317,
+            "votes": {
+                "1": 40,
+                "3": 274,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/9831_mv_1083864724_1684085209364023399.jpg",
+            "submission_id": 260134,
+            "total_vote": 311,
+            "votes": {
+                "11": 7,
+                "12": 2,
+                "13": 9,
+                "15": 3,
+                "21": 246,
+                "22": 16,
+                "24": 3,
+                "3": 1,
+                "9": 24
+            }
+        },
+        "school_name": "KARŞIYAKA CİHAT KORA ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1184,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21674_cb_1093864733_1684084019668952847.jpg",
+            "submission_id": 228528,
+            "total_vote": 357,
+            "votes": {
+                "1": 29,
+                "2": 0,
+                "3": 323,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21674_mv_1083864733_1684092064514660136.jpg",
+            "submission_id": 450383,
+            "total_vote": 356,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 5,
+                "12": 5,
+                "13": 40,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 241,
+                "23": 0,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 34,
+                "6": 0,
+                "7": 3,
+                "8": 1,
+                "9": 20
+            }
+        },
+        "school_name": "KARŞIYAKA CİHAT KORA ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1174,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21707_cb_1093864723_1684088743649937186.jpg",
+            "submission_id": 375001,
+            "total_vote": 318,
+            "votes": {
+                "1": 18,
+                "2": 0,
+                "3": 299,
+                "4": 1
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21707_mv_1083864723_1684089610803450689.jpg",
+            "submission_id": 399354,
+            "total_vote": 308,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 3,
+                "12": 4,
+                "13": 13,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 237,
+                "22": 36,
+                "23": 1,
+                "24": 0,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 0,
+                "9": 11
+            }
+        },
+        "school_name": "KARŞIYAKA CİHAT KORA ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1182,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21708_cb_1093864731_1684081982136957770.jpg",
+            "submission_id": 194387,
+            "total_vote": 351,
+            "votes": {
+                "1": 23,
+                "3": 321,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16437_mv_1083864731_1684090244632277108.jpg",
+            "submission_id": 415622,
+            "total_vote": 349,
+            "votes": {
+                "11": 4,
+                "12": 13,
+                "13": 32,
+                "21": 235,
+                "22": 43,
+                "24": 3,
+                "7": 1,
+                "8": 1,
+                "9": 17
+            }
+        },
+        "school_name": "KARŞIYAKA CİHAT KORA ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1177,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/9831_cb_1093864726_1684085250469536964.jpg",
+            "submission_id": 261314,
+            "total_vote": 348,
+            "votes": {
+                "1": 24,
+                "2": 1,
+                "3": 314,
+                "4": 9
+            }
+        },
+        "mv_result": null,
+        "school_name": "KARŞIYAKA CİHAT KORA ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1181,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/40747_cb_1093864730_1684089829510115500.jpg",
+            "submission_id": 405265,
+            "total_vote": 348,
+            "votes": {
+                "1": 25,
+                "3": 316,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d6dbf166-3fee-42a1-bbfe-b08ce17616a9-1684105232997515977.jpeg",
+            "submission_id": 601012,
+            "total_vote": 346,
+            "votes": {
+                "1": 1,
+                "11": 6,
+                "12": 5,
+                "13": 31,
+                "21": 242,
+                "22": 37,
+                "24": 3,
+                "3": 2,
+                "7": 2,
+                "9": 17
+            }
+        },
+        "school_name": "KARŞIYAKA CİHAT KORA ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1176,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16435_cb_1093864725_1684084636621101436.jpg",
+            "submission_id": 244127,
+            "total_vote": 338,
+            "votes": {
+                "1": 17,
+                "2": 1,
+                "3": 318,
+                "4": 2
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16435_mv_1083864725_1684089519093660287.jpg",
+            "submission_id": 396753,
+            "total_vote": 334,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 2,
+                "12": 10,
+                "13": 41,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 219,
+                "22": 36,
+                "23": 1,
+                "24": 1,
+                "3": 2,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 0,
+                "9": 15
+            }
+        },
+        "school_name": "KARŞIYAKA CİHAT KORA ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1183,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19785_cb_1093864732_1684088379109112018.jpg",
+            "submission_id": 363736,
+            "total_vote": 359,
+            "votes": {
+                "1": 18,
+                "2": 0,
+                "3": 332,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19785_mv_1083864732_1684088407741093879.jpg",
+            "submission_id": 364644,
+            "total_vote": 358,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 7,
+                "12": 4,
+                "13": 39,
+                "14": 4,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 245,
+                "22": 37,
+                "23": 0,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 8
+            }
+        },
+        "school_name": "KARŞIYAKA CİHAT KORA ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1179,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/9831_cb_1093864728_1684090551363935436.jpg",
+            "submission_id": 422603,
+            "total_vote": 353,
+            "votes": {
+                "1": 14,
+                "2": 2,
+                "3": 333,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/9831_mv_1083864728_1684090378217107123.jpg",
+            "submission_id": 418597,
+            "total_vote": 349,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 2,
+                "12": 7,
+                "13": 41,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 242,
+                "22": 32,
+                "23": 1,
+                "24": 3,
+                "3": 3,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 0,
+                "9": 10
+            }
+        },
+        "school_name": "KARŞIYAKA CİHAT KORA ANADOLU LİSESİ"
+    }
+]

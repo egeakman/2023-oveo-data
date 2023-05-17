@@ -1,0 +1,123 @@
+[
+    {
+        "ballot_box_number": 1111,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19647_cb_1093797945_1684085530142007923.jpg",
+            "submission_id": 269523,
+            "total_vote": 247,
+            "votes": {
+                "1": 45,
+                "2": 2,
+                "3": 190,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19647_mv_1083797945_1684085575451480310.jpg",
+            "submission_id": 270924,
+            "total_vote": 243,
+            "votes": {
+                "11": 12,
+                "12": 32,
+                "20": 1,
+                "21": 127,
+                "22": 32,
+                "24": 4,
+                "3": 1,
+                "7": 4,
+                "9": 30
+            }
+        },
+        "school_name": "ÇEŞME ATATÜRK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1112,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19647_cb_1093797946_1684085094466397571.jpg",
+            "submission_id": 256812,
+            "total_vote": 249,
+            "votes": {
+                "1": 57,
+                "2": 2,
+                "3": 182,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19647_mv_1083797946_1684085413299016070.jpg",
+            "submission_id": 266029,
+            "total_vote": 247,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 19,
+                "12": 6,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 141,
+                "22": 27,
+                "23": 0,
+                "24": 3,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 11,
+                "8": 0,
+                "9": 37
+            }
+        },
+        "school_name": "ÇEŞME ATATÜRK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1110,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19647_cb_1093797944_1684085274989692767.jpg",
+            "submission_id": 262008,
+            "total_vote": 246,
+            "votes": {
+                "1": 38,
+                "2": 1,
+                "3": 197,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19647_mv_1083797944_1684085333749676662.jpg",
+            "submission_id": 263693,
+            "total_vote": 261,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 12,
+                "12": 14,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 0,
+                "21": 169,
+                "22": 26,
+                "23": 0,
+                "24": 4,
+                "3": 0,
+                "4": 1,
+                "5": 1,
+                "6": 0,
+                "7": 2,
+                "8": 2,
+                "9": 27
+            }
+        },
+        "school_name": "ÇEŞME ATATÜRK ANADOLU LİSESİ"
+    }
+]

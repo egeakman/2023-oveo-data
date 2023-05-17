@@ -1,0 +1,72 @@
+[
+    {
+        "ballot_box_number": 1026,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/44046_bulk_999999999_1684086669462642538.jpg",
+            "submission_id": 307424,
+            "total_vote": 302,
+            "votes": {
+                "1": 127,
+                "3": 166,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/44046_bulk_999999999_1684086819524496393.jpg",
+            "submission_id": 312758,
+            "total_vote": 301,
+            "votes": {
+                "10": 2,
+                "11": 25,
+                "12": 15,
+                "19": 1,
+                "21": 101,
+                "22": 45,
+                "23": 2,
+                "24": 4,
+                "6": 2,
+                "7": 2,
+                "8": 1,
+                "9": 101
+            }
+        },
+        "school_name": "ŞEHİT JANDARMA ER ATİLLA SUNAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1025,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/44046_bulk_999999999_1684091773542994629.jpg",
+            "submission_id": 445543,
+            "total_vote": 304,
+            "votes": {
+                "1": 127,
+                "2": 2,
+                "3": 164,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/44046_bulk_999999999_1684091794992114205.jpg",
+            "submission_id": 445937,
+            "total_vote": 298,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 34,
+                "12": 2,
+                "14": 1,
+                "17": 1,
+                "19": 1,
+                "2": 1,
+                "21": 99,
+                "22": 50,
+                "23": 3,
+                "24": 3,
+                "6": 4,
+                "7": 2,
+                "9": 93
+            }
+        },
+        "school_name": "ŞEHİT JANDARMA ER ATİLLA SUNAR İLKOKULU"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "ballot_box_number": 1457,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20998_mv_1083586511_1684079395317055769.jpg",
+            "submission_id": 176848,
+            "total_vote": 45,
+            "votes": {
+                "1": 23,
+                "2": 1,
+                "3": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20998_cb_1093586511_1684079353518526389.jpg",
+            "submission_id": 176705,
+            "total_vote": 44,
+            "votes": {
+                "11": 5,
+                "21": 20,
+                "22": 1,
+                "9": 18
+            }
+        },
+        "school_name": "KURUDERE KÖY İLKOKULU"
+    }
+]

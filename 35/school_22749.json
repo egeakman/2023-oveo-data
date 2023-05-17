@@ -1,0 +1,30 @@
+[
+    {
+        "ballot_box_number": 1065,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9ca6d834-f642-46fa-bb35-97ae8080f8a3-1684106628236181478.jpg",
+            "submission_id": 815581,
+            "total_vote": 203,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 7,
+                "12": 8,
+                "13": 11,
+                "14": 3,
+                "19": 4,
+                "2": 0,
+                "20": 1,
+                "21": 72,
+                "22": 19,
+                "23": 1,
+                "24": 5,
+                "7": 5,
+                "8": 5,
+                "9": 60
+            }
+        },
+        "school_name": "ÇAMİÇİ KÖY İLKOKULU"
+    }
+]

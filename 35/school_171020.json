@@ -1,0 +1,508 @@
+[
+    {
+        "ballot_box_number": 1039,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48386_cb_1093754666_1684087682745192374.jpg",
+            "submission_id": 341816,
+            "total_vote": 306,
+            "votes": {
+                "1": 32,
+                "2": 1,
+                "3": 267,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48386_mv_1083754666_1684091801012513206.jpg",
+            "submission_id": 446006,
+            "total_vote": 302,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 8,
+                "12": 16,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 3,
+                "21": 229,
+                "22": 14,
+                "23": 0,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 2,
+                "8": 2,
+                "9": 23
+            }
+        },
+        "school_name": "OĞUZHAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1049,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22085_cb_1093755016_1684086482735143962.jpg",
+            "submission_id": 300900,
+            "total_vote": 337,
+            "votes": {
+                "1": 50,
+                "2": 1,
+                "3": 267,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22085_mv_1083755016_1684086548461000437.jpg",
+            "submission_id": 303232,
+            "total_vote": 331,
+            "votes": {
+                "11": 5,
+                "12": 34,
+                "15": 1,
+                "21": 197,
+                "22": 34,
+                "24": 9,
+                "3": 4,
+                "4": 1,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 42
+            }
+        },
+        "school_name": "OĞUZHAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1048,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/389b3257-0897-48a0-960e-06c8371132bc-1684105321312864751.jpg",
+            "submission_id": 617982,
+            "total_vote": 336,
+            "votes": {
+                "1": 44,
+                "2": 1,
+                "3": 285,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22085_cb_1093755015_1684086189566432760.jpg",
+            "submission_id": 291073,
+            "total_vote": 333,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 12,
+                "12": 18,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 229,
+                "22": 32,
+                "23": 0,
+                "24": 5,
+                "3": 3,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 1,
+                "8": 0,
+                "9": 32
+            }
+        },
+        "school_name": "OĞUZHAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1037,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32190_cb_1093754664_1684081498868126593.jpg",
+            "submission_id": 189348,
+            "total_vote": 320,
+            "votes": {
+                "1": 37,
+                "2": 2,
+                "3": 278,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32190_mv_1083754664_1684086752894967007.jpg",
+            "submission_id": 310439,
+            "total_vote": 319,
+            "votes": {
+                "1": 1,
+                "11": 8,
+                "12": 12,
+                "14": 2,
+                "19": 1,
+                "21": 233,
+                "22": 30,
+                "24": 4,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 25
+            }
+        },
+        "school_name": "OĞUZHAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1043,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/76876_cb_1093754670_1684083646883388765.jpg",
+            "submission_id": 220711,
+            "total_vote": 330,
+            "votes": {
+                "1": 37,
+                "3": 287,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/76876_mv_1083754670_1684085364858894535.jpg",
+            "submission_id": 264608,
+            "total_vote": 327,
+            "votes": {
+                "1": 1,
+                "11": 7,
+                "12": 36,
+                "22": 202,
+                "23": 42,
+                "24": 6,
+                "3": 2,
+                "5": 1,
+                "7": 1,
+                "9": 29
+            }
+        },
+        "school_name": "OĞUZHAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1040,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48397_cb_1093754667_1684081038908163483.jpg",
+            "submission_id": 185611,
+            "total_vote": 320,
+            "votes": {
+                "1": 54,
+                "2": 0,
+                "3": 254,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48397_mv_1083754667_1684085940976121203.jpg",
+            "submission_id": 283110,
+            "total_vote": 309,
+            "votes": {
+                "11": 10,
+                "12": 21,
+                "21": 179,
+                "22": 44,
+                "23": 1,
+                "24": 7,
+                "4": 1,
+                "7": 3,
+                "8": 1,
+                "9": 42
+            }
+        },
+        "school_name": "OĞUZHAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1045,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48386_cb_1093754672_1684090228662917328.jpg",
+            "submission_id": 415254,
+            "total_vote": 339,
+            "votes": {
+                "1": 48,
+                "2": 2,
+                "3": 274,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48386_mv_1083754672_1684090280154929703.jpg",
+            "submission_id": 416446,
+            "total_vote": 336,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 9,
+                "12": 33,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 193,
+                "22": 50,
+                "23": 0,
+                "24": 6,
+                "3": 1,
+                "4": 0,
+                "5": 3,
+                "6": 0,
+                "7": 1,
+                "8": 1,
+                "9": 36
+            }
+        },
+        "school_name": "OĞUZHAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1050,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22085_mv_1083755017_1684085135750936125.jpg",
+            "submission_id": 257985,
+            "total_vote": 339,
+            "votes": {
+                "1": 45,
+                "2": 0,
+                "3": 286,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22085_mv_1083755017_1684086065909538669.jpg",
+            "submission_id": 287047,
+            "total_vote": 336,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 2,
+                "12": 35,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 219,
+                "22": 29,
+                "23": 0,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 2,
+                "7": 0,
+                "8": 0,
+                "9": 38
+            }
+        },
+        "school_name": "OĞUZHAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1044,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/33261_bulk_999999999_1684090512627339104.jpeg",
+            "submission_id": 421649,
+            "total_vote": 328,
+            "votes": {
+                "1": 46,
+                "2": 1,
+                "3": 271,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/33261_bulk_999999999_1684090552423558260.jpeg",
+            "submission_id": 422626,
+            "total_vote": 327,
+            "votes": {
+                "1": 1,
+                "11": 9,
+                "12": 19,
+                "19": 1,
+                "20": 1,
+                "21": 208,
+                "22": 33,
+                "23": 1,
+                "24": 3,
+                "3": 2,
+                "4": 2,
+                "5": 4,
+                "6": 1,
+                "7": 5,
+                "9": 37
+            }
+        },
+        "school_name": "OĞUZHAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1046,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48386_cb_1093754673_1684090656430964039.jpg",
+            "submission_id": 424703,
+            "total_vote": 339,
+            "votes": {
+                "1": 35,
+                "2": 2,
+                "3": 296,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48386_mv_1083754673_1684090690743942584.jpg",
+            "submission_id": 425392,
+            "total_vote": 332,
+            "votes": {
+                "11": 7,
+                "12": 24,
+                "21": 215,
+                "22": 41,
+                "24": 4,
+                "3": 1,
+                "5": 2,
+                "7": 7,
+                "8": 2,
+                "9": 29
+            }
+        },
+        "school_name": "OĞUZHAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1047,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22085_mv_1083754674_1684085544474035381.jpg",
+            "submission_id": 269956,
+            "total_vote": 334,
+            "votes": {
+                "1": 44,
+                "3": 282,
+                "4": 8
+            }
+        },
+        "mv_result": null,
+        "school_name": "OĞUZHAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1041,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48386_cb_1093754668_1684090549610412420.jpg",
+            "submission_id": 422554,
+            "total_vote": 322,
+            "votes": {
+                "1": 48,
+                "2": 0,
+                "3": 266,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/26db3ff3-48c7-44c6-b0c4-6ad5d74cbff0-1684105331557787265.jpeg",
+            "submission_id": 620975,
+            "total_vote": 317,
+            "votes": {
+                "10": 1,
+                "11": 7,
+                "12": 32,
+                "15": 1,
+                "21": 172,
+                "22": 54,
+                "23": 1,
+                "24": 4,
+                "3": 2,
+                "5": 1,
+                "6": 4,
+                "7": 3,
+                "9": 35
+            }
+        },
+        "school_name": "OĞUZHAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1042,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48386_cb_1093754669_1684090321038717279.jpg",
+            "submission_id": 417351,
+            "total_vote": 331,
+            "votes": {
+                "1": 47,
+                "3": 274,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48386_mv_1083754669_1684090448700139800.jpg",
+            "submission_id": 420145,
+            "total_vote": 326,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 7,
+                "12": 30,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 183,
+                "22": 58,
+                "23": 1,
+                "24": 4,
+                "3": 2,
+                "4": 1,
+                "5": 1,
+                "6": 0,
+                "7": 1,
+                "8": 0,
+                "9": 37
+            }
+        },
+        "school_name": "OĞUZHAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1038,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26760_cb_1093754665_1684085328715825897.jpg",
+            "submission_id": 263559,
+            "total_vote": 325,
+            "votes": {
+                "1": 34,
+                "2": 2,
+                "3": 286,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48386_mv_1083754665_1684090749396256956.jpg",
+            "submission_id": 426573,
+            "total_vote": 316,
+            "votes": {
+                "10": 23,
+                "12": 6,
+                "14": 18,
+                "19": 1,
+                "21": 227,
+                "22": 35,
+                "23": 1,
+                "7": 3,
+                "8": 1,
+                "9": 1
+            }
+        },
+        "school_name": "OĞUZHAN İLKOKULU"
+    }
+]

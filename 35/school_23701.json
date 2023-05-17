@@ -1,0 +1,906 @@
+[
+    {
+        "ballot_box_number": 1294,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20108_mv_1083864848_1684088326720352371.jpg",
+            "submission_id": 362105,
+            "total_vote": 354,
+            "votes": {
+                "1": 45,
+                "2": 0,
+                "3": 302,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "MAVİŞEHİR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1305,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/64f6bbee-dfc0-41ef-994f-1736af7c6ba4-1684105354195929137.jpg",
+            "submission_id": 624128,
+            "total_vote": 355,
+            "votes": {
+                "1": 25,
+                "2": 2,
+                "3": 319,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21913_cb_1093864879_1684088314920689803.jpg",
+            "submission_id": 361773,
+            "total_vote": 352,
+            "votes": {
+                "1": 1,
+                "11": 6,
+                "12": 6,
+                "13": 32,
+                "14": 1,
+                "16": 1,
+                "17": 1,
+                "21": 245,
+                "22": 36,
+                "24": 4,
+                "7": 2,
+                "8": 1,
+                "9": 16
+            }
+        },
+        "school_name": "MAVİŞEHİR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1309,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41867_cb_1093864883_1684078463324699870.jpg",
+            "submission_id": 174535,
+            "total_vote": 358,
+            "votes": {
+                "1": 32,
+                "2": 1,
+                "3": 318,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41867_mv_1083864883_1684082889462668511.jpg",
+            "submission_id": 206877,
+            "total_vote": 357,
+            "votes": {
+                "10": 3,
+                "11": 2,
+                "12": 7,
+                "13": 40,
+                "21": 236,
+                "22": 35,
+                "24": 3,
+                "7": 1,
+                "8": 3,
+                "9": 27
+            }
+        },
+        "school_name": "MAVİŞEHİR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1283,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20102_cb_1093864837_1684086562146041042.jpg",
+            "submission_id": 303675,
+            "total_vote": 335,
+            "votes": {
+                "1": 24,
+                "3": 306,
+                "4": 5
+            }
+        },
+        "mv_result": null,
+        "school_name": "MAVİŞEHİR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1289,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/1baa9a46-9624-4dd1-8f3f-3d91efc690f9-1684105424500511413.jpg",
+            "submission_id": 637511,
+            "total_vote": 351,
+            "votes": {
+                "1": 25,
+                "2": 1,
+                "3": 315,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/cd4d0aac-c67c-4ea9-a1a0-08051da1a69f-1684105407130164116.jpg",
+            "submission_id": 633992,
+            "total_vote": 349,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 7,
+                "12": 6,
+                "13": 27,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 234,
+                "22": 50,
+                "23": 0,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 19
+            }
+        },
+        "school_name": "MAVİŞEHİR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1292,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16419_cb_1093864846_1684083839781899918.jpg",
+            "submission_id": 224870,
+            "total_vote": 360,
+            "votes": {
+                "1": 20,
+                "2": 2,
+                "3": 334,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16419_mv_1083864846_1684085346885009882.jpg",
+            "submission_id": 264097,
+            "total_vote": 360,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 4,
+                "12": 6,
+                "13": 35,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 252,
+                "22": 37,
+                "23": 0,
+                "24": 4,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 18
+            }
+        },
+        "school_name": "MAVİŞEHİR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1301,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21913_mv_1083864875_1684088149979629879.jpg",
+            "submission_id": 356826,
+            "total_vote": 361,
+            "votes": {
+                "1": 33,
+                "2": 2,
+                "3": 323,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/28d82319-4d52-4872-9841-6d233fdb1c35-1684105385238079084.jpg",
+            "submission_id": 629897,
+            "total_vote": 361,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 5,
+                "12": 7,
+                "13": 23,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 242,
+                "22": 54,
+                "23": 1,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 22
+            }
+        },
+        "school_name": "MAVİŞEHİR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1307,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21907_bulk_999999999_1684091133836019359.jpeg",
+            "submission_id": 434543,
+            "total_vote": 357,
+            "votes": {
+                "1": 30,
+                "2": 0,
+                "3": 319,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/b2ac1caf-9e23-417e-a7bb-8a331f712a28-1684105243110795886.jpg",
+            "submission_id": 603159,
+            "total_vote": 356,
+            "votes": {
+                "10": 0,
+                "11": 4,
+                "12": 10,
+                "13": 27,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 237,
+                "22": 40,
+                "23": 0,
+                "24": 7,
+                "3": 3,
+                "4": 1,
+                "5": 1,
+                "6": 1,
+                "7": 0,
+                "9": 25
+            }
+        },
+        "school_name": "MAVİŞEHİR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1303,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41865_cb_1093864877_1684087786292927990.jpg",
+            "submission_id": 345131,
+            "total_vote": 354,
+            "votes": {
+                "1": 40,
+                "2": 1,
+                "3": 302,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41865_mv_1083864877_1684087542386373492.jpg",
+            "submission_id": 337255,
+            "total_vote": 352,
+            "votes": {
+                "11": 6,
+                "12": 2,
+                "13": 32,
+                "21": 232,
+                "22": 32,
+                "23": 1,
+                "24": 9,
+                "6": 1,
+                "7": 7,
+                "9": 30
+            }
+        },
+        "school_name": "MAVİŞEHİR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1286,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "MAVİŞEHİR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1287,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/dd2cc3da-0cae-4ba5-8087-31ea9a843ef5-1684105441337074973.jpg",
+            "submission_id": 640166,
+            "total_vote": 336,
+            "votes": {
+                "1": 26,
+                "2": 0,
+                "3": 306,
+                "4": 4
+            }
+        },
+        "mv_result": null,
+        "school_name": "MAVİŞEHİR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1291,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/84635_bulk_999999999_1684083874888244617.jpeg",
+            "submission_id": 225613,
+            "total_vote": 352,
+            "votes": {
+                "1": 30,
+                "2": 1,
+                "3": 316,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16419_mv_1083864845_1684086006895177619.jpg",
+            "submission_id": 285123,
+            "total_vote": 353,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 1,
+                "12": 1,
+                "13": 33,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 242,
+                "22": 41,
+                "23": 0,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 27
+            }
+        },
+        "school_name": "MAVİŞEHİR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1285,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/29292_bulk_999999999_1684091522899855873.jpeg",
+            "submission_id": 441580,
+            "total_vote": 325,
+            "votes": {
+                "1": 32,
+                "2": 2,
+                "3": 291,
+                "4": 0
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/29292_bulk_999999999_1684091523021902716.jpeg",
+            "submission_id": 441582,
+            "total_vote": 318,
+            "votes": {
+                "10": 2,
+                "11": 2,
+                "12": 8,
+                "13": 17,
+                "21": 245,
+                "22": 15,
+                "7": 1,
+                "9": 28
+            }
+        },
+        "school_name": "MAVİŞEHİR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1308,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21913_cb_1093864882_1684088371697376955.jpg",
+            "submission_id": 363464,
+            "total_vote": 356,
+            "votes": {
+                "1": 32,
+                "3": 320,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21913_mv_1083864882_1684088400431519654.jpg",
+            "submission_id": 364430,
+            "total_vote": 355,
+            "votes": {
+                "12": 4,
+                "13": 38,
+                "19": 1,
+                "21": 230,
+                "22": 48,
+                "24": 2,
+                "7": 1,
+                "9": 31
+            }
+        },
+        "school_name": "MAVİŞEHİR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1298,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/84635_bulk_999999999_1684091890021654003.jpeg",
+            "submission_id": 447416,
+            "total_vote": 356,
+            "votes": {
+                "1": 37,
+                "2": 0,
+                "3": 315,
+                "4": 4
+            }
+        },
+        "mv_result": null,
+        "school_name": "MAVİŞEHİR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1284,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/55605_cb_1093864838_1684080830065478856.jpg",
+            "submission_id": 184069,
+            "total_vote": 339,
+            "votes": {
+                "1": 25,
+                "2": 2,
+                "3": 309,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/55605_mv_1083864838_1684086154184649334.jpg",
+            "submission_id": 289881,
+            "total_vote": 334,
+            "votes": {
+                "12": 3,
+                "13": 11,
+                "15": 2,
+                "19": 1,
+                "21": 259,
+                "22": 33,
+                "24": 4,
+                "6": 3,
+                "8": 18
+            }
+        },
+        "school_name": "MAVİŞEHİR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1310,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/84635_bulk_999999999_1684084092977505242.jpeg",
+            "submission_id": 230219,
+            "total_vote": 356,
+            "votes": {
+                "1": 21,
+                "2": 0,
+                "3": 322,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21913_mv_1083864884_1684088457586703982.jpg",
+            "submission_id": 366148,
+            "total_vote": 351,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 5,
+                "12": 4,
+                "13": 36,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 242,
+                "22": 37,
+                "23": 0,
+                "24": 9,
+                "3": 3,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 0,
+                "8": 1,
+                "9": 13
+            }
+        },
+        "school_name": "MAVİŞEHİR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1304,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/85bc1cf2-c6e4-47e7-813b-e329cc4ae598-1684105358255015392.jpg",
+            "submission_id": 624952,
+            "total_vote": 359,
+            "votes": {
+                "1": 44,
+                "2": 0,
+                "3": 307,
+                "4": 8
+            }
+        },
+        "mv_result": null,
+        "school_name": "MAVİŞEHİR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1302,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20106_cb_1093864876_1684081550312297770.jpg",
+            "submission_id": 189846,
+            "total_vote": 360,
+            "votes": {
+                "1": 33,
+                "2": 1,
+                "3": 321,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20106_mv_1083864876_1684085136788760265.jpg",
+            "submission_id": 258018,
+            "total_vote": 359,
+            "votes": {
+                "10": 1,
+                "11": 5,
+                "12": 6,
+                "13": 28,
+                "20": 1,
+                "21": 241,
+                "22": 40,
+                "24": 5,
+                "6": 1,
+                "7": 4,
+                "8": 1,
+                "9": 26
+            }
+        },
+        "school_name": "MAVİŞEHİR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1290,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8ba433bd-a82b-41e1-9f39-d6b96f34c088-1684105493923356959.jpg",
+            "submission_id": 650114,
+            "total_vote": 362,
+            "votes": {
+                "1": 28,
+                "3": 327,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "MAVİŞEHİR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1282,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16413_cb_1093864836_1684087060864437778.jpg",
+            "submission_id": 321107,
+            "total_vote": 334,
+            "votes": {
+                "1": 24,
+                "2": 2,
+                "3": 306,
+                "4": 2
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16413_mv_1083864836_1684087102251772964.jpg",
+            "submission_id": 322636,
+            "total_vote": 334,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 3,
+                "12": 7,
+                "13": 16,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 0,
+                "21": 260,
+                "22": 18,
+                "23": 0,
+                "24": 2,
+                "3": 3,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 1,
+                "8": 0,
+                "9": 17
+            }
+        },
+        "school_name": "MAVİŞEHİR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1288,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/94c087ca-669c-411c-baf7-9d0983371473-1684105432220810805.jpg",
+            "submission_id": 638767,
+            "total_vote": 350,
+            "votes": {
+                "1": 21,
+                "3": 326,
+                "4": 3
+            }
+        },
+        "mv_result": null,
+        "school_name": "MAVİŞEHİR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1297,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21173_bulk_999999999_1684086356458709324.jpeg",
+            "submission_id": 296582,
+            "total_vote": 354,
+            "votes": {
+                "1": 26,
+                "2": 1,
+                "3": 318,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21173_bulk_999999999_1684086384963287745.jpeg",
+            "submission_id": 297536,
+            "total_vote": 353,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 5,
+                "12": 2,
+                "13": 38,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 240,
+                "22": 36,
+                "23": 0,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 21
+            }
+        },
+        "school_name": "MAVİŞEHİR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1299,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41863_cb_1093864853_1684087454233168118.jpg",
+            "submission_id": 334412,
+            "total_vote": 355,
+            "votes": {
+                "1": 33,
+                "2": 0,
+                "3": 308,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41863_mv_1083864853_1684087382043184185.jpg",
+            "submission_id": 332090,
+            "total_vote": 355,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 6,
+                "12": 17,
+                "13": 45,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 222,
+                "22": 31,
+                "23": 0,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 2,
+                "9": 24
+            }
+        },
+        "school_name": "MAVİŞEHİR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1295,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/16415_bulk_999999999_1684089395815489020.jpeg",
+            "submission_id": 393335,
+            "total_vote": 356,
+            "votes": {
+                "1": 26,
+                "3": 326,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/79308778-5f1d-4af1-92fe-f6cc7ab9b861-1684105584136822518.jpg",
+            "submission_id": 662975,
+            "total_vote": 351,
+            "votes": {
+                "10": 2,
+                "11": 2,
+                "12": 10,
+                "13": 33,
+                "20": 1,
+                "21": 234,
+                "22": 42,
+                "24": 4,
+                "9": 23
+            }
+        },
+        "school_name": "MAVİŞEHİR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1300,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20103_cb_1093864854_1684083684939052613.jpg",
+            "submission_id": 221552,
+            "total_vote": 354,
+            "votes": {
+                "1": 23,
+                "2": 0,
+                "3": 322,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20103_mv_1083864854_1684089037403560429.jpg",
+            "submission_id": 383590,
+            "total_vote": 354,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 5,
+                "12": 7,
+                "13": 22,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 247,
+                "22": 51,
+                "23": 0,
+                "24": 4,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 0,
+                "9": 15
+            }
+        },
+        "school_name": "MAVİŞEHİR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1293,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16416_mv_1083864847_1684089263399525084.jpg",
+            "submission_id": 389911,
+            "total_vote": 346,
+            "votes": {
+                "1": 26,
+                "2": 0,
+                "3": 313,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16416_cb_1093864847_1684089229584471258.jpg",
+            "submission_id": 388961,
+            "total_vote": 341,
+            "votes": {
+                "10": 1,
+                "11": 3,
+                "12": 9,
+                "13": 36,
+                "21": 232,
+                "22": 36,
+                "24": 1,
+                "7": 4,
+                "9": 19
+            }
+        },
+        "school_name": "MAVİŞEHİR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1296,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/84635_bulk_999999999_1684083875131745926.jpeg",
+            "submission_id": 225619,
+            "total_vote": 357,
+            "votes": {
+                "1": 25,
+                "2": 0,
+                "3": 328,
+                "4": 4
+            }
+        },
+        "mv_result": null,
+        "school_name": "MAVİŞEHİR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1306,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/dbf5dbcf-fad8-4bf9-920f-cbb531e8262a-1684105302486721823.jpg",
+            "submission_id": 614884,
+            "total_vote": 164,
+            "votes": {
+                "1": 35,
+                "2": 0,
+                "3": 118,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/309b29f4-9f76-43ed-bd2e-73cbeff209e0-1684105327235967341.jpeg",
+            "submission_id": 619295,
+            "total_vote": 363,
+            "votes": {
+                "10": 1,
+                "11": 6,
+                "12": 4,
+                "13": 28,
+                "20": 1,
+                "21": 241,
+                "22": 46,
+                "23": 3,
+                "24": 5,
+                "8": 2,
+                "9": 26
+            }
+        },
+        "school_name": "MAVİŞEHİR İLKOKULU"
+    }
+]

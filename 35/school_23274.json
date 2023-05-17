@@ -1,0 +1,63 @@
+[
+    {
+        "ballot_box_number": 1027,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a8d1539f-af29-456d-848f-e4628fa0b78c-1684106525452542471.jpg",
+            "submission_id": 801021,
+            "total_vote": 214,
+            "votes": {
+                "1": 128,
+                "3": 65,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "BOZKÖY D.D.Ç. İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1026,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/61ae4d5c-8764-41a3-8251-c31da8104dea-1684106682122965893.jpg",
+            "submission_id": 823764,
+            "total_vote": 212,
+            "votes": {
+                "1": 121,
+                "2": 3,
+                "3": 74,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f8681d76-1ff1-4b3e-8305-072412b56dd2-1684106688414073928.jpg",
+            "submission_id": 824592,
+            "total_vote": 209,
+            "votes": {
+                "1": 2,
+                "10": 2,
+                "11": 33,
+                "12": 2,
+                "13": 9,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 7,
+                "20": 0,
+                "21": 41,
+                "22": 11,
+                "23": 1,
+                "24": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 3,
+                "8": 0,
+                "9": 94
+            }
+        },
+        "school_name": "BOZKÖY D.D.Ç. İLKOKULU"
+    }
+]

@@ -1,0 +1,322 @@
+[
+    {
+        "ballot_box_number": 1275,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/76104_bulk_999999999_1684090506387596700.jpg",
+            "submission_id": 421502,
+            "total_vote": 335,
+            "votes": {
+                "1": 177,
+                "2": 1,
+                "3": 139,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/76104_bulk_999999999_1684090969503766516.jpg",
+            "submission_id": 431304,
+            "total_vote": 328,
+            "votes": {
+                "10": 3,
+                "11": 21,
+                "12": 6,
+                "13": 8,
+                "14": 1,
+                "19": 3,
+                "20": 1,
+                "21": 85,
+                "22": 24,
+                "23": 1,
+                "24": 20,
+                "6": 3,
+                "7": 5,
+                "8": 5,
+                "9": 142
+            }
+        },
+        "school_name": "ÖZDEMİR ATASOY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1270,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/76104_bulk_999999999_1684090505481365706.jpg",
+            "submission_id": 421478,
+            "total_vote": 262,
+            "votes": {
+                "1": 152,
+                "2": 3,
+                "3": 101,
+                "4": 6
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÖZDEMİR ATASOY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1271,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/76104_bulk_999999999_1684090505916317001.jpg",
+            "submission_id": 421485,
+            "total_vote": 299,
+            "votes": {
+                "1": 170,
+                "2": 5,
+                "3": 108,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/76104_bulk_999999999_1684090506064069397.jpg",
+            "submission_id": 421487,
+            "total_vote": 282,
+            "votes": {
+                "1": 1,
+                "11": 20,
+                "12": 9,
+                "13": 5,
+                "14": 2,
+                "15": 2,
+                "21": 64,
+                "22": 28,
+                "23": 1,
+                "24": 8,
+                "3": 1,
+                "6": 1,
+                "7": 1,
+                "8": 8,
+                "9": 131
+            }
+        },
+        "school_name": "ÖZDEMİR ATASOY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1279,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/76104_bulk_999999999_1684091526865159520.jpg",
+            "submission_id": 441660,
+            "total_vote": 327,
+            "votes": {
+                "1": 174,
+                "2": 4,
+                "3": 133,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/76104_bulk_999999999_1684091526975053890.jpg",
+            "submission_id": 441662,
+            "total_vote": 306,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 24,
+                "12": 12,
+                "13": 8,
+                "2": 1,
+                "21": 85,
+                "22": 23,
+                "23": 1,
+                "24": 10,
+                "7": 3,
+                "8": 11,
+                "9": 123
+            }
+        },
+        "school_name": "ÖZDEMİR ATASOY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1273,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/76104_bulk_999999999_1684090505675958323.jpg",
+            "submission_id": 421481,
+            "total_vote": 335,
+            "votes": {
+                "1": 187,
+                "2": 3,
+                "3": 125,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÖZDEMİR ATASOY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1274,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/76104_bulk_999999999_1684090506282280108.jpg",
+            "submission_id": 421495,
+            "total_vote": 340,
+            "votes": {
+                "1": 191,
+                "2": 5,
+                "3": 128,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/76104_bulk_999999999_1684090506166833677.jpg",
+            "submission_id": 421490,
+            "total_vote": 315,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 31,
+                "12": 21,
+                "13": 6,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 79,
+                "22": 26,
+                "23": 1,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 2,
+                "8": 2,
+                "9": 134
+            }
+        },
+        "school_name": "ÖZDEMİR ATASOY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1278,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/76104_bulk_999999999_1684091527196923963.jpg",
+            "submission_id": 441666,
+            "total_vote": 333,
+            "votes": {
+                "1": 189,
+                "2": 3,
+                "3": 118,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/76104_bulk_999999999_1684091527082526132.jpg",
+            "submission_id": 441664,
+            "total_vote": 317,
+            "votes": {
+                "1": 1,
+                "10": 5,
+                "11": 29,
+                "12": 9,
+                "13": 4,
+                "15": 2,
+                "20": 1,
+                "21": 68,
+                "22": 30,
+                "24": 13,
+                "6": 2,
+                "7": 3,
+                "8": 7,
+                "9": 143
+            }
+        },
+        "school_name": "ÖZDEMİR ATASOY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1272,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/76104_bulk_999999999_1684093340572854728.jpg",
+            "submission_id": 468682,
+            "total_vote": 329,
+            "votes": {
+                "1": 177,
+                "2": 3,
+                "3": 129,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/76104_bulk_999999999_1684093340876599171.jpg",
+            "submission_id": 468697,
+            "total_vote": 302,
+            "votes": {
+                "1": 1,
+                "10": 6,
+                "11": 27,
+                "12": 10,
+                "13": 6,
+                "14": 2,
+                "15": 1,
+                "17": 1,
+                "21": 74,
+                "22": 21,
+                "23": 2,
+                "24": 8,
+                "6": 2,
+                "7": 4,
+                "8": 7,
+                "9": 130
+            }
+        },
+        "school_name": "ÖZDEMİR ATASOY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1276,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/76104_bulk_999999999_1684090505180061791.jpg",
+            "submission_id": 421462,
+            "total_vote": 327,
+            "votes": {
+                "1": 174,
+                "2": 3,
+                "3": 134,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÖZDEMİR ATASOY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1277,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/76104_bulk_999999999_1684090368155387740.jpg",
+            "submission_id": 418370,
+            "total_vote": 323,
+            "votes": {
+                "1": 179,
+                "2": 4,
+                "3": 112,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/76104_bulk_999999999_1684091328724317713.jpg",
+            "submission_id": 438300,
+            "total_vote": 302,
+            "votes": {
+                "1": 2,
+                "10": 3,
+                "11": 33,
+                "12": 5,
+                "13": 1,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "2": 0,
+                "20": 0,
+                "21": 76,
+                "22": 33,
+                "23": 0,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 2,
+                "8": 5,
+                "9": 128
+            }
+        },
+        "school_name": "ÖZDEMİR ATASOY İLKOKULU"
+    }
+]

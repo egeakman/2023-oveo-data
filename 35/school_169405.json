@@ -1,0 +1,616 @@
+[
+    {
+        "ballot_box_number": 2056,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/77557_bulk_999999999_1684086099981308200.jpg",
+            "submission_id": 288161,
+            "total_vote": 344,
+            "votes": {
+                "1": 116,
+                "2": 1,
+                "3": 210,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/77557_mv_1083797557_1684086193457057870.jpg",
+            "submission_id": 291202,
+            "total_vote": 339,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 11,
+                "12": 21,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 126,
+                "22": 57,
+                "23": 0,
+                "24": 13,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 7,
+                "8": 1,
+                "9": 94
+            }
+        },
+        "school_name": "NECİP FAZIL KISAKÜREK İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2057,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/77557_cb_1093797558_1684088773934807773.jpg",
+            "submission_id": 375880,
+            "total_vote": 333,
+            "votes": {
+                "1": 101,
+                "3": 217,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/17157_bulk_999999999_1684089812931359459.jpg",
+            "submission_id": 404826,
+            "total_vote": 331,
+            "votes": {
+                "10": 3,
+                "11": 16,
+                "12": 20,
+                "16": 1,
+                "17": 1,
+                "20": 2,
+                "21": 146,
+                "22": 43,
+                "23": 1,
+                "24": 5,
+                "4": 1,
+                "6": 1,
+                "7": 4,
+                "8": 1,
+                "9": 86
+            }
+        },
+        "school_name": "NECİP FAZIL KISAKÜREK İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2043,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/17157_bulk_999999999_1684088804539417880.jpg",
+            "submission_id": 376747,
+            "total_vote": 317,
+            "votes": {
+                "1": 88,
+                "2": 1,
+                "3": 217,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/17157_bulk_999999999_1684088863379379062.jpg",
+            "submission_id": 378448,
+            "total_vote": 314,
+            "votes": {
+                "10": 2,
+                "11": 12,
+                "12": 15,
+                "14": 0,
+                "15": 3,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "20": 0,
+                "21": 163,
+                "22": 39,
+                "23": 1,
+                "24": 8,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 0,
+                "8": 0,
+                "9": 70
+            }
+        },
+        "school_name": "NECİP FAZIL KISAKÜREK İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2045,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/17157_bulk_999999999_1684088939239056782.jpg",
+            "submission_id": 380777,
+            "total_vote": 324,
+            "votes": {
+                "1": 89,
+                "2": 0,
+                "3": 222,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/17157_bulk_999999999_1684088939322346106.jpg",
+            "submission_id": 380781,
+            "total_vote": 321,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 10,
+                "12": 24,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 140,
+                "22": 47,
+                "23": 1,
+                "24": 12,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 2,
+                "8": 0,
+                "9": 75
+            }
+        },
+        "school_name": "NECİP FAZIL KISAKÜREK İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2050,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/70238_cb_1093797231_1684087642310858449.jpg",
+            "submission_id": 340494,
+            "total_vote": 350,
+            "votes": {
+                "1": 102,
+                "2": 3,
+                "3": 232,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/70238_mv_1083797231_1684088140862661696.jpg",
+            "submission_id": 356558,
+            "total_vote": 343,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 15,
+                "12": 24,
+                "14": 2,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 143,
+                "22": 58,
+                "23": 0,
+                "24": 12,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 7,
+                "8": 1,
+                "9": 76
+            }
+        },
+        "school_name": "NECİP FAZIL KISAKÜREK İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2042,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17157_cb_1093797223_1684093947437692588.jpg",
+            "submission_id": 478602,
+            "total_vote": 304,
+            "votes": {
+                "1": 101,
+                "2": 0,
+                "3": 197,
+                "4": 6
+            }
+        },
+        "mv_result": null,
+        "school_name": "NECİP FAZIL KISAKÜREK İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2048,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/70238_cb_1093797229_1684085295531921692.jpg",
+            "submission_id": 262593,
+            "total_vote": 346,
+            "votes": {
+                "1": 88,
+                "2": 1,
+                "3": 234,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/70238_mv_1083797229_1684085607257946281.jpg",
+            "submission_id": 272041,
+            "total_vote": 345,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 13,
+                "12": 27,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 139,
+                "22": 71,
+                "23": 0,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 3,
+                "7": 1,
+                "8": 2,
+                "9": 75
+            }
+        },
+        "school_name": "NECİP FAZIL KISAKÜREK İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2047,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/70238_cb_1093797228_1684088253129344243.jpg",
+            "submission_id": 359881,
+            "total_vote": 337,
+            "votes": {
+                "1": 109,
+                "2": 1,
+                "3": 212,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/70238_mv_1083797228_1684088444734769906.jpg",
+            "submission_id": 365763,
+            "total_vote": 332,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 6,
+                "12": 26,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 123,
+                "22": 54,
+                "24": 11,
+                "3": 7,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 7,
+                "8": 2,
+                "9": 91
+            }
+        },
+        "school_name": "NECİP FAZIL KISAKÜREK İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2049,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/70238_cb_1093797230_1684089131059969894.jpg",
+            "submission_id": 386132,
+            "total_vote": 336,
+            "votes": {
+                "1": 108,
+                "3": 203,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/36ab932e-361c-49cb-8b35-cdafb99b3fc9-1684105531372266102.jpg",
+            "submission_id": 654801,
+            "total_vote": 338,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 20,
+                "12": 23,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 121,
+                "22": 55,
+                "23": 0,
+                "24": 8,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 6,
+                "7": 6,
+                "8": 7,
+                "9": 89
+            }
+        },
+        "school_name": "NECİP FAZIL KISAKÜREK İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2051,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/70238_cb_1093797232_1684084071398611216.jpg",
+            "submission_id": 229706,
+            "total_vote": 337,
+            "votes": {
+                "1": 105,
+                "2": 1,
+                "3": 206,
+                "4": 25
+            }
+        },
+        "mv_result": null,
+        "school_name": "NECİP FAZIL KISAKÜREK İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2053,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/77557_cb_1093797234_1684088138662021492.jpg",
+            "submission_id": 356459,
+            "total_vote": 336,
+            "votes": {
+                "1": 121,
+                "2": 0,
+                "3": 183,
+                "4": 32
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/77557_mv_1083797234_1684088185256711630.jpg",
+            "submission_id": 357843,
+            "total_vote": 326,
+            "votes": {
+                "1": 1,
+                "10": 7,
+                "11": 24,
+                "12": 11,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 126,
+                "22": 40,
+                "23": 1,
+                "24": 12,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 4,
+                "7": 4,
+                "8": 1,
+                "9": 92
+            }
+        },
+        "school_name": "NECİP FAZIL KISAKÜREK İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2058,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17157_cb_1093797559_1684093023751079281.jpg",
+            "submission_id": 464259,
+            "total_vote": 333,
+            "votes": {
+                "1": 85,
+                "2": 5,
+                "3": 224,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "NECİP FAZIL KISAKÜREK İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2055,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/77557_cb_1093797556_1684086804334207822.jpg",
+            "submission_id": 312191,
+            "total_vote": 344,
+            "votes": {
+                "1": 86,
+                "2": 2,
+                "3": 235,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/17157_bulk_999999999_1684090079128139233.jpg",
+            "submission_id": 411638,
+            "total_vote": 337,
+            "votes": {
+                "1": 1,
+                "10": 5,
+                "11": 8,
+                "12": 16,
+                "15": 1,
+                "21": 158,
+                "22": 55,
+                "24": 12,
+                "5": 2,
+                "6": 1,
+                "7": 6,
+                "9": 72
+            }
+        },
+        "school_name": "NECİP FAZIL KISAKÜREK İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2044,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17157_cb_1093797225_1684084716070654817.jpg",
+            "submission_id": 246325,
+            "total_vote": 297,
+            "votes": {
+                "1": 86,
+                "2": 2,
+                "3": 199,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17157_mv_1083797225_1684085005603623889.jpg",
+            "submission_id": 254307,
+            "total_vote": 299,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 0,
+                "12": 17,
+                "14": 0,
+                "15": 0,
+                "16": 7,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 1,
+                "20": 1,
+                "21": 127,
+                "22": 54,
+                "23": 4,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 4,
+                "8": 0,
+                "9": 71
+            }
+        },
+        "school_name": "NECİP FAZIL KISAKÜREK İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2052,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/70238_cb_1093797233_1684084415736323120.jpg",
+            "submission_id": 238396,
+            "total_vote": 348,
+            "votes": {
+                "1": 101,
+                "2": 4,
+                "3": 219,
+                "4": 24
+            }
+        },
+        "mv_result": null,
+        "school_name": "NECİP FAZIL KISAKÜREK İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2046,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/17157_bulk_999999999_1684085514247214733.jpg",
+            "submission_id": 269044,
+            "total_vote": 331,
+            "votes": {
+                "1": 98,
+                "2": 2,
+                "3": 215,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/17157_bulk_999999999_1684085968048145683.jpg",
+            "submission_id": 283986,
+            "total_vote": 324,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 16,
+                "12": 18,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 136,
+                "22": 54,
+                "23": 0,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 4,
+                "9": 77
+            }
+        },
+        "school_name": "NECİP FAZIL KISAKÜREK İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2054,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/77557_cb_1093797555_1684087078524233283.jpg",
+            "submission_id": 321764,
+            "total_vote": 342,
+            "votes": {
+                "1": 108,
+                "3": 209,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/77557_mv_1083797555_1684087106131069192.jpg",
+            "submission_id": 322759,
+            "total_vote": 338,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 20,
+                "12": 19,
+                "18": 1,
+                "21": 137,
+                "22": 50,
+                "23": 1,
+                "24": 8,
+                "3": 3,
+                "4": 1,
+                "5": 2,
+                "7": 5,
+                "9": 86
+            }
+        },
+        "school_name": "NECİP FAZIL KISAKÜREK İLKOKULU A BLOK"
+    }
+]

@@ -1,0 +1,270 @@
+[
+    {
+        "ballot_box_number": 1304,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/11619_cb_1093760808_1684087295892377049.jpg",
+            "submission_id": 329241,
+            "total_vote": 316,
+            "votes": {
+                "1": 122,
+                "2": 2,
+                "3": 175,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/11619_bulk_999999999_1684087480562505049.jpg",
+            "submission_id": 335249,
+            "total_vote": 318,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 15,
+                "12": 67,
+                "13": 13,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 76,
+                "22": 14,
+                "23": 0,
+                "24": 6,
+                "3": 0,
+                "4": 2,
+                "5": 0,
+                "6": 6,
+                "7": 1,
+                "8": 1,
+                "9": 110
+            }
+        },
+        "school_name": "EROL TARAKÇIOĞLU İLKOKUL VE ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1305,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/11619_bulk_999999999_1684080621408311656.jpg",
+            "submission_id": 182720,
+            "total_vote": 317,
+            "votes": {
+                "1": 98,
+                "2": 2,
+                "3": 205,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "EROL TARAKÇIOĞLU İLKOKUL VE ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1302,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/45176_cb_1093760804_1684078119525905347.jpg",
+            "submission_id": 174004,
+            "total_vote": 320,
+            "votes": {
+                "1": 121,
+                "2": 1,
+                "3": 189,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/11619_mv_1083760806_1684084467912860905.jpg",
+            "submission_id": 239686,
+            "total_vote": 310,
+            "votes": {
+                "1": 2,
+                "10": 5,
+                "11": 11,
+                "12": 60,
+                "13": 19,
+                "21": 86,
+                "22": 15,
+                "23": 1,
+                "24": 3,
+                "4": 1,
+                "5": 1,
+                "6": 3,
+                "7": 3,
+                "8": 2,
+                "9": 98
+            }
+        },
+        "school_name": "EROL TARAKÇIOĞLU İLKOKUL VE ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1309,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/11619_bulk_999999999_1684085747931887855.jpg",
+            "submission_id": 276614,
+            "total_vote": 324,
+            "votes": {
+                "1": 112,
+                "2": 2,
+                "3": 202,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/11619_bulk_999999999_1684085968721092555.jpg",
+            "submission_id": 284012,
+            "total_vote": 325,
+            "votes": {
+                "1": 1,
+                "10": 5,
+                "11": 27,
+                "12": 71,
+                "13": 13,
+                "15": 1,
+                "21": 95,
+                "22": 18,
+                "24": 6,
+                "5": 3,
+                "7": 1,
+                "8": 1,
+                "9": 83
+            }
+        },
+        "school_name": "EROL TARAKÇIOĞLU İLKOKUL VE ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1301,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/11619_bulk_999999999_1684086510388448742.jpg",
+            "submission_id": 301872,
+            "total_vote": 313,
+            "votes": {
+                "1": 110,
+                "2": 1,
+                "3": 185,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/45332_bulk_999999999_1684086209432148460.jpg",
+            "submission_id": 291762,
+            "total_vote": 310,
+            "votes": {
+                "10": 6,
+                "11": 8,
+                "12": 95,
+                "13": 12,
+                "14": 1,
+                "17": 1,
+                "19": 1,
+                "21": 67,
+                "22": 23,
+                "23": 1,
+                "24": 4,
+                "3": 1,
+                "4": 1,
+                "5": 1,
+                "7": 3,
+                "9": 85
+            }
+        },
+        "school_name": "EROL TARAKÇIOĞLU İLKOKUL VE ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1307,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/11619_bulk_999999999_1684085693356956714.jpg",
+            "submission_id": 274846,
+            "total_vote": 329,
+            "votes": {
+                "1": 136,
+                "2": 1,
+                "3": 178,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "EROL TARAKÇIOĞLU İLKOKUL VE ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1306,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/11619_bulk_999999999_1684085675907668286.jpg",
+            "submission_id": 274283,
+            "total_vote": 322,
+            "votes": {
+                "1": 113,
+                "2": 1,
+                "3": 199,
+                "4": 9
+            }
+        },
+        "mv_result": null,
+        "school_name": "EROL TARAKÇIOĞLU İLKOKUL VE ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1303,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/11619_bulk_999999999_1684087088583889343.jpg",
+            "submission_id": 322147,
+            "total_vote": 309,
+            "votes": {
+                "1": 105,
+                "3": 183,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "EROL TARAKÇIOĞLU İLKOKUL VE ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1308,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/45332_bulk_999999999_1684083011541659157.jpg",
+            "submission_id": 208928,
+            "total_vote": 317,
+            "votes": {
+                "1": 109,
+                "2": 1,
+                "3": 193,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/11619_bulk_999999999_1684084056433780646.jpg",
+            "submission_id": 229350,
+            "total_vote": 305,
+            "votes": {
+                "10": 4,
+                "11": 12,
+                "12": 83,
+                "13": 29,
+                "14": 1,
+                "15": 2,
+                "21": 62,
+                "22": 14,
+                "24": 9,
+                "7": 7,
+                "9": 82
+            }
+        },
+        "school_name": "EROL TARAKÇIOĞLU İLKOKUL VE ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1300,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/45176_cb_1093760804_1684083862056489848.jpg",
+            "submission_id": 225324,
+            "total_vote": 304,
+            "votes": {
+                "1": 131,
+                "2": 2,
+                "3": 158,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "EROL TARAKÇIOĞLU İLKOKUL VE ORTAOKULU"
+    }
+]

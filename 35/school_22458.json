@@ -1,0 +1,309 @@
+[
+    {
+        "ballot_box_number": 1394,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18212_cb_1093761838_1684083743771783739.jpg",
+            "submission_id": 222773,
+            "total_vote": 299,
+            "votes": {
+                "1": 113,
+                "2": 1,
+                "3": 171,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/83772_bulk_999999999_1684086381254094821.jpeg",
+            "submission_id": 297400,
+            "total_vote": 291,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 21,
+                "12": 102,
+                "13": 7,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 44,
+                "22": 16,
+                "23": 0,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 3,
+                "6": 0,
+                "7": 1,
+                "8": 1,
+                "9": 82
+            }
+        },
+        "school_name": "YAHŞELLİ-HALİDE GENCER MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1395,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/83772_cb_1093761839_1684085213255251271.jpg",
+            "submission_id": 260257,
+            "total_vote": 316,
+            "votes": {
+                "1": 124,
+                "2": 0,
+                "3": 184,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/83772_mv_1083761839_1684088214801202450.jpg",
+            "submission_id": 358701,
+            "total_vote": 308,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 8,
+                "12": 110,
+                "13": 4,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 51,
+                "22": 13,
+                "23": 0,
+                "24": 3,
+                "3": 1,
+                "4": 0,
+                "5": 2,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 107
+            }
+        },
+        "school_name": "YAHŞELLİ-HALİDE GENCER MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1393,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18212_cb_1093761837_1684083778643444901.jpg",
+            "submission_id": 223536,
+            "total_vote": 318,
+            "votes": {
+                "1": 104,
+                "2": 0,
+                "3": 196,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/83772_mv_1083761837_1684085346688445620.jpg",
+            "submission_id": 264090,
+            "total_vote": 310,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 21,
+                "12": 120,
+                "13": 6,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 54,
+                "22": 11,
+                "23": 0,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 2,
+                "7": 4,
+                "8": 1,
+                "9": 77
+            }
+        },
+        "school_name": "YAHŞELLİ-HALİDE GENCER MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1391,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/83772_cb_1093761835_1684079939095376638.jpg",
+            "submission_id": 179017,
+            "total_vote": 280,
+            "votes": {
+                "1": 89,
+                "2": 3,
+                "3": 180,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/83772_mv_1083761835_1684085070324687887.jpg",
+            "submission_id": 256157,
+            "total_vote": 268,
+            "votes": {
+                "1": 1,
+                "10": 7,
+                "11": 11,
+                "12": 110,
+                "13": 6,
+                "14": 1,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 1,
+                "20": 0,
+                "21": 52,
+                "22": 13,
+                "23": 0,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 56
+            }
+        },
+        "school_name": "YAHŞELLİ-HALİDE GENCER MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1397,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18212_cb_1093761841_1684083711112008179.jpg",
+            "submission_id": 222117,
+            "total_vote": 301,
+            "votes": {
+                "1": 97,
+                "2": 2,
+                "3": 190,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/83772_mv_1083761841_1684085767088735823.jpg",
+            "submission_id": 277345,
+            "total_vote": 293,
+            "votes": {
+                "10": 7,
+                "11": 15,
+                "12": 134,
+                "13": 4,
+                "14": 1,
+                "15": 1,
+                "21": 38,
+                "22": 18,
+                "24": 4,
+                "5": 3,
+                "7": 1,
+                "8": 1,
+                "9": 66
+            }
+        },
+        "school_name": "YAHŞELLİ-HALİDE GENCER MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1392,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18212_cb_1093761836_1684083812644343384.jpg",
+            "submission_id": 224293,
+            "total_vote": 288,
+            "votes": {
+                "1": 107,
+                "2": 1,
+                "3": 172,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/83772_mv_1083761836_1684090019920159767.jpg",
+            "submission_id": 410247,
+            "total_vote": 281,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 13,
+                "12": 111,
+                "13": 4,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 48,
+                "22": 10,
+                "23": 0,
+                "24": 3,
+                "3": 1,
+                "4": 0,
+                "5": 3,
+                "6": 0,
+                "7": 3,
+                "8": 1,
+                "9": 77
+            }
+        },
+        "school_name": "YAHŞELLİ-HALİDE GENCER MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1396,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/66736_cb_1093761840_1684083921945678766.jpg",
+            "submission_id": 226525,
+            "total_vote": 286,
+            "votes": {
+                "1": 93,
+                "2": 1,
+                "3": 181,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/66736_mv_1083761840_1684086987448152208.jpg",
+            "submission_id": 318489,
+            "total_vote": 281,
+            "votes": {
+                "10": 8,
+                "11": 8,
+                "12": 112,
+                "13": 4,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "18": 0,
+                "2": 0,
+                "21": 54,
+                "22": 13,
+                "23": 0,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 4,
+                "8": 1,
+                "9": 68
+            }
+        },
+        "school_name": "YAHŞELLİ-HALİDE GENCER MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    }
+]

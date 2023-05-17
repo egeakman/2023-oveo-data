@@ -1,0 +1,380 @@
+[
+    {
+        "ballot_box_number": 1101,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/193ca046-0a7c-4faa-bea5-66f088c07c81-1684106409953267522.jpeg",
+            "submission_id": 783893,
+            "total_vote": 298,
+            "votes": {
+                "1": 77,
+                "2": 1,
+                "3": 198,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "GAZİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1098,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c439d2ca-75d6-4efc-951b-421004077eff-1684106379195958623.jpeg",
+            "submission_id": 778554,
+            "total_vote": 308,
+            "votes": {
+                "1": 103,
+                "2": 4,
+                "3": 188,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8d12cfec-33ce-4426-9b6a-ff4297822566-1684106356260910130.jpeg",
+            "submission_id": 776135,
+            "total_vote": 310,
+            "votes": {
+                "10": 1,
+                "11": 16,
+                "12": 23,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 121,
+                "22": 52,
+                "23": 1,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 1,
+                "9": 82
+            }
+        },
+        "school_name": "GAZİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1104,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684086735513445694.jpg",
+            "submission_id": 309801,
+            "total_vote": 293,
+            "votes": {
+                "1": 70,
+                "2": 3,
+                "3": 202,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "GAZİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1099,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684083192873380665.jpg",
+            "submission_id": 212019,
+            "total_vote": 292,
+            "votes": {
+                "1": 79,
+                "2": 2,
+                "3": 187,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684085808387743793.jpg",
+            "submission_id": 278697,
+            "total_vote": 290,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 21,
+                "12": 11,
+                "15": 1,
+                "21": 125,
+                "22": 55,
+                "24": 5,
+                "3": 1,
+                "4": 1,
+                "6": 1,
+                "7": 6,
+                "9": 59
+            }
+        },
+        "school_name": "GAZİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1103,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/398ea6c7-fae4-42de-8dd5-5b1c99b73603-1684106550351323920.jpeg",
+            "submission_id": 803624,
+            "total_vote": 289,
+            "votes": {
+                "1": 69,
+                "2": 3,
+                "3": 197,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/88628076-d420-4376-90ed-cb389640b1b4-1684106078346601131.jpeg",
+            "submission_id": 735322,
+            "total_vote": 286,
+            "votes": {
+                "11": 13,
+                "12": 6,
+                "15": 1,
+                "21": 141,
+                "22": 39,
+                "24": 10,
+                "3": 2,
+                "6": 3,
+                "7": 12,
+                "8": 1,
+                "9": 58
+            }
+        },
+        "school_name": "GAZİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1102,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684085194053399806.jpg",
+            "submission_id": 259707,
+            "total_vote": 316,
+            "votes": {
+                "1": 112,
+                "2": 0,
+                "3": 189,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/91a172cc-18ed-48b4-b1b8-42b022e1b790-1684106266406770249.jpeg",
+            "submission_id": 763722,
+            "total_vote": 310,
+            "votes": {
+                "10": 2,
+                "11": 13,
+                "12": 8,
+                "14": 1,
+                "19": 1,
+                "21": 130,
+                "22": 45,
+                "24": 5,
+                "6": 2,
+                "7": 6,
+                "8": 1,
+                "9": 96
+            }
+        },
+        "school_name": "GAZİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1105,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684081751639201299.jpg",
+            "submission_id": 191919,
+            "total_vote": 299,
+            "votes": {
+                "1": 54,
+                "2": 4,
+                "3": 226,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684083221808822631.jpg",
+            "submission_id": 212539,
+            "total_vote": 297,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 7,
+                "12": 17,
+                "13": 0,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 2,
+                "21": 154,
+                "22": 52,
+                "23": 1,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 5,
+                "8": 0,
+                "9": 47
+            }
+        },
+        "school_name": "GAZİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1095,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684085808278614138.jpg",
+            "submission_id": 278691,
+            "total_vote": 279,
+            "votes": {
+                "1": 67,
+                "2": 4,
+                "3": 189,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684086307085856450.jpg",
+            "submission_id": 294998,
+            "total_vote": 271,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 17,
+                "12": 7,
+                "17": 1,
+                "19": 1,
+                "21": 140,
+                "22": 37,
+                "23": 4,
+                "24": 5,
+                "4": 1,
+                "6": 1,
+                "7": 6,
+                "8": 1,
+                "9": 47
+            }
+        },
+        "school_name": "GAZİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1100,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684088072720590631.jpg",
+            "submission_id": 354355,
+            "total_vote": 311,
+            "votes": {
+                "1": 101,
+                "2": 2,
+                "3": 186,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684085808353014759.jpg",
+            "submission_id": 278693,
+            "total_vote": 308,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 19,
+                "12": 18,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 109,
+                "22": 54,
+                "23": 1,
+                "24": 9,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 6,
+                "7": 5,
+                "8": 1,
+                "9": 79
+            }
+        },
+        "school_name": "GAZİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1096,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/181465ac-8d2a-42c3-ac1e-ab5dc2c589ba-1684106467456952287.jpeg",
+            "submission_id": 792277,
+            "total_vote": 281,
+            "votes": {
+                "1": 83,
+                "2": 3,
+                "3": 180,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684085808642043689.jpg",
+            "submission_id": 278708,
+            "total_vote": 269,
+            "votes": {
+                "10": 1,
+                "11": 13,
+                "12": 15,
+                "15": 1,
+                "17": 1,
+                "2": 2,
+                "20": 2,
+                "21": 123,
+                "22": 39,
+                "23": 2,
+                "24": 3,
+                "5": 1,
+                "7": 2,
+                "8": 3,
+                "9": 61
+            }
+        },
+        "school_name": "GAZİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1097,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684083192779550268.jpg",
+            "submission_id": 212018,
+            "total_vote": 316,
+            "votes": {
+                "1": 83,
+                "2": 1,
+                "3": 199,
+                "4": 33
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/53d9a9f6-06bc-4203-b1dd-f1636f2b5ee7-1684106047003118542.jpeg",
+            "submission_id": 731063,
+            "total_vote": 308,
+            "votes": {
+                "10": 1,
+                "11": 12,
+                "12": 7,
+                "14": 1,
+                "19": 1,
+                "21": 137,
+                "22": 58,
+                "23": 1,
+                "24": 10,
+                "5": 1,
+                "6": 1,
+                "7": 8,
+                "8": 1,
+                "9": 69
+            }
+        },
+        "school_name": "GAZİ İLKOKULU"
+    }
+]

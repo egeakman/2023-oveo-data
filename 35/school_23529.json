@@ -1,0 +1,493 @@
+[
+    {
+        "ballot_box_number": 1083,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e2ff002e-ce93-4744-beb6-137dcf9f0625-1684106371518587543.jpg",
+            "submission_id": 778981,
+            "total_vote": 324,
+            "votes": {
+                "1": 53,
+                "2": 1,
+                "3": 261,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/fbdf6442-0ce7-4d5c-b8e6-b791bcc1422d-1684106404014045011.jpg",
+            "submission_id": 783766,
+            "total_vote": 316,
+            "votes": {
+                "10": 1,
+                "11": 9,
+                "12": 14,
+                "17": 1,
+                "21": 190,
+                "22": 52,
+                "23": 3,
+                "24": 4,
+                "4": 1,
+                "5": 1,
+                "8": 2,
+                "9": 38
+            }
+        },
+        "school_name": "SAADET EMİR ORTAOKULU (A BLOK)"
+    },
+    {
+        "ballot_box_number": 1094,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/45703_cb_1093573768_1684088356071965387.jpg",
+            "submission_id": 362975,
+            "total_vote": 355,
+            "votes": {
+                "1": 90,
+                "2": 2,
+                "3": 247,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/45703_mv_1083573768_1684088482947676896.jpg",
+            "submission_id": 366940,
+            "total_vote": 342,
+            "votes": {
+                "10": 1,
+                "11": 10,
+                "12": 22,
+                "2": 1,
+                "21": 163,
+                "23": 44,
+                "24": 10,
+                "3": 2,
+                "5": 3,
+                "6": 2,
+                "7": 8,
+                "8": 1,
+                "9": 75
+            }
+        },
+        "school_name": "SAADET EMİR ORTAOKULU (A BLOK)"
+    },
+    {
+        "ballot_box_number": 1095,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/85525db6-508c-4e87-8e7d-79670f5611f1-1684105938170456737.jpg",
+            "submission_id": 715878,
+            "total_vote": 328,
+            "votes": {
+                "1": 73,
+                "2": 2,
+                "3": 242,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2fd6b395-9181-450b-b40b-34c6ce8ff539-1684105935495717599.jpg",
+            "submission_id": 715646,
+            "total_vote": 329,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 14,
+                "12": 23,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "18": 0,
+                "2": 1,
+                "20": 0,
+                "21": 149,
+                "22": 68,
+                "23": 1,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 4,
+                "7": 4,
+                "8": 1,
+                "9": 57
+            }
+        },
+        "school_name": "SAADET EMİR ORTAOKULU (A BLOK)"
+    },
+    {
+        "ballot_box_number": 1093,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/45703_cb_1093573767_1684088132175835606.jpg",
+            "submission_id": 356237,
+            "total_vote": 346,
+            "votes": {
+                "1": 83,
+                "2": 2,
+                "3": 243,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/45703_cb_1093573767_1684087437352219181.jpg",
+            "submission_id": 333874,
+            "total_vote": 341,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 15,
+                "12": 9,
+                "21": 163,
+                "22": 71,
+                "23": 2,
+                "24": 8,
+                "4": 1,
+                "7": 4,
+                "9": 63
+            }
+        },
+        "school_name": "SAADET EMİR ORTAOKULU (A BLOK)"
+    },
+    {
+        "ballot_box_number": 1089,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7cc1cad5-ae51-4d48-b20f-2afc1e5caa8f-1684105661491333075.jpg",
+            "submission_id": 675367,
+            "total_vote": 348,
+            "votes": {
+                "1": 87,
+                "2": 1,
+                "3": 247,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/697d08a7-47ea-482e-b8d1-a9cf1f648038-1684105921060030212.jpg",
+            "submission_id": 713544,
+            "total_vote": 343,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 11,
+                "12": 14,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "20": 1,
+                "21": 166,
+                "22": 58,
+                "23": 1,
+                "24": 9,
+                "3": 4,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 4,
+                "8": 3,
+                "9": 70
+            }
+        },
+        "school_name": "SAADET EMİR ORTAOKULU (A BLOK)"
+    },
+    {
+        "ballot_box_number": 1096,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/40704_cb_1093573770_1684091852707186654.jpg",
+            "submission_id": 446774,
+            "total_vote": 348,
+            "votes": {
+                "1": 79,
+                "2": 3,
+                "3": 247,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/bf0552ad-77b1-4c3a-9199-ee1f6d80a225-1684105406098358602.jpg",
+            "submission_id": 634370,
+            "total_vote": 344,
+            "votes": {
+                "10": 1,
+                "11": 18,
+                "12": 9,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 3,
+                "20": 1,
+                "21": 167,
+                "22": 60,
+                "23": 0,
+                "24": 14,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 4,
+                "7": 8,
+                "8": 1,
+                "9": 56
+            }
+        },
+        "school_name": "SAADET EMİR ORTAOKULU (A BLOK)"
+    },
+    {
+        "ballot_box_number": 1091,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/40704_cb_1093573765_1684085719550154565.jpg",
+            "submission_id": 275729,
+            "total_vote": 333,
+            "votes": {
+                "1": 98,
+                "3": 225,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/40704_mv_1083573765_1684088348878930312.jpg",
+            "submission_id": 362776,
+            "total_vote": 327,
+            "votes": {
+                "1": 0,
+                "10": 8,
+                "11": 17,
+                "12": 21,
+                "14": 0,
+                "15": 4,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 145,
+                "22": 68,
+                "23": 2,
+                "24": 4,
+                "3": 7,
+                "4": 15,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 1,
+                "9": 32
+            }
+        },
+        "school_name": "SAADET EMİR ORTAOKULU (A BLOK)"
+    },
+    {
+        "ballot_box_number": 1088,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0bac625b-4c52-4426-9ae7-3072076b8011-1684105646237493988.jpg",
+            "submission_id": 672965,
+            "total_vote": 347,
+            "votes": {
+                "1": 78,
+                "2": 2,
+                "3": 249,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "SAADET EMİR ORTAOKULU (A BLOK)"
+    },
+    {
+        "ballot_box_number": 1084,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28087_bulk_999999999_1684090666577166724.jpeg",
+            "submission_id": 424879,
+            "total_vote": 320,
+            "votes": {
+                "1": 76,
+                "2": 2,
+                "3": 227,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28087_bulk_999999999_1684090666676799930.jpeg",
+            "submission_id": 424883,
+            "total_vote": 315,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 9,
+                "12": 13,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 2,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 185,
+                "22": 27,
+                "23": 2,
+                "24": 8,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 2,
+                "8": 0,
+                "9": 60
+            }
+        },
+        "school_name": "SAADET EMİR ORTAOKULU (A BLOK)"
+    },
+    {
+        "ballot_box_number": 1092,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/988901a0-9be8-46a7-8f47-666b1e9d750b-1684105932446692216.jpg",
+            "submission_id": 714875,
+            "total_vote": 347,
+            "votes": {
+                "1": 89,
+                "2": 1,
+                "3": 245,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "SAADET EMİR ORTAOKULU (A BLOK)"
+    },
+    {
+        "ballot_box_number": 1090,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/40704_cb_1093573764_1684088280708188413.jpg",
+            "submission_id": 360729,
+            "total_vote": 361,
+            "votes": {
+                "1": 87,
+                "2": 1,
+                "3": 253,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/40704_cb_1093573764_1684088243891434626.jpg",
+            "submission_id": 359591,
+            "total_vote": 352,
+            "votes": {
+                "10": 1,
+                "11": 17,
+                "12": 19,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "20": 1,
+                "21": 172,
+                "22": 67,
+                "23": 0,
+                "24": 13,
+                "6": 0,
+                "7": 2,
+                "8": 1,
+                "9": 58
+            }
+        },
+        "school_name": "SAADET EMİR ORTAOKULU (A BLOK)"
+    },
+    {
+        "ballot_box_number": 1087,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47569_mv_1083573761_1684087339913466170.jpg",
+            "submission_id": 330670,
+            "total_vote": 342,
+            "votes": {
+                "1": 68,
+                "2": 3,
+                "3": 252,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "SAADET EMİR ORTAOKULU (A BLOK)"
+    },
+    {
+        "ballot_box_number": 1085,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49845_cb_1093573759_1684087361303509626.jpg",
+            "submission_id": 331388,
+            "total_vote": 326,
+            "votes": {
+                "1": 81,
+                "2": 1,
+                "3": 231,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49845_mv_1083573759_1684087416331511583.jpg",
+            "submission_id": 333204,
+            "total_vote": 321,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 16,
+                "12": 14,
+                "15": 1,
+                "20": 1,
+                "21": 168,
+                "22": 42,
+                "23": 1,
+                "24": 2,
+                "3": 1,
+                "5": 1,
+                "6": 1,
+                "7": 4,
+                "9": 65
+            }
+        },
+        "school_name": "SAADET EMİR ORTAOKULU (A BLOK)"
+    },
+    {
+        "ballot_box_number": 1086,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0df93f27-1e72-40ee-8f5a-fa2f39824bcd-1684105664136439186.jpg",
+            "submission_id": 676736,
+            "total_vote": 350,
+            "votes": {
+                "1": 93,
+                "2": 1,
+                "3": 240,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/11274_bulk_999999999_1684195176390375712.jpeg",
+            "submission_id": 1025970,
+            "total_vote": 349,
+            "votes": {
+                "1": 2,
+                "10": 5,
+                "11": 17,
+                "12": 9,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 167,
+                "22": 48,
+                "24": 11,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 11,
+                "8": 3,
+                "9": 71
+            }
+        },
+        "school_name": "SAADET EMİR ORTAOKULU (A BLOK)"
+    }
+]

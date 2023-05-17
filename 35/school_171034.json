@@ -1,0 +1,69 @@
+[
+    {
+        "ballot_box_number": 1057,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/60bed5dd-281c-40dd-b945-4c493274ba4f-1684106541335371917.jpg",
+            "submission_id": 802685,
+            "total_vote": 190,
+            "votes": {
+                "1": 80,
+                "2": 2,
+                "3": 93,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9400888e-84db-4d56-a15e-36c46f7c9434-1684106537204437931.jpg",
+            "submission_id": 801970,
+            "total_vote": 186,
+            "votes": {
+                "10": 5,
+                "11": 12,
+                "12": 19,
+                "21": 48,
+                "22": 33,
+                "23": 1,
+                "24": 3,
+                "5": 1,
+                "7": 5,
+                "8": 3,
+                "9": 56
+            }
+        },
+        "school_name": "KINIK GENÇLİK SPOR MERKEZİ (POYRACIK MAH.)"
+    },
+    {
+        "ballot_box_number": 1056,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ee214a22-819c-428d-9aa3-e3e293aa2f38-1684106550029325355.jpg",
+            "submission_id": 805334,
+            "total_vote": 175,
+            "votes": {
+                "1": 72,
+                "3": 93,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d281b73e-393b-49a0-964b-d08bbcfc4dce-1684106547080069491.jpg",
+            "submission_id": 804754,
+            "total_vote": 179,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 14,
+                "12": 24,
+                "13": 2,
+                "20": 1,
+                "21": 50,
+                "22": 22,
+                "24": 1,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 57
+            }
+        },
+        "school_name": "KINIK GENÇLİK SPOR MERKEZİ (POYRACIK MAH.)"
+    }
+]

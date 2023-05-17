@@ -1,0 +1,18 @@
+[
+    {
+        "ballot_box_number": 1002,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28707_bulk_999999999_1684098679678370167.jpg",
+            "submission_id": 528646,
+            "total_vote": 192,
+            "votes": {
+                "1": 34,
+                "2": 0,
+                "3": 157,
+                "4": 1
+            }
+        },
+        "mv_result": null,
+        "school_name": "BOZKÖY KÖY KONAĞI"
+    }
+]

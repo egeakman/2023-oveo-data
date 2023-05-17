@@ -1,0 +1,30 @@
+[
+    {
+        "ballot_box_number": 1155,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684092206767682244.jpg",
+            "submission_id": 452637,
+            "total_vote": 235,
+            "votes": {
+                "1": 108,
+                "2": 2,
+                "3": 122,
+                "4": 3
+            }
+        },
+        "mv_result": null,
+        "school_name": "KARAKUYU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1154,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "KARAKUYU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1156,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "KARAKUYU ORTAOKULU"
+    }
+]

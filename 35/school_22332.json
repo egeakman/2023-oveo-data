@@ -1,0 +1,61 @@
+[
+    {
+        "ballot_box_number": 1035,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/cd6db1bb-06e2-4b0a-ab02-c3180b04a025-1684105817951761764.jpeg",
+            "submission_id": 700049,
+            "total_vote": 208,
+            "votes": {
+                "1": 45,
+                "3": 159,
+                "4": 4
+            }
+        },
+        "mv_result": null,
+        "school_name": "MUSTAFA BAHÇELİ İLK VE ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1036,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/012bc508-868f-4d28-b8be-83a32224e070-1684105471330694858.jpeg",
+            "submission_id": 645314,
+            "total_vote": 193,
+            "votes": {
+                "1": 39,
+                "3": 149,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/27838da7-df1b-4d50-a84f-fe53f1076f4a-1684105463752975594.jpeg",
+            "submission_id": 643810,
+            "total_vote": 198,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 14,
+                "12": 24,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 1,
+                "21": 103,
+                "22": 21,
+                "23": 0,
+                "24": 2,
+                "3": 0,
+                "4": 2,
+                "5": 2,
+                "6": 1,
+                "7": 0,
+                "8": 1,
+                "9": 25
+            }
+        },
+        "school_name": "MUSTAFA BAHÇELİ İLK VE ORTAOKULU"
+    }
+]

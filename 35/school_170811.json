@@ -1,0 +1,365 @@
+[
+    {
+        "ballot_box_number": 1117,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/6793_bulk_999999999_1684085201226580343.jpg",
+            "submission_id": 259927,
+            "total_vote": 315,
+            "votes": {
+                "1": 109,
+                "2": 2,
+                "3": 183,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/6793_bulk_999999999_1684085201172832560.jpg",
+            "submission_id": 259925,
+            "total_vote": 308,
+            "votes": {
+                "10": 1,
+                "11": 17,
+                "12": 21,
+                "21": 120,
+                "22": 39,
+                "23": 2,
+                "24": 12,
+                "3": 1,
+                "6": 1,
+                "7": 3,
+                "9": 91
+            }
+        },
+        "school_name": "ŞEHİT KAYMAKAM MUHAMMET FATİH SAFİTÜRK ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1107,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48654_cb_1093755628_1684083773652684409.jpg",
+            "submission_id": 223440,
+            "total_vote": 316,
+            "votes": {
+                "1": 124,
+                "2": 2,
+                "3": 174,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT KAYMAKAM MUHAMMET FATİH SAFİTÜRK ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1113,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48654_cb_1093755634_1684083948012099972.jpg",
+            "submission_id": 227043,
+            "total_vote": 297,
+            "votes": {
+                "1": 114,
+                "2": 2,
+                "3": 166,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/6793_bulk_999999999_1684085201808746386.jpg",
+            "submission_id": 259946,
+            "total_vote": 302,
+            "votes": {
+                "1": 1,
+                "10": 7,
+                "11": 23,
+                "12": 44,
+                "14": 0,
+                "15": 3,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 1,
+                "21": 88,
+                "22": 38,
+                "23": 0,
+                "24": 5,
+                "3": 1,
+                "4": 2,
+                "5": 1,
+                "6": 1,
+                "7": 6,
+                "8": 1,
+                "9": 78
+            }
+        },
+        "school_name": "ŞEHİT KAYMAKAM MUHAMMET FATİH SAFİTÜRK ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1106,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e3e307f0-3148-411f-b428-8783d7622868-1684105574529979550.jpg",
+            "submission_id": 661069,
+            "total_vote": 283,
+            "votes": {
+                "1": 126,
+                "3": 151,
+                "4": 6
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT KAYMAKAM MUHAMMET FATİH SAFİTÜRK ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1109,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7ce8f364-dfed-4c7a-abf8-1c4d939d21fe-1684106154753313542.jpg",
+            "submission_id": 746310,
+            "total_vote": 306,
+            "votes": {
+                "1": 126,
+                "2": 1,
+                "3": 165,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT KAYMAKAM MUHAMMET FATİH SAFİTÜRK ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1108,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/6793_bulk_999999999_1684085201698554705.jpg",
+            "submission_id": 259945,
+            "total_vote": 335,
+            "votes": {
+                "1": 118,
+                "2": 1,
+                "3": 195,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/6793_bulk_999999999_1684085201561759185.jpg",
+            "submission_id": 259942,
+            "total_vote": 331,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 15,
+                "12": 18,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 129,
+                "22": 53,
+                "23": 0,
+                "24": 9,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 2,
+                "7": 5,
+                "8": 0,
+                "9": 94
+            }
+        },
+        "school_name": "ŞEHİT KAYMAKAM MUHAMMET FATİH SAFİTÜRK ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1111,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48654_cb_1093755632_1684079263647630839.jpg",
+            "submission_id": 176419,
+            "total_vote": 318,
+            "votes": {
+                "1": 114,
+                "2": 3,
+                "3": 186,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a7b062a8-43ba-49e1-8ab4-f2cb2ce3cdcf-1684106200948715348.jpg",
+            "submission_id": 753601,
+            "total_vote": 318,
+            "votes": {
+                "10": 5,
+                "11": 19,
+                "12": 40,
+                "20": 1,
+                "21": 104,
+                "22": 42,
+                "24": 8,
+                "3": 2,
+                "4": 1,
+                "7": 2,
+                "9": 94
+            }
+        },
+        "school_name": "ŞEHİT KAYMAKAM MUHAMMET FATİH SAFİTÜRK ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1115,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9b23da74-1959-43f9-98c9-fcd25953a29c-1684106335517976145.jpg",
+            "submission_id": 772423,
+            "total_vote": 321,
+            "votes": {
+                "1": 130,
+                "2": 0,
+                "3": 173,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a373fa28-97e8-49ad-98ab-bc6e6eed0f17-1684106332565235761.jpg",
+            "submission_id": 772020,
+            "total_vote": 316,
+            "votes": {
+                "10": 4,
+                "11": 19,
+                "12": 44,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "2": 0,
+                "20": 0,
+                "21": 83,
+                "22": 49,
+                "23": 1,
+                "24": 8,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 103
+            }
+        },
+        "school_name": "ŞEHİT KAYMAKAM MUHAMMET FATİH SAFİTÜRK ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1112,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48654_cb_1093755633_1684083609860337134.jpg",
+            "submission_id": 219941,
+            "total_vote": 308,
+            "votes": {
+                "1": 127,
+                "2": 2,
+                "3": 166,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48654_cb_1093755633_1684083552005786079.jpg",
+            "submission_id": 218816,
+            "total_vote": 305,
+            "votes": {
+                "10": 9,
+                "11": 19,
+                "12": 26,
+                "21": 97,
+                "22": 45,
+                "23": 1,
+                "24": 5,
+                "3": 1,
+                "4": 1,
+                "7": 4,
+                "9": 97
+            }
+        },
+        "school_name": "ŞEHİT KAYMAKAM MUHAMMET FATİH SAFİTÜRK ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1114,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3d1d95c2-da0b-4c02-8c3c-f3ef6828b7df-1684106254664649201.jpg",
+            "submission_id": 761996,
+            "total_vote": 314,
+            "votes": {
+                "1": 115,
+                "2": 1,
+                "3": 188,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT KAYMAKAM MUHAMMET FATİH SAFİTÜRK ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1116,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4c7d15f9-ca8b-47c2-8e37-bfd503657e97-1684106241778550240.jpg",
+            "submission_id": 760307,
+            "total_vote": 306,
+            "votes": {
+                "1": 134,
+                "2": 0,
+                "3": 155,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ef60a0af-73a9-41a4-95e3-29a21b90dbd2-1684106240502950161.jpg",
+            "submission_id": 760097,
+            "total_vote": 301,
+            "votes": {
+                "10": 7,
+                "11": 27,
+                "12": 39,
+                "14": 1,
+                "15": 1,
+                "21": 80,
+                "22": 31,
+                "23": 2,
+                "24": 8,
+                "5": 2,
+                "6": 3,
+                "7": 8,
+                "9": 92
+            }
+        },
+        "school_name": "ŞEHİT KAYMAKAM MUHAMMET FATİH SAFİTÜRK ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1110,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/6793_bulk_999999999_1684085201140116300.jpg",
+            "submission_id": 259924,
+            "total_vote": 318,
+            "votes": {
+                "1": 127,
+                "3": 177,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/6793_bulk_999999999_1684085201068826431.jpg",
+            "submission_id": 259921,
+            "total_vote": 311,
+            "votes": {
+                "10": 2,
+                "11": 19,
+                "12": 26,
+                "16": 1,
+                "21": 112,
+                "22": 33,
+                "24": 5,
+                "3": 1,
+                "4": 1,
+                "5": 1,
+                "6": 2,
+                "7": 4,
+                "9": 104
+            }
+        },
+        "school_name": "ŞEHİT KAYMAKAM MUHAMMET FATİH SAFİTÜRK ANADOLU İMAM HATİP LİSESİ"
+    }
+]

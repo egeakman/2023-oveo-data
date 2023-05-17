@@ -1,0 +1,37 @@
+[
+    {
+        "ballot_box_number": 1060,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/53519_cb_1093859274_1684081582972715279.jpg",
+            "submission_id": 190160,
+            "total_vote": 172,
+            "votes": {
+                "1": 46,
+                "3": 119,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/53519_mv_1083859274_1684081643208210642.jpg",
+            "submission_id": 190839,
+            "total_vote": 170,
+            "votes": {
+                "10": 2,
+                "11": 6,
+                "12": 5,
+                "13": 3,
+                "14": 1,
+                "20": 2,
+                "21": 71,
+                "22": 32,
+                "23": 3,
+                "24": 2,
+                "3": 4,
+                "5": 3,
+                "6": 2,
+                "9": 34
+            }
+        },
+        "school_name": "İSLAMLAR KÖY KAHVEHANESİ"
+    }
+]

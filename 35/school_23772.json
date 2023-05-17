@@ -1,0 +1,139 @@
+[
+    {
+        "ballot_box_number": 1034,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c4414793-dcb5-487a-bcfc-61ea049276f6-1684106764636332581.jpeg",
+            "submission_id": 834350,
+            "total_vote": 280,
+            "votes": {
+                "1": 109,
+                "2": 3,
+                "3": 164,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2a125dcf-c1ac-4524-a3ef-992c6abc484c-1684106517699160895.jpg",
+            "submission_id": 800764,
+            "total_vote": 276,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 15,
+                "12": 40,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 95,
+                "22": 21,
+                "23": 0,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 3,
+                "6": 6,
+                "7": 0,
+                "8": 1,
+                "9": 90
+            }
+        },
+        "school_name": "BULGURCA İLK-ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1031,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a069113a-0803-49ab-95cd-a0804f34d15a-1684106352916442929.jpeg",
+            "submission_id": 775636,
+            "total_vote": 279,
+            "votes": {
+                "1": 105,
+                "2": 2,
+                "3": 163,
+                "4": 9
+            }
+        },
+        "mv_result": null,
+        "school_name": "BULGURCA İLK-ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1033,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/116db28a-6b8d-49e9-88d7-ec25cc873d20-1684106070950204105.jpeg",
+            "submission_id": 734134,
+            "total_vote": 269,
+            "votes": {
+                "1": 112,
+                "2": 2,
+                "3": 149,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/1cb6a8e9-ed6e-45f2-9afa-4a18c673c22f-1684106085240835904.jpeg",
+            "submission_id": 736361,
+            "total_vote": 275,
+            "votes": {
+                "10": 2,
+                "11": 10,
+                "12": 36,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 2,
+                "21": 107,
+                "22": 12,
+                "23": 0,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 1,
+                "8": 1,
+                "9": 95
+            }
+        },
+        "school_name": "BULGURCA İLK-ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1032,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/97f497dd-c4d4-4e50-a3aa-42e46538f532-1684106261275301407.jpeg",
+            "submission_id": 762857,
+            "total_vote": 281,
+            "votes": {
+                "1": 132,
+                "2": 2,
+                "3": 136,
+                "4": 11
+            }
+        },
+        "mv_result": null,
+        "school_name": "BULGURCA İLK-ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1030,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/49056280-1c72-4ecd-b78a-35888c1038f3-1684105465920984207.jpeg",
+            "submission_id": 644223,
+            "total_vote": 267,
+            "votes": {
+                "1": 86,
+                "2": 2,
+                "3": 170,
+                "4": 9
+            }
+        },
+        "mv_result": null,
+        "school_name": "BULGURCA İLK-ORTA OKULU"
+    }
+]

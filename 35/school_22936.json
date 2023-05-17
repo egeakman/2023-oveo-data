@@ -1,0 +1,18 @@
+[
+    {
+        "ballot_box_number": 1374,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25162_cb_1093862868_1684083459524364331.jpg",
+            "submission_id": 217012,
+            "total_vote": 107,
+            "votes": {
+                "1": 41,
+                "2": 0,
+                "3": 66,
+                "4": 0
+            }
+        },
+        "mv_result": null,
+        "school_name": "KESTELLİ ŞERİFE ECZACIBAŞI ORTAOKULU"
+    }
+]

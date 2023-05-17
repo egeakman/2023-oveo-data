@@ -1,0 +1,368 @@
+[
+    {
+        "ballot_box_number": 1083,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21661_cb_1093573169_1684095520714006973.jpeg",
+            "submission_id": 503981,
+            "total_vote": 327,
+            "votes": {
+                "1": 51,
+                "2": 4,
+                "3": 265,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ABDULLAH TAYYİP OLÇOK ANADOLU İMAM HATİP LİSESİ."
+    },
+    {
+        "ballot_box_number": 1079,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21661_bulk_999999999_1684087762892335879.jpg",
+            "submission_id": 344435,
+            "total_vote": 324,
+            "votes": {
+                "1": 45,
+                "2": 2,
+                "3": 267,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ABDULLAH TAYYİP OLÇOK ANADOLU İMAM HATİP LİSESİ."
+    },
+    {
+        "ballot_box_number": 1078,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21661_bulk_999999999_1684085055232077189.jpg",
+            "submission_id": 255760,
+            "total_vote": 333,
+            "votes": {
+                "1": 51,
+                "2": 2,
+                "3": 270,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ABDULLAH TAYYİP OLÇOK ANADOLU İMAM HATİP LİSESİ."
+    },
+    {
+        "ballot_box_number": 1076,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21661_bulk_999999999_1684089739555406506.jpg",
+            "submission_id": 402833,
+            "total_vote": 334,
+            "votes": {
+                "1": 68,
+                "3": 258,
+                "4": 8
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ABDULLAH TAYYİP OLÇOK ANADOLU İMAM HATİP LİSESİ."
+    },
+    {
+        "ballot_box_number": 1075,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21661_cb_1093573161_1684086998452863788.jpg",
+            "submission_id": 318896,
+            "total_vote": 332,
+            "votes": {
+                "1": 69,
+                "2": 1,
+                "3": 252,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21661_mv_1083573161_1684087064008912961.jpg",
+            "submission_id": 321226,
+            "total_vote": 330,
+            "votes": {
+                "10": 2,
+                "11": 9,
+                "12": 16,
+                "21": 185,
+                "22": 41,
+                "23": 1,
+                "24": 4,
+                "3": 3,
+                "5": 1,
+                "6": 1,
+                "7": 7,
+                "8": 2,
+                "9": 58
+            }
+        },
+        "school_name": "ŞEHİT ABDULLAH TAYYİP OLÇOK ANADOLU İMAM HATİP LİSESİ."
+    },
+    {
+        "ballot_box_number": 1077,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21661_bulk_999999999_1684084773088411129.jpg",
+            "submission_id": 247853,
+            "total_vote": 319,
+            "votes": {
+                "1": 59,
+                "2": 1,
+                "3": 243,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21661_bulk_999999999_1684085818179091208.jpg",
+            "submission_id": 279043,
+            "total_vote": 318,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 10,
+                "12": 23,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 163,
+                "22": 52,
+                "23": 0,
+                "24": 9,
+                "3": 2,
+                "4": 1,
+                "5": 1,
+                "6": 2,
+                "7": 2,
+                "8": 0,
+                "9": 47
+            }
+        },
+        "school_name": "ŞEHİT ABDULLAH TAYYİP OLÇOK ANADOLU İMAM HATİP LİSESİ."
+    },
+    {
+        "ballot_box_number": 1085,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21661_bulk_999999999_1684085502197785234.jpg",
+            "submission_id": 268659,
+            "total_vote": 332,
+            "votes": {
+                "1": 70,
+                "2": 1,
+                "3": 248,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21661_bulk_999999999_1684092356052912131.jpg",
+            "submission_id": 455044,
+            "total_vote": 331,
+            "votes": {
+                "10": 0,
+                "11": 19,
+                "12": 10,
+                "14": 1,
+                "15": 0,
+                "17": 0,
+                "19": 0,
+                "20": 1,
+                "21": 187,
+                "22": 50,
+                "23": 0,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 1,
+                "7": 3,
+                "8": 2,
+                "9": 43
+            }
+        },
+        "school_name": "ŞEHİT ABDULLAH TAYYİP OLÇOK ANADOLU İMAM HATİP LİSESİ."
+    },
+    {
+        "ballot_box_number": 1082,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21661_bulk_999999999_1684091473968842369.jpg",
+            "submission_id": 440752,
+            "total_vote": 332,
+            "votes": {
+                "1": 67,
+                "2": 0,
+                "3": 259,
+                "4": 6
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ABDULLAH TAYYİP OLÇOK ANADOLU İMAM HATİP LİSESİ."
+    },
+    {
+        "ballot_box_number": 1074,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21661_bulk_999999999_1684088188445165129.jpg",
+            "submission_id": 357946,
+            "total_vote": 316,
+            "votes": {
+                "1": 66,
+                "2": 1,
+                "3": 246,
+                "4": 3
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ABDULLAH TAYYİP OLÇOK ANADOLU İMAM HATİP LİSESİ."
+    },
+    {
+        "ballot_box_number": 1084,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21661_bulk_999999999_1684085350079711852.jpg",
+            "submission_id": 264204,
+            "total_vote": 321,
+            "votes": {
+                "1": 49,
+                "3": 259,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ABDULLAH TAYYİP OLÇOK ANADOLU İMAM HATİP LİSESİ."
+    },
+    {
+        "ballot_box_number": 1073,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21661_bulk_999999999_1684086703770371025.jpg",
+            "submission_id": 308635,
+            "total_vote": 320,
+            "votes": {
+                "1": 53,
+                "2": 0,
+                "3": 256,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21661_mv_1083573159_1684094643088706943.jpeg",
+            "submission_id": 494389,
+            "total_vote": 313,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 11,
+                "12": 5,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 212,
+                "22": 32,
+                "23": 4,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 40
+            }
+        },
+        "school_name": "ŞEHİT ABDULLAH TAYYİP OLÇOK ANADOLU İMAM HATİP LİSESİ."
+    },
+    {
+        "ballot_box_number": 1081,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/66b24c08-156c-4ed1-87f7-cc275e6b0e0d-1684105289799450701.jpg",
+            "submission_id": 612080,
+            "total_vote": 322,
+            "votes": {
+                "1": 54,
+                "2": 0,
+                "3": 258,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/38970_bulk_999999999_1684091243762746827.jpeg",
+            "submission_id": 436672,
+            "total_vote": 315,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 15,
+                "12": 16,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 196,
+                "22": 45,
+                "23": 0,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 35
+            }
+        },
+        "school_name": "ŞEHİT ABDULLAH TAYYİP OLÇOK ANADOLU İMAM HATİP LİSESİ."
+    },
+    {
+        "ballot_box_number": 1080,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21661_bulk_999999999_1684087187846592595.jpg",
+            "submission_id": 325604,
+            "total_vote": 327,
+            "votes": {
+                "1": 50,
+                "2": 2,
+                "3": 261,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21661_bulk_999999999_1684087737746043022.jpg",
+            "submission_id": 343611,
+            "total_vote": 322,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 8,
+                "12": 8,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 201,
+                "22": 51,
+                "23": 0,
+                "24": 7,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 2,
+                "9": 36
+            }
+        },
+        "school_name": "ŞEHİT ABDULLAH TAYYİP OLÇOK ANADOLU İMAM HATİP LİSESİ."
+    }
+]

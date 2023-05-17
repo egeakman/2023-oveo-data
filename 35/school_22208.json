@@ -1,0 +1,181 @@
+[
+    {
+        "ballot_box_number": 1004,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49510_cb_1093568458_1684081709143887156.jpg",
+            "submission_id": 191506,
+            "total_vote": 277,
+            "votes": {
+                "1": 69,
+                "3": 191,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49510_mv_1083568458_1684087172842849674.jpg",
+            "submission_id": 325091,
+            "total_vote": 272,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 7,
+                "12": 6,
+                "13": 33,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 134,
+                "22": 17,
+                "23": 0,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 5,
+                "8": 1,
+                "9": 53
+            }
+        },
+        "school_name": "TEKEL ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1003,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/49510_bulk_999999999_1684084116945112370.jpg",
+            "submission_id": 230814,
+            "total_vote": 293,
+            "votes": {
+                "1": 69,
+                "2": 0,
+                "3": 218,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49510_mv_1083568457_1684089365790944429.jpg",
+            "submission_id": 392555,
+            "total_vote": 291,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 14,
+                "12": 25,
+                "13": 24,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 129,
+                "22": 29,
+                "23": 1,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 4,
+                "6": 2,
+                "7": 5,
+                "8": 1,
+                "9": 51
+            }
+        },
+        "school_name": "TEKEL ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1001,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49510_cb_1093568455_1684081522780904276.jpg",
+            "submission_id": 189585,
+            "total_vote": 277,
+            "votes": {
+                "1": 59,
+                "3": 203,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49510_mv_1083568455_1684085197828794467.jpg",
+            "submission_id": 259824,
+            "total_vote": 272,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 4,
+                "12": 22,
+                "13": 23,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 144,
+                "22": 14,
+                "23": 1,
+                "24": 12,
+                "3": 0,
+                "4": 1,
+                "5": 1,
+                "6": 0,
+                "7": 3,
+                "8": 1,
+                "9": 46
+            }
+        },
+        "school_name": "TEKEL ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1002,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49510_cb_1093568456_1684085052767734088.jpg",
+            "submission_id": 255686,
+            "total_vote": 284,
+            "votes": {
+                "1": 70,
+                "3": 203,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49510_mv_1083568456_1684085072457354984.jpg",
+            "submission_id": 256206,
+            "total_vote": 280,
+            "votes": {
+                "10": 3,
+                "11": 10,
+                "12": 22,
+                "13": 36,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "20": 0,
+                "21": 109,
+                "22": 40,
+                "23": 1,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 2,
+                "8": 1,
+                "9": 46
+            }
+        },
+        "school_name": "TEKEL ORTA OKULU"
+    }
+]

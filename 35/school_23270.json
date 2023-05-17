@@ -1,0 +1,62 @@
+[
+    {
+        "ballot_box_number": 1207,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/77636_bulk_999999999_1684081963039250069.jpg",
+            "submission_id": 194168,
+            "total_vote": 211,
+            "votes": {
+                "1": 28,
+                "2": 1,
+                "3": 180,
+                "4": 2
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/77636_bulk_999999999_1684081963089231359.jpg",
+            "submission_id": 194169,
+            "total_vote": 204,
+            "votes": {
+                "11": 2,
+                "12": 165,
+                "13": 3,
+                "16": 1,
+                "17": 1,
+                "21": 7,
+                "22": 2,
+                "24": 1,
+                "5": 2,
+                "9": 20
+            }
+        },
+        "school_name": "YUKARI ŞEHİT KEMAL MAH. İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1206,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/77636_bulk_999999999_1684080094215019767.jpg",
+            "submission_id": 179723,
+            "total_vote": 213,
+            "votes": {
+                "1": 41,
+                "2": 1,
+                "3": 170,
+                "4": 1
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/77636_bulk_999999999_1684082131031111256.jpg",
+            "submission_id": 196235,
+            "total_vote": 210,
+            "votes": {
+                "11": 3,
+                "12": 167,
+                "13": 1,
+                "21": 8,
+                "22": 2,
+                "9": 29
+            }
+        },
+        "school_name": "YUKARI ŞEHİT KEMAL MAH. İLKOKULU"
+    }
+]

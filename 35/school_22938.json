@@ -1,0 +1,141 @@
+[
+    {
+        "ballot_box_number": 2303,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/30965_bulk_999999999_1684084476407100887.jpeg",
+            "submission_id": 239900,
+            "total_vote": 261,
+            "votes": {
+                "1": 80,
+                "2": 2,
+                "3": 175,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/30965_bulk_999999999_1684084376812013228.jpeg",
+            "submission_id": 237401,
+            "total_vote": 251,
+            "votes": {
+                "1": 2,
+                "10": 1,
+                "11": 6,
+                "12": 5,
+                "14": 1,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 121,
+                "22": 40,
+                "23": 1,
+                "24": 0,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 4,
+                "9": 65
+            }
+        },
+        "school_name": "TURGUT REİS İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2306,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/30965_cb_1093800720_1684080917553117290.jpg",
+            "submission_id": 184711,
+            "total_vote": 262,
+            "votes": {
+                "1": 80,
+                "2": 0,
+                "3": 171,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/30965_mv_1083800720_1684085445675423616.jpg",
+            "submission_id": 266958,
+            "total_vote": 257,
+            "votes": {
+                "1": 1,
+                "10": 6,
+                "11": 13,
+                "12": 5,
+                "21": 109,
+                "22": 51,
+                "23": 1,
+                "24": 4,
+                "6": 2,
+                "7": 6,
+                "8": 1,
+                "9": 58
+            }
+        },
+        "school_name": "TURGUT REİS İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2305,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/30965_cb_1093800719_1684086813784132236.jpg",
+            "submission_id": 312524,
+            "total_vote": 275,
+            "votes": {
+                "1": 115,
+                "2": 2,
+                "3": 143,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/30965_mv_1083800719_1684088815403648374.jpg",
+            "submission_id": 377069,
+            "total_vote": 269,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 17,
+                "12": 8,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 107,
+                "22": 26,
+                "23": 2,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 6,
+                "8": 0,
+                "9": 92
+            }
+        },
+        "school_name": "TURGUT REİS İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2304,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/30965_cb_1093800718_1684086941347172939.jpg",
+            "submission_id": 316898,
+            "total_vote": 284,
+            "votes": {
+                "1": 88,
+                "3": 175,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "TURGUT REİS İLKOKULU"
+    }
+]

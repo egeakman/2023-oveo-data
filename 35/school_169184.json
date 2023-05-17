@@ -1,0 +1,392 @@
+[
+    {
+        "ballot_box_number": 1200,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28627_cb_1093577794_1684091656795937282.jpg",
+            "submission_id": 443706,
+            "total_vote": 349,
+            "votes": {
+                "1": 78,
+                "2": 2,
+                "3": 248,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28627_mv_1083577794_1684091575069657026.jpg",
+            "submission_id": 442421,
+            "total_vote": 345,
+            "votes": {
+                "10": 3,
+                "11": 19,
+                "12": 22,
+                "13": 30,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 149,
+                "22": 43,
+                "23": 0,
+                "24": 12,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 4,
+                "9": 58
+            }
+        },
+        "school_name": "MÜNEVVER ÖĞRETMEN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1201,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28627_cb_1093578415_1684084611544813604.jpg",
+            "submission_id": 243444,
+            "total_vote": 349,
+            "votes": {
+                "1": 66,
+                "2": 0,
+                "3": 258,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28627_mv_1083578415_1684086006469514563.jpg",
+            "submission_id": 285111,
+            "total_vote": 347,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 7,
+                "12": 24,
+                "13": 31,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 159,
+                "22": 39,
+                "23": 0,
+                "24": 16,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 3,
+                "8": 2,
+                "9": 61
+            }
+        },
+        "school_name": "MÜNEVVER ÖĞRETMEN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1205,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28627_cb_1093578419_1684090785984601761.jpg",
+            "submission_id": 427399,
+            "total_vote": 334,
+            "votes": {
+                "1": 77,
+                "3": 231,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28627_mv_1083578419_1684090831658917743.jpg",
+            "submission_id": 428368,
+            "total_vote": 328,
+            "votes": {
+                "10": 3,
+                "11": 14,
+                "12": 20,
+                "13": 29,
+                "20": 2,
+                "21": 121,
+                "22": 58,
+                "24": 16,
+                "4": 1,
+                "6": 1,
+                "7": 3,
+                "9": 60
+            }
+        },
+        "school_name": "MÜNEVVER ÖĞRETMEN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1197,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28627_cb_1093577791_1684098336543320175.jpeg",
+            "submission_id": 526628,
+            "total_vote": 349,
+            "votes": {
+                "1": 96,
+                "2": 1,
+                "3": 230,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/b6801764-02a8-4e90-a21c-4648dcf05bcb-1684105166357687841.jpg",
+            "submission_id": 587139,
+            "total_vote": 347,
+            "votes": {
+                "1": 0,
+                "10": 8,
+                "11": 8,
+                "12": 48,
+                "13": 32,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 119,
+                "22": 31,
+                "23": 2,
+                "24": 12,
+                "3": 0,
+                "4": 1,
+                "5": 1,
+                "6": 0,
+                "7": 6,
+                "8": 0,
+                "9": 77
+            }
+        },
+        "school_name": "MÜNEVVER ÖĞRETMEN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1203,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/63806_cb_1093578417_1684087927007221029.jpg",
+            "submission_id": 349500,
+            "total_vote": 335,
+            "votes": {
+                "1": 79,
+                "2": 2,
+                "3": 232,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "MÜNEVVER ÖĞRETMEN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1196,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "MÜNEVVER ÖĞRETMEN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1198,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/51190_cb_1093577792_1684088032596999051.jpg",
+            "submission_id": 353030,
+            "total_vote": 343,
+            "votes": {
+                "1": 63,
+                "2": 1,
+                "3": 257,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/23e7bd43-f5b7-46af-b5da-93b3376e0c0b-1684105516407172201.jpeg",
+            "submission_id": 652120,
+            "total_vote": 339,
+            "votes": {
+                "11": 15,
+                "12": 23,
+                "13": 28,
+                "15": 1,
+                "21": 172,
+                "22": 35,
+                "23": 1,
+                "24": 7,
+                "3": 3,
+                "7": 4,
+                "8": 1,
+                "9": 49
+            }
+        },
+        "school_name": "MÜNEVVER ÖĞRETMEN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1194,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28627_bulk_999999999_1684091191008105081.jpg",
+            "submission_id": 435678,
+            "total_vote": 310,
+            "votes": {
+                "1": 78,
+                "2": 1,
+                "3": 212,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28627_mv_1083577788_1684091333803640835.jpg",
+            "submission_id": 438372,
+            "total_vote": 309,
+            "votes": {
+                "10": 1,
+                "11": 7,
+                "12": 16,
+                "13": 15,
+                "14": 1,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "20": 0,
+                "21": 161,
+                "22": 29,
+                "23": 0,
+                "24": 11,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 2,
+                "9": 59
+            }
+        },
+        "school_name": "MÜNEVVER ÖĞRETMEN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1199,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28627_cb_1093577793_1684087103779350850.jpg",
+            "submission_id": 322694,
+            "total_vote": 335,
+            "votes": {
+                "1": 64,
+                "3": 240,
+                "4": 31
+            }
+        },
+        "mv_result": null,
+        "school_name": "MÜNEVVER ÖĞRETMEN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1202,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29066_cb_1093578416_1684081642068994152.jpg",
+            "submission_id": 190825,
+            "total_vote": 331,
+            "votes": {
+                "1": 88,
+                "2": 2,
+                "3": 229,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28627_mv_1083578416_1684086271971894174.jpg",
+            "submission_id": 293814,
+            "total_vote": 325,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 13,
+                "12": 24,
+                "13": 38,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 127,
+                "22": 29,
+                "23": 0,
+                "24": 13,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 7,
+                "8": 2,
+                "9": 66
+            }
+        },
+        "school_name": "MÜNEVVER ÖĞRETMEN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1204,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/63806_cb_1093578418_1684086899721326959.jpg",
+            "submission_id": 315444,
+            "total_vote": 337,
+            "votes": {
+                "1": 76,
+                "3": 243,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28627_mv_1083578418_1684088060825946287.jpg",
+            "submission_id": 353935,
+            "total_vote": 330,
+            "votes": {
+                "1": 2,
+                "10": 0,
+                "11": 14,
+                "12": 18,
+                "13": 26,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 2,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 3,
+                "21": 155,
+                "22": 36,
+                "23": 0,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 60
+            }
+        },
+        "school_name": "MÜNEVVER ÖĞRETMEN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1195,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28627_cb_1093577789_1684098251315330738.jpeg",
+            "submission_id": 526131,
+            "total_vote": 336,
+            "votes": {
+                "1": 72,
+                "3": 246,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "MÜNEVVER ÖĞRETMEN ORTAOKULU"
+    }
+]

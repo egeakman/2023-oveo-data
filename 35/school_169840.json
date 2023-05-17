@@ -1,0 +1,228 @@
+[
+    {
+        "ballot_box_number": 1450,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31962_cb_1093585807_1684088728121999608.jpg",
+            "submission_id": 374494,
+            "total_vote": 338,
+            "votes": {
+                "1": 69,
+                "2": 0,
+                "3": 257,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31962_mv_1083585807_1684088767954802617.jpg",
+            "submission_id": 375680,
+            "total_vote": 335,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 9,
+                "12": 11,
+                "13": 25,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 178,
+                "22": 44,
+                "23": 2,
+                "24": 7,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 2,
+                "9": 53
+            }
+        },
+        "school_name": "ÇİĞLİ ROTARY MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1446,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31994_cb_1093585803_1684083349121982325.jpg",
+            "submission_id": 214843,
+            "total_vote": 343,
+            "votes": {
+                "1": 64,
+                "2": 1,
+                "3": 259,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31994_cb_1093585803_1684083317661959879.jpg",
+            "submission_id": 214266,
+            "total_vote": 337,
+            "votes": {
+                "10": 2,
+                "11": 7,
+                "12": 8,
+                "13": 33,
+                "21": 169,
+                "22": 43,
+                "24": 11,
+                "3": 1,
+                "6": 3,
+                "7": 1,
+                "8": 1,
+                "9": 58
+            }
+        },
+        "school_name": "ÇİĞLİ ROTARY MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1452,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25712_cb_1093585809_1684082160361424127.jpg",
+            "submission_id": 196567,
+            "total_vote": 348,
+            "votes": {
+                "1": 75,
+                "3": 250,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31962_mv_1083585809_1684088808531849878.jpg",
+            "submission_id": 376843,
+            "total_vote": 348,
+            "votes": {
+                "10": 2,
+                "11": 17,
+                "12": 5,
+                "13": 36,
+                "15": 1,
+                "21": 154,
+                "22": 54,
+                "24": 12,
+                "3": 1,
+                "6": 5,
+                "8": 1,
+                "9": 60
+            }
+        },
+        "school_name": "ÇİĞLİ ROTARY MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1447,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25712_cb_1093585804_1684078576739420271.jpg",
+            "submission_id": 174731,
+            "total_vote": 337,
+            "votes": {
+                "1": 70,
+                "3": 247,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25712_mv_1083585804_1684084136399992870.jpg",
+            "submission_id": 231205,
+            "total_vote": 331,
+            "votes": {
+                "10": 1,
+                "11": 16,
+                "12": 10,
+                "13": 28,
+                "19": 1,
+                "21": 161,
+                "22": 43,
+                "24": 11,
+                "3": 1,
+                "4": 1,
+                "7": 2,
+                "8": 1,
+                "9": 55
+            }
+        },
+        "school_name": "ÇİĞLİ ROTARY MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1453,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/65362_bulk_999999999_1684089721357488687.jpg",
+            "submission_id": 402378,
+            "total_vote": 342,
+            "votes": {
+                "1": 66,
+                "2": 3,
+                "3": 256,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇİĞLİ ROTARY MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1451,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25712_cb_1093585808_1684082522696512603.jpg",
+            "submission_id": 201288,
+            "total_vote": 340,
+            "votes": {
+                "1": 60,
+                "2": 1,
+                "3": 256,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇİĞLİ ROTARY MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1449,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25712_cb_1093585806_1684082948566223419.jpg",
+            "submission_id": 207867,
+            "total_vote": 347,
+            "votes": {
+                "1": 69,
+                "2": 1,
+                "3": 261,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇİĞLİ ROTARY MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1445,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65338_cb_1093585802_1684078783051274581.jpg",
+            "submission_id": 175165,
+            "total_vote": 317,
+            "votes": {
+                "1": 88,
+                "2": 1,
+                "3": 221,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇİĞLİ ROTARY MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1448,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25712_cb_1093585805_1684085677605734825.jpg",
+            "submission_id": 274339,
+            "total_vote": 334,
+            "votes": {
+                "1": 63,
+                "3": 247,
+                "4": 24
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇİĞLİ ROTARY MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    }
+]

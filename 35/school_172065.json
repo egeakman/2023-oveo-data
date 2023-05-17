@@ -1,0 +1,246 @@
+[
+    {
+        "ballot_box_number": 1425,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21515_bulk_999999999_1684090513383433638.jpeg",
+            "submission_id": 421660,
+            "total_vote": 328,
+            "votes": {
+                "1": 127,
+                "3": 182,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21515_bulk_999999999_1684090654884406908.jpeg",
+            "submission_id": 424663,
+            "total_vote": 322,
+            "votes": {
+                "10": 3,
+                "11": 16,
+                "12": 52,
+                "21": 110,
+                "22": 16,
+                "24": 13,
+                "5": 1,
+                "6": 2,
+                "7": 6,
+                "8": 3,
+                "9": 100
+            }
+        },
+        "school_name": "HASAN SALİH ÇETİNEL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1424,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21515_bulk_999999999_1684091197897779291.jpeg",
+            "submission_id": 435790,
+            "total_vote": 299,
+            "votes": {
+                "1": 125,
+                "2": 1,
+                "3": 158,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21515_bulk_999999999_1684091875550036137.jpeg",
+            "submission_id": 447158,
+            "total_vote": 297,
+            "votes": {
+                "10": 5,
+                "11": 23,
+                "12": 60,
+                "14": 2,
+                "20": 1,
+                "21": 74,
+                "22": 18,
+                "24": 3,
+                "4": 1,
+                "5": 2,
+                "7": 6,
+                "8": 1,
+                "9": 101
+            }
+        },
+        "school_name": "HASAN SALİH ÇETİNEL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1419,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21515_bulk_999999999_1684090398401472836.jpeg",
+            "submission_id": 418987,
+            "total_vote": 296,
+            "votes": {
+                "1": 129,
+                "2": 0,
+                "3": 151,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21515_bulk_999999999_1684092901604739609.jpeg",
+            "submission_id": 462664,
+            "total_vote": 282,
+            "votes": {
+                "1": 2,
+                "10": 2,
+                "11": 24,
+                "12": 43,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "20": 1,
+                "21": 88,
+                "22": 23,
+                "24": 11,
+                "4": 0,
+                "5": 1,
+                "7": 2,
+                "8": 1,
+                "9": 82
+            }
+        },
+        "school_name": "HASAN SALİH ÇETİNEL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1422,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21515_bulk_999999999_1684093013456412339.jpeg",
+            "submission_id": 464108,
+            "total_vote": 302,
+            "votes": {
+                "1": 153,
+                "2": 2,
+                "3": 142,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21510_bulk_999999999_1684088628235261704.jpg",
+            "submission_id": 371487,
+            "total_vote": 290,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 21,
+                "12": 45,
+                "14": 6,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 70,
+                "22": 16,
+                "23": 0,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 3,
+                "6": 1,
+                "7": 6,
+                "8": 0,
+                "9": 111
+            }
+        },
+        "school_name": "HASAN SALİH ÇETİNEL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1420,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21515_bulk_999999999_1684092788992011164.jpeg",
+            "submission_id": 461096,
+            "total_vote": 310,
+            "votes": {
+                "1": 140,
+                "2": 0,
+                "3": 154,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21515_bulk_999999999_1684091401124843224.jpeg",
+            "submission_id": 439590,
+            "total_vote": 307,
+            "votes": {
+                "10": 4,
+                "11": 19,
+                "12": 48,
+                "21": 89,
+                "22": 9,
+                "23": 2,
+                "24": 11,
+                "5": 1,
+                "6": 1,
+                "7": 4,
+                "9": 119
+            }
+        },
+        "school_name": "HASAN SALİH ÇETİNEL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1421,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21515_bulk_999999999_1684092346247732593.jpeg",
+            "submission_id": 454877,
+            "total_vote": 307,
+            "votes": {
+                "1": 123,
+                "2": 3,
+                "3": 169,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/61574_bulk_999999999_1684133926478256218.jpg",
+            "submission_id": 1014307,
+            "total_vote": 307,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 18,
+                "12": 60,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 80,
+                "23": 28,
+                "24": 5,
+                "3": 0,
+                "5": 0,
+                "6": 1,
+                "7": 8,
+                "8": 3,
+                "9": 97
+            }
+        },
+        "school_name": "HASAN SALİH ÇETİNEL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1423,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21515_bulk_999999999_1684092012246341617.jpeg",
+            "submission_id": 449522,
+            "total_vote": 301,
+            "votes": {
+                "1": 124,
+                "2": 2,
+                "3": 156,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "HASAN SALİH ÇETİNEL ORTAOKULU"
+    }
+]

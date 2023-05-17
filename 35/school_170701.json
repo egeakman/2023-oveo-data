@@ -1,0 +1,214 @@
+[
+    {
+        "ballot_box_number": 1190,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19700_cb_1093799310_1684078188166378935.jpg",
+            "submission_id": 174110,
+            "total_vote": 277,
+            "votes": {
+                "1": 158,
+                "3": 99,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/19722_bulk_999999999_1684085810743201936.jpeg",
+            "submission_id": 278795,
+            "total_vote": 232,
+            "votes": {
+                "1": 0,
+                "10": 11,
+                "11": 20,
+                "12": 11,
+                "13": 3,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 22,
+                "22": 24,
+                "23": 1,
+                "24": 7,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 2,
+                "9": 127
+            }
+        },
+        "school_name": "15 TEMMUZ DEMOKRASİ ŞEHİTLERİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1192,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19700_cb_1093799312_1684084254585189756.jpg",
+            "submission_id": 234383,
+            "total_vote": 284,
+            "votes": {
+                "1": 163,
+                "2": 0,
+                "3": 106,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19722_mv_1083799312_1684085170253181003.jpg",
+            "submission_id": 258990,
+            "total_vote": 282,
+            "votes": {
+                "1": 1,
+                "10": 15,
+                "11": 28,
+                "12": 12,
+                "13": 13,
+                "14": 1,
+                "15": 0,
+                "16": 1,
+                "17": 5,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 57,
+                "22": 21,
+                "23": 0,
+                "24": 6,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 1,
+                "8": 3,
+                "9": 114
+            }
+        },
+        "school_name": "15 TEMMUZ DEMOKRASİ ŞEHİTLERİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1189,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19722_cb_1093799309_1684085662432423204.jpg",
+            "submission_id": 273780,
+            "total_vote": 293,
+            "votes": {
+                "1": 193,
+                "3": 74,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19722_mv_1083799309_1684084994219728112.jpg",
+            "submission_id": 253966,
+            "total_vote": 287,
+            "votes": {
+                "1": 0,
+                "10": 19,
+                "11": 45,
+                "12": 14,
+                "13": 2,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 40,
+                "22": 16,
+                "23": 1,
+                "24": 10,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 5,
+                "8": 1,
+                "9": 129
+            }
+        },
+        "school_name": "15 TEMMUZ DEMOKRASİ ŞEHİTLERİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1191,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19700_cb_1093799311_1684085273644167537.jpg",
+            "submission_id": 261971,
+            "total_vote": 283,
+            "votes": {
+                "1": 173,
+                "3": 90,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/19700_bulk_999999999_1684085568252466833.jpeg",
+            "submission_id": 270711,
+            "total_vote": 279,
+            "votes": {
+                "10": 12,
+                "11": 36,
+                "12": 16,
+                "13": 7,
+                "21": 46,
+                "22": 24,
+                "24": 10,
+                "6": 2,
+                "7": 5,
+                "9": 121
+            }
+        },
+        "school_name": "15 TEMMUZ DEMOKRASİ ŞEHİTLERİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1188,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19722_cb_1093799308_1684085062941135478.jpg",
+            "submission_id": 255968,
+            "total_vote": 271,
+            "votes": {
+                "1": 186,
+                "3": 73,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19722_mv_1083799308_1684085131320074516.jpg",
+            "submission_id": 257844,
+            "total_vote": 289,
+            "votes": {
+                "1": 0,
+                "10": 21,
+                "11": 60,
+                "12": 8,
+                "13": 5,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 2,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 43,
+                "22": 14,
+                "23": 0,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 3,
+                "7": 2,
+                "8": 2,
+                "9": 121
+            }
+        },
+        "school_name": "15 TEMMUZ DEMOKRASİ ŞEHİTLERİ ORTAOKULU"
+    }
+]

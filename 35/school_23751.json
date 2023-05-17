@@ -1,0 +1,17 @@
+[
+    {
+        "ballot_box_number": 2371,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7a1df773-2ec4-4cba-9590-5965e0a2ff61-1684106401285576769.jpeg",
+            "submission_id": 782657,
+            "total_vote": 123,
+            "votes": {
+                "1": 78,
+                "3": 40,
+                "4": 5
+            }
+        },
+        "mv_result": null,
+        "school_name": "KÖY KAHVESİ 2"
+    }
+]

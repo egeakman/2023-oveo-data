@@ -1,0 +1,761 @@
+[
+    {
+        "ballot_box_number": 1387,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22880_mv_1083801461_1684088347075772338.jpg",
+            "submission_id": 362720,
+            "total_vote": 329,
+            "votes": {
+                "1": 103,
+                "2": 2,
+                "3": 215,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22878_mv_1083801461_1684089123527123885.jpg",
+            "submission_id": 385967,
+            "total_vote": 324,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 11,
+                "12": 17,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 150,
+                "22": 44,
+                "23": 4,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 1,
+                "8": 1,
+                "9": 82
+            }
+        },
+        "school_name": "AYDINOĞLU MEHMETBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1388,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22880_cb_1093801462_1684085486748520890.jpg",
+            "submission_id": 268170,
+            "total_vote": 355,
+            "votes": {
+                "1": 100,
+                "2": 0,
+                "3": 232,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22880_cb_1093801462_1684085131958322223.jpg",
+            "submission_id": 257868,
+            "total_vote": 351,
+            "votes": {
+                "10": 3,
+                "11": 11,
+                "12": 32,
+                "14": 0,
+                "15": 0,
+                "20": 2,
+                "21": 154,
+                "22": 45,
+                "23": 1,
+                "24": 10,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 5,
+                "8": 3,
+                "9": 82
+            }
+        },
+        "school_name": "AYDINOĞLU MEHMETBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1402,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22880_cb_1093801616_1684089355732420993.jpg",
+            "submission_id": 392254,
+            "total_vote": 333,
+            "votes": {
+                "1": 96,
+                "2": 1,
+                "3": 217,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22880_mv_1083801616_1684089304805854036.jpg",
+            "submission_id": 391005,
+            "total_vote": 333,
+            "votes": {
+                "10": 5,
+                "11": 8,
+                "12": 32,
+                "14": 0,
+                "21": 141,
+                "22": 45,
+                "23": 0,
+                "24": 10,
+                "4": 1,
+                "5": 0,
+                "6": 3,
+                "7": 6,
+                "8": 2,
+                "9": 80
+            }
+        },
+        "school_name": "AYDINOĞLU MEHMETBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1399,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22878_cb_1093801473_1684089253866333850.jpg",
+            "submission_id": 389648,
+            "total_vote": 339,
+            "votes": {
+                "1": 98,
+                "3": 223,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22878_mv_1083801473_1684089370895785065.jpg",
+            "submission_id": 392661,
+            "total_vote": 332,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 13,
+                "12": 2,
+                "14": 0,
+                "15": 0,
+                "16": 3,
+                "17": 1,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 182,
+                "22": 36,
+                "23": 0,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 0,
+                "9": 84
+            }
+        },
+        "school_name": "AYDINOĞLU MEHMETBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1390,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/63357_mv_1083801464_1684085674687776819.jpg",
+            "submission_id": 274234,
+            "total_vote": 349,
+            "votes": {
+                "1": 113,
+                "2": 2,
+                "3": 223,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/63357_cb_1093801464_1684085576605153850.jpg",
+            "submission_id": 270968,
+            "total_vote": 348,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 9,
+                "12": 23,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 148,
+                "22": 48,
+                "23": 1,
+                "24": 7,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 2,
+                "9": 101
+            }
+        },
+        "school_name": "AYDINOĞLU MEHMETBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1397,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22880_cb_1093801471_1684089484986306593.jpg",
+            "submission_id": 395822,
+            "total_vote": 332,
+            "votes": {
+                "1": 127,
+                "3": 185,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22878_mv_1083801471_1684089495712345576.jpg",
+            "submission_id": 396085,
+            "total_vote": 333,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 13,
+                "12": 28,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 1,
+                "21": 119,
+                "22": 37,
+                "23": 0,
+                "24": 11,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 1,
+                "8": 3,
+                "9": 112
+            }
+        },
+        "school_name": "AYDINOĞLU MEHMETBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1385,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22880_cb_1093801459_1684088133266482872.jpg",
+            "submission_id": 356269,
+            "total_vote": 322,
+            "votes": {
+                "1": 93,
+                "2": 1,
+                "3": 221,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22880_cb_1093801459_1684087783822395854.jpg",
+            "submission_id": 345076,
+            "total_vote": 318,
+            "votes": {
+                "10": 2,
+                "11": 12,
+                "12": 26,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 151,
+                "22": 41,
+                "23": 0,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 4,
+                "7": 0,
+                "8": 1,
+                "9": 74
+            }
+        },
+        "school_name": "AYDINOĞLU MEHMETBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1401,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22878_cb_1093801615_1684089422771806427.jpg",
+            "submission_id": 394087,
+            "total_vote": 348,
+            "votes": {
+                "1": 95,
+                "2": 3,
+                "3": 238,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22878_mv_1083801615_1684089043102082406.jpg",
+            "submission_id": 383772,
+            "total_vote": 350,
+            "votes": {
+                "1": 3,
+                "10": 6,
+                "11": 14,
+                "12": 23,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "2": 1,
+                "21": 178,
+                "22": 37,
+                "23": 0,
+                "24": 2,
+                "3": 3,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 3,
+                "9": 73
+            }
+        },
+        "school_name": "AYDINOĞLU MEHMETBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1396,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22878_cb_1093801470_1684088652112249726.jpg",
+            "submission_id": 372255,
+            "total_vote": 351,
+            "votes": {
+                "1": 121,
+                "2": 0,
+                "3": 220,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22878_mv_1083801470_1684088768476521848.jpg",
+            "submission_id": 375693,
+            "total_vote": 349,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 28,
+                "12": 38,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 140,
+                "22": 43,
+                "23": 1,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 1,
+                "7": 4,
+                "8": 4,
+                "9": 76
+            }
+        },
+        "school_name": "AYDINOĞLU MEHMETBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1400,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22878_cb_1093801474_1684088861618162029.jpg",
+            "submission_id": 378404,
+            "total_vote": 346,
+            "votes": {
+                "1": 127,
+                "2": 0,
+                "3": 194,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22878_mv_1083801474_1684088911166510656.jpg",
+            "submission_id": 379920,
+            "total_vote": 343,
+            "votes": {
+                "1": 0,
+                "10": 103,
+                "11": 4,
+                "12": 32,
+                "14": 21,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 7,
+                "2": 0,
+                "20": 0,
+                "21": 0,
+                "22": 136,
+                "23": 24,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 7,
+                "8": 0,
+                "9": 6
+            }
+        },
+        "school_name": "AYDINOĞLU MEHMETBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1395,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/63357_cb_1093801469_1684083871087689199.jpg",
+            "submission_id": 225535,
+            "total_vote": 340,
+            "votes": {
+                "1": 113,
+                "2": 0,
+                "3": 210,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/63357_cb_1093801469_1684083683697991729.jpg",
+            "submission_id": 221530,
+            "total_vote": 337,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 13,
+                "12": 23,
+                "14": 0,
+                "15": 2,
+                "16": 6,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 143,
+                "22": 31,
+                "23": 2,
+                "24": 10,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 3,
+                "7": 1,
+                "8": 3,
+                "9": 95
+            }
+        },
+        "school_name": "AYDINOĞLU MEHMETBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1386,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22878_cb_1093801460_1684088097828469239.jpg",
+            "submission_id": 355091,
+            "total_vote": 308,
+            "votes": {
+                "1": 124,
+                "2": 2,
+                "3": 172,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22878_mv_1083801460_1684087702543805594.jpg",
+            "submission_id": 342490,
+            "total_vote": 303,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 11,
+                "12": 18,
+                "14": 0,
+                "15": 5,
+                "16": 1,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 125,
+                "22": 26,
+                "23": 0,
+                "24": 7,
+                "3": 1,
+                "4": 1,
+                "5": 1,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 97
+            }
+        },
+        "school_name": "AYDINOĞLU MEHMETBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1398,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22878_cb_1093801472_1684088589148139550.jpg",
+            "submission_id": 370292,
+            "total_vote": 335,
+            "votes": {
+                "1": 93,
+                "2": 1,
+                "3": 222,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22878_mv_1083801472_1684088550771088686.jpg",
+            "submission_id": 369086,
+            "total_vote": 344,
+            "votes": {
+                "1": 1,
+                "10": 9,
+                "11": 15,
+                "12": 26,
+                "14": 0,
+                "15": 4,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 140,
+                "22": 68,
+                "23": 0,
+                "24": 0,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 9,
+                "7": 0,
+                "8": 2,
+                "9": 69
+            }
+        },
+        "school_name": "AYDINOĞLU MEHMETBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1391,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/63357_cb_1093801465_1684085179439532158.jpg",
+            "submission_id": 259231,
+            "total_vote": 336,
+            "votes": {
+                "1": 112,
+                "2": 0,
+                "3": 208,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22880_mv_1083801465_1684086666193963393.jpg",
+            "submission_id": 307290,
+            "total_vote": 328,
+            "votes": {
+                "10": 3,
+                "11": 17,
+                "12": 37,
+                "21": 132,
+                "22": 40,
+                "24": 4,
+                "3": 2,
+                "4": 1,
+                "5": 1,
+                "7": 2,
+                "8": 2,
+                "9": 87
+            }
+        },
+        "school_name": "AYDINOĞLU MEHMETBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1392,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22878_cb_1093801466_1684087538336970036.jpg",
+            "submission_id": 337124,
+            "total_vote": 351,
+            "votes": {
+                "1": 119,
+                "2": 1,
+                "3": 205,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22878_mv_1083801466_1684087594308474339.jpg",
+            "submission_id": 338921,
+            "total_vote": 345,
+            "votes": {
+                "10": 2,
+                "11": 25,
+                "12": 20,
+                "15": 1,
+                "19": 1,
+                "20": 1,
+                "21": 151,
+                "22": 34,
+                "23": 1,
+                "24": 12,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 92
+            }
+        },
+        "school_name": "AYDINOĞLU MEHMETBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1389,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22880_cb_1093801460_1684086962055059091.jpg",
+            "submission_id": 317625,
+            "total_vote": 350,
+            "votes": {
+                "1": 130,
+                "3": 198,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22880_mv_1083801463_1684087026750894840.jpg",
+            "submission_id": 319881,
+            "total_vote": 344,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 14,
+                "12": 21,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 143,
+                "22": 35,
+                "23": 1,
+                "24": 13,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 1,
+                "8": 0,
+                "9": 110
+            }
+        },
+        "school_name": "AYDINOĞLU MEHMETBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1393,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/63357_mv_1083801467_1684083588365800150.jpg",
+            "submission_id": 219520,
+            "total_vote": 328,
+            "votes": {
+                "1": 113,
+                "2": 0,
+                "3": 201,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/63357_mv_1083801467_1684084121069635874.jpg",
+            "submission_id": 230912,
+            "total_vote": 328,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 15,
+                "12": 37,
+                "14": 3,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 127,
+                "22": 33,
+                "23": 1,
+                "24": 9,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 92
+            }
+        },
+        "school_name": "AYDINOĞLU MEHMETBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1394,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/63357_cb_1093801468_1684083400748476924.jpg",
+            "submission_id": 215916,
+            "total_vote": 348,
+            "votes": {
+                "1": 105,
+                "2": 3,
+                "3": 225,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/63357_cb_1093801468_1684083321785839468.jpg",
+            "submission_id": 214342,
+            "total_vote": 347,
+            "votes": {
+                "1": 2,
+                "10": 3,
+                "11": 25,
+                "12": 29,
+                "19": 1,
+                "20": 1,
+                "21": 145,
+                "22": 37,
+                "23": 2,
+                "24": 11,
+                "3": 2,
+                "5": 1,
+                "6": 2,
+                "7": 6,
+                "8": 1,
+                "9": 79
+            }
+        },
+        "school_name": "AYDINOĞLU MEHMETBEY İLKOKULU"
+    }
+]

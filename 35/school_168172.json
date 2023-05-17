@@ -1,0 +1,341 @@
+[
+    {
+        "ballot_box_number": 1009,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3fc825db-beb6-4700-980a-f31f9d9aa74d-1684106159301578647.jpeg",
+            "submission_id": 747261,
+            "total_vote": 340,
+            "votes": {
+                "1": 102,
+                "3": 214,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/cf13151b-a04c-4484-be37-08aec82ba982-1684106165315872701.jpeg",
+            "submission_id": 747853,
+            "total_vote": 341,
+            "votes": {
+                "10": 1,
+                "11": 13,
+                "12": 28,
+                "13": 28,
+                "21": 133,
+                "22": 34,
+                "23": 1,
+                "24": 10,
+                "6": 2,
+                "7": 5,
+                "8": 3,
+                "9": 83
+            }
+        },
+        "school_name": "ERGENE ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1001,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/22972_bulk_999999999_1684140857152321980.jpg",
+            "submission_id": 1017984,
+            "total_vote": 330,
+            "votes": {
+                "1": 82,
+                "2": 5,
+                "3": 237,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/22972_bulk_999999999_1684140857038388196.jpg",
+            "submission_id": 1017983,
+            "total_vote": 320,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 15,
+                "12": 3,
+                "13": 21,
+                "14": 4,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 2,
+                "21": 163,
+                "22": 32,
+                "23": 0,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 0,
+                "9": 68
+            }
+        },
+        "school_name": "ERGENE ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1006,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/22972_bulk_999999999_1684140707778798453.jpg",
+            "submission_id": 1017947,
+            "total_vote": 337,
+            "votes": {
+                "1": 77,
+                "2": 1,
+                "3": 239,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "ERGENE ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1010,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ee4733b9-ea1c-4440-b489-ee0365188495-1684105735815745388.jpeg",
+            "submission_id": 687097,
+            "total_vote": 339,
+            "votes": {
+                "1": 84,
+                "3": 238,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "ERGENE ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1005,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/018cd83c-8d9f-43c9-b114-43a90a1b556d-1684105875407788826.jpeg",
+            "submission_id": 708164,
+            "total_vote": 353,
+            "votes": {
+                "1": 81,
+                "3": 247,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/de97a48b-2d1f-4bb1-a48c-854ecbefbbf6-1684105836780223164.jpeg",
+            "submission_id": 702283,
+            "total_vote": 351,
+            "votes": {
+                "1": 2,
+                "10": 3,
+                "11": 18,
+                "12": 23,
+                "13": 24,
+                "19": 2,
+                "21": 145,
+                "22": 46,
+                "23": 1,
+                "24": 14,
+                "6": 2,
+                "7": 7,
+                "8": 1,
+                "9": 63
+            }
+        },
+        "school_name": "ERGENE ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1002,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/64916_bulk_999999999_1684087567815541893.jpeg",
+            "submission_id": 338058,
+            "total_vote": 328,
+            "votes": {
+                "1": 78,
+                "3": 239,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/64916_bulk_999999999_1684087567708472864.jpeg",
+            "submission_id": 338054,
+            "total_vote": 325,
+            "votes": {
+                "10": 2,
+                "11": 2,
+                "12": 18,
+                "13": 26,
+                "14": 1,
+                "15": 1,
+                "17": 1,
+                "19": 2,
+                "21": 153,
+                "22": 41,
+                "24": 8,
+                "3": 1,
+                "7": 2,
+                "8": 3,
+                "9": 64
+            }
+        },
+        "school_name": "ERGENE ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1007,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/22972_bulk_999999999_1684140817781182468.jpg",
+            "submission_id": 1017971,
+            "total_vote": 348,
+            "votes": {
+                "1": 78,
+                "3": 256,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e605b3fc-cf4e-43f0-bce3-2ea54bbf2930-1684106184174256270.jpg",
+            "submission_id": 750806,
+            "total_vote": 345,
+            "votes": {
+                "10": 1,
+                "11": 13,
+                "12": 13,
+                "13": 32,
+                "19": 2,
+                "21": 156,
+                "22": 44,
+                "23": 1,
+                "24": 12,
+                "4": 1,
+                "6": 4,
+                "7": 5,
+                "8": 2,
+                "9": 59
+            }
+        },
+        "school_name": "ERGENE ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1003,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ffee79e7-e3d1-4103-843a-3d04303b9bcc-1684106659076580828.jpeg",
+            "submission_id": 820131,
+            "total_vote": 352,
+            "votes": {
+                "1": 81,
+                "2": 1,
+                "3": 253,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "ERGENE ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1008,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21629_cb_1093568482_1684085638045071377.jpg",
+            "submission_id": 272993,
+            "total_vote": 340,
+            "votes": {
+                "1": 83,
+                "3": 237,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21629_mv_1083568482_1684085804750495122.jpg",
+            "submission_id": 278560,
+            "total_vote": 337,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 11,
+                "12": 30,
+                "13": 34,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 134,
+                "22": 40,
+                "23": 1,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 5,
+                "9": 68
+            }
+        },
+        "school_name": "ERGENE ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1011,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21629_cb_1093568485_1684086067455832883.jpg",
+            "submission_id": 287088,
+            "total_vote": 346,
+            "votes": {
+                "1": 86,
+                "2": 0,
+                "3": 242,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21629_mv_1083568485_1684086507297075244.jpg",
+            "submission_id": 301749,
+            "total_vote": 346,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 11,
+                "12": 32,
+                "13": 32,
+                "14": 2,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 122,
+                "22": 58,
+                "23": 0,
+                "24": 10,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 3,
+                "7": 2,
+                "8": 1,
+                "9": 67
+            }
+        },
+        "school_name": "ERGENE ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1004,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21629_cb_1093568478_1684085090971952757.jpg",
+            "submission_id": 256728,
+            "total_vote": 342,
+            "votes": {
+                "1": 94,
+                "2": 1,
+                "3": 228,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "ERGENE ORTAOKULU"
+    }
+]

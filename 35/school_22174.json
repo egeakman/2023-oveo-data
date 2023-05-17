@@ -1,0 +1,199 @@
+[
+    {
+        "ballot_box_number": 1059,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47271_cb_1093798066_1684081142963383027.jpg",
+            "submission_id": 186405,
+            "total_vote": 288,
+            "votes": {
+                "1": 63,
+                "2": 2,
+                "3": 210,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47271_mv_1083798066_1684088249450871589.jpg",
+            "submission_id": 359762,
+            "total_vote": 283,
+            "votes": {
+                "11": 12,
+                "12": 16,
+                "15": 1,
+                "21": 155,
+                "22": 39,
+                "24": 11,
+                "3": 1,
+                "5": 1,
+                "7": 1,
+                "8": 1,
+                "9": 45
+            }
+        },
+        "school_name": "HIDIRIK MAH.NECAT HEPKON ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1061,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/47271_bulk_999999999_1684088796287145964.jpg",
+            "submission_id": 376525,
+            "total_vote": 274,
+            "votes": {
+                "1": 65,
+                "2": 3,
+                "3": 189,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47271_mv_1083798068_1684088584191843695.jpg",
+            "submission_id": 370140,
+            "total_vote": 273,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 16,
+                "12": 16,
+                "14": 0,
+                "15": 2,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 133,
+                "22": 36,
+                "23": 1,
+                "24": 0,
+                "3": 2,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 16,
+                "8": 1,
+                "9": 47
+            }
+        },
+        "school_name": "HIDIRIK MAH.NECAT HEPKON ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1058,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31426_cb_1093798065_1684088252536254652.jpg",
+            "submission_id": 359870,
+            "total_vote": 272,
+            "votes": {
+                "1": 66,
+                "2": 0,
+                "3": 196,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31426_mv_1083798065_1684088279049506358.jpg",
+            "submission_id": 360683,
+            "total_vote": 266,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 10,
+                "12": 15,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 140,
+                "22": 36,
+                "23": 1,
+                "24": 3,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 2,
+                "8": 0,
+                "9": 54
+            }
+        },
+        "school_name": "HIDIRIK MAH.NECAT HEPKON ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1062,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31426_cb_1093798069_1684088350852556496.jpg",
+            "submission_id": 362839,
+            "total_vote": 297,
+            "votes": {
+                "1": 76,
+                "2": 3,
+                "3": 206,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31426_mv_1083798069_1684088372346806871.jpg",
+            "submission_id": 363491,
+            "total_vote": 293,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 15,
+                "12": 16,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 133,
+                "22": 50,
+                "23": 1,
+                "24": 7,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 7,
+                "8": 0,
+                "9": 59
+            }
+        },
+        "school_name": "HIDIRIK MAH.NECAT HEPKON ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1060,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47271_cb_1093798067_1684081240273879231.jpg",
+            "submission_id": 187147,
+            "total_vote": 288,
+            "votes": {
+                "1": 75,
+                "3": 198,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47271_mv_1083798067_1684088512885825773.jpg",
+            "submission_id": 367882,
+            "total_vote": 285,
+            "votes": {
+                "10": 2,
+                "11": 13,
+                "12": 12,
+                "21": 142,
+                "22": 45,
+                "24": 8,
+                "7": 6,
+                "8": 2,
+                "9": 55
+            }
+        },
+        "school_name": "HIDIRIK MAH.NECAT HEPKON ANADOLU LİSESİ"
+    }
+]

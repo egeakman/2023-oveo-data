@@ -1,0 +1,345 @@
+[
+    {
+        "ballot_box_number": 1055,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21804_cb_1093864369_1684085496721433900.jpg",
+            "submission_id": 268494,
+            "total_vote": 328,
+            "votes": {
+                "1": 31,
+                "2": 1,
+                "3": 293,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21804_mv_1083864369_1684092163337077906.jpg",
+            "submission_id": 451943,
+            "total_vote": 329,
+            "votes": {
+                "10": 1,
+                "11": 6,
+                "12": 10,
+                "13": 37,
+                "21": 203,
+                "22": 40,
+                "24": 1,
+                "3": 1,
+                "7": 5,
+                "9": 25
+            }
+        },
+        "school_name": "ŞEHİT ASTSUBAY HİLMİ ÖZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1053,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18540_cb_1093864367_1684085100620645525.jpg",
+            "submission_id": 256997,
+            "total_vote": 322,
+            "votes": {
+                "1": 25,
+                "2": 0,
+                "3": 286,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18540_mv_1083864367_1684085127813453804.jpg",
+            "submission_id": 257710,
+            "total_vote": 320,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 2,
+                "12": 10,
+                "13": 40,
+                "14": 0,
+                "15": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 186,
+                "22": 54,
+                "23": 1,
+                "24": 3,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "7": 3,
+                "8": 0,
+                "9": 19
+            }
+        },
+        "school_name": "ŞEHİT ASTSUBAY HİLMİ ÖZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1056,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48488_mv_1083864370_1684092470595786801.jpg",
+            "submission_id": 456824,
+            "total_vote": 319,
+            "votes": {
+                "1": 30,
+                "3": 279,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/48488_bulk_999999999_1684092609565110353.jpg",
+            "submission_id": 458755,
+            "total_vote": 318,
+            "votes": {
+                "10": 2,
+                "11": 6,
+                "12": 12,
+                "13": 40,
+                "19": 1,
+                "21": 197,
+                "22": 31,
+                "23": 1,
+                "24": 5,
+                "3": 1,
+                "5": 1,
+                "7": 1,
+                "8": 1,
+                "9": 19
+            }
+        },
+        "school_name": "ŞEHİT ASTSUBAY HİLMİ ÖZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1054,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21804_cb_1093864368_1684092122724489932.jpg",
+            "submission_id": 451295,
+            "total_vote": 323,
+            "votes": {
+                "1": 25,
+                "3": 284,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ASTSUBAY HİLMİ ÖZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1058,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21804_cb_1093864372_1684092231779717510.jpg",
+            "submission_id": 453041,
+            "total_vote": 327,
+            "votes": {
+                "1": 38,
+                "2": 1,
+                "3": 278,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21804_mv_1083864372_1684092204622278449.jpg",
+            "submission_id": 452585,
+            "total_vote": 324,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 7,
+                "12": 9,
+                "13": 35,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 188,
+                "22": 42,
+                "23": 1,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 8,
+                "8": 0,
+                "9": 24
+            }
+        },
+        "school_name": "ŞEHİT ASTSUBAY HİLMİ ÖZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1049,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21804_cb_1093864363_1684091571650177693.jpg",
+            "submission_id": 442335,
+            "total_vote": 301,
+            "votes": {
+                "1": 25,
+                "2": 1,
+                "3": 272,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/b19f0521-786b-47bc-b042-5670183737af-1684105372506858898.jpg",
+            "submission_id": 627246,
+            "total_vote": 299,
+            "votes": {
+                "10": 1,
+                "11": 2,
+                "12": 8,
+                "13": 20,
+                "21": 228,
+                "22": 18,
+                "23": 1,
+                "24": 1,
+                "9": 20
+            }
+        },
+        "school_name": "ŞEHİT ASTSUBAY HİLMİ ÖZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1052,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18542_cb_1093864366_1684089238642825150.jpg",
+            "submission_id": 389199,
+            "total_vote": 329,
+            "votes": {
+                "1": 31,
+                "2": 1,
+                "3": 291,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18542_mv_1083864366_1684089268075430508.jpg",
+            "submission_id": 390060,
+            "total_vote": 327,
+            "votes": {
+                "10": 1,
+                "11": 6,
+                "12": 9,
+                "13": 43,
+                "21": 201,
+                "22": 40,
+                "24": 5,
+                "7": 2,
+                "9": 20
+            }
+        },
+        "school_name": "ŞEHİT ASTSUBAY HİLMİ ÖZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1050,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/72122_cb_1093864364_1684090208480745036.jpg",
+            "submission_id": 414726,
+            "total_vote": 306,
+            "votes": {
+                "1": 23,
+                "3": 281,
+                "4": 2
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/72122_mv_1083864364_1684087637252126426.jpg",
+            "submission_id": 340323,
+            "total_vote": 300,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 4,
+                "12": 6,
+                "13": 12,
+                "19": 1,
+                "21": 229,
+                "22": 30,
+                "3": 1,
+                "7": 1,
+                "8": 1,
+                "9": 13
+            }
+        },
+        "school_name": "ŞEHİT ASTSUBAY HİLMİ ÖZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1051,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21804_cb_1093864365_1684092036723209963.jpg",
+            "submission_id": 449961,
+            "total_vote": 323,
+            "votes": {
+                "1": 23,
+                "2": 2,
+                "3": 295,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21804_mv_1083864365_1684092010115280205.jpg",
+            "submission_id": 449487,
+            "total_vote": 317,
+            "votes": {
+                "1": 1,
+                "11": 5,
+                "12": 6,
+                "13": 25,
+                "21": 227,
+                "22": 33,
+                "24": 1,
+                "7": 3,
+                "8": 1,
+                "9": 15
+            }
+        },
+        "school_name": "ŞEHİT ASTSUBAY HİLMİ ÖZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1057,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21804_cb_1093864371_1684094371330675082.jpg",
+            "submission_id": 491196,
+            "total_vote": 321,
+            "votes": {
+                "1": 16,
+                "2": 1,
+                "3": 293,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21804_mv_1083864371_1684094399754584133.jpg",
+            "submission_id": 491516,
+            "total_vote": 318,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 4,
+                "12": 8,
+                "13": 40,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 197,
+                "22": 43,
+                "23": 0,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 10
+            }
+        },
+        "school_name": "ŞEHİT ASTSUBAY HİLMİ ÖZ İLKOKULU"
+    }
+]

@@ -1,0 +1,325 @@
+[
+    {
+        "ballot_box_number": 1370,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/25_bulk_999999999_1684098193862495125.jpg",
+            "submission_id": 525728,
+            "total_vote": 319,
+            "votes": {
+                "1": 98,
+                "2": 5,
+                "3": 195,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0de6ce41-7540-4d88-8f92-f061d5c2d823-1684105568632664521.jpeg",
+            "submission_id": 660295,
+            "total_vote": 318,
+            "votes": {
+                "10": 6,
+                "11": 7,
+                "12": 37,
+                "15": 1,
+                "16": 1,
+                "19": 1,
+                "20": 1,
+                "21": 121,
+                "22": 44,
+                "24": 9,
+                "3": 1,
+                "7": 4,
+                "8": 1,
+                "9": 84
+            }
+        },
+        "school_name": "ÖMER SEYFETTİN MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1372,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/25_bulk_999999999_1684098193570756233.jpg",
+            "submission_id": 525725,
+            "total_vote": 337,
+            "votes": {
+                "1": 107,
+                "2": 1,
+                "3": 215,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/25_bulk_999999999_1684098193731904145.jpg",
+            "submission_id": 525727,
+            "total_vote": 334,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 18,
+                "12": 24,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 190,
+                "22": 54,
+                "23": 0,
+                "24": 7,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 2,
+                "8": 0,
+                "9": 32
+            }
+        },
+        "school_name": "ÖMER SEYFETTİN MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1373,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/25_bulk_999999999_1684098193418331709.jpg",
+            "submission_id": 525720,
+            "total_vote": 318,
+            "votes": {
+                "1": 105,
+                "2": 1,
+                "3": 197,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a8805c0c-1db9-4fb2-b11f-f6737027b675-1684106210163175722.jpeg",
+            "submission_id": 755260,
+            "total_vote": 309,
+            "votes": {
+                "1": 1,
+                "10": 6,
+                "11": 11,
+                "12": 26,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 115,
+                "22": 49,
+                "23": 2,
+                "24": 8,
+                "3": 2,
+                "4": 1,
+                "5": 1,
+                "6": 2,
+                "7": 2,
+                "8": 2,
+                "9": 79
+            }
+        },
+        "school_name": "ÖMER SEYFETTİN MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1369,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8647a627-4d3b-4aed-ad33-59844cdada79-1684105405281010882.jpeg",
+            "submission_id": 632882,
+            "total_vote": 330,
+            "votes": {
+                "10": 4,
+                "11": 24,
+                "12": 19,
+                "15": 1,
+                "16": 1,
+                "21": 127,
+                "22": 38,
+                "23": 1,
+                "24": 5,
+                "7": 5,
+                "8": 2,
+                "9": 103
+            }
+        },
+        "school_name": "ÖMER SEYFETTİN MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1371,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/00958cf7-50e1-46a9-b8c9-c56981ce9c02-1684106191956516365.jpeg",
+            "submission_id": 752369,
+            "total_vote": 337,
+            "votes": {
+                "1": 112,
+                "2": 1,
+                "3": 204,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/b3e49b7b-28b3-4ae4-921b-016133554f62-1684106091459317250.jpeg",
+            "submission_id": 737208,
+            "total_vote": 337,
+            "votes": {
+                "10": 7,
+                "11": 14,
+                "12": 25,
+                "14": 1,
+                "15": 2,
+                "18": 1,
+                "21": 132,
+                "22": 43,
+                "24": 18,
+                "5": 1,
+                "7": 4,
+                "9": 89
+            }
+        },
+        "school_name": "ÖMER SEYFETTİN MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1368,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3181e3ec-7ba9-43fe-aa67-14326045d248-1684106126481353286.jpeg",
+            "submission_id": 742550,
+            "total_vote": 327,
+            "votes": {
+                "1": 115,
+                "2": 1,
+                "3": 188,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÖMER SEYFETTİN MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1366,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8a4852f4-13c0-4480-aa06-0f68a1cf7cd0-1684106081718634706.jpeg",
+            "submission_id": 736018,
+            "total_vote": 317,
+            "votes": {
+                "1": 105,
+                "2": 1,
+                "3": 194,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d50977c4-e921-49a4-b5d5-c71f06e3802d-1684106098353013740.jpeg",
+            "submission_id": 737850,
+            "total_vote": 307,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 16,
+                "12": 33,
+                "15": 1,
+                "21": 114,
+                "22": 35,
+                "23": 3,
+                "24": 8,
+                "7": 4,
+                "8": 6,
+                "9": 85
+            }
+        },
+        "school_name": "ÖMER SEYFETTİN MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1367,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c0675c0f-17d8-4554-ab80-ce0f58ae11f9-1684105375153389965.jpeg",
+            "submission_id": 627792,
+            "total_vote": 326,
+            "votes": {
+                "1": 86,
+                "2": 4,
+                "3": 212,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/660cbf73-03f7-4526-8394-b848011a8dc6-1684105985448668150.jpeg",
+            "submission_id": 722449,
+            "total_vote": 324,
+            "votes": {
+                "10": 5,
+                "11": 8,
+                "12": 32,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 120,
+                "22": 60,
+                "23": 1,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 6,
+                "7": 9,
+                "8": 2,
+                "9": 68
+            }
+        },
+        "school_name": "ÖMER SEYFETTİN MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1365,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3d3accab-68e2-45d1-a941-4ca525fc2f02-1684105391295685125.jpeg",
+            "submission_id": 631055,
+            "total_vote": 289,
+            "votes": {
+                "1": 87,
+                "2": 1,
+                "3": 185,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a21dd8ca-58c6-40f2-9c96-a0738f27ed37-1684105769487154531.jpeg",
+            "submission_id": 691969,
+            "total_vote": 281,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 15,
+                "12": 13,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 123,
+                "22": 46,
+                "23": 2,
+                "24": 9,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 3,
+                "9": 62
+            }
+        },
+        "school_name": "ÖMER SEYFETTİN MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "ballot_box_number": 1061,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0d1851e6-c9b0-4d9b-9536-38b707a9e188-1684106336035224606.jpg",
+            "submission_id": 773193,
+            "total_vote": 63,
+            "votes": {
+                "1": 54,
+                "3": 5,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9b681b7d-9347-4fae-a8ee-6d473d035a41-1684106325651595900.jpg",
+            "submission_id": 771691,
+            "total_vote": 62,
+            "votes": {
+                "10": 3,
+                "11": 11,
+                "21": 5,
+                "22": 3,
+                "24": 1,
+                "9": 39
+            }
+        },
+        "school_name": "ÇAKIRLAR MAH. TOPLANTI SALONU"
+    }
+]

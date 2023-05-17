@@ -1,0 +1,339 @@
+[
+    {
+        "ballot_box_number": 2003,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/1b016d4b-207b-4684-af0d-2a558edeac66-1684106029070138583.jpg",
+            "submission_id": 728285,
+            "total_vote": 338,
+            "votes": {
+                "1": 85,
+                "2": 5,
+                "3": 232,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9fe0dedb-bd01-48ee-9633-d275021348ae-1684106024655166279.jpg",
+            "submission_id": 727604,
+            "total_vote": 331,
+            "votes": {
+                "10": 1,
+                "11": 15,
+                "12": 8,
+                "13": 20,
+                "15": 1,
+                "19": 1,
+                "21": 142,
+                "22": 55,
+                "23": 1,
+                "24": 8,
+                "5": 1,
+                "7": 8,
+                "8": 1,
+                "9": 69
+            }
+        },
+        "school_name": "MEDİHA MAHMUTBEY ORTAOKULU (C BLOK)"
+    },
+    {
+        "ballot_box_number": 2010,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e98cde62-d05f-40ec-905d-c79804535382-1684106151060636249.jpg",
+            "submission_id": 746011,
+            "total_vote": 336,
+            "votes": {
+                "1": 66,
+                "2": 3,
+                "3": 246,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d6ba1355-244c-453f-a77c-63fe9bfa2489-1684105944046910944.jpg",
+            "submission_id": 716392,
+            "total_vote": 329,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 8,
+                "12": 12,
+                "13": 15,
+                "14": 1,
+                "15": 1,
+                "21": 150,
+                "22": 58,
+                "23": 1,
+                "24": 16,
+                "3": 2,
+                "6": 3,
+                "7": 7,
+                "8": 1,
+                "9": 52
+            }
+        },
+        "school_name": "MEDİHA MAHMUTBEY ORTAOKULU (C BLOK)"
+    },
+    {
+        "ballot_box_number": 2007,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source1-secim-images.oyveotesi.org/raw/1005746_cb_3570196_1684090628.jpeg",
+            "submission_id": 424303,
+            "total_vote": 334,
+            "votes": {
+                "1": 70,
+                "2": 2,
+                "3": 243,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source1-secim-images.oyveotesi.org/raw/1005746_mv_3570196_1684086015.jpeg",
+            "submission_id": 285504,
+            "total_vote": 328,
+            "votes": {
+                "10": 5,
+                "11": 17,
+                "12": 11,
+                "13": 14,
+                "14": 0,
+                "15": 0,
+                "19": 0,
+                "20": 1,
+                "21": 156,
+                "22": 54,
+                "23": 0,
+                "24": 7,
+                "7": 6,
+                "8": 1,
+                "9": 56
+            }
+        },
+        "school_name": "MEDİHA MAHMUTBEY ORTAOKULU (C BLOK)"
+    },
+    {
+        "ballot_box_number": 2006,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/76c828bd-ef8b-42aa-82bb-18c3c6b94164-1684105711419816904.jpeg",
+            "submission_id": 683363,
+            "total_vote": 338,
+            "votes": {
+                "1": 88,
+                "2": 0,
+                "3": 235,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/712c39ac-5755-479b-9556-9acda54030a6-1684105621717686845.jpg",
+            "submission_id": 668632,
+            "total_vote": 333,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 4,
+                "12": 10,
+                "13": 18,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 140,
+                "22": 64,
+                "23": 1,
+                "24": 2,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 8,
+                "8": 4,
+                "9": 76
+            }
+        },
+        "school_name": "MEDİHA MAHMUTBEY ORTAOKULU (C BLOK)"
+    },
+    {
+        "ballot_box_number": 2008,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7649790b-209f-45bc-af7b-ad0cd211427c-1684106216893579580.jpg",
+            "submission_id": 756215,
+            "total_vote": 336,
+            "votes": {
+                "1": 93,
+                "2": 1,
+                "3": 211,
+                "4": 31
+            }
+        },
+        "mv_result": null,
+        "school_name": "MEDİHA MAHMUTBEY ORTAOKULU (C BLOK)"
+    },
+    {
+        "ballot_box_number": 2004,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/39673_bulk_999999999_1684089433814197968.jpg",
+            "submission_id": 394358,
+            "total_vote": 339,
+            "votes": {
+                "1": 80,
+                "2": 0,
+                "3": 239,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f4543943-0ca3-4d50-9df7-a4d25af722df-1684105846909869680.jpg",
+            "submission_id": 703443,
+            "total_vote": 334,
+            "votes": {
+                "1": 0,
+                "10": 8,
+                "11": 29,
+                "12": 4,
+                "13": 16,
+                "14": 0,
+                "15": 3,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 151,
+                "22": 57,
+                "23": 2,
+                "24": 8,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 0,
+                "9": 53
+            }
+        },
+        "school_name": "MEDİHA MAHMUTBEY ORTAOKULU (C BLOK)"
+    },
+    {
+        "ballot_box_number": 2005,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "MEDİHA MAHMUTBEY ORTAOKULU (C BLOK)"
+    },
+    {
+        "ballot_box_number": 2011,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source1-secim-images.oyveotesi.org/raw/1005746_cb_3570200_1684090067.jpeg",
+            "submission_id": 411423,
+            "total_vote": 340,
+            "votes": {
+                "1": 105,
+                "2": 3,
+                "3": 217,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "MEDİHA MAHMUTBEY ORTAOKULU (C BLOK)"
+    },
+    {
+        "ballot_box_number": 2002,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source1-secim-images.oyveotesi.org/raw/rotated/1005746_cb_3568411_1684090895.jpeg",
+            "submission_id": 481593,
+            "total_vote": 326,
+            "votes": {
+                "1": 99,
+                "2": 4,
+                "3": 208,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "MEDİHA MAHMUTBEY ORTAOKULU (C BLOK)"
+    },
+    {
+        "ballot_box_number": 2001,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source1-secim-images.oyveotesi.org/raw/rotated/1003621_cb_3568410_1684081987.jpeg",
+            "submission_id": 480403,
+            "total_vote": 315,
+            "votes": {
+                "1": 91,
+                "2": 2,
+                "3": 214,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source1-secim-images.oyveotesi.org/raw/rotated/1005746_mv_3568410_1684090500.jpeg",
+            "submission_id": 481620,
+            "total_vote": 305,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 9,
+                "12": 3,
+                "13": 16,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 148,
+                "22": 40,
+                "23": 0,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 5,
+                "8": 1,
+                "9": 76
+            }
+        },
+        "school_name": "MEDİHA MAHMUTBEY ORTAOKULU (C BLOK)"
+    },
+    {
+        "ballot_box_number": 2009,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source1-secim-images.oyveotesi.org/raw/rotated/1005746_cb_3570198_1684090326.jpeg",
+            "submission_id": 481596,
+            "total_vote": 341,
+            "votes": {
+                "1": 87,
+                "2": 1,
+                "3": 235,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7d263d67-f61e-4a1c-909c-5507f288cbb0-1684105969327190077.jpg",
+            "submission_id": 720349,
+            "total_vote": 335,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 9,
+                "12": 11,
+                "13": 16,
+                "19": 1,
+                "21": 156,
+                "22": 49,
+                "24": 16,
+                "6": 3,
+                "7": 1,
+                "9": 70
+            }
+        },
+        "school_name": "MEDİHA MAHMUTBEY ORTAOKULU (C BLOK)"
+    }
+]

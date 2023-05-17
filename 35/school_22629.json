@@ -1,0 +1,47 @@
+[
+    {
+        "ballot_box_number": 1316,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "HATİPOĞLU HASAN ERDEM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1315,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "HATİPOĞLU HASAN ERDEM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1314,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/da5e9eb8-0026-40d4-b8ef-68ae8b77bb93-1684106749582700363.jpg",
+            "submission_id": 833036,
+            "total_vote": 273,
+            "votes": {
+                "1": 134,
+                "3": 126,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "HATİPOĞLU HASAN ERDEM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1318,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "HATİPOĞLU HASAN ERDEM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1317,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "HATİPOĞLU HASAN ERDEM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1319,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "HATİPOĞLU HASAN ERDEM İLKOKULU"
+    }
+]

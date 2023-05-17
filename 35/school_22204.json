@@ -1,0 +1,173 @@
+[
+    {
+        "ballot_box_number": 1300,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/29010_bulk_999999999_1684091999164606205.jpeg",
+            "submission_id": 449316,
+            "total_vote": 265,
+            "votes": {
+                "1": 79,
+                "2": 2,
+                "3": 176,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/29010_bulk_999999999_1684092128482893903.jpeg",
+            "submission_id": 451388,
+            "total_vote": 252,
+            "votes": {
+                "10": 0,
+                "11": 9,
+                "12": 22,
+                "13": 3,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 89,
+                "22": 37,
+                "23": 0,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 4,
+                "8": 0,
+                "9": 81
+            }
+        },
+        "school_name": "KAKLİÇ ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1303,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/29010_bulk_999999999_1684092421016279432.jpeg",
+            "submission_id": 456042,
+            "total_vote": 275,
+            "votes": {
+                "1": 100,
+                "2": 2,
+                "3": 168,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/29010_bulk_999999999_1684092458798073086.jpeg",
+            "submission_id": 456630,
+            "total_vote": 265,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 17,
+                "12": 48,
+                "13": 9,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 82,
+                "22": 23,
+                "23": 1,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 75
+            }
+        },
+        "school_name": "KAKLİÇ ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1301,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/29010_bulk_999999999_1684092171538394502.jpeg",
+            "submission_id": 452076,
+            "total_vote": 271,
+            "votes": {
+                "1": 75,
+                "3": 179,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/29010_bulk_999999999_1684092207550840319.jpeg",
+            "submission_id": 452648,
+            "total_vote": 264,
+            "votes": {
+                "10": 3,
+                "11": 11,
+                "12": 54,
+                "13": 9,
+                "15": 1,
+                "20": 1,
+                "21": 93,
+                "22": 24,
+                "23": 1,
+                "24": 8,
+                "3": 1,
+                "4": 1,
+                "9": 57
+            }
+        },
+        "school_name": "KAKLİÇ ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1302,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0ea118dd-2c50-48f9-8cc5-c2fb38f688ae-1684106340063294032.jpeg",
+            "submission_id": 774070,
+            "total_vote": 269,
+            "votes": {
+                "1": 80,
+                "2": 0,
+                "3": 174,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/28f06c0c-e88c-444a-80e9-acd22583ad3b-1684106127708200868.jpeg",
+            "submission_id": 742551,
+            "total_vote": 264,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 8,
+                "12": 43,
+                "13": 6,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 94,
+                "22": 25,
+                "23": 0,
+                "24": 11,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 3,
+                "8": 0,
+                "9": 67
+            }
+        },
+        "school_name": "KAKLİÇ ORTA OKULU"
+    }
+]

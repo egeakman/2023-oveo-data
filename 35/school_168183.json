@@ -1,0 +1,215 @@
+[
+    {
+        "ballot_box_number": 2073,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a230c326-5f91-4b7f-99ff-f65e7e759161-1684105640997387991.jpeg",
+            "submission_id": 672135,
+            "total_vote": 329,
+            "votes": {
+                "1": 117,
+                "2": 2,
+                "3": 194,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/69ad141a-30e1-4f0b-a85f-8f23baa15a97-1684105639298661697.jpeg",
+            "submission_id": 671753,
+            "total_vote": 321,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 14,
+                "12": 5,
+                "13": 16,
+                "19": 1,
+                "21": 114,
+                "22": 45,
+                "24": 10,
+                "3": 1,
+                "5": 1,
+                "6": 1,
+                "7": 6,
+                "8": 2,
+                "9": 103
+            }
+        },
+        "school_name": "BAYRAKLI ANADOLU LİSESİ B BLOK"
+    },
+    {
+        "ballot_box_number": 2077,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/57986_cb_1093572595_1684087718398015730.jpg",
+            "submission_id": 343014,
+            "total_vote": 327,
+            "votes": {
+                "1": 129,
+                "2": 3,
+                "3": 168,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/47fb90ef-427e-4400-a5ca-fb49296b5d5b-1684105609527658675.jpeg",
+            "submission_id": 666722,
+            "total_vote": 321,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 26,
+                "12": 4,
+                "13": 14,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 108,
+                "22": 44,
+                "23": 1,
+                "24": 18,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 3,
+                "8": 1,
+                "9": 95
+            }
+        },
+        "school_name": "BAYRAKLI ANADOLU LİSESİ B BLOK"
+    },
+    {
+        "ballot_box_number": 2076,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/57986_cb_1093571334_1684084064840794470.jpg",
+            "submission_id": 229548,
+            "total_vote": 332,
+            "votes": {
+                "1": 126,
+                "3": 189,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49389_mv_1083571334_1684086063510744329.jpg",
+            "submission_id": 286979,
+            "total_vote": 330,
+            "votes": {
+                "1": 1,
+                "11": 14,
+                "12": 8,
+                "13": 13,
+                "15": 1,
+                "19": 1,
+                "21": 137,
+                "22": 31,
+                "23": 1,
+                "24": 9,
+                "3": 2,
+                "6": 4,
+                "7": 2,
+                "9": 106
+            }
+        },
+        "school_name": "BAYRAKLI ANADOLU LİSESİ B BLOK"
+    },
+    {
+        "ballot_box_number": 2075,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49389_cb_1093571333_1684084602468744277.jpg",
+            "submission_id": 243196,
+            "total_vote": 328,
+            "votes": {
+                "1": 109,
+                "2": 4,
+                "3": 196,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49389_mv_1083571333_1684085548857273873.jpg",
+            "submission_id": 270104,
+            "total_vote": 322,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 24,
+                "12": 7,
+                "13": 24,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 115,
+                "22": 43,
+                "23": 0,
+                "24": 9,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 7,
+                "8": 4,
+                "9": 80
+            }
+        },
+        "school_name": "BAYRAKLI ANADOLU LİSESİ B BLOK"
+    },
+    {
+        "ballot_box_number": 2074,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/49389_bulk_999999999_1684086916557289199.jpeg",
+            "submission_id": 316030,
+            "total_vote": 327,
+            "votes": {
+                "1": 134,
+                "2": 1,
+                "3": 171,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "BAYRAKLI ANADOLU LİSESİ B BLOK"
+    },
+    {
+        "ballot_box_number": 2072,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61651_cb_1093572596_1684087012278887730.jpg",
+            "submission_id": 319401,
+            "total_vote": 293,
+            "votes": {
+                "1": 97,
+                "3": 188,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/6fd8d513-75c0-47c6-8967-7eb45bee5a51-1684105352740249971.jpeg",
+            "submission_id": 623579,
+            "total_vote": 288,
+            "votes": {
+                "10": 3,
+                "11": 6,
+                "12": 8,
+                "13": 9,
+                "2": 4,
+                "21": 130,
+                "22": 35,
+                "24": 5,
+                "3": 1,
+                "6": 3,
+                "7": 1,
+                "9": 83
+            }
+        },
+        "school_name": "BAYRAKLI ANADOLU LİSESİ B BLOK"
+    }
+]

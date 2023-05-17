@@ -1,0 +1,254 @@
+[
+    {
+        "ballot_box_number": 1105,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20330_cb_1093758266_1684084875527648728.jpg",
+            "submission_id": 250628,
+            "total_vote": 348,
+            "votes": {
+                "1": 81,
+                "2": 2,
+                "3": 252,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20330_mv_1083758266_1684086013179284098.jpg",
+            "submission_id": 285353,
+            "total_vote": 346,
+            "votes": {
+                "10": 4,
+                "11": 12,
+                "12": 24,
+                "17": 1,
+                "18": 1,
+                "2": 1,
+                "21": 181,
+                "22": 42,
+                "24": 7,
+                "5": 1,
+                "6": 4,
+                "7": 3,
+                "8": 5,
+                "9": 60
+            }
+        },
+        "school_name": "ZEYTİNALAN GÜLTER-OSMAN PONNER İLKOKULU-(M.F.ÇAKMAK)"
+    },
+    {
+        "ballot_box_number": 1107,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26351_cb_1093758268_1684088542478741893.jpg",
+            "submission_id": 368860,
+            "total_vote": 348,
+            "votes": {
+                "1": 99,
+                "2": 3,
+                "3": 226,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26351_mv_1083758268_1684088578411811157.jpg",
+            "submission_id": 369950,
+            "total_vote": 344,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 23,
+                "12": 9,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 2,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 169,
+                "22": 43,
+                "23": 1,
+                "24": 6,
+                "3": 1,
+                "4": 1,
+                "5": 1,
+                "6": 3,
+                "7": 4,
+                "8": 3,
+                "9": 74
+            }
+        },
+        "school_name": "ZEYTİNALAN GÜLTER-OSMAN PONNER İLKOKULU-(M.F.ÇAKMAK)"
+    },
+    {
+        "ballot_box_number": 1102,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/70861_cb_1093758263_1684085690402912047.jpg",
+            "submission_id": 274754,
+            "total_vote": 333,
+            "votes": {
+                "1": 82,
+                "2": 1,
+                "3": 235,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e98b58d8-9eaa-4296-a4fb-9f218bfd7811-1684105442182542408.jpg",
+            "submission_id": 639719,
+            "total_vote": 327,
+            "votes": {
+                "11": 14,
+                "12": 12,
+                "20": 3,
+                "21": 166,
+                "22": 56,
+                "24": 11,
+                "3": 1,
+                "4": 1,
+                "6": 2,
+                "7": 2,
+                "8": 1,
+                "9": 58
+            }
+        },
+        "school_name": "ZEYTİNALAN GÜLTER-OSMAN PONNER İLKOKULU-(M.F.ÇAKMAK)"
+    },
+    {
+        "ballot_box_number": 1103,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47925_cb_1093758264_1684083086132409341.jpg",
+            "submission_id": 210167,
+            "total_vote": 342,
+            "votes": {
+                "1": 69,
+                "3": 262,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/70861_mv_1083758264_1684086232833565702.jpg",
+            "submission_id": 292492,
+            "total_vote": 341,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 12,
+                "12": 19,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 191,
+                "22": 48,
+                "23": 0,
+                "24": 3,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 7,
+                "8": 1,
+                "9": 51
+            }
+        },
+        "school_name": "ZEYTİNALAN GÜLTER-OSMAN PONNER İLKOKULU-(M.F.ÇAKMAK)"
+    },
+    {
+        "ballot_box_number": 1104,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26351_cb_1093758265_1684087320455793133.jpg",
+            "submission_id": 330069,
+            "total_vote": 344,
+            "votes": {
+                "1": 73,
+                "2": 0,
+                "3": 264,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/70861_bulk_999999999_1684096306747671439.jpg",
+            "submission_id": 511356,
+            "total_vote": 345,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 16,
+                "12": 22,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 175,
+                "22": 57,
+                "23": 1,
+                "24": 9,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 2,
+                "9": 52
+            }
+        },
+        "school_name": "ZEYTİNALAN GÜLTER-OSMAN PONNER İLKOKULU-(M.F.ÇAKMAK)"
+    },
+    {
+        "ballot_box_number": 1101,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/70861_cb_1093758262_1684086542976152446.jpg",
+            "submission_id": 303009,
+            "total_vote": 308,
+            "votes": {
+                "1": 70,
+                "3": 235,
+                "4": 3
+            }
+        },
+        "mv_result": null,
+        "school_name": "ZEYTİNALAN GÜLTER-OSMAN PONNER İLKOKULU-(M.F.ÇAKMAK)"
+    },
+    {
+        "ballot_box_number": 1106,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26351_cb_1093758267_1684085033457257531.jpg",
+            "submission_id": 255112,
+            "total_vote": 342,
+            "votes": {
+                "1": 87,
+                "2": 2,
+                "3": 236,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26351_mv_1083758267_1684085004235720143.jpg",
+            "submission_id": 254264,
+            "total_vote": 339,
+            "votes": {
+                "11": 20,
+                "12": 13,
+                "14": 1,
+                "18": 1,
+                "21": 179,
+                "22": 51,
+                "24": 7,
+                "6": 1,
+                "7": 4,
+                "8": 2,
+                "9": 60
+            }
+        },
+        "school_name": "ZEYTİNALAN GÜLTER-OSMAN PONNER İLKOKULU-(M.F.ÇAKMAK)"
+    }
+]

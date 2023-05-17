@@ -1,0 +1,91 @@
+[
+    {
+        "ballot_box_number": 1114,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/13342_cb_1093797948_1684082173497286911.jpg",
+            "submission_id": 196727,
+            "total_vote": 209,
+            "votes": {
+                "1": 44,
+                "2": 1,
+                "3": 156,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2337df83-8e63-497c-b2ff-31c11fc09f87-1684106418302478715.jpg",
+            "submission_id": 784917,
+            "total_vote": 207,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 10,
+                "12": 18,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 118,
+                "22": 22,
+                "23": 2,
+                "24": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 32
+            }
+        },
+        "school_name": "ÇEŞME MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1113,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/13435_cb_1093797947_1684082652142651763.jpg",
+            "submission_id": 203112,
+            "total_vote": 191,
+            "votes": {
+                "1": 33,
+                "2": 1,
+                "3": 153,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/13435_mv_1083797947_1684084746764374312.jpg",
+            "submission_id": 247116,
+            "total_vote": 194,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 2,
+                "12": 11,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 121,
+                "22": 22,
+                "23": 0,
+                "24": 1,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 29
+            }
+        },
+        "school_name": "ÇEŞME MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    }
+]

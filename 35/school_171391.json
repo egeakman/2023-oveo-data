@@ -1,0 +1,182 @@
+[
+    {
+        "ballot_box_number": 1017,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/3764_cb_1093754038_1684084327798534067.jpg",
+            "submission_id": 236188,
+            "total_vote": 269,
+            "votes": {
+                "1": 53,
+                "2": 3,
+                "3": 200,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/3764_mv_1083754038_1684084361874164838.jpg",
+            "submission_id": 237019,
+            "total_vote": 262,
+            "votes": {
+                "11": 7,
+                "12": 10,
+                "15": 1,
+                "20": 1,
+                "21": 140,
+                "22": 41,
+                "24": 7,
+                "3": 3,
+                "5": 2,
+                "6": 1,
+                "7": 3,
+                "9": 46
+            }
+        },
+        "school_name": "ŞEHİT GÖKHAN BAYRAKTAR ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1018,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/3764_bulk_999999999_1684084246158002200.jpeg",
+            "submission_id": 234180,
+            "total_vote": 258,
+            "votes": {
+                "1": 78,
+                "2": 0,
+                "3": 168,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/3764_bulk_999999999_1684084246229322352.jpeg",
+            "submission_id": 234185,
+            "total_vote": 251,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 21,
+                "12": 20,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 109,
+                "22": 33,
+                "23": 0,
+                "24": 4,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 1,
+                "8": 1,
+                "9": 55
+            }
+        },
+        "school_name": "ŞEHİT GÖKHAN BAYRAKTAR ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1016,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/3764_cb_1093754037_1684082985178677104.jpg",
+            "submission_id": 208449,
+            "total_vote": 253,
+            "votes": {
+                "1": 60,
+                "2": 4,
+                "3": 182,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684083221621939311.jpg",
+            "submission_id": 212536,
+            "total_vote": 242,
+            "votes": {
+                "10": 2,
+                "11": 9,
+                "12": 27,
+                "21": 106,
+                "22": 43,
+                "24": 2,
+                "6": 1,
+                "7": 4,
+                "8": 1,
+                "9": 47
+            }
+        },
+        "school_name": "ŞEHİT GÖKHAN BAYRAKTAR ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1020,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/3764_cb_1093754041_1684085558351507573.jpg",
+            "submission_id": 270399,
+            "total_vote": 290,
+            "votes": {
+                "1": 78,
+                "2": 4,
+                "3": 189,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/3764_mv_1083754041_1684086787931261697.jpg",
+            "submission_id": 311659,
+            "total_vote": 290,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 17,
+                "12": 18,
+                "15": 1,
+                "19": 1,
+                "21": 131,
+                "22": 36,
+                "23": 1,
+                "24": 8,
+                "6": 1,
+                "7": 12,
+                "9": 62
+            }
+        },
+        "school_name": "ŞEHİT GÖKHAN BAYRAKTAR ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1019,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/3764_cb_1093754040_1684086933462025654.jpg",
+            "submission_id": 316664,
+            "total_vote": 289,
+            "votes": {
+                "1": 59,
+                "2": 1,
+                "3": 212,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/3764_bulk_999999999_1684088383349922051.jpeg",
+            "submission_id": 363865,
+            "total_vote": 285,
+            "votes": {
+                "11": 13,
+                "12": 6,
+                "14": 1,
+                "20": 1,
+                "21": 139,
+                "22": 64,
+                "23": 2,
+                "24": 8,
+                "3": 1,
+                "7": 3,
+                "8": 2,
+                "9": 45
+            }
+        },
+        "school_name": "ŞEHİT GÖKHAN BAYRAKTAR ANADOLU LİSESİ"
+    }
+]

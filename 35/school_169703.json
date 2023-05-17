@@ -1,0 +1,540 @@
+[
+    {
+        "ballot_box_number": 1244,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/56802_bulk_999999999_1684087204457818937.jpg",
+            "submission_id": 326239,
+            "total_vote": 328,
+            "votes": {
+                "1": 54,
+                "2": 2,
+                "3": 270,
+                "4": 2
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/56802_bulk_999999999_1684087204333864268.jpg",
+            "submission_id": 326230,
+            "total_vote": 322,
+            "votes": {
+                "1": 2,
+                "10": 1,
+                "11": 7,
+                "12": 4,
+                "13": 17,
+                "14": 1,
+                "19": 3,
+                "20": 2,
+                "21": 207,
+                "22": 31,
+                "23": 1,
+                "24": 2,
+                "7": 2,
+                "8": 1,
+                "9": 41
+            }
+        },
+        "school_name": "HASAN PINARCALI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1256,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "HASAN PINARCALI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1248,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/13a55c73-bfe2-4197-b621-6da0390cb0af-1684105149948200450.jpg",
+            "submission_id": 583015,
+            "total_vote": 358,
+            "votes": {
+                "1": 48,
+                "3": 295,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/85b992cc-7379-4e30-89ac-220222756d86-1684105151782817066.jpg",
+            "submission_id": 583554,
+            "total_vote": 349,
+            "votes": {
+                "10": 2,
+                "11": 9,
+                "12": 9,
+                "13": 35,
+                "21": 190,
+                "22": 55,
+                "24": 4,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 40
+            }
+        },
+        "school_name": "HASAN PINARCALI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1250,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19851_cb_1093864764_1684084808048223245.jpg",
+            "submission_id": 248738,
+            "total_vote": 346,
+            "votes": {
+                "1": 53,
+                "3": 274,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/56802_mv_1083864764_1684089511575539983.jpg",
+            "submission_id": 396525,
+            "total_vote": 346,
+            "votes": {
+                "10": 1,
+                "11": 10,
+                "12": 9,
+                "13": 30,
+                "19": 1,
+                "21": 184,
+                "22": 55,
+                "24": 12,
+                "3": 1,
+                "5": 1,
+                "7": 5,
+                "8": 3,
+                "9": 34
+            }
+        },
+        "school_name": "HASAN PINARCALI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1257,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/56802_bulk_999999999_1684089842108785313.jpg",
+            "submission_id": 405586,
+            "total_vote": 359,
+            "votes": {
+                "1": 40,
+                "2": 2,
+                "3": 305,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/56802_bulk_999999999_1684089842013252268.jpg",
+            "submission_id": 405582,
+            "total_vote": 361,
+            "votes": {
+                "10": 1,
+                "11": 3,
+                "12": 16,
+                "13": 34,
+                "20": 1,
+                "21": 203,
+                "22": 50,
+                "23": 1,
+                "24": 7,
+                "3": 1,
+                "6": 2,
+                "7": 5,
+                "8": 1,
+                "9": 36
+            }
+        },
+        "school_name": "HASAN PINARCALI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1247,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/56802_cb_1093864761_1684089136823936269.jpg",
+            "submission_id": 386300,
+            "total_vote": 364,
+            "votes": {
+                "1": 36,
+                "2": 2,
+                "3": 308,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/56802_mv_1083864761_1684089392489860542.jpg",
+            "submission_id": 393248,
+            "total_vote": 359,
+            "votes": {
+                "1": 2,
+                "10": 1,
+                "11": 14,
+                "12": 12,
+                "13": 42,
+                "21": 201,
+                "22": 53,
+                "23": 1,
+                "24": 7,
+                "7": 5,
+                "8": 1,
+                "9": 20
+            }
+        },
+        "school_name": "HASAN PINARCALI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1254,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16408_cb_1093864768_1684084286562892892.jpg",
+            "submission_id": 235178,
+            "total_vote": 357,
+            "votes": {
+                "1": 45,
+                "2": 0,
+                "3": 300,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/56802_mv_1083864768_1684089783462286143.jpg",
+            "submission_id": 404047,
+            "total_vote": 352,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 11,
+                "12": 7,
+                "13": 42,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 199,
+                "22": 47,
+                "23": 0,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 6,
+                "8": 0,
+                "9": 30
+            }
+        },
+        "school_name": "HASAN PINARCALI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1251,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19851_cb_1093864765_1684084981551588972.jpg",
+            "submission_id": 253616,
+            "total_vote": 356,
+            "votes": {
+                "1": 55,
+                "2": 0,
+                "3": 292,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19851_mv_1083864765_1684084946815502642.jpg",
+            "submission_id": 252583,
+            "total_vote": 354,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 20,
+                "12": 6,
+                "13": 41,
+                "14": 0,
+                "15": 2,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 185,
+                "22": 54,
+                "23": 0,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 4,
+                "8": 1,
+                "9": 29
+            }
+        },
+        "school_name": "HASAN PINARCALI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1246,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/56802_bulk_999999999_1684087204571124497.jpg",
+            "submission_id": 326248,
+            "total_vote": 352,
+            "votes": {
+                "1": 39,
+                "2": 1,
+                "3": 303,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/56802_bulk_999999999_1684087204269174926.jpg",
+            "submission_id": 326221,
+            "total_vote": 353,
+            "votes": {
+                "11": 6,
+                "12": 14,
+                "13": 43,
+                "21": 190,
+                "22": 56,
+                "24": 8,
+                "3": 1,
+                "6": 1,
+                "7": 2,
+                "9": 32
+            }
+        },
+        "school_name": "HASAN PINARCALI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1252,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21877_cb_1093864766_1684090878578275113.jpg",
+            "submission_id": 429414,
+            "total_vote": 354,
+            "votes": {
+                "1": 56,
+                "2": 1,
+                "3": 280,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31795_mv_1083864766_1684090702826779449.jpg",
+            "submission_id": 425628,
+            "total_vote": 353,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 5,
+                "12": 10,
+                "13": 20,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 193,
+                "22": 52,
+                "23": 0,
+                "24": 15,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 3,
+                "7": 2,
+                "8": 0,
+                "9": 50
+            }
+        },
+        "school_name": "HASAN PINARCALI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1249,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31795_cb_1093864763_1684083662015031958.jpg",
+            "submission_id": 221055,
+            "total_vote": 356,
+            "votes": {
+                "1": 54,
+                "2": 1,
+                "3": 279,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/56802_mv_1083864763_1684089582134736802.jpg",
+            "submission_id": 398584,
+            "total_vote": 353,
+            "votes": {
+                "10": 1,
+                "11": 9,
+                "12": 9,
+                "13": 38,
+                "15": 1,
+                "19": 1,
+                "21": 184,
+                "22": 44,
+                "23": 1,
+                "24": 18,
+                "6": 1,
+                "7": 4,
+                "8": 1,
+                "9": 41
+            }
+        },
+        "school_name": "HASAN PINARCALI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1253,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16408_cb_1093864767_1684085487015483852.jpg",
+            "submission_id": 268179,
+            "total_vote": 357,
+            "votes": {
+                "1": 40,
+                "2": 1,
+                "3": 304,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16408_mv_1083864767_1684085717444287320.jpg",
+            "submission_id": 275655,
+            "total_vote": 347,
+            "votes": {
+                "1": 7,
+                "10": 1,
+                "11": 45,
+                "12": 8,
+                "13": 33,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 5,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 202,
+                "23": 0,
+                "24": 6,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 4,
+                "7": 2,
+                "8": 0,
+                "9": 33
+            }
+        },
+        "school_name": "HASAN PINARCALI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1243,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/56802_bulk_999999999_1684087204056948481.jpg",
+            "submission_id": 326214,
+            "total_vote": 336,
+            "votes": {
+                "1": 55,
+                "2": 2,
+                "3": 270,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/56802_bulk_999999999_1684087203961088248.jpg",
+            "submission_id": 326204,
+            "total_vote": 325,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 13,
+                "12": 5,
+                "13": 29,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 171,
+                "22": 48,
+                "23": 1,
+                "24": 6,
+                "3": 4,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 39
+            }
+        },
+        "school_name": "HASAN PINARCALI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1245,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/56802_bulk_999999999_1684091247173500240.jpg",
+            "submission_id": 436743,
+            "total_vote": 353,
+            "votes": {
+                "1": 51,
+                "3": 289,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "HASAN PINARCALI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1255,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16408_cb_1093864769_1684081593052547473.jpg",
+            "submission_id": 190261,
+            "total_vote": 341,
+            "votes": {
+                "1": 34,
+                "2": 1,
+                "3": 296,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16408_mv_1083864769_1684082769873825588.jpg",
+            "submission_id": 204956,
+            "total_vote": 341,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 5,
+                "12": 15,
+                "13": 45,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 2,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 174,
+                "22": 61,
+                "23": 1,
+                "24": 5,
+                "3": 1,
+                "4": 2,
+                "5": 1,
+                "6": 3,
+                "7": 2,
+                "8": 1,
+                "9": 22
+            }
+        },
+        "school_name": "HASAN PINARCALI ORTAOKULU"
+    }
+]

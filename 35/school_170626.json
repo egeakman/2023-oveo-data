@@ -1,0 +1,62 @@
+[
+    {
+        "ballot_box_number": 1105,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39675_cb_1093797444_1684084640895269146.jpg",
+            "submission_id": 244248,
+            "total_vote": 323,
+            "votes": {
+                "1": 55,
+                "2": 0,
+                "3": 256,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52258_mv_1083797444_1684085708394772374.jpg",
+            "submission_id": 275341,
+            "total_vote": 319,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 8,
+                "12": 14,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 178,
+                "22": 56,
+                "23": 1,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 5,
+                "8": 4,
+                "9": 46
+            }
+        },
+        "school_name": "YUSUF UZ ORTAOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1104,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52258_cb_1093797443_1684093358634679659.jpg",
+            "submission_id": 468896,
+            "total_vote": 320,
+            "votes": {
+                "1": 50,
+                "3": 267,
+                "4": 3
+            }
+        },
+        "mv_result": null,
+        "school_name": "YUSUF UZ ORTAOKULU B BLOK"
+    }
+]

@@ -1,0 +1,649 @@
+[
+    {
+        "ballot_box_number": 1458,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/50997_cb_1093802065_1684087069859332731.jpg",
+            "submission_id": 321426,
+            "total_vote": 331,
+            "votes": {
+                "1": 76,
+                "2": 1,
+                "3": 240,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/50997_mv_1083802065_1684087212851140457.jpg",
+            "submission_id": 326503,
+            "total_vote": 330,
+            "votes": {
+                "1": 8,
+                "10": 2,
+                "11": 12,
+                "12": 16,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 173,
+                "22": 30,
+                "23": 0,
+                "24": 6,
+                "3": 0,
+                "4": 9,
+                "5": 1,
+                "6": 3,
+                "7": 5,
+                "8": 4,
+                "9": 61
+            }
+        },
+        "school_name": "ŞEHİT HALİT TAŞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1454,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12316_cb_1093802061_1684090083859955678.jpg",
+            "submission_id": 411766,
+            "total_vote": 331,
+            "votes": {
+                "1": 96,
+                "2": 2,
+                "3": 221,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12316_mv_1083802061_1684090052065801142.jpg",
+            "submission_id": 410960,
+            "total_vote": 328,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 12,
+                "12": 18,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 165,
+                "22": 39,
+                "23": 0,
+                "24": 5,
+                "3": 1,
+                "4": 1,
+                "5": 1,
+                "6": 1,
+                "7": 5,
+                "8": 0,
+                "9": 77
+            }
+        },
+        "school_name": "ŞEHİT HALİT TAŞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1463,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/43024_cb_1093802070_1684088201173710461.jpg",
+            "submission_id": 358287,
+            "total_vote": 307,
+            "votes": {
+                "1": 77,
+                "2": 1,
+                "3": 213,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7d7e3a4a-e1f3-4245-8818-5dae04919b43-1684105440968733736.jpg",
+            "submission_id": 640003,
+            "total_vote": 297,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 11,
+                "12": 10,
+                "21": 157,
+                "22": 39,
+                "23": 1,
+                "24": 9,
+                "6": 2,
+                "7": 4,
+                "9": 62
+            }
+        },
+        "school_name": "ŞEHİT HALİT TAŞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1459,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/50997_bulk_999999999_1684090691897208015.jpg",
+            "submission_id": 425413,
+            "total_vote": 319,
+            "votes": {
+                "1": 97,
+                "2": 2,
+                "3": 211,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/50997_bulk_999999999_1684090691953275430.jpg",
+            "submission_id": 425418,
+            "total_vote": 314,
+            "votes": {
+                "10": 5,
+                "11": 14,
+                "12": 12,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 136,
+                "22": 44,
+                "23": 1,
+                "24": 12,
+                "3": 3,
+                "4": 0,
+                "5": 0,
+                "6": 5,
+                "7": 5,
+                "8": 2,
+                "9": 72
+            }
+        },
+        "school_name": "ŞEHİT HALİT TAŞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1460,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/75876_bulk_999999999_1684090977567845505.jpg",
+            "submission_id": 431499,
+            "total_vote": 321,
+            "votes": {
+                "1": 60,
+                "2": 1,
+                "3": 246,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT HALİT TAŞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1455,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12316_cb_1093802062_1684089221932010796.jpg",
+            "submission_id": 388770,
+            "total_vote": 323,
+            "votes": {
+                "1": 86,
+                "2": 1,
+                "3": 218,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT HALİT TAŞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1451,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12316_cb_1093802058_1684087606239253179.jpg",
+            "submission_id": 339269,
+            "total_vote": 274,
+            "votes": {
+                "1": 91,
+                "2": 0,
+                "3": 181,
+                "4": 2
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12316_mv_1083802058_1684087563017615878.jpg",
+            "submission_id": 337915,
+            "total_vote": 265,
+            "votes": {
+                "10": 4,
+                "11": 8,
+                "12": 13,
+                "14": 1,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "21": 130,
+                "22": 34,
+                "23": 1,
+                "24": 1,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 1,
+                "9": 67
+            }
+        },
+        "school_name": "ŞEHİT HALİT TAŞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1450,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12316_cb_1093802057_1684084411453071924.jpg",
+            "submission_id": 238293,
+            "total_vote": 289,
+            "votes": {
+                "1": 71,
+                "2": 2,
+                "3": 208,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5d2198a9-05b5-4821-991b-3033c83c6f2c-1684106352481550706.jpg",
+            "submission_id": 775570,
+            "total_vote": 288,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 13,
+                "12": 4,
+                "14": 0,
+                "15": 1,
+                "16": 8,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 157,
+                "22": 40,
+                "23": 0,
+                "24": 1,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 0,
+                "9": 59
+            }
+        },
+        "school_name": "ŞEHİT HALİT TAŞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1449,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12316_cb_1093802056_1684080394229206440.jpg",
+            "submission_id": 181395,
+            "total_vote": 285,
+            "votes": {
+                "1": 96,
+                "2": 2,
+                "3": 183,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12316_mv_1083802056_1684088686945979180.jpg",
+            "submission_id": 373322,
+            "total_vote": 288,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 12,
+                "12": 7,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 4,
+                "2": 0,
+                "20": 1,
+                "21": 145,
+                "22": 35,
+                "23": 0,
+                "24": 1,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 2,
+                "9": 78
+            }
+        },
+        "school_name": "ŞEHİT HALİT TAŞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1464,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/43024_cb_1093802071_1684085924568651032.jpg",
+            "submission_id": 282601,
+            "total_vote": 324,
+            "votes": {
+                "1": 81,
+                "2": 1,
+                "3": 224,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/43024_mv_1083802071_1684085968850089234.jpg",
+            "submission_id": 284017,
+            "total_vote": 319,
+            "votes": {
+                "10": 1,
+                "11": 10,
+                "12": 17,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 147,
+                "22": 53,
+                "23": 0,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 5,
+                "7": 6,
+                "8": 0,
+                "9": 67
+            }
+        },
+        "school_name": "ŞEHİT HALİT TAŞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1462,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12316_cb_1093802069_1684087107104008970.jpg",
+            "submission_id": 322804,
+            "total_vote": 330,
+            "votes": {
+                "1": 85,
+                "2": 1,
+                "3": 224,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12316_mv_1083802069_1684087143917039160.jpg",
+            "submission_id": 324046,
+            "total_vote": 327,
+            "votes": {
+                "10": 3,
+                "11": 11,
+                "12": 27,
+                "21": 149,
+                "22": 44,
+                "23": 2,
+                "24": 12,
+                "3": 1,
+                "4": 1,
+                "6": 1,
+                "7": 3,
+                "8": 3,
+                "9": 70
+            }
+        },
+        "school_name": "ŞEHİT HALİT TAŞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1453,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12316_cb_1093802060_1684087377856069976.jpg",
+            "submission_id": 331968,
+            "total_vote": 330,
+            "votes": {
+                "1": 109,
+                "2": 2,
+                "3": 205,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12316_mv_1083802060_1684087341303024724.jpg",
+            "submission_id": 330712,
+            "total_vote": 321,
+            "votes": {
+                "10": 3,
+                "11": 22,
+                "12": 12,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "21": 151,
+                "22": 34,
+                "23": 1,
+                "24": 13,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 3,
+                "7": 2,
+                "8": 1,
+                "9": 77
+            }
+        },
+        "school_name": "ŞEHİT HALİT TAŞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1456,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ad502202-ea6d-4412-8069-0a6bbc7d1ede-1684105665659960505.jpg",
+            "submission_id": 676338,
+            "total_vote": 325,
+            "votes": {
+                "1": 109,
+                "2": 1,
+                "3": 203,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12316_mv_1083802063_1684088645167646981.jpg",
+            "submission_id": 372040,
+            "total_vote": 321,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 14,
+                "12": 16,
+                "14": 0,
+                "15": 2,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 123,
+                "22": 57,
+                "23": 2,
+                "24": 10,
+                "3": 3,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 1,
+                "9": 85
+            }
+        },
+        "school_name": "ŞEHİT HALİT TAŞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1465,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/43024_cb_1093802072_1684089151508552532.jpg",
+            "submission_id": 386754,
+            "total_vote": 321,
+            "votes": {
+                "1": 77,
+                "2": 1,
+                "3": 224,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/43024_mv_1083802072_1684089739592676280.jpg",
+            "submission_id": 402831,
+            "total_vote": 318,
+            "votes": {
+                "10": 1,
+                "11": 11,
+                "12": 13,
+                "18": 1,
+                "21": 144,
+                "22": 54,
+                "24": 11,
+                "3": 1,
+                "5": 2,
+                "6": 3,
+                "7": 5,
+                "9": 72
+            }
+        },
+        "school_name": "ŞEHİT HALİT TAŞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1461,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12316_cb_1093802068_1684087273760488543.jpg",
+            "submission_id": 328529,
+            "total_vote": 322,
+            "votes": {
+                "1": 100,
+                "2": 2,
+                "3": 201,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12316_mv_1083802068_1684087302946027613.jpg",
+            "submission_id": 329464,
+            "total_vote": 316,
+            "votes": {
+                "10": 2,
+                "11": 11,
+                "12": 13,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 138,
+                "22": 39,
+                "23": 0,
+                "24": 16,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 9,
+                "8": 0,
+                "9": 85
+            }
+        },
+        "school_name": "ŞEHİT HALİT TAŞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1452,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12316_cb_1093802059_1684087239283900149.jpg",
+            "submission_id": 327311,
+            "total_vote": 308,
+            "votes": {
+                "1": 71,
+                "2": 3,
+                "3": 227,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12316_mv_1083802059_1684087205377753771.jpg",
+            "submission_id": 326281,
+            "total_vote": 309,
+            "votes": {
+                "10": 0,
+                "11": 9,
+                "12": 6,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 161,
+                "22": 58,
+                "23": 0,
+                "24": 3,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 6,
+                "8": 1,
+                "9": 61
+            }
+        },
+        "school_name": "ŞEHİT HALİT TAŞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1457,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/50997_cb_1093802064_1684086464758027238.jpg",
+            "submission_id": 300235,
+            "total_vote": 326,
+            "votes": {
+                "1": 88,
+                "3": 218,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/50997_mv_1083802064_1684086423947591874.jpg",
+            "submission_id": 298809,
+            "total_vote": 319,
+            "votes": {
+                "10": 2,
+                "11": 17,
+                "12": 18,
+                "21": 149,
+                "22": 40,
+                "24": 13,
+                "3": 2,
+                "6": 3,
+                "7": 7,
+                "8": 4,
+                "9": 64
+            }
+        },
+        "school_name": "ŞEHİT HALİT TAŞ ORTAOKULU"
+    }
+]

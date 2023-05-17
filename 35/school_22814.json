@@ -1,0 +1,441 @@
+[
+    {
+        "ballot_box_number": 1194,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ff2e4f38-d6f4-497c-a4b0-bc84ba1003d6-1684106572165693875.jpg",
+            "submission_id": 807912,
+            "total_vote": 337,
+            "votes": {
+                "1": 43,
+                "3": 277,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e914b721-a2ff-4692-91f9-40431792dcbd-1684106427017494809.jpg",
+            "submission_id": 786469,
+            "total_vote": 334,
+            "votes": {
+                "11": 15,
+                "12": 15,
+                "13": 26,
+                "14": 1,
+                "19": 2,
+                "21": 181,
+                "22": 48,
+                "23": 1,
+                "24": 5,
+                "6": 1,
+                "7": 7,
+                "8": 1,
+                "9": 31
+            }
+        },
+        "school_name": "SUPHİ KOYUNCUOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1201,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21142_cb_1093577721_1684085147915174768.jpg",
+            "submission_id": 258328,
+            "total_vote": 332,
+            "votes": {
+                "1": 53,
+                "3": 258,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/b6d1cfc6-57af-473b-af2f-62e894e0820c-1684105770541071724.jpg",
+            "submission_id": 692047,
+            "total_vote": 330,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 7,
+                "12": 14,
+                "13": 43,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 152,
+                "22": 44,
+                "23": 0,
+                "24": 11,
+                "3": 0,
+                "4": 1,
+                "5": 1,
+                "6": 2,
+                "7": 6,
+                "8": 0,
+                "9": 46
+            }
+        },
+        "school_name": "SUPHİ KOYUNCUOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1202,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21588_bulk_999999999_1684098794640535286.jpg",
+            "submission_id": 529317,
+            "total_vote": 341,
+            "votes": {
+                "1": 60,
+                "2": 3,
+                "3": 261,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a1844fb8-5612-48f3-8766-6114ee131897-1684105585881721174.jpg",
+            "submission_id": 663019,
+            "total_vote": 336,
+            "votes": {
+                "10": 2,
+                "11": 17,
+                "12": 15,
+                "13": 21,
+                "21": 159,
+                "22": 58,
+                "24": 11,
+                "3": 6,
+                "5": 1,
+                "6": 2,
+                "7": 4,
+                "9": 40
+            }
+        },
+        "school_name": "SUPHİ KOYUNCUOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1193,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d81e39d8-fe9b-495e-a2e8-4ff76e906078-1684105241772941635.jpg",
+            "submission_id": 602663,
+            "total_vote": 323,
+            "votes": {
+                "1": 73,
+                "2": 1,
+                "3": 235,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8e3f8512-709c-400c-8306-658fbc428c59-1684105242338408540.jpg",
+            "submission_id": 602961,
+            "total_vote": 319,
+            "votes": {
+                "11": 19,
+                "12": 2,
+                "13": 23,
+                "17": 2,
+                "20": 1,
+                "21": 168,
+                "22": 30,
+                "23": 1,
+                "24": 15,
+                "5": 1,
+                "7": 3,
+                "9": 54
+            }
+        },
+        "school_name": "SUPHİ KOYUNCUOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1197,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d6277be8-1b29-443c-a4e4-789c96d93a85-1684105789162411125.jpeg",
+            "submission_id": 695860,
+            "total_vote": 340,
+            "votes": {
+                "1": 53,
+                "3": 268,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9add9d8c-01eb-4c56-ae49-1c05a2b2775b-1684105452781924626.jpg",
+            "submission_id": 642158,
+            "total_vote": 336,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 5,
+                "12": 11,
+                "13": 42,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 162,
+                "22": 53,
+                "23": 1,
+                "24": 8,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 46
+            }
+        },
+        "school_name": "SUPHİ KOYUNCUOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1198,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21588_bulk_999999999_1684098794805634679.jpg",
+            "submission_id": 529319,
+            "total_vote": 345,
+            "votes": {
+                "1": 62,
+                "3": 268,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/13de3ea4-eb4d-47cf-81bf-79b424ce6ce6-1684105843893993770.jpeg",
+            "submission_id": 703088,
+            "total_vote": 341,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 13,
+                "12": 9,
+                "13": 41,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 155,
+                "22": 56,
+                "23": 0,
+                "24": 51,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 2,
+                "7": 6,
+                "8": 1,
+                "9": 4
+            }
+        },
+        "school_name": "SUPHİ KOYUNCUOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1196,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21588_bulk_999999999_1684097472128398679.jpg",
+            "submission_id": 520975,
+            "total_vote": 337,
+            "votes": {
+                "1": 53,
+                "2": 0,
+                "3": 275,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e273bba8-b8be-46e9-986f-0ec4306ce128-1684106444921672780.jpeg",
+            "submission_id": 789164,
+            "total_vote": 338,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 2,
+                "12": 12,
+                "13": 44,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "2": 0,
+                "21": 168,
+                "22": 48,
+                "23": 0,
+                "24": 7,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 5,
+                "9": 42
+            }
+        },
+        "school_name": "SUPHİ KOYUNCUOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1195,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/36097_mv_1083577715_1684088603872065875.jpg",
+            "submission_id": 370732,
+            "total_vote": 340,
+            "votes": {
+                "1": 54,
+                "2": 2,
+                "3": 268,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/36097_cb_1093577715_1684088571474755764.jpg",
+            "submission_id": 369677,
+            "total_vote": 338,
+            "votes": {
+                "11": 10,
+                "12": 9,
+                "13": 37,
+                "20": 2,
+                "21": 168,
+                "22": 58,
+                "24": 10,
+                "6": 2,
+                "7": 3,
+                "8": 2,
+                "9": 37
+            }
+        },
+        "school_name": "SUPHİ KOYUNCUOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1191,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e53afa12-8445-49c4-a2cd-fca171de57b2-1684106397849053374.jpg",
+            "submission_id": 782024,
+            "total_vote": 316,
+            "votes": {
+                "1": 47,
+                "2": 0,
+                "3": 268,
+                "4": 1
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d815d2b1-30ba-4606-8b37-77bbddb1e480-1684105310085712239.jpg",
+            "submission_id": 615955,
+            "total_vote": 307,
+            "votes": {
+                "10": 3,
+                "11": 8,
+                "12": 6,
+                "13": 14,
+                "21": 196,
+                "22": 42,
+                "23": 1,
+                "24": 1,
+                "3": 1,
+                "7": 1,
+                "9": 34
+            }
+        },
+        "school_name": "SUPHİ KOYUNCUOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1200,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a2202b0f-4129-42c2-a02d-9ca6ac2f6b6f-1684105975037577134.jpg",
+            "submission_id": 721275,
+            "total_vote": 347,
+            "votes": {
+                "1": 66,
+                "2": 0,
+                "3": 265,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "SUPHİ KOYUNCUOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1192,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/fee35e71-b826-44a4-ad4e-e2998d0c482f-1684105991693998020.jpg",
+            "submission_id": 723245,
+            "total_vote": 319,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 4,
+                "12": 6,
+                "13": 20,
+                "14": 1,
+                "15": 1,
+                "17": 1,
+                "21": 182,
+                "22": 43,
+                "23": 2,
+                "24": 4,
+                "8": 3,
+                "9": 49
+            }
+        },
+        "school_name": "SUPHİ KOYUNCUOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1203,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0c2603d5-019b-4001-8d95-444eeaacd747-1684106337418870298.jpg",
+            "submission_id": 773491,
+            "total_vote": 343,
+            "votes": {
+                "1": 45,
+                "2": 1,
+                "3": 287,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/451269a9-a758-4dc9-a4f2-23b2abb2b0c5-1684106093742296746.jpg",
+            "submission_id": 737405,
+            "total_vote": 341,
+            "votes": {
+                "10": 1,
+                "11": 15,
+                "12": 8,
+                "13": 24,
+                "15": 1,
+                "18": 1,
+                "19": 2,
+                "21": 191,
+                "22": 57,
+                "24": 5,
+                "6": 1,
+                "7": 4,
+                "9": 31
+            }
+        },
+        "school_name": "SUPHİ KOYUNCUOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1199,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26751_cb_1093577719_1684086955376446267.jpg",
+            "submission_id": 317404,
+            "total_vote": 346,
+            "votes": {
+                "1": 63,
+                "2": 1,
+                "3": 274,
+                "4": 8
+            }
+        },
+        "mv_result": null,
+        "school_name": "SUPHİ KOYUNCUOĞLU ORTAOKULU"
+    }
+]

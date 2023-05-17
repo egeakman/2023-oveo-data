@@ -1,0 +1,623 @@
+[
+    {
+        "ballot_box_number": 2139,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25657_cb_1093575813_1684084534606011276.jpg",
+            "submission_id": 241380,
+            "total_vote": 340,
+            "votes": {
+                "1": 137,
+                "2": 2,
+                "3": 183,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/25657_bulk_999999999_1684095692812563233.jpeg",
+            "submission_id": 505825,
+            "total_vote": 336,
+            "votes": {
+                "1": 0,
+                "10": 10,
+                "11": 24,
+                "12": 31,
+                "13": 18,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 99,
+                "22": 41,
+                "23": 1,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 3,
+                "9": 93
+            }
+        },
+        "school_name": "KARACAOĞLAN ŞEHİT POLİS MEHMET ÇELİK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2141,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28011_bulk_999999999_1684097825465581625.jpeg",
+            "submission_id": 523330,
+            "total_vote": 338,
+            "votes": {
+                "1": 124,
+                "3": 205,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/25657_bulk_999999999_1684096677338634610.jpeg",
+            "submission_id": 514759,
+            "total_vote": 334,
+            "votes": {
+                "10": 3,
+                "11": 16,
+                "12": 8,
+                "13": 26,
+                "21": 125,
+                "22": 43,
+                "24": 4,
+                "6": 1,
+                "7": 4,
+                "8": 1,
+                "9": 103
+            }
+        },
+        "school_name": "KARACAOĞLAN ŞEHİT POLİS MEHMET ÇELİK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2130,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25657_cb_1093575804_1684086487163893507.jpg",
+            "submission_id": 301050,
+            "total_vote": 328,
+            "votes": {
+                "1": 134,
+                "2": 1,
+                "3": 168,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25657_mv_1083575804_1684086372317326164.jpg",
+            "submission_id": 297069,
+            "total_vote": 321,
+            "votes": {
+                "1": 1,
+                "10": 6,
+                "11": 14,
+                "12": 11,
+                "13": 18,
+                "15": 1,
+                "21": 114,
+                "22": 28,
+                "24": 5,
+                "4": 1,
+                "6": 5,
+                "7": 3,
+                "8": 1,
+                "9": 113
+            }
+        },
+        "school_name": "KARACAOĞLAN ŞEHİT POLİS MEHMET ÇELİK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2143,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25657_cb_1093576657_1684084303365190537.jpg",
+            "submission_id": 235573,
+            "total_vote": 338,
+            "votes": {
+                "1": 154,
+                "2": 1,
+                "3": 159,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25657_mv_1083576657_1684084342545594351.jpg",
+            "submission_id": 236560,
+            "total_vote": 336,
+            "votes": {
+                "10": 4,
+                "11": 24,
+                "12": 15,
+                "13": 12,
+                "15": 1,
+                "21": 100,
+                "22": 34,
+                "23": 3,
+                "24": 10,
+                "6": 2,
+                "7": 9,
+                "8": 3,
+                "9": 119
+            }
+        },
+        "school_name": "KARACAOĞLAN ŞEHİT POLİS MEHMET ÇELİK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2132,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28011_cb_1093575806_1684090094481987425.jpg",
+            "submission_id": 412011,
+            "total_vote": 345,
+            "votes": {
+                "1": 129,
+                "3": 200,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/25657_bulk_999999999_1684090970122789072.jpeg",
+            "submission_id": 431321,
+            "total_vote": 341,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 13,
+                "12": 19,
+                "13": 21,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 123,
+                "22": 40,
+                "23": 0,
+                "24": 11,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 0,
+                "8": 0,
+                "9": 110
+            }
+        },
+        "school_name": "KARACAOĞLAN ŞEHİT POLİS MEHMET ÇELİK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2140,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25657_cb_1093575814_1684085008314387197.jpg",
+            "submission_id": 254396,
+            "total_vote": 342,
+            "votes": {
+                "1": 119,
+                "2": 1,
+                "3": 195,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25657_mv_1083575814_1684085906831594842.jpg",
+            "submission_id": 282010,
+            "total_vote": 340,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 15,
+                "12": 22,
+                "13": 16,
+                "21": 117,
+                "22": 45,
+                "23": 1,
+                "24": 10,
+                "6": 1,
+                "7": 3,
+                "8": 2,
+                "9": 104
+            }
+        },
+        "school_name": "KARACAOĞLAN ŞEHİT POLİS MEHMET ÇELİK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2134,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25657_cb_1093575808_1684084562294418407.jpg",
+            "submission_id": 242091,
+            "total_vote": 343,
+            "votes": {
+                "1": 131,
+                "3": 196,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/25657_bulk_999999999_1684096199007686277.jpeg",
+            "submission_id": 510321,
+            "total_vote": 340,
+            "votes": {
+                "10": 1,
+                "11": 18,
+                "12": 14,
+                "13": 19,
+                "15": 1,
+                "17": 1,
+                "21": 129,
+                "22": 27,
+                "24": 13,
+                "3": 1,
+                "7": 5,
+                "8": 2,
+                "9": 109
+            }
+        },
+        "school_name": "KARACAOĞLAN ŞEHİT POLİS MEHMET ÇELİK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2137,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28011_cb_1093575811_1684091873466932987.jpg",
+            "submission_id": 447130,
+            "total_vote": 344,
+            "votes": {
+                "1": 143,
+                "3": 179,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7807672e-870d-498b-b144-09ddc1907972-1684105387973846640.jpg",
+            "submission_id": 630244,
+            "total_vote": 344,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 23,
+                "12": 21,
+                "13": 11,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 111,
+                "22": 40,
+                "23": 0,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 5,
+                "8": 3,
+                "9": 111
+            }
+        },
+        "school_name": "KARACAOĞLAN ŞEHİT POLİS MEHMET ÇELİK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2142,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25657_cb_1093576656_1684085540999915878.jpg",
+            "submission_id": 269859,
+            "total_vote": 338,
+            "votes": {
+                "1": 121,
+                "2": 1,
+                "3": 199,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25657_mv_1083576656_1684085769378610827.jpg",
+            "submission_id": 277399,
+            "total_vote": 339,
+            "votes": {
+                "10": 9,
+                "11": 15,
+                "12": 29,
+                "13": 28,
+                "19": 1,
+                "21": 110,
+                "22": 36,
+                "24": 5,
+                "7": 2,
+                "8": 3,
+                "9": 101
+            }
+        },
+        "school_name": "KARACAOĞLAN ŞEHİT POLİS MEHMET ÇELİK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2131,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28011_cb_1093575805_1684089598966126229.jpg",
+            "submission_id": 399061,
+            "total_vote": 341,
+            "votes": {
+                "1": 127,
+                "2": 1,
+                "3": 194,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "KARACAOĞLAN ŞEHİT POLİS MEHMET ÇELİK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2128,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28011_bulk_999999999_1684097825678457480.jpeg",
+            "submission_id": 523331,
+            "total_vote": 307,
+            "votes": {
+                "1": 133,
+                "2": 2,
+                "3": 163,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/25657_bulk_999999999_1684132459893752617.jpeg",
+            "submission_id": 1012887,
+            "total_vote": 302,
+            "votes": {
+                "1": 2,
+                "10": 5,
+                "11": 12,
+                "12": 5,
+                "13": 6,
+                "14": 1,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 114,
+                "22": 28,
+                "23": 4,
+                "24": 1,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 117
+            }
+        },
+        "school_name": "KARACAOĞLAN ŞEHİT POLİS MEHMET ÇELİK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2133,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/25657_bulk_999999999_1684096528450408031.jpeg",
+            "submission_id": 513368,
+            "total_vote": 341,
+            "votes": {
+                "1": 147,
+                "3": 174,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/25657_bulk_999999999_1684097097141099023.jpeg",
+            "submission_id": 518227,
+            "total_vote": 336,
+            "votes": {
+                "10": 9,
+                "11": 27,
+                "12": 19,
+                "13": 8,
+                "15": 1,
+                "16": 1,
+                "18": 1,
+                "2": 1,
+                "20": 1,
+                "21": 109,
+                "22": 40,
+                "23": 1,
+                "24": 10,
+                "5": 1,
+                "6": 3,
+                "7": 3,
+                "8": 3,
+                "9": 98
+            }
+        },
+        "school_name": "KARACAOĞLAN ŞEHİT POLİS MEHMET ÇELİK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2144,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/25657_bulk_999999999_1684096025205353366.jpeg",
+            "submission_id": 508896,
+            "total_vote": 349,
+            "votes": {
+                "1": 109,
+                "2": 1,
+                "3": 206,
+                "4": 33
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/25657_bulk_999999999_1684095970667856643.jpeg",
+            "submission_id": 508373,
+            "total_vote": 343,
+            "votes": {
+                "1": 2,
+                "10": 2,
+                "11": 15,
+                "12": 17,
+                "13": 16,
+                "15": 1,
+                "21": 114,
+                "22": 57,
+                "23": 1,
+                "24": 16,
+                "6": 7,
+                "7": 6,
+                "8": 3,
+                "9": 86
+            }
+        },
+        "school_name": "KARACAOĞLAN ŞEHİT POLİS MEHMET ÇELİK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2129,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ef3874bf-fa14-4bc6-9833-686f9cf4288e-1684105776848073124.jpeg",
+            "submission_id": 692790,
+            "total_vote": 322,
+            "votes": {
+                "1": 152,
+                "2": 1,
+                "3": 148,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/924a7c9c-5fb7-4675-b94f-28b375f1a9c3-1684105765925380319.jpeg",
+            "submission_id": 691381,
+            "total_vote": 316,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 19,
+                "12": 20,
+                "13": 4,
+                "14": 2,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 1,
+                "21": 92,
+                "22": 30,
+                "23": 3,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 7,
+                "9": 115
+            }
+        },
+        "school_name": "KARACAOĞLAN ŞEHİT POLİS MEHMET ÇELİK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2138,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25657_cb_1093575812_1684084106154036311.jpg",
+            "submission_id": 230516,
+            "total_vote": 342,
+            "votes": {
+                "1": 130,
+                "2": 2,
+                "3": 193,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/25657_bulk_999999999_1684095892205582080.jpeg",
+            "submission_id": 507738,
+            "total_vote": 333,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 12,
+                "12": 23,
+                "13": 14,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 112,
+                "22": 37,
+                "23": 4,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 1,
+                "9": 109
+            }
+        },
+        "school_name": "KARACAOĞLAN ŞEHİT POLİS MEHMET ÇELİK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2136,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25657_cb_1093575810_1684087439171074068.jpg",
+            "submission_id": 333929,
+            "total_vote": 334,
+            "votes": {
+                "1": 132,
+                "2": 3,
+                "3": 173,
+                "4": 26
+            }
+        },
+        "mv_result": null,
+        "school_name": "KARACAOĞLAN ŞEHİT POLİS MEHMET ÇELİK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2135,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25657_cb_1093575809_1684087796437876435.jpg",
+            "submission_id": 345458,
+            "total_vote": 327,
+            "votes": {
+                "1": 133,
+                "2": 2,
+                "3": 167,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8574872a-e74c-4ba1-b2ca-99c36443aa73-1684105955253990373.jpg",
+            "submission_id": 718488,
+            "total_vote": 323,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 13,
+                "12": 8,
+                "13": 15,
+                "14": 1,
+                "17": 1,
+                "21": 113,
+                "22": 29,
+                "23": 3,
+                "24": 11,
+                "7": 5,
+                "9": 119
+            }
+        },
+        "school_name": "KARACAOĞLAN ŞEHİT POLİS MEHMET ÇELİK ORTAOKULU"
+    }
+]

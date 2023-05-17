@@ -1,0 +1,31 @@
+[
+    {
+        "ballot_box_number": 1529,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/77665_cb_1093589583_1684077587329033059.jpg",
+            "submission_id": 173360,
+            "total_vote": 83,
+            "votes": {
+                "1": 43,
+                "3": 40
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/77665_mv_1083589583_1684077622319003948.jpg",
+            "submission_id": 173400,
+            "total_vote": 81,
+            "votes": {
+                "10": 2,
+                "11": 5,
+                "12": 1,
+                "13": 13,
+                "21": 17,
+                "22": 6,
+                "23": 1,
+                "8": 3,
+                "9": 33
+            }
+        },
+        "school_name": "SARNIÇ KÖY İLKOKULU"
+    }
+]

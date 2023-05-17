@@ -1,0 +1,33 @@
+[
+    {
+        "ballot_box_number": 1085,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/42278595-b72d-4479-bc68-fd57c1355540-1684105625432852276.png",
+            "submission_id": 669232,
+            "total_vote": 261,
+            "votes": {
+                "1": 157,
+                "2": 3,
+                "3": 89,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "KIZILÜZÜM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1086,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/735d8aed-0760-4088-9831-792bf6171fa7-1684105599081227565.png",
+            "submission_id": 665210,
+            "total_vote": 261,
+            "votes": {
+                "1": 168,
+                "3": 71,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "KIZILÜZÜM İLKOKULU"
+    }
+]

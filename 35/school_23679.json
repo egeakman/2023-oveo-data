@@ -1,0 +1,244 @@
+[
+    {
+        "ballot_box_number": 1203,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10059_cb_1093578991_1684087922899491072.jpg",
+            "submission_id": 349392,
+            "total_vote": 341,
+            "votes": {
+                "1": 127,
+                "3": 197,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "GAZİ UMUR BEY ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1193,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "GAZİ UMUR BEY ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1192,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8e17bcb8-d6b7-433c-b749-d5d39c21d066-1684106348776720195.jpg",
+            "submission_id": 774701,
+            "total_vote": 316,
+            "votes": {
+                "1": 107,
+                "2": 3,
+                "3": 184,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "GAZİ UMUR BEY ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1194,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "GAZİ UMUR BEY ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1201,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "GAZİ UMUR BEY ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1197,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "GAZİ UMUR BEY ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1196,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48802_cb_1093578984_1684084301950400196.jpg",
+            "submission_id": 235533,
+            "total_vote": 345,
+            "votes": {
+                "1": 112,
+                "2": 2,
+                "3": 206,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48802_mv_1083578984_1684084110663955810.jpg",
+            "submission_id": 230638,
+            "total_vote": 341,
+            "votes": {
+                "10": 7,
+                "11": 17,
+                "12": 46,
+                "15": 1,
+                "17": 1,
+                "21": 106,
+                "22": 65,
+                "23": 1,
+                "24": 10,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 83
+            }
+        },
+        "school_name": "GAZİ UMUR BEY ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1200,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source1-secim-images.oyveotesi.org/raw/1002587_cb_3578988_1684082248.jpeg",
+            "submission_id": 197771,
+            "total_vote": 336,
+            "votes": {
+                "1": 89,
+                "3": 228,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "GAZİ UMUR BEY ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1207,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e99e0f7f-d406-4324-b744-d373a4e56781-1684106193698934417.jpg",
+            "submission_id": 751853,
+            "total_vote": 343,
+            "votes": {
+                "1": 111,
+                "3": 212,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "GAZİ UMUR BEY ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1208,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "GAZİ UMUR BEY ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1204,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/24347_cb_1093578992_1684081648895833567.jpg",
+            "submission_id": 190889,
+            "total_vote": 342,
+            "votes": {
+                "1": 110,
+                "2": 1,
+                "3": 213,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "GAZİ UMUR BEY ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1198,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "GAZİ UMUR BEY ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1195,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "GAZİ UMUR BEY ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1199,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10059_mv_1083578987_1684087401926090788.jpg",
+            "submission_id": 332766,
+            "total_vote": 345,
+            "votes": {
+                "1": 102,
+                "2": 2,
+                "3": 211,
+                "4": 30
+            }
+        },
+        "mv_result": null,
+        "school_name": "GAZİ UMUR BEY ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1206,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ced8d0b4-ba0c-417a-8957-42aae7cde84e-1684106135864324732.jpg",
+            "submission_id": 743264,
+            "total_vote": 346,
+            "votes": {
+                "1": 106,
+                "3": 215,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/42c8aa36-7523-40e9-ad49-7c312c5ce436-1684106116672700488.jpg",
+            "submission_id": 740316,
+            "total_vote": 340,
+            "votes": {
+                "1": 1,
+                "10": 7,
+                "11": 12,
+                "12": 32,
+                "21": 127,
+                "22": 49,
+                "23": 2,
+                "24": 14,
+                "3": 3,
+                "4": 1,
+                "6": 1,
+                "7": 5,
+                "8": 2,
+                "9": 84
+            }
+        },
+        "school_name": "GAZİ UMUR BEY ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1202,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "GAZİ UMUR BEY ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1205,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/24347_cb_1093578993_1684089200756536767.jpg",
+            "submission_id": 388166,
+            "total_vote": 342,
+            "votes": {
+                "1": 105,
+                "3": 220,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "GAZİ UMUR BEY ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1191,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/24347_cb_1093578979_1684088006739330533.jpg",
+            "submission_id": 352202,
+            "total_vote": 312,
+            "votes": {
+                "1": 108,
+                "2": 1,
+                "3": 187,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "GAZİ UMUR BEY ORTAOKULU"
+    }
+]

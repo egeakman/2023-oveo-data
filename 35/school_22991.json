@@ -1,0 +1,438 @@
+[
+    {
+        "ballot_box_number": 1299,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/11595_bulk_999999999_1684088890783990532.jpg",
+            "submission_id": 379259,
+            "total_vote": 347,
+            "votes": {
+                "1": 34,
+                "3": 308,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/12551_bulk_999999999_1684089784572721962.jpg",
+            "submission_id": 404082,
+            "total_vote": 343,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 7,
+                "12": 11,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 252,
+                "22": 39,
+                "23": 0,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "9": 28
+            }
+        },
+        "school_name": "KONAK ALSANCAK NEVVAR-SALİH İŞGÖREN MESLEKİ TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1289,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/11592_mv_1083862363_1684086529408033745.jpg",
+            "submission_id": 302567,
+            "total_vote": 318,
+            "votes": {
+                "1": 22,
+                "3": 292,
+                "4": 4
+            }
+        },
+        "mv_result": null,
+        "school_name": "KONAK ALSANCAK NEVVAR-SALİH İŞGÖREN MESLEKİ TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1290,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/11595_bulk_999999999_1684086736143720869.jpeg",
+            "submission_id": 309832,
+            "total_vote": 345,
+            "votes": {
+                "1": 33,
+                "3": 305,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/11595_bulk_999999999_1684086759503550688.jpeg",
+            "submission_id": 310657,
+            "total_vote": 344,
+            "votes": {
+                "11": 1,
+                "12": 23,
+                "21": 238,
+                "22": 41,
+                "23": 1,
+                "24": 4,
+                "4": 3,
+                "6": 1,
+                "7": 4,
+                "9": 28
+            }
+        },
+        "school_name": "KONAK ALSANCAK NEVVAR-SALİH İŞGÖREN MESLEKİ TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1296,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/11595_bulk_999999999_1684088961414479615.jpg",
+            "submission_id": 381393,
+            "total_vote": 349,
+            "votes": {
+                "1": 41,
+                "3": 301,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/11595_bulk_999999999_1684088606500146482.jpg",
+            "submission_id": 370804,
+            "total_vote": 344,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 7,
+                "12": 16,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 2,
+                "21": 234,
+                "22": 45,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 1,
+                "8": 0,
+                "9": 31
+            }
+        },
+        "school_name": "KONAK ALSANCAK NEVVAR-SALİH İŞGÖREN MESLEKİ TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1293,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16456_cb_1093862367_1684083805733208876.jpg",
+            "submission_id": 224160,
+            "total_vote": 348,
+            "votes": {
+                "1": 37,
+                "3": 301,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16456_mv_1083862367_1684083707055806175.jpg",
+            "submission_id": 222028,
+            "total_vote": 349,
+            "votes": {
+                "10": 3,
+                "11": 7,
+                "12": 21,
+                "17": 1,
+                "19": 2,
+                "21": 215,
+                "22": 63,
+                "24": 5,
+                "3": 1,
+                "6": 1,
+                "7": 4,
+                "9": 26
+            }
+        },
+        "school_name": "KONAK ALSANCAK NEVVAR-SALİH İŞGÖREN MESLEKİ TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1295,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/11589_cb_1093862369_1684082014616801311.jpg",
+            "submission_id": 194759,
+            "total_vote": 360,
+            "votes": {
+                "1": 26,
+                "3": 324,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/11589_mv_1083862369_1684089089300678149.jpg",
+            "submission_id": 385077,
+            "total_vote": 352,
+            "votes": {
+                "11": 5,
+                "12": 13,
+                "21": 252,
+                "22": 52,
+                "24": 4,
+                "3": 3,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 18
+            }
+        },
+        "school_name": "KONAK ALSANCAK NEVVAR-SALİH İŞGÖREN MESLEKİ TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1297,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/11595_bulk_999999999_1684089928402911993.jpg",
+            "submission_id": 407848,
+            "total_vote": 352,
+            "votes": {
+                "1": 33,
+                "3": 309,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/12551_bulk_999999999_1684094881361346060.jpeg",
+            "submission_id": 497238,
+            "total_vote": 347,
+            "votes": {
+                "10": 1,
+                "11": 7,
+                "12": 14,
+                "21": 244,
+                "22": 48,
+                "23": 1,
+                "24": 4,
+                "7": 2,
+                "9": 26
+            }
+        },
+        "school_name": "KONAK ALSANCAK NEVVAR-SALİH İŞGÖREN MESLEKİ TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1288,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/11595_mv_1083862362_1684084729212094204.jpg",
+            "submission_id": 246686,
+            "total_vote": 329,
+            "votes": {
+                "1": 33,
+                "2": 1,
+                "3": 285,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/11595_bulk_999999999_1684096863858829839.jpeg",
+            "submission_id": 516485,
+            "total_vote": 323,
+            "votes": {
+                "10": 1,
+                "11": 4,
+                "12": 5,
+                "15": 1,
+                "19": 1,
+                "21": 248,
+                "22": 26,
+                "23": 1,
+                "24": 5,
+                "3": 2,
+                "4": 1,
+                "6": 1,
+                "9": 27
+            }
+        },
+        "school_name": "KONAK ALSANCAK NEVVAR-SALİH İŞGÖREN MESLEKİ TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1287,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/11595_bulk_999999999_1684086648316898736.jpeg",
+            "submission_id": 306714,
+            "total_vote": 335,
+            "votes": {
+                "1": 20,
+                "2": 1,
+                "3": 312,
+                "4": 2
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/11595_bulk_999999999_1684086694738192972.jpeg",
+            "submission_id": 308343,
+            "total_vote": 337,
+            "votes": {
+                "11": 1,
+                "12": 11,
+                "17": 1,
+                "19": 1,
+                "21": 265,
+                "22": 30,
+                "24": 3,
+                "3": 2,
+                "7": 5,
+                "9": 18
+            }
+        },
+        "school_name": "KONAK ALSANCAK NEVVAR-SALİH İŞGÖREN MESLEKİ TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1294,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/11595_bulk_999999999_1684090225681883890.jpg",
+            "submission_id": 415167,
+            "total_vote": 349,
+            "votes": {
+                "1": 25,
+                "2": 0,
+                "3": 309,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/11595_bulk_999999999_1684090174363893063.jpg",
+            "submission_id": 413946,
+            "total_vote": 348,
+            "votes": {
+                "11": 5,
+                "12": 18,
+                "20": 1,
+                "21": 235,
+                "22": 54,
+                "24": 9,
+                "4": 1,
+                "6": 2,
+                "7": 1,
+                "9": 22
+            }
+        },
+        "school_name": "KONAK ALSANCAK NEVVAR-SALİH İŞGÖREN MESLEKİ TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1292,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12180_cb_1093862366_1684081593543540573.jpg",
+            "submission_id": 190267,
+            "total_vote": 344,
+            "votes": {
+                "1": 34,
+                "3": 301,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12180_mv_1083862366_1684086906660912829.jpg",
+            "submission_id": 315695,
+            "total_vote": 342,
+            "votes": {
+                "11": 8,
+                "12": 13,
+                "19": 1,
+                "21": 237,
+                "22": 39,
+                "23": 1,
+                "24": 8,
+                "4": 2,
+                "6": 1,
+                "7": 3,
+                "9": 29
+            }
+        },
+        "school_name": "KONAK ALSANCAK NEVVAR-SALİH İŞGÖREN MESLEKİ TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1298,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/11595_bulk_999999999_1684088721388099378.jpg",
+            "submission_id": 374305,
+            "total_vote": 346,
+            "votes": {
+                "1": 30,
+                "2": 1,
+                "3": 306,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/11595_bulk_999999999_1684088694097844387.jpg",
+            "submission_id": 373532,
+            "total_vote": 343,
+            "votes": {
+                "10": 1,
+                "11": 5,
+                "12": 23,
+                "16": 1,
+                "17": 1,
+                "21": 246,
+                "22": 31,
+                "24": 4,
+                "3": 2,
+                "4": 1,
+                "7": 2,
+                "8": 1,
+                "9": 25
+            }
+        },
+        "school_name": "KONAK ALSANCAK NEVVAR-SALİH İŞGÖREN MESLEKİ TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1291,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/11595_bulk_999999999_1684088748746808825.jpg",
+            "submission_id": 375135,
+            "total_vote": 338,
+            "votes": {
+                "1": 34,
+                "3": 296,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/11595_bulk_999999999_1684088774229790060.jpg",
+            "submission_id": 375888,
+            "total_vote": 336,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 8,
+                "12": 18,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 227,
+                "22": 44,
+                "23": 0,
+                "24": 5,
+                "3": 5,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 0,
+                "9": 21
+            }
+        },
+        "school_name": "KONAK ALSANCAK NEVVAR-SALİH İŞGÖREN MESLEKİ TEKNİK ANADOLU LİSESİ"
+    }
+]

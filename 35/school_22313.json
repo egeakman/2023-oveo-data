@@ -1,0 +1,129 @@
+[
+    {
+        "ballot_box_number": 1026,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/9107_bulk_999999999_1684088347067100318.jpeg",
+            "submission_id": 362723,
+            "total_vote": 313,
+            "votes": {
+                "1": 97,
+                "2": 0,
+                "3": 211,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/92696a57-8113-4665-b18f-8942bf9578a9-1684105976539263865.jpg",
+            "submission_id": 721466,
+            "total_vote": 307,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 15,
+                "12": 2,
+                "13": 15,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 157,
+                "22": 28,
+                "23": 0,
+                "24": 2,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 3,
+                "7": 4,
+                "8": 1,
+                "9": 75
+            }
+        },
+        "school_name": "NECLA MİDİLLİ MERKEZ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1027,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/9107_bulk_999999999_1684088347262446801.jpeg",
+            "submission_id": 362729,
+            "total_vote": 322,
+            "votes": {
+                "1": 61,
+                "3": 244,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3ed3648d-6b67-4363-848a-9f3daf0b796b-1684105932218732580.jpg",
+            "submission_id": 714784,
+            "total_vote": 322,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 21,
+                "12": 7,
+                "13": 20,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 181,
+                "22": 38,
+                "23": 1,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 6,
+                "8": 1,
+                "9": 36
+            }
+        },
+        "school_name": "NECLA MİDİLLİ MERKEZ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1028,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/9107_bulk_999999999_1684088347448854143.jpeg",
+            "submission_id": 362736,
+            "total_vote": 311,
+            "votes": {
+                "1": 65,
+                "2": 3,
+                "3": 227,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/78653c7c-5d68-4369-ac73-d1dffee1ee07-1684105952632122992.jpg",
+            "submission_id": 717884,
+            "total_vote": 309,
+            "votes": {
+                "10": 1,
+                "11": 24,
+                "12": 9,
+                "13": 24,
+                "14": 1,
+                "18": 1,
+                "19": 1,
+                "21": 150,
+                "22": 35,
+                "24": 8,
+                "3": 4,
+                "6": 1,
+                "7": 5,
+                "9": 45
+            }
+        },
+        "school_name": "NECLA MİDİLLİ MERKEZ ORTAOKULU"
+    }
+]

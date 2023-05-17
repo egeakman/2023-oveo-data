@@ -1,0 +1,202 @@
+[
+    {
+        "ballot_box_number": 1032,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/9498_bulk_999999999_1684083082569963432.jpg",
+            "submission_id": 210123,
+            "total_vote": 308,
+            "votes": {
+                "1": 76,
+                "2": 2,
+                "3": 214,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/9498_bulk_999999999_1684084900477191517.jpg",
+            "submission_id": 251290,
+            "total_vote": 305,
+            "votes": {
+                "1": 12,
+                "10": 5,
+                "11": 23,
+                "12": 96,
+                "13": 15,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 44,
+                "22": 29,
+                "23": 2,
+                "24": 3,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 6,
+                "8": 1,
+                "9": 65
+            }
+        },
+        "school_name": "BAĞARASI CEMİL MİDİLLİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1031,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/9498_bulk_999999999_1684080892512844287.jpg",
+            "submission_id": 184520,
+            "total_vote": 311,
+            "votes": {
+                "1": 92,
+                "2": 1,
+                "3": 199,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/43563_mv_1083569805_1684088998420026623.jpg",
+            "submission_id": 382522,
+            "total_vote": 308,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 26,
+                "12": 24,
+                "13": 26,
+                "17": 1,
+                "19": 1,
+                "2": 1,
+                "21": 112,
+                "22": 35,
+                "23": 1,
+                "24": 8,
+                "3": 2,
+                "6": 2,
+                "7": 6,
+                "9": 58
+            }
+        },
+        "school_name": "BAĞARASI CEMİL MİDİLLİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1029,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/9498_bulk_999999999_1684086697982746466.jpg",
+            "submission_id": 308433,
+            "total_vote": 303,
+            "votes": {
+                "1": 75,
+                "2": 0,
+                "3": 214,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/43563_mv_1083569803_1684088729738416326.jpg",
+            "submission_id": 374539,
+            "total_vote": 291,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 14,
+                "12": 25,
+                "13": 14,
+                "19": 2,
+                "20": 2,
+                "21": 138,
+                "22": 26,
+                "24": 6,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 54
+            }
+        },
+        "school_name": "BAĞARASI CEMİL MİDİLLİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1030,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/43563_cb_1093569804_1684088857603443881.jpg",
+            "submission_id": 378270,
+            "total_vote": 306,
+            "votes": {
+                "1": 78,
+                "3": 214,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/43563_mv_1083569804_1684088673372528517.jpg",
+            "submission_id": 372927,
+            "total_vote": 301,
+            "votes": {
+                "10": 1,
+                "11": 9,
+                "12": 42,
+                "13": 22,
+                "14": 1,
+                "19": 3,
+                "20": 2,
+                "21": 113,
+                "22": 29,
+                "24": 8,
+                "3": 1,
+                "7": 7,
+                "8": 1,
+                "9": 62
+            }
+        },
+        "school_name": "BAĞARASI CEMİL MİDİLLİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1033,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/9498_bulk_999999999_1684082138560742517.jpg",
+            "submission_id": 196331,
+            "total_vote": 313,
+            "votes": {
+                "1": 59,
+                "3": 234,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/43563_mv_1083569807_1684088583932284690.jpg",
+            "submission_id": 370134,
+            "total_vote": 306,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 11,
+                "12": 47,
+                "13": 14,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 140,
+                "22": 29,
+                "23": 1,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 3,
+                "8": 1,
+                "9": 45
+            }
+        },
+        "school_name": "BAĞARASI CEMİL MİDİLLİ İLKOKULU"
+    }
+]

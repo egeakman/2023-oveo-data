@@ -1,0 +1,149 @@
+[
+    {
+        "ballot_box_number": 1031,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/26830_bulk_999999999_1684090650051501487.jpg",
+            "submission_id": 424571,
+            "total_vote": 305,
+            "votes": {
+                "1": 186,
+                "2": 4,
+                "3": 109,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/261579d9-dc9a-41d3-8a5e-3679097a9a1f-1684105314204585606.jpg",
+            "submission_id": 617052,
+            "total_vote": 294,
+            "votes": {
+                "10": 143,
+                "11": 3,
+                "12": 29,
+                "13": 5,
+                "22": 74,
+                "23": 32,
+                "24": 2,
+                "7": 2,
+                "8": 4
+            }
+        },
+        "school_name": "ATMACA MAH. ATATÜRK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1030,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/26830_bulk_999999999_1684083722239508940.jpg",
+            "submission_id": 222329,
+            "total_vote": 289,
+            "votes": {
+                "1": 182,
+                "2": 6,
+                "3": 93,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/26830_bulk_999999999_1684084797520797890.jpg",
+            "submission_id": 248463,
+            "total_vote": 283,
+            "votes": {
+                "10": 2,
+                "11": 31,
+                "12": 6,
+                "13": 3,
+                "17": 1,
+                "20": 1,
+                "21": 59,
+                "22": 24,
+                "23": 1,
+                "24": 2,
+                "6": 2,
+                "7": 4,
+                "9": 147
+            }
+        },
+        "school_name": "ATMACA MAH. ATATÜRK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1028,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/26830_bulk_999999999_1684089483966133886.jpg",
+            "submission_id": 395804,
+            "total_vote": 303,
+            "votes": {
+                "1": 204,
+                "2": 1,
+                "3": 94,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/26830_bulk_999999999_1684088975930027509.jpg",
+            "submission_id": 381820,
+            "total_vote": 291,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 26,
+                "12": 5,
+                "13": 3,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 3,
+                "20": 0,
+                "21": 61,
+                "22": 20,
+                "23": 1,
+                "24": 0,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 1,
+                "9": 162
+            }
+        },
+        "school_name": "ATMACA MAH. ATATÜRK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1029,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/26830_bulk_999999999_1684089800203313405.jpg",
+            "submission_id": 404523,
+            "total_vote": 301,
+            "votes": {
+                "1": 210,
+                "2": 2,
+                "3": 80,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2f4bf219-e344-49b5-a771-42b34fca387a-1684105302529664959.jpg",
+            "submission_id": 614539,
+            "total_vote": 295,
+            "votes": {
+                "10": 5,
+                "11": 19,
+                "12": 4,
+                "13": 1,
+                "14": 2,
+                "17": 1,
+                "2": 1,
+                "21": 63,
+                "22": 16,
+                "23": 1,
+                "24": 3,
+                "7": 1,
+                "9": 178
+            }
+        },
+        "school_name": "ATMACA MAH. ATATÜRK İLKOKULU"
+    }
+]

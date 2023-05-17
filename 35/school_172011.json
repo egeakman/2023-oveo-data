@@ -1,0 +1,273 @@
+[
+    {
+        "ballot_box_number": 1035,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20154_cb_1093756716_1684080914316720623.jpg",
+            "submission_id": 184692,
+            "total_vote": 301,
+            "votes": {
+                "1": 51,
+                "2": 0,
+                "3": 246,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20154_mv_1083756716_1684086433302022935.jpg",
+            "submission_id": 299137,
+            "total_vote": 299,
+            "votes": {
+                "11": 14,
+                "12": 14,
+                "19": 1,
+                "20": 1,
+                "21": 171,
+                "22": 48,
+                "23": 2,
+                "24": 4,
+                "3": 2,
+                "4": 1,
+                "5": 1,
+                "7": 4,
+                "9": 36
+            }
+        },
+        "school_name": "İKBAL-MAHMUT BÜYÜKKIRCALI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1036,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47827_cb_1093756717_1684082323104719074.jpg",
+            "submission_id": 198697,
+            "total_vote": 297,
+            "votes": {
+                "1": 48,
+                "2": 0,
+                "3": 236,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47827_mv_1083756717_1684089014230142639.jpg",
+            "submission_id": 382948,
+            "total_vote": 295,
+            "votes": {
+                "10": 1,
+                "11": 6,
+                "12": 13,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 181,
+                "22": 36,
+                "23": 0,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 4,
+                "8": 0,
+                "9": 43
+            }
+        },
+        "school_name": "İKBAL-MAHMUT BÜYÜKKIRCALI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1031,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/34030_cb_1093756112_1684084177800399617.jpg",
+            "submission_id": 232256,
+            "total_vote": 262,
+            "votes": {
+                "1": 52,
+                "2": 3,
+                "3": 204,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/34030_mv_1083756112_1684085113820648851.jpg",
+            "submission_id": 257335,
+            "total_vote": 253,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 12,
+                "12": 7,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 2,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 164,
+                "22": 23,
+                "23": 0,
+                "24": 3,
+                "3": 4,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 0,
+                "9": 36
+            }
+        },
+        "school_name": "İKBAL-MAHMUT BÜYÜKKIRCALI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1032,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20154_cb_1093756113_1684089833081193250.jpg",
+            "submission_id": 405344,
+            "total_vote": 304,
+            "votes": {
+                "1": 60,
+                "3": 231,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20154_mv_1083756113_1684090837032969275.jpg",
+            "submission_id": 428476,
+            "total_vote": 301,
+            "votes": {
+                "11": 8,
+                "12": 6,
+                "19": 2,
+                "20": 1,
+                "21": 176,
+                "22": 47,
+                "23": 1,
+                "24": 10,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "9": 46
+            }
+        },
+        "school_name": "İKBAL-MAHMUT BÜYÜKKIRCALI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1033,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/25649_bulk_999999999_1684082095735110215.png",
+            "submission_id": 195789,
+            "total_vote": 293,
+            "votes": {
+                "1": 45,
+                "2": 1,
+                "3": 230,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20958_mv_1083756114_1684083074330918172.jpg",
+            "submission_id": 209962,
+            "total_vote": 293,
+            "votes": {
+                "11": 11,
+                "12": 5,
+                "21": 181,
+                "22": 48,
+                "24": 7,
+                "3": 1,
+                "6": 2,
+                "7": 2,
+                "8": 1,
+                "9": 35
+            }
+        },
+        "school_name": "İKBAL-MAHMUT BÜYÜKKIRCALI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1037,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47914_cb_1093756718_1684083161710203488.jpg",
+            "submission_id": 211439,
+            "total_vote": 304,
+            "votes": {
+                "1": 46,
+                "2": 0,
+                "3": 250,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47914_mv_1083756718_1684087208622989000.jpg",
+            "submission_id": 326374,
+            "total_vote": 302,
+            "votes": {
+                "10": 0,
+                "11": 12,
+                "12": 18,
+                "14": 0,
+                "15": 0,
+                "2": 0,
+                "21": 195,
+                "22": 30,
+                "23": 1,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 1,
+                "7": 2,
+                "8": 0,
+                "9": 36
+            }
+        },
+        "school_name": "İKBAL-MAHMUT BÜYÜKKIRCALI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1034,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/34118_cb_1093756715_1684080906526592202.jpg",
+            "submission_id": 184642,
+            "total_vote": 299,
+            "votes": {
+                "1": 36,
+                "3": 258,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/34118_mv_1083756715_1684089131049935409.jpg",
+            "submission_id": 386131,
+            "total_vote": 297,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 0,
+                "12": 18,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 200,
+                "22": 35,
+                "23": 0,
+                "24": 3,
+                "3": 3,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 35
+            }
+        },
+        "school_name": "İKBAL-MAHMUT BÜYÜKKIRCALI ORTAOKULU"
+    }
+]

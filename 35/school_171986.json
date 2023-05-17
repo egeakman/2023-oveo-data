@@ -1,0 +1,34 @@
+[
+    {
+        "ballot_box_number": 1307,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/11e20e98-af06-4c6b-ab73-cb04284462ae-1684106144727706026.jpg",
+            "submission_id": 745184,
+            "total_vote": 138,
+            "votes": {
+                "1": 82,
+                "2": 5,
+                "3": 38,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/6b29e066-7900-4980-b67d-928d0560d3d4-1684106139561168450.jpg",
+            "submission_id": 744534,
+            "total_vote": 129,
+            "votes": {
+                "11": 8,
+                "12": 2,
+                "14": 2,
+                "17": 1,
+                "19": 3,
+                "21": 35,
+                "22": 7,
+                "24": 3,
+                "7": 1,
+                "9": 67
+            }
+        },
+        "school_name": "YEŞİLKÖY MERKEZ KAHVEHANESİ"
+    }
+]

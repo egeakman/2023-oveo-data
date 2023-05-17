@@ -1,0 +1,33 @@
+[
+    {
+        "ballot_box_number": 1032,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/4364_bulk_999999999_1684089093212568767.jpeg",
+            "submission_id": 385199,
+            "total_vote": 182,
+            "votes": {
+                "1": 70,
+                "2": 5,
+                "3": 104,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/4364_bulk_999999999_1684087315280740247.jpeg",
+            "submission_id": 329860,
+            "total_vote": 168,
+            "votes": {
+                "1": 2,
+                "11": 5,
+                "12": 1,
+                "13": 1,
+                "17": 1,
+                "2": 1,
+                "21": 66,
+                "22": 30,
+                "9": 61
+            }
+        },
+        "school_name": "PALAMUTÇUK İLKOKULU"
+    }
+]

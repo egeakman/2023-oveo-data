@@ -1,0 +1,54 @@
+[
+    {
+        "ballot_box_number": 1103,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/76252_bulk_999999999_1684082604604537103.jpg",
+            "submission_id": 202414,
+            "total_vote": 234,
+            "votes": {
+                "1": 88,
+                "2": 3,
+                "3": 133,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "YEŞİLOVA MAHALLESİ İLKÖĞR.OKULU"
+    },
+    {
+        "ballot_box_number": 1104,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/76252_bulk_999999999_1684082680733470787.jpg",
+            "submission_id": 203535,
+            "total_vote": 259,
+            "votes": {
+                "1": 104,
+                "2": 4,
+                "3": 141,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/76252_bulk_999999999_1684088118593071434.jpg",
+            "submission_id": 355775,
+            "total_vote": 242,
+            "votes": {
+                "10": 1,
+                "11": 21,
+                "12": 37,
+                "13": 4,
+                "19": 1,
+                "2": 1,
+                "21": 71,
+                "22": 22,
+                "23": 2,
+                "24": 1,
+                "5": 1,
+                "6": 1,
+                "7": 5,
+                "9": 74
+            }
+        },
+        "school_name": "YEŞİLOVA MAHALLESİ İLKÖĞR.OKULU"
+    }
+]

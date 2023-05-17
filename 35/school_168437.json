@@ -1,0 +1,333 @@
+[
+    {
+        "ballot_box_number": 1224,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/54333_cb_1093798671_1684087139049500730.jpg",
+            "submission_id": 323859,
+            "total_vote": 347,
+            "votes": {
+                "1": 115,
+                "2": 3,
+                "3": 205,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/54333_bulk_999999999_1684087827525246043.jpg",
+            "submission_id": 346438,
+            "total_vote": 340,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 18,
+                "12": 8,
+                "13": 9,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 120,
+                "22": 71,
+                "23": 3,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 97
+            }
+        },
+        "school_name": "MALTEPE MAH. ŞEHİT ÖMER YİĞİT ULUS MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1223,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/26785_bulk_999999999_1684086051994345879.jpg",
+            "submission_id": 286664,
+            "total_vote": 328,
+            "votes": {
+                "1": 131,
+                "2": 1,
+                "3": 182,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29178_mv_1083798673_1684089982035108094.jpg",
+            "submission_id": 409270,
+            "total_vote": 330,
+            "votes": {
+                "10": 5,
+                "11": 30,
+                "12": 5,
+                "13": 10,
+                "21": 108,
+                "22": 69,
+                "23": 1,
+                "24": 11,
+                "3": 1,
+                "5": 1,
+                "6": 1,
+                "7": 4,
+                "8": 2,
+                "9": 82
+            }
+        },
+        "school_name": "MALTEPE MAH. ŞEHİT ÖMER YİĞİT ULUS MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1219,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29178_cb_1093798666_1684088287830485338.jpg",
+            "submission_id": 360929,
+            "total_vote": 314,
+            "votes": {
+                "1": 102,
+                "2": 1,
+                "3": 192,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29178_mv_1083798666_1684091308947948689.jpg",
+            "submission_id": 437900,
+            "total_vote": 311,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 23,
+                "12": 3,
+                "13": 16,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 115,
+                "22": 46,
+                "23": 1,
+                "24": 4,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 13,
+                "8": 0,
+                "9": 84
+            }
+        },
+        "school_name": "MALTEPE MAH. ŞEHİT ÖMER YİĞİT ULUS MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1225,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26785_cb_1093798672_1684082652998300311.jpg",
+            "submission_id": 203131,
+            "total_vote": 338,
+            "votes": {
+                "1": 119,
+                "2": 2,
+                "3": 195,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26785_mv_1083798672_1684085248892913868.jpg",
+            "submission_id": 261271,
+            "total_vote": 330,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 26,
+                "12": 3,
+                "13": 16,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 134,
+                "22": 46,
+                "23": 0,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 8,
+                "8": 0,
+                "9": 91
+            }
+        },
+        "school_name": "MALTEPE MAH. ŞEHİT ÖMER YİĞİT ULUS MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1218,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29178_cb_1093798665_1684084479590626881.jpg",
+            "submission_id": 240000,
+            "total_vote": 290,
+            "votes": {
+                "1": 89,
+                "2": 2,
+                "3": 192,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29178_mv_1083798665_1684087810748330107.jpg",
+            "submission_id": 345914,
+            "total_vote": 275,
+            "votes": {
+                "1": 2,
+                "10": 2,
+                "11": 13,
+                "12": 6,
+                "13": 13,
+                "20": 1,
+                "21": 127,
+                "22": 29,
+                "23": 1,
+                "24": 4,
+                "3": 1,
+                "7": 3,
+                "8": 2,
+                "9": 71
+            }
+        },
+        "school_name": "MALTEPE MAH. ŞEHİT ÖMER YİĞİT ULUS MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1222,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29178_cb_1093798669_1684084438077284615.jpg",
+            "submission_id": 238950,
+            "total_vote": 330,
+            "votes": {
+                "1": 116,
+                "2": 1,
+                "3": 191,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26785_mv_1083798669_1684090209620702764.jpg",
+            "submission_id": 414751,
+            "total_vote": 323,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 32,
+                "12": 4,
+                "13": 14,
+                "19": 2,
+                "21": 112,
+                "22": 60,
+                "23": 3,
+                "24": 7,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 83
+            }
+        },
+        "school_name": "MALTEPE MAH. ŞEHİT ÖMER YİĞİT ULUS MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1221,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29178_cb_1093798668_1684078516602695680.jpg",
+            "submission_id": 174638,
+            "total_vote": 331,
+            "votes": {
+                "1": 105,
+                "2": 0,
+                "3": 199,
+                "4": 27
+            }
+        },
+        "mv_result": null,
+        "school_name": "MALTEPE MAH. ŞEHİT ÖMER YİĞİT ULUS MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1220,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/26785_bulk_999999999_1684086168060147876.jpg",
+            "submission_id": 290430,
+            "total_vote": 335,
+            "votes": {
+                "1": 122,
+                "2": 0,
+                "3": 194,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29178_mv_1083798667_1684087264035831846.jpg",
+            "submission_id": 328196,
+            "total_vote": 333,
+            "votes": {
+                "10": 3,
+                "11": 28,
+                "12": 1,
+                "13": 13,
+                "20": 1,
+                "21": 126,
+                "22": 54,
+                "23": 1,
+                "24": 6,
+                "6": 1,
+                "7": 3,
+                "8": 2,
+                "9": 94
+            }
+        },
+        "school_name": "MALTEPE MAH. ŞEHİT ÖMER YİĞİT ULUS MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1226,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29178_cb_1093798673_1684090358175983090.jpg",
+            "submission_id": 418167,
+            "total_vote": 333,
+            "votes": {
+                "1": 125,
+                "2": 0,
+                "3": 195,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29178_mv_1083798673_1684090399943569300.jpg",
+            "submission_id": 419026,
+            "total_vote": 331,
+            "votes": {
+                "11": 32,
+                "12": 3,
+                "13": 19,
+                "14": 3,
+                "15": 1,
+                "21": 124,
+                "22": 46,
+                "24": 7,
+                "5": 1,
+                "7": 5,
+                "8": 1,
+                "9": 89
+            }
+        },
+        "school_name": "MALTEPE MAH. ŞEHİT ÖMER YİĞİT ULUS MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    }
+]

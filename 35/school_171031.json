@@ -1,0 +1,264 @@
+[
+    {
+        "ballot_box_number": 2347,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25040_cb_1093801121_1684093041370172490.jpg",
+            "submission_id": 464496,
+            "total_vote": 331,
+            "votes": {
+                "1": 98,
+                "2": 1,
+                "3": 216,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "SALİHA HÜSEYİN ÖZYAVUZ İLKOKULU - SALİHA HÜSEYİN ÖZYAVUZ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2342,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25040_cb_1093801116_1684092936807280426.jpg",
+            "submission_id": 463087,
+            "total_vote": 339,
+            "votes": {
+                "1": 82,
+                "2": 1,
+                "3": 244,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25040_mv_1083801116_1684093083349994678.jpg",
+            "submission_id": 465040,
+            "total_vote": 329,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 7,
+                "12": 33,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 109,
+                "22": 41,
+                "23": 44,
+                "24": 6,
+                "3": 7,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 7,
+                "8": 2,
+                "9": 67
+            }
+        },
+        "school_name": "SALİHA HÜSEYİN ÖZYAVUZ İLKOKULU - SALİHA HÜSEYİN ÖZYAVUZ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2344,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "SALİHA HÜSEYİN ÖZYAVUZ İLKOKULU - SALİHA HÜSEYİN ÖZYAVUZ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2343,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/25040_bulk_999999999_1684093765770532038.jpg",
+            "submission_id": 473923,
+            "total_vote": 332,
+            "votes": {
+                "1": 103,
+                "2": 2,
+                "3": 217,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/1d18af85-b255-4cd6-ab74-eef0d7d50ce2-1684105120116406722.jpg",
+            "submission_id": 577382,
+            "total_vote": 328,
+            "votes": {
+                "10": 4,
+                "11": 10,
+                "12": 54,
+                "14": 1,
+                "15": 1,
+                "19": 1,
+                "21": 109,
+                "22": 48,
+                "23": 1,
+                "24": 7,
+                "6": 3,
+                "7": 4,
+                "9": 85
+            }
+        },
+        "school_name": "SALİHA HÜSEYİN ÖZYAVUZ İLKOKULU - SALİHA HÜSEYİN ÖZYAVUZ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2341,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25040_cb_1093801115_1684092901274578354.jpg",
+            "submission_id": 462658,
+            "total_vote": 346,
+            "votes": {
+                "1": 120,
+                "2": 4,
+                "3": 201,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "SALİHA HÜSEYİN ÖZYAVUZ İLKOKULU - SALİHA HÜSEYİN ÖZYAVUZ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2338,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41260_cb_1093800892_1684088608349689754.jpg",
+            "submission_id": 370861,
+            "total_vote": 300,
+            "votes": {
+                "1": 85,
+                "2": 1,
+                "3": 209,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41260_mv_1083800892_1684088670727237072.jpg",
+            "submission_id": 372832,
+            "total_vote": 294,
+            "votes": {
+                "10": 6,
+                "11": 13,
+                "12": 30,
+                "16": 2,
+                "21": 142,
+                "22": 30,
+                "23": 1,
+                "6": 3,
+                "7": 1,
+                "9": 66
+            }
+        },
+        "school_name": "SALİHA HÜSEYİN ÖZYAVUZ İLKOKULU - SALİHA HÜSEYİN ÖZYAVUZ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2346,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25040_cb_1093801120_1684093007329556008.jpg",
+            "submission_id": 464009,
+            "total_vote": 342,
+            "votes": {
+                "1": 129,
+                "2": 2,
+                "3": 196,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25040_mv_1083801120_1684093149304661772.jpg",
+            "submission_id": 466051,
+            "total_vote": 330,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 16,
+                "12": 42,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 106,
+                "22": 37,
+                "23": 0,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 6,
+                "8": 4,
+                "9": 104
+            }
+        },
+        "school_name": "SALİHA HÜSEYİN ÖZYAVUZ İLKOKULU - SALİHA HÜSEYİN ÖZYAVUZ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2339,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41260_cb_1093800893_1684081381676053910.jpg",
+            "submission_id": 188356,
+            "total_vote": 321,
+            "votes": {
+                "1": 76,
+                "2": 1,
+                "3": 231,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41260_mv_1083800893_1684087018766763573.jpg",
+            "submission_id": 319617,
+            "total_vote": 319,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 5,
+                "12": 63,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 2,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 124,
+                "22": 41,
+                "23": 2,
+                "24": 6,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 4,
+                "7": 4,
+                "8": 5,
+                "9": 58
+            }
+        },
+        "school_name": "SALİHA HÜSEYİN ÖZYAVUZ İLKOKULU - SALİHA HÜSEYİN ÖZYAVUZ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2345,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "SALİHA HÜSEYİN ÖZYAVUZ İLKOKULU - SALİHA HÜSEYİN ÖZYAVUZ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2340,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/25040_bulk_999999999_1684093765366777880.jpg",
+            "submission_id": 473913,
+            "total_vote": 341,
+            "votes": {
+                "1": 107,
+                "2": 2,
+                "3": 214,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "SALİHA HÜSEYİN ÖZYAVUZ İLKOKULU - SALİHA HÜSEYİN ÖZYAVUZ ORTAOKULU"
+    }
+]

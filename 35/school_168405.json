@@ -1,0 +1,333 @@
+[
+    {
+        "ballot_box_number": 1122,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25959_cb_1093798365_1684089088479104474.jpg",
+            "submission_id": 385057,
+            "total_vote": 325,
+            "votes": {
+                "1": 83,
+                "3": 222,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25959_mv_1083798365_1684089125026102403.jpg",
+            "submission_id": 385992,
+            "total_vote": 324,
+            "votes": {
+                "1": 2,
+                "10": 2,
+                "11": 10,
+                "12": 11,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 181,
+                "22": 31,
+                "23": 1,
+                "24": 11,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 69
+            }
+        },
+        "school_name": "BALÇOVA ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1116,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25959_cb_1093798359_1684087026646093840.jpg",
+            "submission_id": 319874,
+            "total_vote": 290,
+            "votes": {
+                "1": 71,
+                "2": 1,
+                "3": 213,
+                "4": 5
+            }
+        },
+        "mv_result": null,
+        "school_name": "BALÇOVA ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1120,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25959_cb_1093798363_1684088726858867826.jpg",
+            "submission_id": 374459,
+            "total_vote": 322,
+            "votes": {
+                "1": 86,
+                "2": 1,
+                "3": 228,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "BALÇOVA ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1117,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16960_cb_1093798360_1684078951681911455.jpg",
+            "submission_id": 175567,
+            "total_vote": 298,
+            "votes": {
+                "1": 66,
+                "2": 1,
+                "3": 225,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16960_mv_1083798360_1684086104111283990.jpg",
+            "submission_id": 288274,
+            "total_vote": 292,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 8,
+                "12": 27,
+                "15": 0,
+                "16": 1,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 154,
+                "22": 35,
+                "23": 1,
+                "24": 4,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 0,
+                "9": 55
+            }
+        },
+        "school_name": "BALÇOVA ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1119,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25959_cb_1093798362_1684087767571445853.jpg",
+            "submission_id": 344587,
+            "total_vote": 314,
+            "votes": {
+                "1": 87,
+                "2": 1,
+                "3": 217,
+                "4": 9
+            }
+        },
+        "mv_result": null,
+        "school_name": "BALÇOVA ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1124,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25959_cb_1093798367_1684079898124744260.jpg",
+            "submission_id": 178830,
+            "total_vote": 324,
+            "votes": {
+                "1": 83,
+                "3": 221,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25959_cb_1093798367_1684079808004044453.jpg",
+            "submission_id": 178427,
+            "total_vote": 321,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 15,
+                "12": 18,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 159,
+                "22": 44,
+                "23": 0,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 0,
+                "9": 69
+            }
+        },
+        "school_name": "BALÇOVA ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1123,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25959_cb_1093798366_1684082475417042954.jpg",
+            "submission_id": 200671,
+            "total_vote": 318,
+            "votes": {
+                "1": 60,
+                "2": 2,
+                "3": 241,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25959_mv_1083798366_1684084491144955878.jpg",
+            "submission_id": 240315,
+            "total_vote": 313,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 12,
+                "12": 21,
+                "14": 2,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 178,
+                "22": 40,
+                "23": 0,
+                "24": 6,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 6,
+                "8": 0,
+                "9": 42
+            }
+        },
+        "school_name": "BALÇOVA ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1121,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25959_cb_1093798364_1684088890033756518.jpg",
+            "submission_id": 379225,
+            "total_vote": 314,
+            "votes": {
+                "1": 74,
+                "2": 2,
+                "3": 228,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25959_mv_1083798364_1684088984782369151.jpg",
+            "submission_id": 382058,
+            "total_vote": 312,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 4,
+                "12": 15,
+                "14": 0,
+                "15": 1,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 151,
+                "22": 62,
+                "23": 0,
+                "24": 3,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 3,
+                "8": 1,
+                "9": 63
+            }
+        },
+        "school_name": "BALÇOVA ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1115,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52495_cb_1093798358_1684084171953111600.jpg",
+            "submission_id": 232102,
+            "total_vote": 293,
+            "votes": {
+                "1": 67,
+                "2": 2,
+                "3": 219,
+                "4": 5
+            }
+        },
+        "mv_result": null,
+        "school_name": "BALÇOVA ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1118,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16960_cb_1093798361_1684082855005644988.jpg",
+            "submission_id": 206288,
+            "total_vote": 324,
+            "votes": {
+                "1": 73,
+                "2": 3,
+                "3": 241,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16960_mv_1083798361_1684082812470626614.jpg",
+            "submission_id": 205616,
+            "total_vote": 320,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 15,
+                "12": 17,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 160,
+                "22": 59,
+                "23": 0,
+                "24": 3,
+                "3": 1,
+                "4": 0,
+                "5": 2,
+                "6": 1,
+                "7": 7,
+                "8": 0,
+                "9": 52
+            }
+        },
+        "school_name": "BALÇOVA ANADOLU İMAM HATİP LİSESİ"
+    }
+]

@@ -1,0 +1,238 @@
+[
+    {
+        "ballot_box_number": 1077,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65538_cb_1093859462_1684086067578364628.jpg",
+            "submission_id": 287093,
+            "total_vote": 324,
+            "votes": {
+                "1": 99,
+                "2": 2,
+                "3": 201,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "DİKİLİ ÇOK PROGRAMLI LİSE"
+    },
+    {
+        "ballot_box_number": 1076,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21862_cb_1093859461_1684087065375180805.jpg",
+            "submission_id": 321272,
+            "total_vote": 318,
+            "votes": {
+                "1": 76,
+                "2": 2,
+                "3": 225,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "DİKİLİ ÇOK PROGRAMLI LİSE"
+    },
+    {
+        "ballot_box_number": 1082,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "DİKİLİ ÇOK PROGRAMLI LİSE"
+    },
+    {
+        "ballot_box_number": 1078,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21862_cb_1093859463_1684086640227385696.jpg",
+            "submission_id": 306428,
+            "total_vote": 341,
+            "votes": {
+                "1": 86,
+                "2": 0,
+                "3": 233,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21862_mv_1083859463_1684086721169621060.jpg",
+            "submission_id": 309267,
+            "total_vote": 334,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 22,
+                "12": 22,
+                "13": 20,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 144,
+                "22": 42,
+                "23": 0,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 9,
+                "8": 1,
+                "9": 62
+            }
+        },
+        "school_name": "DİKİLİ ÇOK PROGRAMLI LİSE"
+    },
+    {
+        "ballot_box_number": 1075,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21862_cb_1093859460_1684087608864586451.jpg",
+            "submission_id": 339353,
+            "total_vote": 329,
+            "votes": {
+                "1": 73,
+                "2": 0,
+                "3": 242,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21862_mv_1083859460_1684088447413309818.jpg",
+            "submission_id": 365843,
+            "total_vote": 329,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 21,
+                "12": 37,
+                "13": 2,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 125,
+                "22": 57,
+                "23": 0,
+                "24": 14,
+                "3": 5,
+                "4": 0,
+                "5": 7,
+                "6": 2,
+                "7": 5,
+                "8": 1,
+                "9": 51
+            }
+        },
+        "school_name": "DİKİLİ ÇOK PROGRAMLI LİSE"
+    },
+    {
+        "ballot_box_number": 1071,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/57d817b8-ca2a-4079-89b4-7754d886d349-1684105081566640736.jpg",
+            "submission_id": 567688,
+            "total_vote": 290,
+            "votes": {
+                "1": 85,
+                "2": 4,
+                "3": 197,
+                "4": 4
+            }
+        },
+        "mv_result": null,
+        "school_name": "DİKİLİ ÇOK PROGRAMLI LİSE"
+    },
+    {
+        "ballot_box_number": 1070,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "DİKİLİ ÇOK PROGRAMLI LİSE"
+    },
+    {
+        "ballot_box_number": 1080,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "DİKİLİ ÇOK PROGRAMLI LİSE"
+    },
+    {
+        "ballot_box_number": 1073,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/7619_bulk_999999999_1684093986734941265.jpeg",
+            "submission_id": 480546,
+            "total_vote": 329,
+            "votes": {
+                "1": 77,
+                "2": 0,
+                "3": 224,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/7619_bulk_999999999_1684093987265791091.jpeg",
+            "submission_id": 480571,
+            "total_vote": 329,
+            "votes": {
+                "10": 1,
+                "11": 19,
+                "12": 25,
+                "13": 19,
+                "19": 1,
+                "21": 137,
+                "23": 45,
+                "24": 9,
+                "3": 1,
+                "6": 1,
+                "7": 4,
+                "8": 2,
+                "9": 65
+            }
+        },
+        "school_name": "DİKİLİ ÇOK PROGRAMLI LİSE"
+    },
+    {
+        "ballot_box_number": 1079,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9cffb715-5c9a-464b-8570-e39d53aacff2-1684105076325764173.jpg",
+            "submission_id": 565558,
+            "total_vote": 346,
+            "votes": {
+                "1": 95,
+                "3": 238,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "DİKİLİ ÇOK PROGRAMLI LİSE"
+    },
+    {
+        "ballot_box_number": 1081,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "DİKİLİ ÇOK PROGRAMLI LİSE"
+    },
+    {
+        "ballot_box_number": 1074,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "DİKİLİ ÇOK PROGRAMLI LİSE"
+    },
+    {
+        "ballot_box_number": 1072,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/7619_bulk_999999999_1684093987141306832.jpeg",
+            "submission_id": 480566,
+            "total_vote": 331,
+            "votes": {
+                "1": 89,
+                "2": 1,
+                "3": 224,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "DİKİLİ ÇOK PROGRAMLI LİSE"
+    }
+]

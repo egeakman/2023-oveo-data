@@ -1,0 +1,186 @@
+[
+    {
+        "ballot_box_number": 1018,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18074_cb_1093796737_1684081550384866617.jpg",
+            "submission_id": 189849,
+            "total_vote": 281,
+            "votes": {
+                "1": 42,
+                "2": 0,
+                "3": 235,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18074_mv_1083796737_1684087200605081093.jpg",
+            "submission_id": 326051,
+            "total_vote": 278,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 9,
+                "12": 7,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 179,
+                "22": 40,
+                "23": 0,
+                "24": 4,
+                "3": 3,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 1,
+                "8": 0,
+                "9": 30
+            }
+        },
+        "school_name": "ATATÜRK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1016,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/18074_bulk_999999999_1684086708830081425.jpeg",
+            "submission_id": 308835,
+            "total_vote": 267,
+            "votes": {
+                "1": 37,
+                "2": 0,
+                "3": 228,
+                "4": 2
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18074_mv_1083796735_1684086941869599939.jpg",
+            "submission_id": 316906,
+            "total_vote": 265,
+            "votes": {
+                "11": 8,
+                "12": 4,
+                "18": 2,
+                "20": 1,
+                "21": 195,
+                "22": 23,
+                "24": 1,
+                "9": 31
+            }
+        },
+        "school_name": "ATATÜRK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1017,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28405_cb_1093796736_1684078040608859070.jpg",
+            "submission_id": 173915,
+            "total_vote": 280,
+            "votes": {
+                "1": 52,
+                "2": 1,
+                "3": 222,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28405_mv_1083796736_1684085721989527398.jpg",
+            "submission_id": 275810,
+            "total_vote": 275,
+            "votes": {
+                "11": 13,
+                "12": 8,
+                "14": 1,
+                "21": 165,
+                "22": 43,
+                "24": 2,
+                "3": 1,
+                "5": 1,
+                "6": 1,
+                "7": 1,
+                "9": 39
+            }
+        },
+        "school_name": "ATATÜRK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1020,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/40113_cb_1093796739_1684084129458182364.jpg",
+            "submission_id": 231054,
+            "total_vote": 299,
+            "votes": {
+                "1": 52,
+                "3": 238,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/40113_mv_1083796739_1684084170208236219.jpg",
+            "submission_id": 232048,
+            "total_vote": 293,
+            "votes": {
+                "11": 19,
+                "12": 12,
+                "21": 172,
+                "22": 42,
+                "23": 1,
+                "24": 6,
+                "3": 3,
+                "5": 2,
+                "6": 2,
+                "7": 3,
+                "8": 2,
+                "9": 29
+            }
+        },
+        "school_name": "ATATÜRK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1019,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/18074_bulk_999999999_1684086740240760048.jpeg",
+            "submission_id": 309980,
+            "total_vote": 293,
+            "votes": {
+                "1": 37,
+                "2": 0,
+                "3": 251,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18074_mv_1083796738_1684086480397803733.jpg",
+            "submission_id": 300789,
+            "total_vote": 289,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 9,
+                "12": 9,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 208,
+                "22": 29,
+                "23": 1,
+                "24": 3,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 0,
+                "9": 28
+            }
+        },
+        "school_name": "ATATÜRK İLKOKULU"
+    }
+]

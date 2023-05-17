@@ -1,0 +1,232 @@
+[
+    {
+        "ballot_box_number": 1028,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/33196_cb_1093571523_1684088751127607494.jpg",
+            "submission_id": 375233,
+            "total_vote": 325,
+            "votes": {
+                "1": 116,
+                "3": 202,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/33196_mv_1083571523_1684088794491983970.jpg",
+            "submission_id": 376483,
+            "total_vote": 320,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 11,
+                "12": 16,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 151,
+                "22": 26,
+                "23": 2,
+                "24": 6,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 2,
+                "9": 100
+            }
+        },
+        "school_name": "MORDOĞAN ATATÜRK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1029,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/33196_cb_1093571524_1684090786879134152.jpg",
+            "submission_id": 427418,
+            "total_vote": 325,
+            "votes": {
+                "1": 81,
+                "2": 2,
+                "3": 227,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16488_mv_1083571524_1684091302295168903.jpg",
+            "submission_id": 437784,
+            "total_vote": 319,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 7,
+                "12": 22,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 163,
+                "22": 32,
+                "23": 6,
+                "24": 8,
+                "3": 3,
+                "4": 0,
+                "5": 2,
+                "6": 2,
+                "7": 0,
+                "8": 0,
+                "9": 69
+            }
+        },
+        "school_name": "MORDOĞAN ATATÜRK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1027,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/dc48bf26-a7be-46d3-a806-3234ce127adf-1684105427216896866.jpeg",
+            "submission_id": 638121,
+            "total_vote": 323,
+            "votes": {
+                "1": 84,
+                "2": 1,
+                "3": 225,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/40b6d573-9ac6-4c37-9d01-e1f69f21ba53-1684105430644607331.jpeg",
+            "submission_id": 638708,
+            "total_vote": 318,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 14,
+                "12": 23,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 169,
+                "22": 32,
+                "23": 0,
+                "24": 6,
+                "3": 2,
+                "4": 2,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 62
+            }
+        },
+        "school_name": "MORDOĞAN ATATÜRK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1031,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9fade4a4-6a15-40b8-846f-3d5f7926b4b3-1684106237333141385.jpeg",
+            "submission_id": 759667,
+            "total_vote": 326,
+            "votes": {
+                "1": 97,
+                "3": 217,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ecd64859-d123-44ae-a350-fd41ec6ce8bc-1684105752392612245.jpg",
+            "submission_id": 688754,
+            "total_vote": 325,
+            "votes": {
+                "10": 1,
+                "11": 20,
+                "12": 19,
+                "14": 1,
+                "15": 1,
+                "21": 151,
+                "22": 39,
+                "24": 5,
+                "3": 3,
+                "4": 1,
+                "5": 1,
+                "7": 4,
+                "8": 4,
+                "9": 75
+            }
+        },
+        "school_name": "MORDOĞAN ATATÜRK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1030,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/33196_cb_1093571525_1684084430843864145.jpg",
+            "submission_id": 238788,
+            "total_vote": 321,
+            "votes": {
+                "1": 108,
+                "2": 1,
+                "3": 200,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/33196_mv_1083571525_1684090126746670988.jpg",
+            "submission_id": 412798,
+            "total_vote": 315,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 32,
+                "12": 11,
+                "13": 0,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 149,
+                "22": 29,
+                "23": 1,
+                "24": 8,
+                "3": 0,
+                "4": 3,
+                "5": 0,
+                "6": 3,
+                "7": 4,
+                "8": 3,
+                "9": 70
+            }
+        },
+        "school_name": "MORDOĞAN ATATÜRK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1026,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/33196_cb_1093571521_1684091705926245882.jpg",
+            "submission_id": 444537,
+            "total_vote": 300,
+            "votes": {
+                "1": 86,
+                "2": 2,
+                "3": 207,
+                "4": 5
+            }
+        },
+        "mv_result": null,
+        "school_name": "MORDOĞAN ATATÜRK İLKOKULU"
+    }
+]

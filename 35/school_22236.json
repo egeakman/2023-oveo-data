@@ -1,0 +1,400 @@
+[
+    {
+        "ballot_box_number": 1148,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47975_cb_1093575727_1684090172965591411.jpeg",
+            "submission_id": 413905,
+            "total_vote": 344,
+            "votes": {
+                "1": 78,
+                "2": 1,
+                "3": 243,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47975_mv_1083575727_1684090783072945003.jpeg",
+            "submission_id": 427335,
+            "total_vote": 345,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 13,
+                "12": 9,
+                "13": 26,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 155,
+                "22": 63,
+                "23": 4,
+                "24": 15,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 2,
+                "9": 50
+            }
+        },
+        "school_name": "HALİDE EDİP ADIVAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1144,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47975_cb_1093575723_1684089969768054083.jpeg",
+            "submission_id": 408941,
+            "total_vote": 351,
+            "votes": {
+                "1": 74,
+                "2": 3,
+                "3": 259,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47975_mv_1083575723_1684090081845378211.jpeg",
+            "submission_id": 411701,
+            "total_vote": 349,
+            "votes": {
+                "10": 3,
+                "11": 12,
+                "12": 10,
+                "13": 21,
+                "17": 1,
+                "18": 1,
+                "19": 0,
+                "21": 176,
+                "22": 62,
+                "23": 4,
+                "24": 4,
+                "3": 0,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 53
+            }
+        },
+        "school_name": "HALİDE EDİP ADIVAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1146,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47975_cb_1093575725_1684087068616129027.jpeg",
+            "submission_id": 321392,
+            "total_vote": 343,
+            "votes": {
+                "1": 41,
+                "2": 0,
+                "3": 283,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47975_mv_1083575725_1684087259299899560.jpeg",
+            "submission_id": 328016,
+            "total_vote": 337,
+            "votes": {
+                "1": 9,
+                "10": 4,
+                "11": 11,
+                "12": 12,
+                "13": 34,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 171,
+                "22": 56,
+                "23": 0,
+                "24": 11,
+                "4": 0,
+                "5": 2,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 25
+            }
+        },
+        "school_name": "HALİDE EDİP ADIVAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1145,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/49418_bulk_999999999_1684085099564266479.jpg",
+            "submission_id": 256969,
+            "total_vote": 355,
+            "votes": {
+                "1": 75,
+                "2": 0,
+                "3": 271,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47975_mv_1083575724_1684089818422716005.jpeg",
+            "submission_id": 404939,
+            "total_vote": 354,
+            "votes": {
+                "1": 5,
+                "10": 2,
+                "11": 13,
+                "12": 14,
+                "13": 23,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 174,
+                "22": 52,
+                "23": 0,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 2,
+                "8": 0,
+                "9": 58
+            }
+        },
+        "school_name": "HALİDE EDİP ADIVAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1153,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47975_cb_1093575732_1684089483818232885.jpeg",
+            "submission_id": 395793,
+            "total_vote": 347,
+            "votes": {
+                "1": 73,
+                "2": 1,
+                "3": 256,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47975_mv_1083575732_1684089512882964756.jpeg",
+            "submission_id": 396554,
+            "total_vote": 342,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 11,
+                "12": 10,
+                "13": 29,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 163,
+                "22": 52,
+                "23": 0,
+                "24": 3,
+                "3": 2,
+                "4": 1,
+                "5": 1,
+                "6": 0,
+                "7": 7,
+                "8": 1,
+                "9": 58
+            }
+        },
+        "school_name": "HALİDE EDİP ADIVAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1152,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47975_cb_1093575731_1684089580750403296.jpeg",
+            "submission_id": 398535,
+            "total_vote": 352,
+            "votes": {
+                "1": 67,
+                "2": 3,
+                "3": 265,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47975_mv_1083575731_1684089596081867245.jpeg",
+            "submission_id": 399000,
+            "total_vote": 351,
+            "votes": {
+                "1": 2,
+                "10": 1,
+                "11": 5,
+                "12": 10,
+                "13": 32,
+                "21": 174,
+                "22": 50,
+                "24": 8,
+                "3": 1,
+                "6": 2,
+                "7": 4,
+                "8": 0,
+                "9": 62
+            }
+        },
+        "school_name": "HALİDE EDİP ADIVAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1150,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47975_cb_1093575729_1684090450735105414.jpeg",
+            "submission_id": 420177,
+            "total_vote": 348,
+            "votes": {
+                "1": 65,
+                "2": 2,
+                "3": 271,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "HALİDE EDİP ADIVAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1147,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47975_cb_1093575726_1684091135793618221.jpeg",
+            "submission_id": 434583,
+            "total_vote": 349,
+            "votes": {
+                "1": 80,
+                "2": 0,
+                "3": 252,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47975_mv_1083575726_1684091161710114598.jpeg",
+            "submission_id": 435098,
+            "total_vote": 344,
+            "votes": {
+                "10": 1,
+                "11": 9,
+                "12": 6,
+                "13": 30,
+                "14": 1,
+                "21": 165,
+                "22": 54,
+                "24": 8,
+                "6": 2,
+                "7": 3,
+                "8": 1,
+                "9": 64
+            }
+        },
+        "school_name": "HALİDE EDİP ADIVAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1151,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47975_cb_1093575730_1684089716101218880.jpeg",
+            "submission_id": 402179,
+            "total_vote": 336,
+            "votes": {
+                "1": 72,
+                "2": 0,
+                "3": 255,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/64540_bulk_999999999_1684088296994419069.jpg",
+            "submission_id": 361235,
+            "total_vote": 333,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 9,
+                "12": 12,
+                "13": 25,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 157,
+                "22": 56,
+                "23": 0,
+                "24": 3,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 1,
+                "8": 4,
+                "9": 60
+            }
+        },
+        "school_name": "HALİDE EDİP ADIVAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1149,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47975_cb_1093575728_1684091218160484899.jpeg",
+            "submission_id": 436194,
+            "total_vote": 350,
+            "votes": {
+                "1": 85,
+                "2": 0,
+                "3": 247,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47975_mv_1083575728_1684091249718509409.jpeg",
+            "submission_id": 436794,
+            "total_vote": 349,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 9,
+                "12": 10,
+                "13": 45,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 148,
+                "22": 32,
+                "23": 1,
+                "24": 13,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 5,
+                "8": 1,
+                "9": 74
+            }
+        },
+        "school_name": "HALİDE EDİP ADIVAR İLKOKULU"
+    }
+]

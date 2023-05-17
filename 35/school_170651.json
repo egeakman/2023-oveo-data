@@ -1,0 +1,92 @@
+[
+    {
+        "ballot_box_number": 1025,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21757_cb_1093797019_1684096152835973089.jpg",
+            "submission_id": 509875,
+            "total_vote": 307,
+            "votes": {
+                "1": 135,
+                "2": 1,
+                "3": 161,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "ARMUTLU VELİ ÜZÜMCÜ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1026,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21757_cb_1093797020_1684096749405739735.jpg",
+            "submission_id": 515444,
+            "total_vote": 306,
+            "votes": {
+                "1": 138,
+                "2": 1,
+                "3": 150,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "ARMUTLU VELİ ÜZÜMCÜ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1027,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "ARMUTLU VELİ ÜZÜMCÜ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1024,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21757_cb_1093797018_1684095964016317580.jpg",
+            "submission_id": 508311,
+            "total_vote": 287,
+            "votes": {
+                "1": 125,
+                "2": 0,
+                "3": 150,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21757_mv_1083797018_1684096065319578238.jpg",
+            "submission_id": 509207,
+            "total_vote": 280,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 21,
+                "12": 10,
+                "13": 4,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 6,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 0,
+                "21": 113,
+                "22": 17,
+                "23": 2,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 0,
+                "7": 1,
+                "8": 0,
+                "9": 92
+            }
+        },
+        "school_name": "ARMUTLU VELİ ÜZÜMCÜ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1028,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "ARMUTLU VELİ ÜZÜMCÜ İLKOKULU"
+    }
+]

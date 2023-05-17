@@ -1,0 +1,196 @@
+[
+    {
+        "ballot_box_number": 1008,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15257_cb_1093858882_1684083494447574517.jpg",
+            "submission_id": 217670,
+            "total_vote": 270,
+            "votes": {
+                "1": 50,
+                "2": 1,
+                "3": 211,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/90f2f6fc-1d0c-4abf-aafd-89c759380417-1684105755009008261.jpg",
+            "submission_id": 689541,
+            "total_vote": 267,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 3,
+                "12": 5,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 174,
+                "22": 30,
+                "23": 0,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 2,
+                "9": 39
+            }
+        },
+        "school_name": "MİTHATPAŞA MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1011,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/cd315034-64f2-43c1-bc77-8abbb93c6616-1684105943109261845.jpg",
+            "submission_id": 715816,
+            "total_vote": 291,
+            "votes": {
+                "1": 44,
+                "3": 240,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/6b08f414-8c77-4dd0-a5de-3fe154de383c-1684105696741530775.jpg",
+            "submission_id": 680495,
+            "total_vote": 289,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 9,
+                "12": 11,
+                "14": 1,
+                "15": 0,
+                "16": 2,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "20": 1,
+                "21": 177,
+                "22": 45,
+                "23": 0,
+                "24": 3,
+                "3": 3,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 1,
+                "9": 29
+            }
+        },
+        "school_name": "MİTHATPAŞA MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1012,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15257_cb_1093858886_1684087140634713975.jpg",
+            "submission_id": 323922,
+            "total_vote": 288,
+            "votes": {
+                "1": 31,
+                "3": 245,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8520fc3d-45e7-4107-9acf-39910d740af4-1684105627655091807.jpg",
+            "submission_id": 669236,
+            "total_vote": 286,
+            "votes": {
+                "1": 1,
+                "11": 7,
+                "12": 16,
+                "21": 177,
+                "22": 56,
+                "24": 6,
+                "3": 1,
+                "7": 2,
+                "9": 20
+            }
+        },
+        "school_name": "MİTHATPAŞA MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1009,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28456_bulk_999999999_1684085458097585787.jpg",
+            "submission_id": 267352,
+            "total_vote": 286,
+            "votes": {
+                "1": 40,
+                "2": 2,
+                "3": 241,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ab8102ff-82af-45bf-b3a9-7a61d5c2aa7a-1684105276793742952.jpg",
+            "submission_id": 609158,
+            "total_vote": 284,
+            "votes": {
+                "11": 8,
+                "12": 18,
+                "21": 171,
+                "22": 47,
+                "23": 2,
+                "3": 2,
+                "6": 1,
+                "7": 3,
+                "9": 32
+            }
+        },
+        "school_name": "MİTHATPAŞA MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1010,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/40869_cb_1093858884_1684085644206704033.jpg",
+            "submission_id": 273225,
+            "total_vote": 287,
+            "votes": {
+                "1": 41,
+                "2": 1,
+                "3": 232,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15257_mv_1083858884_1684090750078945158.jpg",
+            "submission_id": 426590,
+            "total_vote": 284,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 11,
+                "12": 21,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 168,
+                "22": 42,
+                "23": 0,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 25
+            }
+        },
+        "school_name": "MİTHATPAŞA MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    }
+]

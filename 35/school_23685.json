@@ -1,0 +1,457 @@
+[
+    {
+        "ballot_box_number": 1190,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/10103_bulk_999999999_1684099602020439632.jpeg",
+            "submission_id": 533638,
+            "total_vote": 295,
+            "votes": {
+                "1": 63,
+                "2": 4,
+                "3": 208,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2817ee25-4f4e-4c77-8533-87fa8855d66d-1684105262029985378.jpg",
+            "submission_id": 606393,
+            "total_vote": 286,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 12,
+                "12": 6,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 140,
+                "22": 47,
+                "23": 1,
+                "24": 5,
+                "3": 2,
+                "4": 0,
+                "5": 4,
+                "6": 2,
+                "7": 12,
+                "8": 1,
+                "9": 52
+            }
+        },
+        "school_name": "REMZİ DOĞAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1188,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/10103_bulk_999999999_1684096954319547462.jpeg",
+            "submission_id": 517201,
+            "total_vote": 303,
+            "votes": {
+                "1": 95,
+                "2": 4,
+                "3": 180,
+                "4": 24
+            }
+        },
+        "mv_result": null,
+        "school_name": "REMZİ DOĞAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1180,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68908_cb_1093577594_1684087947477490406.jpg",
+            "submission_id": 350157,
+            "total_vote": 262,
+            "votes": {
+                "1": 70,
+                "2": 3,
+                "3": 183,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/37774_bulk_999999999_1684094055481805237.jpeg",
+            "submission_id": 484213,
+            "total_vote": 244,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 7,
+                "12": 2,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 1,
+                "21": 110,
+                "22": 53,
+                "23": 2,
+                "24": 1,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 4,
+                "7": 12,
+                "8": 1,
+                "9": 47
+            }
+        },
+        "school_name": "REMZİ DOĞAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1182,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/24747_cb_1093578256_1684087555217771642.jpg",
+            "submission_id": 337687,
+            "total_vote": 299,
+            "votes": {
+                "1": 89,
+                "2": 2,
+                "3": 188,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/24747_mv_1083578256_1684086069443918565.jpg",
+            "submission_id": 287167,
+            "total_vote": 292,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 11,
+                "12": 0,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 117,
+                "22": 68,
+                "23": 0,
+                "24": 5,
+                "3": 4,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 9,
+                "8": 0,
+                "9": 77
+            }
+        },
+        "school_name": "REMZİ DOĞAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1187,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52822_mv_1083578261_1684084370461571009.jpg",
+            "submission_id": 237227,
+            "total_vote": 311,
+            "votes": {
+                "1": 104,
+                "2": 2,
+                "3": 188,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68893_mv_1083578261_1684086668438648538.jpg",
+            "submission_id": 307384,
+            "total_vote": 301,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 20,
+                "12": 3,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 123,
+                "22": 50,
+                "23": 0,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 4,
+                "7": 18,
+                "8": 1,
+                "9": 77
+            }
+        },
+        "school_name": "REMZİ DOĞAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1186,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/45084_cb_1093578260_1684087049836803999.jpg",
+            "submission_id": 320703,
+            "total_vote": 299,
+            "votes": {
+                "1": 87,
+                "2": 1,
+                "3": 189,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/45084_mv_1083578259_1684087096316971927.jpg",
+            "submission_id": 322418,
+            "total_vote": 295,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 16,
+                "12": 7,
+                "14": 2,
+                "15": 1,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 120,
+                "22": 57,
+                "23": 1,
+                "24": 3,
+                "3": 1,
+                "4": 1,
+                "5": 1,
+                "6": 1,
+                "7": 16,
+                "8": 1,
+                "9": 65
+            }
+        },
+        "school_name": "REMZİ DOĞAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1189,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/10103_bulk_999999999_1684096737487188555.jpeg",
+            "submission_id": 515342,
+            "total_vote": 286,
+            "votes": {
+                "1": 68,
+                "2": 6,
+                "3": 184,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10103_mv_1083578263_1684082980617409348.jpg",
+            "submission_id": 208370,
+            "total_vote": 274,
+            "votes": {
+                "1": 3,
+                "10": 3,
+                "11": 10,
+                "12": 4,
+                "13": 0,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 129,
+                "22": 44,
+                "23": 0,
+                "24": 8,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 18,
+                "8": 0,
+                "9": 51
+            }
+        },
+        "school_name": "REMZİ DOĞAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1181,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/12839_bulk_999999999_1684085502988221456.jpeg",
+            "submission_id": 268682,
+            "total_vote": 275,
+            "votes": {
+                "1": 85,
+                "2": 4,
+                "3": 177,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/12839_bulk_999999999_1684085503040901735.jpeg",
+            "submission_id": 268689,
+            "total_vote": 267,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 15,
+                "12": 4,
+                "14": 1,
+                "15": 2,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 0,
+                "21": 113,
+                "22": 49,
+                "23": 1,
+                "24": 4,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 3,
+                "7": 9,
+                "8": 1,
+                "9": 57
+            }
+        },
+        "school_name": "REMZİ DOĞAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1185,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52822_mv_1083578259_1684083567715537207.jpg",
+            "submission_id": 219133,
+            "total_vote": 301,
+            "votes": {
+                "1": 77,
+                "3": 199,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/10103_bulk_999999999_1684099811396247650.jpeg",
+            "submission_id": 534506,
+            "total_vote": 294,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 12,
+                "12": 7,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 128,
+                "22": 61,
+                "23": 0,
+                "24": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 3,
+                "7": 21,
+                "8": 0,
+                "9": 58
+            }
+        },
+        "school_name": "REMZİ DOĞAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1183,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/24747_cb_1093578257_1684085408401300912.jpg",
+            "submission_id": 265885,
+            "total_vote": 287,
+            "votes": {
+                "1": 107,
+                "2": 2,
+                "3": 148,
+                "4": 30
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/24747_mv_1083578257_1684085522888172440.jpg",
+            "submission_id": 269303,
+            "total_vote": 276,
+            "votes": {
+                "1": 3,
+                "10": 4,
+                "11": 23,
+                "12": 1,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 95,
+                "22": 48,
+                "23": 1,
+                "24": 6,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 17,
+                "8": 2,
+                "9": 74
+            }
+        },
+        "school_name": "REMZİ DOĞAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1184,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26879_cb_1093578258_1684077126657375936.jpg",
+            "submission_id": 173087,
+            "total_vote": 302,
+            "votes": {
+                "1": 102,
+                "2": 1,
+                "3": 160,
+                "4": 39
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26879_mv_1083578258_1684084508768022334.jpg",
+            "submission_id": 240698,
+            "total_vote": 289,
+            "votes": {
+                "1": 2,
+                "10": 1,
+                "11": 11,
+                "19": 1,
+                "2": 1,
+                "21": 119,
+                "22": 38,
+                "23": 4,
+                "24": 15,
+                "6": 2,
+                "7": 18,
+                "8": 2,
+                "9": 75
+            }
+        },
+        "school_name": "REMZİ DOĞAN ORTAOKULU"
+    }
+]

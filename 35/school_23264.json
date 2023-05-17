@@ -1,0 +1,371 @@
+[
+    {
+        "ballot_box_number": 1006,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20802_cb_1093568209_1684086679572502795.jpg",
+            "submission_id": 307749,
+            "total_vote": 339,
+            "votes": {
+                "1": 112,
+                "2": 0,
+                "3": 198,
+                "4": 29
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20802_mv_1083568209_1684086730430686927.jpg",
+            "submission_id": 309634,
+            "total_vote": 336,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 30,
+                "12": 9,
+                "13": 15,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 121,
+                "22": 53,
+                "23": 1,
+                "24": 17,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 79
+            }
+        },
+        "school_name": "ALPOĞUZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1010,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20802_cb_1093568213_1684088306686690198.jpg",
+            "submission_id": 361537,
+            "total_vote": 363,
+            "votes": {
+                "1": 122,
+                "3": 211,
+                "4": 30
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20802_mv_1083568213_1684090035410004403.jpg",
+            "submission_id": 410599,
+            "total_vote": 358,
+            "votes": {
+                "10": 8,
+                "11": 26,
+                "12": 15,
+                "13": 26,
+                "19": 1,
+                "21": 130,
+                "22": 40,
+                "23": 1,
+                "24": 14,
+                "3": 2,
+                "6": 4,
+                "7": 3,
+                "8": 4,
+                "9": 84
+            }
+        },
+        "school_name": "ALPOĞUZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1003,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20802_mv_1083568206_1684086541032152720.jpg",
+            "submission_id": 302938,
+            "total_vote": 335,
+            "votes": {
+                "1": 99,
+                "2": 0,
+                "3": 205,
+                "4": 31
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20802_cb_1093568206_1684086524232096356.jpg",
+            "submission_id": 302407,
+            "total_vote": 334,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 38,
+                "12": 17,
+                "13": 28,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 121,
+                "22": 43,
+                "23": 0,
+                "24": 16,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 4,
+                "9": 57
+            }
+        },
+        "school_name": "ALPOĞUZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1008,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20802_cb_1093568211_1684087210331651886.jpg",
+            "submission_id": 326419,
+            "total_vote": 352,
+            "votes": {
+                "1": 116,
+                "2": 2,
+                "3": 203,
+                "4": 31
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20802_mv_1083568211_1684086812571580478.jpg",
+            "submission_id": 312486,
+            "total_vote": 350,
+            "votes": {
+                "10": 5,
+                "11": 31,
+                "12": 12,
+                "13": 23,
+                "2": 2,
+                "21": 126,
+                "22": 38,
+                "24": 16,
+                "3": 1,
+                "6": 3,
+                "7": 3,
+                "8": 2,
+                "9": 88
+            }
+        },
+        "school_name": "ALPOĞUZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1005,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20802_cb_1093568208_1684085855777094669.jpg",
+            "submission_id": 280316,
+            "total_vote": 348,
+            "votes": {
+                "1": 121,
+                "3": 207,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20802_mv_1083568208_1684087714664670484.jpg",
+            "submission_id": 342890,
+            "total_vote": 343,
+            "votes": {
+                "1": 0,
+                "10": 8,
+                "11": 28,
+                "12": 18,
+                "13": 15,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 129,
+                "22": 33,
+                "23": 0,
+                "24": 13,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 5,
+                "7": 7,
+                "8": 2,
+                "9": 83
+            }
+        },
+        "school_name": "ALPOĞUZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1009,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20802_cb_1093568212_1684088291242022989.jpg",
+            "submission_id": 361043,
+            "total_vote": 338,
+            "votes": {
+                "1": 106,
+                "2": 2,
+                "3": 200,
+                "4": 30
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20802_mv_1083568212_1684090614032557859.jpg",
+            "submission_id": 423881,
+            "total_vote": 328,
+            "votes": {
+                "1": 1,
+                "10": 5,
+                "11": 26,
+                "12": 19,
+                "13": 21,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 115,
+                "22": 43,
+                "23": 0,
+                "24": 16,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 3,
+                "9": 72
+            }
+        },
+        "school_name": "ALPOĞUZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1002,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20802_cb_1093568205_1684086475370450721.jpg",
+            "submission_id": 300617,
+            "total_vote": 331,
+            "votes": {
+                "1": 114,
+                "2": 2,
+                "3": 203,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20802_mv_1083568205_1684086494472911917.jpg",
+            "submission_id": 301313,
+            "total_vote": 324,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 30,
+                "12": 8,
+                "13": 11,
+                "15": 2,
+                "21": 139,
+                "22": 33,
+                "24": 5,
+                "6": 4,
+                "7": 5,
+                "9": 83
+            }
+        },
+        "school_name": "ALPOĞUZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1007,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20802_cb_1093568210_1684087231738130614.jpg",
+            "submission_id": 327108,
+            "total_vote": 353,
+            "votes": {
+                "1": 111,
+                "3": 227,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20802_mv_1083568210_1684087171079177509.jpg",
+            "submission_id": 325023,
+            "total_vote": 348,
+            "votes": {
+                "10": 3,
+                "11": 30,
+                "12": 13,
+                "13": 15,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "20": 1,
+                "21": 144,
+                "22": 48,
+                "23": 1,
+                "24": 13,
+                "6": 2,
+                "7": 4,
+                "8": 3,
+                "9": 70
+            }
+        },
+        "school_name": "ALPOĞUZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1004,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20791_bulk_999999999_1684084215444159328.jpeg",
+            "submission_id": 233264,
+            "total_vote": 342,
+            "votes": {
+                "1": 111,
+                "2": 2,
+                "3": 195,
+                "4": 34
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20791_bulk_999999999_1684084915437672847.jpeg",
+            "submission_id": 251699,
+            "total_vote": 340,
+            "votes": {
+                "1": 1,
+                "10": 6,
+                "11": 34,
+                "12": 11,
+                "13": 15,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "2": 0,
+                "20": 0,
+                "21": 126,
+                "22": 51,
+                "23": 1,
+                "24": 15,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 6,
+                "8": 2,
+                "9": 70
+            }
+        },
+        "school_name": "ALPOĞUZ ANADOLU LİSESİ"
+    }
+]

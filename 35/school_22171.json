@@ -1,0 +1,166 @@
+[
+    {
+        "ballot_box_number": 1090,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17414_cb_1093797472_1684079553516561370.jpg",
+            "submission_id": 177421,
+            "total_vote": 309,
+            "votes": {
+                "1": 91,
+                "3": 201,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/9176_bulk_999999999_1684086828523271667.jpg",
+            "submission_id": 313055,
+            "total_vote": 314,
+            "votes": {
+                "1": 9,
+                "10": 0,
+                "11": 11,
+                "12": 21,
+                "14": 0,
+                "15": 0,
+                "18": 0,
+                "2": 2,
+                "20": 2,
+                "21": 142,
+                "22": 26,
+                "24": 7,
+                "5": 9,
+                "6": 1,
+                "7": 4,
+                "8": 4,
+                "9": 76
+            }
+        },
+        "school_name": "PAYAMLI MAHALLESİ - DOĞANBEY PAYAMLI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1088,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/9176_cb_1093798342_1684080739788661326.jpg",
+            "submission_id": 183481,
+            "total_vote": 325,
+            "votes": {
+                "1": 134,
+                "2": 3,
+                "3": 179,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/9176_mv_1083798342_1684088584859813009.jpg",
+            "submission_id": 370159,
+            "total_vote": 311,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 14,
+                "12": 16,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 133,
+                "22": 28,
+                "23": 1,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 111
+            }
+        },
+        "school_name": "PAYAMLI MAHALLESİ - DOĞANBEY PAYAMLI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1091,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/9176_cb_1093798345_1684088449091168349.jpg",
+            "submission_id": 365899,
+            "total_vote": 337,
+            "votes": {
+                "1": 129,
+                "2": 0,
+                "3": 196,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/9176_mv_1083798345_1684088503775882086.jpg",
+            "submission_id": 367603,
+            "total_vote": 330,
+            "votes": {
+                "10": 1,
+                "11": 22,
+                "12": 30,
+                "15": 1,
+                "2": 1,
+                "20": 1,
+                "21": 114,
+                "22": 51,
+                "24": 4,
+                "3": 1,
+                "5": 2,
+                "7": 3,
+                "8": 2,
+                "9": 97
+            }
+        },
+        "school_name": "PAYAMLI MAHALLESİ - DOĞANBEY PAYAMLI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1089,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/17414_bulk_999999999_1684090928868477308.jpg",
+            "submission_id": 430444,
+            "total_vote": 317,
+            "votes": {
+                "1": 104,
+                "2": 3,
+                "3": 195,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/17414_bulk_999999999_1684090929003534226.jpg",
+            "submission_id": 430446,
+            "total_vote": 314,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 11,
+                "12": 15,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 138,
+                "22": 48,
+                "23": 0,
+                "24": 7,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 0,
+                "9": 92
+            }
+        },
+        "school_name": "PAYAMLI MAHALLESİ - DOĞANBEY PAYAMLI İLKOKULU"
+    }
+]

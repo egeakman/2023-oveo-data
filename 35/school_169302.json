@@ -1,0 +1,127 @@
+[
+    {
+        "ballot_box_number": 1021,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/46984_cb_1093569975_1684082457472488061.jpg",
+            "submission_id": 200418,
+            "total_vote": 274,
+            "votes": {
+                "1": 120,
+                "3": 110,
+                "4": 44
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/46984_mv_1083569975_1684082505925772971.jpg",
+            "submission_id": 201082,
+            "total_vote": 272,
+            "votes": {
+                "1": 0,
+                "10": 17,
+                "11": 23,
+                "12": 9,
+                "13": 3,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 52,
+                "22": 56,
+                "23": 0,
+                "24": 19,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 1,
+                "9": 91
+            }
+        },
+        "school_name": "ALİAĞA ADALET İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1022,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21152_cb_1093569976_1684086291160310377.jpg",
+            "submission_id": 294450,
+            "total_vote": 296,
+            "votes": {
+                "1": 119,
+                "3": 124,
+                "4": 53
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21152_cb_1093569976_1684084972461135412.jpg",
+            "submission_id": 253297,
+            "total_vote": 290,
+            "votes": {
+                "1": 1,
+                "10": 9,
+                "11": 38,
+                "12": 5,
+                "13": 17,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 69,
+                "22": 42,
+                "23": 2,
+                "24": 24,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 2,
+                "8": 3,
+                "9": 75
+            }
+        },
+        "school_name": "ALİAĞA ADALET İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1020,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21152_cb_1093568214_1684089967478068055.jpg",
+            "submission_id": 408877,
+            "total_vote": 277,
+            "votes": {
+                "1": 117,
+                "2": 0,
+                "3": 115,
+                "4": 45
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21152_mv_1083568214_1684091220637846710.jpg",
+            "submission_id": 436231,
+            "total_vote": 271,
+            "votes": {
+                "10": 10,
+                "11": 29,
+                "12": 5,
+                "13": 7,
+                "14": 1,
+                "21": 70,
+                "22": 39,
+                "24": 22,
+                "4": 1,
+                "5": 2,
+                "7": 10,
+                "8": 1,
+                "9": 74
+            }
+        },
+        "school_name": "ALİAĞA ADALET İLKOKULU"
+    }
+]

@@ -1,0 +1,734 @@
+[
+    {
+        "ballot_box_number": 2492,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/27564_cb_1093793006_1684091409668195153.jpg",
+            "submission_id": 439712,
+            "total_vote": 301,
+            "votes": {
+                "1": 121,
+                "2": 1,
+                "3": 159,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/27564_mv_1083793006_1684091572557101244.jpg",
+            "submission_id": 442354,
+            "total_vote": 304,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 15,
+                "12": 52,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 82,
+                "22": 34,
+                "23": 1,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 5,
+                "6": 1,
+                "7": 2,
+                "8": 3,
+                "9": 100
+            }
+        },
+        "school_name": "RECEP ERSAYIN İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2497,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/43004_cb_1093793011_1684085485989649597.jpg",
+            "submission_id": 268147,
+            "total_vote": 299,
+            "votes": {
+                "1": 134,
+                "2": 0,
+                "3": 143,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "RECEP ERSAYIN İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2490,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/27564_cb_1093793004_1684091211874981850.jpg",
+            "submission_id": 436067,
+            "total_vote": 328,
+            "votes": {
+                "1": 122,
+                "2": 2,
+                "3": 189,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/27564_cb_1093793004_1684091184122051600.jpg",
+            "submission_id": 435538,
+            "total_vote": 332,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 12,
+                "12": 59,
+                "14": 0,
+                "15": 7,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 101,
+                "22": 30,
+                "23": 0,
+                "24": 6,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 4,
+                "8": 1,
+                "9": 104
+            }
+        },
+        "school_name": "RECEP ERSAYIN İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2508,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f4e0c25a-de0a-481f-af6b-b7d1383d2844-1684105212225306994.jpg",
+            "submission_id": 595442,
+            "total_vote": 323,
+            "votes": {
+                "1": 121,
+                "2": 2,
+                "3": 184,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2e4be821-b5e6-48fe-b132-9e12dfa7b182-1684105211658895913.jpg",
+            "submission_id": 595340,
+            "total_vote": 313,
+            "votes": {
+                "10": 6,
+                "11": 11,
+                "12": 55,
+                "15": 1,
+                "19": 3,
+                "20": 1,
+                "21": 80,
+                "22": 40,
+                "23": 4,
+                "24": 14,
+                "6": 4,
+                "7": 2,
+                "9": 92
+            }
+        },
+        "school_name": "RECEP ERSAYIN İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2506,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5acf63a1-e5d0-42be-86e0-86d6c112cbd8-1684105216065635976.jpg",
+            "submission_id": 596388,
+            "total_vote": 317,
+            "votes": {
+                "1": 119,
+                "2": 1,
+                "3": 184,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0ab045e8-85e4-4fbe-ae9b-b94874301919-1684105215413795396.jpg",
+            "submission_id": 596212,
+            "total_vote": 312,
+            "votes": {
+                "1": 1,
+                "10": 6,
+                "11": 21,
+                "12": 59,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 2,
+                "20": 0,
+                "21": 83,
+                "22": 33,
+                "23": 0,
+                "24": 13,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 0,
+                "8": 1,
+                "9": 92
+            }
+        },
+        "school_name": "RECEP ERSAYIN İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2504,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f42f600e-e6e4-4d53-9c2b-a0ad68c5e73c-1684105220621770752.jpg",
+            "submission_id": 597591,
+            "total_vote": 309,
+            "votes": {
+                "1": 98,
+                "2": 3,
+                "3": 192,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7609a5b2-5ba7-4f49-84f4-7274ad27275c-1684105219560610310.jpg",
+            "submission_id": 597561,
+            "total_vote": 304,
+            "votes": {
+                "10": 8,
+                "11": 17,
+                "12": 41,
+                "15": 1,
+                "16": 1,
+                "20": 1,
+                "21": 96,
+                "22": 45,
+                "23": 1,
+                "24": 10,
+                "3": 2,
+                "6": 2,
+                "7": 3,
+                "9": 76
+            }
+        },
+        "school_name": "RECEP ERSAYIN İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2485,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/27564_cb_1093792999_1684088100647343078.jpg",
+            "submission_id": 355176,
+            "total_vote": 284,
+            "votes": {
+                "1": 114,
+                "2": 4,
+                "3": 160,
+                "4": 6
+            }
+        },
+        "mv_result": null,
+        "school_name": "RECEP ERSAYIN İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2493,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7e6b1892-daa9-48b6-b3d8-bfa6671a9847-1684105888815951732.jpg",
+            "submission_id": 710196,
+            "total_vote": 323,
+            "votes": {
+                "1": 127,
+                "2": 1,
+                "3": 173,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/27564_cb_1093793007_1684091527687713316.jpg",
+            "submission_id": 441670,
+            "total_vote": 312,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 17,
+                "12": 72,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 68,
+                "22": 34,
+                "23": 0,
+                "24": 8,
+                "3": 2,
+                "4": 1,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "8": 0,
+                "9": 102
+            }
+        },
+        "school_name": "RECEP ERSAYIN İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2484,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/27564_cb_1093792998_1684088023607158753.jpg",
+            "submission_id": 352724,
+            "total_vote": 280,
+            "votes": {
+                "1": 127,
+                "2": 2,
+                "3": 145,
+                "4": 6
+            }
+        },
+        "mv_result": null,
+        "school_name": "RECEP ERSAYIN İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2507,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d3a09b1a-5dfb-460e-a0d2-ea0260b18590-1684105214022633363.jpg",
+            "submission_id": 595961,
+            "total_vote": 300,
+            "votes": {
+                "1": 119,
+                "2": 0,
+                "3": 169,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "RECEP ERSAYIN İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2489,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/27564_cb_1093793003_1684091137815580500.jpg",
+            "submission_id": 434607,
+            "total_vote": 310,
+            "votes": {
+                "1": 127,
+                "2": 1,
+                "3": 160,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/27564_mv_1083793003_1684091328152523769.jpg",
+            "submission_id": 438283,
+            "total_vote": 300,
+            "votes": {
+                "1": 2,
+                "10": 14,
+                "11": 12,
+                "12": 35,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 88,
+                "22": 26,
+                "23": 0,
+                "24": 10,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 6,
+                "8": 0,
+                "9": 102
+            }
+        },
+        "school_name": "RECEP ERSAYIN İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2502,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/cc191518-1938-4142-8e7d-550bcec8daf4-1684105227038210249.jpg",
+            "submission_id": 598869,
+            "total_vote": 315,
+            "votes": {
+                "1": 120,
+                "2": 1,
+                "3": 177,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "RECEP ERSAYIN İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2491,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/27564_cb_1093793005_1684091362496461308.jpg",
+            "submission_id": 438885,
+            "total_vote": 315,
+            "votes": {
+                "1": 144,
+                "2": 1,
+                "3": 147,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "RECEP ERSAYIN İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2503,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e20ad442-f757-4763-bd43-9da4a460fa83-1684105223596432895.jpg",
+            "submission_id": 598136,
+            "total_vote": 336,
+            "votes": {
+                "1": 138,
+                "2": 1,
+                "3": 180,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/b858d662-cfbd-49f0-8277-5fab7573779b-1684105222958723335.jpg",
+            "submission_id": 598130,
+            "total_vote": 330,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 13,
+                "12": 61,
+                "14": 1,
+                "21": 90,
+                "22": 33,
+                "24": 10,
+                "6": 1,
+                "7": 1,
+                "8": 3,
+                "9": 115
+            }
+        },
+        "school_name": "RECEP ERSAYIN İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2488,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/27564_cb_1093793002_1684091112405262907.jpg",
+            "submission_id": 434140,
+            "total_vote": 306,
+            "votes": {
+                "1": 129,
+                "2": 0,
+                "3": 165,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/27564_mv_1083793002_1684090948915020998.jpg",
+            "submission_id": 430849,
+            "total_vote": 306,
+            "votes": {
+                "10": 2,
+                "11": 10,
+                "12": 33,
+                "21": 102,
+                "22": 33,
+                "23": 1,
+                "24": 9,
+                "7": 1,
+                "8": 2,
+                "9": 113
+            }
+        },
+        "school_name": "RECEP ERSAYIN İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2494,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e5c40a90-6264-4698-937c-eaeedfe9fcd4-1684105869488833742.jpg",
+            "submission_id": 706364,
+            "total_vote": 314,
+            "votes": {
+                "1": 128,
+                "2": 1,
+                "3": 161,
+                "4": 24
+            }
+        },
+        "mv_result": null,
+        "school_name": "RECEP ERSAYIN İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2498,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/6f0349ad-f5c1-49f3-902d-c7ba18773d9d-1684105214277296755.jpg",
+            "submission_id": 596614,
+            "total_vote": 303,
+            "votes": {
+                "10": 4,
+                "11": 33,
+                "12": 59,
+                "20": 1,
+                "21": 64,
+                "22": 27,
+                "24": 6,
+                "3": 1,
+                "6": 4,
+                "7": 5,
+                "8": 2,
+                "9": 97
+            }
+        },
+        "school_name": "RECEP ERSAYIN İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2487,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/27564_cb_1093793001_1684090927553357134.jpg",
+            "submission_id": 430422,
+            "total_vote": 310,
+            "votes": {
+                "1": 111,
+                "2": 2,
+                "3": 175,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/27564_mv_1083793001_1684091083612256423.jpg",
+            "submission_id": 433620,
+            "total_vote": 308,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 16,
+                "12": 50,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 88,
+                "22": 34,
+                "23": 0,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 1,
+                "7": 12,
+                "8": 1,
+                "9": 96
+            }
+        },
+        "school_name": "RECEP ERSAYIN İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2500,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68216_cb_1093793014_1684079620967790807.jpg",
+            "submission_id": 177683,
+            "total_vote": 316,
+            "votes": {
+                "1": 131,
+                "2": 2,
+                "3": 160,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "RECEP ERSAYIN İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2499,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/cf240eeb-0966-4341-b313-23370a2210b5-1684105506217806676.jpg",
+            "submission_id": 650666,
+            "total_vote": 322,
+            "votes": {
+                "1": 134,
+                "3": 165,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "RECEP ERSAYIN İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2486,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/27564_cb_1093793000_1684088135552521715.jpg",
+            "submission_id": 356332,
+            "total_vote": 285,
+            "votes": {
+                "1": 125,
+                "2": 3,
+                "3": 142,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/27564_mv_1083793000_1684088154153130945.jpg",
+            "submission_id": 356960,
+            "total_vote": 277,
+            "votes": {
+                "10": 3,
+                "11": 18,
+                "12": 40,
+                "15": 1,
+                "2": 1,
+                "21": 80,
+                "22": 25,
+                "24": 9,
+                "3": 2,
+                "6": 3,
+                "7": 3,
+                "8": 2,
+                "9": 90
+            }
+        },
+        "school_name": "RECEP ERSAYIN İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2495,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/01273037-387e-4a8a-8964-09efdef5b8c5-1684105850343569763.jpg",
+            "submission_id": 704328,
+            "total_vote": 303,
+            "votes": {
+                "1": 116,
+                "2": 1,
+                "3": 167,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/82ba0dbe-93b3-4327-85ab-5aebcb0a608a-1684105845192131455.jpg",
+            "submission_id": 702909,
+            "total_vote": 253,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 21,
+                "12": 47,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 50,
+                "22": 33,
+                "23": 2,
+                "24": 11,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 3,
+                "7": 3,
+                "8": 2,
+                "9": 76
+            }
+        },
+        "school_name": "RECEP ERSAYIN İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2501,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68216_cb_1093793135_1684079521174971574.jpg",
+            "submission_id": 177315,
+            "total_vote": 336,
+            "votes": {
+                "1": 134,
+                "2": 2,
+                "3": 185,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68216_mv_1083793135_1684081076729497558.jpg",
+            "submission_id": 185884,
+            "total_vote": 327,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 17,
+                "12": 49,
+                "13": 0,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 99,
+                "22": 27,
+                "23": 1,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 7,
+                "8": 2,
+                "9": 111
+            }
+        },
+        "school_name": "RECEP ERSAYIN İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2496,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3e1dc612-219b-45f1-9d34-c871370e4bdc-1684105542866586179.jpg",
+            "submission_id": 656298,
+            "total_vote": 319,
+            "votes": {
+                "1": 137,
+                "2": 1,
+                "3": 160,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "RECEP ERSAYIN İLKOKULU A BLOK"
+    },
+    {
+        "ballot_box_number": 2505,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4ae8e581-e2b2-4372-9ff2-231396ac6378-1684105218325714731.jpg",
+            "submission_id": 597148,
+            "total_vote": 307,
+            "votes": {
+                "1": 102,
+                "2": 1,
+                "3": 192,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "RECEP ERSAYIN İLKOKULU A BLOK"
+    }
+]

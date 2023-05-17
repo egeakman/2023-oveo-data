@@ -1,0 +1,149 @@
+[
+    {
+        "ballot_box_number": 1023,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/10370_bulk_999999999_1684086110007299449.jpg",
+            "submission_id": 288445,
+            "total_vote": 339,
+            "votes": {
+                "1": 58,
+                "3": 270,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ce11d5ef-c0af-4911-ab5d-2b196800412f-1684105238524811099.jpeg",
+            "submission_id": 602124,
+            "total_vote": 331,
+            "votes": {
+                "11": 15,
+                "12": 7,
+                "13": 20,
+                "15": 2,
+                "17": 1,
+                "21": 186,
+                "22": 52,
+                "24": 7,
+                "9": 41
+            }
+        },
+        "school_name": "RECEP KERMAN SPOR LİSESİ"
+    },
+    {
+        "ballot_box_number": 1025,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10370_cb_1093569799_1684103797514882924.jpg",
+            "submission_id": 550192,
+            "total_vote": 319,
+            "votes": {
+                "1": 55,
+                "3": 252,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/396f7ebd-6ed6-4fa0-976d-5c7085995f2a-1684105951794255111.jpg",
+            "submission_id": 717876,
+            "total_vote": 313,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 21,
+                "12": 16,
+                "13": 34,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 156,
+                "22": 43,
+                "23": 0,
+                "24": 3,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 2,
+                "9": 32
+            }
+        },
+        "school_name": "RECEP KERMAN SPOR LİSESİ"
+    },
+    {
+        "ballot_box_number": 1024,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/10370_bulk_999999999_1684083733885842204.jpg",
+            "submission_id": 222578,
+            "total_vote": 336,
+            "votes": {
+                "1": 72,
+                "2": 2,
+                "3": 251,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0da7e67e-6250-44e2-883c-e735e4edc773-1684105234362067831.jpeg",
+            "submission_id": 601225,
+            "total_vote": 330,
+            "votes": {
+                "11": 13,
+                "12": 7,
+                "13": 33,
+                "15": 1,
+                "19": 3,
+                "21": 174,
+                "22": 39,
+                "23": 1,
+                "24": 4,
+                "3": 2,
+                "6": 2,
+                "7": 4,
+                "8": 1,
+                "9": 46
+            }
+        },
+        "school_name": "RECEP KERMAN SPOR LİSESİ"
+    },
+    {
+        "ballot_box_number": 1022,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10370_cb_1093569796_1684103664282098778.jpg",
+            "submission_id": 549734,
+            "total_vote": 311,
+            "votes": {
+                "1": 59,
+                "2": 0,
+                "3": 247,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/10370_bulk_999999999_1684139349944237059.jpeg",
+            "submission_id": 1017632,
+            "total_vote": 306,
+            "votes": {
+                "1": 1,
+                "11": 8,
+                "12": 5,
+                "13": 26,
+                "15": 5,
+                "17": 1,
+                "19": 1,
+                "21": 174,
+                "22": 38,
+                "24": 2,
+                "3": 1,
+                "6": 1,
+                "7": 2,
+                "9": 41
+            }
+        },
+        "school_name": "RECEP KERMAN SPOR LİSESİ"
+    }
+]

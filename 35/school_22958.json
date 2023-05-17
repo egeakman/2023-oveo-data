@@ -1,0 +1,319 @@
+[
+    {
+        "ballot_box_number": 1231,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/14210_cb_1093861685_1684086449242374174.jpg",
+            "submission_id": 299742,
+            "total_vote": 297,
+            "votes": {
+                "1": 68,
+                "2": 1,
+                "3": 222,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/14210_cb_1093861685_1684086377726299137.jpg",
+            "submission_id": 297273,
+            "total_vote": 287,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 8,
+                "12": 10,
+                "14": 2,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 157,
+                "22": 42,
+                "23": 0,
+                "24": 3,
+                "3": 4,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 55
+            }
+        },
+        "school_name": "KEMAL REİS İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1237,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/43222_cb_1093861691_1684080056176306386.jpg",
+            "submission_id": 179538,
+            "total_vote": 335,
+            "votes": {
+                "1": 80,
+                "3": 240,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/12d944e0-cba9-44f5-8a0f-a9f2760bacfb-1684105567506786625.jpg",
+            "submission_id": 660221,
+            "total_vote": 332,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 11,
+                "12": 11,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 1,
+                "21": 177,
+                "22": 29,
+                "23": 21,
+                "24": 6,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 8,
+                "8": 1,
+                "9": 55
+            }
+        },
+        "school_name": "KEMAL REİS İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1233,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/755e3ac9-be76-4ede-8984-7a4c74655246-1684105688259965397.jpg",
+            "submission_id": 679753,
+            "total_vote": 329,
+            "votes": {
+                "1": 76,
+                "2": 2,
+                "3": 240,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/9159_mv_1083861687_1684264283220277230.jpg",
+            "submission_id": 1033129,
+            "total_vote": 330,
+            "votes": {
+                "1": 1,
+                "10": 8,
+                "11": 8,
+                "12": 16,
+                "2": 0,
+                "20": 1,
+                "21": 175,
+                "22": 47,
+                "23": 0,
+                "24": 4,
+                "3": 3,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 7,
+                "8": 1,
+                "9": 57
+            }
+        },
+        "school_name": "KEMAL REİS İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1235,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/9843_cb_1093861689_1684082332247667679.jpg",
+            "submission_id": 198807,
+            "total_vote": 321,
+            "votes": {
+                "1": 88,
+                "2": 1,
+                "3": 216,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4e52b5fc-1710-4111-abf8-a0a397200b4d-1684105649240180972.jpg",
+            "submission_id": 673530,
+            "total_vote": 316,
+            "votes": {
+                "11": 10,
+                "12": 10,
+                "17": 1,
+                "21": 145,
+                "22": 57,
+                "23": 1,
+                "24": 7,
+                "3": 1,
+                "4": 1,
+                "6": 1,
+                "7": 4,
+                "9": 78
+            }
+        },
+        "school_name": "KEMAL REİS İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1232,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a325df25-7526-47c2-9c2d-0d4e1ef0884b-1684105635633311125.jpg",
+            "submission_id": 671184,
+            "total_vote": 317,
+            "votes": {
+                "1": 59,
+                "2": 1,
+                "3": 244,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "KEMAL REİS İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1238,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/72aa9a0d-903f-4777-a0d4-19b267a256bf-1684105375514232718.jpg",
+            "submission_id": 628001,
+            "total_vote": 331,
+            "votes": {
+                "1": 66,
+                "3": 257,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5ea8bee2-0003-47d0-9ffc-32dc627709f5-1684105278673361034.jpg",
+            "submission_id": 610754,
+            "total_vote": 327,
+            "votes": {
+                "10": 1,
+                "11": 7,
+                "12": 23,
+                "21": 176,
+                "22": 49,
+                "24": 6,
+                "5": 2,
+                "6": 3,
+                "7": 4,
+                "8": 1,
+                "9": 55
+            }
+        },
+        "school_name": "KEMAL REİS İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1236,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e22d092c-a7a3-4812-96a6-46fbbd452b46-1684105672287131324.jpg",
+            "submission_id": 677317,
+            "total_vote": 333,
+            "votes": {
+                "1": 61,
+                "2": 0,
+                "3": 260,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "KEMAL REİS İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1239,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/1540c57e-0b92-4a1b-ae00-155c71f7c5e5-1684106426636256242.jpg",
+            "submission_id": 786069,
+            "total_vote": 322,
+            "votes": {
+                "1": 62,
+                "3": 251,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9eeb30dd-7975-47f6-b82b-da337e40346d-1684105571432258738.jpg",
+            "submission_id": 661011,
+            "total_vote": 319,
+            "votes": {
+                "10": 1,
+                "11": 8,
+                "12": 18,
+                "21": 175,
+                "22": 44,
+                "24": 9,
+                "6": 1,
+                "7": 5,
+                "9": 58
+            }
+        },
+        "school_name": "KEMAL REİS İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1230,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/14210_cb_1093861684_1684091611024810091.jpg",
+            "submission_id": 442983,
+            "total_vote": 297,
+            "votes": {
+                "1": 75,
+                "2": 2,
+                "3": 216,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/14210_mv_1083861684_1684091708899905800.jpg",
+            "submission_id": 444582,
+            "total_vote": 294,
+            "votes": {
+                "1": 0,
+                "10": 63,
+                "11": 3,
+                "12": 7,
+                "14": 0,
+                "15": 1,
+                "16": 1,
+                "17": 1,
+                "18": 0,
+                "19": 3,
+                "2": 0,
+                "20": 0,
+                "21": 163,
+                "22": 47,
+                "23": 0,
+                "24": 1,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 0,
+                "8": 2,
+                "9": 0
+            }
+        },
+        "school_name": "KEMAL REİS İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1234,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28950_cb_1093861688_1684092638779456481.jpg",
+            "submission_id": 459090,
+            "total_vote": 323,
+            "votes": {
+                "1": 50,
+                "2": 1,
+                "3": 259,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "KEMAL REİS İLKOKULU"
+    }
+]

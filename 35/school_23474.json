@@ -1,0 +1,1208 @@
+[
+    {
+        "ballot_box_number": 2062,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0861cf74-f496-4ca6-b488-a46fc84a06cc-1684105108901449937.jpeg",
+            "submission_id": 574655,
+            "total_vote": 340,
+            "votes": {
+                "1": 107,
+                "3": 209,
+                "4": 24
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ASTSUBAY ÜMİT BAŞARAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2075,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/51818_bulk_999999999_1684096408141895937.jpeg",
+            "submission_id": 512344,
+            "total_vote": 333,
+            "votes": {
+                "1": 103,
+                "3": 224,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/51818_bulk_999999999_1684096408226686956.jpeg",
+            "submission_id": 512348,
+            "total_vote": 328,
+            "votes": {
+                "1": 2,
+                "10": 4,
+                "11": 8,
+                "12": 29,
+                "20": 1,
+                "21": 140,
+                "22": 40,
+                "24": 6,
+                "3": 3,
+                "6": 3,
+                "7": 3,
+                "8": 2,
+                "9": 87
+            }
+        },
+        "school_name": "ŞEHİT ASTSUBAY ÜMİT BAŞARAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2073,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/6924a02e-7628-4433-a530-03fe862adb13-1684105319916823855.jpg",
+            "submission_id": 617027,
+            "total_vote": 343,
+            "votes": {
+                "1": 90,
+                "2": 1,
+                "3": 227,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/6097bb1d-309b-48d9-b6c3-42bdc95294c5-1684105309457156949.jpg",
+            "submission_id": 615169,
+            "total_vote": 340,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 10,
+                "12": 28,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 149,
+                "22": 50,
+                "23": 1,
+                "24": 17,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 1,
+                "8": 2,
+                "9": 76
+            }
+        },
+        "school_name": "ŞEHİT ASTSUBAY ÜMİT BAŞARAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2049,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/83774_bulk_999999999_1684089765510432541.jpg",
+            "submission_id": 403560,
+            "total_vote": 314,
+            "votes": {
+                "1": 91,
+                "2": 2,
+                "3": 216,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/83774_bulk_999999999_1684089765613964321.jpg",
+            "submission_id": 403564,
+            "total_vote": 299,
+            "votes": {
+                "10": 2,
+                "11": 5,
+                "12": 24,
+                "14": 1,
+                "19": 2,
+                "20": 1,
+                "21": 146,
+                "22": 29,
+                "23": 3,
+                "24": 7,
+                "5": 2,
+                "6": 1,
+                "7": 2,
+                "8": 5,
+                "9": 69
+            }
+        },
+        "school_name": "ŞEHİT ASTSUBAY ÜMİT BAŞARAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2077,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/51818_bulk_999999999_1684096408548728032.jpeg",
+            "submission_id": 512356,
+            "total_vote": 338,
+            "votes": {
+                "1": 96,
+                "2": 1,
+                "3": 225,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/51818_bulk_999999999_1684096408438509997.jpeg",
+            "submission_id": 512352,
+            "total_vote": 329,
+            "votes": {
+                "10": 0,
+                "11": 14,
+                "12": 23,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 152,
+                "22": 44,
+                "23": 0,
+                "24": 9,
+                "3": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 83
+            }
+        },
+        "school_name": "ŞEHİT ASTSUBAY ÜMİT BAŞARAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2081,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source1-secim-images.oyveotesi.org/raw/rotated/1005401_cb_3789735_1684081597.jpeg",
+            "submission_id": 481313,
+            "total_vote": 331,
+            "votes": {
+                "1": 68,
+                "2": 2,
+                "3": 240,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ASTSUBAY ÜMİT BAŞARAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2063,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source1-secim-images.oyveotesi.org/raw/1005401_cb_3789617_1684094936.jpeg",
+            "submission_id": 497944,
+            "total_vote": 329,
+            "votes": {
+                "1": 64,
+                "2": 0,
+                "3": 241,
+                "4": 24
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ASTSUBAY ÜMİT BAŞARAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2085,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10989_cb_1093789739_1684187018984420405.jpg",
+            "submission_id": 1025829,
+            "total_vote": 342,
+            "votes": {
+                "1": 75,
+                "2": 0,
+                "3": 243,
+                "4": 24
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ASTSUBAY ÜMİT BAŞARAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2064,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21306_cb_1093789618_1684084668608989000.jpg",
+            "submission_id": 245056,
+            "total_vote": 337,
+            "votes": {
+                "1": 84,
+                "2": 1,
+                "3": 228,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21306_mv_1083789618_1684085956719167097.jpg",
+            "submission_id": 283601,
+            "total_vote": 331,
+            "votes": {
+                "10": 3,
+                "11": 11,
+                "12": 20,
+                "21": 150,
+                "22": 58,
+                "23": 1,
+                "24": 12,
+                "5": 2,
+                "6": 2,
+                "7": 1,
+                "9": 71
+            }
+        },
+        "school_name": "ŞEHİT ASTSUBAY ÜMİT BAŞARAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2084,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/83744_bulk_999999999_1684089418530993792.jpg",
+            "submission_id": 393990,
+            "total_vote": 331,
+            "votes": {
+                "1": 72,
+                "2": 1,
+                "3": 253,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10989_mv_1083789738_1684187120816981173.jpg",
+            "submission_id": 1025850,
+            "total_vote": 331,
+            "votes": {
+                "10": 4,
+                "11": 12,
+                "12": 38,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 2,
+                "2": 1,
+                "20": 0,
+                "21": 162,
+                "22": 47,
+                "23": 1,
+                "24": 1,
+                "3": 0,
+                "4": 0,
+                "6": 0,
+                "7": 1,
+                "8": 2,
+                "9": 58
+            }
+        },
+        "school_name": "ŞEHİT ASTSUBAY ÜMİT BAŞARAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2057,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source1-secim-images.oyveotesi.org/raw/1005401_cb_3789511_1684095735.jpeg",
+            "submission_id": 506224,
+            "total_vote": 343,
+            "votes": {
+                "1": 93,
+                "2": 1,
+                "3": 230,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ASTSUBAY ÜMİT BAŞARAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2082,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/52403f6d-ef2e-4f51-ac0e-56eee231a238-1684106180972914610.jpeg",
+            "submission_id": 750511,
+            "total_vote": 341,
+            "votes": {
+                "1": 105,
+                "2": 0,
+                "3": 223,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/aaaacc47-c564-47f9-9288-7eaa75d86535-1684106173982923151.jpeg",
+            "submission_id": 749402,
+            "total_vote": 338,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 14,
+                "12": 31,
+                "15": 1,
+                "20": 1,
+                "21": 146,
+                "22": 50,
+                "24": 8,
+                "7": 2,
+                "9": 81
+            }
+        },
+        "school_name": "ŞEHİT ASTSUBAY ÜMİT BAŞARAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2053,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/83744_bulk_999999999_1684089419033016123.jpg",
+            "submission_id": 394008,
+            "total_vote": 326,
+            "votes": {
+                "1": 80,
+                "2": 1,
+                "3": 232,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ASTSUBAY ÜMİT BAŞARAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2079,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source1-secim-images.oyveotesi.org/raw/rotated/1005401_cb_3789633_1684082804.jpeg",
+            "submission_id": 481310,
+            "total_vote": 348,
+            "votes": {
+                "1": 68,
+                "3": 269,
+                "4": 11
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ASTSUBAY ÜMİT BAŞARAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2076,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/51818_bulk_999999999_1684096408959919078.jpeg",
+            "submission_id": 512368,
+            "total_vote": 337,
+            "votes": {
+                "1": 96,
+                "2": 1,
+                "3": 208,
+                "4": 32
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ASTSUBAY ÜMİT BAŞARAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2048,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4eda236f-5812-4050-bd4d-91fa1db226ee-1684105397101316270.jpeg",
+            "submission_id": 632540,
+            "total_vote": 314,
+            "votes": {
+                "1": 66,
+                "2": 0,
+                "3": 243,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7c061792-cd7d-4cb9-a58c-f7707cb12da6-1684105410819823574.jpeg",
+            "submission_id": 635161,
+            "total_vote": 304,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 7,
+                "12": 26,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 175,
+                "22": 31,
+                "23": 1,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 1,
+                "8": 0,
+                "9": 50
+            }
+        },
+        "school_name": "ŞEHİT ASTSUBAY ÜMİT BAŞARAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2069,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/83774_bulk_999999999_1684089765098768816.jpg",
+            "submission_id": 403542,
+            "total_vote": 344,
+            "votes": {
+                "1": 84,
+                "2": 3,
+                "3": 236,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/87edeec1-67af-41b8-ae34-128e777f46c7-1684105783317588075.jpg",
+            "submission_id": 694911,
+            "total_vote": 338,
+            "votes": {
+                "1": 1,
+                "10": 6,
+                "11": 15,
+                "12": 40,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 150,
+                "22": 41,
+                "23": 0,
+                "24": 13,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 66
+            }
+        },
+        "school_name": "ŞEHİT ASTSUBAY ÜMİT BAŞARAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2061,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5055c138-1cd0-47b8-bb8b-bb03a4016376-1684105560688822803.jpg",
+            "submission_id": 659483,
+            "total_vote": 337,
+            "votes": {
+                "1": 93,
+                "3": 220,
+                "4": 24
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ASTSUBAY ÜMİT BAŞARAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2072,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2f77e28d-69c6-4fee-8f25-922e7146e90f-1684105785541573574.jpeg",
+            "submission_id": 695167,
+            "total_vote": 330,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 14,
+                "12": 28,
+                "18": 1,
+                "2": 1,
+                "21": 182,
+                "22": 39,
+                "24": 9,
+                "3": 2,
+                "5": 2,
+                "7": 4,
+                "8": 2,
+                "9": 44
+            }
+        },
+        "school_name": "ŞEHİT ASTSUBAY ÜMİT BAŞARAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2065,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/83774_bulk_999999999_1684082125800484184.jpg",
+            "submission_id": 196175,
+            "total_vote": 334,
+            "votes": {
+                "1": 93,
+                "2": 1,
+                "3": 214,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/83774_bulk_999999999_1684082908801926726.jpg",
+            "submission_id": 207157,
+            "total_vote": 334,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 18,
+                "12": 29,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 135,
+                "22": 53,
+                "23": 1,
+                "24": 17,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 2,
+                "8": 0,
+                "9": 73
+            }
+        },
+        "school_name": "ŞEHİT ASTSUBAY ÜMİT BAŞARAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2067,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/83744_bulk_999999999_1684089242348668421.jpg",
+            "submission_id": 389333,
+            "total_vote": 334,
+            "votes": {
+                "1": 95,
+                "2": 3,
+                "3": 211,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a6e87ec9-0299-4c50-903e-47f6edc4db84-1684105654107855518.jpg",
+            "submission_id": 674595,
+            "total_vote": 330,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 11,
+                "12": 28,
+                "14": 1,
+                "15": 1,
+                "21": 131,
+                "22": 48,
+                "23": 1,
+                "24": 14,
+                "5": 1,
+                "6": 1,
+                "7": 6,
+                "8": 3,
+                "9": 81
+            }
+        },
+        "school_name": "ŞEHİT ASTSUBAY ÜMİT BAŞARAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2054,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/17027_bulk_999999999_1684099342471240581.jpeg",
+            "submission_id": 532538,
+            "total_vote": 338,
+            "votes": {
+                "1": 101,
+                "2": 4,
+                "3": 214,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7d702271-9a35-46b8-a386-61292d47406e-1684105568714789440.jpeg",
+            "submission_id": 660257,
+            "total_vote": 337,
+            "votes": {
+                "1": 0,
+                "10": 10,
+                "11": 16,
+                "12": 33,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 3,
+                "2": 1,
+                "20": 0,
+                "21": 133,
+                "22": 48,
+                "23": 1,
+                "24": 8,
+                "3": 2,
+                "4": 1,
+                "5": 1,
+                "6": 1,
+                "7": 4,
+                "8": 2,
+                "9": 72
+            }
+        },
+        "school_name": "ŞEHİT ASTSUBAY ÜMİT BAŞARAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2080,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/83744_bulk_999999999_1684089418739430969.jpg",
+            "submission_id": 393996,
+            "total_vote": 342,
+            "votes": {
+                "1": 72,
+                "3": 252,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/83744_bulk_999999999_1684089418855032695.jpg",
+            "submission_id": 394003,
+            "total_vote": 339,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 10,
+                "12": 47,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 158,
+                "22": 44,
+                "23": 1,
+                "24": 13,
+                "3": 3,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 5,
+                "8": 3,
+                "9": 47
+            }
+        },
+        "school_name": "ŞEHİT ASTSUBAY ÜMİT BAŞARAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2056,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7f9fcd9c-bfc3-404a-8192-6b28ea53ae51-1684105504576041888.jpeg",
+            "submission_id": 650298,
+            "total_vote": 354,
+            "votes": {
+                "1": 108,
+                "2": 2,
+                "3": 223,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ASTSUBAY ÜMİT BAŞARAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2066,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/24a4c525-6615-43da-bcd4-460579ac4806-1684105250602640651.jpg",
+            "submission_id": 604763,
+            "total_vote": 332,
+            "votes": {
+                "1": 80,
+                "2": 2,
+                "3": 233,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/53d808b4-57e2-4704-be91-2919db1f3b72-1684105253639277435.jpg",
+            "submission_id": 605575,
+            "total_vote": 332,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 18,
+                "12": 26,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 4,
+                "2": 0,
+                "20": 4,
+                "21": 174,
+                "22": 22,
+                "23": 0,
+                "24": 13,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 3,
+                "7": 4,
+                "8": 1,
+                "9": 56
+            }
+        },
+        "school_name": "ŞEHİT ASTSUBAY ÜMİT BAŞARAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2086,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/83774_bulk_999999999_1684089764671465431.jpg",
+            "submission_id": 403524,
+            "total_vote": 337,
+            "votes": {
+                "1": 76,
+                "2": 0,
+                "3": 250,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/83774_bulk_999999999_1684089764711727053.jpg",
+            "submission_id": 403526,
+            "total_vote": 338,
+            "votes": {
+                "10": 2,
+                "11": 11,
+                "12": 31,
+                "21": 170,
+                "22": 49,
+                "23": 1,
+                "24": 4,
+                "3": 2,
+                "5": 2,
+                "7": 3,
+                "8": 2,
+                "9": 61
+            }
+        },
+        "school_name": "ŞEHİT ASTSUBAY ÜMİT BAŞARAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2051,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/83774_bulk_999999999_1684089852586574547.jpg",
+            "submission_id": 405851,
+            "total_vote": 311,
+            "votes": {
+                "1": 70,
+                "3": 228,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/10989_bulk_999999999_1684146382781881258.jpg",
+            "submission_id": 1019790,
+            "total_vote": 307,
+            "votes": {
+                "1": 1,
+                "10": 6,
+                "11": 11,
+                "12": 11,
+                "19": 1,
+                "21": 193,
+                "22": 26,
+                "24": 4,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 50
+            }
+        },
+        "school_name": "ŞEHİT ASTSUBAY ÜMİT BAŞARAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2087,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/83774_bulk_999999999_1684089764758986760.jpg",
+            "submission_id": 403528,
+            "total_vote": 345,
+            "votes": {
+                "1": 106,
+                "2": 0,
+                "3": 220,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/83774_bulk_999999999_1684089764838992765.jpg",
+            "submission_id": 403535,
+            "total_vote": 340,
+            "votes": {
+                "10": 2,
+                "11": 14,
+                "12": 26,
+                "14": 1,
+                "21": 157,
+                "22": 41,
+                "24": 7,
+                "3": 1,
+                "5": 3,
+                "6": 2,
+                "8": 2,
+                "9": 84
+            }
+        },
+        "school_name": "ŞEHİT ASTSUBAY ÜMİT BAŞARAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2052,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/83774_bulk_999999999_1684088771184477838.jpg",
+            "submission_id": 375804,
+            "total_vote": 327,
+            "votes": {
+                "1": 77,
+                "2": 3,
+                "3": 235,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/83774_bulk_999999999_1684088771078955250.jpg",
+            "submission_id": 375800,
+            "total_vote": 324,
+            "votes": {
+                "10": 3,
+                "11": 14,
+                "12": 28,
+                "14": 1,
+                "20": 2,
+                "21": 165,
+                "22": 36,
+                "24": 8,
+                "6": 3,
+                "7": 6,
+                "8": 1,
+                "9": 57
+            }
+        },
+        "school_name": "ŞEHİT ASTSUBAY ÜMİT BAŞARAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2055,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/39777bb3-cb3c-43ed-a1ab-8ed59fe84c7f-1684105557989087798.jpeg",
+            "submission_id": 658667,
+            "total_vote": 337,
+            "votes": {
+                "1": 78,
+                "2": 2,
+                "3": 246,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9f2de044-cb62-499a-a096-5863f171750c-1684105555856309699.jpeg",
+            "submission_id": 658157,
+            "total_vote": 336,
+            "votes": {
+                "10": 4,
+                "11": 13,
+                "12": 25,
+                "21": 166,
+                "22": 49,
+                "23": 1,
+                "24": 6,
+                "5": 1,
+                "6": 1,
+                "7": 8,
+                "8": 2,
+                "9": 60
+            }
+        },
+        "school_name": "ŞEHİT ASTSUBAY ÜMİT BAŞARAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2083,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/10989_bulk_999999999_1684145952616811596.jpg",
+            "submission_id": 1019596,
+            "total_vote": 330,
+            "votes": {
+                "1": 85,
+                "2": 1,
+                "3": 214,
+                "4": 30
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/10989_bulk_999999999_1684145952687702615.jpg",
+            "submission_id": 1019597,
+            "total_vote": 326,
+            "votes": {
+                "10": 7,
+                "11": 19,
+                "12": 30,
+                "21": 141,
+                "22": 46,
+                "23": 1,
+                "24": 13,
+                "3": 1,
+                "5": 3,
+                "7": 4,
+                "9": 61
+            }
+        },
+        "school_name": "ŞEHİT ASTSUBAY ÜMİT BAŞARAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2068,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21306_cb_1093789622_1684085067327143666.jpg",
+            "submission_id": 256081,
+            "total_vote": 323,
+            "votes": {
+                "1": 82,
+                "3": 229,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21306_mv_1083789622_1684085095873153188.jpg",
+            "submission_id": 256842,
+            "total_vote": 321,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 15,
+                "12": 32,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 152,
+                "22": 45,
+                "23": 0,
+                "24": 4,
+                "3": 3,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 3,
+                "8": 1,
+                "9": 64
+            }
+        },
+        "school_name": "ŞEHİT ASTSUBAY ÜMİT BAŞARAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2050,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/14544_bulk_999999999_1684101083438107513.jpeg",
+            "submission_id": 539780,
+            "total_vote": 316,
+            "votes": {
+                "1": 90,
+                "3": 212,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3e1d2456-4224-4947-8043-8ff9a12e06ae-1684105387498803208.jpeg",
+            "submission_id": 630590,
+            "total_vote": 316,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 14,
+                "12": 23,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 151,
+                "22": 38,
+                "23": 0,
+                "24": 2,
+                "3": 4,
+                "4": 1,
+                "6": 1,
+                "7": 4,
+                "8": 1,
+                "9": 71
+            }
+        },
+        "school_name": "ŞEHİT ASTSUBAY ÜMİT BAŞARAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2071,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/47360_bulk_999999999_1684091144807651985.jpeg",
+            "submission_id": 434791,
+            "total_vote": 331,
+            "votes": {
+                "1": 79,
+                "2": 1,
+                "3": 242,
+                "4": 9
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ASTSUBAY ÜMİT BAŞARAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2059,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/83774_bulk_999999999_1684089765230369329.jpg",
+            "submission_id": 403548,
+            "total_vote": 340,
+            "votes": {
+                "1": 87,
+                "2": 2,
+                "3": 236,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/10989_bulk_999999999_1684146382358748716.jpg",
+            "submission_id": 1019786,
+            "total_vote": 338,
+            "votes": {
+                "10": 1,
+                "11": 12,
+                "12": 24,
+                "19": 1,
+                "21": 148,
+                "22": 59,
+                "23": 1,
+                "24": 6,
+                "3": 1,
+                "7": 10,
+                "9": 75
+            }
+        },
+        "school_name": "ŞEHİT ASTSUBAY ÜMİT BAŞARAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2058,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source1-secim-images.oyveotesi.org/raw/1005401_cb_3789512_1684093396.jpeg",
+            "submission_id": 469423,
+            "total_vote": 354,
+            "votes": {
+                "1": 85,
+                "2": 4,
+                "3": 246,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ASTSUBAY ÜMİT BAŞARAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2078,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/83774_bulk_999999999_1684089764946856574.jpg",
+            "submission_id": 403539,
+            "total_vote": 338,
+            "votes": {
+                "1": 96,
+                "3": 212,
+                "4": 30
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/fd5c7f27-1889-44b4-b73f-4c73226554b1-1684105118198903502.jpeg",
+            "submission_id": 575241,
+            "total_vote": 335,
+            "votes": {
+                "10": 1,
+                "11": 25,
+                "12": 30,
+                "21": 147,
+                "22": 37,
+                "23": 1,
+                "24": 12,
+                "6": 2,
+                "7": 5,
+                "8": 4,
+                "9": 71
+            }
+        },
+        "school_name": "ŞEHİT ASTSUBAY ÜMİT BAŞARAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2070,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source1-secim-images.oyveotesi.org/raw/1005401_cb_3789624_1684095178.jpeg",
+            "submission_id": 500451,
+            "total_vote": 336,
+            "votes": {
+                "1": 76,
+                "3": 232,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/47360_bulk_999999999_1684091144676322404.jpeg",
+            "submission_id": 434787,
+            "total_vote": 335,
+            "votes": {
+                "10": 7,
+                "11": 13,
+                "12": 20,
+                "15": 1,
+                "18": 1,
+                "21": 160,
+                "22": 57,
+                "24": 12,
+                "3": 2,
+                "7": 6,
+                "9": 56
+            }
+        },
+        "school_name": "ŞEHİT ASTSUBAY ÜMİT BAŞARAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2060,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/45da0bd3-608e-4d71-8bb4-198fe0cde39b-1684105651134158777.jpg",
+            "submission_id": 674206,
+            "total_vote": 340,
+            "votes": {
+                "1": 97,
+                "2": 2,
+                "3": 222,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ASTSUBAY ÜMİT BAŞARAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2074,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/51818_bulk_999999999_1684096408355361394.jpeg",
+            "submission_id": 512350,
+            "total_vote": 346,
+            "votes": {
+                "1": 71,
+                "3": 252,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ASTSUBAY ÜMİT BAŞARAN İLKOKULU"
+    }
+]

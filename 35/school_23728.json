@@ -1,0 +1,296 @@
+[
+    {
+        "ballot_box_number": 2025,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18544_cb_1093864306_1684088306216153805.jpg",
+            "submission_id": 361529,
+            "total_vote": 288,
+            "votes": {
+                "1": 132,
+                "2": 2,
+                "3": 141,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/39462_bulk_999999999_1684088170744795112.jpeg",
+            "submission_id": 357427,
+            "total_vote": 275,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 24,
+                "12": 8,
+                "13": 5,
+                "14": 2,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 93,
+                "22": 28,
+                "23": 3,
+                "24": 5,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 2,
+                "9": 95
+            }
+        },
+        "school_name": "ŞAİR EŞREF İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2027,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18544_cb_1093864308_1684088425696514029.jpg",
+            "submission_id": 365212,
+            "total_vote": 290,
+            "votes": {
+                "1": 98,
+                "2": 0,
+                "3": 179,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18544_mv_1083864308_1684088400218170283.jpg",
+            "submission_id": 364424,
+            "total_vote": 285,
+            "votes": {
+                "10": 1,
+                "11": 20,
+                "12": 20,
+                "13": 14,
+                "14": 0,
+                "15": 1,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "20": 1,
+                "21": 112,
+                "22": 29,
+                "23": 2,
+                "24": 6,
+                "6": 2,
+                "7": 1,
+                "8": 0,
+                "9": 75
+            }
+        },
+        "school_name": "ŞAİR EŞREF İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2030,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18544_cb_1093864311_1684085543761716207.jpg",
+            "submission_id": 269937,
+            "total_vote": 293,
+            "votes": {
+                "1": 132,
+                "2": 2,
+                "3": 144,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18544_mv_1083864311_1684085498294471583.jpg",
+            "submission_id": 268537,
+            "total_vote": 281,
+            "votes": {
+                "10": 2,
+                "11": 23,
+                "12": 15,
+                "13": 8,
+                "15": 1,
+                "18": 1,
+                "19": 1,
+                "21": 91,
+                "22": 27,
+                "24": 9,
+                "3": 1,
+                "6": 1,
+                "7": 3,
+                "9": 98
+            }
+        },
+        "school_name": "ŞAİR EŞREF İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2031,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18544_cb_1093864312_1684086196314199208.jpg",
+            "submission_id": 291309,
+            "total_vote": 272,
+            "votes": {
+                "1": 99,
+                "2": 1,
+                "3": 160,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18544_mv_1083864312_1684086226183119641.jpg",
+            "submission_id": 292300,
+            "total_vote": 263,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 14,
+                "12": 22,
+                "13": 7,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 104,
+                "22": 18,
+                "23": 0,
+                "24": 4,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 3,
+                "8": 3,
+                "9": 80
+            }
+        },
+        "school_name": "ŞAİR EŞREF İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2029,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18544_cb_1093864310_1684087311260120183.jpg",
+            "submission_id": 329745,
+            "total_vote": 283,
+            "votes": {
+                "1": 121,
+                "3": 150,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/55219_mv_1083864310_1684089004564017874.jpg",
+            "submission_id": 382666,
+            "total_vote": 275,
+            "votes": {
+                "10": 8,
+                "11": 21,
+                "12": 17,
+                "13": 10,
+                "14": 1,
+                "17": 1,
+                "20": 1,
+                "21": 93,
+                "22": 24,
+                "24": 7,
+                "5": 2,
+                "7": 4,
+                "9": 86
+            }
+        },
+        "school_name": "ŞAİR EŞREF İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2026,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18544_cb_1093864307_1684088372332817101.jpg",
+            "submission_id": 363490,
+            "total_vote": 283,
+            "votes": {
+                "1": 110,
+                "2": 2,
+                "3": 163,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18544_mv_1083864307_1684088351293028355.jpg",
+            "submission_id": 362847,
+            "total_vote": 271,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 35,
+                "12": 12,
+                "13": 10,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 102,
+                "22": 32,
+                "23": 0,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "8": 0,
+                "9": 69
+            }
+        },
+        "school_name": "ŞAİR EŞREF İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2028,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18544_cb_1093864309_1684085399673118419.jpg",
+            "submission_id": 265655,
+            "total_vote": 288,
+            "votes": {
+                "1": 121,
+                "2": 2,
+                "3": 154,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18544_mv_1083864309_1684085426413351138.jpg",
+            "submission_id": 266447,
+            "total_vote": 277,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 22,
+                "12": 15,
+                "13": 13,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 2,
+                "18": 2,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 95,
+                "22": 28,
+                "23": 0,
+                "24": 7,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 3,
+                "9": 79
+            }
+        },
+        "school_name": "ŞAİR EŞREF İLKOKULU"
+    }
+]

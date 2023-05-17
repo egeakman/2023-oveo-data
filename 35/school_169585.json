@@ -1,0 +1,536 @@
+[
+    {
+        "ballot_box_number": 1070,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/54185_mv_1083797613_1684084489440832569.jpg",
+            "submission_id": 240277,
+            "total_vote": 329,
+            "votes": {
+                "1": 61,
+                "2": 1,
+                "3": 242,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22971_mv_1083797613_1684088948325727475.jpg",
+            "submission_id": 381014,
+            "total_vote": 327,
+            "votes": {
+                "10": 2,
+                "11": 11,
+                "12": 23,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 157,
+                "22": 55,
+                "23": 1,
+                "24": 12,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 13,
+                "8": 1,
+                "9": 49
+            }
+        },
+        "school_name": "ŞEHİT FERDİ TOSUN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1069,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/36607_cb_1093797612_1684085024284795174.jpg",
+            "submission_id": 254849,
+            "total_vote": 322,
+            "votes": {
+                "1": 75,
+                "2": 1,
+                "3": 223,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT FERDİ TOSUN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1078,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/36607_cb_1093797881_1684085998216178974.jpg",
+            "submission_id": 284857,
+            "total_vote": 333,
+            "votes": {
+                "1": 72,
+                "2": 2,
+                "3": 239,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22971_mv_1083797881_1684089796610438143.jpg",
+            "submission_id": 404433,
+            "total_vote": 326,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 11,
+                "12": 19,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 156,
+                "22": 63,
+                "23": 0,
+                "24": 8,
+                "3": 6,
+                "4": 1,
+                "5": 0,
+                "6": 2,
+                "7": 3,
+                "8": 2,
+                "9": 52
+            }
+        },
+        "school_name": "ŞEHİT FERDİ TOSUN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1067,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/36607_cb_1093797610_1684086418981705789.jpg",
+            "submission_id": 298664,
+            "total_vote": 304,
+            "votes": {
+                "1": 73,
+                "2": 0,
+                "3": 225,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22971_mv_1083797610_1684088802815129414.jpg",
+            "submission_id": 376693,
+            "total_vote": 297,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 9,
+                "12": 0,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "2": 0,
+                "20": 0,
+                "21": 173,
+                "22": 35,
+                "23": 0,
+                "24": 4,
+                "3": 3,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 3,
+                "8": 1,
+                "9": 60
+            }
+        },
+        "school_name": "ŞEHİT FERDİ TOSUN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1076,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/63706_bulk_999999999_1684083723853318685.jpeg",
+            "submission_id": 222366,
+            "total_vote": 337,
+            "votes": {
+                "1": 85,
+                "2": 2,
+                "3": 234,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22971_mv_1083797879_1684089203519993402.jpg",
+            "submission_id": 388251,
+            "total_vote": 337,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 8,
+                "12": 42,
+                "14": 7,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 1,
+                "21": 163,
+                "22": 59,
+                "23": 1,
+                "24": 9,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 6,
+                "8": 2,
+                "9": 31
+            }
+        },
+        "school_name": "ŞEHİT FERDİ TOSUN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1066,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22971_cb_1093797609_1684086191637882632.jpg",
+            "submission_id": 291144,
+            "total_vote": 309,
+            "votes": {
+                "1": 53,
+                "2": 1,
+                "3": 248,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48440_mv_1083797609_1684093886356087331.jpg",
+            "submission_id": 476458,
+            "total_vote": 303,
+            "votes": {
+                "11": 8,
+                "12": 3,
+                "16": 1,
+                "19": 1,
+                "21": 204,
+                "22": 39,
+                "23": 2,
+                "24": 1,
+                "7": 3,
+                "9": 41
+            }
+        },
+        "school_name": "ŞEHİT FERDİ TOSUN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1073,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/36607_cb_1093797876_1684086901354242876.jpg",
+            "submission_id": 315508,
+            "total_vote": 343,
+            "votes": {
+                "1": 67,
+                "3": 265,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22971_mv_1083797876_1684088998644086941.jpg",
+            "submission_id": 382528,
+            "total_vote": 343,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 8,
+                "12": 1,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 2,
+                "20": 1,
+                "21": 192,
+                "22": 66,
+                "23": 0,
+                "24": 4,
+                "3": 7,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 3,
+                "9": 55
+            }
+        },
+        "school_name": "ŞEHİT FERDİ TOSUN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1074,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/36607_cb_1093797877_1684086220322803402.jpg",
+            "submission_id": 292119,
+            "total_vote": 332,
+            "votes": {
+                "1": 70,
+                "2": 0,
+                "3": 243,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22971_mv_1083797877_1684089030735003968.jpg",
+            "submission_id": 383393,
+            "total_vote": 324,
+            "votes": {
+                "10": 4,
+                "11": 11,
+                "12": 13,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "2": 0,
+                "20": 0,
+                "21": 175,
+                "22": 47,
+                "23": 0,
+                "24": 8,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 3,
+                "7": 3,
+                "8": 0,
+                "9": 55
+            }
+        },
+        "school_name": "ŞEHİT FERDİ TOSUN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1072,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/54185_bulk_999999999_1684083253453575411.jpeg",
+            "submission_id": 213131,
+            "total_vote": 341,
+            "votes": {
+                "1": 70,
+                "2": 0,
+                "3": 256,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT FERDİ TOSUN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1065,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17087_cb_1093797608_1684084416301590629.jpg",
+            "submission_id": 238410,
+            "total_vote": 308,
+            "votes": {
+                "1": 47,
+                "2": 4,
+                "3": 249,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17087_mv_1083797608_1684086068866852189.jpg",
+            "submission_id": 287136,
+            "total_vote": 302,
+            "votes": {
+                "1": 1,
+                "11": 4,
+                "12": 6,
+                "15": 1,
+                "17": 1,
+                "21": 202,
+                "22": 36,
+                "24": 1,
+                "6": 1,
+                "7": 8,
+                "9": 41
+            }
+        },
+        "school_name": "ŞEHİT FERDİ TOSUN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1071,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/36607_cb_1093797614_1684086499253415776.jpg",
+            "submission_id": 301457,
+            "total_vote": 341,
+            "votes": {
+                "1": 63,
+                "2": 0,
+                "3": 260,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22971_mv_1083797614_1684088972108614903.jpg",
+            "submission_id": 381666,
+            "total_vote": 337,
+            "votes": {
+                "1": 2,
+                "10": 1,
+                "11": 6,
+                "12": 6,
+                "14": 0,
+                "15": 0,
+                "2": 0,
+                "21": 196,
+                "22": 50,
+                "23": 2,
+                "24": 13,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 3,
+                "8": 2,
+                "9": 52
+            }
+        },
+        "school_name": "ŞEHİT FERDİ TOSUN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1077,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/36607_cb_1093797880_1684086118310073515.jpg",
+            "submission_id": 288762,
+            "total_vote": 336,
+            "votes": {
+                "1": 70,
+                "3": 253,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22971_mv_1083797880_1684092415343755640.jpg",
+            "submission_id": 455918,
+            "total_vote": 336,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 17,
+                "12": 21,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 168,
+                "22": 68,
+                "23": 0,
+                "24": 7,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 0,
+                "9": 48
+            }
+        },
+        "school_name": "ŞEHİT FERDİ TOSUN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1075,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/36607_cb_1093797878_1684086181281721425.jpg",
+            "submission_id": 290804,
+            "total_vote": 334,
+            "votes": {
+                "1": 55,
+                "2": 2,
+                "3": 263,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22971_mv_1083797878_1684089165929531767.jpg",
+            "submission_id": 387154,
+            "total_vote": 328,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 8,
+                "12": 8,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 181,
+                "22": 64,
+                "23": 0,
+                "24": 10,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 4,
+                "8": 1,
+                "9": 45
+            }
+        },
+        "school_name": "ŞEHİT FERDİ TOSUN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1068,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/36607_cb_1093797611_1684086086491808919.jpg",
+            "submission_id": 287708,
+            "total_vote": 330,
+            "votes": {
+                "1": 78,
+                "2": 0,
+                "3": 233,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/36607_cb_1093797611_1684085359327466880.jpg",
+            "submission_id": 264444,
+            "total_vote": 328,
+            "votes": {
+                "10": 62,
+                "11": 9,
+                "14": 15,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 153,
+                "22": 67,
+                "23": 1,
+                "24": 8,
+                "3": 0,
+                "4": 3,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 6,
+                "9": 1
+            }
+        },
+        "school_name": "ŞEHİT FERDİ TOSUN ORTAOKULU"
+    }
+]

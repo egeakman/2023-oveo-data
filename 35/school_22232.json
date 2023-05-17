@@ -1,0 +1,262 @@
+[
+    {
+        "ballot_box_number": 1128,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31468_cb_1093574834_1684080983139294387.jpg",
+            "submission_id": 185183,
+            "total_vote": 353,
+            "votes": {
+                "1": 65,
+                "2": 1,
+                "3": 276,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31468_mv_1083574834_1684087571732439819.jpg",
+            "submission_id": 338204,
+            "total_vote": 353,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 9,
+                "12": 8,
+                "13": 31,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 190,
+                "22": 47,
+                "23": 1,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 6,
+                "8": 0,
+                "9": 49
+            }
+        },
+        "school_name": "ŞEHİT POLİS FETHİ SEKİN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1123,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29969_cb_1093574829_1684082151189720340.jpg",
+            "submission_id": 196468,
+            "total_vote": 345,
+            "votes": {
+                "1": 28,
+                "2": 2,
+                "3": 305,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48266_mv_1083574829_1684090191935922611.jpg",
+            "submission_id": 414330,
+            "total_vote": 339,
+            "votes": {
+                "10": 1,
+                "11": 8,
+                "12": 6,
+                "13": 28,
+                "21": 215,
+                "22": 51,
+                "24": 5,
+                "3": 2,
+                "7": 2,
+                "9": 21
+            }
+        },
+        "school_name": "ŞEHİT POLİS FETHİ SEKİN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1126,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31468_cb_1093574832_1684085234700911648.jpg",
+            "submission_id": 260870,
+            "total_vote": 352,
+            "votes": {
+                "1": 52,
+                "2": 0,
+                "3": 279,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31468_mv_1083574832_1684085265291329045.jpg",
+            "submission_id": 261741,
+            "total_vote": 352,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 11,
+                "12": 11,
+                "13": 35,
+                "14": 0,
+                "15": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 185,
+                "22": 53,
+                "23": 0,
+                "24": 6,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 4,
+                "8": 3,
+                "9": 39
+            }
+        },
+        "school_name": "ŞEHİT POLİS FETHİ SEKİN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1127,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17109_cb_1093574833_1684089854786040714.jpg",
+            "submission_id": 405882,
+            "total_vote": 364,
+            "votes": {
+                "1": 64,
+                "2": 1,
+                "3": 289,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17109_cb_1093574833_1684088426361981974.jpg",
+            "submission_id": 365233,
+            "total_vote": 356,
+            "votes": {
+                "1": 1,
+                "11": 9,
+                "12": 14,
+                "13": 31,
+                "14": 1,
+                "15": 1,
+                "16": 1,
+                "19": 2,
+                "21": 189,
+                "22": 47,
+                "24": 7,
+                "5": 1,
+                "6": 3,
+                "7": 4,
+                "8": 1,
+                "9": 44
+            }
+        },
+        "school_name": "ŞEHİT POLİS FETHİ SEKİN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1124,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31468_cb_1093574830_1684085353596846181.jpg",
+            "submission_id": 264305,
+            "total_vote": 356,
+            "votes": {
+                "1": 51,
+                "2": 1,
+                "3": 293,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31468_mv_1083574830_1684085374714257192.jpg",
+            "submission_id": 264909,
+            "total_vote": 354,
+            "votes": {
+                "11": 6,
+                "12": 7,
+                "13": 30,
+                "20": 2,
+                "21": 210,
+                "22": 46,
+                "23": 1,
+                "24": 6,
+                "6": 1,
+                "7": 3,
+                "9": 42
+            }
+        },
+        "school_name": "ŞEHİT POLİS FETHİ SEKİN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1125,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48266_cb_1093574831_1684090402645667553.jpg",
+            "submission_id": 419102,
+            "total_vote": 362,
+            "votes": {
+                "1": 43,
+                "2": 2,
+                "3": 310,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31468_mv_1083574831_1684088954307730444.jpg",
+            "submission_id": 381189,
+            "total_vote": 361,
+            "votes": {
+                "10": 1,
+                "11": 6,
+                "12": 8,
+                "13": 39,
+                "15": 2,
+                "20": 1,
+                "21": 195,
+                "22": 69,
+                "24": 6,
+                "3": 2,
+                "8": 1,
+                "9": 31
+            }
+        },
+        "school_name": "ŞEHİT POLİS FETHİ SEKİN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1122,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31468_cb_1093574828_1684085152574978450.jpg",
+            "submission_id": 258450,
+            "total_vote": 346,
+            "votes": {
+                "1": 59,
+                "2": 1,
+                "3": 284,
+                "4": 2
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31468_mv_1083574828_1684085188608642381.jpg",
+            "submission_id": 259539,
+            "total_vote": 344,
+            "votes": {
+                "11": 4,
+                "12": 2,
+                "13": 9,
+                "15": 1,
+                "19": 2,
+                "21": 219,
+                "22": 51,
+                "23": 2,
+                "24": 2,
+                "5": 3,
+                "8": 3,
+                "9": 46
+            }
+        },
+        "school_name": "ŞEHİT POLİS FETHİ SEKİN İLKOKULU"
+    }
+]

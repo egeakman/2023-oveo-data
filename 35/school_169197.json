@@ -1,0 +1,87 @@
+[
+    {
+        "ballot_box_number": 1375,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25655_cb_1093583649_1684080606984059630.jpg",
+            "submission_id": 182654,
+            "total_vote": 351,
+            "votes": {
+                "1": 102,
+                "3": 233,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇİĞLİ FEN LİSESİ"
+    },
+    {
+        "ballot_box_number": 1374,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3f28bb21-ba75-4a13-aad9-860a83e12133-1684105585854613976.jpeg",
+            "submission_id": 663183,
+            "total_vote": 326,
+            "votes": {
+                "1": 95,
+                "3": 214,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇİĞLİ FEN LİSESİ"
+    },
+    {
+        "ballot_box_number": 1370,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "ÇİĞLİ FEN LİSESİ"
+    },
+    {
+        "ballot_box_number": 1371,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25655_cb_1093583648_1684082243203075560.jpg",
+            "submission_id": 197624,
+            "total_vote": 347,
+            "votes": {
+                "1": 103,
+                "3": 222,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇİĞLİ FEN LİSESİ"
+    },
+    {
+        "ballot_box_number": 1373,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "ÇİĞLİ FEN LİSESİ"
+    },
+    {
+        "ballot_box_number": 1368,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25655_cb_1093583642_1684080568451249553.jpg",
+            "submission_id": 182435,
+            "total_vote": 306,
+            "votes": {
+                "1": 109,
+                "2": 2,
+                "3": 175,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇİĞLİ FEN LİSESİ"
+    },
+    {
+        "ballot_box_number": 1369,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "ÇİĞLİ FEN LİSESİ"
+    },
+    {
+        "ballot_box_number": 1372,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "ÇİĞLİ FEN LİSESİ"
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "ballot_box_number": 1106,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "80.YIL SALİHLER ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1101,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/86584cbd-6779-4471-9c49-1b16633e5077-1684105127137302612.jpeg",
+            "submission_id": 579992,
+            "total_vote": 295,
+            "votes": {
+                "1": 68,
+                "2": 1,
+                "3": 224,
+                "4": 2
+            }
+        },
+        "mv_result": null,
+        "school_name": "80.YIL SALİHLER ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1097,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/b9b50386-3db2-4a3a-95b0-a5adc31232a2-1684105138201549118.jpeg",
+            "submission_id": 582042,
+            "total_vote": 308,
+            "votes": {
+                "1": 43,
+                "2": 1,
+                "3": 263,
+                "4": 1
+            }
+        },
+        "mv_result": null,
+        "school_name": "80.YIL SALİHLER ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1105,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21944_cb_1093859859_1684085605235021504.jpg",
+            "submission_id": 271970,
+            "total_vote": 317,
+            "votes": {
+                "1": 58,
+                "2": 2,
+                "3": 257
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21944_mv_1083859859_1684087336673190350.jpg",
+            "submission_id": 330576,
+            "total_vote": 311,
+            "votes": {
+                "10": 1,
+                "11": 12,
+                "12": 55,
+                "13": 6,
+                "21": 159,
+                "22": 32,
+                "23": 1,
+                "24": 1,
+                "5": 1,
+                "7": 3,
+                "8": 2,
+                "9": 38
+            }
+        },
+        "school_name": "80.YIL SALİHLER ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1103,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/b7263c1b-8bdf-47d6-bcfc-852b6ca2ca2c-1684105124661722548.jpeg",
+            "submission_id": 578963,
+            "total_vote": 299,
+            "votes": {
+                "1": 55,
+                "3": 238,
+                "4": 6
+            }
+        },
+        "mv_result": null,
+        "school_name": "80.YIL SALİHLER ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1100,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c63ce09b-8280-42d6-bbfc-6996fc7edda6-1684105128770127169.jpeg",
+            "submission_id": 580092,
+            "total_vote": 302,
+            "votes": {
+                "1": 69,
+                "2": 0,
+                "3": 229,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/740103df-1908-4997-ad88-03e7d8dec1c7-1684105111995000673.jpeg",
+            "submission_id": 574064,
+            "total_vote": 295,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 8,
+                "12": 45,
+                "13": 18,
+                "14": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 9,
+                "20": 0,
+                "21": 142,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 2,
+                "7": 9,
+                "8": 1,
+                "9": 51
+            }
+        },
+        "school_name": "80.YIL SALİHLER ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1099,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/eaccb1b3-f059-4bb2-8002-1cee6618f9bc-1684105130347134380.jpeg",
+            "submission_id": 580505,
+            "total_vote": 307,
+            "votes": {
+                "1": 55,
+                "2": 1,
+                "3": 250,
+                "4": 1
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source1-secim-images.oyveotesi.org/raw/1002646_mv_3859713_1684091921.jpeg",
+            "submission_id": 447992,
+            "total_vote": 302,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 16,
+                "12": 42,
+                "13": 15,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 166,
+                "22": 26,
+                "23": 0,
+                "24": 0,
+                "3": 1,
+                "4": 0,
+                "6": 0,
+                "7": 1,
+                "8": 1,
+                "9": 34
+            }
+        },
+        "school_name": "80.YIL SALİHLER ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1098,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ce9ed439-59eb-48bf-9412-29db5f1ad5a6-1684105132508575384.jpeg",
+            "submission_id": 580930,
+            "total_vote": 298,
+            "votes": {
+                "1": 35,
+                "3": 260,
+                "4": 3
+            }
+        },
+        "mv_result": null,
+        "school_name": "80.YIL SALİHLER ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1104,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e39ea7b9-a4e3-4d7e-9ec0-fd1489eca1af-1684105123736751464.jpeg",
+            "submission_id": 578462,
+            "total_vote": 297,
+            "votes": {
+                "1": 38,
+                "2": 3,
+                "3": 248,
+                "4": 8
+            }
+        },
+        "mv_result": null,
+        "school_name": "80.YIL SALİHLER ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1102,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4d82cfd2-824e-4edb-809d-520050188034-1684105111688756538.jpeg",
+            "submission_id": 573580,
+            "total_vote": 303,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 8,
+                "12": 34,
+                "13": 16,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 163,
+                "22": 28,
+                "23": 1,
+                "24": 2,
+                "3": 1,
+                "4": 0,
+                "5": 3,
+                "6": 2,
+                "7": 3,
+                "8": 0,
+                "9": 40
+            }
+        },
+        "school_name": "80.YIL SALİHLER ORTAOKULU"
+    }
+]

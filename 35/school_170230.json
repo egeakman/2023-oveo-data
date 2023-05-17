@@ -1,0 +1,184 @@
+[
+    {
+        "ballot_box_number": 1054,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28360_cb_1093797349_1684085461949662878.jpg",
+            "submission_id": 267446,
+            "total_vote": 321,
+            "votes": {
+                "1": 111,
+                "3": 182,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28360_mv_1083797349_1684086697495402911.jpg",
+            "submission_id": 308423,
+            "total_vote": 316,
+            "votes": {
+                "10": 10,
+                "11": 37,
+                "12": 1,
+                "13": 6,
+                "15": 1,
+                "20": 1,
+                "21": 145,
+                "22": 32,
+                "23": 1,
+                "24": 9,
+                "6": 1,
+                "7": 3,
+                "8": 2,
+                "9": 67
+            }
+        },
+        "school_name": "BAĞYURDU KAZIMDİRİK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1056,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28360_cb_1093797351_1684086960650539457.jpg",
+            "submission_id": 317576,
+            "total_vote": 330,
+            "votes": {
+                "1": 115,
+                "2": 3,
+                "3": 192,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28360_mv_1083797351_1684086862197996729.jpg",
+            "submission_id": 314187,
+            "total_vote": 322,
+            "votes": {
+                "10": 7,
+                "11": 30,
+                "13": 3,
+                "18": 1,
+                "2": 1,
+                "21": 144,
+                "22": 51,
+                "23": 1,
+                "24": 3,
+                "7": 4,
+                "8": 1,
+                "9": 76
+            }
+        },
+        "school_name": "BAĞYURDU KAZIMDİRİK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1055,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28360_cb_1093797350_1684085153553109152.jpg",
+            "submission_id": 258477,
+            "total_vote": 322,
+            "votes": {
+                "1": 110,
+                "2": 1,
+                "3": 199,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28360_mv_1083797350_1684087729235744617.jpg",
+            "submission_id": 343356,
+            "total_vote": 316,
+            "votes": {
+                "10": 1,
+                "11": 24,
+                "12": 1,
+                "13": 4,
+                "19": 1,
+                "21": 156,
+                "22": 32,
+                "23": 1,
+                "24": 9,
+                "5": 1,
+                "7": 2,
+                "8": 2,
+                "9": 82
+            }
+        },
+        "school_name": "BAĞYURDU KAZIMDİRİK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1057,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28360_cb_1093797352_1684083073678808976.jpg",
+            "submission_id": 209953,
+            "total_vote": 326,
+            "votes": {
+                "1": 117,
+                "2": 1,
+                "3": 187,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28360_mv_1083797352_1684085328465523083.jpg",
+            "submission_id": 263552,
+            "total_vote": 321,
+            "votes": {
+                "10": 3,
+                "11": 39,
+                "13": 15,
+                "19": 2,
+                "21": 137,
+                "22": 38,
+                "24": 7,
+                "6": 3,
+                "7": 3,
+                "9": 74
+            }
+        },
+        "school_name": "BAĞYURDU KAZIMDİRİK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1053,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28360_cb_1093797348_1684082402581965357.jpg",
+            "submission_id": 199681,
+            "total_vote": 284,
+            "votes": {
+                "1": 93,
+                "2": 2,
+                "3": 184,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28360_mv_1083797348_1684086408780717338.jpg",
+            "submission_id": 298338,
+            "total_vote": 288,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 28,
+                "12": 2,
+                "13": 9,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 2,
+                "20": 0,
+                "21": 164,
+                "22": 14,
+                "23": 0,
+                "24": 0,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 62
+            }
+        },
+        "school_name": "BAĞYURDU KAZIMDİRİK İLKOKULU"
+    }
+]

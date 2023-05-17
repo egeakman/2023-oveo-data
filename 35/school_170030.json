@@ -1,0 +1,578 @@
+[
+    {
+        "ballot_box_number": 1338,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/48372_bulk_999999999_1684089297270680361.jpg",
+            "submission_id": 390835,
+            "total_vote": 340,
+            "votes": {
+                "1": 41,
+                "2": 1,
+                "3": 282,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/93ef96dd-6160-414d-8e60-1fa600ea7903-1684105178444348191.jpg",
+            "submission_id": 589997,
+            "total_vote": 333,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 12,
+                "12": 15,
+                "13": 45,
+                "15": 1,
+                "18": 3,
+                "20": 1,
+                "21": 170,
+                "22": 49,
+                "23": 1,
+                "24": 4,
+                "7": 2,
+                "9": 27
+            }
+        },
+        "school_name": "EVİN LEBLEBİCİOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1341,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16249_cb_1093864975_1684090276914013673.jpg",
+            "submission_id": 416354,
+            "total_vote": 342,
+            "votes": {
+                "1": 37,
+                "2": 2,
+                "3": 296,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/48372_bulk_999999999_1684085847882632712.jpg",
+            "submission_id": 280050,
+            "total_vote": 339,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 9,
+                "12": 11,
+                "13": 42,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 202,
+                "22": 32,
+                "23": 0,
+                "24": 7,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 2,
+                "8": 0,
+                "9": 27
+            }
+        },
+        "school_name": "EVİN LEBLEBİCİOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1334,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68517_cb_1093864928_1684090358722588495.jpg",
+            "submission_id": 418186,
+            "total_vote": 331,
+            "votes": {
+                "1": 65,
+                "3": 248,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16249_mv_1083864928_1684090342522098473.jpg",
+            "submission_id": 417820,
+            "total_vote": 329,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 11,
+                "12": 9,
+                "13": 35,
+                "14": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 160,
+                "22": 43,
+                "23": 0,
+                "24": 9,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 2,
+                "8": 2,
+                "9": 54
+            }
+        },
+        "school_name": "EVİN LEBLEBİCİOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1335,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16387_cb_1093864929_1684092779863239088.jpg",
+            "submission_id": 460956,
+            "total_vote": 321,
+            "votes": {
+                "1": 47,
+                "2": 0,
+                "3": 259,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16387_mv_1083864929_1684092754184370990.jpg",
+            "submission_id": 460600,
+            "total_vote": 311,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 5,
+                "12": 12,
+                "13": 39,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 164,
+                "22": 40,
+                "23": 1,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 5,
+                "8": 1,
+                "9": 33
+            }
+        },
+        "school_name": "EVİN LEBLEBİCİOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1336,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16249_cb_1093864930_1684090162189569279.jpg",
+            "submission_id": 413660,
+            "total_vote": 334,
+            "votes": {
+                "1": 40,
+                "2": 0,
+                "3": 277,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/68517_bulk_999999999_1684130997901155490.jpg",
+            "submission_id": 1012115,
+            "total_vote": 330,
+            "votes": {
+                "11": 7,
+                "12": 19,
+                "13": 30,
+                "15": 1,
+                "18": 1,
+                "19": 1,
+                "21": 189,
+                "22": 32,
+                "24": 16,
+                "3": 1,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 30
+            }
+        },
+        "school_name": "EVİN LEBLEBİCİOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1337,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/48372_bulk_999999999_1684089195994044391.jpg",
+            "submission_id": 388043,
+            "total_vote": 334,
+            "votes": {
+                "1": 48,
+                "2": 1,
+                "3": 271,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68517_mv_1083864931_1684091909478433234.jpg",
+            "submission_id": 447738,
+            "total_vote": 330,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 5,
+                "12": 12,
+                "13": 43,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 162,
+                "22": 43,
+                "23": 1,
+                "24": 8,
+                "3": 0,
+                "4": 1,
+                "5": 1,
+                "6": 1,
+                "7": 7,
+                "8": 1,
+                "9": 41
+            }
+        },
+        "school_name": "EVİN LEBLEBİCİOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1339,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68517_cb_1093864933_1684089932643307648.jpg",
+            "submission_id": 407961,
+            "total_vote": 332,
+            "votes": {
+                "1": 47,
+                "2": 4,
+                "3": 272,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/16249_bulk_999999999_1684090787276032377.jpeg",
+            "submission_id": 427432,
+            "total_vote": 370,
+            "votes": {
+                "1": 5,
+                "10": 2,
+                "11": 5,
+                "12": 7,
+                "13": 37,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 94,
+                "2": 0,
+                "21": 156,
+                "22": 5,
+                "23": 0,
+                "24": 9,
+                "3": 0,
+                "4": 8,
+                "5": 2,
+                "6": 2,
+                "7": 2,
+                "8": 2,
+                "9": 33
+            }
+        },
+        "school_name": "EVİN LEBLEBİCİOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1342,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/76835_cb_1093864976_1684084347309475481.jpg",
+            "submission_id": 236677,
+            "total_vote": 325,
+            "votes": {
+                "1": 46,
+                "2": 2,
+                "3": 262,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16249_mv_1083864976_1684090214503627351.jpg",
+            "submission_id": 414872,
+            "total_vote": 325,
+            "votes": {
+                "1": 1,
+                "11": 6,
+                "12": 6,
+                "13": 26,
+                "19": 4,
+                "21": 192,
+                "22": 41,
+                "23": 1,
+                "24": 4,
+                "4": 1,
+                "5": 1,
+                "6": 2,
+                "7": 2,
+                "9": 38
+            }
+        },
+        "school_name": "EVİN LEBLEBİCİOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1331,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68517_cb_1093864925_1684090452709033230.jpg",
+            "submission_id": 420204,
+            "total_vote": 308,
+            "votes": {
+                "1": 44,
+                "2": 0,
+                "3": 259,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68517_mv_1083864925_1684090477808251223.jpg",
+            "submission_id": 420810,
+            "total_vote": 303,
+            "votes": {
+                "10": 2,
+                "11": 12,
+                "12": 13,
+                "13": 8,
+                "14": 0,
+                "15": 3,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "20": 0,
+                "21": 205,
+                "22": 25,
+                "23": 0,
+                "24": 5,
+                "7": 3,
+                "8": 0,
+                "9": 26
+            }
+        },
+        "school_name": "EVİN LEBLEBİCİOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1344,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48372_cb_1093864978_1684081228553831989.jpg",
+            "submission_id": 187055,
+            "total_vote": 322,
+            "votes": {
+                "1": 50,
+                "2": 1,
+                "3": 259,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "EVİN LEBLEBİCİOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1332,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68517_cb_1093864926_1684090177606395541.jpg",
+            "submission_id": 414011,
+            "total_vote": 305,
+            "votes": {
+                "1": 36,
+                "2": 1,
+                "3": 265,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68517_mv_1083864926_1684090222555069512.jpg",
+            "submission_id": 415096,
+            "total_vote": 301,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 7,
+                "12": 4,
+                "13": 9,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 215,
+                "22": 34,
+                "23": 0,
+                "24": 1,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 0,
+                "9": 27
+            }
+        },
+        "school_name": "EVİN LEBLEBİCİOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1330,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16249_cb_1093864924_1684090399361803013.jpg",
+            "submission_id": 419013,
+            "total_vote": 293,
+            "votes": {
+                "1": 44,
+                "2": 1,
+                "3": 244,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/51e5c840-9d2a-4135-bef7-6dc36e2a657f-1684105184326422107.jpg",
+            "submission_id": 591589,
+            "total_vote": 288,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 0,
+                "12": 10,
+                "13": 14,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 176,
+                "22": 35,
+                "23": 1,
+                "24": 2,
+                "3": 4,
+                "4": 1,
+                "5": 0,
+                "6": 2,
+                "7": 3,
+                "8": 1,
+                "9": 37
+            }
+        },
+        "school_name": "EVİN LEBLEBİCİOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1340,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16249_cb_1093864934_1684090028545611945.jpg",
+            "submission_id": 410444,
+            "total_vote": 336,
+            "votes": {
+                "1": 52,
+                "2": 0,
+                "3": 272,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "EVİN LEBLEBİCİOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1343,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/68517_bulk_999999999_1684091167435854538.jpg",
+            "submission_id": 435232,
+            "total_vote": 338,
+            "votes": {
+                "1": 51,
+                "2": 0,
+                "3": 274,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/48372_bulk_999999999_1684089123016478026.jpg",
+            "submission_id": 385953,
+            "total_vote": 335,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 9,
+                "12": 10,
+                "13": 33,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 0,
+                "21": 169,
+                "22": 51,
+                "23": 2,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 8,
+                "8": 1,
+                "9": 46
+            }
+        },
+        "school_name": "EVİN LEBLEBİCİOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1333,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16249_cb_1093864927_1684090371021786589.jpg",
+            "submission_id": 418437,
+            "total_vote": 326,
+            "votes": {
+                "1": 35,
+                "2": 1,
+                "3": 278,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68517_mv_1083864927_1684090382293488157.jpg",
+            "submission_id": 418663,
+            "total_vote": 320,
+            "votes": {
+                "11": 4,
+                "12": 9,
+                "13": 42,
+                "14": 2,
+                "17": 1,
+                "21": 175,
+                "22": 48,
+                "24": 4,
+                "3": 1,
+                "6": 1,
+                "7": 4,
+                "8": 1,
+                "9": 28
+            }
+        },
+        "school_name": "EVİN LEBLEBİCİOĞLU ORTAOKULU"
+    }
+]

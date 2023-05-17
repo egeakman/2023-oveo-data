@@ -1,0 +1,63 @@
+[
+    {
+        "ballot_box_number": 1170,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/65543_bulk_999999999_1684082785380326289.jpg",
+            "submission_id": 205204,
+            "total_vote": 247,
+            "votes": {
+                "1": 140,
+                "2": 2,
+                "3": 93,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/65543_bulk_999999999_1684084707185261587.jpg",
+            "submission_id": 246083,
+            "total_vote": 226,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 28,
+                "12": 1,
+                "13": 3,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 2,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 0,
+                "21": 57,
+                "22": 31,
+                "23": 2,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 0,
+                "8": 2,
+                "9": 91
+            }
+        },
+        "school_name": "KİRELİ AHMET TANER KIŞLALI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1171,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/65543_bulk_999999999_1684091394859883481.jpg",
+            "submission_id": 439484,
+            "total_vote": 255,
+            "votes": {
+                "1": 142,
+                "3": 92,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "KİRELİ AHMET TANER KIŞLALI ORTAOKULU"
+    }
+]

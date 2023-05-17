@@ -1,0 +1,33 @@
+[
+    {
+        "ballot_box_number": 1059,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0952f5bb-f28b-4fe2-b4c4-ba1bac04f72b-1684106146493290413.jpg",
+            "submission_id": 744571,
+            "total_vote": 202,
+            "votes": {
+                "1": 79,
+                "2": 0,
+                "3": 114,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2a0de1bf-bf50-45e1-bf85-ab0b76a35b9a-1684106128628476049.jpg",
+            "submission_id": 741907,
+            "total_vote": 200,
+            "votes": {
+                "10": 3,
+                "11": 18,
+                "15": 3,
+                "21": 104,
+                "22": 11,
+                "23": 1,
+                "24": 2,
+                "7": 2,
+                "9": 56
+            }
+        },
+        "school_name": "ESKİ İZCİ OKULU"
+    }
+]

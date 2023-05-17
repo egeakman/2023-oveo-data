@@ -1,0 +1,381 @@
+[
+    {
+        "ballot_box_number": 1163,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19239_cb_1093799037_1684085864942931148.jpg",
+            "submission_id": 280662,
+            "total_vote": 341,
+            "votes": {
+                "1": 155,
+                "2": 2,
+                "3": 164,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "FERZENT BULUM AND.LİSESİ EK BİNA"
+    },
+    {
+        "ballot_box_number": 1171,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19239_cb_1093799045_1684083136573731264.jpg",
+            "submission_id": 211023,
+            "total_vote": 337,
+            "votes": {
+                "1": 160,
+                "2": 2,
+                "3": 162,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19239_mv_1083799045_1684083843273894116.jpg",
+            "submission_id": 224956,
+            "total_vote": 327,
+            "votes": {
+                "10": 7,
+                "11": 30,
+                "12": 17,
+                "13": 20,
+                "21": 96,
+                "22": 24,
+                "23": 1,
+                "24": 6,
+                "3": 1,
+                "6": 1,
+                "7": 3,
+                "8": 3,
+                "9": 118
+            }
+        },
+        "school_name": "FERZENT BULUM AND.LİSESİ EK BİNA"
+    },
+    {
+        "ballot_box_number": 1168,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/19239_bulk_999999999_1684088214483514183.jpg",
+            "submission_id": 358696,
+            "total_vote": 338,
+            "votes": {
+                "1": 195,
+                "2": 1,
+                "3": 125,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19239_mv_1083799042_1684087971260735896.jpg",
+            "submission_id": 350960,
+            "total_vote": 334,
+            "votes": {
+                "1": 0,
+                "10": 15,
+                "11": 42,
+                "12": 20,
+                "13": 0,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 4,
+                "20": 0,
+                "21": 84,
+                "22": 27,
+                "23": 0,
+                "24": 10,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 6,
+                "9": 122
+            }
+        },
+        "school_name": "FERZENT BULUM AND.LİSESİ EK BİNA"
+    },
+    {
+        "ballot_box_number": 1164,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19239_cb_1093799038_1684082899340841099.jpg",
+            "submission_id": 207025,
+            "total_vote": 331,
+            "votes": {
+                "1": 173,
+                "2": 0,
+                "3": 135,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19239_mv_1083799038_1684082925523762304.jpg",
+            "submission_id": 207489,
+            "total_vote": 328,
+            "votes": {
+                "10": 17,
+                "11": 36,
+                "12": 15,
+                "13": 11,
+                "14": 2,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "20": 0,
+                "21": 86,
+                "22": 27,
+                "23": 1,
+                "24": 13,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 1,
+                "9": 113
+            }
+        },
+        "school_name": "FERZENT BULUM AND.LİSESİ EK BİNA"
+    },
+    {
+        "ballot_box_number": 1170,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19239_cb_1093799044_1684085624031943042.jpg",
+            "submission_id": 272549,
+            "total_vote": 338,
+            "votes": {
+                "1": 177,
+                "2": 1,
+                "3": 136,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19239_mv_1083799044_1684085716545927137.jpg",
+            "submission_id": 275626,
+            "total_vote": 331,
+            "votes": {
+                "1": 1,
+                "10": 8,
+                "11": 43,
+                "12": 15,
+                "13": 10,
+                "14": 2,
+                "17": 1,
+                "19": 1,
+                "21": 72,
+                "22": 33,
+                "24": 11,
+                "3": 1,
+                "4": 1,
+                "6": 3,
+                "7": 9,
+                "9": 120
+            }
+        },
+        "school_name": "FERZENT BULUM AND.LİSESİ EK BİNA"
+    },
+    {
+        "ballot_box_number": 1162,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19239_cb_1093799036_1684089446376266694.jpg",
+            "submission_id": 394741,
+            "total_vote": 303,
+            "votes": {
+                "1": 144,
+                "3": 144,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19239_mv_1083799036_1684089641743057369.jpg",
+            "submission_id": 400185,
+            "total_vote": 295,
+            "votes": {
+                "10": 8,
+                "11": 22,
+                "12": 21,
+                "13": 5,
+                "20": 1,
+                "21": 89,
+                "22": 22,
+                "23": 4,
+                "24": 6,
+                "3": 2,
+                "4": 1,
+                "5": 1,
+                "6": 1,
+                "7": 4,
+                "8": 6,
+                "9": 102
+            }
+        },
+        "school_name": "FERZENT BULUM AND.LİSESİ EK BİNA"
+    },
+    {
+        "ballot_box_number": 1166,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19239_cb_1093799040_1684089002586814216.jpg",
+            "submission_id": 382616,
+            "total_vote": 341,
+            "votes": {
+                "1": 172,
+                "2": 2,
+                "3": 140,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19239_mv_1083799040_1684089344687764769.jpg",
+            "submission_id": 391997,
+            "total_vote": 334,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 46,
+                "12": 15,
+                "13": 2,
+                "14": 2,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 1,
+                "19": 0,
+                "2": 1,
+                "20": 1,
+                "21": 92,
+                "22": 34,
+                "23": 2,
+                "24": 17,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 2,
+                "8": 2,
+                "9": 112
+            }
+        },
+        "school_name": "FERZENT BULUM AND.LİSESİ EK BİNA"
+    },
+    {
+        "ballot_box_number": 1167,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19239_mv_1083799041_1684086128098789750.jpg",
+            "submission_id": 289113,
+            "total_vote": 341,
+            "votes": {
+                "1": 163,
+                "2": 1,
+                "3": 154,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19239_cb_1093799041_1684086053030604875.jpg",
+            "submission_id": 286692,
+            "total_vote": 336,
+            "votes": {
+                "10": 8,
+                "11": 42,
+                "12": 11,
+                "13": 14,
+                "15": 1,
+                "20": 2,
+                "21": 99,
+                "22": 30,
+                "23": 1,
+                "24": 10,
+                "5": 1,
+                "7": 6,
+                "8": 2,
+                "9": 109
+            }
+        },
+        "school_name": "FERZENT BULUM AND.LİSESİ EK BİNA"
+    },
+    {
+        "ballot_box_number": 1165,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19239_mv_1083799039_1684085182253951305.jpg",
+            "submission_id": 259356,
+            "total_vote": 336,
+            "votes": {
+                "1": 151,
+                "2": 2,
+                "3": 155,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19239_cb_1093799039_1684085164164453095.jpg",
+            "submission_id": 258781,
+            "total_vote": 329,
+            "votes": {
+                "10": 10,
+                "11": 44,
+                "12": 19,
+                "13": 11,
+                "19": 1,
+                "2": 1,
+                "21": 84,
+                "22": 36,
+                "23": 1,
+                "24": 11,
+                "6": 3,
+                "7": 2,
+                "8": 3,
+                "9": 103
+            }
+        },
+        "school_name": "FERZENT BULUM AND.LİSESİ EK BİNA"
+    },
+    {
+        "ballot_box_number": 1169,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19239_cb_1093799043_1684084071753192588.jpg",
+            "submission_id": 229708,
+            "total_vote": 350,
+            "votes": {
+                "1": 168,
+                "2": 1,
+                "3": 164,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19239_mv_1083799043_1684085006319918878.jpg",
+            "submission_id": 254337,
+            "total_vote": 346,
+            "votes": {
+                "1": 0,
+                "10": 17,
+                "11": 31,
+                "12": 15,
+                "13": 6,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 109,
+                "22": 33,
+                "23": 0,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 119
+            }
+        },
+        "school_name": "FERZENT BULUM AND.LİSESİ EK BİNA"
+    }
+]

@@ -1,0 +1,684 @@
+[
+    {
+        "ballot_box_number": 1006,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21740_cb_1093864287_1684091998400596155.jpg",
+            "submission_id": 449273,
+            "total_vote": 339,
+            "votes": {
+                "1": 38,
+                "2": 1,
+                "3": 293,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21740_mv_1083864287_1684092028145867334.jpg",
+            "submission_id": 449802,
+            "total_vote": 340,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 6,
+                "12": 11,
+                "13": 37,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 210,
+                "22": 35,
+                "23": 0,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 1,
+                "9": 29
+            }
+        },
+        "school_name": "KARŞIYAKA SUZAN DİVRİK MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1007,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/59788_cb_1093864288_1684079831939722414.jpg",
+            "submission_id": 178541,
+            "total_vote": 349,
+            "votes": {
+                "1": 31,
+                "3": 311,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "KARŞIYAKA SUZAN DİVRİK MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1015,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16445_cb_1093864316_1684087010343254434.jpg",
+            "submission_id": 319308,
+            "total_vote": 353,
+            "votes": {
+                "1": 52,
+                "2": 1,
+                "3": 285,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16445_mv_1083864316_1684087039994110116.jpg",
+            "submission_id": 320366,
+            "total_vote": 351,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 6,
+                "12": 8,
+                "13": 42,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 0,
+                "21": 191,
+                "22": 45,
+                "23": 2,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 0,
+                "9": 40
+            }
+        },
+        "school_name": "KARŞIYAKA SUZAN DİVRİK MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1003,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21648_cb_1093864284_1684093298289978651.jpg",
+            "submission_id": 468173,
+            "total_vote": 295,
+            "votes": {
+                "1": 31,
+                "3": 263,
+                "4": 1
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21648_mv_1083864284_1684093405841847594.jpg",
+            "submission_id": 469471,
+            "total_vote": 297,
+            "votes": {
+                "10": 1,
+                "11": 5,
+                "12": 2,
+                "13": 11,
+                "15": 2,
+                "19": 1,
+                "21": 222,
+                "22": 28,
+                "3": 2,
+                "6": 1,
+                "7": 3,
+                "9": 19
+            }
+        },
+        "school_name": "KARŞIYAKA SUZAN DİVRİK MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1002,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21648_cb_1093864283_1684093200367836019.jpg",
+            "submission_id": 466778,
+            "total_vote": 338,
+            "votes": {
+                "1": 30,
+                "2": 1,
+                "3": 304,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21648_mv_1083864283_1684093860318763102.jpg",
+            "submission_id": 475628,
+            "total_vote": 334,
+            "votes": {
+                "10": 1,
+                "11": 4,
+                "12": 3,
+                "13": 12,
+                "21": 263,
+                "22": 19,
+                "3": 1,
+                "5": 1,
+                "6": 2,
+                "7": 3,
+                "9": 25
+            }
+        },
+        "school_name": "KARŞIYAKA SUZAN DİVRİK MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1012,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21741_mv_1083864293_1684089356627903047.jpg",
+            "submission_id": 392296,
+            "total_vote": 343,
+            "votes": {
+                "1": 33,
+                "2": 1,
+                "3": 297,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/98463efd-19e9-44d4-8bf0-ce100dcaa2b0-1684105388086151352.jpg",
+            "submission_id": 629377,
+            "total_vote": 333,
+            "votes": {
+                "1": 1,
+                "11": 6,
+                "12": 10,
+                "13": 62,
+                "21": 179,
+                "22": 38,
+                "23": 1,
+                "24": 6,
+                "3": 2,
+                "7": 3,
+                "9": 25
+            }
+        },
+        "school_name": "KARŞIYAKA SUZAN DİVRİK MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1009,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21648_cb_1093864290_1684136871974557045.jpeg",
+            "submission_id": 1016888,
+            "total_vote": 343,
+            "votes": {
+                "1": 36,
+                "2": 0,
+                "3": 294,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21648_mv_1083864290_1684133452392457085.jpeg",
+            "submission_id": 1013373,
+            "total_vote": 343,
+            "votes": {
+                "11": 4,
+                "12": 7,
+                "13": 39,
+                "21": 208,
+                "22": 41,
+                "24": 7,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 33
+            }
+        },
+        "school_name": "KARŞIYAKA SUZAN DİVRİK MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1011,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/6410_cb_1093864292_1684086463685860093.jpg",
+            "submission_id": 300197,
+            "total_vote": 352,
+            "votes": {
+                "1": 28,
+                "2": 1,
+                "3": 317,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/6410_mv_1083864292_1684086502862935074.jpg",
+            "submission_id": 301585,
+            "total_vote": 350,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 6,
+                "12": 5,
+                "13": 46,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 223,
+                "22": 40,
+                "23": 1,
+                "24": 6,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 0,
+                "8": 0,
+                "9": 19
+            }
+        },
+        "school_name": "KARŞIYAKA SUZAN DİVRİK MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1013,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41844_cb_1093864294_1684088184607773168.jpg",
+            "submission_id": 357820,
+            "total_vote": 354,
+            "votes": {
+                "1": 28,
+                "2": 0,
+                "3": 315,
+                "4": 11
+            }
+        },
+        "mv_result": null,
+        "school_name": "KARŞIYAKA SUZAN DİVRİK MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1017,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/bcaadce6-9518-41d2-8104-32989d1be937-1684105261890666728.jpg",
+            "submission_id": 607021,
+            "total_vote": 338,
+            "votes": {
+                "1": 18,
+                "2": 2,
+                "3": 313,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21739_mv_1083864318_1684123815768321673.jpg",
+            "submission_id": 1010740,
+            "total_vote": 338,
+            "votes": {
+                "11": 3,
+                "12": 12,
+                "13": 51,
+                "19": 1,
+                "20": 2,
+                "21": 209,
+                "22": 35,
+                "23": 1,
+                "24": 2,
+                "3": 2,
+                "5": 1,
+                "6": 1,
+                "7": 6,
+                "9": 12
+            }
+        },
+        "school_name": "KARŞIYAKA SUZAN DİVRİK MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1018,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19655_cb_1093864319_1684090431937464311.jpg",
+            "submission_id": 419738,
+            "total_vote": 342,
+            "votes": {
+                "1": 30,
+                "2": 4,
+                "3": 303,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19655_mv_1083864319_1684090493380245534.jpg",
+            "submission_id": 421215,
+            "total_vote": 337,
+            "votes": {
+                "11": 7,
+                "12": 19,
+                "13": 43,
+                "21": 202,
+                "22": 34,
+                "23": 1,
+                "24": 3,
+                "5": 2,
+                "6": 1,
+                "7": 4,
+                "9": 21
+            }
+        },
+        "school_name": "KARŞIYAKA SUZAN DİVRİK MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1001,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21648_cb_1093864282_1684092223829469641.jpg",
+            "submission_id": 452931,
+            "total_vote": 303,
+            "votes": {
+                "1": 31,
+                "2": 1,
+                "3": 267,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21648_mv_1083864282_1684093002591107648.jpg",
+            "submission_id": 463943,
+            "total_vote": 298,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 1,
+                "12": 6,
+                "13": 15,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 215,
+                "22": 27,
+                "23": 0,
+                "24": 2,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 1,
+                "8": 1,
+                "9": 25
+            }
+        },
+        "school_name": "KARŞIYAKA SUZAN DİVRİK MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1008,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19650_cb_1093864289_1684085126455886925.jpg",
+            "submission_id": 257668,
+            "total_vote": 343,
+            "votes": {
+                "1": 24,
+                "2": 2,
+                "3": 307,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19650_cb_1093864289_1684085056092967973.jpg",
+            "submission_id": 255781,
+            "total_vote": 343,
+            "votes": {
+                "1": 1,
+                "11": 2,
+                "12": 11,
+                "13": 43,
+                "15": 1,
+                "21": 210,
+                "22": 45,
+                "24": 5,
+                "3": 1,
+                "4": 1,
+                "7": 3,
+                "9": 20
+            }
+        },
+        "school_name": "KARŞIYAKA SUZAN DİVRİK MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1014,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31856_cb_1093864315_1684088832650180412.jpg",
+            "submission_id": 377562,
+            "total_vote": 343,
+            "votes": {
+                "1": 26,
+                "2": 2,
+                "3": 305,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31856_mv_1083864285_1684088856211951933.jpg",
+            "submission_id": 378230,
+            "total_vote": 343,
+            "votes": {
+                "11": 4,
+                "12": 3,
+                "13": 45,
+                "2": 1,
+                "21": 225,
+                "22": 34,
+                "24": 8,
+                "3": 2,
+                "9": 21
+            }
+        },
+        "school_name": "KARŞIYAKA SUZAN DİVRİK MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1019,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/72205_cb_1093864320_1684090129865456886.jpg",
+            "submission_id": 412856,
+            "total_vote": 350,
+            "votes": {
+                "1": 28,
+                "2": 0,
+                "3": 316,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f773bbcc-68d5-4a82-9a14-fcb485935bd8-1684105606548973024.jpg",
+            "submission_id": 666331,
+            "total_vote": 351,
+            "votes": {
+                "10": 1,
+                "11": 2,
+                "12": 5,
+                "13": 50,
+                "20": 1,
+                "21": 234,
+                "22": 28,
+                "24": 3,
+                "7": 2,
+                "9": 25
+            }
+        },
+        "school_name": "KARŞIYAKA SUZAN DİVRİK MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1010,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/56840_cb_1093864291_1684095268306700503.jpeg",
+            "submission_id": 501396,
+            "total_vote": 346,
+            "votes": {
+                "1": 32,
+                "2": 1,
+                "3": 307,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/56840_mv_1083864291_1684092346482472261.jpg",
+            "submission_id": 454881,
+            "total_vote": 351,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 3,
+                "12": 13,
+                "13": 52,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 216,
+                "22": 29,
+                "23": 0,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 0,
+                "9": 28
+            }
+        },
+        "school_name": "KARŞIYAKA SUZAN DİVRİK MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1004,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21901_cb_1093864282_1684081255916948436.jpg",
+            "submission_id": 187266,
+            "total_vote": 305,
+            "votes": {
+                "1": 19,
+                "2": 2,
+                "3": 281,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21648_mv_1083864285_1684133702452147549.jpeg",
+            "submission_id": 1013847,
+            "total_vote": 296,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 0,
+                "12": 2,
+                "13": 14,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 5,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 249,
+                "22": 1,
+                "23": 0,
+                "24": 1,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 0,
+                "9": 21
+            }
+        },
+        "school_name": "KARŞIYAKA SUZAN DİVRİK MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1016,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16449_cb_1093864317_1684078834133903818.jpg",
+            "submission_id": 175266,
+            "total_vote": 353,
+            "votes": {
+                "1": 25,
+                "2": 1,
+                "3": 323,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16449_mv_1083864317_1684083584108889905.jpg",
+            "submission_id": 219444,
+            "total_vote": 351,
+            "votes": {
+                "11": 1,
+                "12": 15,
+                "13": 30,
+                "15": 1,
+                "19": 2,
+                "21": 238,
+                "22": 40,
+                "23": 1,
+                "24": 3,
+                "9": 20
+            }
+        },
+        "school_name": "KARŞIYAKA SUZAN DİVRİK MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1005,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21648_cb_1093864286_1684093972502891325.jpg",
+            "submission_id": 479816,
+            "total_vote": 334,
+            "votes": {
+                "1": 36,
+                "2": 1,
+                "3": 290,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21648_mv_1083864286_1684093776285120050.jpg",
+            "submission_id": 474104,
+            "total_vote": 327,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 4,
+                "12": 2,
+                "13": 28,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 226,
+                "22": 28,
+                "23": 0,
+                "24": 3,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 1,
+                "9": 26
+            }
+        },
+        "school_name": "KARŞIYAKA SUZAN DİVRİK MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    }
+]

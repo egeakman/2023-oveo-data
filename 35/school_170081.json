@@ -1,0 +1,78 @@
+[
+    {
+        "ballot_box_number": 1069,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18214_cb_1093796963_1684083230692621872.jpg",
+            "submission_id": 212705,
+            "total_vote": 276,
+            "votes": {
+                "1": 64,
+                "3": 205,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18214_mv_1083796963_1684083484420782805.jpg",
+            "submission_id": 217501,
+            "total_vote": 263,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 21,
+                "12": 109,
+                "13": 1,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 55,
+                "22": 29,
+                "23": 2,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 39
+            }
+        },
+        "school_name": "ÇIRPI İLKÖĞR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1070,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18214_cb_1093796964_1684077962893408119.jpg",
+            "submission_id": 173829,
+            "total_vote": 283,
+            "votes": {
+                "1": 59,
+                "3": 212,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18214_mv_1083796964_1684082925659431716.jpg",
+            "submission_id": 207494,
+            "total_vote": 279,
+            "votes": {
+                "11": 15,
+                "12": 105,
+                "13": 3,
+                "21": 82,
+                "22": 25,
+                "24": 3,
+                "5": 2,
+                "6": 1,
+                "7": 1,
+                "9": 42
+            }
+        },
+        "school_name": "ÇIRPI İLKÖĞR İLKOKULU"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "ballot_box_number": 1053,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/75694_bulk_999999999_1684093312191278653.jpg",
+            "submission_id": 468333,
+            "total_vote": 280,
+            "votes": {
+                "1": 90,
+                "2": 2,
+                "3": 170,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "DÜZCE MAH.DUZCE İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1054,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/75694_bulk_999999999_1684093312080019872.jpg",
+            "submission_id": 468330,
+            "total_vote": 286,
+            "votes": {
+                "1": 88,
+                "2": 1,
+                "3": 191,
+                "4": 6
+            }
+        },
+        "mv_result": null,
+        "school_name": "DÜZCE MAH.DUZCE İLKOKULU"
+    }
+]

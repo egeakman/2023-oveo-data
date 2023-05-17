@@ -1,0 +1,67 @@
+[
+    {
+        "ballot_box_number": 1065,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0d653e87-0aca-415b-b162-bf15457385d6-1684106593887956952.jpg",
+            "submission_id": 810973,
+            "total_vote": 174,
+            "votes": {
+                "1": 1,
+                "11": 9,
+                "12": 1,
+                "13": 17,
+                "16": 1,
+                "17": 1,
+                "18": 1,
+                "19": 1,
+                "20": 1,
+                "21": 67,
+                "22": 14,
+                "23": 1,
+                "24": 4,
+                "6": 2,
+                "7": 2,
+                "8": 2,
+                "9": 49
+            }
+        },
+        "school_name": "KARAMAN KÖY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1064,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/b7771973-25ac-4153-b935-1ec226753d2d-1684106419882326398.jpg",
+            "submission_id": 785329,
+            "total_vote": 140,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 4,
+                "12": 1,
+                "13": 13,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 2,
+                "2": 1,
+                "20": 0,
+                "21": 65,
+                "22": 13,
+                "23": 2,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 0,
+                "7": 5,
+                "8": 3,
+                "9": 25
+            }
+        },
+        "school_name": "KARAMAN KÖY İLKOKULU"
+    }
+]

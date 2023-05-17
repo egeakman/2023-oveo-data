@@ -1,0 +1,567 @@
+[
+    {
+        "ballot_box_number": 1237,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15240_cb_1093579241_1684089416529736649.jpg",
+            "submission_id": 393929,
+            "total_vote": 338,
+            "votes": {
+                "1": 114,
+                "2": 1,
+                "3": 197,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15240_mv_1083579241_1684089439023880182.jpg",
+            "submission_id": 394519,
+            "total_vote": 331,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 19,
+                "12": 16,
+                "13": 16,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 1,
+                "21": 120,
+                "22": 38,
+                "23": 1,
+                "24": 15,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 3,
+                "7": 1,
+                "8": 5,
+                "9": 89
+            }
+        },
+        "school_name": "OSMANGAZİ İLKOKULU(ŞEHİT UZMAN ÇAVUŞ ALİ AKDOĞAN İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 1233,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15240_mv_1083579237_1684084206483131239.jpg",
+            "submission_id": 233014,
+            "total_vote": 305,
+            "votes": {
+                "1": 113,
+                "2": 3,
+                "3": 174,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15240_mv_1083579237_1684084276952665434.jpg",
+            "submission_id": 234961,
+            "total_vote": 304,
+            "votes": {
+                "10": 6,
+                "11": 15,
+                "12": 23,
+                "13": 5,
+                "15": 1,
+                "21": 139,
+                "22": 16,
+                "23": 1,
+                "24": 6,
+                "6": 1,
+                "7": 1,
+                "8": 3,
+                "9": 87
+            }
+        },
+        "school_name": "OSMANGAZİ İLKOKULU(ŞEHİT UZMAN ÇAVUŞ ALİ AKDOĞAN İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 1241,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65065_cb_1093579245_1684086798247144535.jpg",
+            "submission_id": 311999,
+            "total_vote": 336,
+            "votes": {
+                "1": 122,
+                "2": 3,
+                "3": 197,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65065_mv_1083579245_1684087953493460093.jpg",
+            "submission_id": 350357,
+            "total_vote": 330,
+            "votes": {
+                "10": 6,
+                "11": 15,
+                "12": 31,
+                "13": 19,
+                "14": 0,
+                "2": 0,
+                "20": 0,
+                "21": 103,
+                "22": 38,
+                "23": 2,
+                "24": 13,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 7,
+                "8": 4,
+                "9": 91
+            }
+        },
+        "school_name": "OSMANGAZİ İLKOKULU(ŞEHİT UZMAN ÇAVUŞ ALİ AKDOĞAN İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 1238,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/80213_cb_1093579242_1684086826618487132.jpg",
+            "submission_id": 313001,
+            "total_vote": 337,
+            "votes": {
+                "1": 118,
+                "2": 2,
+                "3": 202,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/80213_mv_1083579242_1684087133318095056.jpg",
+            "submission_id": 323671,
+            "total_vote": 329,
+            "votes": {
+                "1": 5,
+                "10": 5,
+                "11": 20,
+                "12": 17,
+                "13": 12,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 140,
+                "22": 32,
+                "23": 0,
+                "24": 13,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 5,
+                "9": 75
+            }
+        },
+        "school_name": "OSMANGAZİ İLKOKULU(ŞEHİT UZMAN ÇAVUŞ ALİ AKDOĞAN İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 1242,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65065_mv_1083579246_1684084349412670856.jpg",
+            "submission_id": 236721,
+            "total_vote": 340,
+            "votes": {
+                "1": 138,
+                "2": 1,
+                "3": 169,
+                "4": 32
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65065_mv_1083579246_1684084587222430486.jpg",
+            "submission_id": 242806,
+            "total_vote": 331,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 14,
+                "12": 27,
+                "13": 7,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 102,
+                "22": 32,
+                "23": 1,
+                "24": 18,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 4,
+                "7": 6,
+                "8": 0,
+                "9": 117
+            }
+        },
+        "school_name": "OSMANGAZİ İLKOKULU(ŞEHİT UZMAN ÇAVUŞ ALİ AKDOĞAN İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 1240,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65065_cb_1093579244_1684086240536409322.jpg",
+            "submission_id": 292728,
+            "total_vote": 343,
+            "votes": {
+                "1": 115,
+                "2": 3,
+                "3": 202,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65065_mv_1083579244_1684086324304495852.jpg",
+            "submission_id": 295537,
+            "total_vote": 336,
+            "votes": {
+                "10": 3,
+                "11": 15,
+                "12": 17,
+                "13": 13,
+                "15": 1,
+                "19": 2,
+                "21": 124,
+                "22": 45,
+                "24": 12,
+                "6": 1,
+                "7": 5,
+                "8": 8,
+                "9": 90
+            }
+        },
+        "school_name": "OSMANGAZİ İLKOKULU(ŞEHİT UZMAN ÇAVUŞ ALİ AKDOĞAN İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 1239,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/60792_cb_1093579243_1684083419695070505.jpg",
+            "submission_id": 216272,
+            "total_vote": 341,
+            "votes": {
+                "1": 103,
+                "2": 0,
+                "3": 217,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/60792_mv_1083579243_1684089361576119510.jpg",
+            "submission_id": 392451,
+            "total_vote": 337,
+            "votes": {
+                "10": 5,
+                "11": 20,
+                "12": 13,
+                "13": 14,
+                "17": 2,
+                "20": 1,
+                "21": 139,
+                "22": 47,
+                "24": 11,
+                "3": 1,
+                "7": 1,
+                "9": 83
+            }
+        },
+        "school_name": "OSMANGAZİ İLKOKULU(ŞEHİT UZMAN ÇAVUŞ ALİ AKDOĞAN İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 1245,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/80213_cb_1093579249_1684086505781115034.jpg",
+            "submission_id": 301698,
+            "total_vote": 335,
+            "votes": {
+                "1": 131,
+                "3": 182,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/80213_mv_1083579249_1684086648044357975.jpg",
+            "submission_id": 306706,
+            "total_vote": 331,
+            "votes": {
+                "1": 0,
+                "10": 8,
+                "11": 17,
+                "12": 20,
+                "13": 21,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 97,
+                "22": 46,
+                "23": 1,
+                "24": 11,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 1,
+                "9": 105
+            }
+        },
+        "school_name": "OSMANGAZİ İLKOKULU(ŞEHİT UZMAN ÇAVUŞ ALİ AKDOĞAN İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 1243,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67415_cb_1093579247_1684088687148149378.jpg",
+            "submission_id": 373333,
+            "total_vote": 341,
+            "votes": {
+                "1": 129,
+                "2": 4,
+                "3": 184,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67415_mv_1083579247_1684088898382479950.jpg",
+            "submission_id": 379528,
+            "total_vote": 336,
+            "votes": {
+                "10": 6,
+                "11": 26,
+                "12": 21,
+                "13": 17,
+                "2": 1,
+                "20": 1,
+                "21": 114,
+                "22": 24,
+                "24": 14,
+                "5": 1,
+                "6": 2,
+                "7": 5,
+                "9": 104
+            }
+        },
+        "school_name": "OSMANGAZİ İLKOKULU(ŞEHİT UZMAN ÇAVUŞ ALİ AKDOĞAN İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 1232,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15240_mv_1083579236_1684085557193077352.jpg",
+            "submission_id": 270362,
+            "total_vote": 311,
+            "votes": {
+                "1": 135,
+                "3": 162,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15240_mv_1083579236_1684085605755923993.jpg",
+            "submission_id": 271985,
+            "total_vote": 296,
+            "votes": {
+                "10": 4,
+                "11": 13,
+                "12": 13,
+                "13": 13,
+                "15": 1,
+                "2": 1,
+                "20": 1,
+                "21": 103,
+                "22": 33,
+                "23": 1,
+                "24": 4,
+                "7": 3,
+                "8": 2,
+                "9": 104
+            }
+        },
+        "school_name": "OSMANGAZİ İLKOKULU(ŞEHİT UZMAN ÇAVUŞ ALİ AKDOĞAN İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 1234,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28770_cb_1093579238_1684080553605313274.jpg",
+            "submission_id": 182355,
+            "total_vote": 331,
+            "votes": {
+                "1": 139,
+                "2": 1,
+                "3": 176,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28770_mv_1083579238_1684087137754699620.jpg",
+            "submission_id": 323826,
+            "total_vote": 323,
+            "votes": {
+                "1": 2,
+                "10": 7,
+                "11": 12,
+                "12": 13,
+                "13": 14,
+                "18": 1,
+                "20": 1,
+                "21": 110,
+                "22": 39,
+                "24": 7,
+                "3": 1,
+                "6": 2,
+                "7": 4,
+                "8": 4,
+                "9": 106
+            }
+        },
+        "school_name": "OSMANGAZİ İLKOKULU(ŞEHİT UZMAN ÇAVUŞ ALİ AKDOĞAN İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 1236,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28770_cb_1093579239_1684087355587174910.jpg",
+            "submission_id": 331173,
+            "total_vote": 340,
+            "votes": {
+                "1": 123,
+                "3": 196,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/80213_mv_1083579240_1684087549215771604.jpg",
+            "submission_id": 337451,
+            "total_vote": 334,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 19,
+                "12": 11,
+                "13": 18,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 126,
+                "22": 45,
+                "23": 1,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 6,
+                "9": 90
+            }
+        },
+        "school_name": "OSMANGAZİ İLKOKULU(ŞEHİT UZMAN ÇAVUŞ ALİ AKDOĞAN İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 1246,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49702_cb_1093579250_1684086292654699889.jpg",
+            "submission_id": 294501,
+            "total_vote": 337,
+            "votes": {
+                "1": 123,
+                "2": 0,
+                "3": 207,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "OSMANGAZİ İLKOKULU(ŞEHİT UZMAN ÇAVUŞ ALİ AKDOĞAN İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 1235,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28770_cb_1093579239_1684089290248554857.jpg",
+            "submission_id": 390647,
+            "total_vote": 348,
+            "votes": {
+                "1": 109,
+                "3": 209,
+                "4": 30
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28770_mv_1083579239_1684089337973002903.jpg",
+            "submission_id": 391826,
+            "total_vote": 346,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 8,
+                "12": 23,
+                "13": 28,
+                "19": 2,
+                "21": 126,
+                "22": 47,
+                "23": 2,
+                "24": 9,
+                "6": 2,
+                "7": 3,
+                "8": 4,
+                "9": 88
+            }
+        },
+        "school_name": "OSMANGAZİ İLKOKULU(ŞEHİT UZMAN ÇAVUŞ ALİ AKDOĞAN İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 1244,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/80213_cb_1093579248_1684081920491902610.jpg",
+            "submission_id": 193719,
+            "total_vote": 348,
+            "votes": {
+                "1": 134,
+                "2": 3,
+                "3": 182,
+                "4": 29
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/80213_mv_1083579248_1684082616343870404.jpg",
+            "submission_id": 202575,
+            "total_vote": 347,
+            "votes": {
+                "1": 1,
+                "10": 6,
+                "11": 23,
+                "12": 20,
+                "13": 18,
+                "21": 102,
+                "22": 45,
+                "23": 1,
+                "24": 10,
+                "3": 1,
+                "7": 7,
+                "8": 5,
+                "9": 108
+            }
+        },
+        "school_name": "OSMANGAZİ İLKOKULU(ŞEHİT UZMAN ÇAVUŞ ALİ AKDOĞAN İLKOKULU)"
+    }
+]

@@ -1,0 +1,157 @@
+[
+    {
+        "ballot_box_number": 1187,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16489_cb_1093577118_1684082598235277930.jpg",
+            "submission_id": 202304,
+            "total_vote": 308,
+            "votes": {
+                "1": 111,
+                "2": 1,
+                "3": 180,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16489_mv_1083577118_1684083188623092506.jpg",
+            "submission_id": 211937,
+            "total_vote": 292,
+            "votes": {
+                "1": 0,
+                "11": 15,
+                "12": 1,
+                "13": 6,
+                "14": 1,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 128,
+                "22": 35,
+                "23": 0,
+                "24": 7,
+                "3": 0,
+                "4": 1,
+                "6": 3,
+                "7": 3,
+                "8": 0,
+                "9": 89
+            }
+        },
+        "school_name": "KAYMAKÇI ÇOK PROGRAMLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1188,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16489_cb_1093577119_1684081536638085156.jpg",
+            "submission_id": 189721,
+            "total_vote": 320,
+            "votes": {
+                "1": 107,
+                "3": 208,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16489_mv_1083577119_1684082798446164166.jpg",
+            "submission_id": 205406,
+            "total_vote": 306,
+            "votes": {
+                "10": 2,
+                "11": 23,
+                "13": 2,
+                "21": 159,
+                "22": 34,
+                "23": 1,
+                "24": 3,
+                "3": 1,
+                "7": 3,
+                "9": 78
+            }
+        },
+        "school_name": "KAYMAKÇI ÇOK PROGRAMLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1185,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16489_cb_1093577116_1684081664894417045.jpg",
+            "submission_id": 191043,
+            "total_vote": 295,
+            "votes": {
+                "1": 107,
+                "3": 185,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16489_mv_1083577116_1684084859861598700.jpg",
+            "submission_id": 250151,
+            "total_vote": 279,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 9,
+                "12": 0,
+                "13": 0,
+                "14": 0,
+                "15": 3,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 136,
+                "22": 44,
+                "23": 1,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 1,
+                "9": 82
+            }
+        },
+        "school_name": "KAYMAKÇI ÇOK PROGRAMLI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1186,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16489_cb_1093577117_1684081607826427121.jpg",
+            "submission_id": 190446,
+            "total_vote": 309,
+            "votes": {
+                "1": 90,
+                "2": 1,
+                "3": 206,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16489_mv_1083577117_1684085320760108546.jpg",
+            "submission_id": 263357,
+            "total_vote": 292,
+            "votes": {
+                "11": 8,
+                "12": 1,
+                "13": 6,
+                "14": 1,
+                "15": 2,
+                "17": 2,
+                "19": 2,
+                "21": 159,
+                "22": 36,
+                "23": 1,
+                "24": 4,
+                "7": 5,
+                "9": 65
+            }
+        },
+        "school_name": "KAYMAKÇI ÇOK PROGRAMLI ANADOLU LİSESİ"
+    }
+]

@@ -1,0 +1,369 @@
+[
+    {
+        "ballot_box_number": 1150,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "ÇAMLIK ŞEHİT HÜSEYİN TOLGA HEPGÜL İLKOKULU A-C BLOK"
+    },
+    {
+        "ballot_box_number": 1145,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31296_cb_1093575512_1684143980995158940.jpg",
+            "submission_id": 1018989,
+            "total_vote": 330,
+            "votes": {
+                "1": 138,
+                "2": 1,
+                "3": 173,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31296_cb_1093575512_1684143943690835653.jpg",
+            "submission_id": 1018983,
+            "total_vote": 324,
+            "votes": {
+                "10": 5,
+                "11": 27,
+                "12": 12,
+                "19": 1,
+                "21": 120,
+                "22": 36,
+                "24": 11,
+                "6": 1,
+                "7": 4,
+                "8": 1,
+                "9": 106
+            }
+        },
+        "school_name": "ÇAMLIK ŞEHİT HÜSEYİN TOLGA HEPGÜL İLKOKULU A-C BLOK"
+    },
+    {
+        "ballot_box_number": 1154,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31296_cb_1093576261_1684144266108290442.jpg",
+            "submission_id": 1019062,
+            "total_vote": 320,
+            "votes": {
+                "1": 133,
+                "3": 173,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31296_mv_1083576261_1684144291456378380.jpg",
+            "submission_id": 1019067,
+            "total_vote": 312,
+            "votes": {
+                "1": 8,
+                "10": 27,
+                "11": 3,
+                "12": 21,
+                "14": 29,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 0,
+                "22": 166,
+                "23": 34,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 8,
+                "6": 5,
+                "8": 7,
+                "9": 0
+            }
+        },
+        "school_name": "ÇAMLIK ŞEHİT HÜSEYİN TOLGA HEPGÜL İLKOKULU A-C BLOK"
+    },
+    {
+        "ballot_box_number": 1152,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31296_mv_1083576259_1684144240639665960.jpg",
+            "submission_id": 1019053,
+            "total_vote": 322,
+            "votes": {
+                "11": 21,
+                "12": 16,
+                "14": 2,
+                "21": 118,
+                "22": 28,
+                "24": 7,
+                "6": 1,
+                "7": 5,
+                "8": 2,
+                "9": 122
+            }
+        },
+        "school_name": "ÇAMLIK ŞEHİT HÜSEYİN TOLGA HEPGÜL İLKOKULU A-C BLOK"
+    },
+    {
+        "ballot_box_number": 1155,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31296_cb_1093576262_1684144314568008517.jpg",
+            "submission_id": 1019072,
+            "total_vote": 322,
+            "votes": {
+                "1": 132,
+                "2": 4,
+                "3": 160,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31296_mv_1083576262_1684144339903291566.jpg",
+            "submission_id": 1019074,
+            "total_vote": 316,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 17,
+                "12": 11,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 116,
+                "22": 35,
+                "23": 1,
+                "24": 16,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 1,
+                "9": 110
+            }
+        },
+        "school_name": "ÇAMLIK ŞEHİT HÜSEYİN TOLGA HEPGÜL İLKOKULU A-C BLOK"
+    },
+    {
+        "ballot_box_number": 1151,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/78121_bulk_999999999_1684110865464193305.jpeg",
+            "submission_id": 1008863,
+            "total_vote": 325,
+            "votes": {
+                "1": 130,
+                "3": 171,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/78121_bulk_999999999_1684110865610970821.jpeg",
+            "submission_id": 1008864,
+            "total_vote": 325,
+            "votes": {
+                "10": 5,
+                "11": 32,
+                "12": 19,
+                "14": 1,
+                "19": 2,
+                "21": 118,
+                "22": 33,
+                "24": 9,
+                "6": 3,
+                "7": 4,
+                "8": 3,
+                "9": 96
+            }
+        },
+        "school_name": "ÇAMLIK ŞEHİT HÜSEYİN TOLGA HEPGÜL İLKOKULU A-C BLOK"
+    },
+    {
+        "ballot_box_number": 1146,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/18028_bulk_999999999_1684087892245077657.jpeg",
+            "submission_id": 348433,
+            "total_vote": 326,
+            "votes": {
+                "1": 145,
+                "2": 0,
+                "3": 164,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇAMLIK ŞEHİT HÜSEYİN TOLGA HEPGÜL İLKOKULU A-C BLOK"
+    },
+    {
+        "ballot_box_number": 1149,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31296_cb_1093576256_1684144170385531859.jpg",
+            "submission_id": 1019038,
+            "total_vote": 327,
+            "votes": {
+                "1": 120,
+                "2": 3,
+                "3": 183,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇAMLIK ŞEHİT HÜSEYİN TOLGA HEPGÜL İLKOKULU A-C BLOK"
+    },
+    {
+        "ballot_box_number": 1153,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/31296_bulk_999999999_1684144442760283264.jpeg",
+            "submission_id": 1019092,
+            "total_vote": 320,
+            "votes": {
+                "1": 142,
+                "2": 1,
+                "3": 156,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇAMLIK ŞEHİT HÜSEYİN TOLGA HEPGÜL İLKOKULU A-C BLOK"
+    },
+    {
+        "ballot_box_number": 1147,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/18028_bulk_999999999_1684087892362650544.jpeg",
+            "submission_id": 348438,
+            "total_vote": 323,
+            "votes": {
+                "1": 149,
+                "3": 158,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/18028_bulk_999999999_1684087892465282949.jpeg",
+            "submission_id": 348441,
+            "total_vote": 315,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 31,
+                "12": 23,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 90,
+                "22": 42,
+                "23": 0,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 4,
+                "8": 1,
+                "9": 111
+            }
+        },
+        "school_name": "ÇAMLIK ŞEHİT HÜSEYİN TOLGA HEPGÜL İLKOKULU A-C BLOK"
+    },
+    {
+        "ballot_box_number": 1143,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31296_cb_1093575510_1684143798556829194.jpg",
+            "submission_id": 1018957,
+            "total_vote": 300,
+            "votes": {
+                "1": 116,
+                "2": 2,
+                "3": 171,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31296_mv_1083575510_1684143833291393795.jpg",
+            "submission_id": 1018966,
+            "total_vote": 293,
+            "votes": {
+                "10": 5,
+                "11": 12,
+                "12": 5,
+                "14": 1,
+                "15": 1,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 112,
+                "22": 50,
+                "23": 0,
+                "24": 7,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 0,
+                "9": 93
+            }
+        },
+        "school_name": "ÇAMLIK ŞEHİT HÜSEYİN TOLGA HEPGÜL İLKOKULU A-C BLOK"
+    },
+    {
+        "ballot_box_number": 1144,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31296_cb_1093575511_1684143885322945058.jpg",
+            "submission_id": 1018972,
+            "total_vote": 298,
+            "votes": {
+                "1": 140,
+                "2": 2,
+                "3": 148,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31296_mv_1083575511_1684143915409053256.jpg",
+            "submission_id": 1018978,
+            "total_vote": 295,
+            "votes": {
+                "10": 3,
+                "11": 19,
+                "12": 12,
+                "2": 1,
+                "20": 1,
+                "21": 108,
+                "22": 28,
+                "23": 2,
+                "24": 2,
+                "7": 5,
+                "9": 114
+            }
+        },
+        "school_name": "ÇAMLIK ŞEHİT HÜSEYİN TOLGA HEPGÜL İLKOKULU A-C BLOK"
+    },
+    {
+        "ballot_box_number": 1148,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/17027_bulk_999999999_1684099314941660463.jpeg",
+            "submission_id": 532400,
+            "total_vote": 329,
+            "votes": {
+                "1": 133,
+                "2": 0,
+                "3": 173,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇAMLIK ŞEHİT HÜSEYİN TOLGA HEPGÜL İLKOKULU A-C BLOK"
+    }
+]

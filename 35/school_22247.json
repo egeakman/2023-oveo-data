@@ -1,0 +1,940 @@
+[
+    {
+        "ballot_box_number": 2255,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52453_cb_1093580029_1684082524865538574.jpg",
+            "submission_id": 201316,
+            "total_vote": 346,
+            "votes": {
+                "1": 115,
+                "3": 218,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52453_mv_1083580029_1684089039878198778.jpg",
+            "submission_id": 383670,
+            "total_vote": 346,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 21,
+                "12": 42,
+                "13": 13,
+                "14": 0,
+                "15": 1,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 136,
+                "22": 29,
+                "23": 0,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 3,
+                "9": 90
+            }
+        },
+        "school_name": "ZİHNİ ÜSTÜN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2253,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49242_cb_1093580027_1684089205156983052.jpg",
+            "submission_id": 388294,
+            "total_vote": 334,
+            "votes": {
+                "1": 87,
+                "2": 1,
+                "3": 230,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49242_mv_1083580027_1684088984293123568.jpg",
+            "submission_id": 382041,
+            "total_vote": 330,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 22,
+                "12": 46,
+                "13": 18,
+                "20": 1,
+                "21": 124,
+                "22": 43,
+                "24": 4,
+                "4": 1,
+                "5": 2,
+                "7": 1,
+                "8": 2,
+                "9": 61
+            }
+        },
+        "school_name": "ZİHNİ ÜSTÜN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2261,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52510_cb_1093580775_1684086962517402959.jpg",
+            "submission_id": 317650,
+            "total_vote": 323,
+            "votes": {
+                "1": 89,
+                "2": 2,
+                "3": 222,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52510_mv_1083580775_1684087028565995376.jpg",
+            "submission_id": 319958,
+            "total_vote": 220,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 12,
+                "12": 37,
+                "13": 19,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 39,
+                "22": 28,
+                "23": 1,
+                "24": 2,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 2,
+                "9": 71
+            }
+        },
+        "school_name": "ZİHNİ ÜSTÜN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2256,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52453_cb_1093580030_1684088107602720085.jpg",
+            "submission_id": 355408,
+            "total_vote": 331,
+            "votes": {
+                "1": 127,
+                "2": 1,
+                "3": 193,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52453_mv_1083580030_1684088175450943434.jpg",
+            "submission_id": 357573,
+            "total_vote": 322,
+            "votes": {
+                "1": 0,
+                "10": 11,
+                "11": 6,
+                "12": 35,
+                "13": 16,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 113,
+                "22": 27,
+                "23": 1,
+                "24": 9,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "8": 0,
+                "9": 99
+            }
+        },
+        "school_name": "ZİHNİ ÜSTÜN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2259,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52453_cb_1093580033_1684089334387218301.jpg",
+            "submission_id": 391748,
+            "total_vote": 346,
+            "votes": {
+                "1": 99,
+                "2": 1,
+                "3": 229,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/50035d65-0efa-4cdc-b77f-5614e18f0169-1684105577352914508.jpg",
+            "submission_id": 661567,
+            "total_vote": 337,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 13,
+                "12": 30,
+                "13": 20,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 2,
+                "21": 145,
+                "22": 26,
+                "23": 0,
+                "24": 10,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 1,
+                "9": 82
+            }
+        },
+        "school_name": "ZİHNİ ÜSTÜN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2241,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/55129_cb_1093580015_1684088384749173147.jpg",
+            "submission_id": 363911,
+            "total_vote": 338,
+            "votes": {
+                "1": 80,
+                "2": 2,
+                "3": 246,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/55129_mv_1083580015_1684088403845554713.jpg",
+            "submission_id": 364527,
+            "total_vote": 331,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 8,
+                "12": 26,
+                "13": 17,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 3,
+                "2": 0,
+                "20": 1,
+                "21": 162,
+                "22": 31,
+                "23": 2,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 3,
+                "8": 0,
+                "9": 65
+            }
+        },
+        "school_name": "ZİHNİ ÜSTÜN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2246,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/53050027-232c-4969-a956-f48eaa2af5a4-1684105526608930491.jpg",
+            "submission_id": 652764,
+            "total_vote": 345,
+            "votes": {
+                "1": 89,
+                "2": 1,
+                "3": 233,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "ZİHNİ ÜSTÜN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2250,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/62982_cb_1093580024_1684085864344025604.jpg",
+            "submission_id": 280646,
+            "total_vote": 344,
+            "votes": {
+                "1": 121,
+                "2": 2,
+                "3": 201,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "ZİHNİ ÜSTÜN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2243,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/55129_cb_1093580017_1684078910876346661.jpg",
+            "submission_id": 175477,
+            "total_vote": 331,
+            "votes": {
+                "1": 100,
+                "2": 2,
+                "3": 220,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/55129_mv_1083580017_1684084795109560514.jpg",
+            "submission_id": 248403,
+            "total_vote": 322,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 16,
+                "12": 34,
+                "13": 10,
+                "15": 1,
+                "16": 2,
+                "20": 1,
+                "21": 146,
+                "22": 23,
+                "24": 9,
+                "6": 1,
+                "7": 2,
+                "9": 74
+            }
+        },
+        "school_name": "ZİHNİ ÜSTÜN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2251,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49242_cb_1093580025_1684086766109473346.jpg",
+            "submission_id": 310851,
+            "total_vote": 345,
+            "votes": {
+                "1": 122,
+                "3": 211,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49242_mv_1083580025_1684086798308849299.jpg",
+            "submission_id": 312003,
+            "total_vote": 338,
+            "votes": {
+                "10": 7,
+                "11": 22,
+                "12": 37,
+                "13": 27,
+                "14": 1,
+                "16": 2,
+                "19": 1,
+                "21": 116,
+                "22": 29,
+                "23": 2,
+                "24": 5,
+                "3": 1,
+                "4": 1,
+                "7": 1,
+                "8": 2,
+                "9": 84
+            }
+        },
+        "school_name": "ZİHNİ ÜSTÜN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2249,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/62982_cb_1093580023_1684079084957615026.jpg",
+            "submission_id": 175915,
+            "total_vote": 331,
+            "votes": {
+                "1": 105,
+                "2": 2,
+                "3": 216,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/62982_mv_1083580023_1684087848623656881.jpg",
+            "submission_id": 347066,
+            "total_vote": 327,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 13,
+                "12": 57,
+                "13": 26,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 108,
+                "22": 26,
+                "23": 0,
+                "24": 3,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 90
+            }
+        },
+        "school_name": "ZİHNİ ÜSTÜN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2264,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/46719_cb_1093580778_1684085564871744390.jpg",
+            "submission_id": 270609,
+            "total_vote": 332,
+            "votes": {
+                "1": 84,
+                "3": 226,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/46719_mv_1083580778_1684085651051936701.jpg",
+            "submission_id": 273418,
+            "total_vote": 329,
+            "votes": {
+                "1": 1,
+                "10": 5,
+                "11": 11,
+                "12": 40,
+                "13": 21,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 131,
+                "22": 30,
+                "23": 2,
+                "24": 6,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 4,
+                "8": 0,
+                "9": 74
+            }
+        },
+        "school_name": "ZİHNİ ÜSTÜN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2257,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/46719_cb_1093580031_1684086644045939587.jpg",
+            "submission_id": 306575,
+            "total_vote": 346,
+            "votes": {
+                "1": 122,
+                "3": 214,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/46719_mv_1083580031_1684086686285771851.jpg",
+            "submission_id": 307995,
+            "total_vote": 338,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 11,
+                "12": 45,
+                "13": 20,
+                "15": 3,
+                "21": 121,
+                "22": 25,
+                "24": 5,
+                "5": 1,
+                "6": 1,
+                "7": 5,
+                "8": 1,
+                "9": 95
+            }
+        },
+        "school_name": "ZİHNİ ÜSTÜN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2262,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52510_cb_1093580776_1684087269774680110.jpg",
+            "submission_id": 328387,
+            "total_vote": 350,
+            "votes": {
+                "1": 128,
+                "2": 2,
+                "3": 209,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52510_mv_1083580776_1684089055359336430.jpg",
+            "submission_id": 384090,
+            "total_vote": 344,
+            "votes": {
+                "10": 3,
+                "11": 11,
+                "12": 51,
+                "13": 15,
+                "19": 1,
+                "21": 127,
+                "22": 20,
+                "24": 5,
+                "7": 4,
+                "8": 2,
+                "9": 105
+            }
+        },
+        "school_name": "ZİHNİ ÜSTÜN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2247,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/62982_cb_1093580021_1684087742605561298.jpg",
+            "submission_id": 343744,
+            "total_vote": 331,
+            "votes": {
+                "1": 92,
+                "2": 1,
+                "3": 226,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52510_mv_1083580021_1684089610986203857.jpg",
+            "submission_id": 399360,
+            "total_vote": 321,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 21,
+                "12": 41,
+                "13": 26,
+                "15": 1,
+                "20": 1,
+                "21": 130,
+                "22": 25,
+                "24": 5,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "9": 65
+            }
+        },
+        "school_name": "ZİHNİ ÜSTÜN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2260,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52453_cb_1093580034_1684088589263011202.jpg",
+            "submission_id": 370295,
+            "total_vote": 350,
+            "votes": {
+                "1": 107,
+                "2": 2,
+                "3": 227,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52453_mv_1083580034_1684088641165668975.jpg",
+            "submission_id": 371934,
+            "total_vote": 337,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 17,
+                "12": 41,
+                "13": 28,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 0,
+                "21": 129,
+                "22": 21,
+                "23": 0,
+                "24": 3,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 4,
+                "8": 0,
+                "9": 87
+            }
+        },
+        "school_name": "ZİHNİ ÜSTÜN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2252,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49242_cb_1093580026_1684084729272697343.jpg",
+            "submission_id": 246689,
+            "total_vote": 334,
+            "votes": {
+                "1": 114,
+                "2": 1,
+                "3": 206,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49242_mv_1083580026_1684084685949966750.jpg",
+            "submission_id": 245500,
+            "total_vote": 330,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 17,
+                "12": 36,
+                "13": 22,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 127,
+                "22": 20,
+                "23": 1,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 1,
+                "8": 1,
+                "9": 93
+            }
+        },
+        "school_name": "ZİHNİ ÜSTÜN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2248,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/37f21e8c-377c-4d54-a781-e7018cbcb30a-1684105575316737269.jpg",
+            "submission_id": 660642,
+            "total_vote": 341,
+            "votes": {
+                "1": 106,
+                "2": 1,
+                "3": 219,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/59024_cb_1093580022_1684089121615983911.jpg",
+            "submission_id": 385912,
+            "total_vote": 335,
+            "votes": {
+                "10": 4,
+                "11": 19,
+                "12": 34,
+                "13": 22,
+                "16": 1,
+                "21": 148,
+                "22": 20,
+                "24": 5,
+                "3": 2,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 77
+            }
+        },
+        "school_name": "ZİHNİ ÜSTÜN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2254,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/46288_bulk_999999999_1684082851046708534.jpeg",
+            "submission_id": 206221,
+            "total_vote": 336,
+            "votes": {
+                "1": 97,
+                "3": 224,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49242_mv_1083580028_1684089903164736665.jpg",
+            "submission_id": 407244,
+            "total_vote": 329,
+            "votes": {
+                "1": 0,
+                "10": 8,
+                "11": 13,
+                "12": 29,
+                "13": 25,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 143,
+                "22": 27,
+                "23": 0,
+                "24": 8,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 68
+            }
+        },
+        "school_name": "ZİHNİ ÜSTÜN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2244,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/55129_cb_1093580018_1684087191120801039.jpg",
+            "submission_id": 325704,
+            "total_vote": 321,
+            "votes": {
+                "1": 86,
+                "2": 1,
+                "3": 221,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "ZİHNİ ÜSTÜN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2258,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/46288_cb_1093580032_1684083782769909915.jpg",
+            "submission_id": 223645,
+            "total_vote": 331,
+            "votes": {
+                "1": 114,
+                "2": 0,
+                "3": 202,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "ZİHNİ ÜSTÜN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2263,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/46719_cb_1093580777_1684086966975718744.jpg",
+            "submission_id": 317807,
+            "total_vote": 337,
+            "votes": {
+                "1": 107,
+                "2": 0,
+                "3": 210,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/46719_mv_1083580777_1684087438593786959.jpg",
+            "submission_id": 333912,
+            "total_vote": 337,
+            "votes": {
+                "10": 3,
+                "11": 18,
+                "12": 23,
+                "13": 12,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "19": 0,
+                "20": 13,
+                "21": 149,
+                "22": 19,
+                "23": 2,
+                "24": 9,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "8": 0,
+                "9": 84
+            }
+        },
+        "school_name": "ZİHNİ ÜSTÜN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2242,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/55129_cb_1093580016_1684085652887111716.jpg",
+            "submission_id": 273495,
+            "total_vote": 340,
+            "votes": {
+                "1": 104,
+                "3": 229,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/55129_mv_1083580016_1684088006805602471.jpg",
+            "submission_id": 352206,
+            "total_vote": 326,
+            "votes": {
+                "10": 4,
+                "11": 24,
+                "12": 44,
+                "13": 18,
+                "15": 1,
+                "17": 1,
+                "21": 134,
+                "22": 19,
+                "24": 1,
+                "3": 1,
+                "5": 2,
+                "7": 1,
+                "9": 76
+            }
+        },
+        "school_name": "ZİHNİ ÜSTÜN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2245,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/59024_cb_1093580019_1684087787064943673.jpg",
+            "submission_id": 345156,
+            "total_vote": 341,
+            "votes": {
+                "1": 86,
+                "2": 2,
+                "3": 233,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52453_mv_1083580019_1684089754094547804.jpg",
+            "submission_id": 403190,
+            "total_vote": 337,
+            "votes": {
+                "1": 2,
+                "10": 3,
+                "11": 18,
+                "12": 33,
+                "13": 34,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 137,
+                "22": 24,
+                "23": 1,
+                "24": 3,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 2,
+                "7": 5,
+                "8": 2,
+                "9": 67
+            }
+        },
+        "school_name": "ZİHNİ ÜSTÜN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2265,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/62872_cb_1093580779_1684087718567273232.jpg",
+            "submission_id": 343024,
+            "total_vote": 333,
+            "votes": {
+                "1": 81,
+                "2": 1,
+                "3": 235,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/62872_mv_1083580779_1684087780362112306.jpg",
+            "submission_id": 344978,
+            "total_vote": 331,
+            "votes": {
+                "10": 3,
+                "11": 21,
+                "12": 34,
+                "13": 32,
+                "21": 143,
+                "22": 27,
+                "23": 1,
+                "24": 8,
+                "7": 3,
+                "9": 59
+            }
+        },
+        "school_name": "ZİHNİ ÜSTÜN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2266,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/62872_cb_1093580780_1684087899942535132.jpg",
+            "submission_id": 348661,
+            "total_vote": 344,
+            "votes": {
+                "1": 90,
+                "3": 241,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "ZİHNİ ÜSTÜN ORTAOKULU"
+    }
+]

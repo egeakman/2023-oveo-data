@@ -1,0 +1,65 @@
+[
+    {
+        "ballot_box_number": 1036,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/8797_cb_1093571235_1684086554923968705.jpg",
+            "submission_id": 303412,
+            "total_vote": 300,
+            "votes": {
+                "1": 49,
+                "3": 243,
+                "4": 8
+            }
+        },
+        "mv_result": null,
+        "school_name": "BEDİA MİDİLLİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1038,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/8797_bulk_999999999_1684088107952063935.jpeg",
+            "submission_id": 355424,
+            "total_vote": 301,
+            "votes": {
+                "1": 65,
+                "3": 218,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "BEDİA MİDİLLİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1037,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/8797_cb_1093571235_1684085922998929047.jpg",
+            "submission_id": 282554,
+            "total_vote": 306,
+            "votes": {
+                "1": 51,
+                "3": 238,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/8797_mv_1083571235_1684085951386776206.jpg",
+            "submission_id": 283439,
+            "total_vote": 298,
+            "votes": {
+                "11": 11,
+                "12": 5,
+                "13": 31,
+                "15": 2,
+                "21": 164,
+                "22": 29,
+                "23": 1,
+                "24": 13,
+                "3": 3,
+                "7": 5,
+                "8": 1,
+                "9": 33
+            }
+        },
+        "school_name": "BEDİA MİDİLLİ İLKOKULU"
+    }
+]

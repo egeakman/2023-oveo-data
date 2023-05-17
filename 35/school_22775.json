@@ -1,0 +1,202 @@
+[
+    {
+        "ballot_box_number": 2066,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26578_cb_1093572880_1684084203909654124.jpg",
+            "submission_id": 232945,
+            "total_vote": 330,
+            "votes": {
+                "1": 135,
+                "2": 1,
+                "3": 179,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26578_mv_1083572880_1684085032656544651.jpg",
+            "submission_id": 255086,
+            "total_vote": 322,
+            "votes": {
+                "10": 2,
+                "11": 15,
+                "12": 36,
+                "13": 9,
+                "15": 2,
+                "18": 1,
+                "21": 109,
+                "22": 21,
+                "23": 2,
+                "24": 7,
+                "4": 1,
+                "5": 1,
+                "6": 1,
+                "7": 5,
+                "8": 0,
+                "9": 110
+            }
+        },
+        "school_name": "SAİT GÜZELCAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2065,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26578_cb_1093572879_1684084255352012865.jpg",
+            "submission_id": 234408,
+            "total_vote": 317,
+            "votes": {
+                "1": 118,
+                "3": 173,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26578_mv_1083572879_1684085220873854489.jpg",
+            "submission_id": 260472,
+            "total_vote": 307,
+            "votes": {
+                "10": 2,
+                "11": 11,
+                "12": 32,
+                "13": 9,
+                "21": 123,
+                "22": 14,
+                "24": 11,
+                "5": 1,
+                "6": 2,
+                "7": 1,
+                "8": 2,
+                "9": 99
+            }
+        },
+        "school_name": "SAİT GÜZELCAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2067,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26578_cb_1093572881_1684084677646420645.jpg",
+            "submission_id": 245280,
+            "total_vote": 319,
+            "votes": {
+                "1": 118,
+                "2": 4,
+                "3": 171,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26578_mv_1083572881_1684086362760525943.jpg",
+            "submission_id": 296767,
+            "total_vote": 311,
+            "votes": {
+                "10": 10,
+                "11": 16,
+                "12": 28,
+                "13": 15,
+                "14": 1,
+                "15": 2,
+                "19": 1,
+                "21": 114,
+                "22": 16,
+                "24": 12,
+                "3": 3,
+                "6": 1,
+                "7": 3,
+                "8": 2,
+                "9": 87
+            }
+        },
+        "school_name": "SAİT GÜZELCAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2068,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26578_cb_1093572882_1684084123886516919.jpg",
+            "submission_id": 230955,
+            "total_vote": 323,
+            "votes": {
+                "1": 122,
+                "2": 1,
+                "3": 179,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26578_mv_1083572882_1684085163433346873.jpg",
+            "submission_id": 258758,
+            "total_vote": 315,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 22,
+                "12": 31,
+                "13": 9,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 104,
+                "22": 37,
+                "23": 2,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 8,
+                "8": 2,
+                "9": 90
+            }
+        },
+        "school_name": "SAİT GÜZELCAN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2064,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26578_cb_1093572878_1684084475806962023.jpg",
+            "submission_id": 239883,
+            "total_vote": 319,
+            "votes": {
+                "1": 126,
+                "2": 0,
+                "3": 179,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26578_mv_1083572878_1684085329327956417.jpg",
+            "submission_id": 263574,
+            "total_vote": 310,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 13,
+                "12": 39,
+                "13": 4,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 1,
+                "20": 0,
+                "21": 107,
+                "22": 25,
+                "23": 1,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 5,
+                "8": 2,
+                "9": 98
+            }
+        },
+        "school_name": "SAİT GÜZELCAN ORTAOKULU"
+    }
+]

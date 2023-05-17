@@ -1,0 +1,680 @@
+[
+    {
+        "ballot_box_number": 1147,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20784_bulk_999999999_1684082591635947014.jpg",
+            "submission_id": 202224,
+            "total_vote": 337,
+            "votes": {
+                "1": 132,
+                "3": 187,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20784_mv_1083575901_1684088803227464650.jpg",
+            "submission_id": 376704,
+            "total_vote": 330,
+            "votes": {
+                "1": 1,
+                "10": 5,
+                "11": 26,
+                "12": 42,
+                "13": 6,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 121,
+                "22": 12,
+                "23": 0,
+                "24": 10,
+                "3": 0,
+                "4": 1,
+                "5": 1,
+                "6": 0,
+                "7": 3,
+                "8": 1,
+                "9": 99
+            }
+        },
+        "school_name": "HEYDAR ALİYEV M.T.A.L."
+    },
+    {
+        "ballot_box_number": 1162,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20658_bulk_999999999_1684079879057816919.jpg",
+            "submission_id": 178736,
+            "total_vote": 330,
+            "votes": {
+                "1": 117,
+                "2": 0,
+                "3": 195,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21633_mv_1083576716_1684088960050170447.jpg",
+            "submission_id": 381347,
+            "total_vote": 328,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 15,
+                "12": 65,
+                "13": 22,
+                "14": 2,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 105,
+                "22": 20,
+                "23": 1,
+                "24": 6,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 0,
+                "8": 1,
+                "9": 82
+            }
+        },
+        "school_name": "HEYDAR ALİYEV M.T.A.L."
+    },
+    {
+        "ballot_box_number": 1160,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20784_bulk_999999999_1684095563322093400.jpg",
+            "submission_id": 504454,
+            "total_vote": 339,
+            "votes": {
+                "1": 129,
+                "2": 0,
+                "3": 185,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/54694_bulk_999999999_1684097441249477656.jpeg",
+            "submission_id": 520767,
+            "total_vote": 334,
+            "votes": {
+                "10": 1,
+                "11": 33,
+                "12": 32,
+                "13": 17,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 99,
+                "22": 44,
+                "23": 2,
+                "24": 11,
+                "3": 1,
+                "4": 0,
+                "6": 0,
+                "7": 3,
+                "8": 1,
+                "9": 89
+            }
+        },
+        "school_name": "HEYDAR ALİYEV M.T.A.L."
+    },
+    {
+        "ballot_box_number": 1153,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20784_cb_1093575907_1684082349226031263.jpg",
+            "submission_id": 198995,
+            "total_vote": 350,
+            "votes": {
+                "1": 139,
+                "2": 0,
+                "3": 188,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20784_mv_1083575907_1684082382032313556.jpg",
+            "submission_id": 199412,
+            "total_vote": 341,
+            "votes": {
+                "10": 7,
+                "11": 30,
+                "12": 31,
+                "13": 14,
+                "21": 112,
+                "22": 30,
+                "24": 9,
+                "7": 5,
+                "8": 2,
+                "9": 101
+            }
+        },
+        "school_name": "HEYDAR ALİYEV M.T.A.L."
+    },
+    {
+        "ballot_box_number": 1154,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20784_bulk_999999999_1684089304369019573.jpg",
+            "submission_id": 390998,
+            "total_vote": 333,
+            "votes": {
+                "1": 118,
+                "2": 1,
+                "3": 187,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20784_bulk_999999999_1684089478726643187.jpg",
+            "submission_id": 395680,
+            "total_vote": 316,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 2,
+                "12": 79,
+                "13": 18,
+                "14": 0,
+                "15": 8,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 103,
+                "22": 71,
+                "23": 1,
+                "24": 11,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 2,
+                "7": 3,
+                "8": 0,
+                "9": 9
+            }
+        },
+        "school_name": "HEYDAR ALİYEV M.T.A.L."
+    },
+    {
+        "ballot_box_number": 1152,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20784_cb_1093575906_1684087478783293219.jpg",
+            "submission_id": 335194,
+            "total_vote": 358,
+            "votes": {
+                "1": 142,
+                "3": 193,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/deaee2dd-e9ce-4060-8954-9f19607b6f6a-1684105923675360386.jpeg",
+            "submission_id": 714143,
+            "total_vote": 349,
+            "votes": {
+                "1": 0,
+                "10": 8,
+                "11": 32,
+                "12": 42,
+                "13": 10,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 113,
+                "22": 28,
+                "23": 3,
+                "24": 12,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 2,
+                "8": 3,
+                "9": 90
+            }
+        },
+        "school_name": "HEYDAR ALİYEV M.T.A.L."
+    },
+    {
+        "ballot_box_number": 1159,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20784_bulk_999999999_1684085104933406472.jpg",
+            "submission_id": 257101,
+            "total_vote": 334,
+            "votes": {
+                "1": 119,
+                "2": 1,
+                "3": 201,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20784_bulk_999999999_1684085456817849661.jpg",
+            "submission_id": 267311,
+            "total_vote": 333,
+            "votes": {
+                "10": 8,
+                "11": 39,
+                "12": 31,
+                "13": 20,
+                "21": 121,
+                "22": 24,
+                "24": 9,
+                "3": 2,
+                "5": 1,
+                "6": 3,
+                "7": 1,
+                "9": 74
+            }
+        },
+        "school_name": "HEYDAR ALİYEV M.T.A.L."
+    },
+    {
+        "ballot_box_number": 1149,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21633_bulk_999999999_1684083121530527125.jpeg",
+            "submission_id": 210765,
+            "total_vote": 355,
+            "votes": {
+                "1": 128,
+                "2": 2,
+                "3": 196,
+                "4": 29
+            }
+        },
+        "mv_result": null,
+        "school_name": "HEYDAR ALİYEV M.T.A.L."
+    },
+    {
+        "ballot_box_number": 1146,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20658_bulk_999999999_1684085559843696791.jpg",
+            "submission_id": 270449,
+            "total_vote": 325,
+            "votes": {
+                "1": 128,
+                "2": 0,
+                "3": 181,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9526eac0-d581-41e1-baee-069110d8708a-1684105940379264437.jpeg",
+            "submission_id": 716103,
+            "total_vote": 321,
+            "votes": {
+                "1": 1,
+                "10": 7,
+                "11": 12,
+                "12": 32,
+                "13": 7,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 5,
+                "18": 6,
+                "19": 0,
+                "2": 9,
+                "20": 5,
+                "21": 118,
+                "22": 20,
+                "23": 3,
+                "24": 12,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 0,
+                "9": 80
+            }
+        },
+        "school_name": "HEYDAR ALİYEV M.T.A.L."
+    },
+    {
+        "ballot_box_number": 1150,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21628_bulk_999999999_1684080580640224990.jpeg",
+            "submission_id": 182506,
+            "total_vote": 357,
+            "votes": {
+                "1": 147,
+                "3": 186,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20784_bulk_999999999_1684095460427468157.jpg",
+            "submission_id": 503361,
+            "total_vote": 348,
+            "votes": {
+                "1": 0,
+                "10": 13,
+                "11": 36,
+                "12": 42,
+                "13": 18,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 88,
+                "22": 24,
+                "23": 4,
+                "24": 17,
+                "3": 1,
+                "4": 2,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 1,
+                "9": 97
+            }
+        },
+        "school_name": "HEYDAR ALİYEV M.T.A.L."
+    },
+    {
+        "ballot_box_number": 1148,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20784_cb_1093575902_1684088910894908311.jpg",
+            "submission_id": 379913,
+            "total_vote": 347,
+            "votes": {
+                "1": 138,
+                "2": 2,
+                "3": 181,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20784_mv_1083575902_1684090915131498824.jpg",
+            "submission_id": 430192,
+            "total_vote": 344,
+            "votes": {
+                "10": 5,
+                "11": 37,
+                "12": 30,
+                "13": 13,
+                "21": 98,
+                "22": 33,
+                "24": 11,
+                "3": 3,
+                "6": 3,
+                "7": 4,
+                "8": 6,
+                "9": 101
+            }
+        },
+        "school_name": "HEYDAR ALİYEV M.T.A.L."
+    },
+    {
+        "ballot_box_number": 1155,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20784_cb_1093575909_1684082515934550869.jpg",
+            "submission_id": 201214,
+            "total_vote": 347,
+            "votes": {
+                "1": 133,
+                "2": 1,
+                "3": 188,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20784_mv_1083575909_1684088014548444424.jpg",
+            "submission_id": 352465,
+            "total_vote": 338,
+            "votes": {
+                "10": 12,
+                "11": 27,
+                "12": 32,
+                "13": 17,
+                "20": 1,
+                "21": 108,
+                "22": 23,
+                "23": 1,
+                "24": 14,
+                "6": 3,
+                "7": 5,
+                "8": 2,
+                "9": 93
+            }
+        },
+        "school_name": "HEYDAR ALİYEV M.T.A.L."
+    },
+    {
+        "ballot_box_number": 1158,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20784_bulk_999999999_1684085766308646184.jpg",
+            "submission_id": 277323,
+            "total_vote": 344,
+            "votes": {
+                "1": 138,
+                "2": 0,
+                "3": 182,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21633_mv_1083575912_1684087000200024817.jpg",
+            "submission_id": 318956,
+            "total_vote": 344,
+            "votes": {
+                "1": 0,
+                "10": 12,
+                "11": 21,
+                "12": 54,
+                "13": 14,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 86,
+                "22": 28,
+                "23": 1,
+                "24": 17,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 0,
+                "7": 1,
+                "8": 1,
+                "9": 105
+            }
+        },
+        "school_name": "HEYDAR ALİYEV M.T.A.L."
+    },
+    {
+        "ballot_box_number": 1151,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20658_bulk_999999999_1684085559908906707.jpg",
+            "submission_id": 270452,
+            "total_vote": 346,
+            "votes": {
+                "1": 109,
+                "2": 2,
+                "3": 205,
+                "4": 30
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20784_mv_1083575905_1684087388167298377.jpg",
+            "submission_id": 332329,
+            "total_vote": 341,
+            "votes": {
+                "10": 2,
+                "11": 25,
+                "12": 58,
+                "13": 19,
+                "15": 1,
+                "16": 0,
+                "21": 102,
+                "22": 28,
+                "24": 18,
+                "6": 4,
+                "7": 5,
+                "8": 2,
+                "9": 77
+            }
+        },
+        "school_name": "HEYDAR ALİYEV M.T.A.L."
+    },
+    {
+        "ballot_box_number": 1156,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/54694_cb_1093575910_1684088451170997873.jpg",
+            "submission_id": 365957,
+            "total_vote": 334,
+            "votes": {
+                "1": 129,
+                "2": 3,
+                "3": 182,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/54694_mv_1083575910_1684090185210286284.jpg",
+            "submission_id": 414198,
+            "total_vote": 325,
+            "votes": {
+                "1": 0,
+                "10": 8,
+                "11": 36,
+                "12": 30,
+                "13": 9,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 95,
+                "22": 34,
+                "23": 1,
+                "24": 14,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 5,
+                "7": 4,
+                "8": 0,
+                "9": 85
+            }
+        },
+        "school_name": "HEYDAR ALİYEV M.T.A.L."
+    },
+    {
+        "ballot_box_number": 1161,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20658_cb_1093576715_1684082761131843054.jpg",
+            "submission_id": 204816,
+            "total_vote": 342,
+            "votes": {
+                "1": 138,
+                "2": 1,
+                "3": 179,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20658_mv_1083576715_1684083201418199155.jpg",
+            "submission_id": 212165,
+            "total_vote": 336,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 37,
+                "12": 37,
+                "13": 19,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 106,
+                "22": 17,
+                "23": 2,
+                "24": 18,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 0,
+                "9": 95
+            }
+        },
+        "school_name": "HEYDAR ALİYEV M.T.A.L."
+    },
+    {
+        "ballot_box_number": 1157,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20784_bulk_999999999_1684091100510576829.jpg",
+            "submission_id": 433883,
+            "total_vote": 339,
+            "votes": {
+                "1": 121,
+                "2": 0,
+                "3": 187,
+                "4": 31
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20784_bulk_999999999_1684092802724741233.jpg",
+            "submission_id": 461325,
+            "total_vote": 337,
+            "votes": {
+                "10": 6,
+                "11": 26,
+                "12": 46,
+                "13": 16,
+                "19": 1,
+                "21": 82,
+                "22": 34,
+                "23": 1,
+                "24": 16,
+                "3": 2,
+                "5": 1,
+                "6": 2,
+                "7": 9,
+                "8": 2,
+                "9": 93
+            }
+        },
+        "school_name": "HEYDAR ALİYEV M.T.A.L."
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "ballot_box_number": 1303,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67397_cb_1093799615_1684088165451468038.jpg",
+            "submission_id": 357292,
+            "total_vote": 306,
+            "votes": {
+                "1": 163,
+                "2": 2,
+                "3": 118,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "ZEYTİNDAĞ MAH. - YILMAZ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1302,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/67397_bulk_999999999_1684087177101520098.jpg",
+            "submission_id": 325244,
+            "total_vote": 263,
+            "votes": {
+                "1": 130,
+                "3": 122,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/67397_bulk_999999999_1684087177069485506.jpg",
+            "submission_id": 325242,
+            "total_vote": 255,
+            "votes": {
+                "10": 4,
+                "11": 19,
+                "12": 10,
+                "13": 5,
+                "15": 5,
+                "17": 1,
+                "19": 2,
+                "21": 64,
+                "22": 42,
+                "23": 4,
+                "24": 4,
+                "7": 3,
+                "9": 92
+            }
+        },
+        "school_name": "ZEYTİNDAĞ MAH. - YILMAZ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1304,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/67397_bulk_999999999_1684087177133219637.jpg",
+            "submission_id": 325246,
+            "total_vote": 311,
+            "votes": {
+                "1": 154,
+                "2": 2,
+                "3": 145,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67397_mv_1083799616_1684087635922725759.jpg",
+            "submission_id": 340274,
+            "total_vote": 309,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 23,
+                "12": 55,
+                "13": 9,
+                "14": 7,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 17,
+                "22": 54,
+                "23": 0,
+                "24": 0,
+                "3": 1,
+                "4": 7,
+                "5": 2,
+                "6": 0,
+                "7": 2,
+                "8": 2,
+                "9": 124
+            }
+        },
+        "school_name": "ZEYTİNDAĞ MAH. - YILMAZ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1306,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/67397_bulk_999999999_1684087555906633894.jpg",
+            "submission_id": 337710,
+            "total_vote": 319,
+            "votes": {
+                "1": 173,
+                "2": 3,
+                "3": 125,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "ZEYTİNDAĞ MAH. - YILMAZ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1305,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67397_cb_1093799617_1684087780991195216.jpg",
+            "submission_id": 344999,
+            "total_vote": 314,
+            "votes": {
+                "1": 159,
+                "2": 2,
+                "3": 143,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "ZEYTİNDAĞ MAH. - YILMAZ ORTAOKULU"
+    }
+]

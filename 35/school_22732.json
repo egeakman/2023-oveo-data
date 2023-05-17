@@ -1,0 +1,575 @@
+[
+    {
+        "ballot_box_number": 2329,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/49091_bulk_999999999_1684089810178102226.jpg",
+            "submission_id": 404764,
+            "total_vote": 332,
+            "votes": {
+                "1": 145,
+                "2": 1,
+                "3": 170,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49091_mv_1083582135_1684093396797062798.jpg",
+            "submission_id": 469364,
+            "total_vote": 325,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 16,
+                "12": 21,
+                "13": 8,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 104,
+                "22": 31,
+                "23": 0,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 6,
+                "8": 3,
+                "9": 117
+            }
+        },
+        "school_name": "YEŞİLOVA HALİL ATİLA İLKOKULU A-B BLOKLAR"
+    },
+    {
+        "ballot_box_number": 2336,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/39695_bulk_999999999_1684079669452957650.jpg",
+            "submission_id": 177857,
+            "total_vote": 325,
+            "votes": {
+                "1": 153,
+                "2": 2,
+                "3": 148,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49717_mv_1083582142_1684084795378620507.jpg",
+            "submission_id": 248412,
+            "total_vote": 319,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 19,
+                "12": 15,
+                "13": 12,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 89,
+                "22": 35,
+                "23": 1,
+                "24": 13,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 8,
+                "8": 2,
+                "9": 119
+            }
+        },
+        "school_name": "YEŞİLOVA HALİL ATİLA İLKOKULU A-B BLOKLAR"
+    },
+    {
+        "ballot_box_number": 2341,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49140_cb_1093582147_1684086551347814775.jpg",
+            "submission_id": 303318,
+            "total_vote": 320,
+            "votes": {
+                "1": 116,
+                "2": 2,
+                "3": 194,
+                "4": 8
+            }
+        },
+        "mv_result": null,
+        "school_name": "YEŞİLOVA HALİL ATİLA İLKOKULU A-B BLOKLAR"
+    },
+    {
+        "ballot_box_number": 2340,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49140_cb_1093582146_1684086300376241930.jpg",
+            "submission_id": 294742,
+            "total_vote": 328,
+            "votes": {
+                "1": 107,
+                "3": 192,
+                "4": 29
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49140_mv_1083582146_1684087632771222545.jpg",
+            "submission_id": 340149,
+            "total_vote": 328,
+            "votes": {
+                "10": 4,
+                "11": 11,
+                "12": 15,
+                "13": 12,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 114,
+                "22": 43,
+                "23": 0,
+                "24": 13,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 7,
+                "8": 3,
+                "9": 104
+            }
+        },
+        "school_name": "YEŞİLOVA HALİL ATİLA İLKOKULU A-B BLOKLAR"
+    },
+    {
+        "ballot_box_number": 2330,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/49091_bulk_999999999_1684089058285029296.jpg",
+            "submission_id": 384162,
+            "total_vote": 329,
+            "votes": {
+                "1": 147,
+                "2": 2,
+                "3": 158,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49091_mv_1083582136_1684093299044185268.jpg",
+            "submission_id": 468178,
+            "total_vote": 327,
+            "votes": {
+                "1": 1,
+                "10": 7,
+                "11": 26,
+                "12": 13,
+                "13": 12,
+                "17": 2,
+                "2": 1,
+                "20": 1,
+                "21": 112,
+                "22": 29,
+                "23": 1,
+                "24": 3,
+                "7": 8,
+                "9": 111
+            }
+        },
+        "school_name": "YEŞİLOVA HALİL ATİLA İLKOKULU A-B BLOKLAR"
+    },
+    {
+        "ballot_box_number": 2333,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49023_cb_1093582139_1684087108733495837.jpg",
+            "submission_id": 322876,
+            "total_vote": 342,
+            "votes": {
+                "1": 139,
+                "2": 1,
+                "3": 174,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/49091_bulk_999999999_1684087168715248350.jpg",
+            "submission_id": 324928,
+            "total_vote": 332,
+            "votes": {
+                "10": 5,
+                "11": 16,
+                "12": 18,
+                "13": 9,
+                "15": 1,
+                "21": 113,
+                "22": 37,
+                "23": 1,
+                "24": 14,
+                "6": 1,
+                "7": 7,
+                "8": 1,
+                "9": 109
+            }
+        },
+        "school_name": "YEŞİLOVA HALİL ATİLA İLKOKULU A-B BLOKLAR"
+    },
+    {
+        "ballot_box_number": 2331,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/49091_bulk_999999999_1684087169323574271.jpg",
+            "submission_id": 324944,
+            "total_vote": 331,
+            "votes": {
+                "1": 143,
+                "2": 1,
+                "3": 161,
+                "4": 26
+            }
+        },
+        "mv_result": null,
+        "school_name": "YEŞİLOVA HALİL ATİLA İLKOKULU A-B BLOKLAR"
+    },
+    {
+        "ballot_box_number": 2325,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/23423_bulk_999999999_1684096791235363396.jpg",
+            "submission_id": 515817,
+            "total_vote": 306,
+            "votes": {
+                "1": 111,
+                "2": 2,
+                "3": 184,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/23423_bulk_999999999_1684096790909297856.jpg",
+            "submission_id": 515813,
+            "total_vote": 301,
+            "votes": {
+                "10": 3,
+                "11": 17,
+                "12": 10,
+                "13": 3,
+                "15": 1,
+                "18": 1,
+                "2": 1,
+                "21": 121,
+                "22": 45,
+                "23": 1,
+                "24": 3,
+                "6": 2,
+                "7": 1,
+                "8": 1,
+                "9": 91
+            }
+        },
+        "school_name": "YEŞİLOVA HALİL ATİLA İLKOKULU A-B BLOKLAR"
+    },
+    {
+        "ballot_box_number": 2335,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49023_cb_1093582141_1684084551622464234.jpg",
+            "submission_id": 241816,
+            "total_vote": 327,
+            "votes": {
+                "1": 137,
+                "2": 3,
+                "3": 164,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "YEŞİLOVA HALİL ATİLA İLKOKULU A-B BLOKLAR"
+    },
+    {
+        "ballot_box_number": 2337,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/23423_bulk_999999999_1684096868277511053.jpg",
+            "submission_id": 516513,
+            "total_vote": 339,
+            "votes": {
+                "1": 165,
+                "2": 2,
+                "3": 150,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/23423_bulk_999999999_1684096827209118676.jpg",
+            "submission_id": 516196,
+            "total_vote": 331,
+            "votes": {
+                "11": 19,
+                "12": 7,
+                "13": 8,
+                "15": 1,
+                "19": 1,
+                "21": 98,
+                "22": 40,
+                "23": 1,
+                "24": 7,
+                "6": 3,
+                "7": 5,
+                "8": 2,
+                "9": 139
+            }
+        },
+        "school_name": "YEŞİLOVA HALİL ATİLA İLKOKULU A-B BLOKLAR"
+    },
+    {
+        "ballot_box_number": 2334,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49023_cb_1093582140_1684085049140908506.jpg",
+            "submission_id": 255577,
+            "total_vote": 328,
+            "votes": {
+                "1": 117,
+                "2": 4,
+                "3": 183,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49023_mv_1083582140_1684085174331312621.jpg",
+            "submission_id": 259105,
+            "total_vote": 320,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 18,
+                "12": 12,
+                "13": 10,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 113,
+                "22": 40,
+                "23": 0,
+                "24": 17,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 4,
+                "8": 3,
+                "9": 97
+            }
+        },
+        "school_name": "YEŞİLOVA HALİL ATİLA İLKOKULU A-B BLOKLAR"
+    },
+    {
+        "ballot_box_number": 2338,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49140_cb_1093582144_1684086176149796599.jpg",
+            "submission_id": 290678,
+            "total_vote": 334,
+            "votes": {
+                "1": 137,
+                "2": 5,
+                "3": 160,
+                "4": 32
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/23423_bulk_999999999_1684096827803912841.jpg",
+            "submission_id": 516215,
+            "total_vote": 331,
+            "votes": {
+                "1": 1,
+                "10": 5,
+                "11": 30,
+                "12": 5,
+                "13": 15,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 104,
+                "22": 44,
+                "23": 2,
+                "24": 14,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 7,
+                "8": 1,
+                "9": 100
+            }
+        },
+        "school_name": "YEŞİLOVA HALİL ATİLA İLKOKULU A-B BLOKLAR"
+    },
+    {
+        "ballot_box_number": 2332,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49023_cb_1093582138_1684085962471583616.jpg",
+            "submission_id": 283787,
+            "total_vote": 344,
+            "votes": {
+                "1": 149,
+                "2": 2,
+                "3": 182,
+                "4": 11
+            }
+        },
+        "mv_result": null,
+        "school_name": "YEŞİLOVA HALİL ATİLA İLKOKULU A-B BLOKLAR"
+    },
+    {
+        "ballot_box_number": 2342,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49140_cb_1093582148_1684086458941129086.jpg",
+            "submission_id": 300008,
+            "total_vote": 332,
+            "votes": {
+                "1": 106,
+                "2": 0,
+                "3": 194,
+                "4": 32
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49140_mv_1083582148_1684086431745341803.jpg",
+            "submission_id": 299082,
+            "total_vote": 322,
+            "votes": {
+                "10": 2,
+                "11": 19,
+                "12": 14,
+                "13": 12,
+                "15": 2,
+                "19": 1,
+                "21": 118,
+                "22": 45,
+                "23": 2,
+                "24": 14,
+                "6": 1,
+                "7": 7,
+                "8": 1,
+                "9": 84
+            }
+        },
+        "school_name": "YEŞİLOVA HALİL ATİLA İLKOKULU A-B BLOKLAR"
+    },
+    {
+        "ballot_box_number": 2328,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49023_cb_1093581334_1684085633767093613.jpg",
+            "submission_id": 272867,
+            "total_vote": 334,
+            "votes": {
+                "1": 120,
+                "2": 1,
+                "3": 186,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49023_mv_1083581334_1684088041470383281.jpg",
+            "submission_id": 353283,
+            "total_vote": 327,
+            "votes": {
+                "10": 2,
+                "11": 24,
+                "12": 16,
+                "13": 14,
+                "14": 1,
+                "15": 2,
+                "21": 110,
+                "22": 49,
+                "24": 11,
+                "6": 2,
+                "7": 3,
+                "9": 93
+            }
+        },
+        "school_name": "YEŞİLOVA HALİL ATİLA İLKOKULU A-B BLOKLAR"
+    },
+    {
+        "ballot_box_number": 2327,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/49091_bulk_999999999_1684087169398010233.jpg",
+            "submission_id": 324946,
+            "total_vote": 330,
+            "votes": {
+                "1": 111,
+                "2": 0,
+                "3": 195,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/49091_bulk_999999999_1684089058384749675.jpg",
+            "submission_id": 384165,
+            "total_vote": 323,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 14,
+                "12": 25,
+                "13": 12,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 121,
+                "22": 44,
+                "23": 0,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 1,
+                "8": 0,
+                "9": 94
+            }
+        },
+        "school_name": "YEŞİLOVA HALİL ATİLA İLKOKULU A-B BLOKLAR"
+    },
+    {
+        "ballot_box_number": 2326,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "YEŞİLOVA HALİL ATİLA İLKOKULU A-B BLOKLAR"
+    },
+    {
+        "ballot_box_number": 2339,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49140_cb_1093582145_1684087174441958698.jpg",
+            "submission_id": 325168,
+            "total_vote": 338,
+            "votes": {
+                "1": 119,
+                "2": 3,
+                "3": 180,
+                "4": 36
+            }
+        },
+        "mv_result": null,
+        "school_name": "YEŞİLOVA HALİL ATİLA İLKOKULU A-B BLOKLAR"
+    }
+]

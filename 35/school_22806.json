@@ -1,0 +1,482 @@
+[
+    {
+        "ballot_box_number": 1522,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47574_cb_1093589576_1684094658165787577.jpg",
+            "submission_id": 494615,
+            "total_vote": 333,
+            "votes": {
+                "1": 109,
+                "2": 3,
+                "3": 210,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47574_mv_1083589576_1684096749507834480.jpg",
+            "submission_id": 515448,
+            "total_vote": 327,
+            "votes": {
+                "10": 8,
+                "11": 17,
+                "12": 71,
+                "13": 12,
+                "14": 2,
+                "21": 118,
+                "22": 12,
+                "23": 1,
+                "24": 6,
+                "6": 3,
+                "7": 3,
+                "8": 1,
+                "9": 73
+            }
+        },
+        "school_name": "NALDÖKEN MUHARREM CANDAŞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1525,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61657_cb_1093589579_1684085268937881203.jpg",
+            "submission_id": 261834,
+            "total_vote": 323,
+            "votes": {
+                "1": 103,
+                "2": 1,
+                "3": 210,
+                "4": 9
+            }
+        },
+        "mv_result": null,
+        "school_name": "NALDÖKEN MUHARREM CANDAŞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1523,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47574_cb_1093589577_1684094733785886186.jpg",
+            "submission_id": 495494,
+            "total_vote": 321,
+            "votes": {
+                "1": 109,
+                "2": 0,
+                "3": 201,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c393d9ed-e58e-4e2b-86b6-d23b0819e151-1684105832608070978.jpg",
+            "submission_id": 702171,
+            "total_vote": 313,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 11,
+                "12": 67,
+                "13": 18,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 98,
+                "22": 16,
+                "23": 1,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 87
+            }
+        },
+        "school_name": "NALDÖKEN MUHARREM CANDAŞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1519,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47574_mv_1083588772_1684093305975110120.jpg",
+            "submission_id": 468253,
+            "total_vote": 329,
+            "votes": {
+                "1": 127,
+                "2": 2,
+                "3": 184,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47574_mv_1083588774_1684093986360569381.jpg",
+            "submission_id": 480530,
+            "total_vote": 325,
+            "votes": {
+                "1": 0,
+                "10": 8,
+                "11": 13,
+                "12": 74,
+                "13": 5,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 91,
+                "22": 18,
+                "23": 1,
+                "24": 7,
+                "3": 2,
+                "4": 1,
+                "5": 0,
+                "6": 3,
+                "7": 4,
+                "8": 3,
+                "9": 94
+            }
+        },
+        "school_name": "NALDÖKEN MUHARREM CANDAŞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1517,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/50031_cb_1093588771_1684082498754302742.jpg",
+            "submission_id": 200975,
+            "total_vote": 333,
+            "votes": {
+                "1": 98,
+                "2": 0,
+                "3": 227,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/50031_mv_1083588771_1684087500738668831.jpg",
+            "submission_id": 335933,
+            "total_vote": 331,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 14,
+                "12": 66,
+                "13": 17,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 140,
+                "22": 7,
+                "23": 0,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 78
+            }
+        },
+        "school_name": "NALDÖKEN MUHARREM CANDAŞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1521,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47574_cb_1093589575_1684095299865945665.jpg",
+            "submission_id": 501681,
+            "total_vote": 330,
+            "votes": {
+                "1": 114,
+                "2": 1,
+                "3": 201,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47574_mv_1083589575_1684095743994000205.jpg",
+            "submission_id": 506275,
+            "total_vote": 331,
+            "votes": {
+                "10": 8,
+                "11": 18,
+                "12": 56,
+                "13": 14,
+                "14": 1,
+                "15": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "20": 0,
+                "21": 122,
+                "22": 10,
+                "23": 1,
+                "24": 10,
+                "7": 3,
+                "9": 87
+            }
+        },
+        "school_name": "NALDÖKEN MUHARREM CANDAŞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1526,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67684_cb_1093589580_1684088336134589512.jpg",
+            "submission_id": 362384,
+            "total_vote": 331,
+            "votes": {
+                "1": 102,
+                "2": 2,
+                "3": 216,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67684_mv_1083589580_1684087526412083646.jpg",
+            "submission_id": 336776,
+            "total_vote": 322,
+            "votes": {
+                "1": 0,
+                "10": 9,
+                "11": 9,
+                "12": 83,
+                "13": 15,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 91,
+                "22": 20,
+                "23": 1,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 2,
+                "7": 4,
+                "8": 1,
+                "9": 78
+            }
+        },
+        "school_name": "NALDÖKEN MUHARREM CANDAŞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1527,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49202_cb_1093589581_1684084922771625969.jpg",
+            "submission_id": 251928,
+            "total_vote": 333,
+            "votes": {
+                "1": 125,
+                "2": 1,
+                "3": 195,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49202_mv_1083589581_1684085670577858347.jpg",
+            "submission_id": 274093,
+            "total_vote": 326,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 9,
+                "12": 96,
+                "13": 15,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 80,
+                "22": 9,
+                "23": 1,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 2,
+                "7": 5,
+                "8": 2,
+                "9": 93
+            }
+        },
+        "school_name": "NALDÖKEN MUHARREM CANDAŞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1516,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47574_cb_1093588770_1684093174745220687.jpg",
+            "submission_id": 466409,
+            "total_vote": 320,
+            "votes": {
+                "1": 93,
+                "3": 217,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47574_mv_1083588770_1684093207670355162.jpg",
+            "submission_id": 466898,
+            "total_vote": 310,
+            "votes": {
+                "1": 1,
+                "10": 5,
+                "11": 4,
+                "12": 59,
+                "13": 13,
+                "17": 1,
+                "20": 2,
+                "21": 126,
+                "22": 11,
+                "24": 4,
+                "5": 1,
+                "6": 2,
+                "7": 2,
+                "8": 1,
+                "9": 78
+            }
+        },
+        "school_name": "NALDÖKEN MUHARREM CANDAŞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1528,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29203_cb_1093589582_1684086009469752278.jpg",
+            "submission_id": 285216,
+            "total_vote": 342,
+            "votes": {
+                "1": 143,
+                "2": 1,
+                "3": 193,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47574_mv_1083589582_1684096135571272947.jpg",
+            "submission_id": 509712,
+            "total_vote": 339,
+            "votes": {
+                "10": 3,
+                "11": 24,
+                "12": 61,
+                "13": 24,
+                "20": 1,
+                "21": 105,
+                "22": 10,
+                "24": 4,
+                "6": 4,
+                "7": 4,
+                "9": 99
+            }
+        },
+        "school_name": "NALDÖKEN MUHARREM CANDAŞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1520,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47574_cb_1093588774_1684093385413619732.jpg",
+            "submission_id": 469247,
+            "total_vote": 343,
+            "votes": {
+                "1": 129,
+                "2": 2,
+                "3": 199,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "NALDÖKEN MUHARREM CANDAŞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1524,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61657_cb_1093589578_1684085541378851491.jpg",
+            "submission_id": 269867,
+            "total_vote": 337,
+            "votes": {
+                "1": 125,
+                "3": 207,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61657_mv_1083589578_1684086144503724858.jpg",
+            "submission_id": 289606,
+            "total_vote": 334,
+            "votes": {
+                "10": 2,
+                "11": 10,
+                "12": 88,
+                "13": 11,
+                "21": 82,
+                "22": 26,
+                "24": 3,
+                "6": 5,
+                "7": 3,
+                "9": 104
+            }
+        },
+        "school_name": "NALDÖKEN MUHARREM CANDAŞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1518,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47574_cb_1093588772_1684093235544703799.jpg",
+            "submission_id": 467327,
+            "total_vote": 322,
+            "votes": {
+                "1": 121,
+                "2": 1,
+                "3": 184,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47574_mv_1083588772_1684093486957109785.jpg",
+            "submission_id": 470437,
+            "total_vote": 309,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 14,
+                "12": 69,
+                "13": 43,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 82,
+                "23": 1,
+                "24": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 92
+            }
+        },
+        "school_name": "NALDÖKEN MUHARREM CANDAŞ ORTAOKULU"
+    }
+]

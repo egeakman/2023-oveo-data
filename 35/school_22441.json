@@ -1,0 +1,699 @@
+[
+    {
+        "ballot_box_number": 1042,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16250_cb_1093754327_1684086320031489036.jpg",
+            "submission_id": 295427,
+            "total_vote": 350,
+            "votes": {
+                "1": 61,
+                "2": 2,
+                "3": 263,
+                "4": 24
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT MUSTAFA HAKAN AYDOĞMUŞ İLKOKULU (EGEKENT-2 İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 1041,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16250_cb_1093754326_1684082284460323451.jpg",
+            "submission_id": 198164,
+            "total_vote": 346,
+            "votes": {
+                "1": 62,
+                "3": 264,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16250_mv_1083754326_1684082313138265325.jpg",
+            "submission_id": 198572,
+            "total_vote": 348,
+            "votes": {
+                "1": 1,
+                "10": 5,
+                "11": 10,
+                "12": 16,
+                "13": 23,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 5,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 173,
+                "22": 42,
+                "23": 1,
+                "24": 15,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 4,
+                "8": 0,
+                "9": 50
+            }
+        },
+        "school_name": "ŞEHİT MUSTAFA HAKAN AYDOĞMUŞ İLKOKULU (EGEKENT-2 İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 1037,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/66745_cb_1093754322_1684084308669583875.jpg",
+            "submission_id": 235714,
+            "total_vote": 339,
+            "votes": {
+                "1": 55,
+                "2": 1,
+                "3": 267,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/66745_mv_1083754322_1684083975929678020.jpg",
+            "submission_id": 227576,
+            "total_vote": 333,
+            "votes": {
+                "10": 4,
+                "11": 12,
+                "12": 22,
+                "13": 22,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "2": 1,
+                "21": 171,
+                "22": 47,
+                "23": 0,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "6": 0,
+                "7": 7,
+                "8": 0,
+                "9": 37
+            }
+        },
+        "school_name": "ŞEHİT MUSTAFA HAKAN AYDOĞMUŞ İLKOKULU (EGEKENT-2 İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 1046,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/40019_cb_1093754331_1684084724477550276.jpg",
+            "submission_id": 246561,
+            "total_vote": 342,
+            "votes": {
+                "1": 99,
+                "2": 2,
+                "3": 220,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/40019_mv_1083754331_1684084675450289568.jpg",
+            "submission_id": 245232,
+            "total_vote": 331,
+            "votes": {
+                "10": 9,
+                "11": 32,
+                "12": 22,
+                "13": 13,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "20": 2,
+                "21": 129,
+                "22": 48,
+                "23": 0,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 61
+            }
+        },
+        "school_name": "ŞEHİT MUSTAFA HAKAN AYDOĞMUŞ İLKOKULU (EGEKENT-2 İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 1051,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16250_cb_1093754696_1684085447771160037.jpg",
+            "submission_id": 267021,
+            "total_vote": 344,
+            "votes": {
+                "1": 81,
+                "2": 3,
+                "3": 235,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/16250_bulk_999999999_1684085599697603066.jpg",
+            "submission_id": 271754,
+            "total_vote": 342,
+            "votes": {
+                "1": 4,
+                "10": 3,
+                "11": 18,
+                "12": 31,
+                "13": 17,
+                "15": 2,
+                "18": 1,
+                "20": 1,
+                "21": 137,
+                "22": 54,
+                "24": 11,
+                "8": 1,
+                "9": 62
+            }
+        },
+        "school_name": "ŞEHİT MUSTAFA HAKAN AYDOĞMUŞ İLKOKULU (EGEKENT-2 İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 1052,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/16250_bulk_999999999_1684089974057717599.jpg",
+            "submission_id": 409051,
+            "total_vote": 342,
+            "votes": {
+                "1": 54,
+                "2": 2,
+                "3": 267,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/16250_bulk_999999999_1684090001927211743.jpg",
+            "submission_id": 409803,
+            "total_vote": 342,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 11,
+                "12": 16,
+                "13": 25,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 164,
+                "22": 50,
+                "23": 0,
+                "24": 10,
+                "3": 1,
+                "4": 0,
+                "5": 2,
+                "6": 1,
+                "7": 9,
+                "8": 0,
+                "9": 48
+            }
+        },
+        "school_name": "ŞEHİT MUSTAFA HAKAN AYDOĞMUŞ İLKOKULU (EGEKENT-2 İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 1045,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16250_cb_1093754330_1684078803181204845.jpg",
+            "submission_id": 175208,
+            "total_vote": 351,
+            "votes": {
+                "1": 71,
+                "3": 253,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/84777_mv_1083754330_1684091198397105649.jpg",
+            "submission_id": 435796,
+            "total_vote": 348,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 16,
+                "12": 36,
+                "13": 19,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 156,
+                "22": 42,
+                "23": 0,
+                "24": 13,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 2,
+                "9": 53
+            }
+        },
+        "school_name": "ŞEHİT MUSTAFA HAKAN AYDOĞMUŞ İLKOKULU (EGEKENT-2 İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 1047,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16250_cb_1093754332_1684086613703885666.jpg",
+            "submission_id": 305484,
+            "total_vote": 360,
+            "votes": {
+                "1": 58,
+                "2": 1,
+                "3": 287,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/66745_mv_1083754332_1684086988403815521.jpg",
+            "submission_id": 318520,
+            "total_vote": 359,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 10,
+                "12": 27,
+                "13": 35,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 186,
+                "22": 32,
+                "23": 0,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "5": 4,
+                "6": 0,
+                "7": 5,
+                "8": 0,
+                "9": 46
+            }
+        },
+        "school_name": "ŞEHİT MUSTAFA HAKAN AYDOĞMUŞ İLKOKULU (EGEKENT-2 İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 1043,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16250_cb_1093754328_1684085949829188800.jpg",
+            "submission_id": 283395,
+            "total_vote": 350,
+            "votes": {
+                "1": 73,
+                "3": 264,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16250_mv_1083754328_1684086246634792115.jpg",
+            "submission_id": 292942,
+            "total_vote": 346,
+            "votes": {
+                "1": 2,
+                "10": 4,
+                "11": 20,
+                "12": 20,
+                "13": 32,
+                "14": 1,
+                "18": 1,
+                "21": 157,
+                "22": 45,
+                "24": 10,
+                "7": 5,
+                "9": 49
+            }
+        },
+        "school_name": "ŞEHİT MUSTAFA HAKAN AYDOĞMUŞ İLKOKULU (EGEKENT-2 İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 1049,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16250_cb_1093754334_1684086838849071963.jpg",
+            "submission_id": 313381,
+            "total_vote": 334,
+            "votes": {
+                "1": 51,
+                "2": 1,
+                "3": 263,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16250_mv_1083754334_1684088525778610342.jpg",
+            "submission_id": 368301,
+            "total_vote": 333,
+            "votes": {
+                "10": 4,
+                "11": 16,
+                "12": 26,
+                "13": 35,
+                "21": 140,
+                "22": 55,
+                "24": 6,
+                "5": 1,
+                "6": 3,
+                "7": 6,
+                "8": 1,
+                "9": 40
+            }
+        },
+        "school_name": "ŞEHİT MUSTAFA HAKAN AYDOĞMUŞ İLKOKULU (EGEKENT-2 İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 1035,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/84777_cb_1093754320_1684091754848490274.jpg",
+            "submission_id": 445259,
+            "total_vote": 314,
+            "votes": {
+                "1": 71,
+                "2": 1,
+                "3": 236,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16250_mv_1083754320_1684088794318398417.jpg",
+            "submission_id": 376477,
+            "total_vote": 308,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 8,
+                "12": 18,
+                "13": 15,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 2,
+                "2": 1,
+                "20": 0,
+                "21": 173,
+                "22": 27,
+                "23": 0,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 0,
+                "8": 0,
+                "9": 57
+            }
+        },
+        "school_name": "ŞEHİT MUSTAFA HAKAN AYDOĞMUŞ İLKOKULU (EGEKENT-2 İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 1036,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16250_cb_1093754321_1684085339919208407.jpg",
+            "submission_id": 263873,
+            "total_vote": 324,
+            "votes": {
+                "1": 69,
+                "2": 5,
+                "3": 232,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16250_mv_1083754321_1684086094028842469.jpg",
+            "submission_id": 287977,
+            "total_vote": 324,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 6,
+                "12": 16,
+                "13": 12,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 177,
+                "22": 32,
+                "23": 1,
+                "24": 7,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 3,
+                "8": 1,
+                "9": 58
+            }
+        },
+        "school_name": "ŞEHİT MUSTAFA HAKAN AYDOĞMUŞ İLKOKULU (EGEKENT-2 İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 1040,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16250_cb_1093754320_1684089187992857582.jpg",
+            "submission_id": 387762,
+            "total_vote": 364,
+            "votes": {
+                "1": 81,
+                "2": 0,
+                "3": 269,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/84777_mv_1083754325_1684091430949918899.jpg",
+            "submission_id": 440086,
+            "total_vote": 345,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 12,
+                "12": 23,
+                "13": 28,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 160,
+                "22": 44,
+                "23": 0,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 4,
+                "8": 0,
+                "9": 59
+            }
+        },
+        "school_name": "ŞEHİT MUSTAFA HAKAN AYDOĞMUŞ İLKOKULU (EGEKENT-2 İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 1050,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16250_cb_1093754695_1684082841674022591.jpg",
+            "submission_id": 206081,
+            "total_vote": 336,
+            "votes": {
+                "1": 65,
+                "3": 253,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16250_mv_1083754695_1684082739857085057.jpg",
+            "submission_id": 204478,
+            "total_vote": 329,
+            "votes": {
+                "10": 2,
+                "11": 11,
+                "12": 30,
+                "13": 31,
+                "21": 138,
+                "22": 55,
+                "24": 7,
+                "6": 3,
+                "7": 1,
+                "8": 1,
+                "9": 50
+            }
+        },
+        "school_name": "ŞEHİT MUSTAFA HAKAN AYDOĞMUŞ İLKOKULU (EGEKENT-2 İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 1044,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16250_cb_1093754329_1684081967392801958.jpg",
+            "submission_id": 194213,
+            "total_vote": 356,
+            "votes": {
+                "1": 90,
+                "2": 4,
+                "3": 237,
+                "4": 25
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT MUSTAFA HAKAN AYDOĞMUŞ İLKOKULU (EGEKENT-2 İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 1039,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/84777_cb_1093754324_1684083776811185719.jpg",
+            "submission_id": 223495,
+            "total_vote": 339,
+            "votes": {
+                "1": 77,
+                "2": 0,
+                "3": 239,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/84777_mv_1083754324_1684083833654384347.jpg",
+            "submission_id": 224755,
+            "total_vote": 341,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 17,
+                "12": 23,
+                "13": 40,
+                "14": 0,
+                "15": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 137,
+                "22": 47,
+                "23": 0,
+                "24": 6,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 3,
+                "9": 60
+            }
+        },
+        "school_name": "ŞEHİT MUSTAFA HAKAN AYDOĞMUŞ İLKOKULU (EGEKENT-2 İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 1048,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/40019_cb_1093754333_1684082687629634082.jpg",
+            "submission_id": 203634,
+            "total_vote": 337,
+            "votes": {
+                "1": 92,
+                "3": 233,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16250_mv_1083754333_1684084251303273637.jpg",
+            "submission_id": 234288,
+            "total_vote": 343,
+            "votes": {
+                "10": 3,
+                "11": 18,
+                "12": 36,
+                "13": 29,
+                "2": 1,
+                "21": 129,
+                "22": 44,
+                "23": 1,
+                "24": 7,
+                "3": 1,
+                "4": 1,
+                "5": 1,
+                "7": 5,
+                "8": 1,
+                "9": 66
+            }
+        },
+        "school_name": "ŞEHİT MUSTAFA HAKAN AYDOĞMUŞ İLKOKULU (EGEKENT-2 İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 1038,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16250_cb_1093754323_1684085040408602872.jpg",
+            "submission_id": 255323,
+            "total_vote": 335,
+            "votes": {
+                "1": 91,
+                "2": 0,
+                "3": 222,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16250_mv_1083754323_1684084864064720387.jpg",
+            "submission_id": 250286,
+            "total_vote": 331,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 17,
+                "12": 17,
+                "13": 38,
+                "14": 2,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 134,
+                "22": 32,
+                "23": 2,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 2,
+                "9": 71
+            }
+        },
+        "school_name": "ŞEHİT MUSTAFA HAKAN AYDOĞMUŞ İLKOKULU (EGEKENT-2 İLKOKULU)"
+    }
+]

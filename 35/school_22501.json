@@ -1,0 +1,38 @@
+[
+    {
+        "ballot_box_number": 1088,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3ed2dbbc-1cf8-4bd3-922f-33ff39c18e77-1684106405286060508.jpg",
+            "submission_id": 783287,
+            "total_vote": 258,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 14,
+                "12": 3,
+                "13": 7,
+                "14": 2,
+                "15": 3,
+                "16": 0,
+                "17": 2,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 87,
+                "22": 29,
+                "23": 7,
+                "24": 6,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 2,
+                "8": 0,
+                "9": 87
+            }
+        },
+        "school_name": "AYVACIK DÜĞÜN SALONU"
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "ballot_box_number": 1170,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/34af4996-4871-4bf7-aefd-472e5b404fd3-1684106652732685236.jpg",
+            "submission_id": 819032,
+            "total_vote": 285,
+            "votes": {
+                "1": 140,
+                "2": 5,
+                "3": 109,
+                "4": 31
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/36690855-abff-41a9-8dae-8d348dfed1dd-1684106649942481474.jpg",
+            "submission_id": 818595,
+            "total_vote": 281,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 72,
+                "12": 1,
+                "13": 5,
+                "14": 10,
+                "15": 3,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 60,
+                "22": 27,
+                "23": 1,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 5,
+                "8": 1,
+                "9": 83
+            }
+        },
+        "school_name": "GÖRECE KÖY İLKOKULU"
+    }
+]

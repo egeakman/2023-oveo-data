@@ -1,0 +1,127 @@
+[
+    {
+        "ballot_box_number": 2024,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/26391_bulk_999999999_1684093093699503583.jpg",
+            "submission_id": 465221,
+            "total_vote": 285,
+            "votes": {
+                "1": 65,
+                "2": 2,
+                "3": 208,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/26391_bulk_999999999_1684093093611789337.jpg",
+            "submission_id": 465219,
+            "total_vote": 281,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 10,
+                "12": 9,
+                "13": 10,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 2,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 2,
+                "21": 150,
+                "22": 33,
+                "23": 2,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 8,
+                "8": 0,
+                "9": 46
+            }
+        },
+        "school_name": "SIDIKA RODOP ANADOLU LİSESİ B BLOK"
+    },
+    {
+        "ballot_box_number": 2026,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/26391_bulk_999999999_1684093093981713352.jpg",
+            "submission_id": 465230,
+            "total_vote": 297,
+            "votes": {
+                "1": 59,
+                "2": 0,
+                "3": 217,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/26391_bulk_999999999_1684093094049106764.jpg",
+            "submission_id": 465234,
+            "total_vote": 289,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 7,
+                "12": 11,
+                "13": 17,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 143,
+                "22": 48,
+                "23": 0,
+                "24": 6,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 2,
+                "9": 52
+            }
+        },
+        "school_name": "SIDIKA RODOP ANADOLU LİSESİ B BLOK"
+    },
+    {
+        "ballot_box_number": 2025,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/26391_bulk_999999999_1684093093780717240.jpg",
+            "submission_id": 465225,
+            "total_vote": 302,
+            "votes": {
+                "1": 95,
+                "2": 1,
+                "3": 194,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/26391_bulk_999999999_1684093093872616799.jpg",
+            "submission_id": 465228,
+            "total_vote": 295,
+            "votes": {
+                "10": 2,
+                "11": 9,
+                "12": 22,
+                "13": 21,
+                "21": 125,
+                "22": 29,
+                "24": 6,
+                "5": 1,
+                "7": 3,
+                "8": 2,
+                "9": 75
+            }
+        },
+        "school_name": "SIDIKA RODOP ANADOLU LİSESİ B BLOK"
+    }
+]

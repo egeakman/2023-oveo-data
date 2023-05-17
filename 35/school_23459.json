@@ -1,0 +1,32 @@
+[
+    {
+        "ballot_box_number": 1109,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source1-secim-images.oyveotesi.org/raw/1003792_cb_3758270_1684078208.jpeg",
+            "submission_id": 174138,
+            "total_vote": 124,
+            "votes": {
+                "1": 42,
+                "3": 80,
+                "4": 2
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21030_bulk_999999999_1684090231898796870.jpg",
+            "submission_id": 415323,
+            "total_vote": 119,
+            "votes": {
+                "11": 3,
+                "12": 3,
+                "19": 1,
+                "20": 1,
+                "21": 53,
+                "22": 23,
+                "24": 1,
+                "7": 2,
+                "9": 32
+            }
+        },
+        "school_name": "NOHUTALAN ESKİ İLKOKULU"
+    }
+]

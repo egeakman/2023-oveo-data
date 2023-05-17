@@ -1,0 +1,257 @@
+[
+    {
+        "ballot_box_number": 2228,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28372_cb_1093579474_1684082239803065975.jpg",
+            "submission_id": 197571,
+            "total_vote": 330,
+            "votes": {
+                "1": 102,
+                "2": 1,
+                "3": 201,
+                "4": 26
+            }
+        },
+        "mv_result": null,
+        "school_name": "YILDIRIM BEYAZIT İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 2233,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39695_cb_1093580039_1684094541252713597.jpeg",
+            "submission_id": 493196,
+            "total_vote": 330,
+            "votes": {
+                "1": 94,
+                "2": 3,
+                "3": 210,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28372_bulk_999999999_1684097746621872065.jpg",
+            "submission_id": 522815,
+            "total_vote": 327,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 16,
+                "12": 3,
+                "13": 13,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 149,
+                "22": 34,
+                "23": 0,
+                "24": 16,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 4,
+                "7": 8,
+                "8": 1,
+                "9": 78
+            }
+        },
+        "school_name": "YILDIRIM BEYAZIT İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 2227,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28372_cb_1093579473_1684079293660347494.jpg",
+            "submission_id": 176532,
+            "total_vote": 327,
+            "votes": {
+                "1": 113,
+                "2": 1,
+                "3": 196,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/39695_bulk_999999999_1684089793624437831.jpg",
+            "submission_id": 404361,
+            "total_vote": 321,
+            "votes": {
+                "10": 1,
+                "11": 6,
+                "12": 2,
+                "13": 13,
+                "21": 135,
+                "22": 41,
+                "23": 2,
+                "24": 12,
+                "6": 2,
+                "7": 4,
+                "8": 1,
+                "9": 102
+            }
+        },
+        "school_name": "YILDIRIM BEYAZIT İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 2232,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28372_bulk_999999999_1684082793984085241.jpg",
+            "submission_id": 205349,
+            "total_vote": 330,
+            "votes": {
+                "1": 92,
+                "2": 1,
+                "3": 221,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "YILDIRIM BEYAZIT İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 2231,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39695_mv_1083580037_1684095977176877307.jpeg",
+            "submission_id": 508410,
+            "total_vote": 321,
+            "votes": {
+                "10": 5,
+                "11": 14,
+                "12": 3,
+                "13": 16,
+                "14": 1,
+                "15": 1,
+                "21": 139,
+                "22": 45,
+                "23": 1,
+                "24": 9,
+                "6": 3,
+                "7": 10,
+                "8": 1,
+                "9": 73
+            }
+        },
+        "school_name": "YILDIRIM BEYAZIT İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 2234,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39695_cb_1093580040_1684094316751714400.jpeg",
+            "submission_id": 490556,
+            "total_vote": 329,
+            "votes": {
+                "1": 100,
+                "3": 200,
+                "4": 29
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39695_mv_1083580040_1684094385868753489.jpeg",
+            "submission_id": 491356,
+            "total_vote": 322,
+            "votes": {
+                "10": 1,
+                "11": 20,
+                "12": 12,
+                "13": 10,
+                "15": 1,
+                "2": 1,
+                "20": 1,
+                "21": 131,
+                "22": 47,
+                "23": 2,
+                "24": 9,
+                "6": 3,
+                "7": 5,
+                "9": 79
+            }
+        },
+        "school_name": "YILDIRIM BEYAZIT İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 2225,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/39695_bulk_999999999_1684079668962603730.jpg",
+            "submission_id": 177852,
+            "total_vote": 284,
+            "votes": {
+                "1": 89,
+                "2": 1,
+                "3": 179,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "YILDIRIM BEYAZIT İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 2230,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28372_cb_1093580036_1684088389918860069.jpg",
+            "submission_id": 364091,
+            "total_vote": 311,
+            "votes": {
+                "1": 96,
+                "2": 0,
+                "3": 206,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28372_mv_1083580036_1684088340391233079.jpg",
+            "submission_id": 362526,
+            "total_vote": 303,
+            "votes": {
+                "10": 3,
+                "11": 8,
+                "12": 13,
+                "13": 25,
+                "17": 1,
+                "21": 123,
+                "22": 32,
+                "23": 2,
+                "24": 3,
+                "6": 3,
+                "7": 6,
+                "9": 84
+            }
+        },
+        "school_name": "YILDIRIM BEYAZIT İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 2226,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28372_cb_1093579472_1684079257189198747.jpg",
+            "submission_id": 176405,
+            "total_vote": 302,
+            "votes": {
+                "1": 101,
+                "2": 1,
+                "3": 181,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "YILDIRIM BEYAZIT İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 2229,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/39695_bulk_999999999_1684083142096651601.jpg",
+            "submission_id": 211124,
+            "total_vote": 317,
+            "votes": {
+                "1": 120,
+                "2": 1,
+                "3": 169,
+                "4": 27
+            }
+        },
+        "mv_result": null,
+        "school_name": "YILDIRIM BEYAZIT İLKOKULU B BLOK"
+    }
+]

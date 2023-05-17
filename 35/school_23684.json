@@ -1,0 +1,285 @@
+[
+    {
+        "ballot_box_number": 1112,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10070_cb_1093575006_1684087764537436293.jpg",
+            "submission_id": 344475,
+            "total_vote": 284,
+            "votes": {
+                "1": 80,
+                "2": 2,
+                "3": 190,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10070_mv_1083575006_1684087133605023731.jpg",
+            "submission_id": 323678,
+            "total_vote": 278,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 6,
+                "12": 18,
+                "14": 1,
+                "15": 1,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 129,
+                "22": 31,
+                "23": 1,
+                "24": 8,
+                "3": 0,
+                "4": 1,
+                "5": 2,
+                "6": 0,
+                "7": 5,
+                "8": 0,
+                "9": 68
+            }
+        },
+        "school_name": "FATİH İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1115,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10070_cb_1093575009_1684086592599219869.jpg",
+            "submission_id": 304763,
+            "total_vote": 296,
+            "votes": {
+                "1": 97,
+                "2": 2,
+                "3": 184,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "FATİH İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1117,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source1-secim-images.oyveotesi.org/raw/1002308_cb_3575011_1684080738.jpeg",
+            "submission_id": 183485,
+            "total_vote": 321,
+            "votes": {
+                "1": 99,
+                "2": 0,
+                "3": 209,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "FATİH İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1114,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10070_cb_1093575008_1684089904637021010.jpg",
+            "submission_id": 407290,
+            "total_vote": 313,
+            "votes": {
+                "1": 102,
+                "2": 2,
+                "3": 199,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/10070_bulk_999999999_1684091643429699217.jpeg",
+            "submission_id": 443508,
+            "total_vote": 306,
+            "votes": {
+                "10": 4,
+                "11": 22,
+                "12": 14,
+                "21": 147,
+                "22": 32,
+                "24": 5,
+                "6": 2,
+                "7": 9,
+                "9": 71
+            }
+        },
+        "school_name": "FATİH İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1116,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10070_cb_1093575010_1684084276735895163.jpg",
+            "submission_id": 234952,
+            "total_vote": 312,
+            "votes": {
+                "1": 90,
+                "2": 2,
+                "3": 202,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/72326_mv_1083575010_1684086763589802742.jpg",
+            "submission_id": 310776,
+            "total_vote": 308,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 6,
+                "12": 32,
+                "14": 4,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 125,
+                "22": 52,
+                "23": 1,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 6,
+                "8": 1,
+                "9": 68
+            }
+        },
+        "school_name": "FATİH İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1119,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10070_cb_1093575013_1684087532752556654.jpg",
+            "submission_id": 336948,
+            "total_vote": 310,
+            "votes": {
+                "1": 63,
+                "2": 3,
+                "3": 222,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "FATİH İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1120,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10070_cb_1093575014_1684083513280460265.jpg",
+            "submission_id": 218059,
+            "total_vote": 309,
+            "votes": {
+                "1": 58,
+                "3": 237,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10070_mv_1083575014_1684083888492983132.jpg",
+            "submission_id": 225898,
+            "total_vote": 307,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 9,
+                "12": 11,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 164,
+                "22": 55,
+                "23": 2,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 0,
+                "8": 0,
+                "9": 50
+            }
+        },
+        "school_name": "FATİH İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1118,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source1-secim-images.oyveotesi.org/raw/1029549_cb_3575012_1684079586.jpeg",
+            "submission_id": 177552,
+            "total_vote": 311,
+            "votes": {
+                "1": 103,
+                "3": 190,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10070_mv_1083575012_1684084175124470669.jpg",
+            "submission_id": 232184,
+            "total_vote": 309,
+            "votes": {
+                "10": 2,
+                "11": 13,
+                "12": 35,
+                "14": 1,
+                "15": 2,
+                "2": 3,
+                "21": 115,
+                "22": 39,
+                "23": 1,
+                "24": 6,
+                "5": 1,
+                "6": 1,
+                "7": 5,
+                "8": 4,
+                "9": 81
+            }
+        },
+        "school_name": "FATİH İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1113,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10070_cb_1093575007_1684084552858778421.jpg",
+            "submission_id": 241843,
+            "total_vote": 315,
+            "votes": {
+                "1": 99,
+                "2": 3,
+                "3": 197,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10070_mv_1083575007_1684084475309757894.jpg",
+            "submission_id": 239872,
+            "total_vote": 308,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 6,
+                "12": 24,
+                "21": 130,
+                "22": 43,
+                "23": 2,
+                "24": 4,
+                "6": 2,
+                "7": 7,
+                "8": 4,
+                "9": 82
+            }
+        },
+        "school_name": "FATİH İLKOKULU"
+    }
+]

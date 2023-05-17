@@ -1,0 +1,353 @@
+[
+    {
+        "ballot_box_number": 1092,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/61c61de7-92d5-4a56-837c-26c29d86ce88-1684106689692999308.jpg",
+            "submission_id": 824744,
+            "total_vote": 318,
+            "votes": {
+                "1": 121,
+                "2": 2,
+                "3": 168,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/fd5dd661-7b26-4869-af6e-18827ddf8f1a-1684106052762691663.jpg",
+            "submission_id": 732104,
+            "total_vote": 312,
+            "votes": {
+                "1": 2,
+                "10": 4,
+                "11": 25,
+                "12": 25,
+                "14": 1,
+                "21": 94,
+                "22": 42,
+                "23": 1,
+                "24": 11,
+                "3": 4,
+                "6": 5,
+                "7": 5,
+                "8": 3,
+                "9": 90
+            }
+        },
+        "school_name": "TOKİ MEHMET AKİF ERSOY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1094,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/061233c2-83e0-4414-a9c5-cb80e45b8704-1684105881218796662.jpg",
+            "submission_id": 709266,
+            "total_vote": 304,
+            "votes": {
+                "1": 129,
+                "2": 1,
+                "3": 153,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "TOKİ MEHMET AKİF ERSOY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1087,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/284f9528-1d13-4c3d-bff7-d325e95a3589-1684106407470791411.jpg",
+            "submission_id": 783346,
+            "total_vote": 291,
+            "votes": {
+                "1": 125,
+                "2": 0,
+                "3": 157,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2c995085-0ff9-409f-bdf4-c91dd8f098a6-1684105973722909332.jpg",
+            "submission_id": 721145,
+            "total_vote": 280,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 21,
+                "12": 17,
+                "14": 2,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 105,
+                "22": 33,
+                "23": 1,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 1,
+                "9": 92
+            }
+        },
+        "school_name": "TOKİ MEHMET AKİF ERSOY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1091,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a5a76602-4646-44cd-8a1f-64045d4c70b6-1684106719762586660.jpg",
+            "submission_id": 828946,
+            "total_vote": 308,
+            "votes": {
+                "1": 144,
+                "2": 3,
+                "3": 142,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "TOKİ MEHMET AKİF ERSOY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1093,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/495edd76-68d2-4343-9fd8-147432645ef8-1684106659090345417.jpg",
+            "submission_id": 820094,
+            "total_vote": 301,
+            "votes": {
+                "1": 118,
+                "2": 1,
+                "3": 152,
+                "4": 30
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/262d1a9b-d6d8-4e4b-bc70-5e6de21b34a3-1684106399979134054.jpg",
+            "submission_id": 782742,
+            "total_vote": 301,
+            "votes": {
+                "10": 4,
+                "11": 24,
+                "12": 22,
+                "15": 1,
+                "18": 1,
+                "20": 1,
+                "21": 104,
+                "22": 31,
+                "23": 2,
+                "24": 16,
+                "3": 1,
+                "6": 1,
+                "7": 8,
+                "8": 3,
+                "9": 82
+            }
+        },
+        "school_name": "TOKİ MEHMET AKİF ERSOY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1088,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/df789228-3858-42a1-8fd5-4742f38e5f24-1684106671765982589.jpg",
+            "submission_id": 821860,
+            "total_vote": 319,
+            "votes": {
+                "1": 134,
+                "2": 1,
+                "3": 171,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9ffddc94-cd26-4dc3-bc6f-d61ca98b410d-1684105744531019791.jpg",
+            "submission_id": 688664,
+            "total_vote": 310,
+            "votes": {
+                "10": 3,
+                "11": 19,
+                "12": 39,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 89,
+                "22": 30,
+                "23": 1,
+                "24": 16,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 1,
+                "9": 106
+            }
+        },
+        "school_name": "TOKİ MEHMET AKİF ERSOY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1089,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/b044bab9-cb62-4f4f-b03d-a9291771348a-1684106006636395960.jpg",
+            "submission_id": 725546,
+            "total_vote": 313,
+            "votes": {
+                "1": 132,
+                "3": 158,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/65d9bda4-0a47-45b7-85d3-080b638e43fb-1684105998079019050.jpg",
+            "submission_id": 724231,
+            "total_vote": 311,
+            "votes": {
+                "1": 1,
+                "10": 5,
+                "11": 28,
+                "12": 12,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 105,
+                "22": 43,
+                "23": 3,
+                "24": 8,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 3,
+                "9": 100
+            }
+        },
+        "school_name": "TOKİ MEHMET AKİF ERSOY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1090,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/485dfdb1-cc34-46fa-942c-f29bab93532e-1684106374929069004.jpg",
+            "submission_id": 779548,
+            "total_vote": 312,
+            "votes": {
+                "1": 121,
+                "2": 0,
+                "3": 170,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5966d22e-4c59-4987-ba28-9d1fa7533ff5-1684106364089308622.jpg",
+            "submission_id": 778132,
+            "total_vote": 302,
+            "votes": {
+                "10": 2,
+                "11": 20,
+                "12": 24,
+                "19": 1,
+                "21": 97,
+                "22": 41,
+                "24": 14,
+                "7": 3,
+                "9": 100
+            }
+        },
+        "school_name": "TOKİ MEHMET AKİF ERSOY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1095,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/184e0a65-7b91-4415-b7ee-757fe407692a-1684106730869499354.jpg",
+            "submission_id": 830592,
+            "total_vote": 322,
+            "votes": {
+                "1": 126,
+                "3": 173,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/07c60566-05e9-4ddf-9f1a-69fc973c0f1f-1684106405334532259.jpg",
+            "submission_id": 783520,
+            "total_vote": 320,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 27,
+                "12": 31,
+                "13": 0,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 119,
+                "22": 25,
+                "23": 1,
+                "24": 12,
+                "3": 1,
+                "4": 1,
+                "5": 2,
+                "6": 1,
+                "7": 1,
+                "8": 0,
+                "9": 90
+            }
+        },
+        "school_name": "TOKİ MEHMET AKİF ERSOY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1096,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/547a9cdd-f925-4c32-8ded-cef5fd406ada-1684106766938805489.jpg",
+            "submission_id": 834643,
+            "total_vote": 328,
+            "votes": {
+                "1": 120,
+                "2": 1,
+                "3": 188,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a32ff4ae-1174-46e6-9756-933e49e8ab38-1684106592984119871.jpg",
+            "submission_id": 810906,
+            "total_vote": 324,
+            "votes": {
+                "10": 4,
+                "11": 23,
+                "12": 25,
+                "17": 1,
+                "18": 1,
+                "20": 1,
+                "21": 123,
+                "22": 43,
+                "23": 1,
+                "24": 6,
+                "5": 1,
+                "6": 1,
+                "7": 4,
+                "8": 5,
+                "9": 85
+            }
+        },
+        "school_name": "TOKİ MEHMET AKİF ERSOY İLKOKULU"
+    }
+]

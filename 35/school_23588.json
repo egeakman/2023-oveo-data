@@ -1,0 +1,135 @@
+[
+    {
+        "ballot_box_number": 1003,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/b61b77c3-1b5d-4e3a-bb8b-90e0afe56a2b-1684106474273646063.jpeg",
+            "submission_id": 793307,
+            "total_vote": 260,
+            "votes": {
+                "1": 77,
+                "2": 0,
+                "3": 177,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/cb93f303-a961-4d13-8e3b-a6f198c68a6f-1684106465036799491.jpeg",
+            "submission_id": 791910,
+            "total_vote": 250,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 5,
+                "12": 2,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 133,
+                "22": 40,
+                "23": 0,
+                "24": 1,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 2,
+                "9": 66
+            }
+        },
+        "school_name": "AHMETLİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1005,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/13448f08-e60a-4469-8dad-03bf3d856d68-1684106439678701631.jpeg",
+            "submission_id": 788224,
+            "total_vote": 260,
+            "votes": {
+                "1": 82,
+                "2": 1,
+                "3": 171,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d38d1ca6-21fb-439d-8d11-4a007c41ca15-1684106430780025279.jpeg",
+            "submission_id": 787157,
+            "total_vote": 253,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 15,
+                "12": 2,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 2,
+                "21": 122,
+                "22": 29,
+                "23": 1,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 1,
+                "9": 74
+            }
+        },
+        "school_name": "AHMETLİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1004,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/314492e7-d321-4fb8-88ea-b2182bfaff2e-1684106453076187114.jpeg",
+            "submission_id": 790534,
+            "total_vote": 261,
+            "votes": {
+                "1": 95,
+                "2": 1,
+                "3": 159,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/b24a50cb-3c4c-40b3-b6d3-7de669a7bb7b-1684106294448527121.jpg",
+            "submission_id": 767487,
+            "total_vote": 259,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 5,
+                "12": 4,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 132,
+                "22": 29,
+                "23": 0,
+                "24": 3,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 0,
+                "8": 0,
+                "9": 83
+            }
+        },
+        "school_name": "AHMETLİ İLKOKULU"
+    }
+]

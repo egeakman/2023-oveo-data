@@ -1,0 +1,47 @@
+[
+    {
+        "ballot_box_number": 1071,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e1983817-a87d-41d3-8901-d4db191c31ec-1684105353739667067.jpeg",
+            "submission_id": 624853,
+            "total_vote": 37,
+            "votes": {
+                "1": 17,
+                "2": 0,
+                "3": 20,
+                "4": 0
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/936cd9b7-1766-4822-bfba-c4901c02ab52-1684105351252179573.jpeg",
+            "submission_id": 624588,
+            "total_vote": 36,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 2,
+                "12": 1,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 14,
+                "22": 5,
+                "23": 0,
+                "24": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 0,
+                "8": 1,
+                "9": 12
+            }
+        },
+        "school_name": "SULTANİYE MAH- ( D E P O )"
+    }
+]

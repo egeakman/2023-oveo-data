@@ -1,0 +1,410 @@
+[
+    {
+        "ballot_box_number": 1131,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48484_cb_1093756778_1684084510326330745.jpg",
+            "submission_id": 240757,
+            "total_vote": 348,
+            "votes": {
+                "1": 40,
+                "3": 303,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22288_mv_1083756778_1684086908530717204.jpg",
+            "submission_id": 315745,
+            "total_vote": 343,
+            "votes": {
+                "11": 8,
+                "12": 18,
+                "15": 2,
+                "21": 214,
+                "22": 56,
+                "24": 5,
+                "3": 1,
+                "5": 1,
+                "6": 1,
+                "7": 5,
+                "9": 32
+            }
+        },
+        "school_name": "ÖZEL TAKEV İLK VE ORTAOKULU (YENİKALE MAH)"
+    },
+    {
+        "ballot_box_number": 1129,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/22287_bulk_999999999_1684091038913838690.jpeg",
+            "submission_id": 432703,
+            "total_vote": 341,
+            "votes": {
+                "1": 24,
+                "2": 1,
+                "3": 312,
+                "4": 4
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÖZEL TAKEV İLK VE ORTAOKULU (YENİKALE MAH)"
+    },
+    {
+        "ballot_box_number": 1138,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22288_cb_1093756785_1684089473385200598.jpg",
+            "submission_id": 395502,
+            "total_vote": 345,
+            "votes": {
+                "1": 48,
+                "2": 1,
+                "3": 284,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22288_mv_1083756785_1684089424403997048.jpg",
+            "submission_id": 394127,
+            "total_vote": 339,
+            "votes": {
+                "10": 1,
+                "11": 10,
+                "12": 12,
+                "19": 1,
+                "20": 1,
+                "21": 220,
+                "22": 48,
+                "23": 2,
+                "24": 6,
+                "7": 1,
+                "9": 37
+            }
+        },
+        "school_name": "ÖZEL TAKEV İLK VE ORTAOKULU (YENİKALE MAH)"
+    },
+    {
+        "ballot_box_number": 1132,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22069_cb_1093756779_1684080931076690627.jpg",
+            "submission_id": 184809,
+            "total_vote": 353,
+            "votes": {
+                "1": 51,
+                "3": 295,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22288_mv_1083756779_1684083665443878947.jpg",
+            "submission_id": 221142,
+            "total_vote": 353,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 10,
+                "12": 24,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 237,
+                "22": 32,
+                "23": 0,
+                "24": 4,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 0,
+                "9": 40
+            }
+        },
+        "school_name": "ÖZEL TAKEV İLK VE ORTAOKULU (YENİKALE MAH)"
+    },
+    {
+        "ballot_box_number": 1130,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22287_cb_1093756777_1684090631418331674.jpg",
+            "submission_id": 424199,
+            "total_vote": 344,
+            "votes": {
+                "1": 35,
+                "2": 2,
+                "3": 302,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22287_mv_1083756777_1684090702404991438.jpg",
+            "submission_id": 425613,
+            "total_vote": 344,
+            "votes": {
+                "10": 1,
+                "11": 3,
+                "12": 19,
+                "14": 1,
+                "21": 238,
+                "22": 40,
+                "23": 1,
+                "24": 2,
+                "3": 2,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 34
+            }
+        },
+        "school_name": "ÖZEL TAKEV İLK VE ORTAOKULU (YENİKALE MAH)"
+    },
+    {
+        "ballot_box_number": 1128,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/58838_cb_1093756775_1684088009412265824.jpg",
+            "submission_id": 352314,
+            "total_vote": 329,
+            "votes": {
+                "1": 28,
+                "3": 300,
+                "4": 1
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÖZEL TAKEV İLK VE ORTAOKULU (YENİKALE MAH)"
+    },
+    {
+        "ballot_box_number": 1133,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22288_cb_1093756780_1684084615287665295.jpg",
+            "submission_id": 243539,
+            "total_vote": 348,
+            "votes": {
+                "1": 52,
+                "2": 2,
+                "3": 282,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22288_mv_1083756780_1684084548504772132.jpg",
+            "submission_id": 241728,
+            "total_vote": 344,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 7,
+                "12": 15,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 206,
+                "22": 56,
+                "23": 1,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 1,
+                "8": 0,
+                "9": 47
+            }
+        },
+        "school_name": "ÖZEL TAKEV İLK VE ORTAOKULU (YENİKALE MAH)"
+    },
+    {
+        "ballot_box_number": 1135,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/617a77b3-d00e-44a5-a3cc-c7871bb6e47e-1684106210178498711.jpeg",
+            "submission_id": 755408,
+            "total_vote": 352,
+            "votes": {
+                "1": 33,
+                "2": 1,
+                "3": 314,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/22287_bulk_999999999_1684091536469267957.jpeg",
+            "submission_id": 441789,
+            "total_vote": 352,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 2,
+                "12": 20,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 239,
+                "22": 53,
+                "23": 1,
+                "24": 3,
+                "3": 3,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 26
+            }
+        },
+        "school_name": "ÖZEL TAKEV İLK VE ORTAOKULU (YENİKALE MAH)"
+    },
+    {
+        "ballot_box_number": 1134,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22288_mv_1083756781_1684088180947861121.jpg",
+            "submission_id": 357712,
+            "total_vote": 355,
+            "votes": {
+                "1": 38,
+                "2": 0,
+                "3": 312,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22288_cb_1093756781_1684088131307007205.jpg",
+            "submission_id": 356208,
+            "total_vote": 354,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 7,
+                "12": 19,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 234,
+                "22": 58,
+                "23": 1,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 0,
+                "9": 29
+            }
+        },
+        "school_name": "ÖZEL TAKEV İLK VE ORTAOKULU (YENİKALE MAH)"
+    },
+    {
+        "ballot_box_number": 1137,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/22288_bulk_999999999_1684091172670143623.jpg",
+            "submission_id": 435334,
+            "total_vote": 343,
+            "votes": {
+                "1": 57,
+                "2": 1,
+                "3": 276,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/22288_bulk_999999999_1684091125828760246.jpg",
+            "submission_id": 434404,
+            "total_vote": 338,
+            "votes": {
+                "1": 1,
+                "11": 16,
+                "12": 18,
+                "21": 208,
+                "22": 48,
+                "24": 5,
+                "3": 1,
+                "6": 1,
+                "7": 2,
+                "9": 38
+            }
+        },
+        "school_name": "ÖZEL TAKEV İLK VE ORTAOKULU (YENİKALE MAH)"
+    },
+    {
+        "ballot_box_number": 1136,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22288_cb_1093756783_1684088021591139839.jpg",
+            "submission_id": 352656,
+            "total_vote": 347,
+            "votes": {
+                "1": 40,
+                "3": 293,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22287_mv_1083756783_1684091863636540925.jpg",
+            "submission_id": 446966,
+            "total_vote": 348,
+            "votes": {
+                "11": 13,
+                "12": 25,
+                "21": 218,
+                "22": 56,
+                "24": 3,
+                "3": 2,
+                "5": 1,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 27
+            }
+        },
+        "school_name": "ÖZEL TAKEV İLK VE ORTAOKULU (YENİKALE MAH)"
+    },
+    {
+        "ballot_box_number": 1139,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22288_cb_1093756786_1684089656697406572.jpg",
+            "submission_id": 400584,
+            "total_vote": 347,
+            "votes": {
+                "1": 41,
+                "2": 1,
+                "3": 300,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22288_cb_1093756786_1684089581399016680.jpg",
+            "submission_id": 398556,
+            "total_vote": 340,
+            "votes": {
+                "10": 3,
+                "11": 1,
+                "12": 11,
+                "21": 215,
+                "22": 63,
+                "24": 6,
+                "3": 2,
+                "5": 2,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 32
+            }
+        },
+        "school_name": "ÖZEL TAKEV İLK VE ORTAOKULU (YENİKALE MAH)"
+    }
+]

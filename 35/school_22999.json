@@ -1,0 +1,325 @@
+[
+    {
+        "ballot_box_number": 1102,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39618_cb_1093859929_1684091931797626824.jpg",
+            "submission_id": 448106,
+            "total_vote": 343,
+            "votes": {
+                "1": 49,
+                "2": 0,
+                "3": 284,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39618_mv_1083859929_1684091966302619119.jpg",
+            "submission_id": 448710,
+            "total_vote": 340,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 5,
+                "12": 13,
+                "21": 218,
+                "22": 47,
+                "24": 8,
+                "3": 1,
+                "6": 1,
+                "7": 3,
+                "9": 41
+            }
+        },
+        "school_name": "VALİ VECDİ GÖNÜL ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1095,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39618_cb_1093859922_1684089558127115181.jpg",
+            "submission_id": 397871,
+            "total_vote": 316,
+            "votes": {
+                "1": 33,
+                "2": 2,
+                "3": 280,
+                "4": 1
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21945_cb_1093859922_1684089248273311784.jpg",
+            "submission_id": 389507,
+            "total_vote": 311,
+            "votes": {
+                "10": 0,
+                "11": 5,
+                "12": 8,
+                "14": 0,
+                "15": 0,
+                "2": 0,
+                "21": 235,
+                "22": 36,
+                "23": 0,
+                "24": 0,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "9": 25
+            }
+        },
+        "school_name": "VALİ VECDİ GÖNÜL ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1098,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21642_cb_1093859925_1684085342378939209.jpg",
+            "submission_id": 263949,
+            "total_vote": 326,
+            "votes": {
+                "1": 29,
+                "2": 2,
+                "3": 286,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21642_mv_1083859925_1684086275244797406.jpg",
+            "submission_id": 293920,
+            "total_vote": 324,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 2,
+                "12": 16,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "2": 0,
+                "21": 208,
+                "22": 58,
+                "23": 0,
+                "24": 5,
+                "3": 0,
+                "4": 1,
+                "5": 1,
+                "6": 2,
+                "7": 3,
+                "8": 0,
+                "9": 28
+            }
+        },
+        "school_name": "VALİ VECDİ GÖNÜL ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1096,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22267_cb_1093859922_1684086666592707700.jpg",
+            "submission_id": 307305,
+            "total_vote": 297,
+            "votes": {
+                "1": 36,
+                "2": 3,
+                "3": 250,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22267_cb_1093859923_1684086686503651912.jpg",
+            "submission_id": 308003,
+            "total_vote": 292,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 5,
+                "12": 1,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 2,
+                "20": 0,
+                "21": 196,
+                "22": 38,
+                "23": 0,
+                "24": 6,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 33
+            }
+        },
+        "school_name": "VALİ VECDİ GÖNÜL ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1099,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39618_cb_1093859926_1684082347614188251.jpg",
+            "submission_id": 198975,
+            "total_vote": 344,
+            "votes": {
+                "1": 46,
+                "3": 287,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39618_mv_1083859926_1684088556612313023.jpg",
+            "submission_id": 369260,
+            "total_vote": 343,
+            "votes": {
+                "11": 2,
+                "12": 17,
+                "19": 2,
+                "21": 214,
+                "22": 47,
+                "23": 1,
+                "24": 5,
+                "3": 7,
+                "6": 1,
+                "7": 2,
+                "9": 45
+            }
+        },
+        "school_name": "VALİ VECDİ GÖNÜL ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1101,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/11584_bulk_999999999_1684080606022029358.jpg",
+            "submission_id": 182647,
+            "total_vote": 340,
+            "votes": {
+                "1": 32,
+                "2": 0,
+                "3": 301,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/11584_mv_1083859928_1684085669944341972.jpg",
+            "submission_id": 274060,
+            "total_vote": 337,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 11,
+                "12": 22,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 226,
+                "22": 40,
+                "23": 0,
+                "24": 12,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 2,
+                "9": 20
+            }
+        },
+        "school_name": "VALİ VECDİ GÖNÜL ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1100,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39618_cb_1093859927_1684081971876365510.jpg",
+            "submission_id": 194264,
+            "total_vote": 324,
+            "votes": {
+                "1": 37,
+                "2": 3,
+                "3": 271,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39618_mv_1083859927_1684087635499256839.jpg",
+            "submission_id": 340250,
+            "total_vote": 324,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 3,
+                "12": 12,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 1,
+                "21": 197,
+                "22": 60,
+                "23": 0,
+                "24": 6,
+                "3": 3,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 4,
+                "8": 0,
+                "9": 33
+            }
+        },
+        "school_name": "VALİ VECDİ GÖNÜL ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1097,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21945_cb_1093859924_1684080487860663762.jpg",
+            "submission_id": 181985,
+            "total_vote": 329,
+            "votes": {
+                "1": 42,
+                "3": 277,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/73711_mv_1083859924_1684086181796469024.jpg",
+            "submission_id": 290817,
+            "total_vote": 326,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 9,
+                "12": 11,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 3,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 204,
+                "22": 52,
+                "23": 0,
+                "24": 9,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 31
+            }
+        },
+        "school_name": "VALİ VECDİ GÖNÜL ANADOLU LİSESİ"
+    }
+]

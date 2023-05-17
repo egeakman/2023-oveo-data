@@ -1,0 +1,47 @@
+[
+    {
+        "ballot_box_number": 1173,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/83932_bulk_999999999_1684084421710548051.jpg",
+            "submission_id": 238583,
+            "total_vote": 292,
+            "votes": {
+                "1": 105,
+                "2": 1,
+                "3": 176,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/83932_bulk_999999999_1684087407762856736.jpg",
+            "submission_id": 332962,
+            "total_vote": 285,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 19,
+                "12": 20,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 100,
+                "22": 46,
+                "23": 1,
+                "24": 2,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 5,
+                "8": 0,
+                "9": 84
+            }
+        },
+        "school_name": "ZEYTİNLER ESKİ İLKOKULU"
+    }
+]

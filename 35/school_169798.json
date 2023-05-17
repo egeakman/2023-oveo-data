@@ -1,0 +1,87 @@
+[
+    {
+        "ballot_box_number": 2305,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/27387_cb_1093800659_1684084164624772658.jpg",
+            "submission_id": 231896,
+            "total_vote": 324,
+            "votes": {
+                "1": 114,
+                "2": 0,
+                "3": 195,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "SAADET ONART İLKOKULU(L)"
+    },
+    {
+        "ballot_box_number": 2302,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0c99eb19-bb4d-48bb-b37d-f9afada73196-1684105754795684941.jpg",
+            "submission_id": 690797,
+            "total_vote": 297,
+            "votes": {
+                "1": 134,
+                "2": 2,
+                "3": 147,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/458053d7-7165-46b4-816c-5199e365ec7c-1684105700091572846.jpg",
+            "submission_id": 681496,
+            "total_vote": 288,
+            "votes": {
+                "10": 2,
+                "11": 9,
+                "12": 50,
+                "14": 1,
+                "17": 1,
+                "20": 1,
+                "21": 81,
+                "22": 6,
+                "24": 9,
+                "3": 1,
+                "5": 3,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 120
+            }
+        },
+        "school_name": "SAADET ONART İLKOKULU(L)"
+    },
+    {
+        "ballot_box_number": 2304,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/27387_cb_1093800656_1684083817962511580.jpg",
+            "submission_id": 224403,
+            "total_vote": 323,
+            "votes": {
+                "1": 128,
+                "2": 2,
+                "3": 173,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "SAADET ONART İLKOKULU(L)"
+    },
+    {
+        "ballot_box_number": 2303,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/27387_cb_1093800657_1684086371154890086.jpg",
+            "submission_id": 297030,
+            "total_vote": 304,
+            "votes": {
+                "1": 128,
+                "2": 0,
+                "3": 170,
+                "4": 6
+            }
+        },
+        "mv_result": null,
+        "school_name": "SAADET ONART İLKOKULU(L)"
+    }
+]

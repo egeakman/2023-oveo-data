@@ -1,0 +1,127 @@
+[
+    {
+        "ballot_box_number": 1088,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/10945_bulk_999999999_1684083123637232691.jpg",
+            "submission_id": 210804,
+            "total_vote": 259,
+            "votes": {
+                "1": 158,
+                "2": 1,
+                "3": 86,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10945_mv_1083755229_1684082755706826842.jpg",
+            "submission_id": 204718,
+            "total_vote": 251,
+            "votes": {
+                "10": 2,
+                "11": 12,
+                "12": 14,
+                "19": 1,
+                "21": 55,
+                "22": 24,
+                "24": 4,
+                "6": 1,
+                "7": 2,
+                "9": 136
+            }
+        },
+        "school_name": "DEREKÖY MUALLA-NUSRET SEZEL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1087,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/10945_bulk_999999999_1684082095986029467.jpg",
+            "submission_id": 195793,
+            "total_vote": 272,
+            "votes": {
+                "1": 182,
+                "2": 4,
+                "3": 70,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/10945_bulk_999999999_1684082157369992983.jpg",
+            "submission_id": 196541,
+            "total_vote": 267,
+            "votes": {
+                "10": 1,
+                "11": 31,
+                "12": 5,
+                "21": 48,
+                "22": 19,
+                "23": 1,
+                "24": 6,
+                "6": 2,
+                "7": 3,
+                "9": 151
+            }
+        },
+        "school_name": "DEREKÖY MUALLA-NUSRET SEZEL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1085,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684083192708616399.jpg",
+            "submission_id": 212013,
+            "total_vote": 261,
+            "votes": {
+                "1": 158,
+                "2": 3,
+                "3": 85,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "DEREKÖY MUALLA-NUSRET SEZEL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1086,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10945_cb_1093755227_1684086041226291211.jpg",
+            "submission_id": 286298,
+            "total_vote": 273,
+            "votes": {
+                "1": 161,
+                "2": 2,
+                "3": 86,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10945_mv_1083755227_1684086102209810340.jpg",
+            "submission_id": 288219,
+            "total_vote": 262,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 21,
+                "12": 7,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 58,
+                "22": 31,
+                "23": 0,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 131
+            }
+        },
+        "school_name": "DEREKÖY MUALLA-NUSRET SEZEL ORTAOKULU"
+    }
+]

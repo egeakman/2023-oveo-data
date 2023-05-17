@@ -1,0 +1,335 @@
+[
+    {
+        "ballot_box_number": 1129,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22783_cb_1093576277_1684097445373050178.jpg",
+            "submission_id": 520784,
+            "total_vote": 344,
+            "votes": {
+                "1": 112,
+                "3": 205,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22783_mv_1083576277_1684097506814563161.jpg",
+            "submission_id": 521222,
+            "total_vote": 342,
+            "votes": {
+                "1": 1,
+                "10": 6,
+                "11": 20,
+                "12": 12,
+                "13": 25,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 111,
+                "22": 48,
+                "23": 2,
+                "24": 13,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 9,
+                "7": 5,
+                "8": 0,
+                "9": 88
+            }
+        },
+        "school_name": "BALATÇIK İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1127,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22783_cb_1093576275_1684096925649796104.jpg",
+            "submission_id": 517031,
+            "total_vote": 346,
+            "votes": {
+                "1": 135,
+                "2": 2,
+                "3": 179,
+                "4": 30
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/61c30cb0-ad96-42d2-9f71-30054cf6f705-1684105411997263439.jpeg",
+            "submission_id": 634885,
+            "total_vote": 342,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 25,
+                "12": 11,
+                "13": 22,
+                "16": 2,
+                "21": 102,
+                "22": 44,
+                "23": 3,
+                "24": 16,
+                "5": 1,
+                "6": 2,
+                "7": 9,
+                "8": 2,
+                "9": 100
+            }
+        },
+        "school_name": "BALATÇIK İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1131,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22783_cb_1093576279_1684097752548065658.jpg",
+            "submission_id": 522856,
+            "total_vote": 326,
+            "votes": {
+                "1": 96,
+                "2": 1,
+                "3": 207,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "BALATÇIK İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1124,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/42808_cb_1093575552_1684096426722290318.jpg",
+            "submission_id": 512523,
+            "total_vote": 344,
+            "votes": {
+                "1": 115,
+                "2": 3,
+                "3": 213,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e33975e7-88b1-4450-ad4d-a58f460dd71c-1684105308883082468.jpeg",
+            "submission_id": 615824,
+            "total_vote": 338,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 17,
+                "12": 13,
+                "13": 18,
+                "14": 5,
+                "15": 0,
+                "16": 1,
+                "17": 1,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 125,
+                "22": 46,
+                "23": 1,
+                "24": 13,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 8,
+                "8": 1,
+                "9": 86
+            }
+        },
+        "school_name": "BALATÇIK İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1123,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22783_cb_1093575551_1684096311293080795.jpg",
+            "submission_id": 511403,
+            "total_vote": 330,
+            "votes": {
+                "1": 105,
+                "2": 1,
+                "3": 202,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22783_mv_1083575551_1684096370653505058.jpg",
+            "submission_id": 511998,
+            "total_vote": 321,
+            "votes": {
+                "10": 0,
+                "11": 20,
+                "12": 12,
+                "13": 17,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "2": 0,
+                "21": 120,
+                "22": 53,
+                "23": 1,
+                "24": 8,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 5,
+                "8": 1,
+                "9": 80
+            }
+        },
+        "school_name": "BALATÇIK İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1130,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22783_cb_1093576278_1684097580497441831.jpg",
+            "submission_id": 521724,
+            "total_vote": 339,
+            "votes": {
+                "1": 125,
+                "2": 0,
+                "3": 195,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ac6bd4ac-43d4-4fc8-a6d1-06d204177261-1684105596891531834.jpg",
+            "submission_id": 665003,
+            "total_vote": 335,
+            "votes": {
+                "10": 5,
+                "11": 21,
+                "12": 14,
+                "13": 35,
+                "14": 0,
+                "15": 0,
+                "2": 0,
+                "20": 0,
+                "21": 107,
+                "22": 41,
+                "23": 0,
+                "24": 13,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 4,
+                "8": 2,
+                "9": 92
+            }
+        },
+        "school_name": "BALATÇIK İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1126,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f7a32f63-fff9-432f-89ee-f1425122791e-1684105579532964664.jpg",
+            "submission_id": 661746,
+            "total_vote": 335,
+            "votes": {
+                "1": 90,
+                "3": 230,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "BALATÇIK İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1125,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22783_cb_1093575553_1684096578171164242.jpg",
+            "submission_id": 513845,
+            "total_vote": 346,
+            "votes": {
+                "1": 93,
+                "2": 1,
+                "3": 227,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22783_mv_1083575553_1684096718911115465.jpg",
+            "submission_id": 515155,
+            "total_vote": 341,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 9,
+                "12": 24,
+                "13": 30,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 126,
+                "22": 49,
+                "23": 1,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 7,
+                "8": 1,
+                "9": 77
+            }
+        },
+        "school_name": "BALATÇIK İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1128,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22783_cb_1093576276_1684097249888305204.jpg",
+            "submission_id": 519315,
+            "total_vote": 340,
+            "votes": {
+                "1": 98,
+                "2": 1,
+                "3": 213,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22783_mv_1083576276_1684097326775844893.jpg",
+            "submission_id": 519926,
+            "total_vote": 336,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 17,
+                "12": 20,
+                "13": 27,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 114,
+                "22": 40,
+                "23": 1,
+                "24": 21,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 4,
+                "7": 12,
+                "8": 1,
+                "9": 70
+            }
+        },
+        "school_name": "BALATÇIK İLK OKULU"
+    }
+]

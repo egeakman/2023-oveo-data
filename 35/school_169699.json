@@ -1,0 +1,843 @@
+[
+    {
+        "ballot_box_number": 1361,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25272_cb_1093801235_1684096486839210981.jpg",
+            "submission_id": 513013,
+            "total_vote": 335,
+            "votes": {
+                "1": 82,
+                "2": 0,
+                "3": 242,
+                "4": 11
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÖZEL KARABAĞLAR DELTA KOLEJİ"
+    },
+    {
+        "ballot_box_number": 1353,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/54103_cb_1093801007_1684081927338764154.jpg",
+            "submission_id": 193795,
+            "total_vote": 330,
+            "votes": {
+                "1": 81,
+                "2": 1,
+                "3": 236,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/54103_mv_1083801007_1684081896332608817.jpg",
+            "submission_id": 193423,
+            "total_vote": 328,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 5,
+                "12": 16,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 160,
+                "22": 55,
+                "23": 1,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 4,
+                "8": 1,
+                "9": 75
+            }
+        },
+        "school_name": "ÖZEL KARABAĞLAR DELTA KOLEJİ"
+    },
+    {
+        "ballot_box_number": 1350,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/66262_cb_1093801004_1684086632650914902.jpg",
+            "submission_id": 306127,
+            "total_vote": 332,
+            "votes": {
+                "1": 79,
+                "2": 1,
+                "3": 224,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/66262_mv_1083801004_1684084798254001651.jpg",
+            "submission_id": 248480,
+            "total_vote": 328,
+            "votes": {
+                "10": 3,
+                "11": 18,
+                "12": 16,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 165,
+                "22": 44,
+                "23": 0,
+                "24": 11,
+                "3": 3,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 0,
+                "9": 62
+            }
+        },
+        "school_name": "ÖZEL KARABAĞLAR DELTA KOLEJİ"
+    },
+    {
+        "ballot_box_number": 1365,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/25272_bulk_999999999_1684088424140052253.jpg",
+            "submission_id": 365167,
+            "total_vote": 337,
+            "votes": {
+                "1": 84,
+                "2": 1,
+                "3": 233,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÖZEL KARABAĞLAR DELTA KOLEJİ"
+    },
+    {
+        "ballot_box_number": 1351,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/54103_cb_1093801005_1684083319386405977.jpg",
+            "submission_id": 214306,
+            "total_vote": 334,
+            "votes": {
+                "1": 75,
+                "2": 1,
+                "3": 239,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/54103_mv_1083801005_1684084335601333239.jpg",
+            "submission_id": 236372,
+            "total_vote": 329,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 8,
+                "12": 11,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 172,
+                "22": 58,
+                "23": 0,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 9,
+                "8": 0,
+                "9": 58
+            }
+        },
+        "school_name": "ÖZEL KARABAĞLAR DELTA KOLEJİ"
+    },
+    {
+        "ballot_box_number": 1344,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/83977_cb_1093800998_1684083497057941483.jpg",
+            "submission_id": 217733,
+            "total_vote": 289,
+            "votes": {
+                "1": 68,
+                "2": 1,
+                "3": 212,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/64509_mv_1083800998_1684085068449906961.jpg",
+            "submission_id": 256112,
+            "total_vote": 289,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 7,
+                "12": 6,
+                "13": 0,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 150,
+                "22": 49,
+                "23": 1,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 2,
+                "8": 1,
+                "9": 65
+            }
+        },
+        "school_name": "ÖZEL KARABAĞLAR DELTA KOLEJİ"
+    },
+    {
+        "ballot_box_number": 1362,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25272_cb_1093801236_1684088531727518954.jpg",
+            "submission_id": 368523,
+            "total_vote": 336,
+            "votes": {
+                "1": 83,
+                "2": 2,
+                "3": 233,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25272_mv_1083801236_1684088705483583750.jpg",
+            "submission_id": 373870,
+            "total_vote": 334,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 18,
+                "12": 20,
+                "14": 0,
+                "15": 1,
+                "16": 9,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 2,
+                "21": 167,
+                "22": 44,
+                "23": 2,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 3,
+                "7": 1,
+                "8": 1,
+                "9": 51
+            }
+        },
+        "school_name": "ÖZEL KARABAĞLAR DELTA KOLEJİ"
+    },
+    {
+        "ballot_box_number": 1356,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/65606_bulk_999999999_1684081107940063297.jpeg",
+            "submission_id": 186119,
+            "total_vote": 335,
+            "votes": {
+                "1": 88,
+                "2": 4,
+                "3": 227,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÖZEL KARABAĞLAR DELTA KOLEJİ"
+    },
+    {
+        "ballot_box_number": 1355,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/65606_bulk_999999999_1684084976938178652.jpeg",
+            "submission_id": 253458,
+            "total_vote": 329,
+            "votes": {
+                "1": 87,
+                "2": 1,
+                "3": 221,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25272_mv_1083801009_1684096757805056810.jpg",
+            "submission_id": 515521,
+            "total_vote": 325,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 9,
+                "12": 11,
+                "14": 0,
+                "15": 1,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 116,
+                "22": 65,
+                "23": 0,
+                "24": 10,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 21,
+                "7": 6,
+                "8": 0,
+                "9": 79
+            }
+        },
+        "school_name": "ÖZEL KARABAĞLAR DELTA KOLEJİ"
+    },
+    {
+        "ballot_box_number": 1360,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c726f2e3-986f-46b6-878c-a32f4518406f-1684105214524001811.jpg",
+            "submission_id": 597157,
+            "total_vote": 326,
+            "votes": {
+                "1": 92,
+                "3": 216,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÖZEL KARABAĞLAR DELTA KOLEJİ"
+    },
+    {
+        "ballot_box_number": 1357,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/65606_bulk_999999999_1684080945390139475.jpeg",
+            "submission_id": 184899,
+            "total_vote": 337,
+            "votes": {
+                "1": 99,
+                "2": 1,
+                "3": 217,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/65606_bulk_999999999_1684080945454070002.jpeg",
+            "submission_id": 184900,
+            "total_vote": 333,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 23,
+                "12": 9,
+                "14": 0,
+                "2": 0,
+                "20": 0,
+                "21": 153,
+                "22": 54,
+                "23": 0,
+                "24": 4,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 1,
+                "8": 1,
+                "9": 81
+            }
+        },
+        "school_name": "ÖZEL KARABAĞLAR DELTA KOLEJİ"
+    },
+    {
+        "ballot_box_number": 1347,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/66262_cb_1093801001_1684082133256680923.jpg",
+            "submission_id": 196264,
+            "total_vote": 326,
+            "votes": {
+                "1": 78,
+                "2": 0,
+                "3": 239,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25272_mv_1083801001_1684096331778157404.jpg",
+            "submission_id": 511593,
+            "total_vote": 324,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 17,
+                "12": 1,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 85,
+                "19": 2,
+                "2": 1,
+                "20": 0,
+                "21": 171,
+                "22": 22,
+                "23": 1,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 4,
+                "7": 3,
+                "8": 0,
+                "9": 6
+            }
+        },
+        "school_name": "ÖZEL KARABAĞLAR DELTA KOLEJİ"
+    },
+    {
+        "ballot_box_number": 1363,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25272_cb_1093801237_1684088634799737567.jpg",
+            "submission_id": 371752,
+            "total_vote": 313,
+            "votes": {
+                "1": 108,
+                "2": 0,
+                "3": 190,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7ce036e1-114a-4f8c-a9a9-05ece09bfaf1-1684105227986270956.jpg",
+            "submission_id": 598921,
+            "total_vote": 316,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 11,
+                "12": 12,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 133,
+                "22": 49,
+                "23": 1,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 3,
+                "9": 88
+            }
+        },
+        "school_name": "ÖZEL KARABAĞLAR DELTA KOLEJİ"
+    },
+    {
+        "ballot_box_number": 1346,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/64509_cb_1093801000_1684080922507428281.jpg",
+            "submission_id": 184741,
+            "total_vote": 311,
+            "votes": {
+                "1": 71,
+                "2": 1,
+                "3": 226,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/25272_bulk_999999999_1684097244747856121.jpg",
+            "submission_id": 519293,
+            "total_vote": 305,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 5,
+                "12": 5,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 183,
+                "22": 36,
+                "23": 0,
+                "24": 7,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "7": 0,
+                "8": 0,
+                "9": 66
+            }
+        },
+        "school_name": "ÖZEL KARABAĞLAR DELTA KOLEJİ"
+    },
+    {
+        "ballot_box_number": 1348,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/64509_cb_1093801002_1684080634606866143.jpg",
+            "submission_id": 182818,
+            "total_vote": 335,
+            "votes": {
+                "1": 83,
+                "2": 2,
+                "3": 226,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/66262_mv_1083801002_1684087105135271751.jpg",
+            "submission_id": 322727,
+            "total_vote": 333,
+            "votes": {
+                "1": 9,
+                "10": 3,
+                "11": 9,
+                "12": 8,
+                "14": 0,
+                "15": 0,
+                "16": 8,
+                "17": 6,
+                "18": 0,
+                "19": 0,
+                "2": 9,
+                "20": 8,
+                "21": 176,
+                "22": 51,
+                "23": 1,
+                "24": 9,
+                "3": 7,
+                "4": 7,
+                "5": 9,
+                "6": 0,
+                "7": 5,
+                "8": 0,
+                "9": 8
+            }
+        },
+        "school_name": "ÖZEL KARABAĞLAR DELTA KOLEJİ"
+    },
+    {
+        "ballot_box_number": 1345,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/64509_cb_1093800999_1684083926854281135.jpg",
+            "submission_id": 226618,
+            "total_vote": 327,
+            "votes": {
+                "1": 74,
+                "2": 3,
+                "3": 230,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÖZEL KARABAĞLAR DELTA KOLEJİ"
+    },
+    {
+        "ballot_box_number": 1364,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/34d1fb80-27c9-45c1-b6cb-85ac909105b6-1684105238583560520.jpg",
+            "submission_id": 601083,
+            "total_vote": 310,
+            "votes": {
+                "1": 76,
+                "2": 1,
+                "3": 214,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0b267c77-17c5-442c-b45c-2d8211fb7d86-1684105236032598228.jpg",
+            "submission_id": 600664,
+            "total_vote": 313,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 13,
+                "12": 9,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 142,
+                "22": 61,
+                "23": 0,
+                "24": 9,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 4,
+                "8": 3,
+                "9": 65
+            }
+        },
+        "school_name": "ÖZEL KARABAĞLAR DELTA KOLEJİ"
+    },
+    {
+        "ballot_box_number": 1354,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/54103_cb_1093801008_1684087682763267431.jpg",
+            "submission_id": 341818,
+            "total_vote": 335,
+            "votes": {
+                "1": 79,
+                "2": 0,
+                "3": 238,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/54103_mv_1083801008_1684087711052254816.jpg",
+            "submission_id": 342762,
+            "total_vote": 326,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 16,
+                "12": 10,
+                "14": 0,
+                "15": 3,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 171,
+                "22": 52,
+                "23": 0,
+                "24": 7,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 5,
+                "8": 0,
+                "9": 57
+            }
+        },
+        "school_name": "ÖZEL KARABAĞLAR DELTA KOLEJİ"
+    },
+    {
+        "ballot_box_number": 1349,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/44772_cb_1093801003_1684080113706894450.jpg",
+            "submission_id": 179825,
+            "total_vote": 333,
+            "votes": {
+                "1": 102,
+                "2": 1,
+                "3": 220,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/44772_mv_1083801003_1684086472339930753.jpg",
+            "submission_id": 300496,
+            "total_vote": 329,
+            "votes": {
+                "10": 0,
+                "11": 18,
+                "12": 9,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 170,
+                "22": 39,
+                "23": 0,
+                "24": 4,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 6,
+                "8": 2,
+                "9": 78
+            }
+        },
+        "school_name": "ÖZEL KARABAĞLAR DELTA KOLEJİ"
+    },
+    {
+        "ballot_box_number": 1358,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/65606_bulk_999999999_1684085949349196131.jpeg",
+            "submission_id": 283389,
+            "total_vote": 330,
+            "votes": {
+                "1": 88,
+                "2": 1,
+                "3": 222,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÖZEL KARABAĞLAR DELTA KOLEJİ"
+    },
+    {
+        "ballot_box_number": 1352,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/54103_cb_1093800998_1684080843262807567.jpg",
+            "submission_id": 184168,
+            "total_vote": 323,
+            "votes": {
+                "1": 75,
+                "2": 2,
+                "3": 229,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/64509_mv_1083801006_1684082782572923402.jpg",
+            "submission_id": 205165,
+            "total_vote": 315,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 11,
+                "12": 32,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 132,
+                "22": 63,
+                "23": 0,
+                "24": 7,
+                "3": 1,
+                "4": 1,
+                "5": 2,
+                "6": 1,
+                "7": 5,
+                "8": 0,
+                "9": 57
+            }
+        },
+        "school_name": "ÖZEL KARABAĞLAR DELTA KOLEJİ"
+    },
+    {
+        "ballot_box_number": 1359,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25272_cb_1093801013_1684088269353750706.jpg",
+            "submission_id": 360390,
+            "total_vote": 330,
+            "votes": {
+                "1": 72,
+                "3": 239,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25272_mv_1083801013_1684088310182061768.jpg",
+            "submission_id": 361620,
+            "total_vote": 330,
+            "votes": {
+                "10": 1,
+                "11": 16,
+                "12": 17,
+                "14": 1,
+                "21": 152,
+                "22": 63,
+                "23": 1,
+                "24": 7,
+                "3": 1,
+                "7": 11,
+                "8": 1,
+                "9": 59
+            }
+        },
+        "school_name": "ÖZEL KARABAĞLAR DELTA KOLEJİ"
+    },
+    {
+        "ballot_box_number": 1343,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/64509_cb_1093800997_1684084483672204173.jpg",
+            "submission_id": 240104,
+            "total_vote": 297,
+            "votes": {
+                "1": 80,
+                "2": 2,
+                "3": 202,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25272_mv_1083800997_1684096238700570386.jpg",
+            "submission_id": 510688,
+            "total_vote": 283,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 7,
+                "12": 15,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 133,
+                "22": 52,
+                "23": 2,
+                "24": 3,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 5,
+                "8": 0,
+                "9": 61
+            }
+        },
+        "school_name": "ÖZEL KARABAĞLAR DELTA KOLEJİ"
+    }
+]

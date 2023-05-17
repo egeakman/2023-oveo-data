@@ -1,0 +1,181 @@
+[
+    {
+        "ballot_box_number": 1424,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21340_cb_1093585732_1684083850289586189.jpg",
+            "submission_id": 225093,
+            "total_vote": 322,
+            "votes": {
+                "1": 109,
+                "2": 4,
+                "3": 189,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "MALAZGİRT İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1425,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21340_cb_1093585733_1684084584768667841.jpg",
+            "submission_id": 242750,
+            "total_vote": 332,
+            "votes": {
+                "1": 101,
+                "2": 2,
+                "3": 201,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21340_mv_1083585733_1684084281508244884.jpg",
+            "submission_id": 235072,
+            "total_vote": 325,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 13,
+                "12": 12,
+                "13": 16,
+                "15": 3,
+                "17": 1,
+                "20": 1,
+                "21": 123,
+                "22": 48,
+                "23": 2,
+                "24": 13,
+                "3": 1,
+                "7": 6,
+                "9": 84
+            }
+        },
+        "school_name": "MALAZGİRT İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1422,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21340_cb_1093585730_1684077820939647810.jpg",
+            "submission_id": 173679,
+            "total_vote": 318,
+            "votes": {
+                "1": 124,
+                "3": 177,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21340_mv_1083585730_1684083215843701780.jpg",
+            "submission_id": 212419,
+            "total_vote": 307,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 19,
+                "12": 13,
+                "13": 9,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 120,
+                "22": 35,
+                "23": 1,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 0,
+                "9": 94
+            }
+        },
+        "school_name": "MALAZGİRT İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1423,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31243_cb_1093585731_1684087899360431362.jpg",
+            "submission_id": 348637,
+            "total_vote": 325,
+            "votes": {
+                "1": 76,
+                "2": 3,
+                "3": 210,
+                "4": 36
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31243_mv_1083585731_1684088310039598278.jpg",
+            "submission_id": 361615,
+            "total_vote": 311,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 10,
+                "12": 13,
+                "13": 20,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 131,
+                "22": 42,
+                "23": 1,
+                "24": 15,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 7,
+                "7": 9,
+                "8": 0,
+                "9": 61
+            }
+        },
+        "school_name": "MALAZGİRT İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1421,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21340_cb_1093585729_1684086341889806860.jpg",
+            "submission_id": 296106,
+            "total_vote": 305,
+            "votes": {
+                "1": 106,
+                "2": 3,
+                "3": 184,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21340_mv_1083585729_1684086389381658959.jpg",
+            "submission_id": 297701,
+            "total_vote": 305,
+            "votes": {
+                "10": 1,
+                "11": 7,
+                "12": 9,
+                "13": 14,
+                "14": 2,
+                "15": 4,
+                "21": 131,
+                "22": 33,
+                "23": 5,
+                "24": 6,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "9": 89
+            }
+        },
+        "school_name": "MALAZGİRT İLKOKULU"
+    }
+]

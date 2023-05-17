@@ -1,0 +1,145 @@
+[
+    {
+        "ballot_box_number": 1110,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48020_cb_1093574724_1684088827404054773.jpg",
+            "submission_id": 377388,
+            "total_vote": 297,
+            "votes": {
+                "1": 157,
+                "2": 3,
+                "3": 118,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/48020_bulk_999999999_1684089241418086319.jpg",
+            "submission_id": 389300,
+            "total_vote": 291,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 20,
+                "12": 15,
+                "13": 7,
+                "14": 3,
+                "15": 5,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 2,
+                "21": 53,
+                "22": 41,
+                "23": 2,
+                "24": 3,
+                "3": 4,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 6,
+                "8": 2,
+                "9": 122
+            }
+        },
+        "school_name": "EĞRİDERE KÖY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1113,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48020_cb_1093574727_1684090612729762836.jpg",
+            "submission_id": 423852,
+            "total_vote": 308,
+            "votes": {
+                "1": 170,
+                "3": 122,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48020_mv_1083574727_1684090723615273118.jpg",
+            "submission_id": 426032,
+            "total_vote": 292,
+            "votes": {
+                "1": 1,
+                "10": 10,
+                "11": 21,
+                "12": 38,
+                "13": 4,
+                "21": 57,
+                "22": 19,
+                "23": 2,
+                "24": 12,
+                "5": 1,
+                "6": 2,
+                "7": 2,
+                "8": 3,
+                "9": 120
+            }
+        },
+        "school_name": "EĞRİDERE KÖY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1112,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48020_cb_1093574726_1684089386560909216.jpg",
+            "submission_id": 393098,
+            "total_vote": 291,
+            "votes": {
+                "1": 162,
+                "2": 2,
+                "3": 117,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "EĞRİDERE KÖY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1111,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48020_cb_1093574725_1684088269538404500.jpg",
+            "submission_id": 360398,
+            "total_vote": 290,
+            "votes": {
+                "1": 167,
+                "2": 3,
+                "3": 106,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48020_mv_1083574725_1684088461889373282.jpg",
+            "submission_id": 366287,
+            "total_vote": 282,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 25,
+                "12": 35,
+                "13": 4,
+                "14": 2,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 55,
+                "22": 15,
+                "23": 1,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 1,
+                "7": 2,
+                "8": 4,
+                "9": 126
+            }
+        },
+        "school_name": "EĞRİDERE KÖY İLKOKULU"
+    }
+]

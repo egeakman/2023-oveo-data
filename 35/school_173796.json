@@ -1,0 +1,47 @@
+[
+    {
+        "ballot_box_number": 1055,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/27509_bulk_999999999_1684090590888482961.jpg",
+            "submission_id": 423474,
+            "total_vote": 329,
+            "votes": {
+                "1": 47,
+                "2": 1,
+                "3": 269,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/27509_bulk_999999999_1684090590993734868.jpg",
+            "submission_id": 423476,
+            "total_vote": 327,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 9,
+                "12": 23,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 198,
+                "22": 43,
+                "23": 2,
+                "24": 13,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 2,
+                "7": 2,
+                "8": 0,
+                "9": 31
+            }
+        },
+        "school_name": "DÜZCE MAH.ULUSLARARASI SEFERİHİSAR İMKB ANADOLU İMAM HATİP LİSESİ"
+    }
+]

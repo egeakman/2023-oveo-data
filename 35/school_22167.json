@@ -1,0 +1,50 @@
+[
+    {
+        "ballot_box_number": 1014,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/78625_cb_1093570529_1684084946028872849.jpg",
+            "submission_id": 252560,
+            "total_vote": 194,
+            "votes": {
+                "1": 51,
+                "2": 2,
+                "3": 137,
+                "4": 4
+            }
+        },
+        "mv_result": null,
+        "school_name": "KÜÇÜKBAHÇE KÖY KONAĞI"
+    },
+    {
+        "ballot_box_number": 1015,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/78625_cb_1093570530_1684086774250908061.jpg",
+            "submission_id": 311159,
+            "total_vote": 204,
+            "votes": {
+                "1": 48,
+                "2": 0,
+                "3": 154,
+                "4": 2
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/78625_mv_1083570530_1684086859656933811.jpg",
+            "submission_id": 314087,
+            "total_vote": 201,
+            "votes": {
+                "11": 7,
+                "12": 27,
+                "14": 1,
+                "15": 1,
+                "21": 103,
+                "22": 24,
+                "24": 1,
+                "5": 1,
+                "7": 1,
+                "9": 35
+            }
+        },
+        "school_name": "KÜÇÜKBAHÇE KÖY KONAĞI"
+    }
+]

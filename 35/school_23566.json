@@ -1,0 +1,124 @@
+[
+    {
+        "ballot_box_number": 1209,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61346_cb_1093798783_1684091050338038662.jpg",
+            "submission_id": 432917,
+            "total_vote": 251,
+            "votes": {
+                "1": 121,
+                "2": 1,
+                "3": 112,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/84689279-3b0f-483a-89b3-c7b710a5e7e0-1684106224860043553.jpeg",
+            "submission_id": 757465,
+            "total_vote": 241,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 17,
+                "12": 16,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 69,
+                "22": 30,
+                "23": 0,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "7": 0,
+                "8": 0,
+                "9": 94
+            }
+        },
+        "school_name": "HACI TAHSİN IRMAK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1207,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/61346_bulk_999999999_1684091302738276349.png",
+            "submission_id": 437796,
+            "total_vote": 239,
+            "votes": {
+                "1": 115,
+                "2": 2,
+                "3": 110,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61346_mv_1083798781_1684090868185488125.jpg",
+            "submission_id": 429201,
+            "total_vote": 228,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 21,
+                "12": 8,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 71,
+                "22": 34,
+                "23": 0,
+                "24": 1,
+                "3": 1,
+                "4": 1,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "8": 0,
+                "9": 85
+            }
+        },
+        "school_name": "HACI TAHSİN IRMAK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1208,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61346_cb_1093798782_1684090794435410197.jpg",
+            "submission_id": 427568,
+            "total_vote": 237,
+            "votes": {
+                "1": 107,
+                "2": 3,
+                "3": 113,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/44458fde-caf2-4748-9d4b-47cfe7ddfcbc-1684106441376941662.jpeg",
+            "submission_id": 788492,
+            "total_vote": 231,
+            "votes": {
+                "10": 4,
+                "11": 20,
+                "12": 29,
+                "14": 2,
+                "21": 52,
+                "22": 35,
+                "24": 2,
+                "3": 1,
+                "5": 1,
+                "7": 9,
+                "9": 76
+            }
+        },
+        "school_name": "HACI TAHSİN IRMAK İLKOKULU"
+    }
+]

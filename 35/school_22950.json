@@ -1,0 +1,456 @@
+[
+    {
+        "ballot_box_number": 2140,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/12645_bulk_999999999_1684101129814193492.jpg",
+            "submission_id": 540000,
+            "total_vote": 342,
+            "votes": {
+                "1": 74,
+                "2": 0,
+                "3": 259,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/72494596-5f7f-4d3f-ab9f-37e7f1358b0b-1684106595760662404.jpeg",
+            "submission_id": 811188,
+            "total_vote": 334,
+            "votes": {
+                "10": 2,
+                "11": 5,
+                "12": 22,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "20": 2,
+                "21": 170,
+                "22": 61,
+                "23": 0,
+                "24": 8,
+                "5": 1,
+                "6": 0,
+                "7": 1,
+                "8": 0,
+                "9": 60
+            }
+        },
+        "school_name": "80. YIL EŞREFPAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2142,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/18508_bulk_999999999_1684084417559042558.jpeg",
+            "submission_id": 238450,
+            "total_vote": 334,
+            "votes": {
+                "1": 75,
+                "3": 234,
+                "4": 25
+            }
+        },
+        "mv_result": null,
+        "school_name": "80. YIL EŞREFPAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2133,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/42882_cb_1093798707_1684084498205563465.jpg",
+            "submission_id": 240487,
+            "total_vote": 332,
+            "votes": {
+                "1": 79,
+                "2": 2,
+                "3": 238,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/42882_mv_1083798707_1684084607370936196.jpg",
+            "submission_id": 243318,
+            "total_vote": 330,
+            "votes": {
+                "10": 2,
+                "11": 7,
+                "12": 10,
+                "14": 3,
+                "21": 162,
+                "22": 70,
+                "23": 1,
+                "24": 5,
+                "3": 1,
+                "7": 1,
+                "8": 1,
+                "9": 67
+            }
+        },
+        "school_name": "80. YIL EŞREFPAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2141,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/18508_bulk_999999999_1684084624920163970.jpeg",
+            "submission_id": 243797,
+            "total_vote": 339,
+            "votes": {
+                "1": 77,
+                "2": 3,
+                "3": 242,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "80. YIL EŞREFPAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2132,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41656_cb_1093798706_1684089666068232409.jpg",
+            "submission_id": 400828,
+            "total_vote": 314,
+            "votes": {
+                "1": 80,
+                "2": 1,
+                "3": 222,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41656_mv_1083798706_1684089685436287773.jpg",
+            "submission_id": 401376,
+            "total_vote": 308,
+            "votes": {
+                "10": 2,
+                "11": 13,
+                "12": 10,
+                "15": 2,
+                "16": 1,
+                "20": 1,
+                "21": 157,
+                "22": 46,
+                "24": 6,
+                "6": 1,
+                "7": 2,
+                "9": 67
+            }
+        },
+        "school_name": "80. YIL EŞREFPAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2146,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/12645_bulk_999999999_1684101129546454673.jpg",
+            "submission_id": 539996,
+            "total_vote": 355,
+            "votes": {
+                "1": 81,
+                "2": 1,
+                "3": 265,
+                "4": 8
+            }
+        },
+        "mv_result": null,
+        "school_name": "80. YIL EŞREFPAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2131,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41656_cb_1093798705_1684085314142175318.jpg",
+            "submission_id": 263181,
+            "total_vote": 315,
+            "votes": {
+                "1": 76,
+                "2": 5,
+                "3": 230,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41656_mv_1083798705_1684089490644358549.jpg",
+            "submission_id": 395953,
+            "total_vote": 306,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 8,
+                "12": 11,
+                "14": 0,
+                "15": 1,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 183,
+                "22": 24,
+                "23": 2,
+                "24": 3,
+                "3": 7,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 0,
+                "8": 1,
+                "9": 60
+            }
+        },
+        "school_name": "80. YIL EŞREFPAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2144,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/12645_bulk_999999999_1684101129710346076.jpg",
+            "submission_id": 539998,
+            "total_vote": 341,
+            "votes": {
+                "1": 93,
+                "3": 233,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/eb48c5a6-84ae-4e57-bca3-12c8c4729e2d-1684105273269428287.jpeg",
+            "submission_id": 609266,
+            "total_vote": 336,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 13,
+                "12": 32,
+                "15": 1,
+                "17": 1,
+                "19": 1,
+                "21": 151,
+                "23": 45,
+                "24": 12,
+                "6": 1,
+                "8": 3,
+                "9": 72
+            }
+        },
+        "school_name": "80. YIL EŞREFPAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2130,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4ffc54a0-696a-42b3-80fd-fe57b407a423-1684105412744057817.png",
+            "submission_id": 634632,
+            "total_vote": 320,
+            "votes": {
+                "1": 82,
+                "2": 0,
+                "3": 229,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/442ada6d-64f0-450d-8510-3d6735d647f0-1684105325092606158.png",
+            "submission_id": 618442,
+            "total_vote": 315,
+            "votes": {
+                "10": 2,
+                "11": 14,
+                "12": 18,
+                "14": 1,
+                "15": 1,
+                "19": 1,
+                "21": 171,
+                "22": 36,
+                "23": 1,
+                "24": 6,
+                "8": 1,
+                "9": 63
+            }
+        },
+        "school_name": "80. YIL EŞREFPAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2136,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/12645_bulk_999999999_1684101130104563833.jpg",
+            "submission_id": 540006,
+            "total_vote": 334,
+            "votes": {
+                "1": 89,
+                "2": 4,
+                "3": 232,
+                "4": 9
+            }
+        },
+        "mv_result": null,
+        "school_name": "80. YIL EŞREFPAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2138,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/12645_bulk_999999999_1684100523061360677.jpg",
+            "submission_id": 537399,
+            "total_vote": 331,
+            "votes": {
+                "1": 70,
+                "2": 2,
+                "3": 248,
+                "4": 11
+            }
+        },
+        "mv_result": null,
+        "school_name": "80. YIL EŞREFPAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2139,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/52871_bulk_999999999_1684084608823728051.jpeg",
+            "submission_id": 243378,
+            "total_vote": 341,
+            "votes": {
+                "1": 69,
+                "3": 246,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/52871_bulk_999999999_1684084063830610029.jpeg",
+            "submission_id": 229519,
+            "total_vote": 340,
+            "votes": {
+                "1": 1,
+                "11": 13,
+                "12": 16,
+                "14": 1,
+                "15": 1,
+                "20": 1,
+                "21": 181,
+                "22": 45,
+                "24": 12,
+                "7": 5,
+                "8": 2,
+                "9": 62
+            }
+        },
+        "school_name": "80. YIL EŞREFPAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2134,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41656_cb_1093798708_1684085216948615029.jpg",
+            "submission_id": 260360,
+            "total_vote": 349,
+            "votes": {
+                "1": 62,
+                "3": 274,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "80. YIL EŞREFPAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2143,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/12645_bulk_999999999_1684100786094726210.jpg",
+            "submission_id": 538493,
+            "total_vote": 352,
+            "votes": {
+                "1": 75,
+                "2": 1,
+                "3": 261,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/22b10fea-4df4-4432-8d17-2b14793debb6-1684105670629379814.jpeg",
+            "submission_id": 677214,
+            "total_vote": 349,
+            "votes": {
+                "10": 2,
+                "11": 7,
+                "12": 31,
+                "15": 1,
+                "18": 1,
+                "19": 1,
+                "20": 1,
+                "21": 175,
+                "22": 39,
+                "24": 11,
+                "3": 2,
+                "5": 2,
+                "6": 6,
+                "8": 2,
+                "9": 68
+            }
+        },
+        "school_name": "80. YIL EŞREFPAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2137,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41656_cb_1093798711_1684088460838264877.jpg",
+            "submission_id": 366252,
+            "total_vote": 338,
+            "votes": {
+                "1": 81,
+                "2": 3,
+                "3": 240,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41656_mv_1083798711_1684089909657335395.jpg",
+            "submission_id": 407413,
+            "total_vote": 336,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 15,
+                "12": 11,
+                "14": 1,
+                "20": 1,
+                "21": 161,
+                "22": 59,
+                "23": 4,
+                "24": 7,
+                "3": 3,
+                "7": 7,
+                "8": 2,
+                "9": 61
+            }
+        },
+        "school_name": "80. YIL EŞREFPAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2145,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d116ba7f-1e1b-41f4-a0b9-bb28f5fb9e73-1684106014040428536.jpeg",
+            "submission_id": 726419,
+            "total_vote": 338,
+            "votes": {
+                "1": 76,
+                "2": 3,
+                "3": 243,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "80. YIL EŞREFPAŞA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2135,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/29096_bulk_999999999_1684091760127915412.jpg",
+            "submission_id": 445345,
+            "total_vote": 343,
+            "votes": {
+                "1": 84,
+                "2": 3,
+                "3": 250,
+                "4": 6
+            }
+        },
+        "mv_result": null,
+        "school_name": "80. YIL EŞREFPAŞA İLKOKULU"
+    }
+]

@@ -1,0 +1,311 @@
+[
+    {
+        "ballot_box_number": 1011,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/46661_cb_1093796255_1684084692062695652.jpg",
+            "submission_id": 245665,
+            "total_vote": 340,
+            "votes": {
+                "1": 141,
+                "2": 2,
+                "3": 179,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/46661_mv_1083796255_1684086534267112796.jpg",
+            "submission_id": 302711,
+            "total_vote": 336,
+            "votes": {
+                "10": 3,
+                "11": 25,
+                "12": 28,
+                "15": 1,
+                "19": 1,
+                "20": 1,
+                "21": 121,
+                "22": 33,
+                "23": 2,
+                "24": 6,
+                "7": 6,
+                "8": 1,
+                "9": 108
+            }
+        },
+        "school_name": "CUMHURİYET MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1010,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20338_cb_1093796214_1684084266873257688.jpg",
+            "submission_id": 234699,
+            "total_vote": 320,
+            "votes": {
+                "1": 111,
+                "2": 0,
+                "3": 183,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/46661_mv_1083796214_1684083586294057688.jpg",
+            "submission_id": 219479,
+            "total_vote": 317,
+            "votes": {
+                "10": 2,
+                "11": 14,
+                "12": 23,
+                "21": 117,
+                "22": 47,
+                "23": 2,
+                "24": 5,
+                "6": 3,
+                "7": 5,
+                "8": 3,
+                "9": 96
+            }
+        },
+        "school_name": "CUMHURİYET MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1014,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20338_cb_1093796258_1684134436325722932.jpeg",
+            "submission_id": 1015164,
+            "total_vote": 323,
+            "votes": {
+                "1": 131,
+                "2": 2,
+                "3": 175,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20338_bulk_999999999_1684087497274682389.jpg",
+            "submission_id": 335812,
+            "total_vote": 322,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 27,
+                "12": 25,
+                "19": 1,
+                "21": 117,
+                "22": 36,
+                "24": 6,
+                "3": 1,
+                "7": 4,
+                "8": 2,
+                "9": 99
+            }
+        },
+        "school_name": "CUMHURİYET MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1008,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20338_bulk_999999999_1684093915320024472.jpg",
+            "submission_id": 477586,
+            "total_vote": 324,
+            "votes": {
+                "1": 116,
+                "2": 0,
+                "3": 186,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20338_bulk_999999999_1684093870745956506.jpg",
+            "submission_id": 475957,
+            "total_vote": 323,
+            "votes": {
+                "10": 5,
+                "11": 18,
+                "12": 31,
+                "19": 1,
+                "21": 129,
+                "22": 25,
+                "24": 10,
+                "6": 3,
+                "7": 6,
+                "8": 5,
+                "9": 90
+            }
+        },
+        "school_name": "CUMHURİYET MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1006,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20338_bulk_999999999_1684091727716614707.jpg",
+            "submission_id": 444874,
+            "total_vote": 329,
+            "votes": {
+                "1": 111,
+                "2": 2,
+                "3": 201,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "CUMHURİYET MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1007,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20338_bulk_999999999_1684084888618827601.jpg",
+            "submission_id": 250974,
+            "total_vote": 332,
+            "votes": {
+                "1": 128,
+                "2": 1,
+                "3": 187,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20338_bulk_999999999_1684085154523052572.jpg",
+            "submission_id": 258513,
+            "total_vote": 329,
+            "votes": {
+                "10": 4,
+                "11": 23,
+                "12": 41,
+                "14": 0,
+                "21": 109,
+                "22": 42,
+                "23": 0,
+                "24": 7,
+                "7": 3,
+                "8": 0,
+                "9": 100
+            }
+        },
+        "school_name": "CUMHURİYET MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1012,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20338_bulk_999999999_1684086379618432914.jpg",
+            "submission_id": 297336,
+            "total_vote": 338,
+            "votes": {
+                "1": 143,
+                "3": 175,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20338_bulk_999999999_1684088778399040458.jpg",
+            "submission_id": 376008,
+            "total_vote": 336,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 20,
+                "12": 17,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 114,
+                "22": 43,
+                "23": 2,
+                "24": 12,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 8,
+                "8": 0,
+                "9": 111
+            }
+        },
+        "school_name": "CUMHURİYET MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1009,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20338_cb_1093796213_1684134800036677119.jpeg",
+            "submission_id": 1015760,
+            "total_vote": 333,
+            "votes": {
+                "1": 132,
+                "2": 2,
+                "3": 176,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20338_bulk_999999999_1684086068682961126.jpg",
+            "submission_id": 287135,
+            "total_vote": 331,
+            "votes": {
+                "10": 4,
+                "11": 20,
+                "12": 45,
+                "2": 1,
+                "20": 1,
+                "21": 106,
+                "22": 32,
+                "23": 1,
+                "24": 12,
+                "4": 1,
+                "6": 3,
+                "7": 2,
+                "8": 2,
+                "9": 101
+            }
+        },
+        "school_name": "CUMHURİYET MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1013,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20338_bulk_999999999_1684086557517114186.jpg",
+            "submission_id": 303522,
+            "total_vote": 332,
+            "votes": {
+                "1": 119,
+                "2": 1,
+                "3": 184,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20338_bulk_999999999_1684091492366316579.jpg",
+            "submission_id": 441066,
+            "total_vote": 330,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 21,
+                "12": 28,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 113,
+                "22": 41,
+                "23": 0,
+                "24": 13,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 2,
+                "9": 102
+            }
+        },
+        "school_name": "CUMHURİYET MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    }
+]

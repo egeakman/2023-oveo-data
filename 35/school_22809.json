@@ -1,0 +1,335 @@
+[
+    {
+        "ballot_box_number": 2063,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21533_cb_1093572877_1684084945731258861.jpg",
+            "submission_id": 252553,
+            "total_vote": 327,
+            "votes": {
+                "1": 88,
+                "2": 1,
+                "3": 220,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "GENERAL İZZETTİN ÇALIŞLAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2056,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/66047_bulk_999999999_1684092625080184347.jpg",
+            "submission_id": 458913,
+            "total_vote": 314,
+            "votes": {
+                "1": 115,
+                "3": 191,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/66047_bulk_999999999_1684092098043423619.jpg",
+            "submission_id": 450881,
+            "total_vote": 298,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 14,
+                "12": 14,
+                "13": 8,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 125,
+                "22": 35,
+                "23": 2,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 4,
+                "7": 0,
+                "8": 0,
+                "9": 84
+            }
+        },
+        "school_name": "GENERAL İZZETTİN ÇALIŞLAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2055,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68550_cb_1093571569_1684088839815324840.jpg",
+            "submission_id": 377791,
+            "total_vote": 321,
+            "votes": {
+                "1": 133,
+                "2": 4,
+                "3": 175,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21533_mv_1083571569_1684092478819660127.jpg",
+            "submission_id": 456952,
+            "total_vote": 313,
+            "votes": {
+                "10": 1,
+                "11": 11,
+                "12": 5,
+                "13": 6,
+                "15": 1,
+                "17": 1,
+                "19": 1,
+                "2": 2,
+                "21": 122,
+                "22": 33,
+                "23": 2,
+                "24": 7,
+                "6": 2,
+                "7": 3,
+                "8": 1,
+                "9": 115
+            }
+        },
+        "school_name": "GENERAL İZZETTİN ÇALIŞLAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2057,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21533_cb_1093571571_1684084048264184530.jpg",
+            "submission_id": 229169,
+            "total_vote": 353,
+            "votes": {
+                "1": 117,
+                "2": 1,
+                "3": 214,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21533_mv_1083571571_1684083066450500014.jpg",
+            "submission_id": 209824,
+            "total_vote": 343,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 23,
+                "12": 14,
+                "13": 12,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 137,
+                "22": 50,
+                "23": 1,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 8,
+                "7": 7,
+                "8": 0,
+                "9": 82
+            }
+        },
+        "school_name": "GENERAL İZZETTİN ÇALIŞLAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2060,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/31002_bulk_999999999_1684092689783577059.jpg",
+            "submission_id": 459711,
+            "total_vote": 348,
+            "votes": {
+                "1": 123,
+                "2": 1,
+                "3": 199,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c2fd9700-5519-4e26-bee0-5d4ed2278593-1684105224423251892.jpeg",
+            "submission_id": 599888,
+            "total_vote": 366,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 15,
+                "12": 7,
+                "13": 13,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 3,
+                "21": 142,
+                "22": 64,
+                "23": 0,
+                "24": 10,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 3,
+                "8": 3,
+                "9": 100
+            }
+        },
+        "school_name": "GENERAL İZZETTİN ÇALIŞLAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2058,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/68550_bulk_999999999_1684082310731464595.jpg",
+            "submission_id": 198545,
+            "total_vote": 341,
+            "votes": {
+                "1": 131,
+                "2": 3,
+                "3": 192,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68550_mv_1083571572_1684086317241178543.jpg",
+            "submission_id": 295357,
+            "total_vote": 337,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 16,
+                "12": 10,
+                "13": 15,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 105,
+                "22": 59,
+                "23": 0,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 6,
+                "7": 8,
+                "8": 1,
+                "9": 105
+            }
+        },
+        "school_name": "GENERAL İZZETTİN ÇALIŞLAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2059,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65836_cb_1093571573_1684086405627043012.jpg",
+            "submission_id": 298237,
+            "total_vote": 339,
+            "votes": {
+                "1": 125,
+                "2": 3,
+                "3": 195,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "GENERAL İZZETTİN ÇALIŞLAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2061,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21533_cb_1093572875_1684082944045839718.jpg",
+            "submission_id": 207798,
+            "total_vote": 342,
+            "votes": {
+                "1": 115,
+                "2": 3,
+                "3": 200,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21533_mv_1083572875_1684084659986852797.jpg",
+            "submission_id": 244786,
+            "total_vote": 333,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 12,
+                "12": 21,
+                "13": 25,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 115,
+                "22": 41,
+                "23": 1,
+                "24": 10,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 4,
+                "7": 9,
+                "8": 1,
+                "9": 92
+            }
+        },
+        "school_name": "GENERAL İZZETTİN ÇALIŞLAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2062,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21533_cb_1093572876_1684086220605781658.jpg",
+            "submission_id": 292129,
+            "total_vote": 350,
+            "votes": {
+                "1": 116,
+                "2": 5,
+                "3": 214,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21533_mv_1083572876_1684085022957610251.jpg",
+            "submission_id": 254818,
+            "total_vote": 347,
+            "votes": {
+                "11": 16,
+                "12": 3,
+                "13": 26,
+                "15": 1,
+                "21": 151,
+                "22": 36,
+                "23": 2,
+                "24": 8,
+                "6": 6,
+                "7": 4,
+                "8": 1,
+                "9": 93
+            }
+        },
+        "school_name": "GENERAL İZZETTİN ÇALIŞLAR İLKOKULU"
+    }
+]

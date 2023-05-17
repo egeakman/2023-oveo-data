@@ -1,0 +1,35 @@
+[
+    {
+        "ballot_box_number": 1166,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/47d5be68-d36f-4d2b-9f95-9afe261ab487-1684106307371423651.jpg",
+            "submission_id": 769343,
+            "total_vote": 164,
+            "votes": {
+                "1": 101,
+                "2": 1,
+                "3": 48,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3800fd26-5500-4d63-8be1-c55037ccb48f-1684106304218165204.jpg",
+            "submission_id": 768799,
+            "total_vote": 164,
+            "votes": {
+                "10": 3,
+                "11": 34,
+                "12": 2,
+                "13": 3,
+                "2": 1,
+                "21": 34,
+                "22": 12,
+                "23": 1,
+                "24": 3,
+                "8": 1,
+                "9": 70
+            }
+        },
+        "school_name": "İNCECİKLER MAH. TOPLANTI SALONU"
+    }
+]

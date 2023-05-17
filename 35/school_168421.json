@@ -1,0 +1,655 @@
+[
+    {
+        "ballot_box_number": 2070,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/71411_cb_1093572888_1684085457962669730.jpg",
+            "submission_id": 267348,
+            "total_vote": 306,
+            "votes": {
+                "1": 116,
+                "2": 2,
+                "3": 175,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21194_mv_1083572888_1684093222144056228.jpg",
+            "submission_id": 467160,
+            "total_vote": 302,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 11,
+                "12": 2,
+                "13": 8,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 129,
+                "22": 34,
+                "23": 0,
+                "24": 6,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 2,
+                "9": 99
+            }
+        },
+        "school_name": "FERİT BAHRİYE ERGİL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2078,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/64737_cb_1093573896_1684085234134271388.jpg",
+            "submission_id": 260844,
+            "total_vote": 343,
+            "votes": {
+                "1": 102,
+                "2": 0,
+                "3": 218,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/64737_mv_1083573896_1684085687807533500.jpg",
+            "submission_id": 274676,
+            "total_vote": 342,
+            "votes": {
+                "10": 5,
+                "11": 13,
+                "12": 2,
+                "13": 14,
+                "14": 1,
+                "15": 1,
+                "18": 1,
+                "21": 134,
+                "22": 65,
+                "24": 5,
+                "3": 1,
+                "4": 2,
+                "6": 5,
+                "7": 6,
+                "8": 1,
+                "9": 86
+            }
+        },
+        "school_name": "FERİT BAHRİYE ERGİL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2081,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21194_bulk_999999999_1684092853504971419.jpeg",
+            "submission_id": 461981,
+            "total_vote": 335,
+            "votes": {
+                "1": 86,
+                "2": 3,
+                "3": 230,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/64737_bulk_999999999_1684091026926828818.jpeg",
+            "submission_id": 432450,
+            "total_vote": 331,
+            "votes": {
+                "10": 1,
+                "11": 13,
+                "12": 3,
+                "13": 22,
+                "21": 154,
+                "22": 55,
+                "23": 2,
+                "24": 8,
+                "3": 1,
+                "5": 1,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 66
+            }
+        },
+        "school_name": "FERİT BAHRİYE ERGİL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2082,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/64737_bulk_999999999_1684091026860276736.jpeg",
+            "submission_id": 432448,
+            "total_vote": 334,
+            "votes": {
+                "1": 100,
+                "3": 218,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "FERİT BAHRİYE ERGİL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2080,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/64737_bulk_999999999_1684092671867066808.jpeg",
+            "submission_id": 459475,
+            "total_vote": 326,
+            "votes": {
+                "1": 109,
+                "2": 4,
+                "3": 185,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/64737_bulk_999999999_1684088605783096286.jpeg",
+            "submission_id": 370778,
+            "total_vote": 324,
+            "votes": {
+                "10": 3,
+                "11": 16,
+                "12": 4,
+                "13": 18,
+                "15": 1,
+                "21": 134,
+                "22": 38,
+                "24": 8,
+                "3": 1,
+                "6": 2,
+                "7": 9,
+                "8": 1,
+                "9": 89
+            }
+        },
+        "school_name": "FERİT BAHRİYE ERGİL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2085,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21194_bulk_999999999_1684092131604800746.jpeg",
+            "submission_id": 451442,
+            "total_vote": 342,
+            "votes": {
+                "1": 110,
+                "2": 1,
+                "3": 200,
+                "4": 31
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21194_bulk_999999999_1684091977280086027.jpeg",
+            "submission_id": 448858,
+            "total_vote": 336,
+            "votes": {
+                "10": 1,
+                "11": 21,
+                "12": 4,
+                "13": 14,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "20": 0,
+                "21": 135,
+                "22": 52,
+                "23": 5,
+                "24": 16,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 4,
+                "8": 0,
+                "9": 82
+            }
+        },
+        "school_name": "FERİT BAHRİYE ERGİL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2075,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/64737_bulk_999999999_1684088718806201704.jpeg",
+            "submission_id": 374228,
+            "total_vote": 330,
+            "votes": {
+                "1": 76,
+                "2": 2,
+                "3": 223,
+                "4": 29
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/64737_bulk_999999999_1684088718779042157.jpeg",
+            "submission_id": 374227,
+            "total_vote": 328,
+            "votes": {
+                "10": 1,
+                "11": 6,
+                "12": 4,
+                "13": 14,
+                "21": 144,
+                "22": 59,
+                "24": 15,
+                "6": 2,
+                "7": 6,
+                "8": 2,
+                "9": 75
+            }
+        },
+        "school_name": "FERİT BAHRİYE ERGİL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2076,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/64737_bulk_999999999_1684089537209253116.jpeg",
+            "submission_id": 397328,
+            "total_vote": 325,
+            "votes": {
+                "1": 107,
+                "2": 1,
+                "3": 192,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21194_mv_1083572894_1684093297578270347.jpg",
+            "submission_id": 468165,
+            "total_vote": 324,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 7,
+                "12": 9,
+                "13": 19,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 130,
+                "22": 36,
+                "23": 0,
+                "24": 11,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 9,
+                "8": 4,
+                "9": 93
+            }
+        },
+        "school_name": "FERİT BAHRİYE ERGİL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2079,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/64737_cb_1093573897_1684083458467771398.jpg",
+            "submission_id": 216993,
+            "total_vote": 329,
+            "votes": {
+                "1": 79,
+                "2": 2,
+                "3": 224,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/64737_mv_1083573897_1684083775163801572.jpg",
+            "submission_id": 223460,
+            "total_vote": 322,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 17,
+                "12": 9,
+                "13": 31,
+                "2": 1,
+                "20": 2,
+                "21": 127,
+                "22": 46,
+                "23": 1,
+                "24": 15,
+                "7": 5,
+                "9": 64
+            }
+        },
+        "school_name": "FERİT BAHRİYE ERGİL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2084,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/64737_bulk_999999999_1684089046763930569.jpeg",
+            "submission_id": 383873,
+            "total_vote": 326,
+            "votes": {
+                "1": 79,
+                "2": 1,
+                "3": 223,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/64737_bulk_999999999_1684089046797941943.jpeg",
+            "submission_id": 383874,
+            "total_vote": 324,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 16,
+                "13": 27,
+                "14": 7,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "2": 0,
+                "21": 147,
+                "22": 49,
+                "23": 0,
+                "24": 12,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 7,
+                "9": 52
+            }
+        },
+        "school_name": "FERİT BAHRİYE ERGİL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2069,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/64737_bulk_999999999_1684089698910457135.jpeg",
+            "submission_id": 401736,
+            "total_vote": 285,
+            "votes": {
+                "1": 85,
+                "2": 1,
+                "3": 187,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/64737_bulk_999999999_1684089905909734475.jpeg",
+            "submission_id": 407321,
+            "total_vote": 275,
+            "votes": {
+                "1": 1,
+                "11": 11,
+                "12": 5,
+                "13": 4,
+                "14": 1,
+                "19": 1,
+                "20": 1,
+                "21": 139,
+                "22": 38,
+                "23": 2,
+                "24": 3,
+                "6": 2,
+                "8": 1,
+                "9": 66
+            }
+        },
+        "school_name": "FERİT BAHRİYE ERGİL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2074,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21194_bulk_999999999_1684092493775242149.jpeg",
+            "submission_id": 457171,
+            "total_vote": 335,
+            "votes": {
+                "1": 101,
+                "2": 1,
+                "3": 210,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21194_mv_1083572892_1684092980616920755.jpg",
+            "submission_id": 463707,
+            "total_vote": 328,
+            "votes": {
+                "1": 2,
+                "10": 6,
+                "11": 7,
+                "12": 3,
+                "13": 14,
+                "15": 1,
+                "21": 145,
+                "22": 48,
+                "23": 1,
+                "24": 10,
+                "6": 2,
+                "7": 1,
+                "9": 88
+            }
+        },
+        "school_name": "FERİT BAHRİYE ERGİL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2072,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21194_bulk_999999999_1684092324658686143.jpeg",
+            "submission_id": 454499,
+            "total_vote": 339,
+            "votes": {
+                "1": 95,
+                "2": 3,
+                "3": 222,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/64737_bulk_999999999_1684092062775307976.jpeg",
+            "submission_id": 450366,
+            "total_vote": 335,
+            "votes": {
+                "10": 1,
+                "11": 16,
+                "12": 3,
+                "13": 20,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "20": 1,
+                "21": 135,
+                "22": 56,
+                "23": 2,
+                "24": 8,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 9,
+                "8": 0,
+                "9": 80
+            }
+        },
+        "school_name": "FERİT BAHRİYE ERGİL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2073,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21194_bulk_999999999_1684092396304265862.jpeg",
+            "submission_id": 455648,
+            "total_vote": 329,
+            "votes": {
+                "1": 89,
+                "2": 1,
+                "3": 211,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/64737_bulk_999999999_1684090390527147240.jpeg",
+            "submission_id": 418860,
+            "total_vote": 322,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 14,
+                "12": 4,
+                "13": 16,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 134,
+                "22": 53,
+                "23": 0,
+                "24": 20,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 1,
+                "9": 70
+            }
+        },
+        "school_name": "FERİT BAHRİYE ERGİL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2083,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/64737_bulk_999999999_1684091095502157730.jpeg",
+            "submission_id": 433792,
+            "total_vote": 330,
+            "votes": {
+                "1": 97,
+                "2": 1,
+                "3": 218,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21194_mv_1083573901_1684093842228199659.jpg",
+            "submission_id": 475214,
+            "total_vote": 320,
+            "votes": {
+                "10": 2,
+                "11": 16,
+                "12": 10,
+                "13": 18,
+                "19": 1,
+                "20": 2,
+                "21": 127,
+                "22": 46,
+                "24": 11,
+                "6": 6,
+                "7": 3,
+                "8": 4,
+                "9": 74
+            }
+        },
+        "school_name": "FERİT BAHRİYE ERGİL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2077,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/64737_bulk_999999999_1684089432333165722.jpeg",
+            "submission_id": 394316,
+            "total_vote": 329,
+            "votes": {
+                "1": 112,
+                "3": 198,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/64737_bulk_999999999_1684089432417762825.jpeg",
+            "submission_id": 394319,
+            "total_vote": 324,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 20,
+                "12": 6,
+                "13": 17,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 2,
+                "21": 126,
+                "22": 44,
+                "23": 0,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 4,
+                "8": 0,
+                "9": 95
+            }
+        },
+        "school_name": "FERİT BAHRİYE ERGİL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2071,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/64737_bulk_999999999_1684090137550377471.jpeg",
+            "submission_id": 413062,
+            "total_vote": 308,
+            "votes": {
+                "1": 89,
+                "2": 1,
+                "3": 198,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21194_mv_1083572889_1684092925895277586.jpg",
+            "submission_id": 462944,
+            "total_vote": 295,
+            "votes": {
+                "10": 2,
+                "11": 7,
+                "12": 2,
+                "13": 7,
+                "15": 2,
+                "17": 1,
+                "18": 1,
+                "19": 2,
+                "2": 1,
+                "21": 132,
+                "22": 47,
+                "23": 1,
+                "24": 10,
+                "3": 1,
+                "4": 1,
+                "5": 1,
+                "6": 3,
+                "7": 4,
+                "8": 1,
+                "9": 69
+            }
+        },
+        "school_name": "FERİT BAHRİYE ERGİL ORTAOKULU"
+    }
+]

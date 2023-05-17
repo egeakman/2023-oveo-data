@@ -1,0 +1,39 @@
+[
+    {
+        "ballot_box_number": 1002,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/53287_cb_1093858876_1684080164608463264.jpg",
+            "submission_id": 180093,
+            "total_vote": 203,
+            "votes": {
+                "1": 85,
+                "2": 4,
+                "3": 110,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/53287_mv_1083858876_1684080871986014270.jpg",
+            "submission_id": 184376,
+            "total_vote": 200,
+            "votes": {
+                "10": 3,
+                "11": 12,
+                "12": 15,
+                "14": 2,
+                "15": 1,
+                "17": 1,
+                "20": 1,
+                "21": 72,
+                "22": 20,
+                "23": 2,
+                "24": 3,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 63
+            }
+        },
+        "school_name": "ŞEHİT FETHİBEY ORTAOKULU"
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "ballot_box_number": 1085,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25162_cb_1093859919_1684083579813756385.jpg",
+            "submission_id": 219366,
+            "total_vote": 107,
+            "votes": {
+                "1": 43,
+                "2": 2,
+                "3": 62,
+                "4": 0
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25162_mv_1083859919_1684083630673023978.jpg",
+            "submission_id": 220365,
+            "total_vote": 98,
+            "votes": {
+                "11": 6,
+                "12": 26,
+                "21": 20,
+                "22": 10,
+                "24": 1,
+                "6": 1,
+                "9": 34
+            }
+        },
+        "school_name": "KESTELLİ ŞERİFE ECZACIBAŞI ORTAOKULU"
+    }
+]

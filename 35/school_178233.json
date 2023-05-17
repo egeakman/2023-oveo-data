@@ -1,0 +1,18 @@
+[
+    {
+        "ballot_box_number": 1322,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/61341_bulk_999999999_1684095279001981535.jpeg",
+            "submission_id": 501474,
+            "total_vote": 96,
+            "votes": {
+                "1": 58,
+                "2": 2,
+                "3": 35,
+                "4": 1
+            }
+        },
+        "mv_result": null,
+        "school_name": "ORTAKÖY MANTARHANE"
+    }
+]

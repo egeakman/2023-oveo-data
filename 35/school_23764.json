@@ -1,0 +1,61 @@
+[
+    {
+        "ballot_box_number": 1061,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/adff6a69-a304-48d1-a1eb-0d7a6f84591c-1684105475085561741.jpg",
+            "submission_id": 646684,
+            "total_vote": 242,
+            "votes": {
+                "1": 113,
+                "2": 2,
+                "3": 117,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684090278110889047.jpg",
+            "submission_id": 416376,
+            "total_vote": 232,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 20,
+                "12": 5,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 2,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "21": 90,
+                "22": 25,
+                "23": 1,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 5,
+                "8": 0,
+                "9": 76
+            }
+        },
+        "school_name": "ÇATALCA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1060,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684086812269566789.jpg",
+            "submission_id": 312473,
+            "total_vote": 227,
+            "votes": {
+                "1": 88,
+                "3": 129,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇATALCA İLKOKULU"
+    }
+]

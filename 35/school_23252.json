@@ -1,0 +1,436 @@
+[
+    {
+        "ballot_box_number": 1181,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21424_bulk_999999999_1684103322127686838.jpg",
+            "submission_id": 548175,
+            "total_vote": 339,
+            "votes": {
+                "1": 153,
+                "2": 1,
+                "3": 176,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21424_bulk_999999999_1684104992947772229.jpg",
+            "submission_id": 565264,
+            "total_vote": 333,
+            "votes": {
+                "10": 12,
+                "11": 34,
+                "12": 41,
+                "13": 16,
+                "15": 1,
+                "16": 1,
+                "21": 92,
+                "22": 17,
+                "24": 4,
+                "3": 1,
+                "5": 1,
+                "6": 1,
+                "7": 7,
+                "8": 1,
+                "9": 104
+            }
+        },
+        "school_name": "ŞEHİT ÇAVUŞ BÜLENT KULA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1189,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21424_cb_1093576726_1684089385352760899.jpg",
+            "submission_id": 393060,
+            "total_vote": 350,
+            "votes": {
+                "1": 118,
+                "2": 1,
+                "3": 209,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ÇAVUŞ BÜLENT KULA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1184,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21326_cb_1093576721_1684086466753026432.jpg",
+            "submission_id": 300285,
+            "total_vote": 345,
+            "votes": {
+                "1": 146,
+                "2": 0,
+                "3": 178,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ÇAVUŞ BÜLENT KULA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1186,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21326_bulk_999999999_1684087674985885439.jpg",
+            "submission_id": 341558,
+            "total_vote": 338,
+            "votes": {
+                "1": 101,
+                "2": 3,
+                "3": 206,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21326_mv_1083576723_1684091227819617280.jpg",
+            "submission_id": 436403,
+            "total_vote": 331,
+            "votes": {
+                "10": 5,
+                "11": 38,
+                "12": 30,
+                "13": 10,
+                "2": 1,
+                "21": 131,
+                "22": 24,
+                "24": 14,
+                "4": 1,
+                "6": 3,
+                "7": 5,
+                "8": 1,
+                "9": 68
+            }
+        },
+        "school_name": "ŞEHİT ÇAVUŞ BÜLENT KULA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1192,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21424_cb_1093576729_1684084006982573289.jpg",
+            "submission_id": 228286,
+            "total_vote": 323,
+            "votes": {
+                "1": 103,
+                "2": 1,
+                "3": 198,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21424_bulk_999999999_1684090608943175672.jpeg",
+            "submission_id": 423785,
+            "total_vote": 316,
+            "votes": {
+                "1": 0,
+                "10": 10,
+                "11": 31,
+                "12": 25,
+                "13": 11,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 123,
+                "22": 31,
+                "23": 0,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 2,
+                "8": 1,
+                "9": 68
+            }
+        },
+        "school_name": "ŞEHİT ÇAVUŞ BÜLENT KULA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1183,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21424_bulk_999999999_1684103321933220386.jpg",
+            "submission_id": 548172,
+            "total_vote": 352,
+            "votes": {
+                "1": 109,
+                "2": 3,
+                "3": 204,
+                "4": 36
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21424_bulk_999999999_1684103322050393447.jpg",
+            "submission_id": 548174,
+            "total_vote": 347,
+            "votes": {
+                "1": 0,
+                "10": 8,
+                "11": 28,
+                "12": 45,
+                "13": 18,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 2,
+                "21": 104,
+                "22": 31,
+                "23": 2,
+                "24": 14,
+                "3": 0,
+                "4": 1,
+                "5": 2,
+                "6": 4,
+                "7": 7,
+                "8": 2,
+                "9": 78
+            }
+        },
+        "school_name": "ŞEHİT ÇAVUŞ BÜLENT KULA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1187,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21424_cb_1093576724_1684082521434251870.jpg",
+            "submission_id": 201251,
+            "total_vote": 347,
+            "votes": {
+                "1": 116,
+                "2": 1,
+                "3": 197,
+                "4": 33
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ÇAVUŞ BÜLENT KULA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1190,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21424_cb_1093576727_1684081307380780858.jpg",
+            "submission_id": 187692,
+            "total_vote": 334,
+            "votes": {
+                "1": 111,
+                "2": 0,
+                "3": 202,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/61b43f60-d458-47ac-b241-af92d6a6c9cd-1684105954201816259.jpg",
+            "submission_id": 718291,
+            "total_vote": 328,
+            "votes": {
+                "10": 8,
+                "11": 24,
+                "12": 37,
+                "13": 17,
+                "21": 121,
+                "22": 24,
+                "24": 9,
+                "3": 1,
+                "5": 1,
+                "6": 1,
+                "7": 3,
+                "9": 82
+            }
+        },
+        "school_name": "ŞEHİT ÇAVUŞ BÜLENT KULA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1180,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20740_bulk_999999999_1684084890400438873.jpeg",
+            "submission_id": 251031,
+            "total_vote": 314,
+            "votes": {
+                "1": 108,
+                "2": 1,
+                "3": 188,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21424_mv_1083576717_1684085679651320648.jpg",
+            "submission_id": 274394,
+            "total_vote": 312,
+            "votes": {
+                "10": 4,
+                "11": 28,
+                "12": 48,
+                "13": 14,
+                "20": 1,
+                "21": 116,
+                "22": 13,
+                "24": 4,
+                "3": 1,
+                "7": 5,
+                "8": 1,
+                "9": 77
+            }
+        },
+        "school_name": "ŞEHİT ÇAVUŞ BÜLENT KULA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1191,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21424_cb_1093576728_1684080700164162937.jpg",
+            "submission_id": 183237,
+            "total_vote": 344,
+            "votes": {
+                "1": 127,
+                "2": 2,
+                "3": 190,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21424_mv_1083576728_1684087978414998614.jpg",
+            "submission_id": 351229,
+            "total_vote": 339,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 27,
+                "12": 18,
+                "13": 14,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 129,
+                "22": 29,
+                "23": 0,
+                "24": 18,
+                "3": 0,
+                "4": 0,
+                "5": 3,
+                "6": 1,
+                "7": 5,
+                "8": 0,
+                "9": 88
+            }
+        },
+        "school_name": "ŞEHİT ÇAVUŞ BÜLENT KULA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1188,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21424_bulk_999999999_1684102799050276654.jpg",
+            "submission_id": 545664,
+            "total_vote": 332,
+            "votes": {
+                "1": 111,
+                "2": 1,
+                "3": 179,
+                "4": 41
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ÇAVUŞ BÜLENT KULA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1185,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21424_cb_1093576722_1684091060341097299.jpg",
+            "submission_id": 433101,
+            "total_vote": 338,
+            "votes": {
+                "1": 101,
+                "2": 3,
+                "3": 206,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21424_mv_1083576722_1684089683785828507.jpg",
+            "submission_id": 401336,
+            "total_vote": 328,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 24,
+                "12": 34,
+                "13": 10,
+                "14": 1,
+                "15": 1,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 2,
+                "21": 121,
+                "22": 29,
+                "23": 1,
+                "24": 13,
+                "3": 0,
+                "4": 0,
+                "5": 7,
+                "6": 2,
+                "7": 8,
+                "8": 2,
+                "9": 72
+            }
+        },
+        "school_name": "ŞEHİT ÇAVUŞ BÜLENT KULA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1182,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21424_cb_1093576719_1684085735426597010.jpg",
+            "submission_id": 276197,
+            "total_vote": 333,
+            "votes": {
+                "1": 161,
+                "2": 1,
+                "3": 151,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21424_mv_1083576719_1684085778506216291.jpg",
+            "submission_id": 277704,
+            "total_vote": 329,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 35,
+                "12": 31,
+                "13": 10,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 97,
+                "22": 19,
+                "23": 0,
+                "24": 8,
+                "3": 1,
+                "4": 1,
+                "5": 2,
+                "6": 4,
+                "7": 3,
+                "8": 1,
+                "9": 113
+            }
+        },
+        "school_name": "ŞEHİT ÇAVUŞ BÜLENT KULA İLKOKULU"
+    }
+]

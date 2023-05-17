@@ -1,0 +1,552 @@
+[
+    {
+        "ballot_box_number": 1162,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ddc842e2-18fa-483a-8e43-d43641374a6a-1684106224361383115.jpeg",
+            "submission_id": 757510,
+            "total_vote": 291,
+            "votes": {
+                "1": 76,
+                "2": 2,
+                "3": 204,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/dbddd25e-c42a-4415-8081-090fb1ec4e7b-1684106242946423394.jpeg",
+            "submission_id": 760066,
+            "total_vote": 288,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 15,
+                "12": 18,
+                "14": 0,
+                "15": 1,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 137,
+                "22": 44,
+                "23": 0,
+                "24": 1,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 5,
+                "8": 1,
+                "9": 62
+            }
+        },
+        "school_name": "ŞEHİT UZMAN ONBAŞI MUSTAFA ESER İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1163,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9af42e6b-13b7-45d6-be18-46ada677d472-1684106062449893037.jpeg",
+            "submission_id": 733179,
+            "total_vote": 310,
+            "votes": {
+                "1": 78,
+                "2": 1,
+                "3": 210,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/364a8bd6-ce36-4cc1-aac3-95bdbe7b3bb0-1684106051549681330.jpeg",
+            "submission_id": 731922,
+            "total_vote": 296,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 21,
+                "12": 32,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 123,
+                "22": 41,
+                "23": 1,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 4,
+                "8": 0,
+                "9": 65
+            }
+        },
+        "school_name": "ŞEHİT UZMAN ONBAŞI MUSTAFA ESER İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1175,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/13369_bulk_999999999_1684086707488419426.jpeg",
+            "submission_id": 308788,
+            "total_vote": 324,
+            "votes": {
+                "1": 101,
+                "2": 2,
+                "3": 196,
+                "4": 25
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT UZMAN ONBAŞI MUSTAFA ESER İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1165,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/13369_cb_1093798116_1684083536547566632.jpg",
+            "submission_id": 218496,
+            "total_vote": 318,
+            "votes": {
+                "1": 86,
+                "2": 4,
+                "3": 210,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT UZMAN ONBAŞI MUSTAFA ESER İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1169,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/bdf028b5-b7da-4f3f-86ce-112fd5a3a2f3-1684106769339273723.jpg",
+            "submission_id": 834951,
+            "total_vote": 319,
+            "votes": {
+                "1": 100,
+                "2": 2,
+                "3": 190,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/85686_bulk_999999999_1684088164492282910.jpg",
+            "submission_id": 357266,
+            "total_vote": 316,
+            "votes": {
+                "10": 7,
+                "11": 22,
+                "12": 19,
+                "18": 1,
+                "21": 128,
+                "22": 37,
+                "24": 10,
+                "3": 5,
+                "6": 2,
+                "7": 6,
+                "8": 2,
+                "9": 77
+            }
+        },
+        "school_name": "ŞEHİT UZMAN ONBAŞI MUSTAFA ESER İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1171,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/13369_bulk_999999999_1684086707186767935.jpeg",
+            "submission_id": 308770,
+            "total_vote": 326,
+            "votes": {
+                "1": 115,
+                "2": 1,
+                "3": 190,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/85686_bulk_999999999_1684088164646899123.jpg",
+            "submission_id": 357271,
+            "total_vote": 323,
+            "votes": {
+                "10": 9,
+                "11": 12,
+                "12": 25,
+                "14": 1,
+                "15": 0,
+                "2": 0,
+                "20": 0,
+                "21": 129,
+                "22": 34,
+                "23": 3,
+                "24": 8,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 5,
+                "8": 3,
+                "9": 92
+            }
+        },
+        "school_name": "ŞEHİT UZMAN ONBAŞI MUSTAFA ESER İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1167,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "ŞEHİT UZMAN ONBAŞI MUSTAFA ESER İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1166,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/13369_bulk_999999999_1684086706942352858.jpeg",
+            "submission_id": 308762,
+            "total_vote": 335,
+            "votes": {
+                "1": 123,
+                "2": 0,
+                "3": 188,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/85686_bulk_999999999_1684088164189645692.jpg",
+            "submission_id": 357258,
+            "total_vote": 337,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 25,
+                "12": 15,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 128,
+                "22": 43,
+                "23": 1,
+                "24": 7,
+                "3": 2,
+                "4": 0,
+                "5": 7,
+                "6": 0,
+                "7": 10,
+                "8": 1,
+                "9": 94
+            }
+        },
+        "school_name": "ŞEHİT UZMAN ONBAŞI MUSTAFA ESER İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1173,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/13369_bulk_999999999_1684086707394845898.jpeg",
+            "submission_id": 308783,
+            "total_vote": 326,
+            "votes": {
+                "1": 0,
+                "2": 110,
+                "3": 201,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/85686_bulk_999999999_1684088164916702515.jpg",
+            "submission_id": 357280,
+            "total_vote": 320,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 10,
+                "12": 38,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 109,
+                "22": 48,
+                "23": 0,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 8,
+                "8": 3,
+                "9": 88
+            }
+        },
+        "school_name": "ŞEHİT UZMAN ONBAŞI MUSTAFA ESER İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1172,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/13369_bulk_999999999_1684086707282240472.jpeg",
+            "submission_id": 308779,
+            "total_vote": 323,
+            "votes": {
+                "1": 99,
+                "2": 2,
+                "3": 200,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/85686_bulk_999999999_1684088164784296157.jpg",
+            "submission_id": 357274,
+            "total_vote": 317,
+            "votes": {
+                "10": 5,
+                "11": 12,
+                "12": 25,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "20": 1,
+                "21": 123,
+                "22": 48,
+                "23": 0,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 2,
+                "7": 3,
+                "8": 2,
+                "9": 82
+            }
+        },
+        "school_name": "ŞEHİT UZMAN ONBAŞI MUSTAFA ESER İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1170,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4d8d93dc-48b5-4a12-af35-00f3637d7690-1684106631829309048.jpg",
+            "submission_id": 816298,
+            "total_vote": 324,
+            "votes": {
+                "1": 136,
+                "2": 1,
+                "3": 170,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3691db22-83dd-4886-a588-c6a2a9445e63-1684106496994886286.jpg",
+            "submission_id": 797285,
+            "total_vote": 321,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 19,
+                "12": 28,
+                "13": 0,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 120,
+                "22": 27,
+                "23": 0,
+                "24": 3,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 5,
+                "8": 1,
+                "9": 113
+            }
+        },
+        "school_name": "ŞEHİT UZMAN ONBAŞI MUSTAFA ESER İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1168,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/13369_cb_1093798116_1684083246781486340.jpg",
+            "submission_id": 212998,
+            "total_vote": 321,
+            "votes": {
+                "1": 116,
+                "2": 1,
+                "3": 192,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/13369_mv_1083798116_1684083304741648633.jpg",
+            "submission_id": 214029,
+            "total_vote": 317,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 14,
+                "12": 36,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 120,
+                "22": 39,
+                "23": 3,
+                "24": 5,
+                "3": 0,
+                "4": 1,
+                "5": 2,
+                "6": 2,
+                "7": 3,
+                "8": 4,
+                "9": 83
+            }
+        },
+        "school_name": "ŞEHİT UZMAN ONBAŞI MUSTAFA ESER İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1177,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/13369_bulk_999999999_1684086707733580191.jpeg",
+            "submission_id": 308800,
+            "total_vote": 307,
+            "votes": {
+                "1": 0,
+                "2": 100,
+                "3": 183,
+                "4": 24
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT UZMAN ONBAŞI MUSTAFA ESER İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1176,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/13369_bulk_999999999_1684086707576927988.jpeg",
+            "submission_id": 308795,
+            "total_vote": 323,
+            "votes": {
+                "1": 0,
+                "2": 102,
+                "3": 202,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT UZMAN ONBAŞI MUSTAFA ESER İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1174,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/85686_bulk_999999999_1684088067243208563.jpg",
+            "submission_id": 354152,
+            "total_vote": 317,
+            "votes": {
+                "1": 99,
+                "3": 199,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/85686_bulk_999999999_1684088067118636055.jpg",
+            "submission_id": 354148,
+            "total_vote": 309,
+            "votes": {
+                "10": 3,
+                "11": 9,
+                "12": 33,
+                "21": 121,
+                "22": 38,
+                "24": 10,
+                "4": 1,
+                "6": 2,
+                "7": 9,
+                "9": 83
+            }
+        },
+        "school_name": "ŞEHİT UZMAN ONBAŞI MUSTAFA ESER İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1161,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/13369_bulk_999999999_1684086706880267602.jpeg",
+            "submission_id": 308758,
+            "total_vote": 313,
+            "votes": {
+                "1": 128,
+                "2": 1,
+                "3": 178,
+                "4": 6
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT UZMAN ONBAŞI MUSTAFA ESER İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1164,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/69160_bulk_999999999_1684089574505820647.jpeg",
+            "submission_id": 398359,
+            "total_vote": 306,
+            "votes": {
+                "1": 92,
+                "2": 1,
+                "3": 198,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/85686_bulk_999999999_1684088164026149115.jpg",
+            "submission_id": 357253,
+            "total_vote": 300,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 11,
+                "12": 20,
+                "14": 2,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 123,
+                "22": 43,
+                "23": 0,
+                "24": 8,
+                "3": 1,
+                "4": 0,
+                "5": 2,
+                "6": 1,
+                "7": 11,
+                "8": 2,
+                "9": 73
+            }
+        },
+        "school_name": "ŞEHİT UZMAN ONBAŞI MUSTAFA ESER İMAM HATİP ORTAOKULU"
+    }
+]

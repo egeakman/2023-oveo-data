@@ -1,0 +1,46 @@
+[
+    {
+        "ballot_box_number": 1171,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2e4c6fb7-6ef8-415c-ac5d-3ff9834a2275-1684106751335856913.jpeg",
+            "submission_id": 834464,
+            "total_vote": 116,
+            "votes": {
+                "1": 66,
+                "3": 48,
+                "4": 2
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/fdc3333a-96f8-4ac7-bf4d-162e02c08cb9-1684106749735933269.jpeg",
+            "submission_id": 833061,
+            "total_vote": 110,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 11,
+                "12": 3,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 35,
+                "22": 7,
+                "23": 0,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 0,
+                "9": 49
+            }
+        },
+        "school_name": "YENİŞAŞAL İLKOKULU"
+    }
+]

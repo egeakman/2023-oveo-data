@@ -1,0 +1,359 @@
+[
+    {
+        "ballot_box_number": 2104,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17167_cb_1093797838_1684085532481312207.jpg",
+            "submission_id": 269602,
+            "total_vote": 316,
+            "votes": {
+                "1": 128,
+                "2": 1,
+                "3": 172,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/45167_mv_1083797838_1684090002772364391.jpg",
+            "submission_id": 409826,
+            "total_vote": 311,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 15,
+                "12": 39,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 90,
+                "22": 46,
+                "23": 0,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 3,
+                "9": 106
+            }
+        },
+        "school_name": "HÜSEYİN AKDAĞ İLKOKULU B-C BLOK"
+    },
+    {
+        "ballot_box_number": 2105,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/45167_bulk_999999999_1684081680387207921.jpeg",
+            "submission_id": 191210,
+            "total_vote": 318,
+            "votes": {
+                "1": 139,
+                "2": 1,
+                "3": 153,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/45167_bulk_999999999_1684081729164119977.jpeg",
+            "submission_id": 191691,
+            "total_vote": 313,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 14,
+                "12": 38,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 87,
+                "22": 30,
+                "23": 0,
+                "24": 11,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 3,
+                "7": 11,
+                "8": 5,
+                "9": 106
+            }
+        },
+        "school_name": "HÜSEYİN AKDAĞ İLKOKULU B-C BLOK"
+    },
+    {
+        "ballot_box_number": 2108,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "HÜSEYİN AKDAĞ İLKOKULU B-C BLOK"
+    },
+    {
+        "ballot_box_number": 2111,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68459_cb_1093797845_1684085202948754219.jpg",
+            "submission_id": 259972,
+            "total_vote": 317,
+            "votes": {
+                "1": 139,
+                "2": 1,
+                "3": 159,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68459_mv_1083797845_1684085223086161635.jpg",
+            "submission_id": 260538,
+            "total_vote": 311,
+            "votes": {
+                "10": 3,
+                "11": 17,
+                "12": 20,
+                "14": 0,
+                "21": 100,
+                "22": 41,
+                "23": 1,
+                "24": 6,
+                "5": 0,
+                "6": 4,
+                "7": 2,
+                "8": 1,
+                "9": 116
+            }
+        },
+        "school_name": "HÜSEYİN AKDAĞ İLKOKULU B-C BLOK"
+    },
+    {
+        "ballot_box_number": 2103,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17167_cb_1093797837_1684081176996918390.jpg",
+            "submission_id": 186660,
+            "total_vote": 285,
+            "votes": {
+                "1": 140,
+                "2": 3,
+                "3": 131,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/45167_mv_1083797837_1684087699708589964.jpg",
+            "submission_id": 342385,
+            "total_vote": 284,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 17,
+                "12": 28,
+                "14": 0,
+                "15": 1,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 85,
+                "22": 17,
+                "23": 0,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 0,
+                "9": 119
+            }
+        },
+        "school_name": "HÜSEYİN AKDAĞ İLKOKULU B-C BLOK"
+    },
+    {
+        "ballot_box_number": 2110,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "HÜSEYİN AKDAĞ İLKOKULU B-C BLOK"
+    },
+    {
+        "ballot_box_number": 2106,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/45167_bulk_999999999_1684096264866871295.jpeg",
+            "submission_id": 510898,
+            "total_vote": 304,
+            "votes": {
+                "1": 2,
+                "10": 3,
+                "11": 18,
+                "12": 31,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 90,
+                "22": 0,
+                "23": 43,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 0,
+                "8": 2,
+                "9": 105
+            }
+        },
+        "school_name": "HÜSEYİN AKDAĞ İLKOKULU B-C BLOK"
+    },
+    {
+        "ballot_box_number": 2113,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68459_cb_1093797847_1684083319452302036.jpg",
+            "submission_id": 214309,
+            "total_vote": 319,
+            "votes": {
+                "1": 159,
+                "2": 2,
+                "3": 141,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68459_mv_1083797847_1684083343052125950.jpg",
+            "submission_id": 214739,
+            "total_vote": 313,
+            "votes": {
+                "10": 2,
+                "11": 9,
+                "12": 29,
+                "14": 1,
+                "15": 1,
+                "21": 78,
+                "22": 31,
+                "23": 1,
+                "24": 14,
+                "7": 5,
+                "8": 2,
+                "9": 140
+            }
+        },
+        "school_name": "HÜSEYİN AKDAĞ İLKOKULU B-C BLOK"
+    },
+    {
+        "ballot_box_number": 2114,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68459_cb_1093797848_1684085437074172487.jpg",
+            "submission_id": 266734,
+            "total_vote": 322,
+            "votes": {
+                "1": 151,
+                "2": 1,
+                "3": 156,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/45167_bulk_999999999_1684086842882846356.jpeg",
+            "submission_id": 313511,
+            "total_vote": 318,
+            "votes": {
+                "10": 5,
+                "11": 21,
+                "12": 26,
+                "21": 86,
+                "22": 39,
+                "24": 4,
+                "3": 3,
+                "5": 1,
+                "6": 6,
+                "7": 7,
+                "9": 120
+            }
+        },
+        "school_name": "HÜSEYİN AKDAĞ İLKOKULU B-C BLOK"
+    },
+    {
+        "ballot_box_number": 2112,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/68459_bulk_999999999_1684084809597428119.jpeg",
+            "submission_id": 248779,
+            "total_vote": 315,
+            "votes": {
+                "1": 153,
+                "2": 1,
+                "3": 147,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68459_mv_1083797846_1684085121551163064.jpg",
+            "submission_id": 257548,
+            "total_vote": 310,
+            "votes": {
+                "1": 2,
+                "10": 10,
+                "11": 11,
+                "12": 27,
+                "15": 1,
+                "2": 1,
+                "21": 82,
+                "22": 36,
+                "24": 5,
+                "6": 2,
+                "7": 2,
+                "8": 3,
+                "9": 128
+            }
+        },
+        "school_name": "HÜSEYİN AKDAĞ İLKOKULU B-C BLOK"
+    },
+    {
+        "ballot_box_number": 2107,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "HÜSEYİN AKDAĞ İLKOKULU B-C BLOK"
+    },
+    {
+        "ballot_box_number": 2102,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17167_cb_1093797836_1684086411568505970.jpg",
+            "submission_id": 298424,
+            "total_vote": 295,
+            "votes": {
+                "1": 126,
+                "2": 0,
+                "3": 156,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "HÜSEYİN AKDAĞ İLKOKULU B-C BLOK"
+    },
+    {
+        "ballot_box_number": 2109,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/45167_cb_1093797843_1684087440294904854.jpg",
+            "submission_id": 333964,
+            "total_vote": 332,
+            "votes": {
+                "1": 138,
+                "2": 0,
+                "3": 170,
+                "4": 24
+            }
+        },
+        "mv_result": null,
+        "school_name": "HÜSEYİN AKDAĞ İLKOKULU B-C BLOK"
+    }
+]

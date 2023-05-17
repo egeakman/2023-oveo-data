@@ -1,0 +1,331 @@
+[
+    {
+        "ballot_box_number": 1201,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/30285_cb_1093799541_1684080776005610703.jpg",
+            "submission_id": 183694,
+            "total_vote": 326,
+            "votes": {
+                "1": 181,
+                "3": 124,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/30285_mv_1083799541_1684080827310528773.jpg",
+            "submission_id": 184043,
+            "total_vote": 324,
+            "votes": {
+                "10": 13,
+                "11": 45,
+                "12": 13,
+                "13": 6,
+                "17": 2,
+                "21": 81,
+                "22": 29,
+                "23": 1,
+                "24": 8,
+                "6": 1,
+                "8": 3,
+                "9": 122
+            }
+        },
+        "school_name": "MERKEZ CUMHURİYET İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1193,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/30285_cb_1093799313_1684080033229704857.jpg",
+            "submission_id": 179452,
+            "total_vote": 311,
+            "votes": {
+                "1": 158,
+                "2": 3,
+                "3": 139,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/30285_bulk_999999999_1684091996699898267.jpeg",
+            "submission_id": 449242,
+            "total_vote": 302,
+            "votes": {
+                "1": 1,
+                "10": 10,
+                "11": 22,
+                "12": 2,
+                "13": 4,
+                "14": 1,
+                "15": 4,
+                "16": 0,
+                "17": 3,
+                "18": 0,
+                "19": 2,
+                "2": 2,
+                "20": 0,
+                "21": 94,
+                "22": 22,
+                "23": 0,
+                "24": 2,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 3,
+                "8": 7,
+                "9": 119
+            }
+        },
+        "school_name": "MERKEZ CUMHURİYET İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1197,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/30285_cb_1093799537_1684087384280821517.jpg",
+            "submission_id": 332172,
+            "total_vote": 340,
+            "votes": {
+                "1": 192,
+                "3": 130,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/30285_mv_1083799537_1684087342203341288.jpg",
+            "submission_id": 330745,
+            "total_vote": 337,
+            "votes": {
+                "10": 12,
+                "11": 49,
+                "12": 8,
+                "13": 10,
+                "15": 1,
+                "2": 1,
+                "21": 84,
+                "22": 28,
+                "23": 3,
+                "24": 11,
+                "6": 1,
+                "7": 2,
+                "8": 4,
+                "9": 123
+            }
+        },
+        "school_name": "MERKEZ CUMHURİYET İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1199,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/30285_cb_1093799539_1684080208519800591.jpg",
+            "submission_id": 180295,
+            "total_vote": 331,
+            "votes": {
+                "1": 193,
+                "2": 2,
+                "3": 108,
+                "4": 28
+            }
+        },
+        "mv_result": null,
+        "school_name": "MERKEZ CUMHURİYET İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1198,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/30285_cb_1093799538_1684080177683304617.jpg",
+            "submission_id": 180154,
+            "total_vote": 332,
+            "votes": {
+                "1": 199,
+                "2": 2,
+                "3": 115,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/30285_mv_1083799538_1684084628956168385.jpg",
+            "submission_id": 243924,
+            "total_vote": 325,
+            "votes": {
+                "10": 10,
+                "11": 54,
+                "12": 6,
+                "13": 6,
+                "18": 1,
+                "21": 83,
+                "22": 23,
+                "23": 1,
+                "24": 6,
+                "7": 1,
+                "8": 5,
+                "9": 129
+            }
+        },
+        "school_name": "MERKEZ CUMHURİYET İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1200,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/30285_cb_1093799540_1684080306584165782.jpg",
+            "submission_id": 180878,
+            "total_vote": 334,
+            "votes": {
+                "1": 190,
+                "2": 2,
+                "3": 115,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/30285_bulk_999999999_1684091996770156094.jpeg",
+            "submission_id": 449243,
+            "total_vote": 330,
+            "votes": {
+                "1": 0,
+                "10": 10,
+                "11": 42,
+                "12": 8,
+                "13": 11,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 2,
+                "21": 74,
+                "22": 29,
+                "23": 0,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 7,
+                "8": 0,
+                "9": 134
+            }
+        },
+        "school_name": "MERKEZ CUMHURİYET İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1195,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/30285_cb_1093799535_1684081123928328388.jpg",
+            "submission_id": 186244,
+            "total_vote": 327,
+            "votes": {
+                "1": 184,
+                "2": 2,
+                "3": 117,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/30285_mv_1083799535_1684086293591032181.jpg",
+            "submission_id": 294525,
+            "total_vote": 313,
+            "votes": {
+                "10": 9,
+                "12": 42,
+                "13": 5,
+                "2": 2,
+                "21": 68,
+                "22": 39,
+                "23": 1,
+                "24": 16,
+                "7": 3,
+                "8": 6,
+                "9": 122
+            }
+        },
+        "school_name": "MERKEZ CUMHURİYET İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1196,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/30285_cb_1093799536_1684085142814390223.jpg",
+            "submission_id": 258183,
+            "total_vote": 331,
+            "votes": {
+                "1": 173,
+                "2": 2,
+                "3": 136,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/30285_mv_1083799536_1684086540454769401.jpg",
+            "submission_id": 302918,
+            "total_vote": 326,
+            "votes": {
+                "10": 15,
+                "11": 29,
+                "12": 7,
+                "13": 12,
+                "15": 1,
+                "19": 1,
+                "21": 92,
+                "22": 26,
+                "23": 2,
+                "24": 7,
+                "6": 1,
+                "7": 5,
+                "8": 5,
+                "9": 123
+            }
+        },
+        "school_name": "MERKEZ CUMHURİYET İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1202,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/30285_cb_1093799542_1684087865722488099.jpg",
+            "submission_id": 347546,
+            "total_vote": 334,
+            "votes": {
+                "1": 196,
+                "3": 122,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/30285_bulk_999999999_1684091996446826222.jpeg",
+            "submission_id": 449236,
+            "total_vote": 332,
+            "votes": {
+                "10": 8,
+                "11": 46,
+                "12": 13,
+                "13": 10,
+                "18": 1,
+                "20": 1,
+                "21": 82,
+                "22": 20,
+                "23": 1,
+                "24": 6,
+                "5": 1,
+                "7": 5,
+                "8": 6,
+                "9": 132
+            }
+        },
+        "school_name": "MERKEZ CUMHURİYET İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1194,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/30285_cb_1093799314_1684080116261167060.jpg",
+            "submission_id": 179846,
+            "total_vote": 324,
+            "votes": {
+                "1": 182,
+                "2": 0,
+                "3": 129,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "MERKEZ CUMHURİYET İLKOKULU"
+    }
+]

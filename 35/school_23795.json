@@ -1,0 +1,48 @@
+[
+    {
+        "ballot_box_number": 1055,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3fb77741-b0b4-422c-8b16-047f9c24064b-1684106784446702579.jpg",
+            "submission_id": 837941,
+            "total_vote": 74,
+            "votes": {
+                "1": 30,
+                "2": 2,
+                "3": 38,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684083221734719609.jpg",
+            "submission_id": 212538,
+            "total_vote": 74,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 5,
+                "12": 1,
+                "13": 0,
+                "14": 2,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 28,
+                "22": 9,
+                "23": 0,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 0,
+                "9": 24
+            }
+        },
+        "school_name": "ÇAKALTEPE MUHTARLIK DÜĞÜN SALONU"
+    }
+]

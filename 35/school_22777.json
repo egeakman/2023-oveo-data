@@ -1,0 +1,434 @@
+[
+    {
+        "ballot_box_number": 1223,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20924_cb_1093579576_1684087716308774900.jpg",
+            "submission_id": 342953,
+            "total_vote": 342,
+            "votes": {
+                "1": 47,
+                "2": 3,
+                "3": 281,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20924_mv_1083579576_1684087969189796881.jpg",
+            "submission_id": 350906,
+            "total_vote": 340,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 10,
+                "12": 7,
+                "13": 25,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 197,
+                "22": 48,
+                "23": 1,
+                "24": 3,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 5,
+                "8": 0,
+                "9": 39
+            }
+        },
+        "school_name": "CEM BAKİOĞLU ANADOLU LİSESİ B BLOK"
+    },
+    {
+        "ballot_box_number": 1228,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20924_cb_1093579581_1684094303285457498.jpeg",
+            "submission_id": 490393,
+            "total_vote": 343,
+            "votes": {
+                "1": 75,
+                "3": 256,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20924_mv_1083579581_1684094336376542775.jpeg",
+            "submission_id": 490767,
+            "total_vote": 333,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 10,
+                "12": 18,
+                "13": 19,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 2,
+                "21": 166,
+                "22": 47,
+                "23": 1,
+                "24": 8,
+                "3": 0,
+                "4": 2,
+                "5": 0,
+                "6": 3,
+                "7": 5,
+                "8": 0,
+                "9": 50
+            }
+        },
+        "school_name": "CEM BAKİOĞLU ANADOLU LİSESİ B BLOK"
+    },
+    {
+        "ballot_box_number": 1227,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/29073_bulk_999999999_1684082649078808374.jpeg",
+            "submission_id": 203065,
+            "total_vote": 341,
+            "votes": {
+                "1": 45,
+                "2": 0,
+                "3": 290,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/29073_bulk_999999999_1684081657893387977.jpeg",
+            "submission_id": 190975,
+            "total_vote": 339,
+            "votes": {
+                "10": 3,
+                "11": 6,
+                "12": 14,
+                "13": 24,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 194,
+                "22": 58,
+                "23": 0,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 0,
+                "8": 2,
+                "9": 32
+            }
+        },
+        "school_name": "CEM BAKİOĞLU ANADOLU LİSESİ B BLOK"
+    },
+    {
+        "ballot_box_number": 1225,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20924_cb_1093579578_1684094540392496187.jpeg",
+            "submission_id": 493187,
+            "total_vote": 345,
+            "votes": {
+                "1": 60,
+                "2": 1,
+                "3": 271,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20924_mv_1083579578_1684094515072545720.jpeg",
+            "submission_id": 492855,
+            "total_vote": 341,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 11,
+                "12": 13,
+                "13": 36,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 180,
+                "22": 44,
+                "23": 1,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 0,
+                "8": 1,
+                "9": 49
+            }
+        },
+        "school_name": "CEM BAKİOĞLU ANADOLU LİSESİ B BLOK"
+    },
+    {
+        "ballot_box_number": 1220,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20924_cb_1093579013_1684094161249623757.jpeg",
+            "submission_id": 488660,
+            "total_vote": 344,
+            "votes": {
+                "1": 59,
+                "2": 0,
+                "3": 269,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20924_mv_1083579013_1684088337305699663.jpg",
+            "submission_id": 362427,
+            "total_vote": 341,
+            "votes": {
+                "10": 3,
+                "11": 13,
+                "12": 16,
+                "13": 27,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 174,
+                "22": 57,
+                "23": 1,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 1,
+                "9": 39
+            }
+        },
+        "school_name": "CEM BAKİOĞLU ANADOLU LİSESİ B BLOK"
+    },
+    {
+        "ballot_box_number": 1224,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20924_cb_1093579577_1684094418191693125.jpeg",
+            "submission_id": 491728,
+            "total_vote": 339,
+            "votes": {
+                "1": 68,
+                "3": 256,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f1bbcba2-2740-4cf7-850b-05126a9f255e-1684106242860251034.jpg",
+            "submission_id": 760010,
+            "total_vote": 337,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 5,
+                "12": 12,
+                "13": 19,
+                "15": 1,
+                "21": 181,
+                "22": 50,
+                "24": 2,
+                "7": 3,
+                "9": 61
+            }
+        },
+        "school_name": "CEM BAKİOĞLU ANADOLU LİSESİ B BLOK"
+    },
+    {
+        "ballot_box_number": 1226,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20924_cb_1093579579_1684096505980828686.jpeg",
+            "submission_id": 513174,
+            "total_vote": 339,
+            "votes": {
+                "1": 44,
+                "2": 0,
+                "3": 282,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "CEM BAKİOĞLU ANADOLU LİSESİ B BLOK"
+    },
+    {
+        "ballot_box_number": 1219,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/36076_bulk_999999999_1684088220843007113.jpeg",
+            "submission_id": 358900,
+            "total_vote": 330,
+            "votes": {
+                "1": 72,
+                "2": 2,
+                "3": 248,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/36076_bulk_999999999_1684088220694208077.jpeg",
+            "submission_id": 358894,
+            "total_vote": 328,
+            "votes": {
+                "10": 3,
+                "11": 10,
+                "12": 23,
+                "13": 21,
+                "20": 1,
+                "21": 163,
+                "22": 41,
+                "24": 4,
+                "5": 1,
+                "7": 4,
+                "8": 3,
+                "9": 54
+            }
+        },
+        "school_name": "CEM BAKİOĞLU ANADOLU LİSESİ B BLOK"
+    },
+    {
+        "ballot_box_number": 1218,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20924_cb_1093579011_1684094241099371576.jpeg",
+            "submission_id": 489650,
+            "total_vote": 312,
+            "votes": {
+                "1": 59,
+                "2": 1,
+                "3": 247,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20924_mv_1083579011_1684095239076363105.jpeg",
+            "submission_id": 501064,
+            "total_vote": 308,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 9,
+                "12": 13,
+                "13": 10,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 190,
+                "22": 34,
+                "23": 0,
+                "24": 3,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "8": 0,
+                "9": 43
+            }
+        },
+        "school_name": "CEM BAKİOĞLU ANADOLU LİSESİ B BLOK"
+    },
+    {
+        "ballot_box_number": 1222,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20924_cb_1093579575_1684095332633103481.jpeg",
+            "submission_id": 501999,
+            "total_vote": 346,
+            "votes": {
+                "1": 53,
+                "2": 1,
+                "3": 281,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20924_mv_1083579575_1684095644895488942.jpeg",
+            "submission_id": 505279,
+            "total_vote": 344,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 11,
+                "12": 10,
+                "13": 30,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 190,
+                "22": 49,
+                "23": 0,
+                "24": 6,
+                "3": 4,
+                "4": 0,
+                "5": 2,
+                "6": 0,
+                "7": 0,
+                "8": 3,
+                "9": 36
+            }
+        },
+        "school_name": "CEM BAKİOĞLU ANADOLU LİSESİ B BLOK"
+    },
+    {
+        "ballot_box_number": 1221,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20924_cb_1093579014_1684095261374803921.jpg",
+            "submission_id": 501286,
+            "total_vote": 338,
+            "votes": {
+                "1": 51,
+                "2": 1,
+                "3": 279,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20924_mv_1083579014_1684095276506216107.jpg",
+            "submission_id": 501459,
+            "total_vote": 332,
+            "votes": {
+                "11": 8,
+                "12": 14,
+                "13": 38,
+                "15": 2,
+                "21": 176,
+                "22": 46,
+                "24": 6,
+                "3": 1,
+                "7": 2,
+                "8": 5,
+                "9": 34
+            }
+        },
+        "school_name": "CEM BAKİOĞLU ANADOLU LİSESİ B BLOK"
+    }
+]

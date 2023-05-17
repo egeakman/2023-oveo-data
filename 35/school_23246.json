@@ -1,0 +1,212 @@
+[
+    {
+        "ballot_box_number": 1122,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/515c902c-61fe-44c9-b719-be7995794d0b-1684106073646601019.jpg",
+            "submission_id": 734609,
+            "total_vote": 365,
+            "votes": {
+                "1": 174,
+                "2": 0,
+                "3": 152,
+                "4": 39
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/74887_cb_1093574145_1684086201410345746.jpg",
+            "submission_id": 291477,
+            "total_vote": 363,
+            "votes": {
+                "10": 19,
+                "11": 51,
+                "12": 3,
+                "13": 23,
+                "14": 0,
+                "21": 89,
+                "22": 43,
+                "23": 1,
+                "24": 13,
+                "6": 1,
+                "7": 10,
+                "8": 3,
+                "9": 107
+            }
+        },
+        "school_name": "PETKİM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1124,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/74887_cb_1093574147_1684084385131019976.jpg",
+            "submission_id": 237607,
+            "total_vote": 349,
+            "votes": {
+                "1": 142,
+                "2": 1,
+                "3": 174,
+                "4": 32
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/74887_mv_1083574147_1684084577221264454.jpg",
+            "submission_id": 242533,
+            "total_vote": 346,
+            "votes": {
+                "1": 2,
+                "10": 16,
+                "11": 21,
+                "12": 6,
+                "13": 25,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 101,
+                "22": 39,
+                "23": 0,
+                "24": 22,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 3,
+                "9": 105
+            }
+        },
+        "school_name": "PETKİM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1126,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/74887_cb_1093574149_1684081819236789791.jpg",
+            "submission_id": 192631,
+            "total_vote": 356,
+            "votes": {
+                "1": 152,
+                "2": 2,
+                "3": 169,
+                "4": 33
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/74887_mv_1083574149_1684081738198355325.jpg",
+            "submission_id": 191785,
+            "total_vote": 354,
+            "votes": {
+                "1": 0,
+                "10": 19,
+                "11": 46,
+                "12": 4,
+                "13": 20,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 97,
+                "22": 48,
+                "23": 2,
+                "24": 15,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 7,
+                "8": 0,
+                "9": 94
+            }
+        },
+        "school_name": "PETKİM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1123,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/74887_cb_1093574146_1684082690317965912.jpg",
+            "submission_id": 203691,
+            "total_vote": 355,
+            "votes": {
+                "1": 166,
+                "2": 2,
+                "3": 155,
+                "4": 32
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/74887_mv_1083574146_1684088528158213216.jpg",
+            "submission_id": 368370,
+            "total_vote": 355,
+            "votes": {
+                "10": 18,
+                "11": 52,
+                "12": 6,
+                "13": 23,
+                "21": 85,
+                "22": 46,
+                "24": 16,
+                "4": 1,
+                "7": 8,
+                "8": 2,
+                "9": 98
+            }
+        },
+        "school_name": "PETKİM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1125,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20786_bulk_999999999_1684097083376894589.jpg",
+            "submission_id": 518096,
+            "total_vote": 353,
+            "votes": {
+                "1": 135,
+                "2": 3,
+                "3": 181,
+                "4": 34
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20786_bulk_999999999_1684097083483182571.jpg",
+            "submission_id": 518098,
+            "total_vote": 350,
+            "votes": {
+                "1": 1,
+                "10": 10,
+                "11": 46,
+                "12": 5,
+                "13": 18,
+                "21": 119,
+                "22": 48,
+                "24": 9,
+                "6": 3,
+                "7": 3,
+                "8": 1,
+                "9": 87
+            }
+        },
+        "school_name": "PETKİM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1121,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/74887_cb_1093574144_1684083329260363693.jpg",
+            "submission_id": 214463,
+            "total_vote": 344,
+            "votes": {
+                "1": 163,
+                "2": 2,
+                "3": 150,
+                "4": 29
+            }
+        },
+        "mv_result": null,
+        "school_name": "PETKİM İLKOKULU"
+    }
+]

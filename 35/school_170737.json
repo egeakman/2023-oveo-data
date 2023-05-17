@@ -1,0 +1,649 @@
+[
+    {
+        "ballot_box_number": 2149,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20057_cb_1093864583_1684083618711564806.jpg",
+            "submission_id": 220109,
+            "total_vote": 331,
+            "votes": {
+                "1": 90,
+                "2": 3,
+                "3": 217,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20057_mv_1083864583_1684083879595289120.jpg",
+            "submission_id": 225718,
+            "total_vote": 327,
+            "votes": {
+                "1": 2,
+                "10": 4,
+                "11": 11,
+                "12": 52,
+                "13": 25,
+                "20": 1,
+                "21": 122,
+                "22": 30,
+                "23": 1,
+                "24": 10,
+                "7": 2,
+                "9": 67
+            }
+        },
+        "school_name": "ŞEHİT POLİS SAMET KIRCALI ORTAOKULU(ÖNCEKİ ADI YAMAÇ ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 2146,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21892_mv_1083864580_1684086615197096602.jpg",
+            "submission_id": 305524,
+            "total_vote": 317,
+            "votes": {
+                "1": 70,
+                "2": 1,
+                "3": 236,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23362_mv_1083864580_1684087470311935980.jpg",
+            "submission_id": 334920,
+            "total_vote": 315,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 16,
+                "12": 36,
+                "13": 24,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 141,
+                "22": 30,
+                "23": 2,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 1,
+                "7": 5,
+                "8": 0,
+                "9": 54
+            }
+        },
+        "school_name": "ŞEHİT POLİS SAMET KIRCALI ORTAOKULU(ÖNCEKİ ADI YAMAÇ ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 2142,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23362_cb_1093864576_1684082588450428210.jpg",
+            "submission_id": 202182,
+            "total_vote": 334,
+            "votes": {
+                "1": 71,
+                "2": 5,
+                "3": 249,
+                "4": 9
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT POLİS SAMET KIRCALI ORTAOKULU(ÖNCEKİ ADI YAMAÇ ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 2137,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23362_cb_1093864551_1684086440354229555.jpg",
+            "submission_id": 299358,
+            "total_vote": 334,
+            "votes": {
+                "1": 61,
+                "2": 1,
+                "3": 262,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23362_mv_1083864551_1684088295213142828.jpg",
+            "submission_id": 361176,
+            "total_vote": 332,
+            "votes": {
+                "1": 2,
+                "10": 2,
+                "11": 15,
+                "12": 61,
+                "13": 30,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 142,
+                "22": 27,
+                "23": 0,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 0,
+                "8": 0,
+                "9": 47
+            }
+        },
+        "school_name": "ŞEHİT POLİS SAMET KIRCALI ORTAOKULU(ÖNCEKİ ADI YAMAÇ ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 2134,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23362_cb_1093864548_1684087566532059284.jpg",
+            "submission_id": 338015,
+            "total_vote": 305,
+            "votes": {
+                "1": 123,
+                "2": 1,
+                "3": 169,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23362_mv_1083864548_1684087590251400425.jpg",
+            "submission_id": 338807,
+            "total_vote": 284,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 21,
+                "12": 31,
+                "13": 3,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 15,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 105,
+                "22": 15,
+                "23": 0,
+                "24": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "8": 3,
+                "9": 85
+            }
+        },
+        "school_name": "ŞEHİT POLİS SAMET KIRCALI ORTAOKULU(ÖNCEKİ ADI YAMAÇ ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 2136,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/55703_bulk_999999999_1684080458808308548.jpeg",
+            "submission_id": 181812,
+            "total_vote": 329,
+            "votes": {
+                "1": 84,
+                "2": 0,
+                "3": 235,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23362_mv_1083864550_1684086928144944330.jpg",
+            "submission_id": 316482,
+            "total_vote": 323,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 20,
+                "12": 47,
+                "13": 30,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 119,
+                "22": 33,
+                "23": 0,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 3,
+                "8": 1,
+                "9": 60
+            }
+        },
+        "school_name": "ŞEHİT POLİS SAMET KIRCALI ORTAOKULU(ÖNCEKİ ADI YAMAÇ ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 2144,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23362_cb_1093864578_1684089365888453946.jpg",
+            "submission_id": 392559,
+            "total_vote": 324,
+            "votes": {
+                "1": 55,
+                "2": 3,
+                "3": 256,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23362_mv_1083864578_1684089402875076712.jpg",
+            "submission_id": 393517,
+            "total_vote": 323,
+            "votes": {
+                "10": 1,
+                "11": 8,
+                "12": 45,
+                "13": 29,
+                "21": 150,
+                "22": 36,
+                "23": 2,
+                "24": 6,
+                "6": 1,
+                "7": 1,
+                "8": 2,
+                "9": 42
+            }
+        },
+        "school_name": "ŞEHİT POLİS SAMET KIRCALI ORTAOKULU(ÖNCEKİ ADI YAMAÇ ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 2145,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/18537_bulk_999999999_1684089895715516527.jpeg",
+            "submission_id": 407055,
+            "total_vote": 345,
+            "votes": {
+                "1": 86,
+                "2": 0,
+                "3": 256,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/18537_bulk_999999999_1684089977040647700.jpeg",
+            "submission_id": 409140,
+            "total_vote": 341,
+            "votes": {
+                "10": 1,
+                "11": 10,
+                "12": 55,
+                "13": 20,
+                "14": 0,
+                "15": 0,
+                "18": 1,
+                "19": 0,
+                "20": 1,
+                "21": 148,
+                "22": 27,
+                "23": 0,
+                "24": 4,
+                "5": 0,
+                "6": 2,
+                "7": 4,
+                "8": 0,
+                "9": 68
+            }
+        },
+        "school_name": "ŞEHİT POLİS SAMET KIRCALI ORTAOKULU(ÖNCEKİ ADI YAMAÇ ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 2139,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23362_cb_1093864553_1684087319295978226.jpg",
+            "submission_id": 330029,
+            "total_vote": 319,
+            "votes": {
+                "1": 81,
+                "2": 0,
+                "3": 228,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23362_mv_1083864553_1684087345681174164.jpg",
+            "submission_id": 330855,
+            "total_vote": 316,
+            "votes": {
+                "10": 6,
+                "11": 19,
+                "12": 35,
+                "13": 20,
+                "14": 1,
+                "2": 1,
+                "21": 145,
+                "22": 15,
+                "24": 5,
+                "3": 1,
+                "4": 1,
+                "5": 2,
+                "7": 2,
+                "8": 1,
+                "9": 62
+            }
+        },
+        "school_name": "ŞEHİT POLİS SAMET KIRCALI ORTAOKULU(ÖNCEKİ ADI YAMAÇ ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 2143,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23362_cb_1093864577_1684085900170026636.jpg",
+            "submission_id": 281796,
+            "total_vote": 331,
+            "votes": {
+                "1": 69,
+                "2": 1,
+                "3": 249,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23362_mv_1083864577_1684085963738822026.jpg",
+            "submission_id": 283839,
+            "total_vote": 330,
+            "votes": {
+                "10": 2,
+                "11": 18,
+                "12": 51,
+                "13": 26,
+                "16": 1,
+                "21": 149,
+                "22": 28,
+                "23": 1,
+                "24": 4,
+                "6": 6,
+                "7": 1,
+                "9": 43
+            }
+        },
+        "school_name": "ŞEHİT POLİS SAMET KIRCALI ORTAOKULU(ÖNCEKİ ADI YAMAÇ ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 2141,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23362_cb_1093864575_1684079259945988424.jpg",
+            "submission_id": 176413,
+            "total_vote": 326,
+            "votes": {
+                "1": 73,
+                "2": 1,
+                "3": 244,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23362_mv_1083864575_1684082337453190491.jpg",
+            "submission_id": 198868,
+            "total_vote": 312,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 12,
+                "12": 38,
+                "13": 26,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 139,
+                "22": 32,
+                "23": 1,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 4,
+                "6": 0,
+                "7": 0,
+                "8": 0,
+                "9": 54
+            }
+        },
+        "school_name": "ŞEHİT POLİS SAMET KIRCALI ORTAOKULU(ÖNCEKİ ADI YAMAÇ ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 2140,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23362_cb_1093864554_1684086042076053053.jpg",
+            "submission_id": 286320,
+            "total_vote": 324,
+            "votes": {
+                "1": 85,
+                "2": 1,
+                "3": 226,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18537_mv_1083864554_1684090798582278074.jpg",
+            "submission_id": 427636,
+            "total_vote": 317,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 16,
+                "12": 46,
+                "13": 28,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 119,
+                "22": 30,
+                "23": 0,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 3,
+                "8": 2,
+                "9": 63
+            }
+        },
+        "school_name": "ŞEHİT POLİS SAMET KIRCALI ORTAOKULU(ÖNCEKİ ADI YAMAÇ ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 2150,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20057_cb_1093864584_1684085716137602966.jpg",
+            "submission_id": 275611,
+            "total_vote": 325,
+            "votes": {
+                "1": 90,
+                "2": 1,
+                "3": 223,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20057_mv_1083864584_1684085748223063796.jpg",
+            "submission_id": 276623,
+            "total_vote": 323,
+            "votes": {
+                "1": 2,
+                "10": 1,
+                "11": 8,
+                "12": 45,
+                "13": 28,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 3,
+                "2": 0,
+                "20": 0,
+                "21": 117,
+                "22": 37,
+                "23": 0,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 0,
+                "8": 3,
+                "9": 69
+            }
+        },
+        "school_name": "ŞEHİT POLİS SAMET KIRCALI ORTAOKULU(ÖNCEKİ ADI YAMAÇ ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 2147,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23362_cb_1093864581_1684082828782563729.jpg",
+            "submission_id": 205862,
+            "total_vote": 322,
+            "votes": {
+                "1": 77,
+                "2": 0,
+                "3": 237,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23362_mv_1083864581_1684082856980143483.jpg",
+            "submission_id": 206310,
+            "total_vote": 319,
+            "votes": {
+                "10": 2,
+                "11": 12,
+                "12": 32,
+                "13": 21,
+                "20": 2,
+                "21": 158,
+                "22": 23,
+                "24": 6,
+                "3": 1,
+                "6": 1,
+                "7": 3,
+                "9": 58
+            }
+        },
+        "school_name": "ŞEHİT POLİS SAMET KIRCALI ORTAOKULU(ÖNCEKİ ADI YAMAÇ ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 2148,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/18537_bulk_999999999_1684090278324389742.jpeg",
+            "submission_id": 416388,
+            "total_vote": 331,
+            "votes": {
+                "1": 88,
+                "3": 233,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/18537_bulk_999999999_1684090146092713442.jpeg",
+            "submission_id": 413251,
+            "total_vote": 332,
+            "votes": {
+                "10": 2,
+                "11": 14,
+                "12": 42,
+                "13": 24,
+                "15": 1,
+                "19": 1,
+                "21": 135,
+                "22": 33,
+                "24": 6,
+                "5": 2,
+                "6": 3,
+                "7": 4,
+                "9": 65
+            }
+        },
+        "school_name": "ŞEHİT POLİS SAMET KIRCALI ORTAOKULU(ÖNCEKİ ADI YAMAÇ ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 2138,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23362_cb_1093864552_1684089108756332019.jpg",
+            "submission_id": 385608,
+            "total_vote": 323,
+            "votes": {
+                "1": 86,
+                "2": 3,
+                "3": 222,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23362_mv_1083864552_1684085302063110839.jpg",
+            "submission_id": 262810,
+            "total_vote": 318,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 12,
+                "12": 52,
+                "13": 18,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 127,
+                "22": 29,
+                "23": 3,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 1,
+                "8": 1,
+                "9": 60
+            }
+        },
+        "school_name": "ŞEHİT POLİS SAMET KIRCALI ORTAOKULU(ÖNCEKİ ADI YAMAÇ ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 2135,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23362_cb_1093864549_1684083881215526001.jpg",
+            "submission_id": 225755,
+            "total_vote": 319,
+            "votes": {
+                "1": 79,
+                "2": 2,
+                "3": 229,
+                "4": 9
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT POLİS SAMET KIRCALI ORTAOKULU(ÖNCEKİ ADI YAMAÇ ORTAOKULU)"
+    }
+]

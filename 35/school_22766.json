@@ -1,0 +1,285 @@
+[
+    {
+        "ballot_box_number": 2286,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21136_cb_1093580611_1684089842506570684.jpeg",
+            "submission_id": 405590,
+            "total_vote": 334,
+            "votes": {
+                "1": 102,
+                "2": 0,
+                "3": 209,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "REŞAT NURİ GÜNTEKİN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2280,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21136_cb_1093580605_1684095308184834872.jpeg",
+            "submission_id": 501758,
+            "total_vote": 293,
+            "votes": {
+                "1": 102,
+                "2": 1,
+                "3": 176,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "REŞAT NURİ GÜNTEKİN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2287,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21136_cb_1093580612_1684095018454799373.jpeg",
+            "submission_id": 498867,
+            "total_vote": 330,
+            "votes": {
+                "1": 100,
+                "2": 2,
+                "3": 211,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21136_mv_1083580612_1684095057862754715.jpeg",
+            "submission_id": 499302,
+            "total_vote": 324,
+            "votes": {
+                "10": 5,
+                "11": 14,
+                "12": 4,
+                "13": 20,
+                "14": 1,
+                "19": 1,
+                "20": 1,
+                "21": 135,
+                "22": 44,
+                "24": 7,
+                "7": 4,
+                "9": 88
+            }
+        },
+        "school_name": "REŞAT NURİ GÜNTEKİN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2285,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21136_cb_1093580610_1684096689992955263.jpeg",
+            "submission_id": 514874,
+            "total_vote": 335,
+            "votes": {
+                "1": 124,
+                "2": 1,
+                "3": 195,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21136_mv_1083580610_1684096303445217641.jpeg",
+            "submission_id": 511318,
+            "total_vote": 328,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 15,
+                "12": 4,
+                "13": 16,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 137,
+                "22": 40,
+                "23": 1,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 2,
+                "9": 99
+            }
+        },
+        "school_name": "REŞAT NURİ GÜNTEKİN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2284,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21136_cb_1093580609_1684095151115484367.jpeg",
+            "submission_id": 500202,
+            "total_vote": 334,
+            "votes": {
+                "1": 122,
+                "2": 2,
+                "3": 178,
+                "4": 32
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21136_mv_1083580609_1684095192796186095.jpeg",
+            "submission_id": 500586,
+            "total_vote": 327,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 8,
+                "12": 4,
+                "13": 16,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 117,
+                "22": 42,
+                "23": 0,
+                "24": 16,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 7,
+                "8": 2,
+                "9": 105
+            }
+        },
+        "school_name": "REŞAT NURİ GÜNTEKİN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2281,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21136_cb_1093580606_1684089576969669511.jpeg",
+            "submission_id": 398417,
+            "total_vote": 320,
+            "votes": {
+                "1": 96,
+                "2": 3,
+                "3": 203,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21136_mv_1083580606_1684089617492270699.jpeg",
+            "submission_id": 399529,
+            "total_vote": 312,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 17,
+                "12": 2,
+                "13": 21,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 111,
+                "22": 62,
+                "23": 2,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 5,
+                "8": 2,
+                "9": 73
+            }
+        },
+        "school_name": "REŞAT NURİ GÜNTEKİN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2282,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21136_cb_1093580607_1684089718181083900.jpeg",
+            "submission_id": 402257,
+            "total_vote": 332,
+            "votes": {
+                "1": 127,
+                "2": 1,
+                "3": 184,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21136_mv_1083580607_1684089755699924678.jpeg",
+            "submission_id": 403233,
+            "total_vote": 325,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 14,
+                "12": 4,
+                "13": 13,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "20": 0,
+                "21": 123,
+                "22": 44,
+                "23": 0,
+                "24": 11,
+                "5": 0,
+                "6": 3,
+                "7": 5,
+                "8": 2,
+                "9": 101
+            }
+        },
+        "school_name": "REŞAT NURİ GÜNTEKİN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2283,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21136_cb_1093580608_1684089268696910018.jpeg",
+            "submission_id": 390086,
+            "total_vote": 337,
+            "votes": {
+                "1": 107,
+                "2": 2,
+                "3": 205,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21136_mv_1083580608_1684089382743457693.jpeg",
+            "submission_id": 392976,
+            "total_vote": 331,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 20,
+                "12": 5,
+                "13": 9,
+                "14": 2,
+                "20": 2,
+                "21": 149,
+                "22": 49,
+                "24": 6,
+                "3": 3,
+                "6": 1,
+                "7": 4,
+                "9": 79
+            }
+        },
+        "school_name": "REŞAT NURİ GÜNTEKİN ORTAOKULU"
+    }
+]

@@ -1,0 +1,605 @@
+[
+    {
+        "ballot_box_number": 1027,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23293_cb_1093571536_1684090100965602797.jpg",
+            "submission_id": 412165,
+            "total_vote": 342,
+            "votes": {
+                "1": 80,
+                "2": 0,
+                "3": 251,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23293_mv_1083571536_1684090074475541616.jpg",
+            "submission_id": 411515,
+            "total_vote": 342,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 12,
+                "12": 23,
+                "13": 26,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 160,
+                "22": 36,
+                "23": 0,
+                "24": 10,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 3,
+                "7": 2,
+                "8": 2,
+                "9": 62
+            }
+        },
+        "school_name": "İSMET SEZGİN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1021,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23293_cb_1093570330_1684084461322551456.jpg",
+            "submission_id": 239512,
+            "total_vote": 347,
+            "votes": {
+                "1": 95,
+                "2": 1,
+                "3": 245,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23293_mv_1083570330_1684084848944827916.jpg",
+            "submission_id": 249868,
+            "total_vote": 345,
+            "votes": {
+                "11": 19,
+                "12": 20,
+                "13": 30,
+                "21": 134,
+                "22": 58,
+                "23": 1,
+                "24": 4,
+                "5": 2,
+                "7": 5,
+                "8": 1,
+                "9": 71
+            }
+        },
+        "school_name": "İSMET SEZGİN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1019,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23293_cb_1093570328_1684084763399697093.jpg",
+            "submission_id": 247588,
+            "total_vote": 342,
+            "votes": {
+                "1": 74,
+                "2": 1,
+                "3": 251,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ba742284-9797-439a-a511-f49f720a91cc-1684105706808119451.jpeg",
+            "submission_id": 682574,
+            "total_vote": 341,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 9,
+                "12": 29,
+                "13": 28,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 161,
+                "22": 32,
+                "23": 0,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 0,
+                "8": 2,
+                "9": 60
+            }
+        },
+        "school_name": "İSMET SEZGİN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1018,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23293_cb_1093570327_1684085006285931857.jpg",
+            "submission_id": 254333,
+            "total_vote": 341,
+            "votes": {
+                "1": 104,
+                "2": 1,
+                "3": 224,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "İSMET SEZGİN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1014,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25324_cb_1093570323_1684080858590991419.jpg",
+            "submission_id": 184283,
+            "total_vote": 336,
+            "votes": {
+                "1": 91,
+                "2": 1,
+                "3": 231,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "İSMET SEZGİN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1016,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23293_cb_1093570325_1684092193795928467.jpg",
+            "submission_id": 452380,
+            "total_vote": 349,
+            "votes": {
+                "1": 71,
+                "2": 1,
+                "3": 248,
+                "4": 29
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23293_mv_1083570325_1684092150807028763.jpg",
+            "submission_id": 451777,
+            "total_vote": 345,
+            "votes": {
+                "10": 3,
+                "11": 5,
+                "12": 21,
+                "13": 20,
+                "21": 169,
+                "22": 45,
+                "23": 3,
+                "24": 10,
+                "7": 5,
+                "8": 1,
+                "9": 63
+            }
+        },
+        "school_name": "İSMET SEZGİN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1024,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23293_cb_1093570333_1684085710938238425.jpg",
+            "submission_id": 275428,
+            "total_vote": 342,
+            "votes": {
+                "1": 97,
+                "3": 226,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23293_mv_1083570333_1684085731711811349.jpg",
+            "submission_id": 276114,
+            "total_vote": 336,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 14,
+                "12": 20,
+                "13": 23,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 3,
+                "21": 135,
+                "22": 40,
+                "23": 2,
+                "24": 12,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 3,
+                "8": 1,
+                "9": 76
+            }
+        },
+        "school_name": "İSMET SEZGİN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1026,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23293_cb_1093571535_1684088083383587388.jpg",
+            "submission_id": 354677,
+            "total_vote": 344,
+            "votes": {
+                "1": 75,
+                "2": 2,
+                "3": 238,
+                "4": 29
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23293_mv_1083571535_1684090217566223490.jpg",
+            "submission_id": 414980,
+            "total_vote": 340,
+            "votes": {
+                "10": 4,
+                "11": 12,
+                "12": 18,
+                "13": 14,
+                "21": 147,
+                "22": 56,
+                "24": 22,
+                "7": 4,
+                "8": 1,
+                "9": 62
+            }
+        },
+        "school_name": "İSMET SEZGİN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1023,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23293_cb_1093570332_1684084302700206489.jpg",
+            "submission_id": 235550,
+            "total_vote": 324,
+            "votes": {
+                "1": 70,
+                "2": 0,
+                "3": 243,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23293_mv_1083570332_1684088795366638528.jpg",
+            "submission_id": 376503,
+            "total_vote": 320,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 9,
+                "12": 27,
+                "13": 17,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "20": 0,
+                "21": 142,
+                "22": 48,
+                "23": 0,
+                "24": 9,
+                "6": 1,
+                "7": 6,
+                "8": 2,
+                "9": 55
+            }
+        },
+        "school_name": "İSMET SEZGİN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1022,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23293_cb_1093570331_1684084434103095409.jpg",
+            "submission_id": 238857,
+            "total_vote": 341,
+            "votes": {
+                "1": 81,
+                "2": 2,
+                "3": 238,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23293_mv_1083570331_1684086699994714931.jpg",
+            "submission_id": 308502,
+            "total_vote": 335,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 19,
+                "12": 21,
+                "13": 33,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 134,
+                "22": 46,
+                "23": 0,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 6,
+                "8": 1,
+                "9": 63
+            }
+        },
+        "school_name": "İSMET SEZGİN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1025,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23293_cb_1093570334_1684085779122814882.jpg",
+            "submission_id": 277722,
+            "total_vote": 343,
+            "votes": {
+                "1": 105,
+                "2": 1,
+                "3": 217,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23293_mv_1083570334_1684084818838173628.jpg",
+            "submission_id": 249011,
+            "total_vote": 340,
+            "votes": {
+                "11": 13,
+                "12": 29,
+                "13": 15,
+                "21": 143,
+                "22": 30,
+                "23": 1,
+                "24": 13,
+                "7": 9,
+                "8": 1,
+                "9": 86
+            }
+        },
+        "school_name": "İSMET SEZGİN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1015,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25324_cb_1093570324_1684083788396171150.jpg",
+            "submission_id": 223753,
+            "total_vote": 342,
+            "votes": {
+                "1": 92,
+                "2": 2,
+                "3": 236,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25324_mv_1083570324_1684090139010005542.jpg",
+            "submission_id": 413086,
+            "total_vote": 340,
+            "votes": {
+                "10": 1,
+                "11": 14,
+                "12": 24,
+                "13": 28,
+                "19": 1,
+                "21": 156,
+                "22": 23,
+                "23": 1,
+                "24": 13,
+                "3": 1,
+                "4": 1,
+                "5": 1,
+                "7": 5,
+                "9": 71
+            }
+        },
+        "school_name": "İSMET SEZGİN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1012,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23293_cb_1093570321_1684084654121670614.jpg",
+            "submission_id": 244598,
+            "total_vote": 322,
+            "votes": {
+                "1": 102,
+                "2": 2,
+                "3": 205,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23293_mv_1083570321_1684084624950603926.jpg",
+            "submission_id": 243796,
+            "total_vote": 311,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 12,
+                "12": 22,
+                "13": 9,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 2,
+                "18": 0,
+                "19": 3,
+                "2": 0,
+                "20": 1,
+                "21": 134,
+                "22": 34,
+                "23": 0,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "8": 3,
+                "9": 76
+            }
+        },
+        "school_name": "İSMET SEZGİN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1020,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4e9ea7c4-6abb-429e-beb4-4cf493635eeb-1684105722484259553.jpeg",
+            "submission_id": 684778,
+            "total_vote": 356,
+            "votes": {
+                "1": 111,
+                "2": 3,
+                "3": 221,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/23293_bulk_999999999_1684154191706275183.jpeg",
+            "submission_id": 1021749,
+            "total_vote": 348,
+            "votes": {
+                "1": 7,
+                "10": 1,
+                "11": 14,
+                "12": 34,
+                "13": 26,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 2,
+                "19": 1,
+                "20": 0,
+                "21": 120,
+                "22": 32,
+                "23": 3,
+                "24": 12,
+                "3": 0,
+                "4": 1,
+                "5": 1,
+                "6": 0,
+                "7": 7,
+                "8": 3,
+                "9": 83
+            }
+        },
+        "school_name": "İSMET SEZGİN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1017,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23293_cb_1093570326_1684084976626354026.jpg",
+            "submission_id": 253443,
+            "total_vote": 344,
+            "votes": {
+                "1": 85,
+                "2": 1,
+                "3": 248,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/32a3fcde-235d-4d46-a430-23611e2f9722-1684106165684032947.jpeg",
+            "submission_id": 747966,
+            "total_vote": 335,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 5,
+                "12": 14,
+                "13": 35,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 135,
+                "22": 49,
+                "23": 1,
+                "24": 6,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 4,
+                "8": 6,
+                "9": 72
+            }
+        },
+        "school_name": "İSMET SEZGİN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1013,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23293_cb_1093570322_1684084695260804061.jpg",
+            "submission_id": 245762,
+            "total_vote": 318,
+            "votes": {
+                "1": 104,
+                "3": 203,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23293_mv_1083570322_1684085276413567528.jpg",
+            "submission_id": 262043,
+            "total_vote": 308,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 5,
+                "12": 11,
+                "13": 19,
+                "14": 0,
+                "15": 1,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "21": 140,
+                "22": 30,
+                "23": 2,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 89
+            }
+        },
+        "school_name": "İSMET SEZGİN ORTAOKULU"
+    }
+]

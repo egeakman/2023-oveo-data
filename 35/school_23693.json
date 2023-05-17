@@ -1,0 +1,269 @@
+[
+    {
+        "ballot_box_number": 1104,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/272_bulk_999999999_1684107874304682490.jpeg",
+            "submission_id": 1007016,
+            "total_vote": 343,
+            "votes": {
+                "1": 157,
+                "2": 4,
+                "3": 162,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "MUSTAFA KEMALPAŞA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1110,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "MUSTAFA KEMALPAŞA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1101,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/69218_cb_1093574995_1684094528766260604.jpg",
+            "submission_id": 493037,
+            "total_vote": 305,
+            "votes": {
+                "1": 124,
+                "3": 173,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/69218_mv_1083574995_1684094573126189645.jpg",
+            "submission_id": 493624,
+            "total_vote": 295,
+            "votes": {
+                "10": 5,
+                "11": 26,
+                "12": 68,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 75,
+                "22": 19,
+                "23": 0,
+                "24": 7,
+                "3": 3,
+                "4": 0,
+                "5": 2,
+                "6": 1,
+                "7": 2,
+                "8": 2,
+                "9": 83
+            }
+        },
+        "school_name": "MUSTAFA KEMALPAŞA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1109,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/69069_cb_1093575003_1684083367240159433.jpg",
+            "submission_id": 215235,
+            "total_vote": 332,
+            "votes": {
+                "1": 146,
+                "2": 1,
+                "3": 163,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "MUSTAFA KEMALPAŞA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1102,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/272_bulk_999999999_1684108007011199569.jpeg",
+            "submission_id": 1007063,
+            "total_vote": 333,
+            "votes": {
+                "1": 153,
+                "2": 1,
+                "3": 153,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/272_bulk_999999999_1684107873800111255.jpeg",
+            "submission_id": 1007010,
+            "total_vote": 324,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 18,
+                "12": 55,
+                "14": 2,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 1,
+                "21": 71,
+                "22": 24,
+                "23": 1,
+                "24": 12,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 2,
+                "8": 1,
+                "9": 128
+            }
+        },
+        "school_name": "MUSTAFA KEMALPAŞA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1106,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "MUSTAFA KEMALPAŞA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1103,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/272_bulk_999999999_1684107874620238914.jpeg",
+            "submission_id": 1007019,
+            "total_vote": 350,
+            "votes": {
+                "1": 156,
+                "2": 1,
+                "3": 170,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/272_bulk_999999999_1684107874511435884.jpeg",
+            "submission_id": 1007018,
+            "total_vote": 336,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 26,
+                "12": 48,
+                "14": 3,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 80,
+                "22": 32,
+                "23": 2,
+                "24": 19,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 2,
+                "8": 4,
+                "9": 116
+            }
+        },
+        "school_name": "MUSTAFA KEMALPAŞA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1108,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/af9d7156-459c-402f-a0c4-d4e7f6b0f28e-1684106347986111255.jpg",
+            "submission_id": 775142,
+            "total_vote": 342,
+            "votes": {
+                "1": 130,
+                "2": 1,
+                "3": 184,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d3f1e684-c726-4cb1-988a-c60ba59486f0-1684106519616151651.jpg",
+            "submission_id": 800234,
+            "total_vote": 339,
+            "votes": {
+                "10": 3,
+                "11": 20,
+                "12": 84,
+                "19": 1,
+                "21": 74,
+                "22": 27,
+                "24": 12,
+                "6": 3,
+                "7": 6,
+                "8": 1,
+                "9": 108
+            }
+        },
+        "school_name": "MUSTAFA KEMALPAŞA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1105,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "MUSTAFA KEMALPAŞA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1111,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/272_bulk_999999999_1684107874218022092.jpeg",
+            "submission_id": 1007015,
+            "total_vote": 347,
+            "votes": {
+                "1": 139,
+                "2": 2,
+                "3": 170,
+                "4": 36
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/272_bulk_999999999_1684107873934384983.jpeg",
+            "submission_id": 1007011,
+            "total_vote": 342,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 34,
+                "12": 51,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 83,
+                "22": 34,
+                "23": 2,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 9,
+                "8": 1,
+                "9": 113
+            }
+        },
+        "school_name": "MUSTAFA KEMALPAŞA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1107,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "MUSTAFA KEMALPAŞA ORTAOKULU"
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "ballot_box_number": 1017,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/73459_cb_1093796411_1684084388992289002.jpg",
+            "submission_id": 237709,
+            "total_vote": 299,
+            "votes": {
+                "1": 115,
+                "2": 3,
+                "3": 174,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/73459_mv_1083796411_1684085897679071202.jpg",
+            "submission_id": 281717,
+            "total_vote": 293,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 11,
+                "12": 1,
+                "13": 3,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 128,
+                "22": 39,
+                "23": 1,
+                "24": 1,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 105
+            }
+        },
+        "school_name": "ÇINARDİBİ MAHALLESİ İLKÖĞR.OKULU"
+    },
+    {
+        "ballot_box_number": 1018,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/73459_cb_1093796412_1684083793278560990.jpg",
+            "submission_id": 223866,
+            "total_vote": 314,
+            "votes": {
+                "1": 103,
+                "2": 2,
+                "3": 196,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/73459_mv_1083796412_1684083874106564919.jpg",
+            "submission_id": 225594,
+            "total_vote": 307,
+            "votes": {
+                "10": 2,
+                "11": 7,
+                "12": 2,
+                "13": 5,
+                "15": 1,
+                "21": 153,
+                "22": 33,
+                "23": 1,
+                "24": 3,
+                "3": 2,
+                "4": 1,
+                "7": 2,
+                "9": 95
+            }
+        },
+        "school_name": "ÇINARDİBİ MAHALLESİ İLKÖĞR.OKULU"
+    }
+]

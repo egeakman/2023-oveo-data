@@ -1,0 +1,96 @@
+[
+    {
+        "ballot_box_number": 1046,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2c2dec3f-e711-4596-b9e4-84711e326031-1684106111144550589.jpg",
+            "submission_id": 739959,
+            "total_vote": 292,
+            "votes": {
+                "1": 59,
+                "2": 0,
+                "3": 225,
+                "4": 8
+            }
+        },
+        "mv_result": null,
+        "school_name": "ERTUĞRULGAZİ İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1044,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0d3d042a-b7f4-4cc0-9a4e-8644c1390109-1684106237414537760.jpg",
+            "submission_id": 759281,
+            "total_vote": 288,
+            "votes": {
+                "1": 69,
+                "2": 0,
+                "3": 208,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/eb91ca88-b688-45ad-b867-1f9213ee829d-1684106224068706432.jpg",
+            "submission_id": 757174,
+            "total_vote": 280,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 17,
+                "12": 10,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 148,
+                "22": 40,
+                "23": 0,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 0,
+                "7": 0,
+                "8": 0,
+                "9": 59
+            }
+        },
+        "school_name": "ERTUĞRULGAZİ İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1045,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/25767_bulk_999999999_1684085975500612786.jpg",
+            "submission_id": 284214,
+            "total_vote": 304,
+            "votes": {
+                "1": 68,
+                "3": 223,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/23caf261-cfb7-41c9-9ded-259bd440cfa5-1684106122816167523.jpg",
+            "submission_id": 741677,
+            "total_vote": 302,
+            "votes": {
+                "1": 2,
+                "11": 17,
+                "12": 26,
+                "14": 1,
+                "21": 144,
+                "22": 57,
+                "23": 1,
+                "24": 7,
+                "3": 1,
+                "6": 2,
+                "7": 4,
+                "9": 40
+            }
+        },
+        "school_name": "ERTUĞRULGAZİ İLKOKULU B BLOK"
+    }
+]

@@ -1,0 +1,283 @@
+[
+    {
+        "ballot_box_number": 1405,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/62871_bulk_999999999_1684087261092000544.jpg",
+            "submission_id": 328090,
+            "total_vote": 308,
+            "votes": {
+                "1": 31,
+                "3": 271,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22929_mv_1083583664_1684088767503742190.jpg",
+            "submission_id": 375667,
+            "total_vote": 297,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 3,
+                "12": 3,
+                "13": 17,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 208,
+                "22": 30,
+                "23": 0,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 27
+            }
+        },
+        "school_name": "YAHYA KEMAL BEYATLI ORTAOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1410,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26510_cb_1093583669_1684079824573172694.jpg",
+            "submission_id": 178505,
+            "total_vote": 323,
+            "votes": {
+                "1": 48,
+                "3": 261,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26510_mv_1083583669_1684086639397513261.jpg",
+            "submission_id": 306398,
+            "total_vote": 318,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 7,
+                "12": 10,
+                "13": 29,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 172,
+                "22": 53,
+                "23": 0,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 0,
+                "9": 36
+            }
+        },
+        "school_name": "YAHYA KEMAL BEYATLI ORTAOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1408,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/64446_bulk_999999999_1684079805705885427.jpg",
+            "submission_id": 178412,
+            "total_vote": 324,
+            "votes": {
+                "1": 36,
+                "2": 5,
+                "3": 272,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/64446_mv_1083583667_1684086998878418324.jpg",
+            "submission_id": 318907,
+            "total_vote": 326,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 9,
+                "12": 9,
+                "13": 31,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 192,
+                "22": 44,
+                "23": 0,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 7,
+                "8": 1,
+                "9": 26
+            }
+        },
+        "school_name": "YAHYA KEMAL BEYATLI ORTAOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1409,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22929_cb_1093583668_1684085254746174751.jpg",
+            "submission_id": 261451,
+            "total_vote": 325,
+            "votes": {
+                "1": 47,
+                "2": 4,
+                "3": 269,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22929_mv_1083583668_1684086946255649552.jpg",
+            "submission_id": 317088,
+            "total_vote": 326,
+            "votes": {
+                "10": 4,
+                "11": 9,
+                "12": 6,
+                "13": 26,
+                "21": 190,
+                "22": 48,
+                "24": 3,
+                "5": 1,
+                "7": 3,
+                "8": 2,
+                "9": 34
+            }
+        },
+        "school_name": "YAHYA KEMAL BEYATLI ORTAOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1412,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22929_cb_1093583671_1684083781555414720.jpg",
+            "submission_id": 223601,
+            "total_vote": 316,
+            "votes": {
+                "1": 40,
+                "2": 1,
+                "3": 263,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22929_mv_1083583671_1684083844813320879.jpg",
+            "submission_id": 224987,
+            "total_vote": 317,
+            "votes": {
+                "11": 4,
+                "12": 3,
+                "13": 29,
+                "20": 1,
+                "21": 179,
+                "22": 52,
+                "24": 9,
+                "7": 5,
+                "9": 35
+            }
+        },
+        "school_name": "YAHYA KEMAL BEYATLI ORTAOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1407,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22929_cb_1093583666_1684085525749931023.jpg",
+            "submission_id": 269395,
+            "total_vote": 327,
+            "votes": {
+                "1": 44,
+                "3": 271,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22929_mv_1083583666_1684085567328024476.jpg",
+            "submission_id": 270680,
+            "total_vote": 322,
+            "votes": {
+                "11": 7,
+                "12": 17,
+                "13": 42,
+                "21": 164,
+                "22": 49,
+                "24": 5,
+                "3": 1,
+                "5": 1,
+                "7": 2,
+                "9": 34
+            }
+        },
+        "school_name": "YAHYA KEMAL BEYATLI ORTAOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1406,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/62871_cb_1093583665_1684084664230499143.jpg",
+            "submission_id": 244906,
+            "total_vote": 313,
+            "votes": {
+                "1": 60,
+                "2": 1,
+                "3": 248,
+                "4": 4
+            }
+        },
+        "mv_result": null,
+        "school_name": "YAHYA KEMAL BEYATLI ORTAOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1411,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22929_cb_1093583670_1684084338205382122.jpg",
+            "submission_id": 236438,
+            "total_vote": 315,
+            "votes": {
+                "1": 50,
+                "2": 1,
+                "3": 251,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22929_mv_1083583670_1684084389495071610.jpg",
+            "submission_id": 237723,
+            "total_vote": 313,
+            "votes": {
+                "10": 4,
+                "11": 14,
+                "12": 15,
+                "13": 34,
+                "21": 155,
+                "22": 44,
+                "24": 9,
+                "3": 1,
+                "5": 2,
+                "6": 1,
+                "7": 1,
+                "9": 33
+            }
+        },
+        "school_name": "YAHYA KEMAL BEYATLI ORTAOKULU B BLOK"
+    }
+]

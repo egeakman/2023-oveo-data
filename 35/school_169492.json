@@ -1,0 +1,480 @@
+[
+    {
+        "ballot_box_number": 2142,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17183_cb_1093790168_1684088699360160063.jpg",
+            "submission_id": 373699,
+            "total_vote": 316,
+            "votes": {
+                "1": 117,
+                "2": 3,
+                "3": 187,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17183_mv_1083790169_1684088658537898352.jpg",
+            "submission_id": 372457,
+            "total_vote": 306,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 25,
+                "12": 47,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 2,
+                "21": 103,
+                "22": 37,
+                "23": 0,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 1,
+                "8": 1,
+                "9": 84
+            }
+        },
+        "school_name": "EVLİYA ÇELEBİ İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2140,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/76010_cb_1093790166_1684086042392740780.jpg",
+            "submission_id": 286337,
+            "total_vote": 320,
+            "votes": {
+                "1": 122,
+                "2": 1,
+                "3": 179,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/76010_mv_1083790166_1684086092220938001.jpg",
+            "submission_id": 287919,
+            "total_vote": 315,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 14,
+                "12": 74,
+                "14": 2,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 2,
+                "21": 89,
+                "22": 20,
+                "23": 0,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "6": 2,
+                "7": 2,
+                "8": 2,
+                "9": 93
+            }
+        },
+        "school_name": "EVLİYA ÇELEBİ İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2139,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/17183_bulk_999999999_1684086041969362791.jpg",
+            "submission_id": 286323,
+            "total_vote": 315,
+            "votes": {
+                "1": 100,
+                "2": 4,
+                "3": 199,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17183_mv_1083790165_1684086650589768599.jpg",
+            "submission_id": 306780,
+            "total_vote": 312,
+            "votes": {
+                "10": 4,
+                "11": 15,
+                "12": 59,
+                "14": 0,
+                "21": 113,
+                "22": 29,
+                "24": 9,
+                "7": 2,
+                "8": 1,
+                "9": 80
+            }
+        },
+        "school_name": "EVLİYA ÇELEBİ İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2133,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/76010_cb_1093790159_1684083506864064360.jpg",
+            "submission_id": 217920,
+            "total_vote": 303,
+            "votes": {
+                "1": 88,
+                "2": 1,
+                "3": 198,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17183_mv_1083790159_1684089610352861356.jpg",
+            "submission_id": 399339,
+            "total_vote": 299,
+            "votes": {
+                "10": 2,
+                "11": 17,
+                "12": 48,
+                "18": 2,
+                "21": 122,
+                "22": 26,
+                "23": 2,
+                "24": 8,
+                "6": 4,
+                "7": 3,
+                "9": 65
+            }
+        },
+        "school_name": "EVLİYA ÇELEBİ İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2136,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/42613_cb_1093790162_1684078701489028787.jpg",
+            "submission_id": 174988,
+            "total_vote": 325,
+            "votes": {
+                "1": 115,
+                "2": 4,
+                "3": 186,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/42613_mv_1083790162_1684084217630982434.jpg",
+            "submission_id": 233323,
+            "total_vote": 318,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 16,
+                "12": 80,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 84,
+                "22": 27,
+                "23": 1,
+                "24": 9,
+                "3": 1,
+                "4": 0,
+                "5": 2,
+                "6": 1,
+                "7": 5,
+                "8": 1,
+                "9": 87
+            }
+        },
+        "school_name": "EVLİYA ÇELEBİ İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2132,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/76010_cb_1093790158_1684082974187063231.jpg",
+            "submission_id": 208279,
+            "total_vote": 284,
+            "votes": {
+                "1": 97,
+                "2": 2,
+                "3": 175,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17183_mv_1083790158_1684090765118123866.jpg",
+            "submission_id": 426960,
+            "total_vote": 280,
+            "votes": {
+                "10": 2,
+                "11": 16,
+                "12": 39,
+                "14": 3,
+                "15": 2,
+                "17": 1,
+                "19": 1,
+                "21": 102,
+                "22": 26,
+                "23": 1,
+                "24": 7,
+                "3": 1,
+                "5": 2,
+                "7": 5,
+                "8": 1,
+                "9": 71
+            }
+        },
+        "school_name": "EVLİYA ÇELEBİ İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2137,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/42613_cb_1093790163_1684085172837431860.jpg",
+            "submission_id": 259056,
+            "total_vote": 294,
+            "votes": {
+                "1": 110,
+                "2": 1,
+                "3": 173,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/42613_mv_1083790163_1684089354246105550.jpg",
+            "submission_id": 392207,
+            "total_vote": 291,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 16,
+                "12": 60,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 85,
+                "22": 0,
+                "23": 23,
+                "24": 9,
+                "3": 2,
+                "4": 0,
+                "5": 3,
+                "6": 2,
+                "7": 3,
+                "8": 1,
+                "9": 80
+            }
+        },
+        "school_name": "EVLİYA ÇELEBİ İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2135,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/76010_cb_1093790161_1684080364491844088.jpg",
+            "submission_id": 181213,
+            "total_vote": 303,
+            "votes": {
+                "1": 131,
+                "2": 1,
+                "3": 163,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17183_mv_1083790161_1684088306589643421.jpg",
+            "submission_id": 361534,
+            "total_vote": 306,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 26,
+                "12": 54,
+                "14": 0,
+                "15": 4,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 4,
+                "2": 1,
+                "20": 0,
+                "21": 78,
+                "22": 27,
+                "23": 0,
+                "24": 4,
+                "4": 2,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 4,
+                "9": 95
+            }
+        },
+        "school_name": "EVLİYA ÇELEBİ İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2141,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17183_cb_1093790167_1684086826365462760.jpg",
+            "submission_id": 312992,
+            "total_vote": 315,
+            "votes": {
+                "1": 112,
+                "2": 1,
+                "3": 179,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/42613_mv_1083790167_1684089166222135537.jpg",
+            "submission_id": 387165,
+            "total_vote": 308,
+            "votes": {
+                "1": 2,
+                "10": 2,
+                "11": 16,
+                "12": 28,
+                "14": 1,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 102,
+                "22": 51,
+                "23": 0,
+                "24": 8,
+                "3": 1,
+                "4": 0,
+                "7": 1,
+                "8": 7,
+                "9": 88
+            }
+        },
+        "school_name": "EVLİYA ÇELEBİ İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2143,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17183_cb_1093790169_1684089072491978005.jpg",
+            "submission_id": 384550,
+            "total_vote": 312,
+            "votes": {
+                "1": 107,
+                "2": 1,
+                "3": 189,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17183_mv_1083790169_1684088987891249822.jpg",
+            "submission_id": 382200,
+            "total_vote": 303,
+            "votes": {
+                "10": 2,
+                "11": 16,
+                "12": 52,
+                "20": 1,
+                "21": 86,
+                "22": 39,
+                "23": 3,
+                "24": 10,
+                "3": 2,
+                "5": 1,
+                "6": 1,
+                "7": 4,
+                "8": 1,
+                "9": 85
+            }
+        },
+        "school_name": "EVLİYA ÇELEBİ İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2134,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/76010_cb_1093790160_1684080943725090808.jpg",
+            "submission_id": 184883,
+            "total_vote": 317,
+            "votes": {
+                "1": 112,
+                "2": 1,
+                "3": 184,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17183_mv_1083790160_1684089333462759073.jpg",
+            "submission_id": 391717,
+            "total_vote": 307,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 14,
+                "12": 65,
+                "14": 0,
+                "15": 0,
+                "21": 97,
+                "22": 17,
+                "23": 0,
+                "24": 13,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 95
+            }
+        },
+        "school_name": "EVLİYA ÇELEBİ İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2138,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/76010_cb_1093790164_1684084208678687110.jpg",
+            "submission_id": 233069,
+            "total_vote": 332,
+            "votes": {
+                "1": 100,
+                "3": 204,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/76010_mv_1083790164_1684085775926750681.jpg",
+            "submission_id": 277599,
+            "total_vote": 330,
+            "votes": {
+                "1": 1,
+                "11": 18,
+                "12": 74,
+                "20": 1,
+                "21": 111,
+                "22": 24,
+                "24": 9,
+                "3": 2,
+                "5": 1,
+                "6": 3,
+                "7": 4,
+                "8": 3,
+                "9": 79
+            }
+        },
+        "school_name": "EVLİYA ÇELEBİ İMAM HATİP ORTAOKULU"
+    }
+]

@@ -1,0 +1,739 @@
+[
+    {
+        "ballot_box_number": 2359,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12250_cb_1093801053_1684085826496483478.jpg",
+            "submission_id": 279348,
+            "total_vote": 317,
+            "votes": {
+                "1": 124,
+                "2": 3,
+                "3": 172,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12250_mv_1083801053_1684085849608889277.jpg",
+            "submission_id": 280114,
+            "total_vote": 310,
+            "votes": {
+                "1": 2,
+                "10": 0,
+                "11": 18,
+                "12": 6,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 1,
+                "21": 117,
+                "22": 45,
+                "23": 1,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 3,
+                "7": 7,
+                "8": 4,
+                "9": 94
+            }
+        },
+        "school_name": "BAHAR YILDIRIM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2366,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12250_cb_1093801260_1684089787534111078.jpg",
+            "submission_id": 404171,
+            "total_vote": 338,
+            "votes": {
+                "1": 133,
+                "2": 2,
+                "3": 184,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12250_mv_1083801260_1684089808032848300.jpg",
+            "submission_id": 404716,
+            "total_vote": 328,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 24,
+                "12": 20,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 115,
+                "22": 49,
+                "23": 1,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 5,
+                "9": 98
+            }
+        },
+        "school_name": "BAHAR YILDIRIM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2369,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47957_cb_1093801263_1684087506872121366.jpg",
+            "submission_id": 336140,
+            "total_vote": 345,
+            "votes": {
+                "1": 150,
+                "2": 1,
+                "3": 172,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "BAHAR YILDIRIM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2367,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12250_cb_1093801261_1684089739611754950.jpg",
+            "submission_id": 402832,
+            "total_vote": 346,
+            "votes": {
+                "1": 133,
+                "2": 2,
+                "3": 187,
+                "4": 24
+            }
+        },
+        "mv_result": null,
+        "school_name": "BAHAR YILDIRIM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2376,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12250_cb_1093801270_1684087071575348314.jpg",
+            "submission_id": 321503,
+            "total_vote": 344,
+            "votes": {
+                "1": 152,
+                "2": 3,
+                "3": 162,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12250_mv_1083801270_1684087242796588011.jpg",
+            "submission_id": 327440,
+            "total_vote": 344,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 17,
+                "12": 30,
+                "14": 0,
+                "15": 3,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "21": 106,
+                "22": 34,
+                "23": 1,
+                "24": 13,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 4,
+                "8": 4,
+                "9": 125
+            }
+        },
+        "school_name": "BAHAR YILDIRIM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2360,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12250_cb_1093801054_1684086869673176289.jpg",
+            "submission_id": 314463,
+            "total_vote": 314,
+            "votes": {
+                "1": 133,
+                "2": 1,
+                "3": 166,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12250_mv_1083801054_1684087471772864085.jpg",
+            "submission_id": 334966,
+            "total_vote": 302,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 16,
+                "12": 17,
+                "14": 0,
+                "15": 3,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 0,
+                "21": 110,
+                "22": 33,
+                "23": 0,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 3,
+                "9": 106
+            }
+        },
+        "school_name": "BAHAR YILDIRIM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2361,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12250_cb_1093801255_1684089446605339380.jpg",
+            "submission_id": 394747,
+            "total_vote": 320,
+            "votes": {
+                "1": 137,
+                "2": 1,
+                "3": 164,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12250_mv_1083801255_1684089471052904700.jpg",
+            "submission_id": 395436,
+            "total_vote": 313,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 13,
+                "12": 2,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 112,
+                "22": 42,
+                "23": 0,
+                "24": 9,
+                "3": 0,
+                "4": 1,
+                "5": 1,
+                "6": 0,
+                "7": 7,
+                "8": 2,
+                "9": 119
+            }
+        },
+        "school_name": "BAHAR YILDIRIM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2365,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12250_cb_1093801259_1684089545630365625.jpg",
+            "submission_id": 397542,
+            "total_vote": 350,
+            "votes": {
+                "1": 138,
+                "2": 0,
+                "3": 197,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12250_mv_1083801259_1684089571331185602.jpg",
+            "submission_id": 398275,
+            "total_vote": 347,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 11,
+                "12": 22,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 126,
+                "22": 44,
+                "23": 4,
+                "24": 10,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 8,
+                "8": 1,
+                "9": 117
+            }
+        },
+        "school_name": "BAHAR YILDIRIM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2371,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12250_cb_1093801265_1684090725132620197.jpg",
+            "submission_id": 426075,
+            "total_vote": 318,
+            "votes": {
+                "1": 117,
+                "2": 1,
+                "3": 170,
+                "4": 30
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12250_mv_1083801265_1684090852015396116.jpg",
+            "submission_id": 428813,
+            "total_vote": 318,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 20,
+                "12": 30,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 101,
+                "22": 37,
+                "23": 7,
+                "24": 14,
+                "3": 3,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 3,
+                "8": 0,
+                "9": 98
+            }
+        },
+        "school_name": "BAHAR YILDIRIM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2364,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65847_cb_1093801258_1684086754868641570.jpg",
+            "submission_id": 310496,
+            "total_vote": 335,
+            "votes": {
+                "1": 132,
+                "2": 1,
+                "3": 179,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65847_mv_1083801258_1684086718229504969.jpg",
+            "submission_id": 309202,
+            "total_vote": 330,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 21,
+                "12": 23,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 1,
+                "21": 103,
+                "22": 49,
+                "23": 0,
+                "24": 9,
+                "3": 3,
+                "4": 0,
+                "5": 1,
+                "6": 3,
+                "7": 1,
+                "8": 3,
+                "9": 107
+            }
+        },
+        "school_name": "BAHAR YILDIRIM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2373,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/24585_cb_1093801267_1684088739059863843.jpg",
+            "submission_id": 374830,
+            "total_vote": 336,
+            "votes": {
+                "1": 146,
+                "2": 1,
+                "3": 166,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/24585_mv_1083801267_1684088902137784849.jpg",
+            "submission_id": 379659,
+            "total_vote": 328,
+            "votes": {
+                "1": 2,
+                "10": 0,
+                "11": 25,
+                "12": 23,
+                "14": 2,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 86,
+                "22": 52,
+                "23": 2,
+                "24": 17,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 7,
+                "8": 2,
+                "9": 106
+            }
+        },
+        "school_name": "BAHAR YILDIRIM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2372,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47957_cb_1093801266_1684087441134821938.jpg",
+            "submission_id": 333995,
+            "total_vote": 333,
+            "votes": {
+                "1": 141,
+                "2": 1,
+                "3": 163,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65847_mv_1083801266_1684087762900009079.jpg",
+            "submission_id": 344433,
+            "total_vote": 329,
+            "votes": {
+                "10": 5,
+                "11": 14,
+                "12": 16,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 2,
+                "18": 0,
+                "19": 0,
+                "20": 1,
+                "21": 98,
+                "22": 43,
+                "23": 2,
+                "24": 23,
+                "3": 0,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 6,
+                "9": 114
+            }
+        },
+        "school_name": "BAHAR YILDIRIM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2370,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12250_cb_1093801264_1684089062869394782.jpg",
+            "submission_id": 384298,
+            "total_vote": 332,
+            "votes": {
+                "1": 150,
+                "2": 0,
+                "3": 162,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12250_mv_1083801264_1684090945060473157.jpg",
+            "submission_id": 430778,
+            "total_vote": 328,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 13,
+                "12": 23,
+                "14": 9,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 94,
+                "22": 43,
+                "23": 9,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 6,
+                "9": 125
+            }
+        },
+        "school_name": "BAHAR YILDIRIM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2362,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65847_cb_1093801256_1684086643930717652.jpg",
+            "submission_id": 306570,
+            "total_vote": 356,
+            "votes": {
+                "1": 156,
+                "2": 1,
+                "3": 177,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65847_mv_1083801256_1684086668392420902.jpg",
+            "submission_id": 307383,
+            "total_vote": 344,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 15,
+                "12": 22,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 109,
+                "22": 35,
+                "23": 2,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 4,
+                "9": 136
+            }
+        },
+        "school_name": "BAHAR YILDIRIM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2368,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12250_cb_1093801262_1684089211893280842.jpg",
+            "submission_id": 388471,
+            "total_vote": 334,
+            "votes": {
+                "1": 139,
+                "3": 168,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12250_mv_1083801262_1684089839541416111.jpg",
+            "submission_id": 405536,
+            "total_vote": 325,
+            "votes": {
+                "1": 1,
+                "10": 6,
+                "11": 20,
+                "12": 21,
+                "21": 97,
+                "22": 46,
+                "24": 11,
+                "3": 1,
+                "4": 1,
+                "6": 3,
+                "7": 4,
+                "8": 7,
+                "9": 107
+            }
+        },
+        "school_name": "BAHAR YILDIRIM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2375,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65847_cb_1093801269_1684088151735115713.jpg",
+            "submission_id": 356899,
+            "total_vote": 329,
+            "votes": {
+                "1": 144,
+                "2": 1,
+                "3": 163,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65847_mv_1083801269_1684088301170679195.jpg",
+            "submission_id": 361354,
+            "total_vote": 325,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 24,
+                "12": 21,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 92,
+                "22": 47,
+                "23": 1,
+                "24": 8,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 2,
+                "7": 6,
+                "8": 4,
+                "9": 116
+            }
+        },
+        "school_name": "BAHAR YILDIRIM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2374,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/24585_cb_1093801268_1684088531194661039.jpg",
+            "submission_id": 368480,
+            "total_vote": 329,
+            "votes": {
+                "1": 154,
+                "2": 4,
+                "3": 144,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/24585_mv_1083801268_1684088633553464688.jpg",
+            "submission_id": 371704,
+            "total_vote": 321,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 20,
+                "12": 16,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 92,
+                "22": 38,
+                "23": 1,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 5,
+                "8": 4,
+                "9": 130
+            }
+        },
+        "school_name": "BAHAR YILDIRIM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2363,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65847_cb_1093801257_1684086389126260871.jpg",
+            "submission_id": 297680,
+            "total_vote": 325,
+            "votes": {
+                "1": 149,
+                "2": 5,
+                "3": 154,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65847_mv_1083801257_1684086365126149892.jpg",
+            "submission_id": 296836,
+            "total_vote": 325,
+            "votes": {
+                "1": 2,
+                "10": 3,
+                "11": 25,
+                "12": 19,
+                "14": 0,
+                "15": 1,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 91,
+                "22": 43,
+                "23": 0,
+                "24": 10,
+                "3": 1,
+                "4": 0,
+                "5": 2,
+                "6": 3,
+                "7": 3,
+                "8": 1,
+                "9": 119
+            }
+        },
+        "school_name": "BAHAR YILDIRIM İLKOKULU"
+    }
+]

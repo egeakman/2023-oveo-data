@@ -1,0 +1,36 @@
+[
+    {
+        "ballot_box_number": 1001,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/486e6834-05ad-4992-8eae-2d03c1952454-1684106481114936524.jpeg",
+            "submission_id": 794427,
+            "total_vote": 195,
+            "votes": {
+                "1": 86,
+                "2": 5,
+                "3": 91,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/6cf4c2ea-de91-4748-af1f-f18228d66ee7-1684106364786322760.jpeg",
+            "submission_id": 777367,
+            "total_vote": 191,
+            "votes": {
+                "10": 4,
+                "11": 18,
+                "12": 2,
+                "13": 5,
+                "14": 1,
+                "16": 1,
+                "21": 60,
+                "22": 22,
+                "24": 3,
+                "7": 7,
+                "8": 1,
+                "9": 67
+            }
+        },
+        "school_name": "AŞAĞIŞAKRAN KÖY KONAĞI"
+    }
+]

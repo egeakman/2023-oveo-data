@@ -1,0 +1,123 @@
+[
+    {
+        "ballot_box_number": 2045,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2a9e9d57-b44b-4679-aa05-826547f62791-1684106304590881272.jpeg",
+            "submission_id": 768950,
+            "total_vote": 267,
+            "votes": {
+                "1": 130,
+                "2": 2,
+                "3": 123,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/1d8c40a4-c505-4c04-8b41-f7194065a3c1-1684105646578831286.jpeg",
+            "submission_id": 673237,
+            "total_vote": 263,
+            "votes": {
+                "1": 7,
+                "10": 2,
+                "11": 19,
+                "12": 6,
+                "14": 0,
+                "15": 7,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 26,
+                "22": 0,
+                "23": 1,
+                "24": 0,
+                "3": 7,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 77,
+                "8": 2,
+                "9": 105
+            }
+        },
+        "school_name": "BELENBAŞI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2047,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5f66308d-591d-4088-add5-9d40132e62ed-1684106281811813845.jpeg",
+            "submission_id": 766035,
+            "total_vote": 277,
+            "votes": {
+                "1": 98,
+                "3": 161,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "BELENBAŞI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2046,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/762e4fd1-24c7-458d-ba89-adc37ddf87f0-1684105671951978707.jpeg",
+            "submission_id": 677519,
+            "total_vote": 273,
+            "votes": {
+                "1": 120,
+                "2": 2,
+                "3": 139,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "BELENBAŞI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2044,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d8efcc59-93f5-4901-a111-062b5f33e179-1684106512738920095.jpeg",
+            "submission_id": 799305,
+            "total_vote": 242,
+            "votes": {
+                "1": 111,
+                "2": 3,
+                "3": 125,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5dea9b61-c907-4e20-a1ee-6411e37c1ee8-1684105665848252243.jpeg",
+            "submission_id": 676369,
+            "total_vote": 239,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 9,
+                "12": 5,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 97,
+                "22": 15,
+                "23": 0,
+                "24": 3,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 6,
+                "8": 0,
+                "9": 99
+            }
+        },
+        "school_name": "BELENBAŞI İLKOKULU"
+    }
+]

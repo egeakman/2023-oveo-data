@@ -1,0 +1,221 @@
+[
+    {
+        "ballot_box_number": 1109,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17950_cb_1093798624_1684090142755238064.jpg",
+            "submission_id": 413152,
+            "total_vote": 320,
+            "votes": {
+                "1": 91,
+                "3": 214,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "TURABIYE MAH. NECAT HEPKON ILKOKULU"
+    },
+    {
+        "ballot_box_number": 1113,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/27826_bulk_999999999_1684083981175808177.jpg",
+            "submission_id": 227696,
+            "total_vote": 327,
+            "votes": {
+                "1": 105,
+                "3": 202,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/27826_mv_1083798627_1684085464716760360.jpg",
+            "submission_id": 267521,
+            "total_vote": 320,
+            "votes": {
+                "10": 2,
+                "11": 22,
+                "12": 28,
+                "15": 2,
+                "21": 112,
+                "22": 50,
+                "24": 15,
+                "3": 2,
+                "5": 1,
+                "6": 3,
+                "7": 3,
+                "9": 80
+            }
+        },
+        "school_name": "TURABIYE MAH. NECAT HEPKON ILKOKULU"
+    },
+    {
+        "ballot_box_number": 1115,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/27826_cb_1093798629_1684085896346394973.jpg",
+            "submission_id": 281683,
+            "total_vote": 326,
+            "votes": {
+                "1": 104,
+                "2": 1,
+                "3": 204,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/27826_mv_1083798629_1684084656372289788.jpg",
+            "submission_id": 244668,
+            "total_vote": 318,
+            "votes": {
+                "10": 4,
+                "11": 13,
+                "12": 18,
+                "15": 1,
+                "21": 157,
+                "22": 33,
+                "24": 11,
+                "3": 1,
+                "6": 2,
+                "7": 2,
+                "9": 76
+            }
+        },
+        "school_name": "TURABIYE MAH. NECAT HEPKON ILKOKULU"
+    },
+    {
+        "ballot_box_number": 1114,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/27826_bulk_999999999_1684084140971923279.jpg",
+            "submission_id": 231324,
+            "total_vote": 321,
+            "votes": {
+                "1": 83,
+                "3": 222,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "TURABIYE MAH. NECAT HEPKON ILKOKULU"
+    },
+    {
+        "ballot_box_number": 1111,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/27826_cb_1093798625_1684086185351463400.jpg",
+            "submission_id": 290940,
+            "total_vote": 320,
+            "votes": {
+                "1": 106,
+                "2": 2,
+                "3": 207,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/27826_mv_1083798625_1684086769433143192.jpg",
+            "submission_id": 310978,
+            "total_vote": 316,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 18,
+                "12": 34,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 4,
+                "21": 141,
+                "22": 24,
+                "23": 0,
+                "24": 5,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 4,
+                "7": 0,
+                "8": 1,
+                "9": 80
+            }
+        },
+        "school_name": "TURABIYE MAH. NECAT HEPKON ILKOKULU"
+    },
+    {
+        "ballot_box_number": 1110,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/33708_cb_1093798624_1684090324426861353.jpg",
+            "submission_id": 417430,
+            "total_vote": 330,
+            "votes": {
+                "1": 114,
+                "2": 1,
+                "3": 198,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/75694_bulk_999999999_1684091427558335176.jpg",
+            "submission_id": 440036,
+            "total_vote": 329,
+            "votes": {
+                "10": 1,
+                "11": 17,
+                "12": 26,
+                "14": 2,
+                "20": 2,
+                "21": 132,
+                "22": 36,
+                "23": 1,
+                "24": 14,
+                "3": 1,
+                "6": 3,
+                "7": 5,
+                "8": 2,
+                "9": 87
+            }
+        },
+        "school_name": "TURABIYE MAH. NECAT HEPKON ILKOKULU"
+    },
+    {
+        "ballot_box_number": 1112,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17950_cb_1093798626_1684083292541784001.jpg",
+            "submission_id": 213799,
+            "total_vote": 331,
+            "votes": {
+                "1": 114,
+                "2": 3,
+                "3": 202,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17950_mv_1083798626_1684082704635069245.jpg",
+            "submission_id": 203932,
+            "total_vote": 331,
+            "votes": {
+                "10": 1,
+                "11": 21,
+                "12": 26,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 2,
+                "20": 0,
+                "21": 144,
+                "22": 35,
+                "23": 2,
+                "24": 6,
+                "4": 0,
+                "5": 2,
+                "6": 0,
+                "7": 7,
+                "8": 0,
+                "9": 83
+            }
+        },
+        "school_name": "TURABIYE MAH. NECAT HEPKON ILKOKULU"
+    }
+]

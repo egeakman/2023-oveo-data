@@ -1,0 +1,290 @@
+[
+    {
+        "ballot_box_number": 1017,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17700_cb_1093568852_1684088001786870940.jpg",
+            "submission_id": 352034,
+            "total_vote": 322,
+            "votes": {
+                "1": 123,
+                "3": 179,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÖDEMİŞ İLKKURŞUN MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1015,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17700_cb_1093568850_1684087348065078781.jpg",
+            "submission_id": 330945,
+            "total_vote": 298,
+            "votes": {
+                "1": 111,
+                "2": 4,
+                "3": 173,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17700_mv_1083568850_1684086780205630450.jpg",
+            "submission_id": 311360,
+            "total_vote": 291,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 15,
+                "12": 1,
+                "13": 7,
+                "19": 4,
+                "21": 136,
+                "22": 28,
+                "23": 3,
+                "24": 4,
+                "7": 4,
+                "8": 2,
+                "9": 84
+            }
+        },
+        "school_name": "ÖDEMİŞ İLKKURŞUN MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1023,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/17700_bulk_999999999_1684094672238310678.jpeg",
+            "submission_id": 494802,
+            "total_vote": 315,
+            "votes": {
+                "1": 108,
+                "2": 2,
+                "3": 193,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17700_mv_1083570678_1684087843947268348.jpg",
+            "submission_id": 346906,
+            "total_vote": 306,
+            "votes": {
+                "1": 1,
+                "11": 20,
+                "12": 1,
+                "13": 14,
+                "14": 1,
+                "15": 2,
+                "21": 136,
+                "22": 29,
+                "24": 7,
+                "6": 1,
+                "7": 7,
+                "9": 87
+            }
+        },
+        "school_name": "ÖDEMİŞ İLKKURŞUN MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1021,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17700_cb_1093570676_1684084250937272654.jpg",
+            "submission_id": 234273,
+            "total_vote": 316,
+            "votes": {
+                "1": 86,
+                "3": 214,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17700_mv_1083570676_1684084281379167524.jpg",
+            "submission_id": 235069,
+            "total_vote": 306,
+            "votes": {
+                "1": 2,
+                "10": 3,
+                "11": 15,
+                "12": 4,
+                "13": 8,
+                "14": 1,
+                "15": 1,
+                "16": 1,
+                "21": 150,
+                "22": 41,
+                "24": 6,
+                "6": 2,
+                "7": 5,
+                "8": 2,
+                "9": 65
+            }
+        },
+        "school_name": "ÖDEMİŞ İLKKURŞUN MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1018,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17700_cb_1093568853_1684086895171876113.jpg",
+            "submission_id": 315290,
+            "total_vote": 319,
+            "votes": {
+                "1": 118,
+                "2": 2,
+                "3": 186,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÖDEMİŞ İLKKURŞUN MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1022,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17700_cb_1093570677_1684086378323756388.jpg",
+            "submission_id": 297296,
+            "total_vote": 333,
+            "votes": {
+                "1": 116,
+                "2": 5,
+                "3": 196,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17700_mv_1083570677_1684087477523692903.jpg",
+            "submission_id": 335156,
+            "total_vote": 318,
+            "votes": {
+                "1": 4,
+                "10": 4,
+                "11": 20,
+                "12": 5,
+                "13": 10,
+                "2": 1,
+                "20": 1,
+                "21": 136,
+                "22": 37,
+                "24": 4,
+                "6": 2,
+                "7": 6,
+                "9": 88
+            }
+        },
+        "school_name": "ÖDEMİŞ İLKKURŞUN MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1019,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/17700_bulk_999999999_1684094850322141774.jpeg",
+            "submission_id": 496881,
+            "total_vote": 325,
+            "votes": {
+                "1": 110,
+                "2": 1,
+                "3": 201,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2729497e-f7e0-4289-bbd9-c3c2da371d46-1684105288223912371.jpg",
+            "submission_id": 611362,
+            "total_vote": 306,
+            "votes": {
+                "1": 1,
+                "10": 7,
+                "11": 30,
+                "12": 6,
+                "13": 5,
+                "15": 2,
+                "20": 1,
+                "21": 112,
+                "22": 62,
+                "24": 4,
+                "3": 1,
+                "5": 1,
+                "7": 2,
+                "8": 3,
+                "9": 69
+            }
+        },
+        "school_name": "ÖDEMİŞ İLKKURŞUN MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1020,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17700_cb_1093570675_1684087628556703692.jpg",
+            "submission_id": 339975,
+            "total_vote": 327,
+            "votes": {
+                "1": 122,
+                "2": 2,
+                "3": 188,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17700_mv_1083570675_1684087676485992753.jpg",
+            "submission_id": 341632,
+            "total_vote": 296,
+            "votes": {
+                "10": 1,
+                "11": 17,
+                "12": 6,
+                "13": 12,
+                "15": 1,
+                "21": 142,
+                "22": 16,
+                "23": 2,
+                "24": 3,
+                "5": 1,
+                "7": 4,
+                "8": 1,
+                "9": 90
+            }
+        },
+        "school_name": "ÖDEMİŞ İLKKURŞUN MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1016,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17700_mv_1083568851_1684087263200872779.jpg",
+            "submission_id": 328168,
+            "total_vote": 320,
+            "votes": {
+                "1": 121,
+                "2": 1,
+                "3": 189,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17700_cb_1093568851_1684087231328440723.jpg",
+            "submission_id": 327099,
+            "total_vote": 306,
+            "votes": {
+                "10": 2,
+                "11": 17,
+                "12": 3,
+                "13": 14,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 0,
+                "21": 125,
+                "22": 34,
+                "23": 2,
+                "24": 6,
+                "3": 0,
+                "4": 2,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 3,
+                "9": 90
+            }
+        },
+        "school_name": "ÖDEMİŞ İLKKURŞUN MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    }
+]

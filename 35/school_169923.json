@@ -1,0 +1,152 @@
+[
+    {
+        "ballot_box_number": 1005,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28109_bulk_999999999_1684096722079879407.jpeg",
+            "submission_id": 515190,
+            "total_vote": 312,
+            "votes": {
+                "1": 63,
+                "3": 237,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇEŞME İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1006,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/40109_cb_1093796456_1684079526329943203.jpg",
+            "submission_id": 177339,
+            "total_vote": 316,
+            "votes": {
+                "1": 81,
+                "2": 0,
+                "3": 217,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28109_bulk_999999999_1684096786725255687.jpeg",
+            "submission_id": 515780,
+            "total_vote": 312,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 27,
+                "12": 17,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 164,
+                "22": 31,
+                "23": 0,
+                "24": 8,
+                "3": 3,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 2,
+                "8": 0,
+                "9": 56
+            }
+        },
+        "school_name": "ÇEŞME İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1007,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28109_bulk_999999999_1684096786675755717.jpeg",
+            "submission_id": 515779,
+            "total_vote": 331,
+            "votes": {
+                "1": 79,
+                "2": 2,
+                "3": 237,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/154c6903-7fc8-46aa-a756-eb408f373383-1684105731019107677.jpeg",
+            "submission_id": 686533,
+            "total_vote": 326,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 1,
+                "12": 12,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 166,
+                "22": 51,
+                "23": 0,
+                "24": 71,
+                "3": 7,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 4,
+                "8": 4,
+                "9": 6
+            }
+        },
+        "school_name": "ÇEŞME İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1008,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28109_bulk_999999999_1684096765220436841.jpeg",
+            "submission_id": 515587,
+            "total_vote": 322,
+            "votes": {
+                "1": 74,
+                "2": 4,
+                "3": 222,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/dc8460e9-da8b-4302-85f8-821d20183946-1684105699248285989.jpeg",
+            "submission_id": 681427,
+            "total_vote": 319,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 18,
+                "12": 11,
+                "14": 0,
+                "15": 1,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 166,
+                "22": 39,
+                "23": 0,
+                "24": 13,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 3,
+                "7": 8,
+                "8": 1,
+                "9": 51
+            }
+        },
+        "school_name": "ÇEŞME İMAM HATİP ORTAOKULU"
+    }
+]

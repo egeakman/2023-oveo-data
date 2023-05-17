@@ -1,0 +1,517 @@
+[
+    {
+        "ballot_box_number": 2406,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5380b7d7-89c1-49c0-8910-a2bcc3c6f7af-1684105583429409013.jpeg",
+            "submission_id": 662709,
+            "total_vote": 322,
+            "votes": {
+                "1": 108,
+                "2": 2,
+                "3": 198,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20745_mv_1083865148_1684088136594989792.jpg",
+            "submission_id": 356366,
+            "total_vote": 315,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 15,
+                "12": 54,
+                "13": 20,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 98,
+                "22": 24,
+                "23": 0,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 0,
+                "9": 88
+            }
+        },
+        "school_name": "TOKİ KARŞIYAKA BELEDİYESİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2398,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/515076fd-ab00-4cc6-a48a-7181dfcf15f3-1684105786349702958.jpg",
+            "submission_id": 695291,
+            "total_vote": 307,
+            "votes": {
+                "1": 87,
+                "2": 3,
+                "3": 201,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/368f176c-d529-445b-aa82-7d48b3705335-1684105776625183095.jpg",
+            "submission_id": 693443,
+            "total_vote": 307,
+            "votes": {
+                "11": 11,
+                "12": 34,
+                "13": 19,
+                "21": 123,
+                "22": 26,
+                "24": 9,
+                "3": 1,
+                "6": 2,
+                "7": 2,
+                "8": 2,
+                "9": 78
+            }
+        },
+        "school_name": "TOKİ KARŞIYAKA BELEDİYESİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2399,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/76934_cb_1093865141_1684088359454242053.jpg",
+            "submission_id": 363082,
+            "total_vote": 328,
+            "votes": {
+                "1": 132,
+                "2": 2,
+                "3": 181,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/76934_mv_1083865141_1684088403211479558.jpg",
+            "submission_id": 364501,
+            "total_vote": 319,
+            "votes": {
+                "10": 3,
+                "11": 13,
+                "12": 39,
+                "13": 16,
+                "21": 106,
+                "22": 20,
+                "23": 1,
+                "24": 7,
+                "6": 4,
+                "7": 2,
+                "8": 4,
+                "9": 104
+            }
+        },
+        "school_name": "TOKİ KARŞIYAKA BELEDİYESİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2409,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/28e0d0fb-5b5b-4eff-8084-07f247822de6-1684105898339979521.jpeg",
+            "submission_id": 710649,
+            "total_vote": 323,
+            "votes": {
+                "1": 95,
+                "2": 1,
+                "3": 213,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ba9c3c54-44c8-4075-b91a-7efb1ca40358-1684105206847995379.jpeg",
+            "submission_id": 594938,
+            "total_vote": 315,
+            "votes": {
+                "1": 1,
+                "11": 18,
+                "12": 47,
+                "13": 18,
+                "21": 123,
+                "22": 20,
+                "24": 13,
+                "5": 1,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 71
+            }
+        },
+        "school_name": "TOKİ KARŞIYAKA BELEDİYESİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2408,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d5737fb2-7cc5-4c89-b719-4c9e920122cc-1684105819154717133.jpeg",
+            "submission_id": 700317,
+            "total_vote": 326,
+            "votes": {
+                "1": 116,
+                "3": 197,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7976071b-1938-4c5b-a494-d0641fa1ba14-1684105983890667892.jpeg",
+            "submission_id": 722239,
+            "total_vote": 321,
+            "votes": {
+                "10": 5,
+                "11": 27,
+                "12": 41,
+                "13": 23,
+                "15": 1,
+                "17": 1,
+                "20": 2,
+                "21": 91,
+                "22": 33,
+                "23": 1,
+                "24": 7,
+                "4": 1,
+                "6": 2,
+                "7": 8,
+                "9": 78
+            }
+        },
+        "school_name": "TOKİ KARŞIYAKA BELEDİYESİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2405,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c7ddb7e0-e903-4250-a1fc-a9c94952fb3a-1684105161980116925.jpg",
+            "submission_id": 585825,
+            "total_vote": 322,
+            "votes": {
+                "1": 100,
+                "2": 2,
+                "3": 207,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/40688_bulk_999999999_1684092157115369373.jpg",
+            "submission_id": 451847,
+            "total_vote": 314,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 19,
+                "12": 29,
+                "13": 12,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 129,
+                "22": 30,
+                "23": 0,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 4,
+                "7": 5,
+                "8": 3,
+                "9": 76
+            }
+        },
+        "school_name": "TOKİ KARŞIYAKA BELEDİYESİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2400,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20745_cb_1093865142_1684088406922733450.jpg",
+            "submission_id": 364604,
+            "total_vote": 315,
+            "votes": {
+                "1": 115,
+                "2": 0,
+                "3": 182,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20745_mv_1083865142_1684088426131685194.jpg",
+            "submission_id": 365227,
+            "total_vote": 311,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 12,
+                "12": 38,
+                "13": 23,
+                "14": 1,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 99,
+                "22": 23,
+                "23": 2,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 4,
+                "8": 0,
+                "9": 98
+            }
+        },
+        "school_name": "TOKİ KARŞIYAKA BELEDİYESİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2404,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39765_cb_1093865146_1684084414322147376.jpg",
+            "submission_id": 238365,
+            "total_vote": 318,
+            "votes": {
+                "1": 122,
+                "2": 1,
+                "3": 184,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39765_mv_1083865146_1684084438727388256.jpg",
+            "submission_id": 238967,
+            "total_vote": 311,
+            "votes": {
+                "10": 3,
+                "11": 15,
+                "12": 26,
+                "13": 16,
+                "14": 1,
+                "21": 120,
+                "22": 19,
+                "24": 7,
+                "6": 1,
+                "7": 2,
+                "9": 101
+            }
+        },
+        "school_name": "TOKİ KARŞIYAKA BELEDİYESİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2403,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20745_cb_1093865145_1684088289387161609.jpg",
+            "submission_id": 360983,
+            "total_vote": 324,
+            "votes": {
+                "1": 108,
+                "3": 193,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20745_mv_1083865145_1684090519443083679.jpg",
+            "submission_id": 421818,
+            "total_vote": 317,
+            "votes": {
+                "1": 1,
+                "10": 6,
+                "11": 11,
+                "12": 43,
+                "13": 21,
+                "21": 107,
+                "22": 26,
+                "23": 1,
+                "24": 7,
+                "5": 1,
+                "6": 1,
+                "7": 1,
+                "8": 3,
+                "9": 88
+            }
+        },
+        "school_name": "TOKİ KARŞIYAKA BELEDİYESİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2401,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/58312_bulk_999999999_1684102353947824362.jpeg",
+            "submission_id": 544050,
+            "total_vote": 332,
+            "votes": {
+                "1": 118,
+                "2": 0,
+                "3": 200,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/58312_bulk_999999999_1684102354146110806.jpeg",
+            "submission_id": 544051,
+            "total_vote": 330,
+            "votes": {
+                "1": 1,
+                "10": 8,
+                "11": 18,
+                "12": 33,
+                "13": 27,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 102,
+                "22": 34,
+                "23": 1,
+                "24": 67,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 6,
+                "8": 1,
+                "9": 27
+            }
+        },
+        "school_name": "TOKİ KARŞIYAKA BELEDİYESİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2402,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/30998_cb_1093865144_1684092822949429761.jpg",
+            "submission_id": 461639,
+            "total_vote": 321,
+            "votes": {
+                "1": 105,
+                "2": 0,
+                "3": 201,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/30998_mv_1083865144_1684093360780946478.jpg",
+            "submission_id": 468911,
+            "total_vote": 311,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 16,
+                "12": 37,
+                "13": 24,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 106,
+                "22": 30,
+                "23": 0,
+                "24": 7,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 1,
+                "9": 83
+            }
+        },
+        "school_name": "TOKİ KARŞIYAKA BELEDİYESİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2397,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/40688_bulk_999999999_1684078068863142414.jpg",
+            "submission_id": 173947,
+            "total_vote": 315,
+            "votes": {
+                "1": 89,
+                "2": 1,
+                "3": 223,
+                "4": 2
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/40688_bulk_999999999_1684086604245090858.jpg",
+            "submission_id": 305152,
+            "total_vote": 311,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 17,
+                "12": 28,
+                "13": 17,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 2,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 143,
+                "22": 31,
+                "23": 2,
+                "24": 1,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 3,
+                "8": 2,
+                "9": 62
+            }
+        },
+        "school_name": "TOKİ KARŞIYAKA BELEDİYESİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2407,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/db72edb9-3dbe-4549-b802-d246a50b3a8f-1684106682756329078.jpeg",
+            "submission_id": 823872,
+            "total_vote": 344,
+            "votes": {
+                "1": 109,
+                "2": 1,
+                "3": 220,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20745_mv_1083865149_1684090582041010530.jpg",
+            "submission_id": 423311,
+            "total_vote": 339,
+            "votes": {
+                "10": 1,
+                "11": 19,
+                "12": 29,
+                "13": 18,
+                "15": 1,
+                "20": 1,
+                "21": 149,
+                "22": 25,
+                "24": 8,
+                "6": 2,
+                "8": 2,
+                "9": 84
+            }
+        },
+        "school_name": "TOKİ KARŞIYAKA BELEDİYESİ İLKOKULU"
+    }
+]

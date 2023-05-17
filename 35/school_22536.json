@@ -1,0 +1,48 @@
+[
+    {
+        "ballot_box_number": 1161,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/143f747d-c33f-4746-b06f-77730b00dd47-1684106049567209949.jpeg",
+            "submission_id": 731072,
+            "total_vote": 205,
+            "votes": {
+                "1": 115,
+                "2": 2,
+                "3": 74,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7baf4dd8-ad3a-48d5-8fa8-5b5d63253b72-1684106045314308151.jpeg",
+            "submission_id": 730361,
+            "total_vote": 195,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 26,
+                "12": 0,
+                "13": 1,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 0,
+                "21": 50,
+                "22": 20,
+                "23": 2,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 0,
+                "9": 87
+            }
+        },
+        "school_name": "KARACAALİ İLKOKULU"
+    }
+]

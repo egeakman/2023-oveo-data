@@ -1,0 +1,48 @@
+[
+    {
+        "ballot_box_number": 1233,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a77c3b69-0520-4434-aec0-bd729f72ddd4-1684106644650670163.jpg",
+            "submission_id": 819957,
+            "total_vote": 250,
+            "votes": {
+                "1": 88,
+                "2": 2,
+                "3": 143,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4997c3d6-6394-441b-894d-e2f23fa93f49-1684105572315829634.jpg",
+            "submission_id": 660854,
+            "total_vote": 244,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 4,
+                "12": 6,
+                "13": 10,
+                "14": 2,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 3,
+                "21": 102,
+                "22": 30,
+                "23": 2,
+                "24": 6,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 2,
+                "9": 72
+            }
+        },
+        "school_name": "OVACIK MAH. DÜĞÜN SALONU"
+    }
+]

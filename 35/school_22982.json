@@ -1,0 +1,573 @@
+[
+    {
+        "ballot_box_number": 1193,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28261_bulk_999999999_1684091919015725753.jpeg",
+            "submission_id": 447923,
+            "total_vote": 322,
+            "votes": {
+                "1": 46,
+                "2": 1,
+                "3": 273,
+                "4": 2
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28261_bulk_999999999_1684091918839042689.jpeg",
+            "submission_id": 447921,
+            "total_vote": 313,
+            "votes": {
+                "10": 3,
+                "11": 4,
+                "12": 4,
+                "21": 232,
+                "22": 26,
+                "24": 2,
+                "7": 2,
+                "9": 40
+            }
+        },
+        "school_name": "SELMA YİĞİTALP ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1194,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/1c0b039d-3795-4418-9c1d-ce7d8864bf41-1684105400062224355.jpeg",
+            "submission_id": 632987,
+            "total_vote": 318,
+            "votes": {
+                "1": 38,
+                "3": 276,
+                "4": 4
+            }
+        },
+        "mv_result": null,
+        "school_name": "SELMA YİĞİTALP ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1206,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/eb54a033-e4b8-492b-8d05-127f4b874347-1684105372886353183.jpeg",
+            "submission_id": 627499,
+            "total_vote": 338,
+            "votes": {
+                "1": 22,
+                "2": 1,
+                "3": 309,
+                "4": 6
+            }
+        },
+        "mv_result": null,
+        "school_name": "SELMA YİĞİTALP ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1195,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/25649_bulk_999999999_1684081862967850194.jpeg",
+            "submission_id": 193079,
+            "total_vote": 342,
+            "votes": {
+                "1": 45,
+                "2": 0,
+                "3": 292,
+                "4": 5
+            }
+        },
+        "mv_result": null,
+        "school_name": "SELMA YİĞİTALP ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1196,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28261_bulk_999999999_1684091919515702278.jpeg",
+            "submission_id": 447933,
+            "total_vote": 337,
+            "votes": {
+                "1": 33,
+                "3": 294,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "SELMA YİĞİTALP ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1204,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c553b041-ce64-48b9-aa22-dcf6df9dbd38-1684106079723150416.jpg",
+            "submission_id": 735655,
+            "total_vote": 338,
+            "votes": {
+                "1": 36,
+                "3": 293,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/49aedcec-ffbc-40e0-8752-178c7e68a046-1684106035481286691.jpg",
+            "submission_id": 729729,
+            "total_vote": 330,
+            "votes": {
+                "10": 0,
+                "11": 5,
+                "12": 10,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "20": 0,
+                "21": 225,
+                "22": 58,
+                "23": 0,
+                "24": 5,
+                "4": 4,
+                "5": 3,
+                "7": 4,
+                "8": 0,
+                "9": 15
+            }
+        },
+        "school_name": "SELMA YİĞİTALP ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1192,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21181_cb_1093860889_1684082954800803423.jpg",
+            "submission_id": 207985,
+            "total_vote": 297,
+            "votes": {
+                "1": 37,
+                "3": 259,
+                "4": 1
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28261_bulk_999999999_1684091918731137642.jpeg",
+            "submission_id": 447919,
+            "total_vote": 297,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 5,
+                "12": 6,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 216,
+                "22": 35,
+                "23": 0,
+                "24": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 0,
+                "9": 30
+            }
+        },
+        "school_name": "SELMA YİĞİTALP ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1205,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4563ecde-2080-46f6-b448-f53d2429b911-1684105354277604462.jpeg",
+            "submission_id": 624025,
+            "total_vote": 345,
+            "votes": {
+                "1": 40,
+                "2": 0,
+                "3": 289,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/637e3864-2428-4770-abb8-582aaf947e57-1684105353254803590.jpeg",
+            "submission_id": 623809,
+            "total_vote": 343,
+            "votes": {
+                "10": 0,
+                "11": 9,
+                "12": 17,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 208,
+                "22": 66,
+                "23": 3,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 32
+            }
+        },
+        "school_name": "SELMA YİĞİTALP ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1200,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21181_cb_1093861157_1684084199232013198.jpg",
+            "submission_id": 232829,
+            "total_vote": 341,
+            "votes": {
+                "1": 38,
+                "2": 0,
+                "3": 299,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21181_mv_1083861157_1684085257227540285.jpg",
+            "submission_id": 261511,
+            "total_vote": 341,
+            "votes": {
+                "11": 6,
+                "12": 20,
+                "20": 1,
+                "21": 221,
+                "23": 56,
+                "24": 4,
+                "3": 1,
+                "6": 2,
+                "7": 2,
+                "8": 1,
+                "9": 27
+            }
+        },
+        "school_name": "SELMA YİĞİTALP ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1197,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16788_cb_1093860894_1684083520826252981.jpg",
+            "submission_id": 218195,
+            "total_vote": 337,
+            "votes": {
+                "1": 31,
+                "2": 1,
+                "3": 289,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d1337885-dac4-414b-a3c2-3612f6a82259-1684105333345579506.jpeg",
+            "submission_id": 620638,
+            "total_vote": 334,
+            "votes": {
+                "10": 4,
+                "11": 7,
+                "12": 13,
+                "21": 222,
+                "22": 50,
+                "24": 14,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 19
+            }
+        },
+        "school_name": "SELMA YİĞİTALP ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1198,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21299_cb_1093861155_1684090439905092807.jpg",
+            "submission_id": 419920,
+            "total_vote": 347,
+            "votes": {
+                "1": 29,
+                "2": 1,
+                "3": 308,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21299_mv_1083861155_1684090473125524103.jpg",
+            "submission_id": 420712,
+            "total_vote": 343,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 8,
+                "12": 16,
+                "13": 0,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 241,
+                "22": 51,
+                "23": 1,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 1,
+                "9": 18
+            }
+        },
+        "school_name": "SELMA YİĞİTALP ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1202,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21181_cb_1093861159_1684083170624485954.jpg",
+            "submission_id": 211596,
+            "total_vote": 348,
+            "votes": {
+                "1": 41,
+                "3": 303,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21181_mv_1083861159_1684083214146744343.jpg",
+            "submission_id": 212384,
+            "total_vote": 341,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 7,
+                "12": 8,
+                "13": 0,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 232,
+                "22": 55,
+                "23": 0,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 2,
+                "9": 29
+            }
+        },
+        "school_name": "SELMA YİĞİTALP ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1201,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/abd7ad14-e1f3-421d-8d66-5f2aba1e6be9-1684105366618008257.jpeg",
+            "submission_id": 626001,
+            "total_vote": 354,
+            "votes": {
+                "1": 29,
+                "2": 1,
+                "3": 314,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e936d9dd-c189-4a91-a9c8-6c3e6003fc25-1684105484387498179.jpg",
+            "submission_id": 647259,
+            "total_vote": 352,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 7,
+                "12": 15,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 2,
+                "21": 228,
+                "22": 67,
+                "23": 0,
+                "24": 7,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 22
+            }
+        },
+        "school_name": "SELMA YİĞİTALP ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1203,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/1bd01557-4f32-407f-b971-13262305c65d-1684105435552622287.jpeg",
+            "submission_id": 639173,
+            "total_vote": 338,
+            "votes": {
+                "1": 45,
+                "2": 3,
+                "3": 278,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a851f247-9034-4d13-b8e9-939039db1c22-1684105410459750949.jpeg",
+            "submission_id": 634722,
+            "total_vote": 334,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 7,
+                "12": 8,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 215,
+                "22": 54,
+                "23": 1,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 6,
+                "8": 0,
+                "9": 36
+            }
+        },
+        "school_name": "SELMA YİĞİTALP ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1199,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28261_bulk_999999999_1684091919128586335.jpeg",
+            "submission_id": 447924,
+            "total_vote": 346,
+            "votes": {
+                "1": 28,
+                "2": 2,
+                "3": 307,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28261_bulk_999999999_1684091919231297544.jpeg",
+            "submission_id": 447926,
+            "total_vote": 344,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 8,
+                "12": 13,
+                "14": 0,
+                "15": 0,
+                "16": 5,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 232,
+                "22": 55,
+                "23": 0,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 22
+            }
+        },
+        "school_name": "SELMA YİĞİTALP ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1191,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28261_bulk_999999999_1684090448777879128.jpeg",
+            "submission_id": 420149,
+            "total_vote": 304,
+            "votes": {
+                "1": 31,
+                "3": 272,
+                "4": 1
+            }
+        },
+        "mv_result": null,
+        "school_name": "SELMA YİĞİTALP ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1207,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2865f262-0374-45eb-8c67-384aa4eb8405-1684105424691206194.jpeg",
+            "submission_id": 637607,
+            "total_vote": 330,
+            "votes": {
+                "1": 55,
+                "2": 4,
+                "3": 268,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28261_bulk_999999999_1684091948519464446.jpeg",
+            "submission_id": 448394,
+            "total_vote": 329,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 10,
+                "12": 9,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 192,
+                "22": 54,
+                "23": 0,
+                "24": 5,
+                "3": 3,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 10,
+                "8": 1,
+                "9": 43
+            }
+        },
+        "school_name": "SELMA YİĞİTALP ANADOLU LİSESİ"
+    }
+]

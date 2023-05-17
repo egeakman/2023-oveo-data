@@ -1,0 +1,676 @@
+[
+    {
+        "ballot_box_number": 2412,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15372_cb_1093792266_1684081317249086475.jpg",
+            "submission_id": 187785,
+            "total_vote": 325,
+            "votes": {
+                "1": 168,
+                "2": 1,
+                "3": 135,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15372_mv_1083792266_1684087217919178775.jpg",
+            "submission_id": 326665,
+            "total_vote": 323,
+            "votes": {
+                "1": 0,
+                "10": 8,
+                "11": 25,
+                "12": 51,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 66,
+                "22": 18,
+                "23": 1,
+                "24": 10,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 2,
+                "7": 5,
+                "8": 6,
+                "9": 129
+            }
+        },
+        "school_name": "BUCA ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2394,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "BUCA ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2417,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23932_cb_1093792271_1684088855042686086.jpg",
+            "submission_id": 378209,
+            "total_vote": 330,
+            "votes": {
+                "1": 175,
+                "2": 1,
+                "3": 142,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23932_mv_1083792271_1684088740241071930.jpg",
+            "submission_id": 374876,
+            "total_vote": 326,
+            "votes": {
+                "10": 5,
+                "11": 22,
+                "12": 59,
+                "14": 1,
+                "2": 1,
+                "21": 57,
+                "22": 23,
+                "23": 1,
+                "24": 8,
+                "3": 1,
+                "5": 1,
+                "7": 3,
+                "8": 4,
+                "9": 140
+            }
+        },
+        "school_name": "BUCA ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2408,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15372_cb_1093792262_1684080169608772239.jpg",
+            "submission_id": 180110,
+            "total_vote": 324,
+            "votes": {
+                "1": 137,
+                "2": 1,
+                "3": 158,
+                "4": 28
+            }
+        },
+        "mv_result": null,
+        "school_name": "BUCA ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2401,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39274_cb_1093792255_1684086493927089021.jpg",
+            "submission_id": 301294,
+            "total_vote": 337,
+            "votes": {
+                "1": 150,
+                "2": 0,
+                "3": 159,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39274_mv_1083792255_1684086730380977170.jpg",
+            "submission_id": 309628,
+            "total_vote": 330,
+            "votes": {
+                "1": 1,
+                "10": 6,
+                "11": 19,
+                "12": 74,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 72,
+                "22": 28,
+                "23": 0,
+                "24": 14,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 2,
+                "8": 9,
+                "9": 101
+            }
+        },
+        "school_name": "BUCA ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2406,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23932_cb_1093792260_1684084404769204041.jpg",
+            "submission_id": 238111,
+            "total_vote": 349,
+            "votes": {
+                "1": 152,
+                "3": 177,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/19661_bulk_999999999_1684100496235873725.jpeg",
+            "submission_id": 537264,
+            "total_vote": 335,
+            "votes": {
+                "1": 0,
+                "10": 10,
+                "11": 15,
+                "12": 71,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 70,
+                "22": 28,
+                "23": 0,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "8": 2,
+                "9": 122
+            }
+        },
+        "school_name": "BUCA ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2414,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c81206d7-4195-476a-a85b-b32dd56d3f10-1684105204394891437.jpeg",
+            "submission_id": 594009,
+            "total_vote": 335,
+            "votes": {
+                "1": 148,
+                "2": 2,
+                "3": 170,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "BUCA ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2415,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15372_cb_1093792269_1684081783185825929.jpg",
+            "submission_id": 192252,
+            "total_vote": 338,
+            "votes": {
+                "1": 151,
+                "2": 1,
+                "3": 163,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "BUCA ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2395,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23932_cb_1093791989_1684084218852635397.jpg",
+            "submission_id": 233358,
+            "total_vote": 282,
+            "votes": {
+                "1": 138,
+                "2": 1,
+                "3": 133,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "BUCA ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2410,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15372_cb_1093792264_1684086463672914556.jpg",
+            "submission_id": 300196,
+            "total_vote": 321,
+            "votes": {
+                "1": 151,
+                "2": 0,
+                "3": 153,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23932_mv_1083792264_1684088197247956364.jpg",
+            "submission_id": 358190,
+            "total_vote": 322,
+            "votes": {
+                "10": 4,
+                "11": 21,
+                "12": 57,
+                "20": 1,
+                "21": 83,
+                "22": 19,
+                "23": 2,
+                "24": 5,
+                "3": 2,
+                "5": 1,
+                "7": 2,
+                "8": 2,
+                "9": 123
+            }
+        },
+        "school_name": "BUCA ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2400,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/62659_cb_1093791994_1684081913556530824.jpg",
+            "submission_id": 193632,
+            "total_vote": 321,
+            "votes": {
+                "1": 135,
+                "2": 1,
+                "3": 153,
+                "4": 32
+            }
+        },
+        "mv_result": null,
+        "school_name": "BUCA ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2411,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15372_cb_1093792265_1684086703646156184.jpg",
+            "submission_id": 308628,
+            "total_vote": 341,
+            "votes": {
+                "1": 163,
+                "3": 154,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15372_mv_1083792265_1684087388971271310.jpg",
+            "submission_id": 332366,
+            "total_vote": 338,
+            "votes": {
+                "10": 5,
+                "11": 15,
+                "12": 59,
+                "21": 70,
+                "22": 28,
+                "24": 14,
+                "6": 2,
+                "7": 4,
+                "8": 7,
+                "9": 134
+            }
+        },
+        "school_name": "BUCA ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2407,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/62659_cb_1093792261_1684080487055080935.jpg",
+            "submission_id": 181976,
+            "total_vote": 347,
+            "votes": {
+                "1": 162,
+                "3": 162,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15372_mv_1083792261_1684082770754846085.jpg",
+            "submission_id": 204969,
+            "total_vote": 338,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 21,
+                "12": 70,
+                "13": 0,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 2,
+                "20": 0,
+                "21": 65,
+                "22": 22,
+                "23": 0,
+                "24": 9,
+                "3": 1,
+                "4": 0,
+                "5": 2,
+                "6": 3,
+                "7": 7,
+                "8": 7,
+                "9": 123
+            }
+        },
+        "school_name": "BUCA ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2404,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c5655740-b49d-4249-8f39-59848cd79036-1684105212658516473.jpeg",
+            "submission_id": 597477,
+            "total_vote": 325,
+            "votes": {
+                "1": 179,
+                "2": 0,
+                "3": 122,
+                "4": 24
+            }
+        },
+        "mv_result": null,
+        "school_name": "BUCA ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2396,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23932_cb_1093791990_1684084238238481265.jpg",
+            "submission_id": 233951,
+            "total_vote": 318,
+            "votes": {
+                "1": 155,
+                "2": 0,
+                "3": 144,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/76d22e34-9aef-4e9c-881b-a8dc0d6a151c-1684106473161272808.jpg",
+            "submission_id": 793143,
+            "total_vote": 322,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 17,
+                "12": 72,
+                "14": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 54,
+                "22": 2,
+                "23": 0,
+                "24": 41,
+                "3": 2,
+                "4": 0,
+                "5": 3,
+                "6": 0,
+                "7": 3,
+                "8": 5,
+                "9": 123
+            }
+        },
+        "school_name": "BUCA ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2402,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23932_cb_1093792256_1684084257750979691.jpg",
+            "submission_id": 234468,
+            "total_vote": 338,
+            "votes": {
+                "1": 163,
+                "3": 160,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5fe34dd7-bbe0-455d-8ec5-ac891f580bcf-1684105221666791524.jpeg",
+            "submission_id": 599586,
+            "total_vote": 336,
+            "votes": {
+                "1": 0,
+                "10": 8,
+                "11": 15,
+                "12": 77,
+                "14": 0,
+                "15": 1,
+                "18": 1,
+                "19": 1,
+                "2": 4,
+                "20": 1,
+                "21": 59,
+                "22": 24,
+                "23": 1,
+                "24": 6,
+                "3": 1,
+                "4": 0,
+                "5": 2,
+                "6": 1,
+                "7": 2,
+                "8": 2,
+                "9": 130
+            }
+        },
+        "school_name": "BUCA ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2399,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/62659_cb_1093791993_1684082016106180022.jpg",
+            "submission_id": 194775,
+            "total_vote": 321,
+            "votes": {
+                "1": 133,
+                "3": 171,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23932_mv_1083791993_1684089148067555196.jpg",
+            "submission_id": 386624,
+            "total_vote": 317,
+            "votes": {
+                "10": 8,
+                "11": 14,
+                "12": 89,
+                "14": 2,
+                "16": 1,
+                "21": 57,
+                "22": 18,
+                "24": 14,
+                "6": 2,
+                "7": 5,
+                "8": 2,
+                "9": 105
+            }
+        },
+        "school_name": "BUCA ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2398,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/073bbbb3-bc60-4aae-91dd-225e7c26cc64-1684105519343365302.jpg",
+            "submission_id": 652536,
+            "total_vote": 321,
+            "votes": {
+                "1": 154,
+                "2": 1,
+                "3": 151,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/999e8976-fdb7-4511-8889-38f437daf770-1684105159287495058.jpeg",
+            "submission_id": 586669,
+            "total_vote": 318,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 38,
+                "12": 86,
+                "14": 0,
+                "15": 1,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 54,
+                "22": 13,
+                "23": 0,
+                "24": 7,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 2,
+                "9": 106
+            }
+        },
+        "school_name": "BUCA ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2397,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "BUCA ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2403,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/62659_cb_1093792257_1684081337602589888.jpg",
+            "submission_id": 187964,
+            "total_vote": 329,
+            "votes": {
+                "1": 147,
+                "3": 161,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23932_mv_1083792257_1684083694695447705.jpg",
+            "submission_id": 221768,
+            "total_vote": 322,
+            "votes": {
+                "10": 3,
+                "11": 23,
+                "12": 84,
+                "21": 53,
+                "22": 17,
+                "24": 11,
+                "6": 7,
+                "7": 3,
+                "8": 5,
+                "9": 116
+            }
+        },
+        "school_name": "BUCA ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2413,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15372_cb_1093792267_1684080802740851713.jpg",
+            "submission_id": 183880,
+            "total_vote": 338,
+            "votes": {
+                "1": 167,
+                "3": 150,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "BUCA ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2405,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23932_cb_1093792259_1684084036418346187.jpg",
+            "submission_id": 228909,
+            "total_vote": 332,
+            "votes": {
+                "1": 180,
+                "2": 1,
+                "3": 134,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "BUCA ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2416,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15372_cb_1093792270_1684086967939322778.jpg",
+            "submission_id": 317840,
+            "total_vote": 338,
+            "votes": {
+                "1": 165,
+                "2": 1,
+                "3": 151,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15372_mv_1083792270_1684086991744744342.jpg",
+            "submission_id": 318646,
+            "total_vote": 333,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 33,
+                "12": 58,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 72,
+                "22": 23,
+                "23": 1,
+                "24": 10,
+                "3": 4,
+                "4": 0,
+                "5": 0,
+                "6": 4,
+                "7": 3,
+                "8": 1,
+                "9": 118
+            }
+        },
+        "school_name": "BUCA ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2409,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15372_cb_1093792263_1684082710175543226.jpg",
+            "submission_id": 204025,
+            "total_vote": 342,
+            "votes": {
+                "1": 146,
+                "2": 1,
+                "3": 170,
+                "4": 25
+            }
+        },
+        "mv_result": null,
+        "school_name": "BUCA ANADOLU LİSESİ"
+    }
+]

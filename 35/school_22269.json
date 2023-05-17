@@ -1,0 +1,645 @@
+[
+    {
+        "ballot_box_number": 1197,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/9026_bulk_999999999_1684086224785112648.jpeg",
+            "submission_id": 292255,
+            "total_vote": 322,
+            "votes": {
+                "1": 129,
+                "2": 1,
+                "3": 167,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/9026_mv_1083578639_1684086983015180376.jpg",
+            "submission_id": 318349,
+            "total_vote": 314,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 25,
+                "12": 15,
+                "13": 16,
+                "14": 0,
+                "15": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 99,
+                "22": 34,
+                "23": 1,
+                "24": 16,
+                "3": 0,
+                "6": 1,
+                "7": 3,
+                "8": 2,
+                "9": 97
+            }
+        },
+        "school_name": "MUSTAFA ÇUKUR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1192,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/12030_bulk_999999999_1684083808685240619.jpeg",
+            "submission_id": 224215,
+            "total_vote": 321,
+            "votes": {
+                "1": 118,
+                "2": 1,
+                "3": 194,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/9026_bulk_999999999_1684083870592550825.jpeg",
+            "submission_id": 225526,
+            "total_vote": 309,
+            "votes": {
+                "10": 3,
+                "11": 13,
+                "12": 21,
+                "13": 16,
+                "14": 3,
+                "15": 1,
+                "17": 1,
+                "21": 124,
+                "22": 28,
+                "23": 2,
+                "24": 3,
+                "7": 2,
+                "8": 3,
+                "9": 89
+            }
+        },
+        "school_name": "MUSTAFA ÇUKUR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1191,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/9026_cb_1093577973_1684087566011545431.jpg",
+            "submission_id": 338002,
+            "total_vote": 303,
+            "votes": {
+                "1": 130,
+                "2": 2,
+                "3": 151,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/9026_mv_1083577973_1684087523639583297.jpg",
+            "submission_id": 336682,
+            "total_vote": 288,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 16,
+                "12": 22,
+                "13": 7,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 2,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 90,
+                "22": 26,
+                "23": 3,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 2,
+                "8": 2,
+                "9": 99
+            }
+        },
+        "school_name": "MUSTAFA ÇUKUR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1201,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/9026_bulk_999999999_1684086659036244003.jpeg",
+            "submission_id": 307048,
+            "total_vote": 333,
+            "votes": {
+                "1": 143,
+                "3": 171,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "MUSTAFA ÇUKUR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1195,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68363_cb_1093578637_1684079924061832872.jpg",
+            "submission_id": 178946,
+            "total_vote": 331,
+            "votes": {
+                "1": 120,
+                "2": 1,
+                "3": 187,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68363_mv_1083578637_1684086156197105494.jpg",
+            "submission_id": 289944,
+            "total_vote": 326,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 14,
+                "12": 23,
+                "13": 29,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 106,
+                "22": 30,
+                "23": 1,
+                "24": 13,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 5,
+                "9": 98
+            }
+        },
+        "school_name": "MUSTAFA ÇUKUR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1204,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/9026_cb_1093578646_1684088718934485982.jpg",
+            "submission_id": 374232,
+            "total_vote": 326,
+            "votes": {
+                "1": 131,
+                "3": 178,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/9026_mv_1083578646_1684088638236287660.jpg",
+            "submission_id": 371846,
+            "total_vote": 313,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 22,
+                "12": 17,
+                "13": 18,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 97,
+                "22": 44,
+                "23": 0,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 0,
+                "8": 2,
+                "9": 105
+            }
+        },
+        "school_name": "MUSTAFA ÇUKUR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1200,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/9026_cb_1093578642_1684088161445929448.jpg",
+            "submission_id": 357162,
+            "total_vote": 327,
+            "votes": {
+                "1": 124,
+                "2": 1,
+                "3": 186,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/9026_mv_1083578642_1684088195162571201.jpg",
+            "submission_id": 358128,
+            "total_vote": 324,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 29,
+                "12": 27,
+                "13": 20,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 94,
+                "22": 35,
+                "23": 0,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 6,
+                "8": 1,
+                "9": 98
+            }
+        },
+        "school_name": "MUSTAFA ÇUKUR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1194,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/9026_cb_1093578636_1684087176335826022.jpg",
+            "submission_id": 325222,
+            "total_vote": 341,
+            "votes": {
+                "1": 120,
+                "2": 2,
+                "3": 201,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/9026_mv_1083578636_1684087373282841449.jpg",
+            "submission_id": 331826,
+            "total_vote": 338,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 20,
+                "12": 20,
+                "13": 20,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 3,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 128,
+                "22": 32,
+                "23": 1,
+                "24": 11,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 3,
+                "7": 4,
+                "8": 1,
+                "9": 92
+            }
+        },
+        "school_name": "MUSTAFA ÇUKUR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1207,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/9026_bulk_999999999_1684082991399205273.jpeg",
+            "submission_id": 208571,
+            "total_vote": 336,
+            "votes": {
+                "1": 130,
+                "2": 2,
+                "3": 181,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/9026_bulk_999999999_1684082991607433002.jpeg",
+            "submission_id": 208572,
+            "total_vote": 333,
+            "votes": {
+                "10": 3,
+                "11": 20,
+                "12": 26,
+                "13": 11,
+                "21": 101,
+                "22": 39,
+                "24": 7,
+                "3": 1,
+                "5": 1,
+                "6": 3,
+                "7": 5,
+                "8": 6,
+                "9": 110
+            }
+        },
+        "school_name": "MUSTAFA ÇUKUR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1193,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/9026_bulk_999999999_1684081972701597075.jpeg",
+            "submission_id": 194273,
+            "total_vote": 325,
+            "votes": {
+                "1": 119,
+                "2": 1,
+                "3": 187,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/9026_bulk_999999999_1684089294413418253.jpeg",
+            "submission_id": 390762,
+            "total_vote": 322,
+            "votes": {
+                "1": 1,
+                "10": 5,
+                "11": 14,
+                "12": 16,
+                "13": 15,
+                "14": 0,
+                "15": 2,
+                "16": 1,
+                "17": 1,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 132,
+                "22": 29,
+                "23": 2,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 6,
+                "9": 85
+            }
+        },
+        "school_name": "MUSTAFA ÇUKUR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1206,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16973_cb_1093578648_1684087571293356529.jpg",
+            "submission_id": 338195,
+            "total_vote": 326,
+            "votes": {
+                "1": 119,
+                "2": 1,
+                "3": 182,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16973_mv_1083578648_1684088057714200057.jpg",
+            "submission_id": 353837,
+            "total_vote": 324,
+            "votes": {
+                "10": 5,
+                "11": 20,
+                "12": 30,
+                "13": 18,
+                "21": 112,
+                "22": 22,
+                "24": 13,
+                "7": 5,
+                "8": 2,
+                "9": 97
+            }
+        },
+        "school_name": "MUSTAFA ÇUKUR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1203,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/9053_cb_1093578645_1684081968860350955.jpg",
+            "submission_id": 194229,
+            "total_vote": 334,
+            "votes": {
+                "1": 144,
+                "2": 0,
+                "3": 168,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/9026_mv_1083578645_1684089438923752047.jpg",
+            "submission_id": 394516,
+            "total_vote": 325,
+            "votes": {
+                "10": 2,
+                "11": 18,
+                "12": 30,
+                "13": 18,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "20": 0,
+                "21": 92,
+                "22": 25,
+                "23": 0,
+                "24": 13,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 5,
+                "8": 4,
+                "9": 114
+            }
+        },
+        "school_name": "MUSTAFA ÇUKUR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1196,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/9026_cb_1093578638_1684087610364884874.jpg",
+            "submission_id": 339413,
+            "total_vote": 337,
+            "votes": {
+                "1": 116,
+                "3": 184,
+                "4": 37
+            }
+        },
+        "mv_result": null,
+        "school_name": "MUSTAFA ÇUKUR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1205,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/16954_bulk_999999999_1684085509108801175.jpeg",
+            "submission_id": 268872,
+            "total_vote": 324,
+            "votes": {
+                "1": 133,
+                "2": 1,
+                "3": 178,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16954_mv_1083578647_1684088845372410591.jpg",
+            "submission_id": 377960,
+            "total_vote": 321,
+            "votes": {
+                "1": 0,
+                "10": 9,
+                "11": 18,
+                "12": 27,
+                "13": 27,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "2": 0,
+                "21": 100,
+                "22": 29,
+                "23": 0,
+                "24": 8,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "7": 3,
+                "8": 4,
+                "9": 94
+            }
+        },
+        "school_name": "MUSTAFA ÇUKUR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1199,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/9026_cb_1093578641_1684084013820850996.jpg",
+            "submission_id": 228420,
+            "total_vote": 317,
+            "votes": {
+                "1": 136,
+                "2": 1,
+                "3": 155,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/9026_mv_1083578641_1684086284987269053.jpg",
+            "submission_id": 294232,
+            "total_vote": 307,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 33,
+                "12": 25,
+                "13": 12,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 99,
+                "22": 17,
+                "23": 0,
+                "24": 10,
+                "3": 3,
+                "4": 1,
+                "5": 1,
+                "6": 1,
+                "7": 4,
+                "8": 7,
+                "9": 89
+            }
+        },
+        "school_name": "MUSTAFA ÇUKUR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1202,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/9026_cb_1093578644_1684088023216740583.jpg",
+            "submission_id": 352717,
+            "total_vote": 321,
+            "votes": {
+                "1": 157,
+                "2": 1,
+                "3": 149,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "MUSTAFA ÇUKUR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1198,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16640_cb_1093578640_1684087627416978667.jpg",
+            "submission_id": 339924,
+            "total_vote": 324,
+            "votes": {
+                "1": 130,
+                "2": 0,
+                "3": 173,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16640_mv_1083578640_1684091616333752069.jpg",
+            "submission_id": 443079,
+            "total_vote": 325,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 30,
+                "12": 15,
+                "13": 11,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 111,
+                "22": 37,
+                "23": 1,
+                "24": 15,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 3,
+                "7": 2,
+                "8": 1,
+                "9": 90
+            }
+        },
+        "school_name": "MUSTAFA ÇUKUR ORTAOKULU"
+    }
+]

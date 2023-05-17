@@ -1,0 +1,863 @@
+[
+    {
+        "ballot_box_number": 1279,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21044_cb_1093580145_1684083265827111201.jpg",
+            "submission_id": 213324,
+            "total_vote": 340,
+            "votes": {
+                "1": 90,
+                "2": 2,
+                "3": 231,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/84264_mv_1083580145_1684084614270193301.jpg",
+            "submission_id": 243516,
+            "total_vote": 338,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 11,
+                "12": 17,
+                "13": 29,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 141,
+                "22": 41,
+                "23": 1,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 4,
+                "8": 2,
+                "9": 78
+            }
+        },
+        "school_name": "ŞEHİT ONBAŞI ALİ GÜNER YEŞİLBAĞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1275,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21044_cb_1093580141_1684083426176957080.jpg",
+            "submission_id": 216396,
+            "total_vote": 326,
+            "votes": {
+                "1": 75,
+                "3": 236,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/84298_mv_1083580141_1684083443501180348.jpg",
+            "submission_id": 216719,
+            "total_vote": 323,
+            "votes": {
+                "1": 1,
+                "11": 18,
+                "12": 11,
+                "13": 19,
+                "15": 1,
+                "21": 165,
+                "22": 33,
+                "24": 7,
+                "4": 2,
+                "6": 1,
+                "7": 6,
+                "9": 59
+            }
+        },
+        "school_name": "ŞEHİT ONBAŞI ALİ GÜNER YEŞİLBAĞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1259,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26779_cb_1093579585_1684085902794756371.jpg",
+            "submission_id": 281892,
+            "total_vote": 342,
+            "votes": {
+                "1": 102,
+                "2": 5,
+                "3": 209,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/84264_mv_1083579585_1684086656084358621.jpg",
+            "submission_id": 306940,
+            "total_vote": 340,
+            "votes": {
+                "1": 3,
+                "10": 6,
+                "11": 24,
+                "12": 8,
+                "13": 24,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 143,
+                "22": 34,
+                "23": 1,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 9,
+                "8": 3,
+                "9": 72
+            }
+        },
+        "school_name": "ŞEHİT ONBAŞI ALİ GÜNER YEŞİLBAĞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1264,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21044_cb_1093579590_1684085099777005572.jpg",
+            "submission_id": 256972,
+            "total_vote": 346,
+            "votes": {
+                "1": 91,
+                "3": 234,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21044_mv_1083579590_1684086639577928947.jpg",
+            "submission_id": 306408,
+            "total_vote": 341,
+            "votes": {
+                "10": 4,
+                "11": 9,
+                "12": 12,
+                "13": 28,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "21": 132,
+                "22": 61,
+                "23": 1,
+                "24": 6,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 6,
+                "8": 2,
+                "9": 78
+            }
+        },
+        "school_name": "ŞEHİT ONBAŞI ALİ GÜNER YEŞİLBAĞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1263,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/84298_cb_1093579589_1684083104951687552.jpg",
+            "submission_id": 210474,
+            "total_vote": 345,
+            "votes": {
+                "1": 102,
+                "2": 1,
+                "3": 224,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21044_mv_1083579589_1684088980416773399.jpg",
+            "submission_id": 381921,
+            "total_vote": 339,
+            "votes": {
+                "10": 1,
+                "11": 16,
+                "12": 12,
+                "13": 25,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "20": 0,
+                "21": 156,
+                "22": 24,
+                "23": 2,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 3,
+                "8": 1,
+                "9": 85
+            }
+        },
+        "school_name": "ŞEHİT ONBAŞI ALİ GÜNER YEŞİLBAĞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1256,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/84264_bulk_999999999_1684087742987540885.jpg",
+            "submission_id": 343757,
+            "total_vote": 340,
+            "votes": {
+                "1": 99,
+                "3": 231,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21044_mv_1083579582_1684088454706455249.jpg",
+            "submission_id": 366070,
+            "total_vote": 331,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 10,
+                "12": 14,
+                "13": 20,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "20": 2,
+                "21": 144,
+                "22": 47,
+                "23": 1,
+                "24": 4,
+                "3": 0,
+                "5": 0,
+                "6": 2,
+                "7": 1,
+                "8": 3,
+                "9": 82
+            }
+        },
+        "school_name": "ŞEHİT ONBAŞI ALİ GÜNER YEŞİLBAĞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1271,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21044_cb_1093580137_1684084421361757153.jpg",
+            "submission_id": 238567,
+            "total_vote": 334,
+            "votes": {
+                "1": 86,
+                "2": 1,
+                "3": 228,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ONBAŞI ALİ GÜNER YEŞİLBAĞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1277,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21044_cb_1093580143_1684083048999387646.jpg",
+            "submission_id": 209553,
+            "total_vote": 321,
+            "votes": {
+                "1": 81,
+                "2": 1,
+                "3": 209,
+                "4": 30
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21044_mv_1083580143_1684083078343130860.jpg",
+            "submission_id": 210048,
+            "total_vote": 321,
+            "votes": {
+                "10": 2,
+                "11": 14,
+                "12": 13,
+                "13": 20,
+                "15": 1,
+                "19": 2,
+                "21": 125,
+                "22": 45,
+                "24": 26,
+                "3": 1,
+                "4": 1,
+                "7": 5,
+                "9": 66
+            }
+        },
+        "school_name": "ŞEHİT ONBAŞI ALİ GÜNER YEŞİLBAĞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1260,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/84264_cb_1093579586_1684086386349098929.jpg",
+            "submission_id": 297575,
+            "total_vote": 332,
+            "votes": {
+                "1": 97,
+                "2": 4,
+                "3": 212,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26779_mv_1083579586_1684087993046955656.jpg",
+            "submission_id": 351731,
+            "total_vote": 334,
+            "votes": {
+                "1": 0,
+                "10": 71,
+                "11": 3,
+                "12": 15,
+                "13": 7,
+                "14": 21,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 141,
+                "22": 50,
+                "23": 0,
+                "24": 9,
+                "3": 3,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 9,
+                "8": 1,
+                "9": 0
+            }
+        },
+        "school_name": "ŞEHİT ONBAŞI ALİ GÜNER YEŞİLBAĞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1274,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/84298_cb_1093580140_1684087444885090395.jpg",
+            "submission_id": 334125,
+            "total_vote": 348,
+            "votes": {
+                "1": 86,
+                "2": 3,
+                "3": 236,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21044_mv_1083580140_1684087551356285544.jpg",
+            "submission_id": 337524,
+            "total_vote": 343,
+            "votes": {
+                "10": 1,
+                "11": 20,
+                "12": 13,
+                "13": 24,
+                "19": 1,
+                "21": 151,
+                "22": 55,
+                "24": 7,
+                "6": 1,
+                "7": 5,
+                "9": 65
+            }
+        },
+        "school_name": "ŞEHİT ONBAŞI ALİ GÜNER YEŞİLBAĞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1257,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26779_cb_1093579583_1684088445031054664.jpg",
+            "submission_id": 365770,
+            "total_vote": 313,
+            "votes": {
+                "1": 70,
+                "2": 2,
+                "3": 222,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ONBAŞI ALİ GÜNER YEŞİLBAĞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1266,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/84264_cb_1093579592_1684083072371897105.jpg",
+            "submission_id": 209925,
+            "total_vote": 338,
+            "votes": {
+                "1": 94,
+                "2": 1,
+                "3": 222,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/84264_mv_1083579592_1684085440746672643.jpg",
+            "submission_id": 266811,
+            "total_vote": 332,
+            "votes": {
+                "10": 3,
+                "11": 19,
+                "12": 9,
+                "13": 23,
+                "14": 1,
+                "18": 1,
+                "21": 138,
+                "22": 44,
+                "23": 1,
+                "24": 10,
+                "3": 3,
+                "7": 6,
+                "9": 74
+            }
+        },
+        "school_name": "ŞEHİT ONBAŞI ALİ GÜNER YEŞİLBAĞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1262,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21044_cb_1093579588_1684088183829493898.jpg",
+            "submission_id": 357794,
+            "total_vote": 339,
+            "votes": {
+                "1": 86,
+                "2": 1,
+                "3": 234,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21044_mv_1083579588_1684088117123095241.jpg",
+            "submission_id": 355736,
+            "total_vote": 336,
+            "votes": {
+                "10": 5,
+                "11": 13,
+                "12": 15,
+                "13": 24,
+                "21": 144,
+                "22": 44,
+                "23": 1,
+                "24": 9,
+                "6": 1,
+                "7": 4,
+                "8": 3,
+                "9": 73
+            }
+        },
+        "school_name": "ŞEHİT ONBAŞI ALİ GÜNER YEŞİLBAĞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1272,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21044_cb_1093580138_1684079539656893818.jpg",
+            "submission_id": 177382,
+            "total_vote": 348,
+            "votes": {
+                "1": 69,
+                "2": 4,
+                "3": 256,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/50321_mv_1083580138_1684085349366353683.jpg",
+            "submission_id": 264184,
+            "total_vote": 345,
+            "votes": {
+                "10": 1,
+                "11": 12,
+                "12": 9,
+                "13": 34,
+                "15": 1,
+                "21": 147,
+                "22": 69,
+                "24": 9,
+                "4": 1,
+                "6": 3,
+                "7": 5,
+                "9": 54
+            }
+        },
+        "school_name": "ŞEHİT ONBAŞI ALİ GÜNER YEŞİLBAĞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1258,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26779_cb_1093579584_1684086209150576226.jpg",
+            "submission_id": 291750,
+            "total_vote": 318,
+            "votes": {
+                "1": 83,
+                "2": 2,
+                "3": 222,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26779_mv_1083579584_1684084836507974807.jpg",
+            "submission_id": 249506,
+            "total_vote": 320,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 10,
+                "12": 11,
+                "13": 22,
+                "14": 1,
+                "15": 1,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 139,
+                "22": 42,
+                "23": 0,
+                "24": 9,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 5,
+                "8": 4,
+                "9": 67
+            }
+        },
+        "school_name": "ŞEHİT ONBAŞI ALİ GÜNER YEŞİLBAĞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1261,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26779_cb_1093579587_1684084641776086896.jpg",
+            "submission_id": 244272,
+            "total_vote": 342,
+            "votes": {
+                "1": 77,
+                "2": 1,
+                "3": 233,
+                "4": 31
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26779_mv_1083579587_1684084682457813524.jpg",
+            "submission_id": 245414,
+            "total_vote": 342,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 16,
+                "12": 24,
+                "13": 16,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 154,
+                "22": 46,
+                "23": 3,
+                "24": 18,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 4,
+                "8": 0,
+                "9": 57
+            }
+        },
+        "school_name": "ŞEHİT ONBAŞI ALİ GÜNER YEŞİLBAĞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1270,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/84264_cb_1093580136_1684085899796475328.jpg",
+            "submission_id": 281781,
+            "total_vote": 338,
+            "votes": {
+                "1": 82,
+                "3": 235,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/84298_mv_1083580136_1684085774149853293.jpg",
+            "submission_id": 277539,
+            "total_vote": 334,
+            "votes": {
+                "10": 1,
+                "11": 16,
+                "12": 11,
+                "13": 30,
+                "21": 141,
+                "22": 52,
+                "24": 14,
+                "3": 2,
+                "7": 2,
+                "9": 65
+            }
+        },
+        "school_name": "ŞEHİT ONBAŞI ALİ GÜNER YEŞİLBAĞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1269,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/84298_cb_1093580135_1684085293249073727.jpg",
+            "submission_id": 262545,
+            "total_vote": 337,
+            "votes": {
+                "1": 88,
+                "2": 1,
+                "3": 219,
+                "4": 29
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ONBAŞI ALİ GÜNER YEŞİLBAĞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1267,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21044_cb_1093579593_1684087230168533024.jpg",
+            "submission_id": 327039,
+            "total_vote": 337,
+            "votes": {
+                "1": 94,
+                "3": 227,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/84298_mv_1083579593_1684088620072831904.jpg",
+            "submission_id": 371216,
+            "total_vote": 335,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 19,
+                "12": 5,
+                "13": 33,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 148,
+                "22": 43,
+                "23": 2,
+                "24": 8,
+                "3": 1,
+                "4": 1,
+                "5": 1,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 69
+            }
+        },
+        "school_name": "ŞEHİT ONBAŞI ALİ GÜNER YEŞİLBAĞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1265,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21044_cb_1093579591_1684079686449438844.jpg",
+            "submission_id": 177918,
+            "total_vote": 342,
+            "votes": {
+                "1": 94,
+                "3": 229,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/84298_mv_1083579591_1684081978644349185.jpg",
+            "submission_id": 194347,
+            "total_vote": 336,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 15,
+                "12": 12,
+                "13": 16,
+                "20": 1,
+                "21": 147,
+                "22": 44,
+                "23": 3,
+                "24": 13,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 78
+            }
+        },
+        "school_name": "ŞEHİT ONBAŞI ALİ GÜNER YEŞİLBAĞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1278,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/84264_cb_1093580144_1684087486941661495.jpg",
+            "submission_id": 335470,
+            "total_vote": 338,
+            "votes": {
+                "1": 93,
+                "2": 3,
+                "3": 227,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/84298_mv_1083580144_1684087713000090882.jpg",
+            "submission_id": 342821,
+            "total_vote": 336,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 17,
+                "12": 17,
+                "13": 20,
+                "20": 1,
+                "21": 140,
+                "22": 49,
+                "24": 8,
+                "7": 10,
+                "8": 3,
+                "9": 66
+            }
+        },
+        "school_name": "ŞEHİT ONBAŞI ALİ GÜNER YEŞİLBAĞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1268,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21044_cb_1093579594_1684086734334447015.jpg",
+            "submission_id": 309749,
+            "total_vote": 343,
+            "votes": {
+                "1": 77,
+                "2": 1,
+                "3": 241,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21044_mv_1083579594_1684086771413829843.jpg",
+            "submission_id": 311057,
+            "total_vote": 339,
+            "votes": {
+                "1": 2,
+                "10": 2,
+                "11": 13,
+                "12": 18,
+                "13": 27,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 3,
+                "2": 0,
+                "20": 1,
+                "21": 141,
+                "22": 50,
+                "23": 1,
+                "24": 10,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 9,
+                "8": 1,
+                "9": 58
+            }
+        },
+        "school_name": "ŞEHİT ONBAŞI ALİ GÜNER YEŞİLBAĞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1276,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21044_cb_1093580142_1684083329829296372.jpg",
+            "submission_id": 214476,
+            "total_vote": 340,
+            "votes": {
+                "1": 73,
+                "2": 1,
+                "3": 246,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21044_mv_1083580142_1684083359841396782.jpg",
+            "submission_id": 215084,
+            "total_vote": 333,
+            "votes": {
+                "10": 2,
+                "11": 8,
+                "12": 17,
+                "13": 26,
+                "15": 1,
+                "21": 153,
+                "22": 50,
+                "24": 12,
+                "3": 1,
+                "9": 63
+            }
+        },
+        "school_name": "ŞEHİT ONBAŞI ALİ GÜNER YEŞİLBAĞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1273,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21044_cb_1093580139_1684080128398626877.jpg",
+            "submission_id": 179906,
+            "total_vote": 349,
+            "votes": {
+                "1": 84,
+                "2": 1,
+                "3": 239,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21044_mv_1083580139_1684087122653474896.jpg",
+            "submission_id": 323350,
+            "total_vote": 346,
+            "votes": {
+                "10": 1,
+                "11": 17,
+                "12": 14,
+                "13": 25,
+                "14": 1,
+                "20": 1,
+                "21": 157,
+                "22": 42,
+                "23": 2,
+                "24": 19,
+                "6": 4,
+                "7": 2,
+                "8": 1,
+                "9": 60
+            }
+        },
+        "school_name": "ŞEHİT ONBAŞI ALİ GÜNER YEŞİLBAĞ ORTAOKULU"
+    }
+]

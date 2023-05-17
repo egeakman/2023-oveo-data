@@ -1,0 +1,298 @@
+[
+    {
+        "ballot_box_number": 2440,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/41800_bulk_999999999_1684081760867063249.jpg",
+            "submission_id": 192012,
+            "total_vote": 305,
+            "votes": {
+                "1": 40,
+                "2": 3,
+                "3": 250,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41800_mv_1083801774_1684086033376899599.jpg",
+            "submission_id": 286041,
+            "total_vote": 298,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 8,
+                "12": 31,
+                "13": 0,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 188,
+                "22": 18,
+                "23": 0,
+                "24": 9,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 3,
+                "7": 2,
+                "8": 2,
+                "9": 30
+            }
+        },
+        "school_name": "UZUNDERE SABİHA YORGANCILAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2437,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41800_cb_1093801771_1684079971931388507.jpg",
+            "submission_id": 179158,
+            "total_vote": 308,
+            "votes": {
+                "1": 63,
+                "2": 4,
+                "3": 236,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41800_mv_1083801771_1684080148969561589.jpg",
+            "submission_id": 180031,
+            "total_vote": 307,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 6,
+                "12": 31,
+                "14": 1,
+                "15": 5,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 164,
+                "22": 34,
+                "23": 0,
+                "24": 1,
+                "3": 0,
+                "4": 2,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 2,
+                "9": 49
+            }
+        },
+        "school_name": "UZUNDERE SABİHA YORGANCILAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2443,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41800_cb_1093801877_1684083152864444874.jpg",
+            "submission_id": 211304,
+            "total_vote": 307,
+            "votes": {
+                "1": 62,
+                "2": 0,
+                "3": 234,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41800_mv_1083801877_1684082889812307744.jpg",
+            "submission_id": 206880,
+            "total_vote": 308,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 7,
+                "12": 20,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 2,
+                "21": 171,
+                "22": 37,
+                "23": 1,
+                "24": 7,
+                "3": 2,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 3,
+                "9": 49
+            }
+        },
+        "school_name": "UZUNDERE SABİHA YORGANCILAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2438,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/41800_bulk_999999999_1684084503910678753.jpg",
+            "submission_id": 240600,
+            "total_vote": 305,
+            "votes": {
+                "1": 45,
+                "2": 2,
+                "3": 250,
+                "4": 8
+            }
+        },
+        "mv_result": null,
+        "school_name": "UZUNDERE SABİHA YORGANCILAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2439,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41800_cb_1093801773_1684080385013119588.jpg",
+            "submission_id": 181339,
+            "total_vote": 310,
+            "votes": {
+                "1": 47,
+                "2": 0,
+                "3": 250,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41800_mv_1083801773_1684085027184905727.jpg",
+            "submission_id": 254943,
+            "total_vote": 308,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 4,
+                "12": 20,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 203,
+                "22": 23,
+                "23": 0,
+                "24": 10,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 5,
+                "9": 35
+            }
+        },
+        "school_name": "UZUNDERE SABİHA YORGANCILAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2436,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41800_cb_1093801770_1684085284210859797.jpg",
+            "submission_id": 262280,
+            "total_vote": 312,
+            "votes": {
+                "1": 62,
+                "2": 2,
+                "3": 236,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/41800_bulk_999999999_1684085482502999063.jpg",
+            "submission_id": 268054,
+            "total_vote": 311,
+            "votes": {
+                "10": 7,
+                "11": 17,
+                "21": 172,
+                "22": 44,
+                "24": 7,
+                "3": 1,
+                "4": 1,
+                "5": 2,
+                "6": 3,
+                "7": 6,
+                "8": 47,
+                "9": 4
+            }
+        },
+        "school_name": "UZUNDERE SABİHA YORGANCILAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2442,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41800_cb_1093801876_1684081998229890301.jpg",
+            "submission_id": 194566,
+            "total_vote": 313,
+            "votes": {
+                "1": 52,
+                "3": 243,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "UZUNDERE SABİHA YORGANCILAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2441,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/41800_bulk_999999999_1684084230778552511.jpg",
+            "submission_id": 233723,
+            "total_vote": 322,
+            "votes": {
+                "1": 69,
+                "2": 1,
+                "3": 241,
+                "4": 11
+            }
+        },
+        "mv_result": null,
+        "school_name": "UZUNDERE SABİHA YORGANCILAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2435,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41800_cb_1093801769_1684085779221671709.jpg",
+            "submission_id": 277725,
+            "total_vote": 298,
+            "votes": {
+                "1": 47,
+                "2": 1,
+                "3": 246,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41800_mv_1083801769_1684085689284167276.jpg",
+            "submission_id": 274720,
+            "total_vote": 295,
+            "votes": {
+                "10": 9,
+                "11": 6,
+                "12": 10,
+                "19": 1,
+                "2": 1,
+                "20": 2,
+                "21": 212,
+                "22": 15,
+                "24": 6,
+                "7": 3,
+                "8": 1,
+                "9": 29
+            }
+        },
+        "school_name": "UZUNDERE SABİHA YORGANCILAR İLKOKULU"
+    }
+]

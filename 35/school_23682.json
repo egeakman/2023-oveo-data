@@ -1,0 +1,318 @@
+[
+    {
+        "ballot_box_number": 1084,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21249_cb_1093573978_1684082750390520839.jpg",
+            "submission_id": 204639,
+            "total_vote": 338,
+            "votes": {
+                "1": 131,
+                "2": 1,
+                "3": 180,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21249_mv_1083573978_1684086081743830789.jpg",
+            "submission_id": 287573,
+            "total_vote": 336,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 12,
+                "12": 26,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 0,
+                "21": 110,
+                "22": 40,
+                "23": 2,
+                "24": 22,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 6,
+                "7": 3,
+                "8": 7,
+                "9": 100
+            }
+        },
+        "school_name": "9 EYLÜL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1087,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10117_cb_1093573981_1684083120401943733.jpg",
+            "submission_id": 210748,
+            "total_vote": 323,
+            "votes": {
+                "1": 89,
+                "3": 191,
+                "4": 43
+            }
+        },
+        "mv_result": null,
+        "school_name": "9 EYLÜL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1085,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21249_cb_1093573979_1684079456604138096.jpg",
+            "submission_id": 177072,
+            "total_vote": 334,
+            "votes": {
+                "1": 115,
+                "2": 1,
+                "3": 188,
+                "4": 30
+            }
+        },
+        "mv_result": null,
+        "school_name": "9 EYLÜL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1088,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21249_cb_1093573982_1684079742091291584.jpg",
+            "submission_id": 178139,
+            "total_vote": 338,
+            "votes": {
+                "1": 113,
+                "2": 0,
+                "3": 200,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21249_mv_1083573982_1684079785055420616.jpg",
+            "submission_id": 178329,
+            "total_vote": 335,
+            "votes": {
+                "1": 2,
+                "10": 4,
+                "11": 9,
+                "12": 45,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 1,
+                "21": 120,
+                "22": 41,
+                "23": 0,
+                "24": 9,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 2,
+                "9": 93
+            }
+        },
+        "school_name": "9 EYLÜL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1082,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21249_cb_1093573976_1684085563388629129.jpg",
+            "submission_id": 270563,
+            "total_vote": 338,
+            "votes": {
+                "1": 97,
+                "2": 3,
+                "3": 212,
+                "4": 26
+            }
+        },
+        "mv_result": null,
+        "school_name": "9 EYLÜL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1086,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21249_cb_1093573980_1684084469002665435.jpg",
+            "submission_id": 239697,
+            "total_vote": 339,
+            "votes": {
+                "1": 121,
+                "3": 196,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21249_mv_1083573980_1684086991602647810.jpg",
+            "submission_id": 318637,
+            "total_vote": 340,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 14,
+                "12": 48,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 113,
+                "22": 41,
+                "23": 0,
+                "24": 11,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "8": 5,
+                "9": 98
+            }
+        },
+        "school_name": "9 EYLÜL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1089,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48799_cb_1093573983_1684082132819280442.jpg",
+            "submission_id": 196257,
+            "total_vote": 338,
+            "votes": {
+                "1": 115,
+                "2": 2,
+                "3": 207,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48799_mv_1083573983_1684084419897926186.jpg",
+            "submission_id": 238534,
+            "total_vote": 327,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 13,
+                "12": 37,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 119,
+                "22": 46,
+                "23": 1,
+                "24": 6,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 2,
+                "7": 6,
+                "8": 0,
+                "9": 90
+            }
+        },
+        "school_name": "9 EYLÜL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1083,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21249_cb_1093573977_1684085492371202202.jpg",
+            "submission_id": 268357,
+            "total_vote": 344,
+            "votes": {
+                "1": 109,
+                "2": 1,
+                "3": 174,
+                "4": 60
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21249_mv_1083573977_1684085456349419628.jpg",
+            "submission_id": 267294,
+            "total_vote": 338,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 18,
+                "12": 13,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 123,
+                "22": 39,
+                "23": 2,
+                "24": 41,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 8,
+                "8": 2,
+                "9": 87
+            }
+        },
+        "school_name": "9 EYLÜL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1081,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21249_cb_1093573975_1684080368080092005.jpg",
+            "submission_id": 181236,
+            "total_vote": 311,
+            "votes": {
+                "1": 125,
+                "2": 0,
+                "3": 171,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21249_mv_1083573975_1684086792572107362.jpg",
+            "submission_id": 311811,
+            "total_vote": 311,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 20,
+                "12": 24,
+                "14": 1,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 2,
+                "20": 112,
+                "21": 38,
+                "22": 0,
+                "23": 8,
+                "24": 0,
+                "3": 4,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 3,
+                "9": 90
+            }
+        },
+        "school_name": "9 EYLÜL İLKOKULU"
+    }
+]

@@ -1,0 +1,135 @@
+[
+    {
+        "ballot_box_number": 2006,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a686300c-b8c2-408a-9712-91b5a275f1cb-1684105276885188878.jpg",
+            "submission_id": 609898,
+            "total_vote": 299,
+            "votes": {
+                "1": 90,
+                "2": 2,
+                "3": 201,
+                "4": 6
+            }
+        },
+        "mv_result": null,
+        "school_name": "ESKİ BİMTAŞ MARKET 19 MAYIS MAH. 737 SOKAK NO: 60/A"
+    },
+    {
+        "ballot_box_number": 2002,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/fdba8f9f-a867-4b09-97ea-5ebbe29f81c5-1684106100555894368.jpg",
+            "submission_id": 738226,
+            "total_vote": 281,
+            "votes": {
+                "10": 0,
+                "11": 9,
+                "12": 107,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 48,
+                "22": 12,
+                "23": 1,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 3,
+                "6": 1,
+                "7": 0,
+                "8": 0,
+                "9": 93
+            }
+        },
+        "school_name": "ESKİ BİMTAŞ MARKET 19 MAYIS MAH. 737 SOKAK NO: 60/A"
+    },
+    {
+        "ballot_box_number": 2005,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5257f323-5114-46b1-84a3-6ea9e986c723-1684105615884418113.jpg",
+            "submission_id": 667613,
+            "total_vote": 300,
+            "votes": {
+                "1": 114,
+                "2": 2,
+                "3": 173,
+                "4": 11
+            }
+        },
+        "mv_result": null,
+        "school_name": "ESKİ BİMTAŞ MARKET 19 MAYIS MAH. 737 SOKAK NO: 60/A"
+    },
+    {
+        "ballot_box_number": 2001,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/dcbcacb7-5ac4-4102-882e-f5482847ad3c-1684105947894497140.jpg",
+            "submission_id": 717244,
+            "total_vote": 282,
+            "votes": {
+                "1": 111,
+                "2": 3,
+                "3": 160,
+                "4": 8
+            }
+        },
+        "mv_result": null,
+        "school_name": "ESKİ BİMTAŞ MARKET 19 MAYIS MAH. 737 SOKAK NO: 60/A"
+    },
+    {
+        "ballot_box_number": 2003,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "ESKİ BİMTAŞ MARKET 19 MAYIS MAH. 737 SOKAK NO: 60/A"
+    },
+    {
+        "ballot_box_number": 2004,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/af89e919-2f1f-45fa-b881-f221e6cb09b1-1684106170044399793.jpg",
+            "submission_id": 748627,
+            "total_vote": 297,
+            "votes": {
+                "1": 103,
+                "2": 1,
+                "3": 185,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/30da3f80-9be6-4157-b8bb-484f8b588985-1684106167290828515.jpg",
+            "submission_id": 748221,
+            "total_vote": 285,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 5,
+                "12": 116,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 54,
+                "22": 15,
+                "23": 1,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 2,
+                "8": 2,
+                "9": 81
+            }
+        },
+        "school_name": "ESKİ BİMTAŞ MARKET 19 MAYIS MAH. 737 SOKAK NO: 60/A"
+    }
+]

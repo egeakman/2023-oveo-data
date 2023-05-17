@@ -1,0 +1,933 @@
+[
+    {
+        "ballot_box_number": 2335,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/43502_cb_1093800869_1684085539273169042.jpg",
+            "submission_id": 269828,
+            "total_vote": 329,
+            "votes": {
+                "1": 163,
+                "2": 2,
+                "3": 141,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/43502_mv_1083800869_1684085580131585970.jpg",
+            "submission_id": 271091,
+            "total_vote": 308,
+            "votes": {
+                "10": 5,
+                "11": 22,
+                "12": 51,
+                "21": 65,
+                "22": 15,
+                "24": 10,
+                "6": 3,
+                "7": 1,
+                "8": 2,
+                "9": 134
+            }
+        },
+        "school_name": "PEKER MAHALLESİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2337,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/37885_cb_1093800871_1684088963566344988.jpg",
+            "submission_id": 381453,
+            "total_vote": 320,
+            "votes": {
+                "1": 164,
+                "2": 0,
+                "3": 142,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/37885_mv_1083800871_1684088998389604982.jpg",
+            "submission_id": 382517,
+            "total_vote": 309,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 35,
+                "12": 63,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 47,
+                "22": 25,
+                "23": 0,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 3,
+                "6": 4,
+                "7": 3,
+                "8": 2,
+                "9": 115
+            }
+        },
+        "school_name": "PEKER MAHALLESİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2334,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/37885_cb_1093800868_1684088507918174345.jpg",
+            "submission_id": 367711,
+            "total_vote": 333,
+            "votes": {
+                "1": 167,
+                "2": 3,
+                "3": 143,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/37885_mv_1083800868_1684089557958860404.jpg",
+            "submission_id": 397867,
+            "total_vote": 327,
+            "votes": {
+                "1": 1,
+                "10": 5,
+                "11": 28,
+                "12": 28,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 3,
+                "19": 60,
+                "2": 1,
+                "20": 0,
+                "21": 37,
+                "22": 20,
+                "23": 0,
+                "24": 0,
+                "4": 0,
+                "5": 1,
+                "6": 3,
+                "7": 2,
+                "8": 3,
+                "9": 134
+            }
+        },
+        "school_name": "PEKER MAHALLESİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2338,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/37885_cb_1093800872_1684088332100153888.jpg",
+            "submission_id": 362254,
+            "total_vote": 312,
+            "votes": {
+                "1": 172,
+                "2": 0,
+                "3": 116,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32915_mv_1083800872_1684089437570053991.jpg",
+            "submission_id": 394475,
+            "total_vote": 306,
+            "votes": {
+                "1": 0,
+                "10": 12,
+                "11": 22,
+                "12": 55,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 36,
+                "22": 27,
+                "23": 1,
+                "24": 12,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 2,
+                "7": 6,
+                "8": 3,
+                "9": 127
+            }
+        },
+        "school_name": "PEKER MAHALLESİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2332,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32915_cb_1093800866_1684088899093611797.jpg",
+            "submission_id": 379550,
+            "total_vote": 329,
+            "votes": {
+                "1": 177,
+                "2": 1,
+                "3": 138,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/37885_mv_1083800866_1684089233849435252.jpg",
+            "submission_id": 389079,
+            "total_vote": 326,
+            "votes": {
+                "10": 2,
+                "11": 36,
+                "12": 69,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 52,
+                "22": 20,
+                "23": 1,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 1,
+                "9": 133
+            }
+        },
+        "school_name": "PEKER MAHALLESİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2326,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/37885_cb_1093800860_1684088051315139876.jpg",
+            "submission_id": 353606,
+            "total_vote": 315,
+            "votes": {
+                "1": 176,
+                "2": 0,
+                "3": 118,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/37885_mv_1083800860_1684088107944081598.jpg",
+            "submission_id": 355419,
+            "total_vote": 305,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 24,
+                "12": 57,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 41,
+                "22": 16,
+                "23": 0,
+                "24": 14,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 2,
+                "8": 2,
+                "9": 139
+            }
+        },
+        "school_name": "PEKER MAHALLESİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2333,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21972_cb_1093800867_1684079428357586655.jpg",
+            "submission_id": 176971,
+            "total_vote": 314,
+            "votes": {
+                "1": 166,
+                "2": 3,
+                "3": 127,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32915_mv_1083800867_1684089665717204768.jpg",
+            "submission_id": 400817,
+            "total_vote": 307,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 18,
+                "12": 55,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 55,
+                "22": 15,
+                "23": 1,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 1,
+                "7": 5,
+                "8": 1,
+                "9": 141
+            }
+        },
+        "school_name": "PEKER MAHALLESİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2336,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32915_cb_1093800870_1684087120202907034.jpg",
+            "submission_id": 323269,
+            "total_vote": 318,
+            "votes": {
+                "1": 169,
+                "2": 3,
+                "3": 135,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32915_mv_1083800870_1684087070578191570.jpg",
+            "submission_id": 321451,
+            "total_vote": 306,
+            "votes": {
+                "10": 5,
+                "11": 26,
+                "12": 54,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 49,
+                "22": 27,
+                "23": 0,
+                "24": 8,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 1,
+                "8": 4,
+                "9": 126
+            }
+        },
+        "school_name": "PEKER MAHALLESİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2327,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/37885_cb_1093800861_1684086861113388706.jpg",
+            "submission_id": 314155,
+            "total_vote": 314,
+            "votes": {
+                "1": 169,
+                "2": 1,
+                "3": 125,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/37885_mv_1083800861_1684086899530496026.jpg",
+            "submission_id": 315436,
+            "total_vote": 307,
+            "votes": {
+                "10": 4,
+                "11": 24,
+                "12": 71,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "20": 0,
+                "21": 40,
+                "22": 13,
+                "23": 4,
+                "24": 6,
+                "6": 0,
+                "7": 4,
+                "8": 4,
+                "9": 136
+            }
+        },
+        "school_name": "PEKER MAHALLESİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2323,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32915_cb_1093800857_1684087678508850520.jpg",
+            "submission_id": 341694,
+            "total_vote": 320,
+            "votes": {
+                "1": 181,
+                "3": 118,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32915_mv_1083800857_1684087637116601466.jpg",
+            "submission_id": 340317,
+            "total_vote": 310,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 34,
+                "12": 64,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 41,
+                "22": 17,
+                "23": 1,
+                "24": 11,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 0,
+                "9": 135
+            }
+        },
+        "school_name": "PEKER MAHALLESİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2339,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/37885_cb_1093800873_1684086809537767585.jpg",
+            "submission_id": 312378,
+            "total_vote": 326,
+            "votes": {
+                "1": 177,
+                "2": 2,
+                "3": 132,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/37885_cb_1093800873_1684086749555569941.jpg",
+            "submission_id": 310345,
+            "total_vote": 318,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 19,
+                "12": 61,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 49,
+                "22": 20,
+                "23": 0,
+                "24": 7,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 3,
+                "8": 3,
+                "9": 148
+            }
+        },
+        "school_name": "PEKER MAHALLESİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2330,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/37885_cb_1093800864_1684088591658854472.jpg",
+            "submission_id": 370363,
+            "total_vote": 309,
+            "votes": {
+                "1": 141,
+                "2": 0,
+                "3": 158,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/37885_mv_1083800864_1684088639121541376.jpg",
+            "submission_id": 371866,
+            "total_vote": 303,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 23,
+                "12": 73,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 63,
+                "22": 20,
+                "23": 0,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 2,
+                "8": 2,
+                "9": 113
+            }
+        },
+        "school_name": "PEKER MAHALLESİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2325,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32915_cb_1093800859_1684087954856182609.jpg",
+            "submission_id": 350406,
+            "total_vote": 319,
+            "votes": {
+                "1": 172,
+                "2": 1,
+                "3": 129,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32915_mv_1083800859_1684088320211659438.jpg",
+            "submission_id": 361908,
+            "total_vote": 310,
+            "votes": {
+                "10": 8,
+                "11": 16,
+                "12": 75,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "20": 2,
+                "21": 38,
+                "22": 17,
+                "23": 0,
+                "24": 6,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 6,
+                "8": 6,
+                "9": 132
+            }
+        },
+        "school_name": "PEKER MAHALLESİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2331,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/37885_cb_1093800865_1684088742391624627.jpg",
+            "submission_id": 374953,
+            "total_vote": 330,
+            "votes": {
+                "1": 203,
+                "2": 1,
+                "3": 114,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/37885_mv_1083800865_1684088774482728917.jpg",
+            "submission_id": 375892,
+            "total_vote": 322,
+            "votes": {
+                "1": 0,
+                "10": 11,
+                "11": 22,
+                "12": 50,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 1,
+                "21": 45,
+                "22": 15,
+                "23": 0,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 2,
+                "7": 3,
+                "8": 4,
+                "9": 156
+            }
+        },
+        "school_name": "PEKER MAHALLESİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2320,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32915_cb_1093800674_1684087389819058777.jpg",
+            "submission_id": 332395,
+            "total_vote": 288,
+            "votes": {
+                "1": 142,
+                "2": 0,
+                "3": 137,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32915_mv_1083800674_1684087423707127514.jpg",
+            "submission_id": 333443,
+            "total_vote": 276,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 15,
+                "12": 25,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 17,
+                "2": 11,
+                "20": 0,
+                "21": 40,
+                "22": 18,
+                "23": 0,
+                "24": 10,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 11,
+                "8": 0,
+                "9": 123
+            }
+        },
+        "school_name": "PEKER MAHALLESİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2329,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32915_cb_1093800863_1684088718427621194.jpg",
+            "submission_id": 374218,
+            "total_vote": 316,
+            "votes": {
+                "1": 189,
+                "2": 1,
+                "3": 111,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32915_mv_1083800863_1684088756527718355.jpg",
+            "submission_id": 375392,
+            "total_vote": 319,
+            "votes": {
+                "1": 1,
+                "10": 9,
+                "11": 24,
+                "12": 57,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 44,
+                "22": 18,
+                "23": 0,
+                "24": 8,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 154
+            }
+        },
+        "school_name": "PEKER MAHALLESİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2322,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/37885_cb_1093800856_1684086303789264292.jpg",
+            "submission_id": 294875,
+            "total_vote": 313,
+            "votes": {
+                "1": 168,
+                "2": 1,
+                "3": 119,
+                "4": 25
+            }
+        },
+        "mv_result": null,
+        "school_name": "PEKER MAHALLESİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2328,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32915_cb_1093800862_1684088533576681717.jpg",
+            "submission_id": 368592,
+            "total_vote": 319,
+            "votes": {
+                "1": 189,
+                "2": 1,
+                "3": 116,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32915_mv_1083800862_1684088467388245958.jpg",
+            "submission_id": 366480,
+            "total_vote": 311,
+            "votes": {
+                "1": 1,
+                "10": 6,
+                "11": 18,
+                "12": 37,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 58,
+                "22": 19,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 0,
+                "8": 1,
+                "9": 158
+            }
+        },
+        "school_name": "PEKER MAHALLESİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2319,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32915_cb_1093800673_1684087349620101834.jpg",
+            "submission_id": 331003,
+            "total_vote": 282,
+            "votes": {
+                "1": 138,
+                "2": 2,
+                "3": 128,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32915_mv_1083800673_1684087313993315579.jpg",
+            "submission_id": 329815,
+            "total_vote": 273,
+            "votes": {
+                "1": 3,
+                "10": 9,
+                "11": 17,
+                "12": 52,
+                "14": 1,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 2,
+                "21": 56,
+                "22": 13,
+                "23": 0,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 2,
+                "9": 106
+            }
+        },
+        "school_name": "PEKER MAHALLESİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2340,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/37885_cb_1093800874_1684088714144254010.jpg",
+            "submission_id": 374107,
+            "total_vote": 317,
+            "votes": {
+                "1": 178,
+                "2": 2,
+                "3": 124,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32915_mv_1083800874_1684089578552591455.jpg",
+            "submission_id": 398476,
+            "total_vote": 315,
+            "votes": {
+                "1": 4,
+                "10": 2,
+                "11": 28,
+                "12": 75,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 1,
+                "20": 0,
+                "21": 33,
+                "22": 21,
+                "23": 1,
+                "24": 2,
+                "3": 1,
+                "4": 1,
+                "5": 1,
+                "6": 1,
+                "7": 5,
+                "8": 3,
+                "9": 134
+            }
+        },
+        "school_name": "PEKER MAHALLESİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2324,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32915_cb_1093800858_1684087866381623901.jpg",
+            "submission_id": 347569,
+            "total_vote": 321,
+            "votes": {
+                "1": 173,
+                "2": 1,
+                "3": 137,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/37885_mv_1083800868_1684088901243106592.jpg",
+            "submission_id": 379631,
+            "total_vote": 308,
+            "votes": {
+                "10": 4,
+                "11": 26,
+                "12": 71,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "2": 1,
+                "20": 0,
+                "21": 45,
+                "22": 15,
+                "23": 0,
+                "24": 4,
+                "3": 0,
+                "5": 3,
+                "6": 1,
+                "7": 4,
+                "8": 5,
+                "9": 127
+            }
+        },
+        "school_name": "PEKER MAHALLESİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2321,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32915_cb_1093800855_1684087501298471711.jpg",
+            "submission_id": 335954,
+            "total_vote": 295,
+            "votes": {
+                "1": 162,
+                "2": 1,
+                "3": 120,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32915_mv_1083800855_1684087541609322989.jpg",
+            "submission_id": 337233,
+            "total_vote": 291,
+            "votes": {
+                "1": 2,
+                "10": 3,
+                "11": 20,
+                "12": 55,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 50,
+                "22": 9,
+                "23": 4,
+                "24": 8,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 1,
+                "8": 1,
+                "9": 134
+            }
+        },
+        "school_name": "PEKER MAHALLESİ İLKOKULU"
+    }
+]

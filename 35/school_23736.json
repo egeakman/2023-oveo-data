@@ -1,0 +1,914 @@
+[
+    {
+        "ballot_box_number": 1137,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18551_cb_1093864477_1684093413865131213.jpg",
+            "submission_id": 469554,
+            "total_vote": 341,
+            "votes": {
+                "1": 50,
+                "2": 3,
+                "3": 272,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÖĞRETMEN KENAN GAMSIZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1128,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41046_cb_1093864448_1684087537696148885.jpg",
+            "submission_id": 337106,
+            "total_vote": 338,
+            "votes": {
+                "1": 57,
+                "2": 3,
+                "3": 271,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41046_mv_1083864448_1684087570882733962.jpg",
+            "submission_id": 338176,
+            "total_vote": 338,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 6,
+                "12": 7,
+                "13": 33,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 0,
+                "21": 179,
+                "22": 53,
+                "23": 0,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 5,
+                "8": 0,
+                "9": 46
+            }
+        },
+        "school_name": "ÖĞRETMEN KENAN GAMSIZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1136,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18551_mv_1083864476_1684092874908227955.jpg",
+            "submission_id": 462277,
+            "total_vote": 342,
+            "votes": {
+                "1": 43,
+                "2": 0,
+                "3": 294,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18551_mv_1083864476_1684092915839062441.jpg",
+            "submission_id": 462833,
+            "total_vote": 332,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 9,
+                "12": 3,
+                "13": 31,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 195,
+                "22": 54,
+                "23": 0,
+                "24": 1,
+                "3": 0,
+                "4": 1,
+                "5": 1,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 33
+            }
+        },
+        "school_name": "ÖĞRETMEN KENAN GAMSIZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1132,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18551_cb_1093864452_1684093526948751163.jpg",
+            "submission_id": 470910,
+            "total_vote": 337,
+            "votes": {
+                "1": 52,
+                "2": 1,
+                "3": 276,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/09422b2c-8812-4ef7-a833-7c506f2b1318-1684106354275433383.jpg",
+            "submission_id": 775763,
+            "total_vote": 334,
+            "votes": {
+                "10": 11,
+                "11": 9,
+                "12": 32,
+                "19": 1,
+                "21": 182,
+                "22": 48,
+                "23": 1,
+                "24": 8,
+                "3": 1,
+                "6": 1,
+                "7": 1,
+                "8": 38,
+                "9": 1
+            }
+        },
+        "school_name": "ÖĞRETMEN KENAN GAMSIZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1127,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/da222b77-72db-48f8-ae76-4b108418e8b2-1684106068436921062.jpeg",
+            "submission_id": 733715,
+            "total_vote": 343,
+            "votes": {
+                "1": 35,
+                "2": 1,
+                "3": 292,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/edd0032f-6912-43f7-8511-9fb3d443cd70-1684106056462706832.jpeg",
+            "submission_id": 732545,
+            "total_vote": 341,
+            "votes": {
+                "11": 4,
+                "12": 4,
+                "13": 27,
+                "2": 1,
+                "21": 203,
+                "22": 49,
+                "24": 16,
+                "3": 1,
+                "6": 2,
+                "7": 3,
+                "8": 1,
+                "9": 30
+            }
+        },
+        "school_name": "ÖĞRETMEN KENAN GAMSIZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1139,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/55522_cb_1093864479_1684087290319813536.jpg",
+            "submission_id": 329060,
+            "total_vote": 347,
+            "votes": {
+                "1": 44,
+                "2": 0,
+                "3": 293,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/55522_mv_1083864479_1684087313906980328.jpg",
+            "submission_id": 329812,
+            "total_vote": 346,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 13,
+                "12": 18,
+                "13": 36,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 189,
+                "22": 43,
+                "23": 1,
+                "24": 1,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 6,
+                "8": 0,
+                "9": 36
+            }
+        },
+        "school_name": "ÖĞRETMEN KENAN GAMSIZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1138,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/55522_cb_1093864478_1684084203570969653.jpg",
+            "submission_id": 232935,
+            "total_vote": 341,
+            "votes": {
+                "1": 47,
+                "3": 280,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/55522_mv_1083864478_1684084231044691256.jpg",
+            "submission_id": 233729,
+            "total_vote": 340,
+            "votes": {
+                "1": 2,
+                "10": 2,
+                "11": 11,
+                "12": 18,
+                "13": 36,
+                "21": 177,
+                "22": 47,
+                "23": 1,
+                "24": 6,
+                "3": 1,
+                "7": 5,
+                "9": 34
+            }
+        },
+        "school_name": "ÖĞRETMEN KENAN GAMSIZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1141,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18551_cb_1093864481_1684092548415890150.jpg",
+            "submission_id": 457973,
+            "total_vote": 343,
+            "votes": {
+                "1": 45,
+                "2": 1,
+                "3": 283,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18551_mv_1083864481_1684092571452798864.jpg",
+            "submission_id": 458296,
+            "total_vote": 342,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 8,
+                "12": 8,
+                "13": 43,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 180,
+                "22": 45,
+                "23": 1,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 4,
+                "7": 3,
+                "8": 0,
+                "9": 36
+            }
+        },
+        "school_name": "ÖĞRETMEN KENAN GAMSIZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1124,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/11e26458-e8b9-410a-92f2-e639a01ce5d1-1684106207772815945.jpg",
+            "submission_id": 754583,
+            "total_vote": 318,
+            "votes": {
+                "1": 48,
+                "2": 1,
+                "3": 263,
+                "4": 6
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÖĞRETMEN KENAN GAMSIZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1133,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18551_mv_1083864453_1684092710424915914.jpg",
+            "submission_id": 459993,
+            "total_vote": 348,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 5,
+                "12": 7,
+                "13": 42,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 192,
+                "22": 50,
+                "23": 0,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 2,
+                "9": 40
+            }
+        },
+        "school_name": "ÖĞRETMEN KENAN GAMSIZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1140,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18551_cb_1093864480_1684092489562978187.jpg",
+            "submission_id": 457117,
+            "total_vote": 346,
+            "votes": {
+                "1": 53,
+                "2": 2,
+                "3": 278,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18551_mv_1083864480_1684092615967226492.jpg",
+            "submission_id": 458813,
+            "total_vote": 345,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 14,
+                "12": 11,
+                "13": 32,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "19": 0,
+                "2": 0,
+                "21": 187,
+                "22": 41,
+                "23": 0,
+                "24": 6,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 3,
+                "8": 1,
+                "9": 45
+            }
+        },
+        "school_name": "ÖĞRETMEN KENAN GAMSIZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1130,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18551_cb_1093864450_1684092370561485287.jpg",
+            "submission_id": 455232,
+            "total_vote": 342,
+            "votes": {
+                "1": 39,
+                "2": 2,
+                "3": 285,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18551_mv_1083864450_1684092282798477147.jpg",
+            "submission_id": 453859,
+            "total_vote": 342,
+            "votes": {
+                "10": 1,
+                "11": 12,
+                "12": 16,
+                "13": 35,
+                "19": 1,
+                "21": 193,
+                "22": 47,
+                "24": 9,
+                "5": 1,
+                "6": 1,
+                "7": 4,
+                "9": 22
+            }
+        },
+        "school_name": "ÖĞRETMEN KENAN GAMSIZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1135,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18551_cb_1093864475_1684092979877659412.jpg",
+            "submission_id": 463692,
+            "total_vote": 339,
+            "votes": {
+                "1": 55,
+                "3": 273,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f249671f-71b1-487b-b80b-4014a569f912-1684105473987009801.jpeg",
+            "submission_id": 645964,
+            "total_vote": 333,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 6,
+                "12": 12,
+                "13": 25,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 2,
+                "20": 0,
+                "21": 182,
+                "22": 51,
+                "23": 0,
+                "24": 6,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 41
+            }
+        },
+        "school_name": "ÖĞRETMEN KENAN GAMSIZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1121,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/76847_bulk_999999999_1684095387286191230.jpeg",
+            "submission_id": 502471,
+            "total_vote": 328,
+            "votes": {
+                "1": 44,
+                "3": 282,
+                "4": 2
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/76847_bulk_999999999_1684095387064169515.jpeg",
+            "submission_id": 502470,
+            "total_vote": 329,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 2,
+                "12": 0,
+                "13": 26,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 6,
+                "18": 6,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 205,
+                "22": 41,
+                "23": 1,
+                "24": 1,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 6,
+                "7": 1,
+                "8": 0,
+                "9": 32
+            }
+        },
+        "school_name": "ÖĞRETMEN KENAN GAMSIZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1143,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18551_cb_1093864483_1684093176300594088.jpg",
+            "submission_id": 466434,
+            "total_vote": 334,
+            "votes": {
+                "1": 70,
+                "3": 254,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18551_mv_1083864483_1684093143896719177.jpg",
+            "submission_id": 465985,
+            "total_vote": 329,
+            "votes": {
+                "10": 1,
+                "11": 8,
+                "12": 4,
+                "13": 22,
+                "14": 1,
+                "19": 3,
+                "21": 183,
+                "22": 39,
+                "23": 1,
+                "24": 9,
+                "5": 1,
+                "6": 2,
+                "8": 2,
+                "9": 53
+            }
+        },
+        "school_name": "ÖĞRETMEN KENAN GAMSIZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1125,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18551_cb_1093864445_1684093803028383192.jpg",
+            "submission_id": 474442,
+            "total_vote": 318,
+            "votes": {
+                "1": 56,
+                "2": 4,
+                "3": 245,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18551_mv_1083864445_1684093755968996738.jpg",
+            "submission_id": 473771,
+            "total_vote": 318,
+            "votes": {
+                "10": 3,
+                "11": 4,
+                "12": 6,
+                "13": 23,
+                "14": 1,
+                "19": 1,
+                "21": 182,
+                "22": 38,
+                "24": 5,
+                "3": 1,
+                "6": 5,
+                "7": 5,
+                "8": 1,
+                "9": 43
+            }
+        },
+        "school_name": "ÖĞRETMEN KENAN GAMSIZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1144,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18551_cb_1093864484_1684093299653411451.jpg",
+            "submission_id": 468185,
+            "total_vote": 338,
+            "votes": {
+                "1": 48,
+                "2": 0,
+                "3": 276,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18551_mv_1083864484_1684093271317637230.jpg",
+            "submission_id": 467822,
+            "total_vote": 331,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 2,
+                "12": 9,
+                "13": 30,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 193,
+                "22": 41,
+                "23": 0,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 0,
+                "9": 41
+            }
+        },
+        "school_name": "ÖĞRETMEN KENAN GAMSIZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1123,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18551_cb_1093864443_1684082870786578179.jpg",
+            "submission_id": 206541,
+            "total_vote": 325,
+            "votes": {
+                "1": 32,
+                "2": 2,
+                "3": 280,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18551_mv_1083864443_1684082849290534618.jpg",
+            "submission_id": 206185,
+            "total_vote": 371,
+            "votes": {
+                "10": 9,
+                "11": 3,
+                "12": 13,
+                "13": 22,
+                "14": 0,
+                "15": 2,
+                "16": 9,
+                "17": 9,
+                "18": 0,
+                "19": 9,
+                "2": 0,
+                "20": 0,
+                "21": 201,
+                "22": 37,
+                "23": 5,
+                "24": 6,
+                "3": 9,
+                "4": 0,
+                "6": 2,
+                "7": 7,
+                "8": 0,
+                "9": 28
+            }
+        },
+        "school_name": "ÖĞRETMEN KENAN GAMSIZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1131,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18551_cb_1093864451_1684093685736432225.jpg",
+            "submission_id": 472851,
+            "total_vote": 347,
+            "votes": {
+                "1": 56,
+                "2": 1,
+                "3": 274,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÖĞRETMEN KENAN GAMSIZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1126,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/55515_cb_1093864446_1684084571528914087.jpg",
+            "submission_id": 242342,
+            "total_vote": 340,
+            "votes": {
+                "1": 48,
+                "2": 2,
+                "3": 281,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/55515_cb_1093864446_1684084481509546073.jpg",
+            "submission_id": 240056,
+            "total_vote": 339,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 8,
+                "12": 6,
+                "13": 28,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 204,
+                "22": 37,
+                "23": 0,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 8,
+                "8": 1,
+                "9": 34
+            }
+        },
+        "school_name": "ÖĞRETMEN KENAN GAMSIZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1122,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48638_cb_1093864442_1684089970733826763.jpg",
+            "submission_id": 408956,
+            "total_vote": 320,
+            "votes": {
+                "1": 55,
+                "3": 252,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18551_mv_1083864442_1684094176411975119.jpg",
+            "submission_id": 488827,
+            "total_vote": 315,
+            "votes": {
+                "10": 3,
+                "11": 7,
+                "12": 9,
+                "13": 12,
+                "21": 200,
+                "22": 31,
+                "24": 2,
+                "3": 1,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 47
+            }
+        },
+        "school_name": "ÖĞRETMEN KENAN GAMSIZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1129,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41046_cb_1093864449_1684088704869746593.jpg",
+            "submission_id": 373853,
+            "total_vote": 342,
+            "votes": {
+                "1": 53,
+                "3": 279,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41046_mv_1083864449_1684088681660406534.jpg",
+            "submission_id": 373168,
+            "total_vote": 339,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 8,
+                "12": 9,
+                "13": 24,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 189,
+                "22": 46,
+                "23": 0,
+                "24": 9,
+                "3": 3,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 3,
+                "9": 42
+            }
+        },
+        "school_name": "ÖĞRETMEN KENAN GAMSIZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1142,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18551_cb_1093864482_1684093056910276082.jpg",
+            "submission_id": 464692,
+            "total_vote": 347,
+            "votes": {
+                "1": 43,
+                "2": 1,
+                "3": 292,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18551_mv_1083864482_1684093093190915777.jpg",
+            "submission_id": 465204,
+            "total_vote": 345,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 8,
+                "12": 11,
+                "13": 27,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 2,
+                "21": 184,
+                "22": 63,
+                "23": 1,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 1,
+                "8": 0,
+                "9": 36
+            }
+        },
+        "school_name": "ÖĞRETMEN KENAN GAMSIZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1134,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18551_cb_1093864454_1684093884848476779.jpg",
+            "submission_id": 476412,
+            "total_vote": 338,
+            "votes": {
+                "1": 62,
+                "3": 263,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18551_mv_1083864454_1684093846234394365.jpg",
+            "submission_id": 475303,
+            "total_vote": 336,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 11,
+                "12": 9,
+                "13": 40,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 152,
+                "22": 55,
+                "23": 1,
+                "24": 7,
+                "3": 1,
+                "4": 0,
+                "5": 7,
+                "6": 2,
+                "7": 4,
+                "8": 0,
+                "9": 43
+            }
+        },
+        "school_name": "ÖĞRETMEN KENAN GAMSIZ İLKOKULU"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "ballot_box_number": 1263,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/1c2f9f1c-7f7a-4f6e-aa5e-9f7299d7bd84-1684106251762929040.jpg",
+            "submission_id": 762151,
+            "total_vote": 125,
+            "votes": {
+                "1": 75,
+                "2": 3,
+                "3": 40,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ad17175b-d32d-4c70-9b32-d4f949d5562a-1684106242473179287.jpg",
+            "submission_id": 760712,
+            "total_vote": 112,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 1,
+                "12": 0,
+                "13": 2,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "2": 0,
+                "20": 0,
+                "21": 25,
+                "22": 12,
+                "23": 2,
+                "24": 2,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 7,
+                "7": 1,
+                "8": 4,
+                "9": 53
+            }
+        },
+        "school_name": "TİYELTİ MAH. TOPLANTI SALONU"
+    }
+]

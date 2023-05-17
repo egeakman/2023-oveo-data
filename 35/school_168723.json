@@ -1,0 +1,566 @@
+[
+    {
+        "ballot_box_number": 1408,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/19661_bulk_999999999_1684099660898796394.jpeg",
+            "submission_id": 533859,
+            "total_vote": 329,
+            "votes": {
+                "1": 164,
+                "2": 5,
+                "3": 134,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/19661_bulk_999999999_1684099660976622963.jpeg",
+            "submission_id": 533861,
+            "total_vote": 327,
+            "votes": {
+                "10": 8,
+                "11": 27,
+                "12": 13,
+                "18": 1,
+                "19": 1,
+                "20": 2,
+                "21": 96,
+                "22": 25,
+                "24": 11,
+                "3": 1,
+                "5": 1,
+                "6": 2,
+                "7": 4,
+                "8": 1,
+                "9": 134
+            }
+        },
+        "school_name": "YAVUZ SULTAN SELİM ORTAOKULU(UFUK ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 1405,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/260_bulk_999999999_1684099395365625425.jpg",
+            "submission_id": 532811,
+            "total_vote": 334,
+            "votes": {
+                "1": 143,
+                "3": 174,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/03c02741-9a76-4948-a792-3d2605c4e2b6-1684105488211449838.jpg",
+            "submission_id": 648270,
+            "total_vote": 332,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 25,
+                "12": 12,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 124,
+                "22": 36,
+                "23": 1,
+                "24": 7,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 0,
+                "9": 116
+            }
+        },
+        "school_name": "YAVUZ SULTAN SELİM ORTAOKULU(UFUK ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 1402,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0d401569-8796-431d-91c4-01186e591935-1684105189179269662.jpg",
+            "submission_id": 592503,
+            "total_vote": 333,
+            "votes": {
+                "1": 146,
+                "2": 1,
+                "3": 171,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d8f5893b-457c-4ccd-8f26-ec66fa9d2a7f-1684105188696997679.jpg",
+            "submission_id": 592383,
+            "total_vote": 328,
+            "votes": {
+                "10": 2,
+                "11": 25,
+                "12": 23,
+                "14": 1,
+                "15": 0,
+                "2": 0,
+                "21": 114,
+                "22": 32,
+                "23": 1,
+                "24": 9,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 0,
+                "9": 115
+            }
+        },
+        "school_name": "YAVUZ SULTAN SELİM ORTAOKULU(UFUK ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 1392,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32099_cb_1093584646_1684083752708093287.jpg",
+            "submission_id": 222986,
+            "total_vote": 306,
+            "votes": {
+                "1": 127,
+                "2": 0,
+                "3": 169,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8500ca97-0c2f-4c93-9e73-e6ba5c9211ff-1684105934575923848.jpeg",
+            "submission_id": 715331,
+            "total_vote": 299,
+            "votes": {
+                "1": 0,
+                "10": 9,
+                "11": 14,
+                "12": 8,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 122,
+                "22": 34,
+                "23": 1,
+                "24": 7,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 97
+            }
+        },
+        "school_name": "YAVUZ SULTAN SELİM ORTAOKULU(UFUK ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 1391,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32099_cb_1093584645_1684083982518847645.jpg",
+            "submission_id": 227728,
+            "total_vote": 291,
+            "votes": {
+                "1": 133,
+                "2": 1,
+                "3": 147,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/928b529f-ad1c-4c87-ad0a-a902ac5a5399-1684105698783958692.jpeg",
+            "submission_id": 681033,
+            "total_vote": 280,
+            "votes": {
+                "1": 3,
+                "11": 12,
+                "12": 4,
+                "15": 2,
+                "20": 1,
+                "21": 118,
+                "22": 21,
+                "23": 3,
+                "24": 5,
+                "6": 2,
+                "8": 1,
+                "9": 108
+            }
+        },
+        "school_name": "YAVUZ SULTAN SELİM ORTAOKULU(UFUK ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 1397,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/19661_bulk_999999999_1684099313812352020.jpeg",
+            "submission_id": 532382,
+            "total_vote": 331,
+            "votes": {
+                "1": 132,
+                "2": 5,
+                "3": 172,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "YAVUZ SULTAN SELİM ORTAOKULU(UFUK ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 1395,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32099_cb_1093584649_1684083652710252714.jpg",
+            "submission_id": 220843,
+            "total_vote": 333,
+            "votes": {
+                "1": 136,
+                "2": 2,
+                "3": 159,
+                "4": 36
+            }
+        },
+        "mv_result": null,
+        "school_name": "YAVUZ SULTAN SELİM ORTAOKULU(UFUK ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 1401,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/260_bulk_999999999_1684099395304885620.jpg",
+            "submission_id": 532809,
+            "total_vote": 327,
+            "votes": {
+                "1": 133,
+                "3": 170,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/73ffccba-5820-47a8-bd25-8497b178bc4e-1684105515914444313.jpg",
+            "submission_id": 652244,
+            "total_vote": 316,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 20,
+                "12": 16,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 101,
+                "22": 46,
+                "23": 0,
+                "24": 18,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 3,
+                "8": 1,
+                "9": 102
+            }
+        },
+        "school_name": "YAVUZ SULTAN SELİM ORTAOKULU(UFUK ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 1393,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/40248_cb_1093584647_1684084672054903628.jpg",
+            "submission_id": 245132,
+            "total_vote": 297,
+            "votes": {
+                "1": 133,
+                "2": 4,
+                "3": 152,
+                "4": 8
+            }
+        },
+        "mv_result": null,
+        "school_name": "YAVUZ SULTAN SELİM ORTAOKULU(UFUK ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 1400,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d7163eeb-95ec-4c17-9e38-9d08924d3923-1684105480288469449.jpg",
+            "submission_id": 646694,
+            "total_vote": 323,
+            "votes": {
+                "1": 123,
+                "2": 1,
+                "3": 177,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "YAVUZ SULTAN SELİM ORTAOKULU(UFUK ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 1399,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/260_bulk_999999999_1684099395516096028.jpg",
+            "submission_id": 532812,
+            "total_vote": 331,
+            "votes": {
+                "1": 147,
+                "2": 2,
+                "3": 158,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/260_bulk_999999999_1684099394874291163.jpg",
+            "submission_id": 532802,
+            "total_vote": 323,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 24,
+                "12": 20,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 8,
+                "20": 2,
+                "21": 100,
+                "22": 27,
+                "23": 1,
+                "24": 7,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 6,
+                "8": 2,
+                "9": 116
+            }
+        },
+        "school_name": "YAVUZ SULTAN SELİM ORTAOKULU(UFUK ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 1403,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/260_bulk_999999999_1684099395185948337.jpg",
+            "submission_id": 532808,
+            "total_vote": 317,
+            "votes": {
+                "1": 142,
+                "2": 1,
+                "3": 151,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7ad2802d-58ea-460f-93f9-bc11e5af530c-1684105805570558276.jpg",
+            "submission_id": 698309,
+            "total_vote": 308,
+            "votes": {
+                "10": 3,
+                "11": 23,
+                "12": 18,
+                "20": 93,
+                "21": 29,
+                "22": 1,
+                "23": 16,
+                "5": 1,
+                "6": 1,
+                "7": 6,
+                "8": 1,
+                "9": 116
+            }
+        },
+        "school_name": "YAVUZ SULTAN SELİM ORTAOKULU(UFUK ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 1398,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32099_cb_1093584652_1684079282022286895.jpg",
+            "submission_id": 176483,
+            "total_vote": 308,
+            "votes": {
+                "1": 133,
+                "2": 1,
+                "3": 156,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f80ddc58-8227-4f7f-856b-cc67c0f827c8-1684105556950981524.jpg",
+            "submission_id": 658579,
+            "total_vote": 301,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 16,
+                "12": 17,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 99,
+                "22": 28,
+                "23": 2,
+                "24": 13,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 7,
+                "8": 1,
+                "9": 113
+            }
+        },
+        "school_name": "YAVUZ SULTAN SELİM ORTAOKULU(UFUK ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 1406,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/260_bulk_999999999_1684099394579642632.jpg",
+            "submission_id": 532800,
+            "total_vote": 327,
+            "votes": {
+                "1": 123,
+                "2": 3,
+                "3": 186,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c837d095-a87e-4f29-bd69-21337837ca99-1684105454010945317.jpg",
+            "submission_id": 642562,
+            "total_vote": 325,
+            "votes": {
+                "10": 2,
+                "11": 18,
+                "12": 15,
+                "14": 1,
+                "21": 126,
+                "22": 44,
+                "24": 6,
+                "5": 1,
+                "6": 3,
+                "7": 7,
+                "9": 102
+            }
+        },
+        "school_name": "YAVUZ SULTAN SELİM ORTAOKULU(UFUK ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 1394,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/09a9624c-7da6-44ec-94bf-8aca0fd097e4-1684105377779184330.jpeg",
+            "submission_id": 628172,
+            "total_vote": 314,
+            "votes": {
+                "1": 121,
+                "2": 1,
+                "3": 167,
+                "4": 25
+            }
+        },
+        "mv_result": null,
+        "school_name": "YAVUZ SULTAN SELİM ORTAOKULU(UFUK ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 1404,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0a5234b3-869b-46c9-aefc-40ba1768f822-1684105412367315379.jpg",
+            "submission_id": 635128,
+            "total_vote": 335,
+            "votes": {
+                "1": 157,
+                "2": 1,
+                "3": 153,
+                "4": 24
+            }
+        },
+        "mv_result": null,
+        "school_name": "YAVUZ SULTAN SELİM ORTAOKULU(UFUK ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 1409,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a8ecf294-d8e7-4b90-8bea-dc68ece409c4-1684105427258533281.jpg",
+            "submission_id": 638235,
+            "total_vote": 327,
+            "votes": {
+                "1": 144,
+                "2": 2,
+                "3": 169,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "YAVUZ SULTAN SELİM ORTAOKULU(UFUK ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 1396,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/19661_bulk_999999999_1684099661162045033.jpeg",
+            "submission_id": 533864,
+            "total_vote": 318,
+            "votes": {
+                "1": 141,
+                "2": 3,
+                "3": 156,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/19661_bulk_999999999_1684099661302651895.jpeg",
+            "submission_id": 533865,
+            "total_vote": 314,
+            "votes": {
+                "10": 3,
+                "11": 24,
+                "12": 16,
+                "14": 1,
+                "15": 1,
+                "17": 1,
+                "21": 114,
+                "22": 30,
+                "24": 9,
+                "3": 2,
+                "6": 2,
+                "7": 4,
+                "8": 3,
+                "9": 104
+            }
+        },
+        "school_name": "YAVUZ SULTAN SELİM ORTAOKULU(UFUK ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 1407,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e93c8275-336b-475c-a04f-51ebb9a762a4-1684105446500290455.jpg",
+            "submission_id": 641436,
+            "total_vote": 320,
+            "votes": {
+                "1": 135,
+                "2": 3,
+                "3": 161,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "YAVUZ SULTAN SELİM ORTAOKULU(UFUK ORTAOKULU)"
+    }
+]

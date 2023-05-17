@@ -1,0 +1,145 @@
+[
+    {
+        "ballot_box_number": 1337,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/369fc93c-2610-41de-a086-c954c4276b7a-1684106001045337628.jpg",
+            "submission_id": 724687,
+            "total_vote": 320,
+            "votes": {
+                "1": 133,
+                "2": 4,
+                "3": 166,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT GÖKHAN KİRAZLI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1336,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/dc332ac9-2028-440c-bd03-39ad2893981f-1684105463607615303.jpg",
+            "submission_id": 643869,
+            "total_vote": 329,
+            "votes": {
+                "1": 117,
+                "3": 175,
+                "4": 37
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT GÖKHAN KİRAZLI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1334,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4acf11d7-4f76-4aaa-9742-2422ee1f0ef5-1684106473420574510.jpg",
+            "submission_id": 793130,
+            "total_vote": 319,
+            "votes": {
+                "1": 119,
+                "2": 4,
+                "3": 186,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/fe72824d-f678-4bb0-ade8-9e48d79aa27a-1684106163071691684.jpg",
+            "submission_id": 747780,
+            "total_vote": 310,
+            "votes": {
+                "10": 2,
+                "11": 28,
+                "12": 8,
+                "13": 5,
+                "14": 2,
+                "15": 4,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 132,
+                "22": 44,
+                "23": 2,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 76
+            }
+        },
+        "school_name": "ŞEHİT GÖKHAN KİRAZLI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1338,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/70f507ad-cc74-4f35-bf47-7a9f0d8d45af-1684106451847777951.jpg",
+            "submission_id": 790255,
+            "total_vote": 333,
+            "votes": {
+                "1": 144,
+                "2": 2,
+                "3": 171,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5946d943-d952-467e-804e-0cb2a92df42e-1684106448481225681.jpg",
+            "submission_id": 789662,
+            "total_vote": 320,
+            "votes": {
+                "10": 1,
+                "11": 32,
+                "13": 11,
+                "19": 1,
+                "21": 117,
+                "22": 36,
+                "24": 5,
+                "6": 3,
+                "7": 5,
+                "8": 3,
+                "9": 106
+            }
+        },
+        "school_name": "ŞEHİT GÖKHAN KİRAZLI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1335,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/30f8fce0-ddb1-4f60-bed0-d0d570f52d16-1684105708582843263.jpg",
+            "submission_id": 682891,
+            "total_vote": 325,
+            "votes": {
+                "1": 129,
+                "2": 1,
+                "3": 165,
+                "4": 30
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/fdf8c81d-523e-4840-ab97-dede697f2673-1684105701565122751.jpg",
+            "submission_id": 681958,
+            "total_vote": 314,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 19,
+                "12": 3,
+                "13": 8,
+                "21": 113,
+                "22": 44,
+                "24": 12,
+                "6": 1,
+                "7": 3,
+                "8": 6,
+                "9": 102
+            }
+        },
+        "school_name": "ŞEHİT GÖKHAN KİRAZLI ORTAOKULU"
+    }
+]

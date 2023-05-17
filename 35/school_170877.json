@@ -1,0 +1,266 @@
+[
+    {
+        "ballot_box_number": 2316,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67258_cb_1093800730_1684089402176732866.jpg",
+            "submission_id": 393499,
+            "total_vote": 242,
+            "votes": {
+                "1": 176,
+                "2": 0,
+                "3": 60,
+                "4": 6
+            }
+        },
+        "mv_result": null,
+        "school_name": "KONAK İBN-İ SİNA MTAL"
+    },
+    {
+        "ballot_box_number": 2318,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67258_mv_1083800732_1684084910961477383.jpg",
+            "submission_id": 251571,
+            "total_vote": 239,
+            "votes": {
+                "1": 182,
+                "3": 52,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67258_cb_1093800732_1684084881530884603.jpg",
+            "submission_id": 250780,
+            "total_vote": 233,
+            "votes": {
+                "10": 5,
+                "11": 15,
+                "12": 1,
+                "14": 1,
+                "15": 1,
+                "2": 2,
+                "20": 1,
+                "21": 44,
+                "22": 8,
+                "23": 1,
+                "24": 1,
+                "6": 2,
+                "9": 151
+            }
+        },
+        "school_name": "KONAK İBN-İ SİNA MTAL"
+    },
+    {
+        "ballot_box_number": 2315,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67258_cb_1093800729_1684086823136528552.jpg",
+            "submission_id": 312874,
+            "total_vote": 254,
+            "votes": {
+                "1": 187,
+                "2": 1,
+                "3": 64,
+                "4": 2
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67258_cb_1093800729_1684086767587593095.jpg",
+            "submission_id": 310901,
+            "total_vote": 242,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 12,
+                "12": 5,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 46,
+                "22": 4,
+                "23": 3,
+                "24": 1,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 3,
+                "8": 0,
+                "9": 163
+            }
+        },
+        "school_name": "KONAK İBN-İ SİNA MTAL"
+    },
+    {
+        "ballot_box_number": 2313,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49577_cb_1093800727_1684086487406892019.jpg",
+            "submission_id": 301058,
+            "total_vote": 251,
+            "votes": {
+                "1": 200,
+                "2": 2,
+                "3": 43,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49577_mv_1083800727_1684086517471572564.jpg",
+            "submission_id": 302156,
+            "total_vote": 239,
+            "votes": {
+                "1": 0,
+                "10": 8,
+                "11": 16,
+                "12": 1,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 30,
+                "22": 12,
+                "23": 0,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 2,
+                "9": 165
+            }
+        },
+        "school_name": "KONAK İBN-İ SİNA MTAL"
+    },
+    {
+        "ballot_box_number": 2312,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49577_cb_1093800726_1684084075300356667.jpg",
+            "submission_id": 229806,
+            "total_vote": 233,
+            "votes": {
+                "1": 178,
+                "2": 2,
+                "3": 49,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49577_mv_1083800726_1684085675021722309.jpg",
+            "submission_id": 274251,
+            "total_vote": 226,
+            "votes": {
+                "1": 0,
+                "11": 20,
+                "12": 2,
+                "14": 2,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 1,
+                "20": 1,
+                "21": 36,
+                "22": 14,
+                "23": 4,
+                "24": 1,
+                "3": 0,
+                "4": 0,
+                "5": 6,
+                "6": 1,
+                "7": 1,
+                "8": 0,
+                "9": 136
+            }
+        },
+        "school_name": "KONAK İBN-İ SİNA MTAL"
+    },
+    {
+        "ballot_box_number": 2317,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/46926_cb_1093800731_1684087331301361327.jpg",
+            "submission_id": 330416,
+            "total_vote": 257,
+            "votes": {
+                "1": 202,
+                "2": 1,
+                "3": 50,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/46926_mv_1083800731_1684087647307710050.jpg",
+            "submission_id": 340651,
+            "total_vote": 254,
+            "votes": {
+                "10": 10,
+                "11": 20,
+                "12": 4,
+                "14": 1,
+                "19": 1,
+                "2": 1,
+                "20": 1,
+                "21": 38,
+                "22": 9,
+                "23": 2,
+                "7": 1,
+                "8": 1,
+                "9": 165
+            }
+        },
+        "school_name": "KONAK İBN-İ SİNA MTAL"
+    },
+    {
+        "ballot_box_number": 2314,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/55189_cb_1093800728_1684079932186511424.jpg",
+            "submission_id": 178981,
+            "total_vote": 252,
+            "votes": {
+                "1": 178,
+                "3": 68,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/55189_mv_1083800728_1684086048486945242.jpg",
+            "submission_id": 286544,
+            "total_vote": 237,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 13,
+                "12": 4,
+                "13": 0,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 1,
+                "20": 1,
+                "21": 43,
+                "22": 16,
+                "23": 3,
+                "24": 1,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 1,
+                "8": 0,
+                "9": 144
+            }
+        },
+        "school_name": "KONAK İBN-İ SİNA MTAL"
+    }
+]

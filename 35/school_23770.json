@@ -1,0 +1,141 @@
+[
+    {
+        "ballot_box_number": 1235,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/479c3b48-402c-4637-9de0-14b9976451ba-1684106665649214940.jpg",
+            "submission_id": 821051,
+            "total_vote": 260,
+            "votes": {
+                "1": 145,
+                "3": 103,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/dab12ac1-0d3c-4728-833c-c48430d514a7-1684106627585363293.jpg",
+            "submission_id": 815425,
+            "total_vote": 253,
+            "votes": {
+                "10": 2,
+                "11": 17,
+                "12": 2,
+                "14": 2,
+                "21": 81,
+                "22": 26,
+                "23": 1,
+                "24": 4,
+                "3": 1,
+                "6": 1,
+                "7": 3,
+                "9": 113
+            }
+        },
+        "school_name": "ŞEHİT.ER İ. KOCAGÖBEK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1237,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684090247646127304.jpg",
+            "submission_id": 415693,
+            "total_vote": 256,
+            "votes": {
+                "1": 145,
+                "2": 2,
+                "3": 100,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2367dbe1-2622-45d1-95f8-b01671f43d69-1684105519618554490.jpg",
+            "submission_id": 652518,
+            "total_vote": 250,
+            "votes": {
+                "1": 1,
+                "10": 5,
+                "11": 14,
+                "12": 2,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 68,
+                "22": 30,
+                "23": 1,
+                "24": 2,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 2,
+                "9": 119
+            }
+        },
+        "school_name": "ŞEHİT.ER İ. KOCAGÖBEK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1234,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7cc44f0b-3e7d-4fa7-9e11-27fc47c7ac8a-1684106213972953399.jpg",
+            "submission_id": 755127,
+            "total_vote": 256,
+            "votes": {
+                "1": 149,
+                "2": 1,
+                "3": 100,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/992f41ce-4a69-4b2b-a5a8-372f403f04b2-1684106219508631032.jpg",
+            "submission_id": 756053,
+            "total_vote": 257,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 35,
+                "12": 7,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 63,
+                "22": 25,
+                "23": 2,
+                "24": 4,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 111
+            }
+        },
+        "school_name": "ŞEHİT.ER İ. KOCAGÖBEK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1236,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8dd6eb55-a090-4c86-95e7-737b339bb678-1684105401784482465.jpg",
+            "submission_id": 633133,
+            "total_vote": 255,
+            "votes": {
+                "1": 144,
+                "2": 3,
+                "3": 100,
+                "4": 8
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT.ER İ. KOCAGÖBEK ORTAOKULU"
+    }
+]

@@ -1,0 +1,652 @@
+[
+    {
+        "ballot_box_number": 2352,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20264_cb_1093865046_1684088393923442635.jpg",
+            "submission_id": 364217,
+            "total_vote": 318,
+            "votes": {
+                "1": 59,
+                "2": 0,
+                "3": 255,
+                "4": 4
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT MEHMET ALİ YANDIM İLKOKULU (ŞEMİKLER İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 2357,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20261_cb_1093865051_1684087947843709513.jpg",
+            "submission_id": 350166,
+            "total_vote": 359,
+            "votes": {
+                "1": 39,
+                "2": 2,
+                "3": 310,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20261_mv_1083865051_1684087903450518104.jpg",
+            "submission_id": 348792,
+            "total_vote": 357,
+            "votes": {
+                "11": 5,
+                "12": 9,
+                "13": 42,
+                "21": 201,
+                "22": 55,
+                "24": 5,
+                "7": 7,
+                "9": 33
+            }
+        },
+        "school_name": "ŞEHİT MEHMET ALİ YANDIM İLKOKULU (ŞEMİKLER İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 2355,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/85010_bulk_999999999_1684093207837833467.jpg",
+            "submission_id": 466899,
+            "total_vote": 350,
+            "votes": {
+                "1": 43,
+                "3": 298,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/85010_bulk_999999999_1684093179414823923.jpg",
+            "submission_id": 466481,
+            "total_vote": 343,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 14,
+                "12": 12,
+                "13": 33,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 193,
+                "22": 53,
+                "23": 0,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 0,
+                "9": 25
+            }
+        },
+        "school_name": "ŞEHİT MEHMET ALİ YANDIM İLKOKULU (ŞEMİKLER İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 2358,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48641_cb_1093865052_1684088385705806878.jpg",
+            "submission_id": 363961,
+            "total_vote": 347,
+            "votes": {
+                "1": 49,
+                "3": 285,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/85013_bulk_999999999_1684089833271145911.jpg",
+            "submission_id": 405351,
+            "total_vote": 348,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 6,
+                "12": 7,
+                "13": 36,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 7,
+                "2": 0,
+                "20": 0,
+                "21": 197,
+                "22": 42,
+                "23": 1,
+                "24": 0,
+                "3": 1,
+                "4": 0,
+                "5": 2,
+                "6": 2,
+                "7": 5,
+                "8": 0,
+                "9": 38
+            }
+        },
+        "school_name": "ŞEHİT MEHMET ALİ YANDIM İLKOKULU (ŞEMİKLER İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 2351,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20264_cb_1093865045_1684088460238591340.jpg",
+            "submission_id": 366234,
+            "total_vote": 319,
+            "votes": {
+                "1": 44,
+                "3": 271,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/85013_bulk_999999999_1684087967661408972.jpg",
+            "submission_id": 350866,
+            "total_vote": 316,
+            "votes": {
+                "11": 8,
+                "12": 6,
+                "13": 16,
+                "21": 215,
+                "22": 30,
+                "24": 2,
+                "7": 1,
+                "9": 38
+            }
+        },
+        "school_name": "ŞEHİT MEHMET ALİ YANDIM İLKOKULU (ŞEMİKLER İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 2353,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20261_cb_1093865047_1684086921123384766.jpg",
+            "submission_id": 316206,
+            "total_vote": 331,
+            "votes": {
+                "1": 51,
+                "2": 1,
+                "3": 275,
+                "4": 4
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT MEHMET ALİ YANDIM İLKOKULU (ŞEMİKLER İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 2364,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/85013_bulk_999999999_1684091513772435533.jpg",
+            "submission_id": 441418,
+            "total_vote": 354,
+            "votes": {
+                "1": 48,
+                "2": 1,
+                "3": 295,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/85013_bulk_999999999_1684091513898056581.jpg",
+            "submission_id": 441420,
+            "total_vote": 352,
+            "votes": {
+                "11": 9,
+                "12": 11,
+                "13": 43,
+                "21": 198,
+                "22": 40,
+                "24": 8,
+                "6": 1,
+                "7": 6,
+                "9": 36
+            }
+        },
+        "school_name": "ŞEHİT MEHMET ALİ YANDIM İLKOKULU (ŞEMİKLER İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 2359,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18270_cb_1093865053_1684083106994843914.jpg",
+            "submission_id": 210509,
+            "total_vote": 350,
+            "votes": {
+                "1": 43,
+                "2": 0,
+                "3": 294,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT MEHMET ALİ YANDIM İLKOKULU (ŞEMİKLER İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 2370,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/85013_bulk_999999999_1684090107597298297.jpg",
+            "submission_id": 412294,
+            "total_vote": 356,
+            "votes": {
+                "1": 52,
+                "2": 1,
+                "3": 287,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT MEHMET ALİ YANDIM İLKOKULU (ŞEMİKLER İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 2360,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/18270_bulk_999999999_1684080632042908007.jpg",
+            "submission_id": 182799,
+            "total_vote": 355,
+            "votes": {
+                "1": 49,
+                "2": 0,
+                "3": 299,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18270_mv_1083865054_1684086942638088575.jpg",
+            "submission_id": 316936,
+            "total_vote": 351,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 7,
+                "12": 5,
+                "13": 27,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 220,
+                "22": 42,
+                "23": 0,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 5,
+                "8": 1,
+                "9": 34
+            }
+        },
+        "school_name": "ŞEHİT MEHMET ALİ YANDIM İLKOKULU (ŞEMİKLER İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 2368,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/85013_bulk_999999999_1684089957449806216.jpg",
+            "submission_id": 408632,
+            "total_vote": 357,
+            "votes": {
+                "1": 49,
+                "2": 0,
+                "3": 292,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/11f2fc6a-c19e-4c69-b7c0-4d00d19c4164-1684105116277876829.jpg",
+            "submission_id": 577658,
+            "total_vote": 356,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 3,
+                "12": 13,
+                "13": 23,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 206,
+                "22": 54,
+                "23": 0,
+                "24": 9,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 0,
+                "8": 2,
+                "9": 39
+            }
+        },
+        "school_name": "ŞEHİT MEHMET ALİ YANDIM İLKOKULU (ŞEMİKLER İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 2366,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/76f73066-bf7b-4d83-a6ab-50d414c6a08a-1684105125803186108.jpg",
+            "submission_id": 578576,
+            "total_vote": 357,
+            "votes": {
+                "1": 49,
+                "2": 1,
+                "3": 288,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7cb60358-d413-4cb4-b63e-c505cabf52d2-1684105124698661778.jpg",
+            "submission_id": 578859,
+            "total_vote": 353,
+            "votes": {
+                "11": 6,
+                "12": 7,
+                "13": 22,
+                "21": 207,
+                "22": 47,
+                "24": 16,
+                "3": 2,
+                "7": 4,
+                "9": 42
+            }
+        },
+        "school_name": "ŞEHİT MEHMET ALİ YANDIM İLKOKULU (ŞEMİKLER İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 2365,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/85013_bulk_999999999_1684090915238395732.jpg",
+            "submission_id": 430194,
+            "total_vote": 351,
+            "votes": {
+                "1": 66,
+                "2": 0,
+                "3": 272,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/85010_bulk_999999999_1684091473473461372.jpg",
+            "submission_id": 440742,
+            "total_vote": 350,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 22,
+                "12": 10,
+                "13": 39,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 189,
+                "22": 32,
+                "23": 0,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 8,
+                "8": 1,
+                "9": 41
+            }
+        },
+        "school_name": "ŞEHİT MEHMET ALİ YANDIM İLKOKULU (ŞEMİKLER İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 2367,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/85013_bulk_999999999_1684087585659966545.jpg",
+            "submission_id": 338663,
+            "total_vote": 347,
+            "votes": {
+                "1": 42,
+                "2": 1,
+                "3": 291,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a52f7e84-d28e-4866-a21c-bfab552ef9ea-1684105119325236546.jpg",
+            "submission_id": 576821,
+            "total_vote": 345,
+            "votes": {
+                "10": 1,
+                "11": 8,
+                "12": 8,
+                "13": 44,
+                "21": 197,
+                "22": 41,
+                "24": 6,
+                "3": 1,
+                "7": 6,
+                "8": 1,
+                "9": 32
+            }
+        },
+        "school_name": "ŞEHİT MEHMET ALİ YANDIM İLKOKULU (ŞEMİKLER İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 2369,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20261_cb_1093865103_1684087675480912935.jpg",
+            "submission_id": 341584,
+            "total_vote": 361,
+            "votes": {
+                "1": 49,
+                "2": 3,
+                "3": 302,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/85013_bulk_999999999_1684090107457451986.jpg",
+            "submission_id": 412289,
+            "total_vote": 355,
+            "votes": {
+                "1": 5,
+                "10": 0,
+                "11": 8,
+                "12": 8,
+                "13": 20,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 221,
+                "22": 44,
+                "23": 1,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 7,
+                "8": 0,
+                "9": 36
+            }
+        },
+        "school_name": "ŞEHİT MEHMET ALİ YANDIM İLKOKULU (ŞEMİKLER İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 2362,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20265_cb_1093865096_1684079164485480450.jpg",
+            "submission_id": 176137,
+            "total_vote": 346,
+            "votes": {
+                "1": 44,
+                "2": 2,
+                "3": 291,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20265_mv_1083865096_1684084875772759341.jpg",
+            "submission_id": 250634,
+            "total_vote": 342,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 8,
+                "12": 12,
+                "13": 28,
+                "14": 0,
+                "15": 0,
+                "17": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 207,
+                "22": 45,
+                "23": 0,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 0,
+                "9": 31
+            }
+        },
+        "school_name": "ŞEHİT MEHMET ALİ YANDIM İLKOKULU (ŞEMİKLER İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 2363,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48642_cb_1093865097_1684085083146442933.jpg",
+            "submission_id": 256493,
+            "total_vote": 349,
+            "votes": {
+                "1": 45,
+                "2": 0,
+                "3": 295,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48642_mv_1083865097_1684085147896852120.jpg",
+            "submission_id": 258327,
+            "total_vote": 347,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 4,
+                "12": 9,
+                "13": 37,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 203,
+                "22": 47,
+                "23": 1,
+                "24": 4,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 0,
+                "9": 36
+            }
+        },
+        "school_name": "ŞEHİT MEHMET ALİ YANDIM İLKOKULU (ŞEMİKLER İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 2361,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20265_cb_1093865095_1684080770807400814.jpg",
+            "submission_id": 183657,
+            "total_vote": 359,
+            "votes": {
+                "1": 54,
+                "2": 1,
+                "3": 287,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20265_mv_1083865095_1684086688749867465.jpg",
+            "submission_id": 308099,
+            "total_vote": 356,
+            "votes": {
+                "10": 3,
+                "11": 9,
+                "12": 8,
+                "13": 32,
+                "14": 1,
+                "21": 193,
+                "22": 49,
+                "23": 1,
+                "24": 12,
+                "3": 1,
+                "4": 1,
+                "6": 1,
+                "7": 2,
+                "8": 2,
+                "9": 41
+            }
+        },
+        "school_name": "ŞEHİT MEHMET ALİ YANDIM İLKOKULU (ŞEMİKLER İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 2354,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20261_cb_1093865048_1684086833865532002.jpg",
+            "submission_id": 313203,
+            "total_vote": 354,
+            "votes": {
+                "1": 57,
+                "3": 282,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT MEHMET ALİ YANDIM İLKOKULU (ŞEMİKLER İLKOKULU)"
+    },
+    {
+        "ballot_box_number": 2356,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/85013_bulk_999999999_1684091128225283092.jpg",
+            "submission_id": 434448,
+            "total_vote": 347,
+            "votes": {
+                "1": 51,
+                "2": 1,
+                "3": 286,
+                "4": 9
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT MEHMET ALİ YANDIM İLKOKULU (ŞEMİKLER İLKOKULU)"
+    }
+]

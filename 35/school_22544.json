@@ -1,0 +1,54 @@
+[
+    {
+        "ballot_box_number": 1219,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20419_bulk_999999999_1684080092440617128.jpg",
+            "submission_id": 179715,
+            "total_vote": 181,
+            "votes": {
+                "1": 45,
+                "2": 1,
+                "3": 126,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20419_bulk_999999999_1684080117514015093.jpg",
+            "submission_id": 179852,
+            "total_vote": 176,
+            "votes": {
+                "10": 1,
+                "11": 11,
+                "12": 20,
+                "13": 1,
+                "14": 1,
+                "15": 1,
+                "19": 1,
+                "2": 1,
+                "21": 68,
+                "22": 33,
+                "23": 1,
+                "24": 4,
+                "5": 1,
+                "9": 32
+            }
+        },
+        "school_name": "YENİÇİFTLİK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1220,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20419_bulk_999999999_1684080638480248122.jpg",
+            "submission_id": 182837,
+            "total_vote": 187,
+            "votes": {
+                "1": 51,
+                "2": 2,
+                "3": 127,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "YENİÇİFTLİK İLKOKULU"
+    }
+]

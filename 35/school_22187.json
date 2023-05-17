@@ -1,0 +1,37 @@
+[
+    {
+        "ballot_box_number": 1056,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/75694_bulk_999999999_1684084682533637339.jpg",
+            "submission_id": 245420,
+            "total_vote": 236,
+            "votes": {
+                "1": 83,
+                "2": 2,
+                "3": 139,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/8254_bulk_999999999_1684084424815073964.jpg",
+            "submission_id": 238660,
+            "total_vote": 233,
+            "votes": {
+                "11": 13,
+                "12": 4,
+                "15": 1,
+                "18": 1,
+                "19": 2,
+                "21": 107,
+                "22": 24,
+                "23": 2,
+                "24": 8,
+                "4": 1,
+                "7": 4,
+                "8": 1,
+                "9": 65
+            }
+        },
+        "school_name": "GODENCE İLKOKULU"
+    }
+]

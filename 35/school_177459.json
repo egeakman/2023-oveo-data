@@ -1,0 +1,18 @@
+[
+    {
+        "ballot_box_number": 1065,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/47546_bulk_999999999_1684079956837341384.jpg",
+            "submission_id": 179085,
+            "total_vote": 93,
+            "votes": {
+                "1": 37,
+                "2": 1,
+                "3": 50,
+                "4": 5
+            }
+        },
+        "mv_result": null,
+        "school_name": "BEŞPINAR KÖY ODASI"
+    }
+]

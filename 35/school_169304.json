@@ -1,0 +1,441 @@
+[
+    {
+        "ballot_box_number": 1154,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17143_cb_1093798728_1684086295713976426.jpg",
+            "submission_id": 294595,
+            "total_vote": 304,
+            "votes": {
+                "1": 89,
+                "2": 2,
+                "3": 204,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17143_mv_1083798728_1684086632938444005.jpg",
+            "submission_id": 306137,
+            "total_vote": 294,
+            "votes": {
+                "10": 2,
+                "11": 11,
+                "12": 0,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "21": 147,
+                "22": 45,
+                "23": 0,
+                "24": 6,
+                "3": 2,
+                "4": 2,
+                "5": 0,
+                "6": 3,
+                "7": 3,
+                "8": 0,
+                "9": 69
+            }
+        },
+        "school_name": "ŞEHİT KOMANDO ER FATİH ÖZCAN İLKOKULU A-B BLOK"
+    },
+    {
+        "ballot_box_number": 1158,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/75662_bulk_999999999_1684083228998905644.jpg",
+            "submission_id": 212665,
+            "total_vote": 326,
+            "votes": {
+                "1": 76,
+                "3": 232,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/17078_bulk_999999999_1684082957902260243.jpg",
+            "submission_id": 208025,
+            "total_vote": 326,
+            "votes": {
+                "10": 2,
+                "11": 15,
+                "12": 3,
+                "14": 1,
+                "21": 153,
+                "22": 69,
+                "24": 6,
+                "6": 3,
+                "7": 10,
+                "9": 64
+            }
+        },
+        "school_name": "ŞEHİT KOMANDO ER FATİH ÖZCAN İLKOKULU A-B BLOK"
+    },
+    {
+        "ballot_box_number": 1156,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/75662_bulk_999999999_1684087134082660377.jpg",
+            "submission_id": 323694,
+            "total_vote": 334,
+            "votes": {
+                "1": 89,
+                "2": 0,
+                "3": 227,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/75662_bulk_999999999_1684087509783983393.jpg",
+            "submission_id": 336230,
+            "total_vote": 333,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 13,
+                "12": 18,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 7,
+                "20": 0,
+                "21": 184,
+                "22": 26,
+                "23": 14,
+                "24": 0,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 68
+            }
+        },
+        "school_name": "ŞEHİT KOMANDO ER FATİH ÖZCAN İLKOKULU A-B BLOK"
+    },
+    {
+        "ballot_box_number": 1159,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/17078_bulk_999999999_1684085284267152654.jpg",
+            "submission_id": 262288,
+            "total_vote": 326,
+            "votes": {
+                "1": 81,
+                "2": 0,
+                "3": 225,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17143_mv_1083798733_1684087509429221901.jpg",
+            "submission_id": 336218,
+            "total_vote": 323,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 11,
+                "12": 11,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 4,
+                "20": 1,
+                "21": 158,
+                "22": 55,
+                "23": 0,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 3,
+                "9": 60
+            }
+        },
+        "school_name": "ŞEHİT KOMANDO ER FATİH ÖZCAN İLKOKULU A-B BLOK"
+    },
+    {
+        "ballot_box_number": 1162,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/66302_bulk_999999999_1684087099034673572.jpg",
+            "submission_id": 322503,
+            "total_vote": 336,
+            "votes": {
+                "1": 104,
+                "2": 3,
+                "3": 223,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/66302_bulk_999999999_1684087513547832391.jpg",
+            "submission_id": 336372,
+            "total_vote": 330,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 19,
+                "12": 9,
+                "14": 1,
+                "15": 1,
+                "20": 3,
+                "21": 141,
+                "22": 63,
+                "24": 5,
+                "6": 2,
+                "7": 4,
+                "8": 1,
+                "9": 77
+            }
+        },
+        "school_name": "ŞEHİT KOMANDO ER FATİH ÖZCAN İLKOKULU A-B BLOK"
+    },
+    {
+        "ballot_box_number": 1155,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/75662_bulk_999999999_1684089500850047379.jpg",
+            "submission_id": 396201,
+            "total_vote": 296,
+            "votes": {
+                "1": 90,
+                "2": 1,
+                "3": 190,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/75662_bulk_999999999_1684089628973488166.jpg",
+            "submission_id": 399829,
+            "total_vote": 292,
+            "votes": {
+                "1": 0,
+                "10": 9,
+                "11": 16,
+                "12": 5,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 2,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 135,
+                "22": 44,
+                "23": 0,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 1,
+                "8": 4,
+                "9": 61
+            }
+        },
+        "school_name": "ŞEHİT KOMANDO ER FATİH ÖZCAN İLKOKULU A-B BLOK"
+    },
+    {
+        "ballot_box_number": 1163,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17143_cb_1093798997_1684087711664453777.jpg",
+            "submission_id": 342783,
+            "total_vote": 329,
+            "votes": {
+                "1": 98,
+                "2": 2,
+                "3": 209,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/75662_bulk_999999999_1684087820435756111.jpg",
+            "submission_id": 346209,
+            "total_vote": 324,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 8,
+                "12": 15,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 150,
+                "22": 44,
+                "23": 1,
+                "24": 14,
+                "3": 3,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 0,
+                "9": 81
+            }
+        },
+        "school_name": "ŞEHİT KOMANDO ER FATİH ÖZCAN İLKOKULU A-B BLOK"
+    },
+    {
+        "ballot_box_number": 1164,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/75662_bulk_999999999_1684086974206992295.jpg",
+            "submission_id": 318081,
+            "total_vote": 317,
+            "votes": {
+                "1": 80,
+                "3": 221,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17143_mv_1083798998_1684088347987882940.jpg",
+            "submission_id": 362756,
+            "total_vote": 312,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 17,
+                "12": 14,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 149,
+                "22": 57,
+                "23": 1,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 57
+            }
+        },
+        "school_name": "ŞEHİT KOMANDO ER FATİH ÖZCAN İLKOKULU A-B BLOK"
+    },
+    {
+        "ballot_box_number": 1161,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/66302_bulk_999999999_1684087659255774877.jpg",
+            "submission_id": 341046,
+            "total_vote": 328,
+            "votes": {
+                "1": 66,
+                "2": 3,
+                "3": 244,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/66302_bulk_999999999_1684087686734323304.jpg",
+            "submission_id": 341982,
+            "total_vote": 323,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 9,
+                "12": 11,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 174,
+                "22": 52,
+                "23": 1,
+                "24": 6,
+                "3": 3,
+                "4": 1,
+                "5": 1,
+                "6": 3,
+                "7": 3,
+                "8": 1,
+                "9": 56
+            }
+        },
+        "school_name": "ŞEHİT KOMANDO ER FATİH ÖZCAN İLKOKULU A-B BLOK"
+    },
+    {
+        "ballot_box_number": 1160,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/75662_cb_1093798734_1684079104811722704.jpg",
+            "submission_id": 175961,
+            "total_vote": 325,
+            "votes": {
+                "1": 102,
+                "3": 208,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/75662_bulk_999999999_1684085357568254832.jpg",
+            "submission_id": 264405,
+            "total_vote": 322,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 12,
+                "12": 9,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 156,
+                "22": 43,
+                "23": 1,
+                "24": 6,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 3,
+                "7": 4,
+                "8": 1,
+                "9": 78
+            }
+        },
+        "school_name": "ŞEHİT KOMANDO ER FATİH ÖZCAN İLKOKULU A-B BLOK"
+    },
+    {
+        "ballot_box_number": 1157,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17078_cb_1093798731_1684082051203698481.jpg",
+            "submission_id": 195219,
+            "total_vote": 335,
+            "votes": {
+                "1": 94,
+                "2": 0,
+                "3": 219,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT KOMANDO ER FATİH ÖZCAN İLKOKULU A-B BLOK"
+    }
+]

@@ -1,0 +1,143 @@
+[
+    {
+        "ballot_box_number": 1126,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ba5e3020-4f1c-4609-a5b0-1c760348dfa0-1684106462926547795.jpg",
+            "submission_id": 791631,
+            "total_vote": 301,
+            "votes": {
+                "1": 72,
+                "2": 0,
+                "3": 223,
+                "4": 6
+            }
+        },
+        "mv_result": null,
+        "school_name": "BUCA SULTAN ALPARSLAN ANADOLU LİSESİ B BLOK"
+    },
+    {
+        "ballot_box_number": 1123,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ae893085-3d87-4719-87ce-c5beea7a5460-1684105189560107756.jpg",
+            "submission_id": 591406,
+            "total_vote": 316,
+            "votes": {
+                "1": 92,
+                "2": 2,
+                "3": 199,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "BUCA SULTAN ALPARSLAN ANADOLU LİSESİ B BLOK"
+    },
+    {
+        "ballot_box_number": 1124,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0f3443c8-3c5f-41ce-8a81-a3709e54801c-1684106122539764052.jpg",
+            "submission_id": 741158,
+            "total_vote": 301,
+            "votes": {
+                "1": 82,
+                "2": 1,
+                "3": 192,
+                "4": 26
+            }
+        },
+        "mv_result": null,
+        "school_name": "BUCA SULTAN ALPARSLAN ANADOLU LİSESİ B BLOK"
+    },
+    {
+        "ballot_box_number": 1125,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a4af2c4b-6efa-4deb-8296-d5d37275f8d0-1684106720155716171.jpg",
+            "submission_id": 828868,
+            "total_vote": 306,
+            "votes": {
+                "1": 107,
+                "3": 181,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/1c072953-207c-4b37-aa63-305ee41b0eb4-1684106490901319639.jpg",
+            "submission_id": 796432,
+            "total_vote": 301,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 21,
+                "12": 11,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 129,
+                "22": 38,
+                "23": 1,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 0,
+                "8": 0,
+                "9": 87
+            }
+        },
+        "school_name": "BUCA SULTAN ALPARSLAN ANADOLU LİSESİ B BLOK"
+    },
+    {
+        "ballot_box_number": 1122,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/83b85a06-df1a-4ede-9447-0459bf297ee3-1684106187847764125.jpg",
+            "submission_id": 751962,
+            "total_vote": 294,
+            "votes": {
+                "1": 74,
+                "2": 1,
+                "3": 208,
+                "4": 11
+            }
+        },
+        "mv_result": null,
+        "school_name": "BUCA SULTAN ALPARSLAN ANADOLU LİSESİ B BLOK"
+    },
+    {
+        "ballot_box_number": 1127,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3c09cfbe-e3b6-4f7e-95f8-d0e0f0c0a95a-1684105779815910674.jpg",
+            "submission_id": 694373,
+            "total_vote": 299,
+            "votes": {
+                "1": 77,
+                "2": 2,
+                "3": 199,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/bd078aa3-5bbc-4847-a95c-4af64e56898c-1684105749878391524.jpeg",
+            "submission_id": 688747,
+            "total_vote": 292,
+            "votes": {
+                "1": 1,
+                "10": 7,
+                "11": 15,
+                "12": 7,
+                "21": 138,
+                "22": 52,
+                "24": 11,
+                "3": 1,
+                "7": 2,
+                "8": 1,
+                "9": 57
+            }
+        },
+        "school_name": "BUCA SULTAN ALPARSLAN ANADOLU LİSESİ B BLOK"
+    }
+]

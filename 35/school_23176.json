@@ -1,0 +1,143 @@
+[
+    {
+        "ballot_box_number": 1251,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/47515_bulk_999999999_1684085795349247444.jpg",
+            "submission_id": 278247,
+            "total_vote": 280,
+            "votes": {
+                "1": 156,
+                "2": 4,
+                "3": 111,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/47515_bulk_999999999_1684085795435141530.jpg",
+            "submission_id": 278249,
+            "total_vote": 272,
+            "votes": {
+                "1": 1,
+                "10": 5,
+                "11": 38,
+                "12": 0,
+                "13": 5,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 76,
+                "22": 23,
+                "23": 0,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 0,
+                "9": 111
+            }
+        },
+        "school_name": "YİĞİTLER ÖZCAN KATRANCI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1253,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/47515_bulk_999999999_1684085906228029301.jpg",
+            "submission_id": 281999,
+            "total_vote": 285,
+            "votes": {
+                "1": 137,
+                "3": 136,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "YİĞİTLER ÖZCAN KATRANCI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1250,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/47515_bulk_999999999_1684085852590820488.jpg",
+            "submission_id": 280223,
+            "total_vote": 256,
+            "votes": {
+                "1": 126,
+                "3": 120,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/47515_bulk_999999999_1684083936063233556.jpg",
+            "submission_id": 226789,
+            "total_vote": 249,
+            "votes": {
+                "10": 5,
+                "11": 33,
+                "12": 1,
+                "13": 4,
+                "14": 2,
+                "17": 1,
+                "2": 1,
+                "21": 94,
+                "22": 20,
+                "24": 3,
+                "7": 1,
+                "8": 1,
+                "9": 83
+            }
+        },
+        "school_name": "YİĞİTLER ÖZCAN KATRANCI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1252,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/47515_bulk_999999999_1684085906301531886.jpg",
+            "submission_id": 282001,
+            "total_vote": 286,
+            "votes": {
+                "1": 143,
+                "2": 4,
+                "3": 112,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/47515_bulk_999999999_1684085795259135442.jpg",
+            "submission_id": 278244,
+            "total_vote": 279,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 29,
+                "12": 0,
+                "13": 4,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 85,
+                "22": 29,
+                "23": 0,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 5,
+                "8": 2,
+                "9": 107
+            }
+        },
+        "school_name": "YİĞİTLER ÖZCAN KATRANCI ORTAOKULU"
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "ballot_box_number": 1011,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/4364_bulk_999999999_1684089119768117700.jpeg",
+            "submission_id": 385868,
+            "total_vote": 181,
+            "votes": {
+                "1": 64,
+                "2": 3,
+                "3": 104,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/4364_bulk_999999999_1684089153859847810.jpeg",
+            "submission_id": 386818,
+            "total_vote": 174,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 7,
+                "12": 1,
+                "13": 0,
+                "14": 2,
+                "15": 0,
+                "16": 1,
+                "17": 1,
+                "18": 1,
+                "19": 2,
+                "2": 1,
+                "20": 1,
+                "21": 87,
+                "22": 9,
+                "23": 0,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 0,
+                "9": 55
+            }
+        },
+        "school_name": "BAKIRKÖY DÜĞÜN SALONU"
+    }
+]

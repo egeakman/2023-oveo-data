@@ -1,0 +1,95 @@
+[
+    {
+        "ballot_box_number": 1244,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/50176_cb_1093759185_1684083236479126987.jpg",
+            "submission_id": 212796,
+            "total_vote": 252,
+            "votes": {
+                "1": 144,
+                "2": 3,
+                "3": 89,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/50176_mv_1083759185_1684083298412791774.jpg",
+            "submission_id": 213892,
+            "total_vote": 235,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 17,
+                "12": 0,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 73,
+                "22": 16,
+                "23": 0,
+                "24": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 1,
+                "8": 0,
+                "9": 125
+            }
+        },
+        "school_name": "YENİKÖY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1243,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/50176_bulk_999999999_1684079841615928569.jpg",
+            "submission_id": 178585,
+            "total_vote": 254,
+            "votes": {
+                "1": 131,
+                "2": 1,
+                "3": 108,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "YENİKÖY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1242,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/50176_bulk_999999999_1684083431535412992.jpg",
+            "submission_id": 216496,
+            "total_vote": 243,
+            "votes": {
+                "1": 109,
+                "2": 5,
+                "3": 121,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684085526734546501.jpg",
+            "submission_id": 269429,
+            "total_vote": 238,
+            "votes": {
+                "11": 16,
+                "12": 9,
+                "15": 1,
+                "21": 93,
+                "22": 16,
+                "24": 3,
+                "4": 1,
+                "6": 2,
+                "7": 5,
+                "9": 92
+            }
+        },
+        "school_name": "YENİKÖY İLKOKULU"
+    }
+]

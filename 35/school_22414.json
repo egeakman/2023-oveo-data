@@ -1,0 +1,92 @@
+[
+    {
+        "ballot_box_number": 1237,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26286_cb_1093799791_1684088873281008255.jpg",
+            "submission_id": 378722,
+            "total_vote": 247,
+            "votes": {
+                "1": 166,
+                "2": 2,
+                "3": 63,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26286_mv_1083799791_1684087971818788175.jpg",
+            "submission_id": 350981,
+            "total_vote": 240,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 39,
+                "12": 1,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 47,
+                "22": 16,
+                "23": 6,
+                "24": 6,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 13,
+                "9": 107
+            }
+        },
+        "school_name": "KAVACIK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1236,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26286_cb_1093799790_1684085360643288500.jpg",
+            "submission_id": 264477,
+            "total_vote": 222,
+            "votes": {
+                "1": 121,
+                "2": 2,
+                "3": 85,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26286_mv_1083799790_1684086905900568248.jpg",
+            "submission_id": 315653,
+            "total_vote": 211,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 27,
+                "12": 2,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 1,
+                "2": 1,
+                "20": 0,
+                "21": 60,
+                "22": 23,
+                "23": 1,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 13,
+                "9": 74
+            }
+        },
+        "school_name": "KAVACIK İLKOKULU"
+    }
+]

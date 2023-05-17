@@ -1,0 +1,232 @@
+[
+    {
+        "ballot_box_number": 1137,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61865_cb_1093798491_1684088293838014342.jpg",
+            "submission_id": 361130,
+            "total_vote": 325,
+            "votes": {
+                "1": 122,
+                "3": 189,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61865_mv_1083798491_1684087295971459784.jpg",
+            "submission_id": 329244,
+            "total_vote": 319,
+            "votes": {
+                "10": 2,
+                "11": 21,
+                "12": 23,
+                "13": 6,
+                "15": 1,
+                "18": 1,
+                "2": 1,
+                "20": 1,
+                "21": 127,
+                "22": 31,
+                "23": 1,
+                "24": 7,
+                "5": 1,
+                "7": 5,
+                "8": 5,
+                "9": 86
+            }
+        },
+        "school_name": "ÖREN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1133,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/19227_bulk_999999999_1684082832649919691.jpeg",
+            "submission_id": 205930,
+            "total_vote": 309,
+            "votes": {
+                "1": 115,
+                "2": 5,
+                "3": 178,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/19227_bulk_999999999_1684088656876110179.jpeg",
+            "submission_id": 372390,
+            "total_vote": 300,
+            "votes": {
+                "10": 3,
+                "11": 18,
+                "12": 11,
+                "13": 5,
+                "15": 3,
+                "19": 3,
+                "2": 1,
+                "20": 1,
+                "21": 131,
+                "22": 31,
+                "23": 1,
+                "24": 4,
+                "7": 2,
+                "8": 3,
+                "9": 83
+            }
+        },
+        "school_name": "ÖREN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1139,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/61865_bulk_999999999_1684088083258383908.jpeg",
+            "submission_id": 354678,
+            "total_vote": 328,
+            "votes": {
+                "1": 115,
+                "2": 3,
+                "3": 195,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÖREN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1138,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61865_cb_1093798492_1684085437053676814.jpg",
+            "submission_id": 266733,
+            "total_vote": 318,
+            "votes": {
+                "1": 104,
+                "2": 2,
+                "3": 202,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/93cab530-158e-4a7c-9b4f-e4540eab78f7-1684105709593383120.jpg",
+            "submission_id": 683020,
+            "total_vote": 312,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 13,
+                "12": 43,
+                "13": 8,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 122,
+                "22": 30,
+                "23": 0,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 7,
+                "8": 1,
+                "9": 78
+            }
+        },
+        "school_name": "ÖREN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1134,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/375a228b-82ff-49f9-b018-1428b7d41cb4-1684105152080495274.jpg",
+            "submission_id": 582976,
+            "total_vote": 325,
+            "votes": {
+                "1": 99,
+                "2": 5,
+                "3": 211,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/41272226-1751-41a5-a11f-126f5845d51f-1684105151570568866.jpg",
+            "submission_id": 582722,
+            "total_vote": 326,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 17,
+                "12": 16,
+                "13": 8,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 151,
+                "22": 43,
+                "23": 1,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 3,
+                "8": 3,
+                "9": 72
+            }
+        },
+        "school_name": "ÖREN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1135,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/19227_bulk_999999999_1684087601261340958.jpeg",
+            "submission_id": 339112,
+            "total_vote": 324,
+            "votes": {
+                "1": 133,
+                "2": 3,
+                "3": 175,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÖREN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1140,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61865_cb_1093798494_1684085780008147228.jpg",
+            "submission_id": 277740,
+            "total_vote": 332,
+            "votes": {
+                "1": 127,
+                "2": 1,
+                "3": 183,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÖREN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1136,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/19227_bulk_999999999_1684094697295435530.jpeg",
+            "submission_id": 495102,
+            "total_vote": 317,
+            "votes": {
+                "1": 111,
+                "2": 2,
+                "3": 192,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÖREN ORTAOKULU"
+    }
+]

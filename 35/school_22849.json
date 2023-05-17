@@ -1,0 +1,18 @@
+[
+    {
+        "ballot_box_number": 1093,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/65315_bulk_999999999_1684083186107516187.jpg",
+            "submission_id": 211899,
+            "total_vote": 115,
+            "votes": {
+                "1": 58,
+                "2": 2,
+                "3": 52,
+                "4": 3
+            }
+        },
+        "mv_result": null,
+        "school_name": "KOCAOBA SAĞLIK OCAĞI"
+    }
+]

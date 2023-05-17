@@ -1,0 +1,345 @@
+[
+    {
+        "ballot_box_number": 1294,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8de7facd-24c3-45cd-aec3-3c9d894849ec-1684105220118673320.jpg",
+            "submission_id": 597825,
+            "total_vote": 348,
+            "votes": {
+                "1": 121,
+                "2": 4,
+                "3": 208,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/83c0e0da-9d20-45cb-b7b9-9ca157737886-1684105219260911950.jpg",
+            "submission_id": 598171,
+            "total_vote": 336,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 13,
+                "12": 11,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 144,
+                "22": 40,
+                "23": 0,
+                "24": 10,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 6,
+                "8": 1,
+                "9": 104
+            }
+        },
+        "school_name": "İSMET YORGANCILAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1297,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/45468_mv_1083581011_1684090792692873737.jpg",
+            "submission_id": 427538,
+            "total_vote": 345,
+            "votes": {
+                "1": 105,
+                "2": 1,
+                "3": 220,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "İSMET YORGANCILAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1295,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/45468_cb_1093581009_1684090437905657447.jpg",
+            "submission_id": 419871,
+            "total_vote": 332,
+            "votes": {
+                "1": 101,
+                "2": 1,
+                "3": 215,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "İSMET YORGANCILAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1298,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/45468_cb_1093581012_1684087247444477864.jpg",
+            "submission_id": 327594,
+            "total_vote": 325,
+            "votes": {
+                "1": 102,
+                "2": 0,
+                "3": 205,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/45468_mv_1083581012_1684089160050863727.jpg",
+            "submission_id": 387001,
+            "total_vote": 321,
+            "votes": {
+                "10": 2,
+                "11": 18,
+                "12": 12,
+                "21": 150,
+                "22": 41,
+                "24": 8,
+                "4": 1,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 86
+            }
+        },
+        "school_name": "İSMET YORGANCILAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1296,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/45468_cb_1093581010_1684090638818734332.jpg",
+            "submission_id": 424318,
+            "total_vote": 329,
+            "votes": {
+                "1": 91,
+                "2": 1,
+                "3": 229,
+                "4": 8
+            }
+        },
+        "mv_result": null,
+        "school_name": "İSMET YORGANCILAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1292,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5acbc7e1-5c46-49ea-8831-d223a024c984-1684106100775797545.jpg",
+            "submission_id": 738316,
+            "total_vote": 344,
+            "votes": {
+                "1": 93,
+                "2": 2,
+                "3": 246,
+                "4": 3
+            }
+        },
+        "mv_result": null,
+        "school_name": "İSMET YORGANCILAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1300,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/45468_cb_1093581014_1684090369225087748.jpg",
+            "submission_id": 418388,
+            "total_vote": 334,
+            "votes": {
+                "1": 118,
+                "2": 2,
+                "3": 200,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/1c0cb0f4-405e-453f-8d61-017c328e5a48-1684105534559166681.jpg",
+            "submission_id": 654157,
+            "total_vote": 335,
+            "votes": {
+                "11": 28,
+                "12": 16,
+                "14": 1,
+                "20": 1,
+                "21": 143,
+                "22": 48,
+                "24": 3,
+                "3": 3,
+                "5": 1,
+                "7": 4,
+                "8": 2,
+                "9": 85
+            }
+        },
+        "school_name": "İSMET YORGANCILAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1299,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/45468_mv_1083581013_1684089323375708575.jpg",
+            "submission_id": 391483,
+            "total_vote": 333,
+            "votes": {
+                "1": 91,
+                "3": 227,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/45468_cb_1093581013_1684089298235202426.jpg",
+            "submission_id": 390855,
+            "total_vote": 336,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 19,
+                "12": 18,
+                "14": 1,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 151,
+                "22": 50,
+                "23": 1,
+                "24": 7,
+                "3": 5,
+                "4": 0,
+                "5": 2,
+                "6": 3,
+                "7": 6,
+                "8": 1,
+                "9": 66
+            }
+        },
+        "school_name": "İSMET YORGANCILAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1293,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/45468_cb_1093581007_1684089340466420777.jpg",
+            "submission_id": 391885,
+            "total_vote": 356,
+            "votes": {
+                "1": 73,
+                "3": 264,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/45468_mv_1083581007_1684089357431784000.jpg",
+            "submission_id": 392325,
+            "total_vote": 352,
+            "votes": {
+                "10": 2,
+                "11": 15,
+                "12": 24,
+                "14": 2,
+                "19": 1,
+                "20": 2,
+                "21": 188,
+                "22": 47,
+                "24": 12,
+                "4": 1,
+                "6": 2,
+                "9": 56
+            }
+        },
+        "school_name": "İSMET YORGANCILAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1291,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/288ab479-2656-45a5-8912-d85ea632d8db-1684105150242508839.jpg",
+            "submission_id": 583744,
+            "total_vote": 297,
+            "votes": {
+                "1": 91,
+                "2": 1,
+                "3": 203,
+                "4": 2
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ef8b462f-ae3d-4a28-8d4e-5e9e4824fcff-1684105149936119349.jpg",
+            "submission_id": 583708,
+            "total_vote": 292,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 12,
+                "12": 4,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 0,
+                "21": 146,
+                "22": 47,
+                "23": 0,
+                "24": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 76
+            }
+        },
+        "school_name": "İSMET YORGANCILAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1301,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/45468_cb_1093581755_1684090323961951555.jpg",
+            "submission_id": 417423,
+            "total_vote": 338,
+            "votes": {
+                "1": 97,
+                "2": 4,
+                "3": 219,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/45468_mv_1083581755_1684090346443864401.jpg",
+            "submission_id": 417896,
+            "total_vote": 338,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 12,
+                "12": 13,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 160,
+                "22": 48,
+                "23": 2,
+                "24": 9,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 4,
+                "7": 10,
+                "8": 3,
+                "9": 73
+            }
+        },
+        "school_name": "İSMET YORGANCILAR ORTAOKULU"
+    }
+]

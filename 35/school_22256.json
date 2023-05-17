@@ -1,0 +1,34 @@
+[
+    {
+        "ballot_box_number": 2293,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/61760_bulk_999999999_1684083308082928309.jpeg",
+            "submission_id": 214088,
+            "total_vote": 145,
+            "votes": {
+                "1": 52,
+                "2": 2,
+                "3": 82,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61760_mv_1083581587_1684083269068985706.jpg",
+            "submission_id": 213380,
+            "total_vote": 142,
+            "votes": {
+                "10": 1,
+                "11": 16,
+                "12": 1,
+                "13": 2,
+                "21": 62,
+                "22": 14,
+                "24": 11,
+                "7": 2,
+                "8": 1,
+                "9": 32
+            }
+        },
+        "school_name": "TURAN MAHALLESİ SANDIK ALANI"
+    }
+]

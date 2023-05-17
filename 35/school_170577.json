@@ -1,0 +1,69 @@
+[
+    {
+        "ballot_box_number": 1020,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f0ed657e-b6a9-44ed-94ac-9b174bf1c3a3-1684106760161517869.jpg",
+            "submission_id": 833863,
+            "total_vote": 322,
+            "votes": {
+                "1": 29,
+                "3": 286,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "KINIK MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1023,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5c0546e4-eadc-4a49-80c8-de621d26a0d9-1684106673425174542.jpg",
+            "submission_id": 822103,
+            "total_vote": 322,
+            "votes": {
+                "1": 27,
+                "3": 294,
+                "4": 1
+            }
+        },
+        "mv_result": null,
+        "school_name": "KINIK MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1021,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/93b500d4-8d90-4160-b52c-b62890b59fee-1684106360475226525.jpg",
+            "submission_id": 776741,
+            "total_vote": 337,
+            "votes": {
+                "1": 12,
+                "2": 0,
+                "3": 319,
+                "4": 6
+            }
+        },
+        "mv_result": null,
+        "school_name": "KINIK MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1019,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "KINIK MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1022,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2161929a-ea19-4c3c-863d-2dbbb8b2282f-1684106501000638076.jpg",
+            "submission_id": 797431,
+            "total_vote": 338,
+            "votes": {
+                "1": 33,
+                "3": 302,
+                "4": 3
+            }
+        },
+        "mv_result": null,
+        "school_name": "KINIK MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    }
+]

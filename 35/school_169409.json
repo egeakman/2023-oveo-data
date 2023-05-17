@@ -1,0 +1,185 @@
+[
+    {
+        "ballot_box_number": 1247,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/74808_cb_1093579621_1684092675830670743.jpg",
+            "submission_id": 459521,
+            "total_vote": 342,
+            "votes": {
+                "1": 99,
+                "2": 1,
+                "3": 228,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/40823_mv_1083579621_1684093353444915107.jpg",
+            "submission_id": 468831,
+            "total_vote": 334,
+            "votes": {
+                "10": 2,
+                "11": 17,
+                "12": 19,
+                "13": 29,
+                "17": 1,
+                "19": 1,
+                "21": 137,
+                "22": 35,
+                "23": 1,
+                "24": 4,
+                "4": 1,
+                "6": 4,
+                "7": 4,
+                "8": 2,
+                "9": 77
+            }
+        },
+        "school_name": "EVKA-6 (ŞEHİT UĞUR GÖRKEM HARMANKAYA) İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1246,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/74808_cb_1093579620_1684091880422614202.jpg",
+            "submission_id": 447211,
+            "total_vote": 337,
+            "votes": {
+                "1": 65,
+                "2": 1,
+                "3": 261,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "EVKA-6 (ŞEHİT UĞUR GÖRKEM HARMANKAYA) İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1249,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/40823_cb_1093579623_1684091406839508410.jpg",
+            "submission_id": 439659,
+            "total_vote": 346,
+            "votes": {
+                "1": 77,
+                "2": 4,
+                "3": 251,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/74808_mv_1083579623_1684092588985989724.jpg",
+            "submission_id": 458558,
+            "total_vote": 337,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 10,
+                "12": 11,
+                "13": 26,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 2,
+                "21": 178,
+                "22": 29,
+                "23": 0,
+                "24": 0,
+                "3": 1,
+                "4": 9,
+                "5": 0,
+                "6": 1,
+                "7": 5,
+                "8": 0,
+                "9": 63
+            }
+        },
+        "school_name": "EVKA-6 (ŞEHİT UĞUR GÖRKEM HARMANKAYA) İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1248,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28685_cb_1093579622_1684089575636180628.jpg",
+            "submission_id": 398381,
+            "total_vote": 351,
+            "votes": {
+                "1": 59,
+                "2": 2,
+                "3": 279,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/74808_mv_1083579622_1684092552376355907.jpg",
+            "submission_id": 458001,
+            "total_vote": 346,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 11,
+                "12": 23,
+                "13": 30,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 1,
+                "19": 1,
+                "2": 46,
+                "20": 0,
+                "21": 179,
+                "22": 44,
+                "23": 0,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 0
+            }
+        },
+        "school_name": "EVKA-6 (ŞEHİT UĞUR GÖRKEM HARMANKAYA) İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1245,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/74808_cb_1093579619_1684091491390168989.jpg",
+            "submission_id": 441043,
+            "total_vote": 330,
+            "votes": {
+                "1": 69,
+                "2": 0,
+                "3": 254,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/74808_mv_1083579619_1684092014759084959.jpg",
+            "submission_id": 449546,
+            "total_vote": 325,
+            "votes": {
+                "11": 13,
+                "12": 24,
+                "13": 23,
+                "14": 1,
+                "15": 2,
+                "19": 2,
+                "20": 1,
+                "21": 170,
+                "22": 27,
+                "23": 2,
+                "24": 6,
+                "3": 2,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "9": 48
+            }
+        },
+        "school_name": "EVKA-6 (ŞEHİT UĞUR GÖRKEM HARMANKAYA) İLKOKULU"
+    }
+]

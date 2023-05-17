@@ -1,0 +1,682 @@
+[
+    {
+        "ballot_box_number": 1106,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20445_bulk_999999999_1684089154806758745.jpeg",
+            "submission_id": 386849,
+            "total_vote": 327,
+            "votes": {
+                "1": 109,
+                "3": 202,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "KUTSAN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1104,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20445_bulk_999999999_1684089154678979163.jpeg",
+            "submission_id": 386844,
+            "total_vote": 331,
+            "votes": {
+                "1": 129,
+                "2": 0,
+                "3": 174,
+                "4": 28
+            }
+        },
+        "mv_result": null,
+        "school_name": "KUTSAN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1092,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20445_bulk_999999999_1684088900650875992.jpeg",
+            "submission_id": 379604,
+            "total_vote": 342,
+            "votes": {
+                "1": 111,
+                "2": 1,
+                "3": 211,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "KUTSAN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1107,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20445_bulk_999999999_1684089154923780932.jpeg",
+            "submission_id": 386855,
+            "total_vote": 354,
+            "votes": {
+                "1": 117,
+                "2": 4,
+                "3": 216,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20445_bulk_999999999_1684090010235856298.jpeg",
+            "submission_id": 410014,
+            "total_vote": 346,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 37,
+                "12": 20,
+                "13": 19,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 121,
+                "22": 50,
+                "23": 1,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 9,
+                "8": 0,
+                "9": 80
+            }
+        },
+        "school_name": "KUTSAN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1102,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/293_bulk_999999999_1684088658746300132.jpeg",
+            "submission_id": 372466,
+            "total_vote": 355,
+            "votes": {
+                "1": 126,
+                "2": 1,
+                "3": 197,
+                "4": 31
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20445_bulk_999999999_1684090010317708815.jpeg",
+            "submission_id": 410016,
+            "total_vote": 350,
+            "votes": {
+                "10": 2,
+                "11": 28,
+                "12": 7,
+                "13": 17,
+                "14": 1,
+                "15": 1,
+                "20": 1,
+                "21": 125,
+                "22": 49,
+                "23": 0,
+                "24": 10,
+                "7": 6,
+                "8": 2,
+                "9": 101
+            }
+        },
+        "school_name": "KUTSAN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1101,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20445_bulk_999999999_1684089154473355166.jpeg",
+            "submission_id": 386837,
+            "total_vote": 347,
+            "votes": {
+                "1": 128,
+                "3": 201,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "KUTSAN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1088,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20445_bulk_999999999_1684088900466635610.jpeg",
+            "submission_id": 379597,
+            "total_vote": 319,
+            "votes": {
+                "1": 107,
+                "2": 1,
+                "3": 199,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9c1ad525-49d0-4e17-b676-133d348f4337-1684106294016202827.jpeg",
+            "submission_id": 767477,
+            "total_vote": 308,
+            "votes": {
+                "10": 3,
+                "11": 18,
+                "12": 12,
+                "13": 14,
+                "20": 1,
+                "21": 124,
+                "22": 43,
+                "23": 1,
+                "24": 6,
+                "5": 1,
+                "7": 2,
+                "9": 83
+            }
+        },
+        "school_name": "KUTSAN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1090,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20445_bulk_999999999_1684088900526871598.jpeg",
+            "submission_id": 379600,
+            "total_vote": 350,
+            "votes": {
+                "1": 114,
+                "3": 225,
+                "4": 11
+            }
+        },
+        "mv_result": null,
+        "school_name": "KUTSAN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1087,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20445_bulk_999999999_1684088900382629451.jpeg",
+            "submission_id": 379592,
+            "total_vote": 323,
+            "votes": {
+                "1": 98,
+                "2": 4,
+                "3": 213,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20445_bulk_999999999_1684089155028436780.jpeg",
+            "submission_id": 386860,
+            "total_vote": 309,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 11,
+                "12": 7,
+                "13": 6,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 143,
+                "22": 43,
+                "23": 0,
+                "24": 4,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 2,
+                "9": 80
+            }
+        },
+        "school_name": "KUTSAN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1103,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20445_bulk_999999999_1684089154602774829.jpeg",
+            "submission_id": 386843,
+            "total_vote": 344,
+            "votes": {
+                "1": 109,
+                "2": 2,
+                "3": 214,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/690f477d-bea8-4121-b655-8abfea1899ca-1684105630932467950.jpeg",
+            "submission_id": 670349,
+            "total_vote": 336,
+            "votes": {
+                "10": 3,
+                "11": 29,
+                "12": 12,
+                "13": 8,
+                "21": 126,
+                "22": 58,
+                "23": 1,
+                "24": 9,
+                "6": 2,
+                "7": 5,
+                "8": 1,
+                "9": 82
+            }
+        },
+        "school_name": "KUTSAN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1108,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/293_bulk_999999999_1684088658673484664.jpeg",
+            "submission_id": 372464,
+            "total_vote": 339,
+            "votes": {
+                "1": 104,
+                "2": 3,
+                "3": 220,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20445_bulk_999999999_1684090010275750992.jpeg",
+            "submission_id": 410015,
+            "total_vote": 339,
+            "votes": {
+                "10": 1,
+                "11": 21,
+                "12": 17,
+                "13": 23,
+                "2": 1,
+                "21": 129,
+                "22": 50,
+                "24": 10,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 82
+            }
+        },
+        "school_name": "KUTSAN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1099,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20445_bulk_999999999_1684089154206869694.jpeg",
+            "submission_id": 386832,
+            "total_vote": 339,
+            "votes": {
+                "1": 95,
+                "2": 2,
+                "3": 215,
+                "4": 27
+            }
+        },
+        "mv_result": null,
+        "school_name": "KUTSAN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1100,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2e860ddc-e284-4c04-8dda-12690eef77ae-1684106759850578537.jpeg",
+            "submission_id": 833920,
+            "total_vote": 341,
+            "votes": {
+                "1": 101,
+                "2": 1,
+                "3": 222,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e256588e-73f5-4c2e-8cd9-2ffcb94b3e1e-1684106033354295569.jpeg",
+            "submission_id": 729239,
+            "total_vote": 332,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 31,
+                "12": 10,
+                "13": 13,
+                "15": 2,
+                "21": 132,
+                "22": 52,
+                "23": 2,
+                "24": 6,
+                "6": 4,
+                "7": 8,
+                "9": 68
+            }
+        },
+        "school_name": "KUTSAN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1094,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20445_bulk_999999999_1684087832592897647.jpeg",
+            "submission_id": 346582,
+            "total_vote": 331,
+            "votes": {
+                "1": 105,
+                "2": 2,
+                "3": 205,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20445_bulk_999999999_1684087832684364992.jpeg",
+            "submission_id": 346583,
+            "total_vote": 320,
+            "votes": {
+                "10": 2,
+                "11": 23,
+                "12": 5,
+                "13": 18,
+                "14": 1,
+                "21": 134,
+                "22": 54,
+                "24": 7,
+                "7": 3,
+                "8": 1,
+                "9": 72
+            }
+        },
+        "school_name": "KUTSAN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1095,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20445_bulk_999999999_1684088900795263872.jpeg",
+            "submission_id": 379613,
+            "total_vote": 334,
+            "votes": {
+                "1": 107,
+                "2": 2,
+                "3": 193,
+                "4": 32
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20445_bulk_999999999_1684090252803312551.jpeg",
+            "submission_id": 415817,
+            "total_vote": 322,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 28,
+                "12": 8,
+                "13": 17,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 115,
+                "22": 52,
+                "23": 0,
+                "24": 18,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 8,
+                "8": 1,
+                "9": 71
+            }
+        },
+        "school_name": "KUTSAN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1105,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20445_bulk_999999999_1684089154732812903.jpeg",
+            "submission_id": 386847,
+            "total_vote": 339,
+            "votes": {
+                "1": 122,
+                "2": 0,
+                "3": 190,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20445_bulk_999999999_1684090010154673423.jpeg",
+            "submission_id": 410012,
+            "total_vote": 333,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 30,
+                "12": 9,
+                "13": 17,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 2,
+                "21": 118,
+                "22": 45,
+                "23": 1,
+                "24": 7,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 97
+            }
+        },
+        "school_name": "KUTSAN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1091,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20445_bulk_999999999_1684088900582351595.jpeg",
+            "submission_id": 379601,
+            "total_vote": 339,
+            "votes": {
+                "1": 114,
+                "2": 2,
+                "3": 196,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/899efc78-375a-4640-8b22-393aed7fe952-1684106307907618007.jpeg",
+            "submission_id": 769453,
+            "total_vote": 332,
+            "votes": {
+                "10": 3,
+                "11": 32,
+                "12": 7,
+                "13": 23,
+                "14": 0,
+                "15": 0,
+                "21": 125,
+                "22": 48,
+                "23": 2,
+                "24": 13,
+                "8": 2,
+                "9": 77
+            }
+        },
+        "school_name": "KUTSAN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1089,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/293_bulk_999999999_1684093761153222972.jpg",
+            "submission_id": 473855,
+            "total_vote": 335,
+            "votes": {
+                "1": 95,
+                "2": 1,
+                "3": 217,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/293_bulk_999999999_1684093760989885642.jpg",
+            "submission_id": 473846,
+            "total_vote": 319,
+            "votes": {
+                "11": 28,
+                "12": 17,
+                "13": 11,
+                "19": 1,
+                "21": 138,
+                "22": 46,
+                "24": 5,
+                "4": 1,
+                "7": 7,
+                "8": 3,
+                "9": 62
+            }
+        },
+        "school_name": "KUTSAN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1093,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/69046_cb_1093798247_1684081426634878001.jpg",
+            "submission_id": 188738,
+            "total_vote": 341,
+            "votes": {
+                "1": 99,
+                "2": 1,
+                "3": 219,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20445_bulk_999999999_1684090252668927936.jpeg",
+            "submission_id": 415812,
+            "total_vote": 332,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 27,
+                "12": 6,
+                "13": 25,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 145,
+                "22": 44,
+                "23": 2,
+                "24": 8,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 5,
+                "8": 4,
+                "9": 63
+            }
+        },
+        "school_name": "KUTSAN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1096,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20445_bulk_999999999_1684088900915061332.jpeg",
+            "submission_id": 379615,
+            "total_vote": 344,
+            "votes": {
+                "1": 124,
+                "2": 2,
+                "3": 196,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/293_bulk_999999999_1684088658953303461.jpeg",
+            "submission_id": 372472,
+            "total_vote": 334,
+            "votes": {
+                "10": 4,
+                "11": 31,
+                "12": 8,
+                "13": 18,
+                "14": 1,
+                "15": 1,
+                "16": 1,
+                "21": 110,
+                "22": 54,
+                "24": 14,
+                "7": 6,
+                "9": 86
+            }
+        },
+        "school_name": "KUTSAN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1098,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20445_bulk_999999999_1684088901024677446.jpeg",
+            "submission_id": 379622,
+            "total_vote": 347,
+            "votes": {
+                "1": 97,
+                "2": 1,
+                "3": 226,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20445_bulk_999999999_1684090252980300754.jpeg",
+            "submission_id": 415820,
+            "total_vote": 335,
+            "votes": {
+                "10": 3,
+                "11": 26,
+                "12": 7,
+                "13": 16,
+                "19": 1,
+                "2": 1,
+                "21": 127,
+                "22": 60,
+                "23": 1,
+                "24": 13,
+                "7": 5,
+                "8": 3,
+                "9": 72
+            }
+        },
+        "school_name": "KUTSAN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1097,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20445_bulk_999999999_1684088900973314954.jpeg",
+            "submission_id": 379617,
+            "total_vote": 339,
+            "votes": {
+                "1": 116,
+                "2": 1,
+                "3": 202,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "KUTSAN ANADOLU LİSESİ"
+    }
+]

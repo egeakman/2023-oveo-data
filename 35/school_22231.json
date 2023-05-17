@@ -1,0 +1,328 @@
+[
+    {
+        "ballot_box_number": 1121,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/50087_bulk_999999999_1684096803568138677.jpeg",
+            "submission_id": 515943,
+            "total_vote": 313,
+            "votes": {
+                "1": 68,
+                "2": 0,
+                "3": 234,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/50087_bulk_999999999_1684096833795823932.jpeg",
+            "submission_id": 516251,
+            "total_vote": 310,
+            "votes": {
+                "1": 1,
+                "11": 7,
+                "12": 8,
+                "13": 18,
+                "21": 155,
+                "22": 57,
+                "23": 2,
+                "24": 2,
+                "9": 60
+            }
+        },
+        "school_name": "ÖMER ÖZKAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1118,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/60000_bulk_999999999_1684098041266140788.jpeg",
+            "submission_id": 524844,
+            "total_vote": 319,
+            "votes": {
+                "1": 64,
+                "3": 241,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/60000_bulk_999999999_1684083705537910426.jpeg",
+            "submission_id": 221989,
+            "total_vote": 317,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 12,
+                "12": 5,
+                "13": 24,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 151,
+                "22": 56,
+                "23": 0,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 2,
+                "9": 52
+            }
+        },
+        "school_name": "ÖMER ÖZKAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1120,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/60000_bulk_999999999_1684091245555254129.jpeg",
+            "submission_id": 436712,
+            "total_vote": 314,
+            "votes": {
+                "1": 67,
+                "2": 0,
+                "3": 232,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/60000_bulk_999999999_1684091245468603834.jpeg",
+            "submission_id": 436709,
+            "total_vote": 312,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 5,
+                "12": 5,
+                "13": 29,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 152,
+                "22": 48,
+                "23": 1,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 1,
+                "8": 3,
+                "9": 55
+            }
+        },
+        "school_name": "ÖMER ÖZKAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1115,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/34bd7ad9-f6bd-4549-bbf0-b357c8dc7e44-1684106626282553881.jpg",
+            "submission_id": 815721,
+            "total_vote": 317,
+            "votes": {
+                "1": 86,
+                "2": 1,
+                "3": 219,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/50087_bulk_999999999_1684096614724702865.jpeg",
+            "submission_id": 514172,
+            "total_vote": 310,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 11,
+                "12": 9,
+                "13": 21,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 1,
+                "21": 145,
+                "22": 42,
+                "23": 0,
+                "24": 7,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 2,
+                "8": 1,
+                "9": 62
+            }
+        },
+        "school_name": "ÖMER ÖZKAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1117,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/50087_bulk_999999999_1684080257474277630.jpeg",
+            "submission_id": 180587,
+            "total_vote": 312,
+            "votes": {
+                "1": 83,
+                "2": 1,
+                "3": 218,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/50087_bulk_999999999_1684096218436286956.jpeg",
+            "submission_id": 510488,
+            "total_vote": 312,
+            "votes": {
+                "10": 4,
+                "11": 15,
+                "12": 11,
+                "13": 20,
+                "21": 152,
+                "22": 35,
+                "23": 1,
+                "24": 7,
+                "7": 1,
+                "8": 1,
+                "9": 65
+            }
+        },
+        "school_name": "ÖMER ÖZKAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1114,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16451_cb_1093575715_1684081595323323141.jpg",
+            "submission_id": 190284,
+            "total_vote": 311,
+            "votes": {
+                "1": 51,
+                "2": 1,
+                "3": 250,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16451_mv_1083575715_1684081515270149500.jpg",
+            "submission_id": 189524,
+            "total_vote": 306,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 14,
+                "12": 18,
+                "13": 11,
+                "14": 2,
+                "15": 0,
+                "16": 0,
+                "17": 2,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 182,
+                "22": 32,
+                "23": 0,
+                "24": 4,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 0,
+                "9": 34
+            }
+        },
+        "school_name": "ÖMER ÖZKAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1116,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/50087_bulk_999999999_1684098228127189627.jpeg",
+            "submission_id": 525955,
+            "total_vote": 323,
+            "votes": {
+                "1": 68,
+                "3": 235,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/50087_bulk_999999999_1684098249814193643.jpeg",
+            "submission_id": 526126,
+            "total_vote": 328,
+            "votes": {
+                "1": 2,
+                "10": 1,
+                "11": 15,
+                "12": 10,
+                "13": 28,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 151,
+                "22": 43,
+                "23": 0,
+                "24": 14,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 8,
+                "8": 7,
+                "9": 48
+            }
+        },
+        "school_name": "ÖMER ÖZKAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1119,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/50087_bulk_999999999_1684080580904998746.jpeg",
+            "submission_id": 182511,
+            "total_vote": 307,
+            "votes": {
+                "1": 56,
+                "2": 2,
+                "3": 234,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/50087_bulk_999999999_1684096938471250433.jpeg",
+            "submission_id": 517112,
+            "total_vote": 304,
+            "votes": {
+                "10": 2,
+                "11": 8,
+                "12": 10,
+                "13": 25,
+                "14": 1,
+                "21": 144,
+                "22": 55,
+                "23": 1,
+                "24": 9,
+                "3": 1,
+                "7": 4,
+                "9": 44
+            }
+        },
+        "school_name": "ÖMER ÖZKAN İLKOKULU"
+    }
+]

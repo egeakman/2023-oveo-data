@@ -1,0 +1,127 @@
+[
+    {
+        "ballot_box_number": 1049,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/26736_bulk_999999999_1684092878559609410.jpg",
+            "submission_id": 462346,
+            "total_vote": 294,
+            "votes": {
+                "1": 57,
+                "2": 0,
+                "3": 219,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26736_cb_1093796875_1684084892158670214.jpg",
+            "submission_id": 251071,
+            "total_vote": 288,
+            "votes": {
+                "10": 2,
+                "11": 11,
+                "12": 8,
+                "13": 36,
+                "15": 1,
+                "21": 122,
+                "22": 45,
+                "23": 1,
+                "24": 12,
+                "4": 4,
+                "5": 1,
+                "6": 1,
+                "7": 3,
+                "9": 41
+            }
+        },
+        "school_name": "BAHÇELİEVLER MAH. MERT ÖZTÜRE İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1048,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/26736_bulk_999999999_1684092878257243783.jpg",
+            "submission_id": 462339,
+            "total_vote": 303,
+            "votes": {
+                "1": 67,
+                "2": 2,
+                "3": 215,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "BAHÇELİEVLER MAH. MERT ÖZTÜRE İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1047,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/54575_cb_1093796693_1684083823813726616.jpg",
+            "submission_id": 224539,
+            "total_vote": 306,
+            "votes": {
+                "1": 55,
+                "2": 2,
+                "3": 232,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/54575_mv_1083796693_1684086250261173284.jpg",
+            "submission_id": 293049,
+            "total_vote": 301,
+            "votes": {
+                "1": 2,
+                "10": 1,
+                "11": 14,
+                "12": 6,
+                "13": 27,
+                "15": 1,
+                "19": 1,
+                "21": 163,
+                "22": 37,
+                "23": 1,
+                "24": 8,
+                "5": 1,
+                "6": 1,
+                "7": 4,
+                "8": 1,
+                "9": 33
+            }
+        },
+        "school_name": "BAHÇELİEVLER MAH. MERT ÖZTÜRE İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1046,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/69422_bulk_999999999_1684085904922953534.jpg",
+            "submission_id": 281964,
+            "total_vote": 287,
+            "votes": {
+                "1": 75,
+                "2": 2,
+                "3": 201,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/26736_bulk_999999999_1684092877877047923.jpg",
+            "submission_id": 462325,
+            "total_vote": 279,
+            "votes": {
+                "10": 1,
+                "11": 14,
+                "12": 7,
+                "13": 25,
+                "14": 2,
+                "2": 1,
+                "21": 118,
+                "22": 39,
+                "23": 2,
+                "24": 8,
+                "3": 2,
+                "7": 5,
+                "9": 55
+            }
+        },
+        "school_name": "BAHÇELİEVLER MAH. MERT ÖZTÜRE İLKOKULU"
+    }
+]

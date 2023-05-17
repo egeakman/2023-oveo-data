@@ -1,0 +1,679 @@
+[
+    {
+        "ballot_box_number": 2077,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48710_cb_1093864431_1684084527852550155.jpg",
+            "submission_id": 241189,
+            "total_vote": 306,
+            "votes": {
+                "1": 63,
+                "2": 2,
+                "3": 231,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/76609_mv_1083864431_1684086729057924937.jpg",
+            "submission_id": 309561,
+            "total_vote": 296,
+            "votes": {
+                "10": 2,
+                "11": 10,
+                "12": 1,
+                "13": 4,
+                "16": 2,
+                "21": 174,
+                "22": 47,
+                "24": 4,
+                "3": 1,
+                "5": 1,
+                "7": 4,
+                "8": 2,
+                "9": 44
+            }
+        },
+        "school_name": "ÖZGİLLER DALAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2085,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18545_mv_1083864459_1684083652588117523.jpg",
+            "submission_id": 220842,
+            "total_vote": 334,
+            "votes": {
+                "1": 60,
+                "2": 1,
+                "3": 256,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18545_cb_1093864459_1684083622660765214.jpg",
+            "submission_id": 220190,
+            "total_vote": 329,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 11,
+                "12": 5,
+                "13": 35,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 176,
+                "23": 40,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 0,
+                "9": 47
+            }
+        },
+        "school_name": "ÖZGİLLER DALAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2091,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/55410_cb_1093864465_1684085601250415617.jpg",
+            "submission_id": 271808,
+            "total_vote": 332,
+            "votes": {
+                "1": 63,
+                "2": 1,
+                "3": 249,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/55410_mv_1083864465_1684085867965465131.jpg",
+            "submission_id": 280733,
+            "total_vote": 328,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 15,
+                "12": 17,
+                "13": 24,
+                "14": 5,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 157,
+                "22": 49,
+                "23": 1,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 2,
+                "8": 0,
+                "9": 46
+            }
+        },
+        "school_name": "ÖZGİLLER DALAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2080,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/77488_bulk_999999999_1684079211724170115.jpg",
+            "submission_id": 176278,
+            "total_vote": 342,
+            "votes": {
+                "1": 56,
+                "3": 272,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÖZGİLLER DALAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2087,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/76609_cb_1093864461_1684080414975053692.jpg",
+            "submission_id": 181531,
+            "total_vote": 339,
+            "votes": {
+                "1": 67,
+                "3": 257,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/76609_mv_1083864461_1684085103035645165.jpg",
+            "submission_id": 257043,
+            "total_vote": 331,
+            "votes": {
+                "11": 11,
+                "12": 12,
+                "13": 31,
+                "19": 1,
+                "21": 166,
+                "22": 38,
+                "23": 2,
+                "24": 9,
+                "3": 1,
+                "5": 1,
+                "6": 4,
+                "7": 4,
+                "9": 51
+            }
+        },
+        "school_name": "ÖZGİLLER DALAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2090,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/55410_cb_1093864464_1684083330971338386.jpg",
+            "submission_id": 214499,
+            "total_vote": 334,
+            "votes": {
+                "1": 58,
+                "2": 1,
+                "3": 263,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/55410_mv_1083864464_1684083541909413102.jpg",
+            "submission_id": 218600,
+            "total_vote": 330,
+            "votes": {
+                "10": 1,
+                "11": 15,
+                "12": 5,
+                "13": 33,
+                "16": 2,
+                "19": 2,
+                "21": 159,
+                "22": 64,
+                "24": 8,
+                "3": 1,
+                "6": 2,
+                "7": 3,
+                "9": 35
+            }
+        },
+        "school_name": "ÖZGİLLER DALAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2078,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/55410_bulk_999999999_1684086222822829484.jpg",
+            "submission_id": 292198,
+            "total_vote": 305,
+            "votes": {
+                "1": 45,
+                "2": 2,
+                "3": 249,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/55410_mv_1083864432_1684086607909349366.jpg",
+            "submission_id": 305276,
+            "total_vote": 294,
+            "votes": {
+                "10": 1,
+                "11": 5,
+                "12": 4,
+                "13": 9,
+                "15": 1,
+                "21": 191,
+                "22": 33,
+                "23": 1,
+                "24": 7,
+                "6": 3,
+                "7": 1,
+                "8": 1,
+                "9": 37
+            }
+        },
+        "school_name": "ÖZGİLLER DALAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2084,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18545_cb_1093864458_1684079087569898000.jpg",
+            "submission_id": 175922,
+            "total_vote": 340,
+            "votes": {
+                "1": 55,
+                "2": 1,
+                "3": 264,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18545_mv_1083864458_1684086327590186550.jpg",
+            "submission_id": 295657,
+            "total_vote": 332,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 12,
+                "12": 4,
+                "13": 25,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 178,
+                "22": 51,
+                "23": 1,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 5,
+                "8": 1,
+                "9": 42
+            }
+        },
+        "school_name": "ÖZGİLLER DALAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2094,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/55410_cb_1093864468_1684086926131252520.jpg",
+            "submission_id": 316406,
+            "total_vote": 335,
+            "votes": {
+                "1": 75,
+                "2": 2,
+                "3": 244,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/55410_mv_1083864468_1684087054465968249.jpg",
+            "submission_id": 320868,
+            "total_vote": 326,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 17,
+                "12": 6,
+                "13": 23,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 156,
+                "22": 48,
+                "23": 0,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 7,
+                "8": 2,
+                "9": 52
+            }
+        },
+        "school_name": "ÖZGİLLER DALAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2083,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48728_cb_1093864457_1684082697277571505.jpg",
+            "submission_id": 203810,
+            "total_vote": 344,
+            "votes": {
+                "1": 52,
+                "2": 2,
+                "3": 268,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48728_mv_1083864457_1684082735947011061.jpg",
+            "submission_id": 204427,
+            "total_vote": 340,
+            "votes": {
+                "10": 1,
+                "11": 4,
+                "12": 13,
+                "13": 30,
+                "14": 1,
+                "16": 1,
+                "17": 1,
+                "2": 1,
+                "21": 176,
+                "22": 44,
+                "24": 13,
+                "7": 12,
+                "8": 1,
+                "9": 42
+            }
+        },
+        "school_name": "ÖZGİLLER DALAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2082,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/77488_bulk_999999999_1684077577357520060.jpg",
+            "submission_id": 173352,
+            "total_vote": 329,
+            "votes": {
+                "1": 58,
+                "2": 0,
+                "3": 255,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/77488_mv_1083864456_1684082733611902160.jpg",
+            "submission_id": 204380,
+            "total_vote": 331,
+            "votes": {
+                "1": 2,
+                "10": 5,
+                "11": 11,
+                "12": 12,
+                "13": 22,
+                "2": 0,
+                "20": 0,
+                "21": 179,
+                "22": 40,
+                "23": 0,
+                "24": 11,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 44
+            }
+        },
+        "school_name": "ÖZGİLLER DALAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2089,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39743_cb_1093864463_1684084893407263056.jpg",
+            "submission_id": 251112,
+            "total_vote": 338,
+            "votes": {
+                "1": 42,
+                "3": 289,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÖZGİLLER DALAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2081,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/55410_cb_1093864455_1684087139992754297.jpg",
+            "submission_id": 323891,
+            "total_vote": 353,
+            "votes": {
+                "1": 61,
+                "2": 1,
+                "3": 272,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/55410_mv_1083864455_1684087326564762255.jpg",
+            "submission_id": 330252,
+            "total_vote": 347,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 4,
+                "12": 4,
+                "13": 37,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 173,
+                "22": 58,
+                "23": 0,
+                "24": 8,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 8,
+                "8": 1,
+                "9": 48
+            }
+        },
+        "school_name": "ÖZGİLLER DALAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2092,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/73971_cb_1093864466_1684080584327093307.jpg",
+            "submission_id": 182532,
+            "total_vote": 344,
+            "votes": {
+                "1": 64,
+                "2": 3,
+                "3": 254,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/73971_mv_1083864466_1684088263397085280.jpg",
+            "submission_id": 360219,
+            "total_vote": 335,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 9,
+                "12": 7,
+                "13": 13,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 166,
+                "22": 63,
+                "23": 0,
+                "24": 13,
+                "3": 7,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 3,
+                "8": 0,
+                "9": 48
+            }
+        },
+        "school_name": "ÖZGİLLER DALAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2086,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48728_cb_1093864460_1684087727013657392.jpg",
+            "submission_id": 343285,
+            "total_vote": 344,
+            "votes": {
+                "1": 48,
+                "2": 3,
+                "3": 281,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48728_mv_1083864460_1684087796515574008.jpg",
+            "submission_id": 345463,
+            "total_vote": 328,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 7,
+                "12": 10,
+                "13": 37,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 176,
+                "22": 45,
+                "23": 1,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 4,
+                "8": 0,
+                "9": 36
+            }
+        },
+        "school_name": "ÖZGİLLER DALAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2093,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18833_cb_1093864467_1684086425926310543.jpg",
+            "submission_id": 298896,
+            "total_vote": 328,
+            "votes": {
+                "1": 55,
+                "3": 261,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/55410_bulk_999999999_1684088985060165475.jpg",
+            "submission_id": 382078,
+            "total_vote": 315,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 13,
+                "12": 10,
+                "13": 13,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 175,
+                "22": 53,
+                "23": 1,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 3,
+                "8": 0,
+                "9": 41
+            }
+        },
+        "school_name": "ÖZGİLLER DALAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2079,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/76609_cb_1093864433_1684086430056844544.jpg",
+            "submission_id": 299038,
+            "total_vote": 326,
+            "votes": {
+                "1": 65,
+                "2": 1,
+                "3": 250,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/76609_mv_1083864433_1684086610526577134.jpg",
+            "submission_id": 305360,
+            "total_vote": 319,
+            "votes": {
+                "11": 13,
+                "12": 3,
+                "13": 23,
+                "21": 177,
+                "22": 38,
+                "23": 1,
+                "24": 2,
+                "5": 1,
+                "6": 3,
+                "7": 3,
+                "9": 55
+            }
+        },
+        "school_name": "ÖZGİLLER DALAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2088,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/55410_cb_1093864462_1684087423393228585.jpg",
+            "submission_id": 333435,
+            "total_vote": 330,
+            "votes": {
+                "1": 44,
+                "2": 1,
+                "3": 266,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/55410_mv_1083864462_1684087454524352883.jpg",
+            "submission_id": 334417,
+            "total_vote": 321,
+            "votes": {
+                "11": 10,
+                "12": 3,
+                "13": 34,
+                "19": 1,
+                "21": 170,
+                "22": 50,
+                "24": 12,
+                "6": 1,
+                "7": 6,
+                "8": 1,
+                "9": 33
+            }
+        },
+        "school_name": "ÖZGİLLER DALAN İLKOKULU"
+    }
+]

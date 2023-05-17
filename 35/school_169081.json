@@ -1,0 +1,265 @@
+[
+    {
+        "ballot_box_number": 1257,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "GÜZELTEPE İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1253,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/46944_cb_1093579627_1684092749812943387.jpg",
+            "submission_id": 460555,
+            "total_vote": 344,
+            "votes": {
+                "1": 67,
+                "2": 1,
+                "3": 269,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/46944_mv_1083579627_1684092709411696661.jpg",
+            "submission_id": 459989,
+            "total_vote": 336,
+            "votes": {
+                "10": 3,
+                "11": 10,
+                "12": 64,
+                "13": 45,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 135,
+                "22": 12,
+                "23": 1,
+                "24": 2,
+                "3": 6,
+                "4": 0,
+                "5": 2,
+                "6": 0,
+                "7": 4,
+                "8": 0,
+                "9": 51
+            }
+        },
+        "school_name": "GÜZELTEPE İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1252,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/46944_cb_1093579626_1684092522292996544.jpg",
+            "submission_id": 457613,
+            "total_vote": 344,
+            "votes": {
+                "1": 91,
+                "2": 1,
+                "3": 242,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/46944_mv_1083579626_1684092629189948839.jpg",
+            "submission_id": 458971,
+            "total_vote": 334,
+            "votes": {
+                "11": 15,
+                "12": 41,
+                "13": 41,
+                "14": 1,
+                "15": 1,
+                "2": 1,
+                "21": 136,
+                "22": 17,
+                "23": 1,
+                "24": 8,
+                "3": 1,
+                "7": 3,
+                "8": 1,
+                "9": 67
+            }
+        },
+        "school_name": "GÜZELTEPE İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1255,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/46944_cb_1093579629_1684092973229611973.jpg",
+            "submission_id": 463586,
+            "total_vote": 345,
+            "votes": {
+                "1": 94,
+                "2": 4,
+                "3": 238,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/46944_mv_1083579629_1684093021341068225.jpg",
+            "submission_id": 464214,
+            "total_vote": 343,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 26,
+                "12": 28,
+                "13": 21,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 154,
+                "22": 22,
+                "23": 0,
+                "24": 10,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 4,
+                "7": 3,
+                "8": 0,
+                "9": 69
+            }
+        },
+        "school_name": "GÜZELTEPE İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1256,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/46944_cb_1093579630_1684093179415333201.jpg",
+            "submission_id": 466478,
+            "total_vote": 335,
+            "votes": {
+                "1": 86,
+                "2": 2,
+                "3": 243,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/46944_mv_1083579630_1684093244789112969.jpg",
+            "submission_id": 467477,
+            "total_vote": 331,
+            "votes": {
+                "11": 19,
+                "12": 33,
+                "13": 31,
+                "14": 1,
+                "20": 2,
+                "21": 159,
+                "22": 16,
+                "24": 2,
+                "3": 2,
+                "9": 66
+            }
+        },
+        "school_name": "GÜZELTEPE İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1251,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/46944_cb_1093579625_1684092243410788913.jpg",
+            "submission_id": 453204,
+            "total_vote": 338,
+            "votes": {
+                "1": 84,
+                "2": 3,
+                "3": 243,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/46944_mv_1083579625_1684092340020316024.jpg",
+            "submission_id": 454792,
+            "total_vote": 331,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 16,
+                "12": 47,
+                "13": 28,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 150,
+                "22": 10,
+                "23": 2,
+                "24": 5,
+                "3": 1,
+                "4": 2,
+                "5": 3,
+                "6": 0,
+                "7": 6,
+                "8": 0,
+                "9": 60
+            }
+        },
+        "school_name": "GÜZELTEPE İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1254,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/46944_cb_1093579628_1684092898125144881.jpg",
+            "submission_id": 462631,
+            "total_vote": 344,
+            "votes": {
+                "1": 75,
+                "2": 0,
+                "3": 265,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/46944_mv_1083579628_1684092837266855975.jpg",
+            "submission_id": 461810,
+            "total_vote": 334,
+            "votes": {
+                "10": 1,
+                "11": 18,
+                "12": 44,
+                "13": 44,
+                "15": 1,
+                "21": 156,
+                "22": 16,
+                "24": 2,
+                "3": 2,
+                "5": 1,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 46
+            }
+        },
+        "school_name": "GÜZELTEPE İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1250,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/46944_cb_1093579624_1684092147165018919.jpg",
+            "submission_id": 451727,
+            "total_vote": 323,
+            "votes": {
+                "1": 98,
+                "2": 1,
+                "3": 218,
+                "4": 6
+            }
+        },
+        "mv_result": null,
+        "school_name": "GÜZELTEPE İLK OKULU"
+    }
+]

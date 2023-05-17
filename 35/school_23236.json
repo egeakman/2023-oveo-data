@@ -1,0 +1,64 @@
+[
+    {
+        "ballot_box_number": 1049,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a2cf9d7c-d14f-4958-83da-90743c910299-1684105159912795343.jpg",
+            "submission_id": 585645,
+            "total_vote": 214,
+            "votes": {
+                "1": 133,
+                "2": 5,
+                "3": 59,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3ee3d521-5821-4d06-9602-2606e9b2dbfd-1684105158240125057.jpg",
+            "submission_id": 585384,
+            "total_vote": 194,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 19,
+                "12": 0,
+                "13": 1,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 39,
+                "21": 0,
+                "22": 20,
+                "23": 0,
+                "24": 5,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 3,
+                "9": 100
+            }
+        },
+        "school_name": "KARAKUZU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1050,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f4aa51ed-9c8a-49b7-a215-a8c9015e6c11-1684105155227719208.jpg",
+            "submission_id": 584899,
+            "total_vote": 234,
+            "votes": {
+                "1": 137,
+                "2": 6,
+                "3": 78,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "KARAKUZU İLKOKULU"
+    }
+]

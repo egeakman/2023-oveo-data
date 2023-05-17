@@ -1,0 +1,17 @@
+[
+    {
+        "ballot_box_number": 1037,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/4364_bulk_999999999_1684089092964592042.jpeg",
+            "submission_id": 385187,
+            "total_vote": 74,
+            "votes": {
+                "1": 25,
+                "3": 46,
+                "4": 3
+            }
+        },
+        "mv_result": null,
+        "school_name": "YENİYURT MAHALLESİ (KÖY)ODASI"
+    }
+]

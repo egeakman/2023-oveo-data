@@ -1,0 +1,247 @@
+[
+    {
+        "ballot_box_number": 2275,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/db52547e-4743-49ef-9077-17a740164122-1684106509494642652.jpg",
+            "submission_id": 798847,
+            "total_vote": 314,
+            "votes": {
+                "1": 93,
+                "2": 2,
+                "3": 191,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/eef73f87-c736-4cbc-bc7d-bb4505904c9d-1684106506710544024.jpg",
+            "submission_id": 798278,
+            "total_vote": 310,
+            "votes": {
+                "10": 2,
+                "11": 9,
+                "12": 2,
+                "13": 14,
+                "19": 1,
+                "21": 131,
+                "22": 53,
+                "24": 10,
+                "4": 1,
+                "6": 4,
+                "7": 3,
+                "8": 1,
+                "9": 79
+            }
+        },
+        "school_name": "OKUTAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2271,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8e2353f0-df1f-4b11-8abe-4a234a543a80-1684106667214960722.jpg",
+            "submission_id": 821372,
+            "total_vote": 295,
+            "votes": {
+                "1": 92,
+                "2": 6,
+                "3": 189,
+                "4": 8
+            }
+        },
+        "mv_result": null,
+        "school_name": "OKUTAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2272,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f0012741-afe5-468a-9a9d-5af3d89b4178-1684106312765271647.jpg",
+            "submission_id": 770414,
+            "total_vote": 314,
+            "votes": {
+                "1": 74,
+                "2": 3,
+                "3": 218,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/445077d0-2da6-42b0-a096-ace9e1c6fd6e-1684106310060959194.jpg",
+            "submission_id": 769958,
+            "total_vote": 309,
+            "votes": {
+                "1": 1,
+                "11": 7,
+                "12": 2,
+                "13": 12,
+                "15": 1,
+                "20": 1,
+                "21": 152,
+                "22": 43,
+                "23": 1,
+                "24": 9,
+                "4": 1,
+                "6": 1,
+                "7": 11,
+                "9": 67
+            }
+        },
+        "school_name": "OKUTAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2279,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/b8686f2b-bf47-4508-b201-6f8b0101cf31-1684105598696735890.jpg",
+            "submission_id": 665276,
+            "total_vote": 318,
+            "votes": {
+                "1": 98,
+                "2": 3,
+                "3": 192,
+                "4": 25
+            }
+        },
+        "mv_result": null,
+        "school_name": "OKUTAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2276,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/79882_cb_1093581318_1684085176519938867.jpg",
+            "submission_id": 259166,
+            "total_vote": 313,
+            "votes": {
+                "1": 99,
+                "2": 1,
+                "3": 194,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "OKUTAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2274,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/acb8ee43-0ca6-49c5-b42d-0fe48d10894f-1684106108009736002.jpg",
+            "submission_id": 739649,
+            "total_vote": 309,
+            "votes": {
+                "1": 97,
+                "2": 2,
+                "3": 187,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/50eda3e9-ea8a-470b-8471-6a2fee757eb9-1684106120886211689.jpg",
+            "submission_id": 741637,
+            "total_vote": 305,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 11,
+                "12": 2,
+                "13": 4,
+                "14": 0,
+                "15": 9,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 128,
+                "22": 35,
+                "23": 1,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 6,
+                "6": 3,
+                "7": 8,
+                "8": 4,
+                "9": 82
+            }
+        },
+        "school_name": "OKUTAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2277,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/78811_cb_1093581319_1684084114560607433.jpg",
+            "submission_id": 230739,
+            "total_vote": 307,
+            "votes": {
+                "1": 90,
+                "2": 2,
+                "3": 191,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/78811_mv_1083581319_1684086278224178447.jpg",
+            "submission_id": 294014,
+            "total_vote": 302,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 20,
+                "12": 3,
+                "13": 16,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 130,
+                "22": 42,
+                "23": 0,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 5,
+                "8": 1,
+                "9": 74
+            }
+        },
+        "school_name": "OKUTAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2278,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "OKUTAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2273,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/305bb840-9910-45d9-91b7-ca271f81e9a3-1684106488890220152.jpg",
+            "submission_id": 796023,
+            "total_vote": 311,
+            "votes": {
+                "10": 1,
+                "11": 20,
+                "12": 2,
+                "13": 13,
+                "14": 1,
+                "15": 2,
+                "20": 1,
+                "21": 135,
+                "22": 40,
+                "23": 2,
+                "24": 5,
+                "3": 2,
+                "6": 3,
+                "7": 3,
+                "8": 2,
+                "9": 79
+            }
+        },
+        "school_name": "OKUTAN İLKOKULU"
+    }
+]

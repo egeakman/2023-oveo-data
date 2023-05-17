@@ -1,0 +1,185 @@
+[
+    {
+        "ballot_box_number": 2027,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/49045_bulk_999999999_1684082988947564743.jpeg",
+            "submission_id": 208523,
+            "total_vote": 322,
+            "votes": {
+                "1": 124,
+                "2": 3,
+                "3": 177,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/49045_bulk_999999999_1684084298136273637.jpeg",
+            "submission_id": 235447,
+            "total_vote": 311,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 9,
+                "12": 5,
+                "13": 9,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 4,
+                "2": 0,
+                "20": 0,
+                "21": 110,
+                "22": 41,
+                "23": 1,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 3,
+                "9": 112
+            }
+        },
+        "school_name": "MİMAR SİNAN M.T.A.LİSESİ"
+    },
+    {
+        "ballot_box_number": 2029,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/49045_bulk_999999999_1684086127713163688.jpeg",
+            "submission_id": 289103,
+            "total_vote": 322,
+            "votes": {
+                "1": 94,
+                "2": 2,
+                "3": 203,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/49045_bulk_999999999_1684087570401026066.jpeg",
+            "submission_id": 338157,
+            "total_vote": 310,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 17,
+                "12": 6,
+                "13": 11,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 136,
+                "22": 38,
+                "23": 2,
+                "24": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 7,
+                "7": 5,
+                "8": 2,
+                "9": 85
+            }
+        },
+        "school_name": "MİMAR SİNAN M.T.A.LİSESİ"
+    },
+    {
+        "ballot_box_number": 2028,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49045_mv_1083570213_1684081263527983234.jpg",
+            "submission_id": 187331,
+            "total_vote": 342,
+            "votes": {
+                "1": 112,
+                "2": 1,
+                "3": 200,
+                "4": 29
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49045_mv_1083570213_1684087497201776343.jpg",
+            "submission_id": 335808,
+            "total_vote": 338,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 13,
+                "12": 5,
+                "13": 12,
+                "14": 1,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 131,
+                "22": 49,
+                "23": 0,
+                "24": 15,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 11,
+                "7": 3,
+                "8": 0,
+                "9": 95
+            }
+        },
+        "school_name": "MİMAR SİNAN M.T.A.LİSESİ"
+    },
+    {
+        "ballot_box_number": 2030,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49045_cb_1093571555_1684088303197205292.jpg",
+            "submission_id": 361445,
+            "total_vote": 335,
+            "votes": {
+                "1": 124,
+                "2": 2,
+                "3": 181,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/49045_bulk_999999999_1684088109427741133.jpeg",
+            "submission_id": 355467,
+            "total_vote": 321,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 10,
+                "12": 2,
+                "13": 17,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 123,
+                "22": 40,
+                "23": 1,
+                "24": 6,
+                "3": 0,
+                "4": 8,
+                "5": 1,
+                "6": 7,
+                "7": 3,
+                "8": 1,
+                "9": 97
+            }
+        },
+        "school_name": "MİMAR SİNAN M.T.A.LİSESİ"
+    }
+]

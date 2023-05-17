@@ -1,0 +1,279 @@
+[
+    {
+        "ballot_box_number": 1415,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26617_cb_1093586220_1684085838257923597.jpg",
+            "submission_id": 279737,
+            "total_vote": 335,
+            "votes": {
+                "1": 74,
+                "3": 245,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "BUCA ZÜBEYDE HANIM MESLEKİ TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1414,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26617_cb_1093586219_1684080443746767810.jpg",
+            "submission_id": 181692,
+            "total_vote": 332,
+            "votes": {
+                "1": 68,
+                "2": 1,
+                "3": 249,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26617_mv_1083586219_1684085784278922250.jpg",
+            "submission_id": 277899,
+            "total_vote": 329,
+            "votes": {
+                "10": 2,
+                "11": 9,
+                "12": 16,
+                "14": 1,
+                "19": 2,
+                "20": 1,
+                "21": 172,
+                "22": 52,
+                "24": 13,
+                "4": 1,
+                "7": 5,
+                "8": 1,
+                "9": 54
+            }
+        },
+        "school_name": "BUCA ZÜBEYDE HANIM MESLEKİ TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1413,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21350_cb_1093586218_1684088261592381584.jpg",
+            "submission_id": 360142,
+            "total_vote": 348,
+            "votes": {
+                "1": 81,
+                "3": 249,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21350_mv_1083586218_1684088749362275371.jpg",
+            "submission_id": 375162,
+            "total_vote": 346,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 14,
+                "12": 12,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 177,
+                "22": 62,
+                "23": 1,
+                "24": 11,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 5,
+                "7": 4,
+                "8": 2,
+                "9": 54
+            }
+        },
+        "school_name": "BUCA ZÜBEYDE HANIM MESLEKİ TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1412,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21350_cb_1093586217_1684086034672519520.jpg",
+            "submission_id": 286080,
+            "total_vote": 339,
+            "votes": {
+                "1": 65,
+                "2": 2,
+                "3": 250,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/428c93eb-a262-42a6-9025-f01048f1fcbe-1684105628948183064.jpeg",
+            "submission_id": 669750,
+            "total_vote": 334,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 14,
+                "12": 13,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 174,
+                "22": 60,
+                "23": 1,
+                "24": 10,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 7,
+                "8": 1,
+                "9": 47
+            }
+        },
+        "school_name": "BUCA ZÜBEYDE HANIM MESLEKİ TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1417,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21350_cb_1093586222_1684086007096636334.jpg",
+            "submission_id": 285127,
+            "total_vote": 338,
+            "votes": {
+                "1": 70,
+                "2": 2,
+                "3": 253,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21350_mv_1083586222_1684088319510853561.jpg",
+            "submission_id": 361895,
+            "total_vote": 336,
+            "votes": {
+                "11": 13,
+                "12": 20,
+                "14": 1,
+                "15": 1,
+                "21": 192,
+                "22": 41,
+                "23": 6,
+                "3": 4,
+                "4": 2,
+                "8": 1,
+                "9": 55
+            }
+        },
+        "school_name": "BUCA ZÜBEYDE HANIM MESLEKİ TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1416,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c1270318-5557-4e07-8b85-ddeaa5532d5b-1684105666166790477.jpeg",
+            "submission_id": 676537,
+            "total_vote": 327,
+            "votes": {
+                "1": 68,
+                "3": 241,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/96150_bulk_999999999_1684237064381759200.jpeg",
+            "submission_id": 1027951,
+            "total_vote": 325,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 14,
+                "12": 11,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 170,
+                "22": 53,
+                "23": 0,
+                "24": 12,
+                "3": 2,
+                "4": 4,
+                "5": 0,
+                "6": 1,
+                "7": 5,
+                "8": 3,
+                "9": 44
+            }
+        },
+        "school_name": "BUCA ZÜBEYDE HANIM MESLEKİ TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1410,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21350_cb_1093586215_1684088411820494268.jpg",
+            "submission_id": 364797,
+            "total_vote": 316,
+            "votes": {
+                "1": 66,
+                "2": 4,
+                "3": 239,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e3161e00-8a1e-4723-b375-2f99b0a92464-1684105726024146426.jpeg",
+            "submission_id": 685440,
+            "total_vote": 300,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 11,
+                "12": 6,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 185,
+                "22": 38,
+                "23": 1,
+                "24": 3,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 3,
+                "8": 2,
+                "9": 41
+            }
+        },
+        "school_name": "BUCA ZÜBEYDE HANIM MESLEKİ TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1411,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21350_cb_1093586216_1684088395861192249.jpg",
+            "submission_id": 364291,
+            "total_vote": 325,
+            "votes": {
+                "1": 64,
+                "2": 1,
+                "3": 250,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "BUCA ZÜBEYDE HANIM MESLEKİ TEKNİK ANADOLU LİSESİ"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "ballot_box_number": 1048,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20564_mv_1083571014_1684086428949262746.jpg",
+            "submission_id": 298998,
+            "total_vote": 231,
+            "votes": {
+                "1": 82,
+                "2": 3,
+                "3": 138,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/188bdb32-e0bb-4c47-83bd-a1200abe0df6-1684106378479338664.jpg",
+            "submission_id": 779642,
+            "total_vote": 225,
+            "votes": {
+                "1": 1,
+                "11": 19,
+                "12": 3,
+                "16": 1,
+                "2": 1,
+                "20": 2,
+                "21": 113,
+                "22": 20,
+                "24": 4,
+                "6": 1,
+                "7": 4,
+                "9": 56
+            }
+        },
+        "school_name": "PAYAMLI İLKOKULU"
+    }
+]

@@ -1,0 +1,310 @@
+[
+    {
+        "ballot_box_number": 1304,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c902e453-aeb2-4523-a154-f035071aa2f4-1684105464090136313.jpg",
+            "submission_id": 643208,
+            "total_vote": 293,
+            "votes": {
+                "1": 122,
+                "2": 2,
+                "3": 156,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/55581_bulk_999999999_1684095846867478652.jpeg",
+            "submission_id": 507304,
+            "total_vote": 284,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 15,
+                "12": 7,
+                "13": 0,
+                "14": 4,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 0,
+                "21": 102,
+                "22": 38,
+                "23": 0,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 0,
+                "8": 0,
+                "9": 104
+            }
+        },
+        "school_name": "BÜYÜK ÇIĞLI İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1307,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/76f28b4f-73e4-4004-995b-7f2adf385f34-1684105935233305831.jpg",
+            "submission_id": 714998,
+            "total_vote": 319,
+            "votes": {
+                "1": 123,
+                "2": 2,
+                "3": 172,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "BÜYÜK ÇIĞLI İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1310,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/42017_cb_1093581524_1684085741194098455.jpg",
+            "submission_id": 276376,
+            "total_vote": 330,
+            "votes": {
+                "1": 107,
+                "3": 193,
+                "4": 30
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/42017_mv_1083581524_1684085780385128029.jpg",
+            "submission_id": 277756,
+            "total_vote": 319,
+            "votes": {
+                "10": 2,
+                "11": 70,
+                "12": 19,
+                "13": 0,
+                "14": 0,
+                "15": 2,
+                "17": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 116,
+                "22": 18,
+                "23": 1,
+                "24": 14,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 0,
+                "9": 70
+            }
+        },
+        "school_name": "BÜYÜK ÇIĞLI İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1306,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/55581_bulk_999999999_1684095976639584239.jpeg",
+            "submission_id": 508401,
+            "total_vote": 325,
+            "votes": {
+                "1": 112,
+                "2": 2,
+                "3": 199,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/55581_bulk_999999999_1684095976808690879.jpeg",
+            "submission_id": 508405,
+            "total_vote": 322,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 22,
+                "12": 18,
+                "13": 27,
+                "14": 0,
+                "15": 0,
+                "16": 2,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 99,
+                "22": 52,
+                "23": 0,
+                "24": 6,
+                "3": 3,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 1,
+                "9": 84
+            }
+        },
+        "school_name": "BÜYÜK ÇIĞLI İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1311,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/63823_cb_1093581525_1684085180349567531.jpg",
+            "submission_id": 259275,
+            "total_vote": 322,
+            "votes": {
+                "1": 111,
+                "2": 3,
+                "3": 186,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/63823_mv_1083581525_1684085204772833050.jpg",
+            "submission_id": 260029,
+            "total_vote": 316,
+            "votes": {
+                "10": 1,
+                "11": 24,
+                "12": 15,
+                "13": 16,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 100,
+                "22": 46,
+                "23": 0,
+                "24": 14,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 5,
+                "7": 3,
+                "8": 1,
+                "9": 89
+            }
+        },
+        "school_name": "BÜYÜK ÇIĞLI İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1308,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/55581_bulk_999999999_1684095976576481322.jpeg",
+            "submission_id": 508400,
+            "total_vote": 322,
+            "votes": {
+                "1": 101,
+                "2": 3,
+                "3": 192,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/1b0755ba-bd2f-48cb-bb23-05a80105582b-1684105617371010827.jpg",
+            "submission_id": 667068,
+            "total_vote": 320,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 18,
+                "12": 17,
+                "13": 27,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 1,
+                "21": 101,
+                "22": 43,
+                "23": 0,
+                "24": 7,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 7,
+                "7": 6,
+                "8": 0,
+                "9": 89
+            }
+        },
+        "school_name": "BÜYÜK ÇIĞLI İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1309,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/55581_bulk_999999999_1684095976707432407.jpeg",
+            "submission_id": 508402,
+            "total_vote": 331,
+            "votes": {
+                "1": 149,
+                "2": 1,
+                "3": 153,
+                "4": 28
+            }
+        },
+        "mv_result": null,
+        "school_name": "BÜYÜK ÇIĞLI İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1312,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/55581_cb_1093581526_1684084476778137734.jpg",
+            "submission_id": 239909,
+            "total_vote": 327,
+            "votes": {
+                "1": 122,
+                "2": 2,
+                "3": 175,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/55581_mv_1083581526_1684084508315169931.jpg",
+            "submission_id": 240685,
+            "total_vote": 321,
+            "votes": {
+                "1": 2,
+                "10": 2,
+                "11": 22,
+                "12": 12,
+                "13": 12,
+                "21": 100,
+                "22": 51,
+                "23": 5,
+                "24": 15,
+                "6": 6,
+                "7": 2,
+                "8": 1,
+                "9": 91
+            }
+        },
+        "school_name": "BÜYÜK ÇIĞLI İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1305,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/55581_bulk_999999999_1684081217647976407.jpeg",
+            "submission_id": 186964,
+            "total_vote": 305,
+            "votes": {
+                "1": 119,
+                "2": 1,
+                "3": 170,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "BÜYÜK ÇIĞLI İLK OKULU"
+    }
+]

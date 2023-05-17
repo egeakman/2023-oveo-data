@@ -1,0 +1,146 @@
+[
+    {
+        "ballot_box_number": 2204,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/51068_bulk_999999999_1684090135006641300.jpg",
+            "submission_id": 412999,
+            "total_vote": 249,
+            "votes": {
+                "1": 106,
+                "2": 2,
+                "3": 124,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/51068_bulk_999999999_1684090134787535882.jpg",
+            "submission_id": 412994,
+            "total_vote": 245,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 10,
+                "12": 31,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 66,
+                "22": 22,
+                "23": 4,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 8,
+                "7": 3,
+                "8": 5,
+                "9": 83
+            }
+        },
+        "school_name": "MİMAR SİNAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2206,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/51068_bulk_999999999_1684090414086896099.jpg",
+            "submission_id": 419392,
+            "total_vote": 239,
+            "votes": {
+                "1": 85,
+                "2": 1,
+                "3": 138,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "MİMAR SİNAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2207,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/51068_bulk_999999999_1684089690916348489.jpg",
+            "submission_id": 401539,
+            "total_vote": 240,
+            "votes": {
+                "1": 112,
+                "2": 2,
+                "3": 116,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/51068_bulk_999999999_1684089657102355706.jpg",
+            "submission_id": 400594,
+            "total_vote": 227,
+            "votes": {
+                "11": 12,
+                "12": 39,
+                "16": 1,
+                "19": 1,
+                "21": 61,
+                "22": 18,
+                "23": 2,
+                "24": 3,
+                "4": 1,
+                "5": 1,
+                "6": 3,
+                "7": 2,
+                "8": 2,
+                "9": 81
+            }
+        },
+        "school_name": "MİMAR SİNAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2203,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/51068_bulk_999999999_1684090134913662398.jpg",
+            "submission_id": 412996,
+            "total_vote": 219,
+            "votes": {
+                "1": 95,
+                "2": 1,
+                "3": 117,
+                "4": 6
+            }
+        },
+        "mv_result": null,
+        "school_name": "MİMAR SİNAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2205,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/51068_bulk_999999999_1684090134490856241.jpg",
+            "submission_id": 412981,
+            "total_vote": 240,
+            "votes": {
+                "1": 112,
+                "2": 1,
+                "3": 119,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/51068_bulk_999999999_1684090134565058795.jpg",
+            "submission_id": 412986,
+            "total_vote": 244,
+            "votes": {
+                "10": 2,
+                "11": 9,
+                "12": 26,
+                "20": 1,
+                "21": 68,
+                "22": 29,
+                "24": 2,
+                "4": 1,
+                "6": 2,
+                "9": 104
+            }
+        },
+        "school_name": "MİMAR SİNAN İLKOKULU"
+    }
+]

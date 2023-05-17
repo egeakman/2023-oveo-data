@@ -1,0 +1,47 @@
+[
+    {
+        "ballot_box_number": 1077,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/13932_bulk_999999999_1684079264893513471.jpeg",
+            "submission_id": 176422,
+            "total_vote": 32,
+            "votes": {
+                "1": 14,
+                "2": 2,
+                "3": 14,
+                "4": 2
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/13932_bulk_999999999_1684079142683246644.jpeg",
+            "submission_id": 176072,
+            "total_vote": 30,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 3,
+                "12": 1,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 13,
+                "22": 2,
+                "23": 0,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 0,
+                "9": 8
+            }
+        },
+        "school_name": "15 EYLÜL MUSTAFA ÇAPKAN İLKOKULU"
+    }
+]

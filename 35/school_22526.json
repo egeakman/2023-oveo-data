@@ -1,0 +1,154 @@
+[
+    {
+        "ballot_box_number": 1074,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/50248_bulk_999999999_1684084240606226621.jpg",
+            "submission_id": 234031,
+            "total_vote": 278,
+            "votes": {
+                "1": 122,
+                "2": 5,
+                "3": 135,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "ATATÜRK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1073,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/50248_cb_1093797987_1684083040919030544.jpg",
+            "submission_id": 209432,
+            "total_vote": 275,
+            "votes": {
+                "1": 117,
+                "2": 6,
+                "3": 138,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/50248_bulk_999999999_1684086843545136312.jpg",
+            "submission_id": 313533,
+            "total_vote": 272,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 31,
+                "12": 15,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 81,
+                "22": 43,
+                "23": 0,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 4,
+                "7": 6,
+                "8": 1,
+                "9": 78
+            }
+        },
+        "school_name": "ATATÜRK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1071,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/50248_cb_1093797985_1684083117599084906.jpg",
+            "submission_id": 210698,
+            "total_vote": 236,
+            "votes": {
+                "1": 116,
+                "2": 3,
+                "3": 112,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/50248_mv_1083797985_1684084782948310646.jpg",
+            "submission_id": 248079,
+            "total_vote": 226,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 21,
+                "12": 8,
+                "13": 6,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 66,
+                "22": 17,
+                "23": 4,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 5,
+                "8": 0,
+                "9": 91
+            }
+        },
+        "school_name": "ATATÜRK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1072,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/50248_cb_1093797986_1684081991434571690.jpg",
+            "submission_id": 194490,
+            "total_vote": 266,
+            "votes": {
+                "1": 127,
+                "3": 121,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/50248_mv_1083797986_1684082439420884087.jpg",
+            "submission_id": 200152,
+            "total_vote": 262,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 34,
+                "12": 2,
+                "13": 5,
+                "14": 2,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 83,
+                "22": 27,
+                "23": 2,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 4,
+                "7": 1,
+                "8": 3,
+                "9": 91
+            }
+        },
+        "school_name": "ATATÜRK ORTAOKULU"
+    }
+]

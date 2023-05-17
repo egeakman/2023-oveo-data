@@ -1,0 +1,905 @@
+[
+    {
+        "ballot_box_number": 1104,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/fa2d8748-9233-4565-930e-20c6dbf185b5-1684105656596598616.jpeg",
+            "submission_id": 674690,
+            "total_vote": 339,
+            "votes": {
+                "1": 83,
+                "2": 1,
+                "3": 234,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇİĞLİ TOKİ İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1094,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31542_cb_1093573688_1684084737798289492.jpg",
+            "submission_id": 246893,
+            "total_vote": 346,
+            "votes": {
+                "1": 86,
+                "2": 1,
+                "3": 242,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22702_mv_1083573678_1684092410459848636.jpg",
+            "submission_id": 455832,
+            "total_vote": 345,
+            "votes": {
+                "1": 1,
+                "10": 5,
+                "11": 9,
+                "12": 10,
+                "13": 32,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 3,
+                "2": 0,
+                "20": 0,
+                "21": 146,
+                "22": 40,
+                "23": 0,
+                "24": 15,
+                "3": 3,
+                "4": 0,
+                "5": 0,
+                "6": 4,
+                "7": 8,
+                "8": 2,
+                "9": 66
+            }
+        },
+        "school_name": "ÇİĞLİ TOKİ İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1102,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ba7f4f9f-0834-46b6-881d-16b0a899e3f0-1684105653081324665.jpg",
+            "submission_id": 674454,
+            "total_vote": 333,
+            "votes": {
+                "1": 106,
+                "2": 1,
+                "3": 204,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3aece073-c09f-4e79-8ec3-8c8b13a922ca-1684105626826198706.jpeg",
+            "submission_id": 669191,
+            "total_vote": 328,
+            "votes": {
+                "1": 2,
+                "10": 1,
+                "11": 21,
+                "12": 24,
+                "13": 46,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 124,
+                "22": 3,
+                "23": 1,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 13,
+                "8": 1,
+                "9": 77
+            }
+        },
+        "school_name": "ÇİĞLİ TOKİ İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1085,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22702_cb_1093573679_1684260304534270796.jpg",
+            "submission_id": 1032729,
+            "total_vote": 341,
+            "votes": {
+                "1": 111,
+                "2": 1,
+                "3": 203,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68836_mv_1083573679_1684088691284215955.jpg",
+            "submission_id": 373452,
+            "total_vote": 332,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 18,
+                "12": 15,
+                "13": 23,
+                "21": 121,
+                "22": 32,
+                "24": 13,
+                "3": 3,
+                "6": 5,
+                "7": 2,
+                "8": 2,
+                "9": 95
+            }
+        },
+        "school_name": "ÇİĞLİ TOKİ İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1105,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22702_cb_1093574579_1684084080773065486.jpg",
+            "submission_id": 229925,
+            "total_vote": 336,
+            "votes": {
+                "1": 105,
+                "2": 0,
+                "3": 210,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22702_mv_1083573678_1684084142944544716.jpg",
+            "submission_id": 231360,
+            "total_vote": 327,
+            "votes": {
+                "10": 5,
+                "11": 23,
+                "12": 14,
+                "13": 27,
+                "21": 114,
+                "22": 42,
+                "24": 8,
+                "6": 3,
+                "7": 2,
+                "8": 2,
+                "9": 87
+            }
+        },
+        "school_name": "ÇİĞLİ TOKİ İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1100,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5ccb78ee-c7ef-4682-b021-359d44959f5f-1684105212992654614.jpg",
+            "submission_id": 597430,
+            "total_vote": 330,
+            "votes": {
+                "1": 117,
+                "2": 2,
+                "3": 197,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/cd238aae-40a5-4506-8e02-4a5fb83a7e6b-1684105375543816734.jpg",
+            "submission_id": 628770,
+            "total_vote": 322,
+            "votes": {
+                "10": 3,
+                "11": 10,
+                "12": 13,
+                "13": 17,
+                "14": 2,
+                "21": 119,
+                "22": 41,
+                "24": 15,
+                "5": 1,
+                "7": 5,
+                "9": 96
+            }
+        },
+        "school_name": "ÇİĞLİ TOKİ İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1083,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/cf259f87-78f8-4668-bc6d-709493d8c93b-1684105262979539424.jpg",
+            "submission_id": 606313,
+            "total_vote": 339,
+            "votes": {
+                "1": 110,
+                "2": 1,
+                "3": 200,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/135d3b20-5d69-4ceb-b1c2-ec060317fd4b-1684105261555456106.jpg",
+            "submission_id": 605994,
+            "total_vote": 332,
+            "votes": {
+                "10": 1,
+                "11": 24,
+                "12": 11,
+                "13": 28,
+                "15": 1,
+                "21": 113,
+                "22": 49,
+                "23": 2,
+                "24": 14,
+                "4": 1,
+                "6": 2,
+                "7": 4,
+                "8": 3,
+                "9": 79
+            }
+        },
+        "school_name": "ÇİĞLİ TOKİ İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1106,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/17ff20b6-6192-4e4d-9363-3505de49e22a-1684105683177551419.jpeg",
+            "submission_id": 678509,
+            "total_vote": 337,
+            "votes": {
+                "1": 114,
+                "2": 4,
+                "3": 191,
+                "4": 28
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇİĞLİ TOKİ İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1089,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31542_cb_1093573683_1684084584902964194.jpg",
+            "submission_id": 242752,
+            "total_vote": 337,
+            "votes": {
+                "1": 100,
+                "2": 1,
+                "3": 211,
+                "4": 25
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇİĞLİ TOKİ İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1088,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/71646_cb_1093573682_1684089869293675959.jpg",
+            "submission_id": 406322,
+            "total_vote": 348,
+            "votes": {
+                "1": 116,
+                "2": 3,
+                "3": 207,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/969213c7-60b9-419d-943f-3997c89849e4-1684105267442413291.jpg",
+            "submission_id": 609007,
+            "total_vote": 341,
+            "votes": {
+                "11": 17,
+                "12": 19,
+                "13": 22,
+                "21": 130,
+                "22": 26,
+                "24": 15,
+                "4": 1,
+                "5": 1,
+                "6": 1,
+                "7": 7,
+                "8": 2,
+                "9": 100
+            }
+        },
+        "school_name": "ÇİĞLİ TOKİ İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1092,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22702_cb_1093573686_1684098848348902217.jpg",
+            "submission_id": 529616,
+            "total_vote": 329,
+            "votes": {
+                "1": 97,
+                "2": 1,
+                "3": 211,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22702_mv_1083573686_1684098774315180345.jpg",
+            "submission_id": 529214,
+            "total_vote": 323,
+            "votes": {
+                "10": 8,
+                "11": 10,
+                "12": 7,
+                "13": 27,
+                "15": 1,
+                "21": 123,
+                "22": 44,
+                "24": 10,
+                "6": 3,
+                "7": 10,
+                "9": 80
+            }
+        },
+        "school_name": "ÇİĞLİ TOKİ İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1093,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31542_cb_1093573687_1684085681632815063.jpg",
+            "submission_id": 274467,
+            "total_vote": 335,
+            "votes": {
+                "1": 66,
+                "2": 4,
+                "3": 239,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31542_mv_1083573687_1684085543940254576.jpg",
+            "submission_id": 269944,
+            "total_vote": 331,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 15,
+                "12": 15,
+                "13": 36,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 2,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 132,
+                "22": 54,
+                "23": 0,
+                "24": 14,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 5,
+                "8": 1,
+                "9": 50
+            }
+        },
+        "school_name": "ÇİĞLİ TOKİ İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1097,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/71882_cb_1093573691_1684084442930660774.jpg",
+            "submission_id": 239056,
+            "total_vote": 338,
+            "votes": {
+                "1": 80,
+                "2": 1,
+                "3": 231,
+                "4": 26
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇİĞLİ TOKİ İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1098,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/71882_cb_1093573692_1684085719456814034.jpg",
+            "submission_id": 275725,
+            "total_vote": 344,
+            "votes": {
+                "1": 105,
+                "2": 1,
+                "3": 226,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/71882_mv_1083573692_1684086917896257247.jpg",
+            "submission_id": 316071,
+            "total_vote": 337,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 22,
+                "12": 15,
+                "13": 14,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 145,
+                "22": 37,
+                "23": 0,
+                "24": 11,
+                "3": 1,
+                "4": 2,
+                "5": 2,
+                "6": 4,
+                "7": 3,
+                "8": 0,
+                "9": 79
+            }
+        },
+        "school_name": "ÇİĞLİ TOKİ İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1081,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/63677_cb_1093573675_1684090286079619505.jpg",
+            "submission_id": 416594,
+            "total_vote": 318,
+            "votes": {
+                "1": 99,
+                "2": 1,
+                "3": 195,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇİĞLİ TOKİ İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1091,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22702_cb_1093573685_1684086093500779548.jpg",
+            "submission_id": 287965,
+            "total_vote": 344,
+            "votes": {
+                "1": 107,
+                "2": 3,
+                "3": 206,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/22702_bulk_999999999_1684221776384527008.jpeg",
+            "submission_id": 1026720,
+            "total_vote": 341,
+            "votes": {
+                "1": 7,
+                "10": 0,
+                "11": 29,
+                "12": 19,
+                "13": 26,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "21": 130,
+                "22": 42,
+                "23": 1,
+                "24": 13,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "9": 74
+            }
+        },
+        "school_name": "ÇİĞLİ TOKİ İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1086,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68836_mv_1083573680_1684088288938859781.jpg",
+            "submission_id": 360971,
+            "total_vote": 339,
+            "votes": {
+                "1": 102,
+                "2": 1,
+                "3": 210,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22702_mv_1083573680_1684091639283845955.jpg",
+            "submission_id": 443448,
+            "total_vote": 335,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 18,
+                "12": 8,
+                "13": 29,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 125,
+                "22": 38,
+                "23": 1,
+                "24": 22,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 5,
+                "7": 6,
+                "8": 2,
+                "9": 77
+            }
+        },
+        "school_name": "ÇİĞLİ TOKİ İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1103,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22702_cb_1093574577_1684091367928164224.jpg",
+            "submission_id": 438997,
+            "total_vote": 341,
+            "votes": {
+                "1": 134,
+                "2": 2,
+                "3": 189,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇİĞLİ TOKİ İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1087,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/74953_cb_1093573681_1684086585369010022.jpg",
+            "submission_id": 304513,
+            "total_vote": 343,
+            "votes": {
+                "1": 116,
+                "2": 1,
+                "3": 206,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/74953_mv_1083573681_1684086760442477026.jpg",
+            "submission_id": 310682,
+            "total_vote": 332,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 16,
+                "12": 18,
+                "13": 32,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 126,
+                "22": 22,
+                "23": 0,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 3,
+                "8": 2,
+                "9": 95
+            }
+        },
+        "school_name": "ÇİĞLİ TOKİ İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1101,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/65484f9e-bb27-46d6-b9ec-ac911de1adb4-1684105640032644212.jpeg",
+            "submission_id": 671555,
+            "total_vote": 343,
+            "votes": {
+                "1": 102,
+                "3": 214,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22702_mv_1083574575_1684091469675309437.jpg",
+            "submission_id": 440695,
+            "total_vote": 341,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 24,
+                "12": 11,
+                "13": 20,
+                "21": 151,
+                "22": 34,
+                "24": 15,
+                "6": 2,
+                "7": 4,
+                "8": 1,
+                "9": 74
+            }
+        },
+        "school_name": "ÇİĞLİ TOKİ İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1084,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68836_cb_1093573678_1684080388172964942.jpg",
+            "submission_id": 181358,
+            "total_vote": 344,
+            "votes": {
+                "1": 84,
+                "2": 2,
+                "3": 219,
+                "4": 39
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68836_mv_1083573678_1684086919093096566.jpg",
+            "submission_id": 316123,
+            "total_vote": 340,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 10,
+                "12": 9,
+                "13": 25,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 2,
+                "21": 143,
+                "22": 42,
+                "23": 0,
+                "24": 16,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 11,
+                "8": 2,
+                "9": 72
+            }
+        },
+        "school_name": "ÇİĞLİ TOKİ İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1080,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/63677_cb_1093572594_1684088237584962389.jpg",
+            "submission_id": 359382,
+            "total_vote": 320,
+            "votes": {
+                "1": 85,
+                "2": 0,
+                "3": 223,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇİĞLİ TOKİ İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1090,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/57985_bulk_999999999_1684083300315353955.jpeg",
+            "submission_id": 213943,
+            "total_vote": 342,
+            "votes": {
+                "1": 100,
+                "3": 224,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/57985_bulk_999999999_1684083412087768296.jpeg",
+            "submission_id": 216138,
+            "total_vote": 340,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 16,
+                "12": 12,
+                "13": 18,
+                "14": 0,
+                "15": 1,
+                "16": 1,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 143,
+                "22": 43,
+                "23": 1,
+                "24": 8,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 7,
+                "8": 1,
+                "9": 82
+            }
+        },
+        "school_name": "ÇİĞLİ TOKİ İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1095,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31528_cb_1093573689_1684089178896877029.jpg",
+            "submission_id": 387527,
+            "total_vote": 339,
+            "votes": {
+                "1": 104,
+                "2": 0,
+                "3": 212,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31528_mv_1083573689_1684088907074632840.jpg",
+            "submission_id": 379773,
+            "total_vote": 334,
+            "votes": {
+                "1": 2,
+                "10": 2,
+                "11": 26,
+                "12": 10,
+                "14": 23,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 128,
+                "23": 47,
+                "24": 12,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 2,
+                "9": 74
+            }
+        },
+        "school_name": "ÇİĞLİ TOKİ İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1096,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31528_cb_1093573690_1684085158170258841.jpg",
+            "submission_id": 258617,
+            "total_vote": 337,
+            "votes": {
+                "1": 120,
+                "2": 1,
+                "3": 197,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31528_mv_1083573690_1684086547365824972.jpg",
+            "submission_id": 303201,
+            "total_vote": 330,
+            "votes": {
+                "1": 2,
+                "10": 4,
+                "11": 17,
+                "12": 16,
+                "13": 24,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 114,
+                "22": 37,
+                "23": 1,
+                "24": 19,
+                "3": 2,
+                "4": 1,
+                "5": 1,
+                "6": 5,
+                "7": 1,
+                "8": 1,
+                "9": 84
+            }
+        },
+        "school_name": "ÇİĞLİ TOKİ İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1082,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/71707_cb_1093573676_1684084258239674059.jpg",
+            "submission_id": 234480,
+            "total_vote": 326,
+            "votes": {
+                "1": 84,
+                "2": 2,
+                "3": 228,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/71707_mv_1083573676_1684086343285139460.jpg",
+            "submission_id": 296158,
+            "total_vote": 318,
+            "votes": {
+                "10": 1,
+                "11": 17,
+                "12": 23,
+                "13": 17,
+                "15": 1,
+                "17": 1,
+                "19": 1,
+                "21": 147,
+                "22": 28,
+                "23": 1,
+                "24": 7,
+                "3": 1,
+                "6": 5,
+                "7": 3,
+                "8": 2,
+                "9": 63
+            }
+        },
+        "school_name": "ÇİĞLİ TOKİ İLK OKULU"
+    },
+    {
+        "ballot_box_number": 1099,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/31530_bulk_999999999_1684087436200110991.jpeg",
+            "submission_id": 333847,
+            "total_vote": 328,
+            "votes": {
+                "1": 83,
+                "3": 219,
+                "4": 26
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇİĞLİ TOKİ İLK OKULU"
+    }
+]

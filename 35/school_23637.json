@@ -1,0 +1,72 @@
+[
+    {
+        "ballot_box_number": 1252,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "ULUĞBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1251,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/73283_cb_1093799325_1684082734460747903.jpg",
+            "submission_id": 204391,
+            "total_vote": 312,
+            "votes": {
+                "1": 68,
+                "2": 2,
+                "3": 228,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "ULUĞBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1250,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/73283_cb_1093799324_1684081613266668236.jpg",
+            "submission_id": 190525,
+            "total_vote": 310,
+            "votes": {
+                "1": 84,
+                "2": 4,
+                "3": 216,
+                "4": 6
+            }
+        },
+        "mv_result": null,
+        "school_name": "ULUĞBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1248,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/73283_bulk_999999999_1684079121599550338.jpg",
+            "submission_id": 176009,
+            "total_vote": 297,
+            "votes": {
+                "1": 71,
+                "2": 2,
+                "3": 217,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "ULUĞBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1249,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/73283_cb_1093799323_1684080274691183528.jpg",
+            "submission_id": 180688,
+            "total_vote": 301,
+            "votes": {
+                "1": 88,
+                "2": 3,
+                "3": 204,
+                "4": 6
+            }
+        },
+        "mv_result": null,
+        "school_name": "ULUĞBEY İLKOKULU"
+    }
+]

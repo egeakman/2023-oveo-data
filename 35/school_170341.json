@@ -1,0 +1,109 @@
+[
+    {
+        "ballot_box_number": 1082,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/19751_bulk_999999999_1684082114702589695.jpg",
+            "submission_id": 196032,
+            "total_vote": 361,
+            "votes": {
+                "1": 170,
+                "3": 176,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/19751_bulk_999999999_1684087983183618384.jpg",
+            "submission_id": 351390,
+            "total_vote": 359,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 35,
+                "12": 6,
+                "13": 4,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 2,
+                "21": 146,
+                "22": 14,
+                "23": 3,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 132
+            }
+        },
+        "school_name": "ALİYE İZZETBEGOVİÇ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1080,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/19751_bulk_999999999_1684088644173784369.jpg",
+            "submission_id": 372021,
+            "total_vote": 366,
+            "votes": {
+                "1": 187,
+                "2": 3,
+                "3": 165,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/19751_bulk_999999999_1684088739298379785.jpg",
+            "submission_id": 374839,
+            "total_vote": 327,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 26,
+                "12": 3,
+                "13": 12,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 113,
+                "22": 15,
+                "23": 0,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 1,
+                "9": 146
+            }
+        },
+        "school_name": "ALİYE İZZETBEGOVİÇ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1081,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/19751_bulk_999999999_1684085746789344355.jpg",
+            "submission_id": 276572,
+            "total_vote": 350,
+            "votes": {
+                "1": 186,
+                "2": 3,
+                "3": 146,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "ALİYE İZZETBEGOVİÇ ORTAOKULU"
+    }
+]

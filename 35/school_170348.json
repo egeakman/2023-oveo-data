@@ -1,0 +1,440 @@
+[
+    {
+        "ballot_box_number": 1006,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/42612_cb_1093796710_1684084530712732653.jpg",
+            "submission_id": 241289,
+            "total_vote": 287,
+            "votes": {
+                "1": 135,
+                "2": 5,
+                "3": 140,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19236_mv_1083796700_1684085680695802371.jpg",
+            "submission_id": 274442,
+            "total_vote": 280,
+            "votes": {
+                "1": 8,
+                "10": 2,
+                "11": 8,
+                "12": 0,
+                "13": 0,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 8,
+                "2": 1,
+                "20": 0,
+                "21": 88,
+                "22": 36,
+                "23": 0,
+                "24": 2,
+                "3": 1,
+                "4": 1,
+                "5": 1,
+                "6": 1,
+                "7": 5,
+                "8": 117,
+                "9": 0
+            }
+        },
+        "school_name": "YAMANTÜRK ÇOK PROGRAMLI A.L."
+    },
+    {
+        "ballot_box_number": 1008,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/42612_cb_1093796702_1684084316604442842.jpg",
+            "submission_id": 235901,
+            "total_vote": 308,
+            "votes": {
+                "1": 159,
+                "2": 3,
+                "3": 126,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "YAMANTÜRK ÇOK PROGRAMLI A.L."
+    },
+    {
+        "ballot_box_number": 1013,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/42612_cb_1093796707_1684088222155363151.jpg",
+            "submission_id": 358946,
+            "total_vote": 313,
+            "votes": {
+                "1": 144,
+                "2": 2,
+                "3": 151,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/42612_cb_1093796707_1684088171386515093.jpg",
+            "submission_id": 357448,
+            "total_vote": 313,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 28,
+                "12": 13,
+                "13": 12,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 103,
+                "22": 25,
+                "23": 0,
+                "24": 5,
+                "3": 3,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 1,
+                "8": 2,
+                "9": 108
+            }
+        },
+        "school_name": "YAMANTÜRK ÇOK PROGRAMLI A.L."
+    },
+    {
+        "ballot_box_number": 1011,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19236_cb_1093796705_1684085091545316619.jpg",
+            "submission_id": 256740,
+            "total_vote": 316,
+            "votes": {
+                "1": 150,
+                "3": 149,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19236_mv_1083796705_1684085191707907206.jpg",
+            "submission_id": 259629,
+            "total_vote": 312,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 27,
+                "12": 5,
+                "13": 8,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 104,
+                "22": 30,
+                "23": 0,
+                "24": 15,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "8": 2,
+                "9": 112
+            }
+        },
+        "school_name": "YAMANTÜRK ÇOK PROGRAMLI A.L."
+    },
+    {
+        "ballot_box_number": 1010,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19236_cb_1093796704_1684085024887936328.jpg",
+            "submission_id": 254874,
+            "total_vote": 335,
+            "votes": {
+                "1": 181,
+                "2": 2,
+                "3": 128,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19236_mv_1083796704_1684086319525158433.jpg",
+            "submission_id": 295407,
+            "total_vote": 332,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 31,
+                "12": 29,
+                "13": 7,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 77,
+                "22": 14,
+                "23": 2,
+                "24": 7,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 3,
+                "7": 10,
+                "8": 1,
+                "9": 146
+            }
+        },
+        "school_name": "YAMANTÜRK ÇOK PROGRAMLI A.L."
+    },
+    {
+        "ballot_box_number": 1015,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/42612_cb_1093796709_1684084373517890432.jpg",
+            "submission_id": 237308,
+            "total_vote": 319,
+            "votes": {
+                "1": 172,
+                "2": 0,
+                "3": 132,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/42612_mv_1083796709_1684086937129597668.jpg",
+            "submission_id": 316780,
+            "total_vote": 275,
+            "votes": {
+                "1": 4,
+                "10": 5,
+                "11": 32,
+                "12": 16,
+                "13": 6,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 2,
+                "20": 0,
+                "21": 32,
+                "22": 25,
+                "23": 2,
+                "24": 10,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 2,
+                "7": 6,
+                "8": 3,
+                "9": 128
+            }
+        },
+        "school_name": "YAMANTÜRK ÇOK PROGRAMLI A.L."
+    },
+    {
+        "ballot_box_number": 1016,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/42612_bulk_999999999_1684096298829614348.jpeg",
+            "submission_id": 511261,
+            "total_vote": 303,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 19,
+                "12": 11,
+                "13": 11,
+                "21": 94,
+                "22": 21,
+                "23": 1,
+                "24": 8,
+                "5": 1,
+                "6": 1,
+                "7": 7,
+                "9": 124
+            }
+        },
+        "school_name": "YAMANTÜRK ÇOK PROGRAMLI A.L."
+    },
+    {
+        "ballot_box_number": 1009,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/42612_cb_1093796703_1684087408233194578.jpg",
+            "submission_id": 332977,
+            "total_vote": 323,
+            "votes": {
+                "1": 151,
+                "2": 1,
+                "3": 148,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/42612_mv_1083796703_1684087377208977791.jpg",
+            "submission_id": 331942,
+            "total_vote": 315,
+            "votes": {
+                "1": 1,
+                "10": 5,
+                "11": 34,
+                "12": 13,
+                "13": 8,
+                "20": 1,
+                "21": 91,
+                "22": 31,
+                "24": 8,
+                "3": 1,
+                "4": 1,
+                "5": 1,
+                "6": 4,
+                "7": 7,
+                "9": 109
+            }
+        },
+        "school_name": "YAMANTÜRK ÇOK PROGRAMLI A.L."
+    },
+    {
+        "ballot_box_number": 1007,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19236_cb_1093796701_1684084470617793130.jpg",
+            "submission_id": 239732,
+            "total_vote": 321,
+            "votes": {
+                "1": 134,
+                "2": 1,
+                "3": 163,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/42612_mv_1083796701_1684087495776156608.jpg",
+            "submission_id": 335757,
+            "total_vote": 310,
+            "votes": {
+                "10": 3,
+                "11": 26,
+                "12": 27,
+                "13": 4,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "2": 0,
+                "21": 97,
+                "22": 32,
+                "23": 0,
+                "24": 10,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 6,
+                "9": 100
+            }
+        },
+        "school_name": "YAMANTÜRK ÇOK PROGRAMLI A.L."
+    },
+    {
+        "ballot_box_number": 1014,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/42612_cb_1093796708_1684084289874660323.jpg",
+            "submission_id": 235248,
+            "total_vote": 329,
+            "votes": {
+                "1": 172,
+                "2": 3,
+                "3": 139,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/42612_mv_1083796708_1684085207866062635.jpg",
+            "submission_id": 260090,
+            "total_vote": 323,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 26,
+                "12": 14,
+                "13": 6,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 87,
+                "22": 20,
+                "23": 0,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 7,
+                "8": 2,
+                "9": 147
+            }
+        },
+        "school_name": "YAMANTÜRK ÇOK PROGRAMLI A.L."
+    },
+    {
+        "ballot_box_number": 1012,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/42612_cb_1093796706_1684084557060484485.jpg",
+            "submission_id": 241957,
+            "total_vote": 320,
+            "votes": {
+                "1": 139,
+                "3": 166,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/42612_mv_1083796706_1684087960170789231.jpg",
+            "submission_id": 350576,
+            "total_vote": 312,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 26,
+                "12": 16,
+                "13": 5,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 112,
+                "22": 37,
+                "23": 0,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 2,
+                "8": 0,
+                "9": 103
+            }
+        },
+        "school_name": "YAMANTÜRK ÇOK PROGRAMLI A.L."
+    }
+]

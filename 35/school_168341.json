@@ -1,0 +1,292 @@
+[
+    {
+        "ballot_box_number": 1251,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21294_bulk_999999999_1684089978799300521.jpg",
+            "submission_id": 409199,
+            "total_vote": 338,
+            "votes": {
+                "1": 79,
+                "2": 1,
+                "3": 237,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21294_bulk_999999999_1684089979007442487.jpg",
+            "submission_id": 409206,
+            "total_vote": 333,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 13,
+                "12": 21,
+                "13": 34,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 131,
+                "22": 54,
+                "23": 3,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 60
+            }
+        },
+        "school_name": "EVKA 4 - NAİM SÜLEYMANOĞLU KAPALI SPOR SALONU"
+    },
+    {
+        "ballot_box_number": 1255,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21294_bulk_999999999_1684089560869689650.jpg",
+            "submission_id": 397951,
+            "total_vote": 346,
+            "votes": {
+                "1": 94,
+                "2": 2,
+                "3": 233,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21294_bulk_999999999_1684089560972647269.jpg",
+            "submission_id": 397954,
+            "total_vote": 341,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 17,
+                "12": 16,
+                "13": 30,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 146,
+                "22": 34,
+                "23": 4,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 8,
+                "8": 0,
+                "9": 68
+            }
+        },
+        "school_name": "EVKA 4 - NAİM SÜLEYMANOĞLU KAPALI SPOR SALONU"
+    },
+    {
+        "ballot_box_number": 1250,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21294_bulk_999999999_1684083148819600411.jpg",
+            "submission_id": 211240,
+            "total_vote": 342,
+            "votes": {
+                "1": 74,
+                "2": 0,
+                "3": 239,
+                "4": 29
+            }
+        },
+        "mv_result": null,
+        "school_name": "EVKA 4 - NAİM SÜLEYMANOĞLU KAPALI SPOR SALONU"
+    },
+    {
+        "ballot_box_number": 1253,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21294_mv_1083580151_1684091000534105402.jpg",
+            "submission_id": 431941,
+            "total_vote": 327,
+            "votes": {
+                "1": 88,
+                "2": 1,
+                "3": 217,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "EVKA 4 - NAİM SÜLEYMANOĞLU KAPALI SPOR SALONU"
+    },
+    {
+        "ballot_box_number": 1249,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21294_bulk_999999999_1684089561054701432.jpg",
+            "submission_id": 397960,
+            "total_vote": 338,
+            "votes": {
+                "1": 94,
+                "2": 2,
+                "3": 214,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21294_mv_1083580147_1684091074651618079.jpg",
+            "submission_id": 433402,
+            "total_vote": 336,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 18,
+                "12": 8,
+                "13": 21,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 140,
+                "22": 47,
+                "23": 0,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 7,
+                "8": 1,
+                "9": 76
+            }
+        },
+        "school_name": "EVKA 4 - NAİM SÜLEYMANOĞLU KAPALI SPOR SALONU"
+    },
+    {
+        "ballot_box_number": 1248,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21294_bulk_999999999_1684085058365241730.jpg",
+            "submission_id": 255843,
+            "total_vote": 311,
+            "votes": {
+                "1": 81,
+                "2": 2,
+                "3": 220,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21294_bulk_999999999_1684089560785084282.jpg",
+            "submission_id": 397944,
+            "total_vote": 306,
+            "votes": {
+                "10": 2,
+                "11": 18,
+                "12": 6,
+                "13": 15,
+                "14": 1,
+                "15": 1,
+                "17": 1,
+                "19": 1,
+                "21": 144,
+                "22": 41,
+                "23": 1,
+                "24": 6,
+                "5": 1,
+                "7": 7,
+                "8": 1,
+                "9": 60
+            }
+        },
+        "school_name": "EVKA 4 - NAİM SÜLEYMANOĞLU KAPALI SPOR SALONU"
+    },
+    {
+        "ballot_box_number": 1252,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21294_bulk_999999999_1684083182874118721.jpg",
+            "submission_id": 211846,
+            "total_vote": 338,
+            "votes": {
+                "1": 77,
+                "2": 1,
+                "3": 247,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21294_bulk_999999999_1684083545456938356.jpg",
+            "submission_id": 218681,
+            "total_vote": 336,
+            "votes": {
+                "10": 1,
+                "11": 11,
+                "12": 6,
+                "13": 34,
+                "14": 1,
+                "19": 2,
+                "21": 153,
+                "22": 53,
+                "24": 7,
+                "3": 2,
+                "6": 2,
+                "7": 5,
+                "8": 1,
+                "9": 58
+            }
+        },
+        "school_name": "EVKA 4 - NAİM SÜLEYMANOĞLU KAPALI SPOR SALONU"
+    },
+    {
+        "ballot_box_number": 1254,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21294_bulk_999999999_1684089561228787939.jpg",
+            "submission_id": 397973,
+            "total_vote": 330,
+            "votes": {
+                "1": 93,
+                "2": 1,
+                "3": 218,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21294_bulk_999999999_1684089561482528069.jpg",
+            "submission_id": 397987,
+            "total_vote": 328,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 12,
+                "12": 12,
+                "13": 19,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 1,
+                "19": 2,
+                "2": 0,
+                "20": 1,
+                "21": 131,
+                "22": 48,
+                "23": 1,
+                "24": 7,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 6,
+                "8": 1,
+                "9": 81
+            }
+        },
+        "school_name": "EVKA 4 - NAİM SÜLEYMANOĞLU KAPALI SPOR SALONU"
+    }
+]

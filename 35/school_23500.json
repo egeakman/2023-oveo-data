@@ -1,0 +1,396 @@
+[
+    {
+        "ballot_box_number": 2288,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/13280_cb_1093791082_1684085362909582389.jpg",
+            "submission_id": 264550,
+            "total_vote": 327,
+            "votes": {
+                "1": 189,
+                "3": 120,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "HÜSEYİN AVNİ ATEŞOĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2289,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/13280_cb_1093791083_1684085295408610427.jpg",
+            "submission_id": 262587,
+            "total_vote": 319,
+            "votes": {
+                "1": 170,
+                "2": 2,
+                "3": 124,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/13280_mv_1083791083_1684087657828243442.jpg",
+            "submission_id": 340992,
+            "total_vote": 319,
+            "votes": {
+                "11": 25,
+                "12": 64,
+                "14": 2,
+                "17": 1,
+                "18": 1,
+                "20": 1,
+                "21": 46,
+                "22": 18,
+                "23": 1,
+                "24": 9,
+                "5": 2,
+                "6": 1,
+                "7": 4,
+                "8": 7,
+                "9": 137
+            }
+        },
+        "school_name": "HÜSEYİN AVNİ ATEŞOĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2287,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/13280_bulk_999999999_1684084925974117586.jpeg",
+            "submission_id": 252005,
+            "total_vote": 307,
+            "votes": {
+                "1": 153,
+                "2": 1,
+                "3": 136,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/13280_cb_1093791081_1684084678209092666.jpg",
+            "submission_id": 245291,
+            "total_vote": 304,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 23,
+                "12": 55,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 1,
+                "21": 60,
+                "22": 23,
+                "23": 1,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 4,
+                "8": 2,
+                "9": 119
+            }
+        },
+        "school_name": "HÜSEYİN AVNİ ATEŞOĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2285,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/32660_bulk_999999999_1684089983897413738.jpeg",
+            "submission_id": 409319,
+            "total_vote": 324,
+            "votes": {
+                "1": 188,
+                "3": 120,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "HÜSEYİN AVNİ ATEŞOĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2284,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32660_cb_1093791078_1684089724743417266.jpg",
+            "submission_id": 402469,
+            "total_vote": 330,
+            "votes": {
+                "1": 189,
+                "2": 1,
+                "3": 129,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32660_mv_1083791078_1684089682993510569.jpg",
+            "submission_id": 401296,
+            "total_vote": 324,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 24,
+                "12": 46,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 65,
+                "22": 15,
+                "23": 7,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 2,
+                "8": 7,
+                "9": 151
+            }
+        },
+        "school_name": "HÜSEYİN AVNİ ATEŞOĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2283,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32660_cb_1093791077_1684089498080599064.jpg",
+            "submission_id": 396141,
+            "total_vote": 326,
+            "votes": {
+                "1": 179,
+                "2": 1,
+                "3": 131,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32660_mv_1083791077_1684161861486605696.jpg",
+            "submission_id": 1023007,
+            "total_vote": 324,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 41,
+                "12": 49,
+                "14": 0,
+                "15": 1,
+                "16": 1,
+                "17": 1,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 68,
+                "22": 16,
+                "23": 1,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 1,
+                "7": 2,
+                "8": 8,
+                "9": 124
+            }
+        },
+        "school_name": "HÜSEYİN AVNİ ATEŞOĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2292,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/13280_cb_1093791086_1684089280762318567.jpg",
+            "submission_id": 390398,
+            "total_vote": 311,
+            "votes": {
+                "1": 173,
+                "2": 2,
+                "3": 106,
+                "4": 30
+            }
+        },
+        "mv_result": null,
+        "school_name": "HÜSEYİN AVNİ ATEŞOĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2290,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/13280_cb_1093791084_1684085417838545429.jpg",
+            "submission_id": 266181,
+            "total_vote": 313,
+            "votes": {
+                "1": 152,
+                "2": 2,
+                "3": 124,
+                "4": 35
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/13280_mv_1083791084_1684087714189370908.jpg",
+            "submission_id": 342867,
+            "total_vote": 305,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 34,
+                "12": 48,
+                "13": 0,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 52,
+                "22": 26,
+                "23": 4,
+                "24": 12,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 14,
+                "9": 104
+            }
+        },
+        "school_name": "HÜSEYİN AVNİ ATEŞOĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2286,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/32660_bulk_999999999_1684090129769839581.jpeg",
+            "submission_id": 412857,
+            "total_vote": 317,
+            "votes": {
+                "1": 175,
+                "2": 1,
+                "3": 126,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32660_mv_1083791080_1684090431819062856.jpg",
+            "submission_id": 419735,
+            "total_vote": 309,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 23,
+                "12": 59,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 44,
+                "22": 18,
+                "23": 0,
+                "24": 14,
+                "3": 1,
+                "4": 0,
+                "5": 2,
+                "6": 0,
+                "7": 2,
+                "8": 10,
+                "9": 134
+            }
+        },
+        "school_name": "HÜSEYİN AVNİ ATEŞOĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2291,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/13280_cb_1093791085_1684088442144272486.jpg",
+            "submission_id": 365696,
+            "total_vote": 323,
+            "votes": {
+                "1": 160,
+                "2": 1,
+                "3": 144,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/80c0e93e-d1bf-4c57-b7af-6d1b14f12155-1684105081551546183.jpg",
+            "submission_id": 566055,
+            "total_vote": 308,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 29,
+                "12": 57,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 55,
+                "22": 22,
+                "23": 0,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 0,
+                "7": 7,
+                "8": 5,
+                "9": 120
+            }
+        },
+        "school_name": "HÜSEYİN AVNİ ATEŞOĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2282,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32660_cb_1093791076_1684089454760425641.jpg",
+            "submission_id": 394982,
+            "total_vote": 299,
+            "votes": {
+                "1": 176,
+                "2": 1,
+                "3": 108,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32660_mv_1083791076_1684089421938172106.jpg",
+            "submission_id": 394067,
+            "total_vote": 288,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 7,
+                "12": 32,
+                "14": 1,
+                "15": 3,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "2": 1,
+                "20": 1,
+                "21": 55,
+                "22": 15,
+                "24": 9,
+                "6": 1,
+                "7": 2,
+                "8": 14,
+                "9": 145
+            }
+        },
+        "school_name": "HÜSEYİN AVNİ ATEŞOĞLU İLKOKULU"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "ballot_box_number": 1059,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/b8a5e0da-04e8-4d41-8bd5-d9e3306333cf-1684105150242603305.jpg",
+            "submission_id": 584852,
+            "total_vote": 267,
+            "votes": {
+                "1": 88,
+                "2": 3,
+                "3": 165,
+                "4": 11
+            }
+        },
+        "mv_result": null,
+        "school_name": "BÖLCEK MAH. BÖLCEK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1058,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/436ef8a5-0988-4600-82a8-1aa4a99d465e-1684105149629155819.jpg",
+            "submission_id": 584713,
+            "total_vote": 261,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 12,
+                "12": 2,
+                "13": 3,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 2,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 101,
+                "22": 42,
+                "23": 1,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 9,
+                "8": 1,
+                "9": 83
+            }
+        },
+        "school_name": "BÖLCEK MAH. BÖLCEK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1057,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "BÖLCEK MAH. BÖLCEK İLKOKULU"
+    }
+]

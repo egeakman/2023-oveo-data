@@ -1,0 +1,199 @@
+[
+    {
+        "ballot_box_number": 1278,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16450_cb_1093864803_1684090515094313152.jpg",
+            "submission_id": 421687,
+            "total_vote": 312,
+            "votes": {
+                "1": 29,
+                "3": 281,
+                "4": 2
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/16450_bulk_999999999_1684091465568010224.jpg",
+            "submission_id": 440628,
+            "total_vote": 307,
+            "votes": {
+                "11": 5,
+                "12": 8,
+                "13": 25,
+                "21": 224,
+                "22": 22,
+                "24": 2,
+                "9": 21
+            }
+        },
+        "school_name": "ZÜBEYDE HANIM NİKAH EVİ(KARŞIYAKA NİKAH SARAYI)"
+    },
+    {
+        "ballot_box_number": 1277,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67521_cb_1093864802_1684088859192171288.jpg",
+            "submission_id": 378319,
+            "total_vote": 292,
+            "votes": {
+                "1": 17,
+                "2": 1,
+                "3": 269,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67521_mv_1083864802_1684088494063339833.jpg",
+            "submission_id": 367305,
+            "total_vote": 289,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 2,
+                "12": 5,
+                "13": 14,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 216,
+                "22": 29,
+                "23": 1,
+                "24": 1,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 0,
+                "9": 16
+            }
+        },
+        "school_name": "ZÜBEYDE HANIM NİKAH EVİ(KARŞIYAKA NİKAH SARAYI)"
+    },
+    {
+        "ballot_box_number": 1279,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67521_cb_1093864804_1684089019574078656.jpg",
+            "submission_id": 383100,
+            "total_vote": 323,
+            "votes": {
+                "1": 34,
+                "2": 1,
+                "3": 287,
+                "4": 1
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67521_mv_1083864804_1684088973696099730.jpg",
+            "submission_id": 381746,
+            "total_vote": 318,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 6,
+                "12": 11,
+                "13": 33,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 217,
+                "22": 21,
+                "23": 0,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 1,
+                "8": 0,
+                "9": 23
+            }
+        },
+        "school_name": "ZÜBEYDE HANIM NİKAH EVİ(KARŞIYAKA NİKAH SARAYI)"
+    },
+    {
+        "ballot_box_number": 1281,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21886_cb_1093864806_1684083051886123775.jpg",
+            "submission_id": 209594,
+            "total_vote": 327,
+            "votes": {
+                "1": 27,
+                "2": 1,
+                "3": 289,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21886_mv_1083864806_1684084633916221973.jpg",
+            "submission_id": 244062,
+            "total_vote": 326,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 10,
+                "12": 13,
+                "13": 33,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 4,
+                "2": 0,
+                "20": 0,
+                "21": 212,
+                "22": 33,
+                "23": 0,
+                "24": 5,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 1,
+                "8": 0,
+                "9": 14
+            }
+        },
+        "school_name": "ZÜBEYDE HANIM NİKAH EVİ(KARŞIYAKA NİKAH SARAYI)"
+    },
+    {
+        "ballot_box_number": 1280,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18531_cb_1093864805_1684084008497549982.jpg",
+            "submission_id": 228308,
+            "total_vote": 324,
+            "votes": {
+                "1": 37,
+                "2": 3,
+                "3": 281,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18531_mv_1083864805_1684084049683864998.jpg",
+            "submission_id": 229198,
+            "total_vote": 323,
+            "votes": {
+                "10": 1,
+                "11": 9,
+                "12": 7,
+                "13": 38,
+                "21": 202,
+                "22": 29,
+                "24": 7,
+                "7": 4,
+                "8": 1,
+                "9": 25
+            }
+        },
+        "school_name": "ZÜBEYDE HANIM NİKAH EVİ(KARŞIYAKA NİKAH SARAYI)"
+    }
+]

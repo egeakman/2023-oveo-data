@@ -1,0 +1,269 @@
+[
+    {
+        "ballot_box_number": 1046,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "P.M.C DEMİRGÜREŞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1039,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5d3a1da6-39ce-422e-a966-67bcab153da0-1684105249886596990.jpg",
+            "submission_id": 604184,
+            "total_vote": 271,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 9,
+                "12": 10,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 0,
+                "21": 170,
+                "22": 25,
+                "23": 1,
+                "24": 2,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 1,
+                "9": 46
+            }
+        },
+        "school_name": "P.M.C DEMİRGÜREŞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1045,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/b9674e3c-8cf6-4348-9142-c917ab13ed5a-1684105930588165587.jpg",
+            "submission_id": 714341,
+            "total_vote": 302,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 12,
+                "12": 9,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 218,
+                "22": 31,
+                "23": 1,
+                "24": 1,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 0,
+                "9": 22
+            }
+        },
+        "school_name": "P.M.C DEMİRGÜREŞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1040,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/14b207b2-835b-418f-ba8b-7fe6b2f49069-1684106179363558868.jpg",
+            "submission_id": 749975,
+            "total_vote": 290,
+            "votes": {
+                "1": 42,
+                "3": 242,
+                "4": 6
+            }
+        },
+        "mv_result": null,
+        "school_name": "P.M.C DEMİRGÜREŞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1041,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/9966_cb_1093756722_1684080428963367590.jpg",
+            "submission_id": 181623,
+            "total_vote": 295,
+            "votes": {
+                "1": 54,
+                "2": 0,
+                "3": 237,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/12507_bulk_999999999_1684140682481574438.jpeg",
+            "submission_id": 1017940,
+            "total_vote": 293,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 7,
+                "12": 9,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 189,
+                "22": 32,
+                "23": 0,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 4,
+                "6": 1,
+                "7": 5,
+                "8": 0,
+                "9": 44
+            }
+        },
+        "school_name": "P.M.C DEMİRGÜREŞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1042,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20142_mv_1083756723_1684080280618782399.jpg",
+            "submission_id": 180730,
+            "total_vote": 300,
+            "votes": {
+                "1": 50,
+                "2": 4,
+                "3": 235,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/25649_bulk_999999999_1684081863569979679.png",
+            "submission_id": 193089,
+            "total_vote": 294,
+            "votes": {
+                "11": 15,
+                "12": 11,
+                "14": 1,
+                "21": 181,
+                "22": 33,
+                "24": 4,
+                "4": 1,
+                "5": 2,
+                "7": 5,
+                "8": 3,
+                "9": 38
+            }
+        },
+        "school_name": "P.M.C DEMİRGÜREŞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1044,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/26ccc6c7-87c5-4979-adf3-8b7608788c7a-1684106099747294213.jpg",
+            "submission_id": 738452,
+            "total_vote": 306,
+            "votes": {
+                "11": 6,
+                "12": 7,
+                "20": 1,
+                "21": 212,
+                "23": 42,
+                "24": 5,
+                "3": 2,
+                "7": 3,
+                "9": 28
+            }
+        },
+        "school_name": "P.M.C DEMİRGÜREŞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1047,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26556_cb_1093756728_1684083754789350943.jpg",
+            "submission_id": 223026,
+            "total_vote": 320,
+            "votes": {
+                "1": 53,
+                "2": 1,
+                "3": 254,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26556_mv_1083756728_1684085418219804472.jpg",
+            "submission_id": 266195,
+            "total_vote": 315,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 9,
+                "12": 15,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 196,
+                "22": 42,
+                "23": 0,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 6,
+                "8": 4,
+                "9": 39
+            }
+        },
+        "school_name": "P.M.C DEMİRGÜREŞ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1043,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26322_cb_1093756724_1684086677181746118.jpg",
+            "submission_id": 307670,
+            "total_vote": 310,
+            "votes": {
+                "1": 52,
+                "2": 1,
+                "3": 248,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26322_mv_1083756724_1684086757588086721.jpg",
+            "submission_id": 310587,
+            "total_vote": 307,
+            "votes": {
+                "11": 8,
+                "12": 6,
+                "20": 1,
+                "21": 198,
+                "22": 39,
+                "24": 6,
+                "3": 1,
+                "5": 1,
+                "7": 3,
+                "9": 44
+            }
+        },
+        "school_name": "P.M.C DEMİRGÜREŞ ORTAOKULU"
+    }
+]

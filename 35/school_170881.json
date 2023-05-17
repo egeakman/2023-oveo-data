@@ -1,0 +1,618 @@
+[
+    {
+        "ballot_box_number": 1354,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15861_cb_1093761472_1684080090554393226.jpg",
+            "submission_id": 179703,
+            "total_vote": 309,
+            "votes": {
+                "1": 95,
+                "2": 0,
+                "3": 198,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15861_mv_1083761472_1684089708255503636.jpg",
+            "submission_id": 401953,
+            "total_vote": 308,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 12,
+                "12": 71,
+                "13": 15,
+                "14": 1,
+                "15": 1,
+                "16": 4,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 88,
+                "22": 24,
+                "23": 0,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 7,
+                "7": 2,
+                "8": 1,
+                "9": 70
+            }
+        },
+        "school_name": "ŞEHİT AHMET ÖZSOY FEN LİSESİ"
+    },
+    {
+        "ballot_box_number": 1348,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15861_cb_1093761466_1684081203931088834.jpg",
+            "submission_id": 186854,
+            "total_vote": 321,
+            "votes": {
+                "1": 80,
+                "2": 1,
+                "3": 228,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15861_mv_1083761466_1684083613566834833.jpg",
+            "submission_id": 220017,
+            "total_vote": 314,
+            "votes": {
+                "10": 9,
+                "11": 17,
+                "12": 86,
+                "13": 10,
+                "14": 1,
+                "20": 2,
+                "21": 110,
+                "22": 13,
+                "24": 5,
+                "6": 1,
+                "7": 3,
+                "8": 2,
+                "9": 55
+            }
+        },
+        "school_name": "ŞEHİT AHMET ÖZSOY FEN LİSESİ"
+    },
+    {
+        "ballot_box_number": 1345,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15861_cb_1093761463_1684080688166482585.jpg",
+            "submission_id": 183152,
+            "total_vote": 309,
+            "votes": {
+                "1": 72,
+                "2": 3,
+                "3": 227,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT AHMET ÖZSOY FEN LİSESİ"
+    },
+    {
+        "ballot_box_number": 1355,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15861_cb_1093761473_1684087346764946084.jpg",
+            "submission_id": 330892,
+            "total_vote": 308,
+            "votes": {
+                "1": 82,
+                "2": 0,
+                "3": 207,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15861_mv_1083761473_1684089377480376798.jpg",
+            "submission_id": 392843,
+            "total_vote": 289,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 11,
+                "12": 62,
+                "13": 18,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 108,
+                "22": 10,
+                "23": 1,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 1,
+                "9": 63
+            }
+        },
+        "school_name": "ŞEHİT AHMET ÖZSOY FEN LİSESİ"
+    },
+    {
+        "ballot_box_number": 1356,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15861_cb_1093761474_1684087714844658639.jpg",
+            "submission_id": 342901,
+            "total_vote": 310,
+            "votes": {
+                "1": 88,
+                "2": 1,
+                "3": 206,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15861_mv_1083761474_1684087901881727873.jpg",
+            "submission_id": 348722,
+            "total_vote": 306,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 18,
+                "12": 78,
+                "13": 15,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 96,
+                "22": 14,
+                "23": 10,
+                "24": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 2,
+                "8": 2,
+                "9": 65
+            }
+        },
+        "school_name": "ŞEHİT AHMET ÖZSOY FEN LİSESİ"
+    },
+    {
+        "ballot_box_number": 1359,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15861_cb_1093761677_1684090087477644106.jpg",
+            "submission_id": 411844,
+            "total_vote": 311,
+            "votes": {
+                "1": 80,
+                "2": 1,
+                "3": 218,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15861_mv_1083761677_1684090059874042843.jpg",
+            "submission_id": 411216,
+            "total_vote": 315,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 1,
+                "12": 79,
+                "13": 24,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 27,
+                "22": 97,
+                "23": 11,
+                "24": 0,
+                "3": 0,
+                "4": 1,
+                "5": 2,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 65
+            }
+        },
+        "school_name": "ŞEHİT AHMET ÖZSOY FEN LİSESİ"
+    },
+    {
+        "ballot_box_number": 1353,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15861_cb_1093761471_1684081736856870801.jpg",
+            "submission_id": 191768,
+            "total_vote": 315,
+            "votes": {
+                "1": 72,
+                "2": 1,
+                "3": 223,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15861_mv_1083761471_1684081999378978462.jpg",
+            "submission_id": 194581,
+            "total_vote": 311,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 22,
+                "12": 57,
+                "13": 28,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 13,
+                "2": 0,
+                "20": 0,
+                "21": 107,
+                "22": 24,
+                "23": 0,
+                "24": 2,
+                "3": 4,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 47
+            }
+        },
+        "school_name": "ŞEHİT AHMET ÖZSOY FEN LİSESİ"
+    },
+    {
+        "ballot_box_number": 1361,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15861_cb_1093761679_1684082090971507895.jpg",
+            "submission_id": 195737,
+            "total_vote": 313,
+            "votes": {
+                "1": 66,
+                "2": 2,
+                "3": 234,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15861_mv_1083761679_1684086835247108041.jpg",
+            "submission_id": 313249,
+            "total_vote": 304,
+            "votes": {
+                "10": 1,
+                "11": 9,
+                "12": 86,
+                "13": 25,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 100,
+                "22": 17,
+                "23": 1,
+                "24": 8,
+                "3": 2,
+                "4": 0,
+                "5": 2,
+                "6": 2,
+                "7": 0,
+                "8": 2,
+                "9": 49
+            }
+        },
+        "school_name": "ŞEHİT AHMET ÖZSOY FEN LİSESİ"
+    },
+    {
+        "ballot_box_number": 1349,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15861_cb_1093761467_1684085843504208916.jpg",
+            "submission_id": 279900,
+            "total_vote": 321,
+            "votes": {
+                "1": 82,
+                "2": 1,
+                "3": 219,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15861_mv_1083761467_1684089640022805372.jpg",
+            "submission_id": 400137,
+            "total_vote": 319,
+            "votes": {
+                "1": 0,
+                "10": 8,
+                "11": 10,
+                "12": 52,
+                "13": 19,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 128,
+                "22": 25,
+                "23": 0,
+                "24": 7,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 4,
+                "8": 0,
+                "9": 63
+            }
+        },
+        "school_name": "ŞEHİT AHMET ÖZSOY FEN LİSESİ"
+    },
+    {
+        "ballot_box_number": 1357,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15861_cb_1093761675_1684082528524979731.jpg",
+            "submission_id": 201362,
+            "total_vote": 312,
+            "votes": {
+                "1": 103,
+                "2": 1,
+                "3": 199,
+                "4": 9
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT AHMET ÖZSOY FEN LİSESİ"
+    },
+    {
+        "ballot_box_number": 1346,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15861_cb_1093761464_1684080924123865465.jpg",
+            "submission_id": 184753,
+            "total_vote": 312,
+            "votes": {
+                "1": 83,
+                "3": 220,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/794b29ca-ac9b-4eed-a19b-893f1ca1298f-1684106250119555687.jpg",
+            "submission_id": 760367,
+            "total_vote": 311,
+            "votes": {
+                "10": 4,
+                "11": 6,
+                "12": 62,
+                "13": 24,
+                "21": 114,
+                "22": 20,
+                "23": 1,
+                "24": 7,
+                "5": 2,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 68
+            }
+        },
+        "school_name": "ŞEHİT AHMET ÖZSOY FEN LİSESİ"
+    },
+    {
+        "ballot_box_number": 1358,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15861_cb_1093761676_1684087107660682124.jpg",
+            "submission_id": 322834,
+            "total_vote": 312,
+            "votes": {
+                "1": 91,
+                "2": 1,
+                "3": 201,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15861_mv_1083761676_1684087131341554255.jpg",
+            "submission_id": 323618,
+            "total_vote": 301,
+            "votes": {
+                "10": 8,
+                "11": 17,
+                "12": 59,
+                "13": 22,
+                "14": 0,
+                "15": 0,
+                "20": 0,
+                "21": 97,
+                "22": 21,
+                "23": 2,
+                "24": 8,
+                "7": 4,
+                "8": 0,
+                "9": 63
+            }
+        },
+        "school_name": "ŞEHİT AHMET ÖZSOY FEN LİSESİ"
+    },
+    {
+        "ballot_box_number": 1352,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15861_cb_1093761470_1684084587178824111.jpg",
+            "submission_id": 242803,
+            "total_vote": 310,
+            "votes": {
+                "1": 89,
+                "2": 1,
+                "3": 202,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT AHMET ÖZSOY FEN LİSESİ"
+    },
+    {
+        "ballot_box_number": 1351,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15861_cb_1093761469_1684089470982771670.jpg",
+            "submission_id": 395432,
+            "total_vote": 320,
+            "votes": {
+                "1": 91,
+                "2": 2,
+                "3": 200,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15861_mv_1083761469_1684089488501192351.jpg",
+            "submission_id": 395911,
+            "total_vote": 320,
+            "votes": {
+                "10": 4,
+                "11": 14,
+                "12": 75,
+                "13": 20,
+                "18": 2,
+                "20": 1,
+                "21": 89,
+                "22": 19,
+                "23": 1,
+                "24": 19,
+                "3": 1,
+                "5": 1,
+                "6": 1,
+                "7": 1,
+                "9": 72
+            }
+        },
+        "school_name": "ŞEHİT AHMET ÖZSOY FEN LİSESİ"
+    },
+    {
+        "ballot_box_number": 1350,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15861_cb_1093761468_1684085391743877103.jpg",
+            "submission_id": 265442,
+            "total_vote": 310,
+            "votes": {
+                "1": 102,
+                "2": 0,
+                "3": 192,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT AHMET ÖZSOY FEN LİSESİ"
+    },
+    {
+        "ballot_box_number": 1347,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15861_cb_1093761465_1684083872659579177.jpg",
+            "submission_id": 225569,
+            "total_vote": 314,
+            "votes": {
+                "1": 82,
+                "2": 1,
+                "3": 216,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15861_mv_1083761465_1684086445911428196.jpg",
+            "submission_id": 299588,
+            "total_vote": 311,
+            "votes": {
+                "10": 4,
+                "11": 27,
+                "12": 79,
+                "13": 18,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "20": 0,
+                "21": 96,
+                "22": 19,
+                "23": 0,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 5,
+                "8": 1,
+                "9": 55
+            }
+        },
+        "school_name": "ŞEHİT AHMET ÖZSOY FEN LİSESİ"
+    },
+    {
+        "ballot_box_number": 1360,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15861_cb_1093761678_1684086888345561613.jpg",
+            "submission_id": 315065,
+            "total_vote": 296,
+            "votes": {
+                "1": 80,
+                "3": 201,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15861_mv_1083761678_1684086978370520631.jpg",
+            "submission_id": 318199,
+            "total_vote": 300,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 15,
+                "12": 81,
+                "13": 22,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 78,
+                "22": 25,
+                "23": 1,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 1,
+                "7": 2,
+                "8": 0,
+                "9": 62
+            }
+        },
+        "school_name": "ŞEHİT AHMET ÖZSOY FEN LİSESİ"
+    }
+]

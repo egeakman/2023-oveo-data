@@ -1,0 +1,82 @@
+[
+    {
+        "ballot_box_number": 1034,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/47525_bulk_999999999_1684087467492530716.jpg",
+            "submission_id": 334830,
+            "total_vote": 191,
+            "votes": {
+                "1": 114,
+                "2": 0,
+                "3": 61,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/47525_bulk_999999999_1684087467599093493.jpg",
+            "submission_id": 334834,
+            "total_vote": 188,
+            "votes": {
+                "10": 13,
+                "11": 20,
+                "12": 5,
+                "13": 3,
+                "14": 3,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 44,
+                "22": 9,
+                "23": 0,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 82
+            }
+        },
+        "school_name": "YENMİŞ HÜRRİYET İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1033,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/47525_bulk_999999999_1684164048983164379.jpg",
+            "submission_id": 1023245,
+            "total_vote": 195,
+            "votes": {
+                "1": 109,
+                "2": 2,
+                "3": 67,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/47525_bulk_999999999_1684087467868313635.jpg",
+            "submission_id": 334844,
+            "total_vote": 183,
+            "votes": {
+                "1": 2,
+                "10": 4,
+                "11": 16,
+                "12": 8,
+                "13": 4,
+                "15": 1,
+                "21": 40,
+                "22": 18,
+                "23": 3,
+                "24": 3,
+                "6": 1,
+                "7": 2,
+                "9": 81
+            }
+        },
+        "school_name": "YENMİŞ HÜRRİYET İLKOKULU"
+    }
+]

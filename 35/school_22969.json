@@ -1,0 +1,211 @@
+[
+    {
+        "ballot_box_number": 2011,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17416_cb_1093796845_1684090250866539563.jpg",
+            "submission_id": 415767,
+            "total_vote": 315,
+            "votes": {
+                "1": 75,
+                "2": 0,
+                "3": 236,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0dc0d187-413d-40fe-81e3-c7e43bc7fddd-1684105460649185399.jpeg",
+            "submission_id": 643568,
+            "total_vote": 300,
+            "votes": {
+                "11": 6,
+                "12": 171,
+                "21": 43,
+                "22": 13,
+                "24": 6,
+                "4": 4,
+                "5": 2,
+                "9": 55
+            }
+        },
+        "school_name": "FATİH MEHMET İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2007,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17416_cb_1093796841_1684087273754790850.jpg",
+            "submission_id": 328528,
+            "total_vote": 293,
+            "votes": {
+                "1": 101,
+                "2": 0,
+                "3": 183,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17416_mv_1083796841_1684087309496427581.jpg",
+            "submission_id": 329682,
+            "total_vote": 286,
+            "votes": {
+                "10": 6,
+                "11": 15,
+                "12": 87,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "20": 0,
+                "21": 67,
+                "22": 28,
+                "23": 1,
+                "24": 2,
+                "6": 0,
+                "7": 1,
+                "8": 0,
+                "9": 77
+            }
+        },
+        "school_name": "FATİH MEHMET İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2008,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/73478_cb_1093796842_1684080200720185006.jpg",
+            "submission_id": 180256,
+            "total_vote": 294,
+            "votes": {
+                "1": 84,
+                "2": 1,
+                "3": 201,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17416_mv_1083796842_1684087217809415555.jpg",
+            "submission_id": 326662,
+            "total_vote": 301,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 5,
+                "12": 141,
+                "14": 1,
+                "15": 0,
+                "16": 2,
+                "17": 0,
+                "18": 0,
+                "19": 9,
+                "2": 0,
+                "20": 1,
+                "21": 45,
+                "22": 19,
+                "23": 3,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 3,
+                "6": 2,
+                "7": 2,
+                "8": 1,
+                "9": 61
+            }
+        },
+        "school_name": "FATİH MEHMET İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2010,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17416_cb_1093796845_1684088843398775866.jpg",
+            "submission_id": 377914,
+            "total_vote": 318,
+            "votes": {
+                "1": 85,
+                "2": 1,
+                "3": 229,
+                "4": 3
+            }
+        },
+        "mv_result": null,
+        "school_name": "FATİH MEHMET İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2009,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28471_bulk_999999999_1684086123029583469.jpg",
+            "submission_id": 288953,
+            "total_vote": 305,
+            "votes": {
+                "1": 79,
+                "2": 0,
+                "3": 216,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28471_bulk_999999999_1684086122890642109.jpg",
+            "submission_id": 288949,
+            "total_vote": 291,
+            "votes": {
+                "10": 1,
+                "11": 10,
+                "12": 161,
+                "20": 1,
+                "21": 37,
+                "22": 15,
+                "23": 1,
+                "24": 1,
+                "5": 3,
+                "6": 1,
+                "8": 1,
+                "9": 59
+            }
+        },
+        "school_name": "FATİH MEHMET İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2012,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28471_bulk_999999999_1684086123289819048.jpg",
+            "submission_id": 288969,
+            "total_vote": 296,
+            "votes": {
+                "1": 75,
+                "3": 216,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28471_bulk_999999999_1684086123142970075.jpg",
+            "submission_id": 288959,
+            "total_vote": 294,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 3,
+                "12": 164,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 42,
+                "22": 8,
+                "23": 0,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 4,
+                "7": 1,
+                "8": 0,
+                "9": 61
+            }
+        },
+        "school_name": "FATİH MEHMET İMAM HATİP ORTAOKULU"
+    }
+]

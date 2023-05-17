@@ -1,0 +1,17 @@
+[
+    {
+        "ballot_box_number": 1181,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ab3d0165-febb-4846-b2c0-4434171d38e1-1684106724672546030.jpg",
+            "submission_id": 829902,
+            "total_vote": 237,
+            "votes": {
+                "1": 157,
+                "3": 72,
+                "4": 8
+            }
+        },
+        "mv_result": null,
+        "school_name": "KAPLAN (YUKARIBEY BUCAĞI) MAH. TOPLANTI SALONU"
+    }
+]

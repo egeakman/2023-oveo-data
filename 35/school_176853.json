@@ -1,0 +1,37 @@
+[
+    {
+        "ballot_box_number": 1097,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/61741_bulk_999999999_1684084410284423013.jpg",
+            "submission_id": 238266,
+            "total_vote": 336,
+            "votes": {
+                "1": 113,
+                "2": 3,
+                "3": 206,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/61741_bulk_999999999_1684084377604347484.jpg",
+            "submission_id": 237425,
+            "total_vote": 338,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 11,
+                "12": 15,
+                "15": 4,
+                "20": 1,
+                "21": 148,
+                "22": 50,
+                "23": 2,
+                "24": 3,
+                "6": 3,
+                "7": 1,
+                "9": 96
+            }
+        },
+        "school_name": "BOZKÖY KÖY KAHVESİ"
+    }
+]

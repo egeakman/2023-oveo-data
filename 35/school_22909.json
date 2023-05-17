@@ -1,0 +1,156 @@
+[
+    {
+        "ballot_box_number": 2050,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/9936_cb_1093797484_1684087377932440727.jpg",
+            "submission_id": 331971,
+            "total_vote": 337,
+            "votes": {
+                "1": 80,
+                "2": 3,
+                "3": 237,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/9936_bulk_999999999_1684231704994738693.jpg",
+            "submission_id": 1027478,
+            "total_vote": 335,
+            "votes": {
+                "11": 11,
+                "12": 14,
+                "20": 3,
+                "21": 166,
+                "22": 48,
+                "23": 2,
+                "24": 11,
+                "3": 2,
+                "4": 1,
+                "6": 4,
+                "7": 6,
+                "8": 2,
+                "9": 65
+            }
+        },
+        "school_name": "ŞEHİT HALİT ZİLANİ ÇELİK İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2047,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/63075_cb_1093797481_1684089747806052096.jpg",
+            "submission_id": 403037,
+            "total_vote": 307,
+            "votes": {
+                "1": 100,
+                "2": 4,
+                "3": 191,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/63075_mv_1083797481_1684089653630515269.jpg",
+            "submission_id": 400501,
+            "total_vote": 298,
+            "votes": {
+                "1": 1,
+                "11": 11,
+                "12": 4,
+                "14": 1,
+                "17": 1,
+                "20": 1,
+                "21": 151,
+                "22": 30,
+                "23": 3,
+                "24": 6,
+                "3": 1,
+                "5": 1,
+                "6": 3,
+                "7": 2,
+                "8": 1,
+                "9": 81
+            }
+        },
+        "school_name": "ŞEHİT HALİT ZİLANİ ÇELİK İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2048,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/54137_cb_1093797481_1684088333611883514.jpg",
+            "submission_id": 362304,
+            "total_vote": 325,
+            "votes": {
+                "1": 110,
+                "2": 0,
+                "3": 190,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/54137_mv_1083797482_1684088393968233372.jpg",
+            "submission_id": 364221,
+            "total_vote": 317,
+            "votes": {
+                "10": 2,
+                "11": 16,
+                "12": 13,
+                "18": 1,
+                "20": 1,
+                "21": 139,
+                "22": 35,
+                "23": 1,
+                "24": 11,
+                "3": 1,
+                "6": 2,
+                "7": 4,
+                "8": 2,
+                "9": 89
+            }
+        },
+        "school_name": "ŞEHİT HALİT ZİLANİ ÇELİK İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2049,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/9936_bulk_999999999_1684095634378828014.jpg",
+            "submission_id": 505191,
+            "total_vote": 329,
+            "votes": {
+                "1": 83,
+                "2": 0,
+                "3": 229,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/9936_bulk_999999999_1684095634465095013.jpg",
+            "submission_id": 505193,
+            "total_vote": 319,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 12,
+                "12": 6,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 150,
+                "22": 61,
+                "23": 1,
+                "24": 15,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 5,
+                "7": 4,
+                "8": 0,
+                "9": 62
+            }
+        },
+        "school_name": "ŞEHİT HALİT ZİLANİ ÇELİK İMAM HATİP ORTAOKULU"
+    }
+]

@@ -1,0 +1,354 @@
+[
+    {
+        "ballot_box_number": 1019,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/46597_bulk_999999999_1684088593293260189.jpg",
+            "submission_id": 370430,
+            "total_vote": 314,
+            "votes": {
+                "1": 122,
+                "2": 0,
+                "3": 182,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/46597_bulk_999999999_1684088543149653986.jpg",
+            "submission_id": 368882,
+            "total_vote": 315,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 22,
+                "12": 30,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 107,
+                "22": 44,
+                "23": 1,
+                "24": 8,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 3,
+                "7": 2,
+                "8": 1,
+                "9": 92
+            }
+        },
+        "school_name": "MUSTAFA ÇOBAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1020,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/46597_bulk_999999999_1684089247974093802.jpg",
+            "submission_id": 389504,
+            "total_vote": 310,
+            "votes": {
+                "1": 107,
+                "2": 2,
+                "3": 172,
+                "4": 29
+            }
+        },
+        "mv_result": null,
+        "school_name": "MUSTAFA ÇOBAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1021,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/46597_bulk_999999999_1684089855187579447.jpg",
+            "submission_id": 405898,
+            "total_vote": 322,
+            "votes": {
+                "1": 96,
+                "2": 1,
+                "3": 198,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2102a8bd-d545-46e8-9f31-ac3cae2bbbe6-1684106248903963845.jpeg",
+            "submission_id": 761296,
+            "total_vote": 318,
+            "votes": {
+                "10": 6,
+                "11": 14,
+                "12": 20,
+                "14": 1,
+                "2": 1,
+                "21": 132,
+                "22": 45,
+                "23": 1,
+                "24": 12,
+                "3": 1,
+                "5": 1,
+                "6": 1,
+                "7": 7,
+                "9": 76
+            }
+        },
+        "school_name": "MUSTAFA ÇOBAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1024,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/46597_bulk_999999999_1684088819635899313.jpg",
+            "submission_id": 377192,
+            "total_vote": 323,
+            "votes": {
+                "1": 118,
+                "2": 2,
+                "3": 177,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/46597_bulk_999999999_1684088819735756617.jpg",
+            "submission_id": 377196,
+            "total_vote": 316,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 19,
+                "12": 23,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 4,
+                "2": 0,
+                "20": 0,
+                "21": 114,
+                "22": 36,
+                "23": 2,
+                "24": 12,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 10,
+                "8": 0,
+                "9": 93
+            }
+        },
+        "school_name": "MUSTAFA ÇOBAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1017,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/46597_bulk_999999999_1684088483948615477.jpg",
+            "submission_id": 366986,
+            "total_vote": 320,
+            "votes": {
+                "1": 97,
+                "2": 2,
+                "3": 199,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source1-secim-images.oyveotesi.org/raw/1001243_mv_3796202_1684082022.jpeg",
+            "submission_id": 194876,
+            "total_vote": 313,
+            "votes": {
+                "10": 2,
+                "11": 14,
+                "12": 26,
+                "18": 1,
+                "19": 1,
+                "21": 125,
+                "22": 46,
+                "24": 7,
+                "3": 2,
+                "4": 1,
+                "6": 3,
+                "7": 5,
+                "8": 2,
+                "9": 78
+            }
+        },
+        "school_name": "MUSTAFA ÇOBAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1018,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/46597_bulk_999999999_1684088969962231231.jpg",
+            "submission_id": 381603,
+            "total_vote": 322,
+            "votes": {
+                "1": 120,
+                "2": 2,
+                "3": 181,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/46597_bulk_999999999_1684088593416421311.jpg",
+            "submission_id": 370433,
+            "total_vote": 315,
+            "votes": {
+                "10": 3,
+                "11": 31,
+                "12": 26,
+                "15": 2,
+                "21": 112,
+                "22": 36,
+                "23": 1,
+                "24": 8,
+                "3": 2,
+                "5": 1,
+                "7": 7,
+                "8": 1,
+                "9": 85
+            }
+        },
+        "school_name": "MUSTAFA ÇOBAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1023,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0f3a847a-481e-47e5-94cf-f01d0803a218-1684106091012761494.jpeg",
+            "submission_id": 737225,
+            "total_vote": 326,
+            "votes": {
+                "1": 127,
+                "2": 0,
+                "3": 173,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/70736e68-3f9e-4f3e-8d44-06a3cc0e35cf-1684106099779653257.jpeg",
+            "submission_id": 738249,
+            "total_vote": 322,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 27,
+                "12": 21,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 112,
+                "22": 45,
+                "23": 1,
+                "24": 15,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 0,
+                "9": 97
+            }
+        },
+        "school_name": "MUSTAFA ÇOBAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1022,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/46597_bulk_999999999_1684089560151169648.jpg",
+            "submission_id": 397923,
+            "total_vote": 327,
+            "votes": {
+                "1": 130,
+                "2": 1,
+                "3": 180,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/45f979c9-debe-4eaf-b3d9-ba6bbce41b68-1684106183943872912.jpg",
+            "submission_id": 751089,
+            "total_vote": 325,
+            "votes": {
+                "10": 5,
+                "11": 24,
+                "12": 18,
+                "21": 115,
+                "22": 47,
+                "23": 1,
+                "24": 8,
+                "4": 1,
+                "6": 1,
+                "7": 6,
+                "8": 2,
+                "9": 97
+            }
+        },
+        "school_name": "MUSTAFA ÇOBAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1015,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/46597_bulk_999999999_1684088731310254393.jpg",
+            "submission_id": 374589,
+            "total_vote": 302,
+            "votes": {
+                "1": 96,
+                "3": 194,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "MUSTAFA ÇOBAN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1016,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/46597_bulk_999999999_1684088542979472161.jpg",
+            "submission_id": 368880,
+            "total_vote": 341,
+            "votes": {
+                "1": 110,
+                "2": 1,
+                "3": 202,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/b8ec4fd5-d3aa-4bb8-9f44-438ccc739d6d-1684106440206935559.jpeg",
+            "submission_id": 788488,
+            "total_vote": 335,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 21,
+                "12": 21,
+                "14": 1,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 119,
+                "22": 50,
+                "23": 0,
+                "24": 10,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 3,
+                "7": 6,
+                "8": 1,
+                "9": 94
+            }
+        },
+        "school_name": "MUSTAFA ÇOBAN İLKOKULU"
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "ballot_box_number": 1003,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/30137_bulk_999999999_1684090855636200943.jpg",
+            "submission_id": 428896,
+            "total_vote": 184,
+            "votes": {
+                "1": 67,
+                "2": 1,
+                "3": 113,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/30137_bulk_999999999_1684090889591118692.jpg",
+            "submission_id": 429671,
+            "total_vote": 176,
+            "votes": {
+                "11": 6,
+                "12": 7,
+                "15": 1,
+                "19": 1,
+                "20": 1,
+                "21": 87,
+                "22": 14,
+                "23": 1,
+                "3": 1,
+                "8": 1,
+                "9": 56
+            }
+        },
+        "school_name": "EĞLENHOCA KÖYÜ İLKÖĞRETİM OKULU"
+    },
+    {
+        "ballot_box_number": 1004,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/30137_bulk_999999999_1684090608878360080.jpg",
+            "submission_id": 423784,
+            "total_vote": 192,
+            "votes": {
+                "1": 45,
+                "2": 3,
+                "3": 139,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/30137_mv_1083570519_1684090666770333050.jpg",
+            "submission_id": 424882,
+            "total_vote": 188,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 8,
+                "12": 5,
+                "14": 0,
+                "15": 0,
+                "17": 0,
+                "2": 0,
+                "20": 0,
+                "21": 0,
+                "22": 103,
+                "23": 34,
+                "24": 1,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 1,
+                "9": 33
+            }
+        },
+        "school_name": "EĞLENHOCA KÖYÜ İLKÖĞRETİM OKULU"
+    }
+]

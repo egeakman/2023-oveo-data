@@ -1,0 +1,108 @@
+[
+    {
+        "ballot_box_number": 2003,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/762bfcdf-bf53-45b5-9630-c972eb42c85c-1684106163615941364.jpeg",
+            "submission_id": 747636,
+            "total_vote": 323,
+            "votes": {
+                "1": 146,
+                "2": 2,
+                "3": 154,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "KAYNAKLAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2002,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/17027_bulk_999999999_1684089047906334257.jpeg",
+            "submission_id": 383905,
+            "total_vote": 314,
+            "votes": {
+                "1": 128,
+                "2": 0,
+                "3": 166,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/85bc74e1-33ac-4996-8e43-177253c6e925-1684106168834162425.jpeg",
+            "submission_id": 748477,
+            "total_vote": 305,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 22,
+                "12": 14,
+                "14": 2,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 116,
+                "22": 38,
+                "23": 0,
+                "24": 7,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 2,
+                "8": 1,
+                "9": 98
+            }
+        },
+        "school_name": "KAYNAKLAR ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2001,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/57080_cb_1093789275_1684085449030910734.jpg",
+            "submission_id": 267070,
+            "total_vote": 303,
+            "votes": {
+                "1": 134,
+                "2": 4,
+                "3": 152,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/57080_cb_1093789275_1684085320741895274.jpg",
+            "submission_id": 263356,
+            "total_vote": 294,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 18,
+                "12": 13,
+                "14": 2,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 110,
+                "22": 28,
+                "23": 1,
+                "24": 7,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 4,
+                "8": 2,
+                "9": 99
+            }
+        },
+        "school_name": "KAYNAKLAR ORTAOKULU"
+    }
+]

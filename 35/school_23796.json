@@ -1,0 +1,50 @@
+[
+    {
+        "ballot_box_number": 1053,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c47f6534-e4fa-4c69-b547-48c909ac55b2-1684106357615094673.jpg",
+            "submission_id": 777445,
+            "total_vote": 190,
+            "votes": {
+                "1": 65,
+                "2": 1,
+                "3": 121,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e09631a8-fb4c-4de6-a73e-5da765c711f7-1684106009468360261.jpg",
+            "submission_id": 726721,
+            "total_vote": 189,
+            "votes": {
+                "10": 4,
+                "11": 5,
+                "12": 1,
+                "21": 94,
+                "22": 27,
+                "23": 1,
+                "24": 2,
+                "5": 1,
+                "7": 3,
+                "8": 3,
+                "9": 48
+            }
+        },
+        "school_name": "ÇAKALTEPE İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1054,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ac25a811-c7c4-41f8-b172-f26a1c697ce3-1684106328203862573.jpg",
+            "submission_id": 773244,
+            "total_vote": 200,
+            "votes": {
+                "1": 86,
+                "3": 108,
+                "4": 6
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇAKALTEPE İLKOKULU"
+    }
+]

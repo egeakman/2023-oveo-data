@@ -1,0 +1,616 @@
+[
+    {
+        "ballot_box_number": 1168,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/58869_cb_1093577322_1684089839613377777.jpg",
+            "submission_id": 405538,
+            "total_vote": 334,
+            "votes": {
+                "1": 58,
+                "2": 2,
+                "3": 251,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9807dded-da61-4aad-9410-13f662332640-1684105499298241758.jpg",
+            "submission_id": 649297,
+            "total_vote": 332,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 13,
+                "12": 41,
+                "13": 3,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 7,
+                "20": 0,
+                "21": 145,
+                "22": 50,
+                "23": 1,
+                "24": 13,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 3,
+                "7": 8,
+                "8": 3,
+                "9": 41
+            }
+        },
+        "school_name": "KAYMAKAM ÖZGÜR AZER KURAK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1157,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "KAYMAKAM ÖZGÜR AZER KURAK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1155,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d7522e51-18d8-4221-b6a6-05f6b5d02b9a-1684105552321473078.jpeg",
+            "submission_id": 657714,
+            "total_vote": 320,
+            "votes": {
+                "1": 63,
+                "2": 1,
+                "3": 245,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/209759bc-27d5-4ea8-a05e-4c3d98c771c3-1684105543323864081.jpeg",
+            "submission_id": 656509,
+            "total_vote": 305,
+            "votes": {
+                "1": 2,
+                "10": 4,
+                "11": 4,
+                "12": 2,
+                "13": 13,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 191,
+                "22": 30,
+                "23": 0,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 45
+            }
+        },
+        "school_name": "KAYMAKAM ÖZGÜR AZER KURAK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1161,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/59987_mv_1083577315_1684091035267917793.jpg",
+            "submission_id": 432599,
+            "total_vote": 340,
+            "votes": {
+                "1": 66,
+                "2": 0,
+                "3": 254,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/59987_cb_1093577315_1684091134635581022.jpg",
+            "submission_id": 434559,
+            "total_vote": 334,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 12,
+                "12": 21,
+                "13": 39,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 132,
+                "22": 62,
+                "23": 2,
+                "24": 7,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 5,
+                "8": 0,
+                "9": 48
+            }
+        },
+        "school_name": "KAYMAKAM ÖZGÜR AZER KURAK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1165,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16404_mv_1083576610_1684087375446112719.jpg",
+            "submission_id": 331887,
+            "total_vote": 333,
+            "votes": {
+                "1": 53,
+                "2": 4,
+                "3": 252,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16404_cb_1093576610_1684087355941444220.jpg",
+            "submission_id": 331184,
+            "total_vote": 325,
+            "votes": {
+                "10": 1,
+                "11": 9,
+                "12": 8,
+                "13": 24,
+                "19": 1,
+                "20": 1,
+                "21": 165,
+                "22": 49,
+                "23": 1,
+                "24": 16,
+                "3": 1,
+                "4": 1,
+                "6": 1,
+                "7": 8,
+                "9": 39
+            }
+        },
+        "school_name": "KAYMAKAM ÖZGÜR AZER KURAK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1156,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/47774_bulk_999999999_1684102695126485499.jpg",
+            "submission_id": 545322,
+            "total_vote": 331,
+            "votes": {
+                "1": 78,
+                "3": 245,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/47774_bulk_999999999_1684102779307284150.jpg",
+            "submission_id": 545587,
+            "total_vote": 325,
+            "votes": {
+                "10": 1,
+                "11": 12,
+                "12": 3,
+                "13": 10,
+                "21": 200,
+                "22": 26,
+                "24": 2,
+                "3": 2,
+                "5": 2,
+                "7": 3,
+                "8": 1,
+                "9": 63
+            }
+        },
+        "school_name": "KAYMAKAM ÖZGÜR AZER KURAK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1166,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/9102_bulk_999999999_1684102608181183321.jpg",
+            "submission_id": 545027,
+            "total_vote": 333,
+            "votes": {
+                "1": 57,
+                "2": 2,
+                "3": 264,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/507b374e-57ad-4a86-bc06-8dc4d985bf18-1684105646984727911.jpeg",
+            "submission_id": 673178,
+            "total_vote": 329,
+            "votes": {
+                "10": 3,
+                "11": 11,
+                "12": 10,
+                "13": 24,
+                "19": 1,
+                "21": 171,
+                "22": 54,
+                "23": 1,
+                "24": 7,
+                "3": 2,
+                "7": 4,
+                "8": 2,
+                "9": 39
+            }
+        },
+        "school_name": "KAYMAKAM ÖZGÜR AZER KURAK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1162,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/58472_cb_1093577316_1684086110671555609.jpg",
+            "submission_id": 288471,
+            "total_vote": 352,
+            "votes": {
+                "1": 59,
+                "3": 285,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/58472_mv_1083577316_1684086158774279373.jpg",
+            "submission_id": 290025,
+            "total_vote": 351,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 11,
+                "12": 12,
+                "13": 36,
+                "21": 181,
+                "22": 52,
+                "24": 7,
+                "3": 1,
+                "4": 1,
+                "6": 2,
+                "7": 2,
+                "9": 43
+            }
+        },
+        "school_name": "KAYMAKAM ÖZGÜR AZER KURAK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1171,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/9102_bulk_999999999_1684102608137128531.jpg",
+            "submission_id": 545026,
+            "total_vote": 343,
+            "votes": {
+                "1": 49,
+                "2": 2,
+                "3": 270,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "KAYMAKAM ÖZGÜR AZER KURAK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1163,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9aac0ca1-deb8-454c-8a48-64f6c94ca15f-1684106207536866846.jpeg",
+            "submission_id": 754731,
+            "total_vote": 348,
+            "votes": {
+                "1": 62,
+                "2": 2,
+                "3": 269,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2d366507-afce-44a1-9fd0-0416a7e4ccb6-1684106203026077327.jpeg",
+            "submission_id": 754082,
+            "total_vote": 348,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 18,
+                "12": 6,
+                "13": 22,
+                "17": 1,
+                "19": 1,
+                "21": 187,
+                "22": 55,
+                "23": 1,
+                "24": 6,
+                "3": 2,
+                "7": 1,
+                "8": 1,
+                "9": 44
+            }
+        },
+        "school_name": "KAYMAKAM ÖZGÜR AZER KURAK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1169,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/9102_bulk_999999999_1684102608040035411.jpg",
+            "submission_id": 545025,
+            "total_vote": 347,
+            "votes": {
+                "1": 75,
+                "2": 1,
+                "3": 248,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7f970a5f-acd9-4774-87f5-b049a435722f-1684105327961328055.jpg",
+            "submission_id": 618922,
+            "total_vote": 344,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 15,
+                "12": 7,
+                "13": 28,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 154,
+                "22": 59,
+                "23": 1,
+                "24": 14,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 0,
+                "9": 56
+            }
+        },
+        "school_name": "KAYMAKAM ÖZGÜR AZER KURAK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1170,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/9102_bulk_999999999_1684087760451025387.jpg",
+            "submission_id": 344369,
+            "total_vote": 352,
+            "votes": {
+                "1": 33,
+                "2": 1,
+                "3": 297,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/9102_bulk_999999999_1684087760557108406.jpg",
+            "submission_id": 344370,
+            "total_vote": 348,
+            "votes": {
+                "10": 2,
+                "11": 5,
+                "12": 15,
+                "13": 30,
+                "15": 1,
+                "20": 1,
+                "21": 199,
+                "22": 55,
+                "23": 6,
+                "24": 12,
+                "3": 1,
+                "6": 1,
+                "9": 20
+            }
+        },
+        "school_name": "KAYMAKAM ÖZGÜR AZER KURAK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1167,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/48039_bulk_999999999_1684085761158658899.jpeg",
+            "submission_id": 277132,
+            "total_vote": 344,
+            "votes": {
+                "1": 70,
+                "2": 0,
+                "3": 262,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "KAYMAKAM ÖZGÜR AZER KURAK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1154,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/9102_bulk_999999999_1684102608532762174.jpg",
+            "submission_id": 545033,
+            "total_vote": 304,
+            "votes": {
+                "1": 67,
+                "2": 1,
+                "3": 232,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/9102_bulk_999999999_1684102608421287757.jpg",
+            "submission_id": 545031,
+            "total_vote": 300,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 9,
+                "12": 10,
+                "13": 8,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 178,
+                "22": 36,
+                "23": 0,
+                "24": 1,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 1,
+                "8": 0,
+                "9": 50
+            }
+        },
+        "school_name": "KAYMAKAM ÖZGÜR AZER KURAK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1159,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18788_cb_1093576613_1684083119345472743.jpg",
+            "submission_id": 210727,
+            "total_vote": 348,
+            "votes": {
+                "1": 66,
+                "2": 2,
+                "3": 262,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18788_mv_1083576613_1684084158871841506.jpg",
+            "submission_id": 231753,
+            "total_vote": 346,
+            "votes": {
+                "1": 1,
+                "11": 16,
+                "12": 11,
+                "13": 21,
+                "15": 1,
+                "18": 1,
+                "21": 151,
+                "22": 76,
+                "23": 1,
+                "24": 8,
+                "3": 2,
+                "5": 1,
+                "6": 3,
+                "7": 9,
+                "9": 44
+            }
+        },
+        "school_name": "KAYMAKAM ÖZGÜR AZER KURAK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1160,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18788_cb_1093576614_1684083005400230243.jpg",
+            "submission_id": 208833,
+            "total_vote": 328,
+            "votes": {
+                "1": 49,
+                "2": 1,
+                "3": 267,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18788_mv_1083576614_1684092493993153967.jpg",
+            "submission_id": 457173,
+            "total_vote": 328,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 10,
+                "13": 35,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 179,
+                "22": 51,
+                "23": 0,
+                "24": 5,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 8,
+                "8": 0,
+                "9": 32
+            }
+        },
+        "school_name": "KAYMAKAM ÖZGÜR AZER KURAK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1172,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/6ed300ce-9160-42d2-92ad-144c4bf3e791-1684105408096721202.jpeg",
+            "submission_id": 633931,
+            "total_vote": 346,
+            "votes": {
+                "1": 66,
+                "2": 1,
+                "3": 268,
+                "4": 11
+            }
+        },
+        "mv_result": null,
+        "school_name": "KAYMAKAM ÖZGÜR AZER KURAK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1158,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "KAYMAKAM ÖZGÜR AZER KURAK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1164,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/eb3c7d66-6ed6-4112-8a91-1720ffc28bb3-1684105827910314731.jpeg",
+            "submission_id": 701813,
+            "total_vote": 336,
+            "votes": {
+                "1": 57,
+                "3": 259,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/fa3e83ff-951f-46b3-bf70-0a114ebf164f-1684105818317622326.jpeg",
+            "submission_id": 700219,
+            "total_vote": 333,
+            "votes": {
+                "11": 11,
+                "12": 9,
+                "13": 27,
+                "14": 1,
+                "21": 180,
+                "22": 46,
+                "24": 13,
+                "6": 1,
+                "7": 3,
+                "9": 42
+            }
+        },
+        "school_name": "KAYMAKAM ÖZGÜR AZER KURAK ORTAOKULU"
+    }
+]

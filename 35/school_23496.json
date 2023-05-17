@@ -1,0 +1,674 @@
+[
+    {
+        "ballot_box_number": 2527,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/65651_bulk_999999999_1684088007932851914.jpeg",
+            "submission_id": 352262,
+            "total_vote": 339,
+            "votes": {
+                "1": 121,
+                "2": 2,
+                "3": 202,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21443_mv_1083793321_1684087813748568687.jpg",
+            "submission_id": 346012,
+            "total_vote": 337,
+            "votes": {
+                "10": 5,
+                "11": 22,
+                "12": 40,
+                "14": 93,
+                "20": 1,
+                "21": 125,
+                "22": 34,
+                "24": 8,
+                "3": 3,
+                "4": 1,
+                "5": 1,
+                "7": 4
+            }
+        },
+        "school_name": "SEVGİ FERİT AKIN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2524,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21443_cb_1093793318_1684087198822904180.jpg",
+            "submission_id": 325982,
+            "total_vote": 324,
+            "votes": {
+                "1": 129,
+                "2": 1,
+                "3": 185,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/65651_bulk_999999999_1684087409944920039.jpeg",
+            "submission_id": 333029,
+            "total_vote": 316,
+            "votes": {
+                "10": 102,
+                "11": 16,
+                "12": 21,
+                "16": 2,
+                "20": 1,
+                "21": 128,
+                "22": 31,
+                "23": 2,
+                "24": 4,
+                "4": 0,
+                "5": 1,
+                "7": 1,
+                "8": 1,
+                "9": 6
+            }
+        },
+        "school_name": "SEVGİ FERİT AKIN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2536,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12456_cb_1093793330_1684083127174453459.jpg",
+            "submission_id": 210862,
+            "total_vote": 320,
+            "votes": {
+                "1": 105,
+                "2": 2,
+                "3": 194,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21443_mv_1083793330_1684088531600260008.jpg",
+            "submission_id": 368510,
+            "total_vote": 319,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 22,
+                "12": 28,
+                "2": 1,
+                "20": 1,
+                "21": 120,
+                "22": 46,
+                "24": 8,
+                "5": 2,
+                "6": 5,
+                "7": 3,
+                "8": 4,
+                "9": 77
+            }
+        },
+        "school_name": "SEVGİ FERİT AKIN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2540,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21443_cb_1093793334_1684088397476727056.jpg",
+            "submission_id": 364349,
+            "total_vote": 333,
+            "votes": {
+                "1": 118,
+                "2": 1,
+                "3": 199,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12456_mv_1083793334_1684090255951634634.jpg",
+            "submission_id": 415883,
+            "total_vote": 332,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 25,
+                "12": 47,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 117,
+                "22": 40,
+                "23": 1,
+                "24": 4,
+                "3": 2,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 2,
+                "9": 82
+            }
+        },
+        "school_name": "SEVGİ FERİT AKIN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2533,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/64769_cb_1093793327_1684087902912805979.jpg",
+            "submission_id": 348767,
+            "total_vote": 327,
+            "votes": {
+                "1": 105,
+                "2": 0,
+                "3": 200,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/64769_mv_1083793327_1684087928839855282.jpg",
+            "submission_id": 349566,
+            "total_vote": 320,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 21,
+                "12": 25,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 116,
+                "22": 53,
+                "23": 0,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 4,
+                "7": 5,
+                "8": 0,
+                "9": 82
+            }
+        },
+        "school_name": "SEVGİ FERİT AKIN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2535,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12456_cb_1093793329_1684088926039369590.jpg",
+            "submission_id": 380389,
+            "total_vote": 318,
+            "votes": {
+                "1": 130,
+                "2": 1,
+                "3": 168,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12456_mv_1083793329_1684088951090809956.jpg",
+            "submission_id": 381097,
+            "total_vote": 311,
+            "votes": {
+                "10": 6,
+                "11": 25,
+                "12": 27,
+                "20": 2,
+                "21": 99,
+                "22": 33,
+                "23": 1,
+                "24": 13,
+                "6": 2,
+                "7": 7,
+                "8": 2,
+                "9": 94
+            }
+        },
+        "school_name": "SEVGİ FERİT AKIN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2525,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/64769_cb_1093793319_1684086481635868781.jpg",
+            "submission_id": 300856,
+            "total_vote": 317,
+            "votes": {
+                "1": 121,
+                "2": 1,
+                "3": 183,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21443_mv_1083793319_1684087871954929918.jpg",
+            "submission_id": 347725,
+            "total_vote": 312,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 20,
+                "12": 14,
+                "14": 0,
+                "15": 1,
+                "16": 12,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 122,
+                "22": 31,
+                "23": 2,
+                "24": 7,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 2,
+                "9": 94
+            }
+        },
+        "school_name": "SEVGİ FERİT AKIN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2537,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12456_cb_1093793331_1684084666482434104.jpg",
+            "submission_id": 244996,
+            "total_vote": 318,
+            "votes": {
+                "1": 112,
+                "2": 1,
+                "3": 187,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21443_mv_1083793331_1684086721384852086.jpg",
+            "submission_id": 309272,
+            "total_vote": 319,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 16,
+                "12": 30,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 120,
+                "22": 39,
+                "23": 1,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 1,
+                "9": 91
+            }
+        },
+        "school_name": "SEVGİ FERİT AKIN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2538,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12456_cb_1093793332_1684081967094038206.jpg",
+            "submission_id": 194207,
+            "total_vote": 344,
+            "votes": {
+                "1": 113,
+                "2": 4,
+                "3": 202,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12456_mv_1083793332_1684088098083847533.jpg",
+            "submission_id": 355101,
+            "total_vote": 339,
+            "votes": {
+                "10": 5,
+                "11": 13,
+                "12": 21,
+                "16": 1,
+                "21": 131,
+                "22": 50,
+                "23": 1,
+                "24": 15,
+                "3": 1,
+                "6": 5,
+                "7": 1,
+                "8": 4,
+                "9": 91
+            }
+        },
+        "school_name": "SEVGİ FERİT AKIN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2529,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/64769_cb_1093793323_1684081056465563478.jpg",
+            "submission_id": 185734,
+            "total_vote": 343,
+            "votes": {
+                "1": 141,
+                "2": 1,
+                "3": 179,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "SEVGİ FERİT AKIN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2531,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21443_cb_1093793325_1684094077966279126.jpg",
+            "submission_id": 485352,
+            "total_vote": 326,
+            "votes": {
+                "1": 118,
+                "3": 197,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21443_mv_1083793325_1684094048820659032.jpg",
+            "submission_id": 483877,
+            "total_vote": 324,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 21,
+                "12": 47,
+                "13": 0,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 103,
+                "22": 42,
+                "23": 2,
+                "24": 4,
+                "3": 4,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 1,
+                "9": 93
+            }
+        },
+        "school_name": "SEVGİ FERİT AKIN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2539,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21443_cb_1093793333_1684086761687808042.jpg",
+            "submission_id": 310724,
+            "total_vote": 338,
+            "votes": {
+                "1": 125,
+                "2": 1,
+                "3": 186,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21443_mv_1083793333_1684086790452034012.jpg",
+            "submission_id": 311747,
+            "total_vote": 331,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 15,
+                "12": 41,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 110,
+                "22": 37,
+                "23": 3,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 4,
+                "9": 100
+            }
+        },
+        "school_name": "SEVGİ FERİT AKIN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2532,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/64769_cb_1093793326_1684090052313733274.jpg",
+            "submission_id": 410971,
+            "total_vote": 322,
+            "votes": {
+                "1": 99,
+                "2": 0,
+                "3": 198,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21443_mv_1083793326_1684090060371257361.jpg",
+            "submission_id": 411232,
+            "total_vote": 320,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 14,
+                "12": 43,
+                "14": 0,
+                "18": 0,
+                "2": 1,
+                "20": 1,
+                "21": 116,
+                "22": 43,
+                "23": 0,
+                "24": 8,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 4,
+                "8": 2,
+                "9": 81
+            }
+        },
+        "school_name": "SEVGİ FERİT AKIN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2528,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/64769_cb_1093793322_1684087002591262012.jpg",
+            "submission_id": 319053,
+            "total_vote": 328,
+            "votes": {
+                "1": 136,
+                "2": 1,
+                "3": 171,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/64769_mv_1083793322_1684087031414680100.jpg",
+            "submission_id": 320051,
+            "total_vote": 324,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 29,
+                "12": 38,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 94,
+                "22": 34,
+                "23": 0,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 3,
+                "7": 8,
+                "8": 0,
+                "9": 102
+            }
+        },
+        "school_name": "SEVGİ FERİT AKIN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2530,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/62639_cb_1093793324_1684086275552123512.jpg",
+            "submission_id": 293933,
+            "total_vote": 335,
+            "votes": {
+                "1": 124,
+                "2": 2,
+                "3": 192,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/62639_mv_1083793324_1684086306684310654.jpg",
+            "submission_id": 294983,
+            "total_vote": 330,
+            "votes": {
+                "10": 1,
+                "11": 15,
+                "12": 43,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 111,
+                "22": 37,
+                "23": 0,
+                "24": 8,
+                "3": 0,
+                "4": 1,
+                "5": 3,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 103
+            }
+        },
+        "school_name": "SEVGİ FERİT AKIN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2526,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21443_cb_1093793320_1684087680514286611.jpg",
+            "submission_id": 341747,
+            "total_vote": 320,
+            "votes": {
+                "1": 124,
+                "2": 2,
+                "3": 176,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21443_mv_1083793320_1684087716460968795.jpg",
+            "submission_id": 342958,
+            "total_vote": 319,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 21,
+                "12": 38,
+                "14": 1,
+                "15": 5,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 99,
+                "22": 37,
+                "23": 0,
+                "24": 11,
+                "3": 2,
+                "4": 1,
+                "5": 0,
+                "6": 2,
+                "7": 6,
+                "8": 1,
+                "9": 89
+            }
+        },
+        "school_name": "SEVGİ FERİT AKIN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2534,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/64769_cb_1093793328_1684082593389047862.jpg",
+            "submission_id": 202241,
+            "total_vote": 323,
+            "votes": {
+                "1": 121,
+                "2": 0,
+                "3": 190,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/64769_mv_1083793328_1684086627849062060.jpg",
+            "submission_id": 305974,
+            "total_vote": 320,
+            "votes": {
+                "10": 4,
+                "11": 13,
+                "12": 48,
+                "15": 1,
+                "21": 105,
+                "22": 32,
+                "23": 1,
+                "24": 9,
+                "3": 1,
+                "5": 1,
+                "6": 3,
+                "7": 6,
+                "8": 4,
+                "9": 92
+            }
+        },
+        "school_name": "SEVGİ FERİT AKIN ORTAOKULU"
+    }
+]

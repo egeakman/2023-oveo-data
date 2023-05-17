@@ -1,0 +1,33 @@
+[
+    {
+        "ballot_box_number": 1118,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3824d1e9-dd14-46c6-b603-b636c1e2eebb-1684106558729272715.jpg",
+            "submission_id": 806797,
+            "total_vote": 205,
+            "votes": {
+                "1": 117,
+                "3": 73,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c74d4ec3-afb5-454f-8579-8ef0a2aef201-1684106555512582494.jpg",
+            "submission_id": 806355,
+            "total_vote": 204,
+            "votes": {
+                "10": 2,
+                "11": 26,
+                "12": 4,
+                "21": 62,
+                "22": 12,
+                "24": 2,
+                "3": 1,
+                "7": 4,
+                "8": 1,
+                "9": 90
+            }
+        },
+        "school_name": "GÖLOVA KÖY ODASI"
+    }
+]

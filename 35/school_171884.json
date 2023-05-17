@@ -1,0 +1,143 @@
+[
+    {
+        "ballot_box_number": 1355,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/42735_cb_1093800637_1684082730931617140.jpg",
+            "submission_id": 204335,
+            "total_vote": 280,
+            "votes": {
+                "1": 106,
+                "2": 1,
+                "3": 162,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/42735_mv_1083800637_1684082610348823141.jpg",
+            "submission_id": 202498,
+            "total_vote": 274,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 5,
+                "12": 46,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 93,
+                "22": 25,
+                "23": 0,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 3,
+                "8": 1,
+                "9": 88
+            }
+        },
+        "school_name": "7 EYLÜL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1354,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/42735_cb_1093800636_1684082580248986804.jpg",
+            "submission_id": 202078,
+            "total_vote": 260,
+            "votes": {
+                "1": 118,
+                "3": 133,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/42735_mv_1083800636_1684082679252333878.jpg",
+            "submission_id": 203519,
+            "total_vote": 257,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 18,
+                "12": 36,
+                "14": 1,
+                "15": 1,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 81,
+                "22": 21,
+                "23": 0,
+                "24": 1,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 0,
+                "8": 0,
+                "9": 90
+            }
+        },
+        "school_name": "7 EYLÜL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1352,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/42735_cb_1093800454_1684082547185964210.jpg",
+            "submission_id": 201597,
+            "total_vote": 248,
+            "votes": {
+                "1": 93,
+                "2": 2,
+                "3": 146,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "7 EYLÜL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1353,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/42735_cb_1093800635_1684083125446470930.jpg",
+            "submission_id": 210827,
+            "total_vote": 269,
+            "votes": {
+                "1": 102,
+                "2": 2,
+                "3": 156,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/42735_mv_1083800635_1684083246252784860.jpg",
+            "submission_id": 212986,
+            "total_vote": 265,
+            "votes": {
+                "10": 10,
+                "11": 9,
+                "12": 42,
+                "15": 1,
+                "17": 1,
+                "21": 86,
+                "22": 30,
+                "24": 2,
+                "3": 3,
+                "4": 1,
+                "6": 2,
+                "7": 1,
+                "8": 1,
+                "9": 76
+            }
+        },
+        "school_name": "7 EYLÜL ORTAOKULU"
+    }
+]

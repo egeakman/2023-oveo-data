@@ -1,0 +1,341 @@
+[
+    {
+        "ballot_box_number": 2288,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/23264_bulk_999999999_1684084211825930030.jpeg",
+            "submission_id": 233168,
+            "total_vote": 274,
+            "votes": {
+                "1": 110,
+                "2": 1,
+                "3": 144,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/6b089093-6a4e-46ba-9c9e-0848dbcde245-1684106480529643264.jpg",
+            "submission_id": 795113,
+            "total_vote": 265,
+            "votes": {
+                "1": 0,
+                "10": 9,
+                "11": 16,
+                "12": 23,
+                "13": 3,
+                "14": 2,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 101,
+                "22": 18,
+                "23": 0,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 3,
+                "9": 76
+            }
+        },
+        "school_name": "100.YIL NİYAZİ ERSOY ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2290,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/23264_bulk_999999999_1684083595148465063.jpeg",
+            "submission_id": 219646,
+            "total_vote": 292,
+            "votes": {
+                "1": 107,
+                "2": 4,
+                "3": 159,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/23264_bulk_999999999_1684083595016479968.jpeg",
+            "submission_id": 219645,
+            "total_vote": 284,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 26,
+                "12": 42,
+                "13": 12,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 81,
+                "22": 28,
+                "23": 1,
+                "24": 6,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 4,
+                "8": 0,
+                "9": 73
+            }
+        },
+        "school_name": "100.YIL NİYAZİ ERSOY ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2291,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/23264_bulk_999999999_1684078745710098082.jpeg",
+            "submission_id": 175082,
+            "total_vote": 315,
+            "votes": {
+                "1": 123,
+                "2": 0,
+                "3": 174,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/23264_bulk_999999999_1684084709256955037.jpeg",
+            "submission_id": 246131,
+            "total_vote": 306,
+            "votes": {
+                "10": 5,
+                "11": 25,
+                "12": 34,
+                "13": 15,
+                "14": 2,
+                "15": 1,
+                "19": 1,
+                "21": 90,
+                "22": 29,
+                "23": 2,
+                "24": 5,
+                "3": 1,
+                "6": 3,
+                "7": 6,
+                "8": 2,
+                "9": 85
+            }
+        },
+        "school_name": "100.YIL NİYAZİ ERSOY ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2293,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/23264_bulk_999999999_1684087422214832385.jpeg",
+            "submission_id": 333395,
+            "total_vote": 315,
+            "votes": {
+                "1": 105,
+                "2": 1,
+                "3": 187,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/23264_bulk_999999999_1684086835794952265.jpeg",
+            "submission_id": 313279,
+            "total_vote": 296,
+            "votes": {
+                "10": 3,
+                "11": 15,
+                "12": 33,
+                "13": 5,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "20": 0,
+                "21": 103,
+                "22": 27,
+                "23": 1,
+                "24": 13,
+                "4": 1,
+                "5": 2,
+                "7": 8,
+                "8": 2,
+                "9": 82
+            }
+        },
+        "school_name": "100.YIL NİYAZİ ERSOY ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2295,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/23264_bulk_999999999_1684084577993710150.jpeg",
+            "submission_id": 242568,
+            "total_vote": 308,
+            "votes": {
+                "1": 124,
+                "2": 1,
+                "3": 169,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/23264_bulk_999999999_1684084578107417898.jpeg",
+            "submission_id": 242577,
+            "total_vote": 300,
+            "votes": {
+                "1": 1,
+                "10": 6,
+                "11": 20,
+                "12": 57,
+                "13": 9,
+                "21": 83,
+                "22": 27,
+                "23": 1,
+                "24": 3,
+                "7": 2,
+                "8": 5,
+                "9": 86
+            }
+        },
+        "school_name": "100.YIL NİYAZİ ERSOY ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2294,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23264_cb_1093581328_1684083867992069604.jpg",
+            "submission_id": 225471,
+            "total_vote": 311,
+            "votes": {
+                "1": 124,
+                "2": 2,
+                "3": 163,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/23264_bulk_999999999_1684083969223531229.jpeg",
+            "submission_id": 227452,
+            "total_vote": 311,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 34,
+                "12": 44,
+                "13": 9,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 88,
+                "22": 28,
+                "23": 1,
+                "24": 10,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 3,
+                "8": 5,
+                "9": 83
+            }
+        },
+        "school_name": "100.YIL NİYAZİ ERSOY ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2289,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/23264_bulk_999999999_1684083465713660599.jpeg",
+            "submission_id": 217146,
+            "total_vote": 307,
+            "votes": {
+                "1": 108,
+                "2": 1,
+                "3": 189,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/23264_bulk_999999999_1684083804719663666.jpeg",
+            "submission_id": 224136,
+            "total_vote": 302,
+            "votes": {
+                "10": 3,
+                "11": 13,
+                "12": 29,
+                "13": 10,
+                "21": 111,
+                "22": 29,
+                "23": 1,
+                "24": 5,
+                "6": 1,
+                "7": 8,
+                "8": 1,
+                "9": 91
+            }
+        },
+        "school_name": "100.YIL NİYAZİ ERSOY ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2296,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/23264_bulk_999999999_1684086835895489801.jpeg",
+            "submission_id": 313283,
+            "total_vote": 326,
+            "votes": {
+                "1": 127,
+                "2": 1,
+                "3": 178,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "100.YIL NİYAZİ ERSOY ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2292,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/23264_bulk_999999999_1684084211996601463.jpeg",
+            "submission_id": 233172,
+            "total_vote": 316,
+            "votes": {
+                "1": 112,
+                "2": 1,
+                "3": 189,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/23264_bulk_999999999_1684084676030171899.jpeg",
+            "submission_id": 245245,
+            "total_vote": 307,
+            "votes": {
+                "10": 2,
+                "11": 22,
+                "12": 46,
+                "13": 10,
+                "2": 1,
+                "20": 1,
+                "21": 99,
+                "22": 29,
+                "23": 1,
+                "24": 7,
+                "3": 3,
+                "6": 2,
+                "7": 1,
+                "8": 1,
+                "9": 82
+            }
+        },
+        "school_name": "100.YIL NİYAZİ ERSOY ORTAOKULU"
+    }
+]

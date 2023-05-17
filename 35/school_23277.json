@@ -1,0 +1,17 @@
+[
+    {
+        "ballot_box_number": 1034,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e98890b5-6d2b-4190-87b4-3fbb6e5c8c87-1684106657811259313.jpg",
+            "submission_id": 819342,
+            "total_vote": 52,
+            "votes": {
+                "1": 29,
+                "3": 17,
+                "4": 6
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇORAKLAR KÖY KONAĞI"
+    }
+]

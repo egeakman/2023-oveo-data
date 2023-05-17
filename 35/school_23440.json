@@ -1,0 +1,103 @@
+[
+    {
+        "ballot_box_number": 1116,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65061_cb_1093758797_1684081163880731256.jpg",
+            "submission_id": 186563,
+            "total_vote": 299,
+            "votes": {
+                "1": 68,
+                "2": 5,
+                "3": 219,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/508c6fbd-a790-4810-b35e-3589f9757d9f-1684106370096740577.jpeg",
+            "submission_id": 778315,
+            "total_vote": 296,
+            "votes": {
+                "10": 2,
+                "11": 9,
+                "12": 11,
+                "17": 1,
+                "21": 160,
+                "22": 40,
+                "24": 5,
+                "6": 3,
+                "7": 4,
+                "8": 3,
+                "9": 58
+            }
+        },
+        "school_name": "80. YIL GAZİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1117,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/26294_bulk_999999999_1684085002668507844.jpg",
+            "submission_id": 254227,
+            "total_vote": 298,
+            "votes": {
+                "1": 50,
+                "3": 231,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8dc658a8-f483-45fc-b633-d4b1c31040d7-1684105969691022906.jpeg",
+            "submission_id": 720661,
+            "total_vote": 294,
+            "votes": {
+                "1": 1,
+                "11": 19,
+                "12": 15,
+                "21": 165,
+                "22": 44,
+                "23": 2,
+                "24": 6,
+                "3": 3,
+                "4": 1,
+                "6": 1,
+                "7": 2,
+                "8": 3,
+                "9": 32
+            }
+        },
+        "school_name": "80. YIL GAZİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1115,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47790_cb_1093758796_1684086042553644499.jpg",
+            "submission_id": 286346,
+            "total_vote": 287,
+            "votes": {
+                "1": 69,
+                "2": 3,
+                "3": 203,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47790_mv_1083758796_1684086204902566901.jpg",
+            "submission_id": 291580,
+            "total_vote": 280,
+            "votes": {
+                "10": 2,
+                "11": 9,
+                "12": 10,
+                "2": 1,
+                "21": 130,
+                "22": 58,
+                "24": 4,
+                "3": 2,
+                "6": 3,
+                "7": 4,
+                "8": 1,
+                "9": 56
+            }
+        },
+        "school_name": "80. YIL GAZİ ORTAOKULU"
+    }
+]

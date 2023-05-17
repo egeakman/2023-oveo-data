@@ -1,0 +1,395 @@
+[
+    {
+        "ballot_box_number": 1299,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26320_cb_1093581545_1684086231810608627.jpg",
+            "submission_id": 292466,
+            "total_vote": 340,
+            "votes": {
+                "1": 82,
+                "2": 3,
+                "3": 239,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/1292_bulk_999999999_1684101245157105003.jpeg",
+            "submission_id": 540514,
+            "total_vote": 339,
+            "votes": {
+                "10": 2,
+                "11": 21,
+                "12": 25,
+                "13": 20,
+                "14": 3,
+                "21": 147,
+                "22": 50,
+                "23": 4,
+                "24": 6,
+                "6": 2,
+                "7": 4,
+                "8": 2,
+                "9": 53
+            }
+        },
+        "school_name": "İHSANE TUNA DIRAVACIOĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1298,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21131_cb_1093581544_1684084911048606520.jpg",
+            "submission_id": 251574,
+            "total_vote": 337,
+            "votes": {
+                "1": 82,
+                "2": 5,
+                "3": 224,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/1292_bulk_999999999_1684101314776352822.jpeg",
+            "submission_id": 540796,
+            "total_vote": 339,
+            "votes": {
+                "10": 1,
+                "11": 15,
+                "12": 13,
+                "13": 14,
+                "21": 143,
+                "22": 63,
+                "24": 13,
+                "7": 10,
+                "9": 67
+            }
+        },
+        "school_name": "İHSANE TUNA DIRAVACIOĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1295,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26320_cb_1093581541_1684084721324512910.jpg",
+            "submission_id": 246466,
+            "total_vote": 330,
+            "votes": {
+                "1": 76,
+                "2": 3,
+                "3": 228,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "İHSANE TUNA DIRAVACIOĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1303,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/1292_bulk_999999999_1684101244790208324.jpeg",
+            "submission_id": 540508,
+            "total_vote": 341,
+            "votes": {
+                "1": 111,
+                "2": 2,
+                "3": 205,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/79080_bulk_999999999_1684091418641137498.jpeg",
+            "submission_id": 439895,
+            "total_vote": 337,
+            "votes": {
+                "10": 6,
+                "11": 10,
+                "12": 23,
+                "13": 21,
+                "15": 1,
+                "21": 127,
+                "22": 46,
+                "23": 1,
+                "24": 12,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 85
+            }
+        },
+        "school_name": "İHSANE TUNA DIRAVACIOĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1302,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/79080_bulk_999999999_1684091354066539668.jpeg",
+            "submission_id": 438742,
+            "total_vote": 331,
+            "votes": {
+                "1": 98,
+                "2": 2,
+                "3": 213,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/79080_bulk_999999999_1684091354212846090.jpeg",
+            "submission_id": 438744,
+            "total_vote": 329,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 15,
+                "12": 9,
+                "13": 18,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 141,
+                "22": 47,
+                "23": 0,
+                "24": 8,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 6,
+                "8": 1,
+                "9": 77
+            }
+        },
+        "school_name": "İHSANE TUNA DIRAVACIOĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1301,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/79080_bulk_999999999_1684091418865172380.jpeg",
+            "submission_id": 439899,
+            "total_vote": 339,
+            "votes": {
+                "1": 123,
+                "2": 2,
+                "3": 201,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/79080_bulk_999999999_1684091418760956635.jpeg",
+            "submission_id": 439897,
+            "total_vote": 336,
+            "votes": {
+                "10": 5,
+                "11": 19,
+                "12": 22,
+                "13": 24,
+                "20": 1,
+                "21": 120,
+                "22": 31,
+                "24": 10,
+                "3": 1,
+                "6": 2,
+                "7": 1,
+                "9": 100
+            }
+        },
+        "school_name": "İHSANE TUNA DIRAVACIOĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1297,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29230_cb_1093581543_1684084574313828620.jpg",
+            "submission_id": 242441,
+            "total_vote": 323,
+            "votes": {
+                "1": 95,
+                "2": 0,
+                "3": 210,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29230_mv_1083581543_1684085585272880412.jpg",
+            "submission_id": 271257,
+            "total_vote": 317,
+            "votes": {
+                "10": 6,
+                "11": 11,
+                "12": 25,
+                "13": 19,
+                "15": 1,
+                "21": 121,
+                "22": 53,
+                "24": 6,
+                "7": 1,
+                "8": 1,
+                "9": 73
+            }
+        },
+        "school_name": "İHSANE TUNA DIRAVACIOĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1296,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26320_cb_1093581542_1684084985897743793.jpg",
+            "submission_id": 253738,
+            "total_vote": 341,
+            "votes": {
+                "1": 97,
+                "2": 2,
+                "3": 214,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d56ebf14-85d9-4324-9a1a-56e00221e973-1684105668608045806.jpg",
+            "submission_id": 676409,
+            "total_vote": 336,
+            "votes": {
+                "10": 2,
+                "11": 15,
+                "12": 30,
+                "13": 26,
+                "14": 1,
+                "21": 107,
+                "23": 50,
+                "24": 14,
+                "3": 1,
+                "4": 1,
+                "6": 1,
+                "7": 8,
+                "8": 3,
+                "9": 77
+            }
+        },
+        "school_name": "İHSANE TUNA DIRAVACIOĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1294,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26320_cb_1093581540_1684084325479673023.jpg",
+            "submission_id": 236139,
+            "total_vote": 316,
+            "votes": {
+                "1": 79,
+                "2": 1,
+                "3": 228,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26320_mv_1083581540_1684084398245797616.jpg",
+            "submission_id": 237935,
+            "total_vote": 307,
+            "votes": {
+                "10": 3,
+                "11": 5,
+                "12": 31,
+                "13": 18,
+                "15": 1,
+                "21": 133,
+                "23": 43,
+                "24": 4,
+                "5": 1,
+                "6": 1,
+                "7": 4,
+                "8": 1,
+                "9": 62
+            }
+        },
+        "school_name": "İHSANE TUNA DIRAVACIOĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1300,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26320_cb_1093581546_1684084460871136522.jpg",
+            "submission_id": 239499,
+            "total_vote": 334,
+            "votes": {
+                "1": 107,
+                "2": 2,
+                "3": 197,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/26320_bulk_999999999_1684094945258903920.jpg",
+            "submission_id": 497994,
+            "total_vote": 333,
+            "votes": {
+                "1": 0,
+                "10": 9,
+                "11": 15,
+                "12": 17,
+                "13": 19,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 1,
+                "21": 118,
+                "22": 48,
+                "23": 1,
+                "24": 11,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 5,
+                "8": 5,
+                "9": 81
+            }
+        },
+        "school_name": "İHSANE TUNA DIRAVACIOĞLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1293,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26320_cb_1093581539_1684135765722855193.jpeg",
+            "submission_id": 1016447,
+            "total_vote": 314,
+            "votes": {
+                "1": 110,
+                "2": 2,
+                "3": 194,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/eb6aa9ba-f3c6-4f20-ae28-654b68255515-1684105974334612350.jpg",
+            "submission_id": 720931,
+            "total_vote": 311,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 20,
+                "12": 15,
+                "13": 16,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 2,
+                "21": 114,
+                "22": 39,
+                "23": 3,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 2,
+                "8": 9,
+                "9": 83
+            }
+        },
+        "school_name": "İHSANE TUNA DIRAVACIOĞLU İLKOKULU"
+    }
+]

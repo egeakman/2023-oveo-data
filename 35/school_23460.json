@@ -1,0 +1,301 @@
+[
+    {
+        "ballot_box_number": 1150,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/34645_cb_1093759351_1684089905227434536.jpg",
+            "submission_id": 407306,
+            "total_vote": 345,
+            "votes": {
+                "1": 70,
+                "2": 2,
+                "3": 261,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/34645_mv_1083759351_1684089947526093475.jpg",
+            "submission_id": 408364,
+            "total_vote": 341,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 9,
+                "12": 25,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 200,
+                "22": 42,
+                "23": 2,
+                "24": 1,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 5,
+                "8": 1,
+                "9": 51
+            }
+        },
+        "school_name": "EGİAD ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1148,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47804_cb_1093759349_1684086075620485290.jpg",
+            "submission_id": 287378,
+            "total_vote": 313,
+            "votes": {
+                "1": 56,
+                "2": 2,
+                "3": 247,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47804_mv_1083759349_1684086103445765511.jpg",
+            "submission_id": 288254,
+            "total_vote": 307,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 10,
+                "12": 8,
+                "14": 0,
+                "15": 1,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 200,
+                "22": 28,
+                "23": 0,
+                "24": 5,
+                "3": 1,
+                "4": 2,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 44
+            }
+        },
+        "school_name": "EGİAD ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1152,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/50698_cb_1093759353_1684082455178265195.jpg",
+            "submission_id": 200378,
+            "total_vote": 342,
+            "votes": {
+                "1": 65,
+                "2": 1,
+                "3": 262,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/50698_mv_1083759353_1684085371551362456.jpg",
+            "submission_id": 264817,
+            "total_vote": 343,
+            "votes": {
+                "10": 2,
+                "11": 10,
+                "12": 13,
+                "14": 1,
+                "15": 1,
+                "17": 1,
+                "21": 203,
+                "22": 45,
+                "23": 2,
+                "24": 5,
+                "3": 4,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 51
+            }
+        },
+        "school_name": "EGİAD ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1154,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26524_cb_1093759815_1684085157883161661.jpg",
+            "submission_id": 258602,
+            "total_vote": 340,
+            "votes": {
+                "1": 87,
+                "2": 1,
+                "3": 243,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/34664_bulk_999999999_1684087696354962396.jpg",
+            "submission_id": 342291,
+            "total_vote": 332,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 11,
+                "12": 28,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 174,
+                "22": 36,
+                "23": 1,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 0,
+                "9": 68
+            }
+        },
+        "school_name": "EGİAD ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1151,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26524_cb_1093759351_1684087379580557135.jpg",
+            "submission_id": 332023,
+            "total_vote": 329,
+            "votes": {
+                "1": 48,
+                "2": 0,
+                "3": 258,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26524_mv_1083759352_1684087645900893991.jpg",
+            "submission_id": 340613,
+            "total_vote": 324,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 11,
+                "12": 22,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 3,
+                "2": 0,
+                "20": 1,
+                "21": 180,
+                "22": 51,
+                "23": 2,
+                "24": 6,
+                "3": 1,
+                "4": 1,
+                "5": 1,
+                "6": 2,
+                "7": 2,
+                "8": 3,
+                "9": 36
+            }
+        },
+        "school_name": "EGİAD ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1149,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26524_cb_1093759350_1684085183102399860.jpg",
+            "submission_id": 259381,
+            "total_vote": 326,
+            "votes": {
+                "1": 59,
+                "2": 0,
+                "3": 251,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/34664_bulk_999999999_1684086958377073388.jpg",
+            "submission_id": 317510,
+            "total_vote": 318,
+            "votes": {
+                "10": 1,
+                "11": 7,
+                "12": 19,
+                "15": 1,
+                "16": 1,
+                "20": 1,
+                "21": 171,
+                "22": 55,
+                "23": 1,
+                "24": 8,
+                "3": 3,
+                "4": 1,
+                "5": 1,
+                "7": 5,
+                "9": 43
+            }
+        },
+        "school_name": "EGİAD ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1153,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/50558_cb_1093759354_1684078925870996752.jpg",
+            "submission_id": 175504,
+            "total_vote": 343,
+            "votes": {
+                "1": 62,
+                "2": 0,
+                "3": 271,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/50558_mv_1083759354_1684084280251424773.jpg",
+            "submission_id": 235047,
+            "total_vote": 343,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 9,
+                "12": 19,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 189,
+                "22": 55,
+                "23": 0,
+                "24": 4,
+                "3": 5,
+                "4": 1,
+                "5": 1,
+                "6": 3,
+                "7": 3,
+                "8": 0,
+                "9": 54
+            }
+        },
+        "school_name": "EGİAD ORTAOKULU"
+    }
+]

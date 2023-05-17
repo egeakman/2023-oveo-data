@@ -1,0 +1,18 @@
+[
+    {
+        "ballot_box_number": 1123,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/70875_bulk_999999999_1684088158649418761.jpg",
+            "submission_id": 357082,
+            "total_vote": 280,
+            "votes": {
+                "1": 13,
+                "2": 4,
+                "3": 258,
+                "4": 5
+            }
+        },
+        "mv_result": null,
+        "school_name": "YAYLAYURT İLKOKULU"
+    }
+]

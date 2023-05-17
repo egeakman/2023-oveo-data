@@ -1,0 +1,661 @@
+[
+    {
+        "ballot_box_number": 2266,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/af7a249d-4527-48d5-bd95-0ec72cc2a77f-1684105603762349760.jpeg",
+            "submission_id": 665973,
+            "total_vote": 323,
+            "votes": {
+                "1": 181,
+                "2": 0,
+                "3": 126,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ABDULLAH KÜRŞAT KUPŞEN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2257,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/745b7705-bb39-4837-9d5a-67d4f774b13b-1684105578212723336.jpg",
+            "submission_id": 661951,
+            "total_vote": 325,
+            "votes": {
+                "1": 160,
+                "2": 4,
+                "3": 139,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/906a1b1e-7e99-4482-b8d0-44515762e400-1684105556556218958.jpg",
+            "submission_id": 658408,
+            "total_vote": 306,
+            "votes": {
+                "1": 1,
+                "10": 7,
+                "11": 26,
+                "12": 40,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 74,
+                "23": 14,
+                "24": 13,
+                "3": 0,
+                "4": 1,
+                "5": 1,
+                "6": 3,
+                "7": 2,
+                "8": 2,
+                "9": 120
+            }
+        },
+        "school_name": "ŞEHİT ABDULLAH KÜRŞAT KUPŞEN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2245,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/bf7200cf-f9a8-47cf-88bb-3b1c7f225860-1684106215618523651.jpg",
+            "submission_id": 755850,
+            "total_vote": 286,
+            "votes": {
+                "1": 144,
+                "3": 123,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ABDULLAH KÜRŞAT KUPŞEN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2247,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d802e549-c723-464e-8232-27d3a3fa2d3d-1684105481878213262.jpg",
+            "submission_id": 646790,
+            "total_vote": 315,
+            "votes": {
+                "1": 159,
+                "2": 3,
+                "3": 143,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ABDULLAH KÜRŞAT KUPŞEN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2249,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65101_mv_1083790549_1684086729945932964.jpg",
+            "submission_id": 309602,
+            "total_vote": 319,
+            "votes": {
+                "1": 141,
+                "2": 1,
+                "3": 157,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65101_cb_1093790549_1684086678947129651.jpg",
+            "submission_id": 307734,
+            "total_vote": 315,
+            "votes": {
+                "1": 2,
+                "10": 2,
+                "11": 29,
+                "12": 74,
+                "14": 1,
+                "21": 65,
+                "22": 23,
+                "23": 1,
+                "24": 11,
+                "9": 107
+            }
+        },
+        "school_name": "ŞEHİT ABDULLAH KÜRŞAT KUPŞEN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2265,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/067246aa-c335-4128-9aa9-484225be6a60-1684105617958000754.jpeg",
+            "submission_id": 668130,
+            "total_vote": 326,
+            "votes": {
+                "1": 158,
+                "2": 2,
+                "3": 149,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/56838c9c-cb7a-4bde-885e-debb21e4bbc7-1684105614979333171.jpeg",
+            "submission_id": 667651,
+            "total_vote": 321,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 33,
+                "12": 70,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 62,
+                "22": 18,
+                "23": 0,
+                "24": 11,
+                "3": 3,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 3,
+                "9": 107
+            }
+        },
+        "school_name": "ŞEHİT ABDULLAH KÜRŞAT KUPŞEN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2255,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/73324_cb_1093790655_1684086119068028099.jpg",
+            "submission_id": 288802,
+            "total_vote": 321,
+            "votes": {
+                "1": 155,
+                "3": 150,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ABDULLAH KÜRŞAT KUPŞEN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2256,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/65101_bulk_999999999_1684092317510401915.jpg",
+            "submission_id": 454373,
+            "total_vote": 316,
+            "votes": {
+                "1": 165,
+                "2": 1,
+                "3": 135,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ABDULLAH KÜRŞAT KUPŞEN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2246,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/50410939-a51d-4df2-9597-a48cdfd6af83-1684106203279855929.jpg",
+            "submission_id": 753939,
+            "total_vote": 300,
+            "votes": {
+                "1": 151,
+                "2": 1,
+                "3": 132,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ABDULLAH KÜRŞAT KUPŞEN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2263,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d1c4d7ad-121c-42a4-b4ee-8cb4cdede7e9-1684105660408684159.jpg",
+            "submission_id": 675324,
+            "total_vote": 322,
+            "votes": {
+                "1": 164,
+                "2": 1,
+                "3": 134,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ABDULLAH KÜRŞAT KUPŞEN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2254,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/43681_cb_1093790554_1684086779077267186.jpg",
+            "submission_id": 311323,
+            "total_vote": 311,
+            "votes": {
+                "1": 159,
+                "2": 1,
+                "3": 135,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/43681_mv_1083790554_1684087619576485433.jpg",
+            "submission_id": 339706,
+            "total_vote": 306,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 26,
+                "12": 69,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 2,
+                "20": 1,
+                "21": 40,
+                "22": 29,
+                "23": 1,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 2,
+                "9": 116
+            }
+        },
+        "school_name": "ŞEHİT ABDULLAH KÜRŞAT KUPŞEN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2244,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65101_mv_1083790544_1684086919036253590.jpg",
+            "submission_id": 316119,
+            "total_vote": 292,
+            "votes": {
+                "1": 169,
+                "2": 2,
+                "3": 110,
+                "4": 11
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ABDULLAH KÜRŞAT KUPŞEN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2258,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/73324_cb_1093790658_1684085888096673367.jpg",
+            "submission_id": 281450,
+            "total_vote": 321,
+            "votes": {
+                "1": 160,
+                "2": 2,
+                "3": 138,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/73324_cb_1093790658_1684085839394267330.jpg",
+            "submission_id": 279772,
+            "total_vote": 309,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 38,
+                "12": 62,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 2,
+                "20": 0,
+                "21": 55,
+                "22": 21,
+                "23": 1,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 3,
+                "9": 104
+            }
+        },
+        "school_name": "ŞEHİT ABDULLAH KÜRŞAT KUPŞEN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2264,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/51319_cb_1093790664_1684088307276869506.jpg",
+            "submission_id": 361550,
+            "total_vote": 327,
+            "votes": {
+                "1": 175,
+                "3": 131,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/51319_mv_1083790664_1684088643440556853.jpg",
+            "submission_id": 371993,
+            "total_vote": 318,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 27,
+                "12": 63,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 1,
+                "21": 56,
+                "22": 9,
+                "23": 0,
+                "24": 10,
+                "3": 1,
+                "4": 0,
+                "5": 2,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 136
+            }
+        },
+        "school_name": "ŞEHİT ABDULLAH KÜRŞAT KUPŞEN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2261,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/73324_cb_1093790661_1684085682725363242.jpg",
+            "submission_id": 274494,
+            "total_vote": 309,
+            "votes": {
+                "1": 163,
+                "2": 1,
+                "3": 131,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ABDULLAH KÜRŞAT KUPŞEN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2252,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/43681_cb_1093790552_1684087034531448192.jpg",
+            "submission_id": 320164,
+            "total_vote": 313,
+            "votes": {
+                "1": 127,
+                "2": 1,
+                "3": 164,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/43681_mv_1083790552_1684087078357635223.jpg",
+            "submission_id": 321754,
+            "total_vote": 312,
+            "votes": {
+                "10": 2,
+                "11": 13,
+                "12": 80,
+                "21": 61,
+                "22": 22,
+                "24": 13,
+                "3": 2,
+                "6": 1,
+                "7": 3,
+                "8": 3,
+                "9": 112
+            }
+        },
+        "school_name": "ŞEHİT ABDULLAH KÜRŞAT KUPŞEN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2260,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/79603084-76e8-4999-b8ed-741068b39056-1684105499541094057.jpg",
+            "submission_id": 649724,
+            "total_vote": 313,
+            "votes": {
+                "1": 157,
+                "3": 134,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ae998eeb-8c4e-4f42-b3f7-4d4cae4bfc72-1684105492949005370.jpg",
+            "submission_id": 648889,
+            "total_vote": 308,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 31,
+                "12": 61,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 1,
+                "21": 62,
+                "22": 18,
+                "23": 0,
+                "24": 13,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 3,
+                "9": 112
+            }
+        },
+        "school_name": "ŞEHİT ABDULLAH KÜRŞAT KUPŞEN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2248,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/dce2a00d-dd9d-4499-a2e0-e15b28a21690-1684106155181192852.jpg",
+            "submission_id": 746486,
+            "total_vote": 316,
+            "votes": {
+                "1": 162,
+                "2": 1,
+                "3": 137,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ABDULLAH KÜRŞAT KUPŞEN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2250,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65101_cb_1093790550_1684086793415735855.jpg",
+            "submission_id": 311841,
+            "total_vote": 311,
+            "votes": {
+                "1": 131,
+                "2": 1,
+                "3": 156,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ABDULLAH KÜRŞAT KUPŞEN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2251,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/43681_cb_1093790551_1684088278904353895.jpg",
+            "submission_id": 360677,
+            "total_vote": 317,
+            "votes": {
+                "1": 126,
+                "2": 1,
+                "3": 176,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/43681_mv_1083790551_1684088222346446756.jpg",
+            "submission_id": 358954,
+            "total_vote": 313,
+            "votes": {
+                "10": 6,
+                "11": 34,
+                "12": 79,
+                "14": 1,
+                "15": 1,
+                "19": 1,
+                "21": 65,
+                "22": 28,
+                "23": 1,
+                "24": 4,
+                "3": 2,
+                "5": 1,
+                "6": 2,
+                "7": 3,
+                "8": 1,
+                "9": 84
+            }
+        },
+        "school_name": "ŞEHİT ABDULLAH KÜRŞAT KUPŞEN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2259,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/65101_bulk_999999999_1684092175745873106.jpg",
+            "submission_id": 452120,
+            "total_vote": 304,
+            "votes": {
+                "1": 141,
+                "2": 0,
+                "3": 139,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/65101_bulk_999999999_1684092175859580303.jpg",
+            "submission_id": 452121,
+            "total_vote": 298,
+            "votes": {
+                "10": 6,
+                "11": 24,
+                "12": 48,
+                "17": 1,
+                "21": 64,
+                "22": 29,
+                "23": 3,
+                "24": 7,
+                "5": 3,
+                "6": 3,
+                "7": 6,
+                "9": 104
+            }
+        },
+        "school_name": "ŞEHİT ABDULLAH KÜRŞAT KUPŞEN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2262,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/51319_bulk_999999999_1684088578121873524.jpeg",
+            "submission_id": 369942,
+            "total_vote": 323,
+            "votes": {
+                "1": 160,
+                "2": 1,
+                "3": 150,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/51319_bulk_999999999_1684088717449763273.jpeg",
+            "submission_id": 374197,
+            "total_vote": 314,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 31,
+                "12": 76,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 45,
+                "22": 30,
+                "23": 0,
+                "24": 6,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 117
+            }
+        },
+        "school_name": "ŞEHİT ABDULLAH KÜRŞAT KUPŞEN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2253,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65101_cb_1093790553_1684086520614315826.jpg",
+            "submission_id": 302269,
+            "total_vote": 322,
+            "votes": {
+                "1": 158,
+                "2": 1,
+                "3": 155,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65101_cb_1093790553_1684086440851272831.jpg",
+            "submission_id": 299371,
+            "total_vote": 315,
+            "votes": {
+                "10": 2,
+                "11": 30,
+                "12": 73,
+                "14": 1,
+                "20": 1,
+                "21": 52,
+                "22": 25,
+                "23": 1,
+                "24": 4,
+                "3": 1,
+                "6": 2,
+                "7": 5,
+                "8": 2,
+                "9": 116
+            }
+        },
+        "school_name": "ŞEHİT ABDULLAH KÜRŞAT KUPŞEN ANADOLU LİSESİ"
+    }
+]

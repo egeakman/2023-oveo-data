@@ -1,0 +1,36 @@
+[
+    {
+        "ballot_box_number": 1108,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/af86f51e-3984-4b17-8fdf-83d385a6e301-1684106333230836348.jpg",
+            "submission_id": 772499,
+            "total_vote": 219,
+            "votes": {
+                "1": 81,
+                "2": 2,
+                "3": 125,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/86878781-0d90-466f-8b00-09e4fe079dda-1684106138294806882.jpg",
+            "submission_id": 744100,
+            "total_vote": 214,
+            "votes": {
+                "11": 17,
+                "13": 6,
+                "14": 3,
+                "15": 2,
+                "21": 83,
+                "22": 26,
+                "24": 8,
+                "4": 1,
+                "6": 1,
+                "7": 2,
+                "8": 3,
+                "9": 62
+            }
+        },
+        "school_name": "SAMURLU KÖY KONAĞI"
+    }
+]

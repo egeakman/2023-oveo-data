@@ -1,0 +1,76 @@
+[
+    {
+        "ballot_box_number": 1205,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9238a51f-83b7-42f7-bf73-a57ed8a8f343-1684105929063241801.jpg",
+            "submission_id": 714010,
+            "total_vote": 331,
+            "votes": {
+                "1": 104,
+                "2": 2,
+                "3": 209,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "YUNUS EMRE ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1200,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/15c984f2-2ea5-4193-9b29-a9527ab392e2-1684106393982779021.jpg",
+            "submission_id": 780978,
+            "total_vote": 312,
+            "votes": {
+                "1": 135,
+                "3": 170,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "YUNUS EMRE ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1203,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/6082017a-e5f9-401b-8b65-0f5fb5bc082f-1684106424706785268.jpg",
+            "submission_id": 785780,
+            "total_vote": 313,
+            "votes": {
+                "1": 122,
+                "2": 2,
+                "3": 164,
+                "4": 25
+            }
+        },
+        "mv_result": null,
+        "school_name": "YUNUS EMRE ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1202,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c3913f74-af89-4552-873b-6ed91029bb3d-1684105973489518832.jpg",
+            "submission_id": 720745,
+            "total_vote": 329,
+            "votes": {
+                "1": 132,
+                "3": 181,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "YUNUS EMRE ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1201,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "YUNUS EMRE ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1204,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "YUNUS EMRE ORTAOKULU"
+    }
+]

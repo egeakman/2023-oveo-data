@@ -1,0 +1,204 @@
+[
+    {
+        "ballot_box_number": 2434,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/38282_cb_1093792488_1684090231445547536.jpg",
+            "submission_id": 415308,
+            "total_vote": 315,
+            "votes": {
+                "1": 100,
+                "2": 2,
+                "3": 189,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/38282_mv_1083792488_1684090312829285023.jpg",
+            "submission_id": 417161,
+            "total_vote": 296,
+            "votes": {
+                "10": 3,
+                "11": 12,
+                "12": 17,
+                "15": 1,
+                "20": 2,
+                "21": 123,
+                "22": 48,
+                "23": 1,
+                "24": 15,
+                "3": 1,
+                "7": 4,
+                "8": 5,
+                "9": 64
+            }
+        },
+        "school_name": "BUCA CENGİZ SANİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2438,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/38282_cb_1093792492_1684091133543288375.jpg",
+            "submission_id": 434528,
+            "total_vote": 306,
+            "votes": {
+                "1": 127,
+                "2": 1,
+                "3": 156,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/38282_mv_1083792492_1684091190813038124.jpg",
+            "submission_id": 435673,
+            "total_vote": 301,
+            "votes": {
+                "10": 1,
+                "11": 16,
+                "12": 18,
+                "15": 1,
+                "18": 1,
+                "21": 97,
+                "22": 34,
+                "23": 3,
+                "24": 9,
+                "6": 3,
+                "7": 2,
+                "9": 116
+            }
+        },
+        "school_name": "BUCA CENGİZ SANİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2433,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/38282_cb_1093792487_1684090118010166379.jpg",
+            "submission_id": 412601,
+            "total_vote": 297,
+            "votes": {
+                "1": 117,
+                "2": 3,
+                "3": 164,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/38282_mv_1083792487_1684090176454134700.jpg",
+            "submission_id": 413991,
+            "total_vote": 287,
+            "votes": {
+                "1": 1,
+                "10": 7,
+                "11": 13,
+                "12": 16,
+                "17": 2,
+                "19": 1,
+                "2": 1,
+                "20": 1,
+                "21": 108,
+                "22": 32,
+                "24": 4,
+                "3": 1,
+                "5": 1,
+                "7": 6,
+                "8": 1,
+                "9": 92
+            }
+        },
+        "school_name": "BUCA CENGİZ SANİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2435,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/38282_cb_1093792489_1684090409236661294.jpg",
+            "submission_id": 419296,
+            "total_vote": 310,
+            "votes": {
+                "1": 136,
+                "2": 1,
+                "3": 158,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "BUCA CENGİZ SANİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2437,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/38282_cb_1093792491_1684090982793064337.jpg",
+            "submission_id": 431581,
+            "total_vote": 281,
+            "votes": {
+                "1": 114,
+                "2": 0,
+                "3": 148,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/38282_mv_1083792491_1684091069667207123.jpg",
+            "submission_id": 433261,
+            "total_vote": 279,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 21,
+                "12": 14,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 84,
+                "22": 42,
+                "23": 0,
+                "24": 8,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 5,
+                "8": 1,
+                "9": 95
+            }
+        },
+        "school_name": "BUCA CENGİZ SANİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2436,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/38282_cb_1093792490_1684090788642643236.jpg",
+            "submission_id": 427456,
+            "total_vote": 303,
+            "votes": {
+                "1": 115,
+                "2": 2,
+                "3": 169,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/38282_mv_1083792490_1684090866132709756.jpg",
+            "submission_id": 429136,
+            "total_vote": 297,
+            "votes": {
+                "1": 1,
+                "11": 17,
+                "12": 28,
+                "20": 1,
+                "21": 94,
+                "22": 43,
+                "23": 1,
+                "24": 7,
+                "6": 5,
+                "7": 6,
+                "8": 3,
+                "9": 91
+            }
+        },
+        "school_name": "BUCA CENGİZ SANİ İLKOKULU"
+    }
+]

@@ -1,0 +1,450 @@
+[
+    {
+        "ballot_box_number": 1036,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684089005924865988.jpg",
+            "submission_id": 382720,
+            "total_vote": 289,
+            "votes": {
+                "1": 95,
+                "2": 1,
+                "3": 178,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "MENDERES BELEDİYESİ TEK.VE END.MES.LİSESİ"
+    },
+    {
+        "ballot_box_number": 1050,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684089021465934135.jpg",
+            "submission_id": 383161,
+            "total_vote": 328,
+            "votes": {
+                "1": 134,
+                "3": 173,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "MENDERES BELEDİYESİ TEK.VE END.MES.LİSESİ"
+    },
+    {
+        "ballot_box_number": 1047,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8bb65f52-efd6-460d-aa43-84b858ffdc08-1684105931524444031.jpg",
+            "submission_id": 715449,
+            "total_vote": 318,
+            "votes": {
+                "1": 110,
+                "2": 2,
+                "3": 184,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/829de4cc-2262-44d5-8cf6-e18b900305a5-1684105924513195700.jpg",
+            "submission_id": 713384,
+            "total_vote": 314,
+            "votes": {
+                "10": 3,
+                "11": 26,
+                "12": 25,
+                "15": 1,
+                "18": 1,
+                "21": 129,
+                "22": 27,
+                "23": 1,
+                "24": 14,
+                "3": 2,
+                "6": 6,
+                "7": 5,
+                "8": 1,
+                "9": 73
+            }
+        },
+        "school_name": "MENDERES BELEDİYESİ TEK.VE END.MES.LİSESİ"
+    },
+    {
+        "ballot_box_number": 1038,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a149e04f-9415-442c-b76c-d323e1af6acd-1684105643421241150.jpg",
+            "submission_id": 672301,
+            "total_vote": 327,
+            "votes": {
+                "1": 129,
+                "2": 2,
+                "3": 172,
+                "4": 24
+            }
+        },
+        "mv_result": null,
+        "school_name": "MENDERES BELEDİYESİ TEK.VE END.MES.LİSESİ"
+    },
+    {
+        "ballot_box_number": 1043,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "MENDERES BELEDİYESİ TEK.VE END.MES.LİSESİ"
+    },
+    {
+        "ballot_box_number": 1052,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684089021211798919.jpg",
+            "submission_id": 383146,
+            "total_vote": 306,
+            "votes": {
+                "1": 101,
+                "2": 2,
+                "3": 188,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "MENDERES BELEDİYESİ TEK.VE END.MES.LİSESİ"
+    },
+    {
+        "ballot_box_number": 1048,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684084534483675960.jpg",
+            "submission_id": 241378,
+            "total_vote": 311,
+            "votes": {
+                "1": 135,
+                "2": 2,
+                "3": 155,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "MENDERES BELEDİYESİ TEK.VE END.MES.LİSESİ"
+    },
+    {
+        "ballot_box_number": 1041,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684089005559695709.jpg",
+            "submission_id": 382700,
+            "total_vote": 323,
+            "votes": {
+                "1": 129,
+                "2": 0,
+                "3": 170,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/09453221-9c68-4f31-917f-cc5b478f6150-1684105453821102691.jpg",
+            "submission_id": 642983,
+            "total_vote": 313,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 15,
+                "12": 10,
+                "14": 1,
+                "15": 0,
+                "16": 5,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 104,
+                "22": 53,
+                "23": 1,
+                "24": 13,
+                "3": 4,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 3,
+                "8": 2,
+                "9": 96
+            }
+        },
+        "school_name": "MENDERES BELEDİYESİ TEK.VE END.MES.LİSESİ"
+    },
+    {
+        "ballot_box_number": 1044,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ed4a35ee-d486-4bbd-a1f0-cb2baa53cd0c-1684106489980009530.jpg",
+            "submission_id": 795659,
+            "total_vote": 323,
+            "votes": {
+                "1": 114,
+                "2": 2,
+                "3": 181,
+                "4": 26
+            }
+        },
+        "mv_result": null,
+        "school_name": "MENDERES BELEDİYESİ TEK.VE END.MES.LİSESİ"
+    },
+    {
+        "ballot_box_number": 1039,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684083192587192902.jpg",
+            "submission_id": 212011,
+            "total_vote": 322,
+            "votes": {
+                "1": 138,
+                "2": 2,
+                "3": 156,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684089412708186549.jpg",
+            "submission_id": 393796,
+            "total_vote": 320,
+            "votes": {
+                "1": 1,
+                "10": 6,
+                "11": 16,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 9,
+                "20": 1,
+                "21": 116,
+                "22": 31,
+                "23": 2,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 5,
+                "8": 2,
+                "9": 117
+            }
+        },
+        "school_name": "MENDERES BELEDİYESİ TEK.VE END.MES.LİSESİ"
+    },
+    {
+        "ballot_box_number": 1046,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/1013c172-12b6-4343-9686-44fb612521ba-1684105498729842681.jpg",
+            "submission_id": 649490,
+            "total_vote": 311,
+            "votes": {
+                "1": 120,
+                "2": 1,
+                "3": 160,
+                "4": 30
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2b0f2098-c0ce-4b7c-a838-5947664d5863-1684105491343671897.jpg",
+            "submission_id": 649267,
+            "total_vote": 305,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 25,
+                "12": 9,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 94,
+                "22": 53,
+                "23": 1,
+                "24": 22,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 5,
+                "8": 2,
+                "9": 86
+            }
+        },
+        "school_name": "MENDERES BELEDİYESİ TEK.VE END.MES.LİSESİ"
+    },
+    {
+        "ballot_box_number": 1042,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684089005735105780.jpg",
+            "submission_id": 382710,
+            "total_vote": 318,
+            "votes": {
+                "1": 131,
+                "2": 3,
+                "3": 163,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684089005647462116.jpg",
+            "submission_id": 382704,
+            "total_vote": 314,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 35,
+                "12": 16,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 112,
+                "22": 37,
+                "23": 1,
+                "24": 7,
+                "3": 1,
+                "4": 1,
+                "5": 1,
+                "6": 3,
+                "7": 4,
+                "8": 1,
+                "9": 92
+            }
+        },
+        "school_name": "MENDERES BELEDİYESİ TEK.VE END.MES.LİSESİ"
+    },
+    {
+        "ballot_box_number": 1037,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e1bd06c2-6e6d-444a-b04c-70d509576c4d-1684105511442959145.jpg",
+            "submission_id": 652178,
+            "total_vote": 331,
+            "votes": {
+                "1": 100,
+                "2": 1,
+                "3": 210,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "MENDERES BELEDİYESİ TEK.VE END.MES.LİSESİ"
+    },
+    {
+        "ballot_box_number": 1049,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "MENDERES BELEDİYESİ TEK.VE END.MES.LİSESİ"
+    },
+    {
+        "ballot_box_number": 1040,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684089005487673513.jpg",
+            "submission_id": 382695,
+            "total_vote": 323,
+            "votes": {
+                "1": 115,
+                "2": 2,
+                "3": 188,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684089005366036034.jpg",
+            "submission_id": 382693,
+            "total_vote": 322,
+            "votes": {
+                "10": 4,
+                "11": 28,
+                "12": 6,
+                "14": 1,
+                "2": 1,
+                "20": 1,
+                "21": 145,
+                "22": 38,
+                "24": 10,
+                "6": 2,
+                "7": 7,
+                "9": 79
+            }
+        },
+        "school_name": "MENDERES BELEDİYESİ TEK.VE END.MES.LİSESİ"
+    },
+    {
+        "ballot_box_number": 1035,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/23f1263c-8cbb-44be-ab61-5fae04100706-1684105613636639782.jpg",
+            "submission_id": 667077,
+            "total_vote": 299,
+            "votes": {
+                "1": 112,
+                "2": 1,
+                "3": 174,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7e45fb48-b081-487b-88c1-791863bea63c-1684105622514189582.jpg",
+            "submission_id": 668673,
+            "total_vote": 290,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 14,
+                "12": 5,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 135,
+                "22": 34,
+                "23": 2,
+                "24": 6,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 2,
+                "8": 3,
+                "9": 85
+            }
+        },
+        "school_name": "MENDERES BELEDİYESİ TEK.VE END.MES.LİSESİ"
+    },
+    {
+        "ballot_box_number": 1045,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684084533739185747.jpg",
+            "submission_id": 241354,
+            "total_vote": 327,
+            "votes": {
+                "1": 136,
+                "3": 178,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "MENDERES BELEDİYESİ TEK.VE END.MES.LİSESİ"
+    },
+    {
+        "ballot_box_number": 1051,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684089006072495727.jpg",
+            "submission_id": 382729,
+            "total_vote": 318,
+            "votes": {
+                "1": 114,
+                "2": 1,
+                "3": 177,
+                "4": 26
+            }
+        },
+        "mv_result": null,
+        "school_name": "MENDERES BELEDİYESİ TEK.VE END.MES.LİSESİ"
+    }
+]

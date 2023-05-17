@@ -1,0 +1,157 @@
+[
+    {
+        "ballot_box_number": 2024,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49899_cb_1093864336_1684085405612958752.jpg",
+            "submission_id": 265810,
+            "total_vote": 299,
+            "votes": {
+                "1": 122,
+                "2": 0,
+                "3": 167,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23828_mv_1083864336_1684087885966653421.jpg",
+            "submission_id": 348196,
+            "total_vote": 294,
+            "votes": {
+                "10": 5,
+                "11": 17,
+                "12": 8,
+                "13": 12,
+                "15": 1,
+                "18": 1,
+                "19": 3,
+                "20": 1,
+                "21": 103,
+                "22": 41,
+                "23": 1,
+                "24": 5,
+                "6": 2,
+                "7": 2,
+                "8": 3,
+                "9": 89
+            }
+        },
+        "school_name": "KARŞIYAKA BEHÇET UZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2023,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23755_cb_1093864335_1684091377380298041.jpg",
+            "submission_id": 439195,
+            "total_vote": 309,
+            "votes": {
+                "1": 143,
+                "2": 2,
+                "3": 149,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23755_mv_1083864335_1684089197856448079.jpg",
+            "submission_id": 388110,
+            "total_vote": 291,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 32,
+                "12": 17,
+                "13": 17,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 85,
+                "22": 23,
+                "23": 0,
+                "24": 7,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 0,
+                "8": 2,
+                "9": 104
+            }
+        },
+        "school_name": "KARŞIYAKA BEHÇET UZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2022,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49899_cb_1093864314_1684087083098633530.jpg",
+            "submission_id": 321943,
+            "total_vote": 302,
+            "votes": {
+                "1": 160,
+                "3": 133,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49899_mv_1083864314_1684090204826022993.jpg",
+            "submission_id": 414627,
+            "total_vote": 300,
+            "votes": {
+                "10": 2,
+                "11": 33,
+                "12": 11,
+                "13": 9,
+                "15": 1,
+                "19": 4,
+                "20": 1,
+                "21": 82,
+                "22": 28,
+                "24": 4,
+                "6": 2,
+                "8": 3,
+                "9": 120
+            }
+        },
+        "school_name": "KARŞIYAKA BEHÇET UZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2021,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29419_cb_1093864313_1684081065703737225.jpg",
+            "submission_id": 185796,
+            "total_vote": 242,
+            "votes": {
+                "1": 91,
+                "2": 2,
+                "3": 136,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29419_mv_1083864313_1684087935970772063.jpg",
+            "submission_id": 349785,
+            "total_vote": 233,
+            "votes": {
+                "10": 3,
+                "11": 16,
+                "12": 13,
+                "13": 9,
+                "19": 1,
+                "2": 1,
+                "21": 78,
+                "22": 28,
+                "23": 1,
+                "24": 5,
+                "3": 1,
+                "5": 1,
+                "6": 6,
+                "8": 1,
+                "9": 69
+            }
+        },
+        "school_name": "KARŞIYAKA BEHÇET UZ ANADOLU LİSESİ"
+    }
+]

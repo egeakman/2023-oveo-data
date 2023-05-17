@@ -1,0 +1,48 @@
+[
+    {
+        "ballot_box_number": 1066,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/958749ce-a204-4781-a46b-4e8b4a6ccfd8-1684106134160664076.jpg",
+            "submission_id": 743548,
+            "total_vote": 284,
+            "votes": {
+                "1": 74,
+                "2": 1,
+                "3": 201,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/98bf551c-0e81-41cb-bc39-d0bcc76c6b02-1684106101786396373.jpg",
+            "submission_id": 738506,
+            "total_vote": 279,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 7,
+                "12": 9,
+                "13": 23,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 123,
+                "22": 36,
+                "23": 0,
+                "24": 6,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 3,
+                "7": 2,
+                "8": 0,
+                "9": 66
+            }
+        },
+        "school_name": "ÇİÇEKLİ KÖY İLKOKULU"
+    }
+]

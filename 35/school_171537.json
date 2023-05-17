@@ -1,0 +1,255 @@
+[
+    {
+        "ballot_box_number": 1015,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/64213_bulk_999999999_1684084119849579215.jpeg",
+            "submission_id": 230885,
+            "total_vote": 316,
+            "votes": {
+                "1": 105,
+                "2": 2,
+                "3": 189,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "14 MAYIS MAH-ŞEHİT ER MEHMET YÜCE BİST MESLEKİ VE TEKNİK ANADOLU LİSES"
+    },
+    {
+        "ballot_box_number": 1012,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c64d1381-9c8f-427c-b9fd-5363eb0a87f7-1684105529792740144.jpeg",
+            "submission_id": 654062,
+            "total_vote": 322,
+            "votes": {
+                "1": 120,
+                "2": 2,
+                "3": 184,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8c5b9312-7b11-4849-a000-7be45cc12a88-1684105527940055195.jpeg",
+            "submission_id": 653635,
+            "total_vote": 315,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 26,
+                "12": 40,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 114,
+                "22": 36,
+                "23": 2,
+                "24": 7,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 2,
+                "8": 1,
+                "9": 82
+            }
+        },
+        "school_name": "14 MAYIS MAH-ŞEHİT ER MEHMET YÜCE BİST MESLEKİ VE TEKNİK ANADOLU LİSES"
+    },
+    {
+        "ballot_box_number": 1009,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29826_cb_1093754558_1684082899027890649.jpg",
+            "submission_id": 207020,
+            "total_vote": 314,
+            "votes": {
+                "1": 110,
+                "3": 178,
+                "4": 26
+            }
+        },
+        "mv_result": null,
+        "school_name": "14 MAYIS MAH-ŞEHİT ER MEHMET YÜCE BİST MESLEKİ VE TEKNİK ANADOLU LİSES"
+    },
+    {
+        "ballot_box_number": 1010,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/96a3b51d-ab0e-4a8f-b1a3-2adb1c8f883b-1684105386047269766.jpeg",
+            "submission_id": 629766,
+            "total_vote": 307,
+            "votes": {
+                "1": 112,
+                "2": 5,
+                "3": 179,
+                "4": 11
+            }
+        },
+        "mv_result": null,
+        "school_name": "14 MAYIS MAH-ŞEHİT ER MEHMET YÜCE BİST MESLEKİ VE TEKNİK ANADOLU LİSES"
+    },
+    {
+        "ballot_box_number": 1007,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/fbd64f1b-c03c-45b2-be51-a2f06593040a-1684106023906788942.jpeg",
+            "submission_id": 727651,
+            "total_vote": 257,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 14,
+                "12": 10,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 2,
+                "21": 131,
+                "22": 21,
+                "23": 0,
+                "24": 3,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 6,
+                "8": 7,
+                "9": 57
+            }
+        },
+        "school_name": "14 MAYIS MAH-ŞEHİT ER MEHMET YÜCE BİST MESLEKİ VE TEKNİK ANADOLU LİSES"
+    },
+    {
+        "ballot_box_number": 1014,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/64213_cb_1093754563_1684085004971971198.jpg",
+            "submission_id": 254286,
+            "total_vote": 319,
+            "votes": {
+                "1": 99,
+                "2": 1,
+                "3": 205,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/1f15a1d1-f040-44ee-a74b-a7ebb82056bf-1684105976382444965.jpeg",
+            "submission_id": 722826,
+            "total_vote": 315,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 32,
+                "12": 49,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 124,
+                "22": 31,
+                "23": 2,
+                "24": 6,
+                "3": 3,
+                "4": 1,
+                "5": 0,
+                "6": 2,
+                "7": 1,
+                "8": 2,
+                "9": 58
+            }
+        },
+        "school_name": "14 MAYIS MAH-ŞEHİT ER MEHMET YÜCE BİST MESLEKİ VE TEKNİK ANADOLU LİSES"
+    },
+    {
+        "ballot_box_number": 1013,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/64213_cb_1093754562_1684084231090513772.jpg",
+            "submission_id": 233730,
+            "total_vote": 317,
+            "votes": {
+                "1": 118,
+                "2": 3,
+                "3": 181,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/64213_mv_1083754562_1684084195704523338.jpg",
+            "submission_id": 232732,
+            "total_vote": 307,
+            "votes": {
+                "10": 1,
+                "11": 27,
+                "12": 39,
+                "21": 107,
+                "22": 37,
+                "24": 7,
+                "3": 1,
+                "6": 3,
+                "7": 1,
+                "9": 84
+            }
+        },
+        "school_name": "14 MAYIS MAH-ŞEHİT ER MEHMET YÜCE BİST MESLEKİ VE TEKNİK ANADOLU LİSES"
+    },
+    {
+        "ballot_box_number": 1011,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/03db534a-aa74-420d-9c20-dae2642d95ca-1684105295355782736.jpeg",
+            "submission_id": 613576,
+            "total_vote": 308,
+            "votes": {
+                "1": 112,
+                "2": 1,
+                "3": 186,
+                "4": 9
+            }
+        },
+        "mv_result": null,
+        "school_name": "14 MAYIS MAH-ŞEHİT ER MEHMET YÜCE BİST MESLEKİ VE TEKNİK ANADOLU LİSES"
+    },
+    {
+        "ballot_box_number": 1008,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c1d26606-4dad-4f89-9515-5a0f7ea805d7-1684106004081670538.jpeg",
+            "submission_id": 725056,
+            "total_vote": 297,
+            "votes": {
+                "1": 114,
+                "2": 1,
+                "3": 172,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a1e74fbc-1f1f-4a7a-982a-c14b92f80a45-1684105616297330577.jpeg",
+            "submission_id": 667741,
+            "total_vote": 294,
+            "votes": {
+                "11": 21,
+                "12": 32,
+                "19": 1,
+                "20": 1,
+                "21": 119,
+                "22": 22,
+                "23": 2,
+                "24": 3,
+                "6": 1,
+                "7": 2,
+                "9": 90
+            }
+        },
+        "school_name": "14 MAYIS MAH-ŞEHİT ER MEHMET YÜCE BİST MESLEKİ VE TEKNİK ANADOLU LİSES"
+    }
+]

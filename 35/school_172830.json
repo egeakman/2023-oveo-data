@@ -1,0 +1,35 @@
+[
+    {
+        "ballot_box_number": 1027,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/83496_bulk_999999999_1684090403763284019.jpeg",
+            "submission_id": 419157,
+            "total_vote": 343,
+            "votes": {
+                "1": 53,
+                "2": 4,
+                "3": 273,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21022_bulk_999999999_1684087073877592456.jpeg",
+            "submission_id": 321584,
+            "total_vote": 333,
+            "votes": {
+                "11": 4,
+                "12": 13,
+                "19": 2,
+                "20": 2,
+                "21": 191,
+                "22": 62,
+                "24": 3,
+                "6": 1,
+                "7": 6,
+                "8": 1,
+                "9": 48
+            }
+        },
+        "school_name": "BARBOROS İLKÖĞRETİM OKULU"
+    }
+]

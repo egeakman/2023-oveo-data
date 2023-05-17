@@ -1,0 +1,225 @@
+[
+    {
+        "ballot_box_number": 2116,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39671_cb_1093864510_1684087413059193804.jpg",
+            "submission_id": 333115,
+            "total_vote": 299,
+            "votes": {
+                "1": 60,
+                "2": 0,
+                "3": 226,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/39671_bulk_999999999_1684088169642059064.jpeg",
+            "submission_id": 357403,
+            "total_vote": 293,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 9,
+                "12": 5,
+                "13": 17,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 154,
+                "22": 44,
+                "23": 1,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 5,
+                "8": 0,
+                "9": 47
+            }
+        },
+        "school_name": "KAPTAN ALTAY ALTUĞ İLKOKULU (KAZIM DİRİK İLKOKULUNDAN GELEN)"
+    },
+    {
+        "ballot_box_number": 2119,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39713_cb_1093864513_1684085141507442465.jpg",
+            "submission_id": 258154,
+            "total_vote": 318,
+            "votes": {
+                "1": 76,
+                "2": 1,
+                "3": 225,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39713_mv_1083864513_1684086283526322748.jpg",
+            "submission_id": 294187,
+            "total_vote": 316,
+            "votes": {
+                "10": 4,
+                "11": 11,
+                "12": 12,
+                "13": 25,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "20": 0,
+                "21": 152,
+                "22": 39,
+                "23": 0,
+                "24": 11,
+                "7": 3,
+                "8": 0,
+                "9": 58
+            }
+        },
+        "school_name": "KAPTAN ALTAY ALTUĞ İLKOKULU (KAZIM DİRİK İLKOKULUNDAN GELEN)"
+    },
+    {
+        "ballot_box_number": 2121,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39713_cb_1093864535_1684085935779386029.jpg",
+            "submission_id": 282931,
+            "total_vote": 314,
+            "votes": {
+                "1": 73,
+                "3": 229,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39713_mv_1083864535_1684085981035158290.jpg",
+            "submission_id": 284350,
+            "total_vote": 310,
+            "votes": {
+                "10": 1,
+                "11": 6,
+                "12": 15,
+                "13": 25,
+                "21": 152,
+                "22": 37,
+                "23": 1,
+                "24": 8,
+                "7": 1,
+                "8": 1,
+                "9": 63
+            }
+        },
+        "school_name": "KAPTAN ALTAY ALTUĞ İLKOKULU (KAZIM DİRİK İLKOKULUNDAN GELEN)"
+    },
+    {
+        "ballot_box_number": 2120,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0ea0feb4-a8e0-45fb-960b-2daac230a9c8-1684105792765449550.jpg",
+            "submission_id": 695980,
+            "total_vote": 331,
+            "votes": {
+                "1": 54,
+                "2": 1,
+                "3": 262,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/cc73c78c-ca0a-42a3-b9e0-c11783540a1f-1684105658629520854.jpg",
+            "submission_id": 674821,
+            "total_vote": 324,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 7,
+                "12": 10,
+                "13": 21,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 168,
+                "22": 60,
+                "23": 1,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 1,
+                "9": 43
+            }
+        },
+        "school_name": "KAPTAN ALTAY ALTUĞ İLKOKULU (KAZIM DİRİK İLKOKULUNDAN GELEN)"
+    },
+    {
+        "ballot_box_number": 2118,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/56837_cb_1093864512_1684082055531631245.jpg",
+            "submission_id": 195291,
+            "total_vote": 318,
+            "votes": {
+                "1": 73,
+                "2": 0,
+                "3": 231,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/56837_mv_1083864512_1684090436619819558.jpg",
+            "submission_id": 419833,
+            "total_vote": 315,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 6,
+                "12": 18,
+                "13": 22,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 153,
+                "22": 41,
+                "23": 0,
+                "24": 9,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 0,
+                "8": 1,
+                "9": 54
+            }
+        },
+        "school_name": "KAPTAN ALTAY ALTUĞ İLKOKULU (KAZIM DİRİK İLKOKULUNDAN GELEN)"
+    },
+    {
+        "ballot_box_number": 2117,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/86a96bcf-82b9-4e97-b96e-d86dce52a38f-1684105940379382813.jpg",
+            "submission_id": 715774,
+            "total_vote": 323,
+            "votes": {
+                "1": 72,
+                "3": 236,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "KAPTAN ALTAY ALTUĞ İLKOKULU (KAZIM DİRİK İLKOKULUNDAN GELEN)"
+    }
+]

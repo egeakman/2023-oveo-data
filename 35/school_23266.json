@@ -1,0 +1,81 @@
+[
+    {
+        "ballot_box_number": 1070,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39836_cb_1093573180_1684078798042794735.jpg",
+            "submission_id": 175195,
+            "total_vote": 258,
+            "votes": {
+                "1": 80,
+                "2": 0,
+                "3": 169,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39836_mv_1083573180_1684083912307290412.jpg",
+            "submission_id": 226311,
+            "total_vote": 258,
+            "votes": {
+                "10": 3,
+                "11": 4,
+                "12": 104,
+                "13": 4,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 63,
+                "22": 7,
+                "23": 1,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 2,
+                "9": 62
+            }
+        },
+        "school_name": "80. YIL ÇAMLIK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1069,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39829_cb_1093573179_1684083440455673769.jpg",
+            "submission_id": 216676,
+            "total_vote": 260,
+            "votes": {
+                "1": 79,
+                "3": 176,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39829_mv_1083573179_1684084551689217663.jpg",
+            "submission_id": 241820,
+            "total_vote": 254,
+            "votes": {
+                "10": 5,
+                "11": 7,
+                "12": 115,
+                "13": 7,
+                "14": 1,
+                "21": 56,
+                "22": 3,
+                "24": 2,
+                "4": 1,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 54
+            }
+        },
+        "school_name": "80. YIL ÇAMLIK İLKOKULU"
+    }
+]

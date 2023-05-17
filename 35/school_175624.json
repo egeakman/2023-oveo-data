@@ -1,0 +1,31 @@
+[
+    {
+        "ballot_box_number": 1402,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/14730_cb_1093863096_1684080509510049871.jpg",
+            "submission_id": 182106,
+            "total_vote": 84,
+            "votes": {
+                "1": 17,
+                "3": 64,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/14730_mv_1083863096_1684080536914441790.jpg",
+            "submission_id": 182273,
+            "total_vote": 82,
+            "votes": {
+                "11": 2,
+                "12": 22,
+                "21": 31,
+                "22": 9,
+                "5": 2,
+                "7": 1,
+                "8": 1,
+                "9": 14
+            }
+        },
+        "school_name": "İL MİLLİ EĞİTİM MÜDÜRLÜĞÜ"
+    }
+]

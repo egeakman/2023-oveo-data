@@ -1,0 +1,28 @@
+[
+    {
+        "ballot_box_number": 1229,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26823_cb_1093861683_1684086539865599579.jpg",
+            "submission_id": 302898,
+            "total_vote": 46,
+            "votes": {
+                "1": 17,
+                "3": 29
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26823_mv_1083861683_1684086576821095447.jpg",
+            "submission_id": 304199,
+            "total_vote": 44,
+            "votes": {
+                "12": 6,
+                "21": 18,
+                "22": 3,
+                "3": 2,
+                "6": 2,
+                "9": 13
+            }
+        },
+        "school_name": "İSMET PAŞA İLKOKULU"
+    }
+]

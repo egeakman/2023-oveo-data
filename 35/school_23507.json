@@ -1,0 +1,467 @@
+[
+    {
+        "ballot_box_number": 1239,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19011_cb_1093579709_1684088246624366820.jpg",
+            "submission_id": 359669,
+            "total_vote": 298,
+            "votes": {
+                "1": 67,
+                "2": 0,
+                "3": 222,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19011_mv_1083579709_1684088267559634392.jpg",
+            "submission_id": 360342,
+            "total_vote": 285,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 2,
+                "12": 16,
+                "14": 1,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 3,
+                "2": 0,
+                "20": 0,
+                "21": 156,
+                "22": 33,
+                "23": 2,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 1,
+                "9": 55
+            }
+        },
+        "school_name": "KIBRIS ŞEHİDİ YÜZBAŞI CENGİZ TOPEL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1242,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/df69dc37-4934-43e4-8eb9-c209ba98cbbc-1684105395446071468.jpg",
+            "submission_id": 630939,
+            "total_vote": 346,
+            "votes": {
+                "1": 107,
+                "2": 2,
+                "3": 221,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "KIBRIS ŞEHİDİ YÜZBAŞI CENGİZ TOPEL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1240,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/40992_bulk_999999999_1684088701688512256.jpeg",
+            "submission_id": 373770,
+            "total_vote": 313,
+            "votes": {
+                "1": 85,
+                "2": 4,
+                "3": 217,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "KIBRIS ŞEHİDİ YÜZBAŞI CENGİZ TOPEL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1253,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19011_cb_1093580243_1684087567162033775.jpg",
+            "submission_id": 338033,
+            "total_vote": 354,
+            "votes": {
+                "1": 85,
+                "2": 0,
+                "3": 238,
+                "4": 31
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19011_cb_1093580243_1684087658230590777.jpg",
+            "submission_id": 341007,
+            "total_vote": 345,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 0,
+                "12": 25,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 144,
+                "22": 61,
+                "23": 10,
+                "24": 20,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 2,
+                "8": 3,
+                "9": 71
+            }
+        },
+        "school_name": "KIBRIS ŞEHİDİ YÜZBAŞI CENGİZ TOPEL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1246,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19011_cb_1093580236_1684088475660588611.jpg",
+            "submission_id": 366723,
+            "total_vote": 331,
+            "votes": {
+                "1": 86,
+                "2": 4,
+                "3": 213,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19011_mv_1083580236_1684088504779413260.jpg",
+            "submission_id": 367626,
+            "total_vote": 331,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 16,
+                "12": 14,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 147,
+                "22": 59,
+                "23": 1,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 9,
+                "8": 0,
+                "9": 65
+            }
+        },
+        "school_name": "KIBRIS ŞEHİDİ YÜZBAŞI CENGİZ TOPEL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1251,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19011_cb_1093580241_1684088664439223556.jpg",
+            "submission_id": 372651,
+            "total_vote": 334,
+            "votes": {
+                "1": 96,
+                "2": 1,
+                "3": 215,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19011_mv_1083580241_1684088691896244588.jpg",
+            "submission_id": 373462,
+            "total_vote": 327,
+            "votes": {
+                "1": 2,
+                "10": 1,
+                "11": 21,
+                "12": 21,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 132,
+                "22": 49,
+                "23": 2,
+                "24": 11,
+                "3": 4,
+                "4": 3,
+                "5": 1,
+                "6": 2,
+                "7": 4,
+                "8": 2,
+                "9": 71
+            }
+        },
+        "school_name": "KIBRIS ŞEHİDİ YÜZBAŞI CENGİZ TOPEL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1245,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19011_cb_1093580235_1684090318594924464.jpg",
+            "submission_id": 417292,
+            "total_vote": 340,
+            "votes": {
+                "1": 89,
+                "3": 232,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "KIBRIS ŞEHİDİ YÜZBAŞI CENGİZ TOPEL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1247,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19011_cb_1093580237_1684088545641477132.jpg",
+            "submission_id": 368959,
+            "total_vote": 354,
+            "votes": {
+                "1": 99,
+                "2": 0,
+                "3": 235,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "KIBRIS ŞEHİDİ YÜZBAŞI CENGİZ TOPEL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1244,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19011_cb_1093579714_1684090254997089840.jpg",
+            "submission_id": 415854,
+            "total_vote": 358,
+            "votes": {
+                "1": 109,
+                "2": 3,
+                "3": 223,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "KIBRIS ŞEHİDİ YÜZBAŞI CENGİZ TOPEL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1241,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/40992_bulk_999999999_1684091063385122171.jpeg",
+            "submission_id": 433162,
+            "total_vote": 360,
+            "votes": {
+                "1": 98,
+                "2": 5,
+                "3": 236,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/40992_bulk_999999999_1684091023984456687.jpeg",
+            "submission_id": 432378,
+            "total_vote": 351,
+            "votes": {
+                "10": 5,
+                "11": 8,
+                "12": 25,
+                "14": 1,
+                "15": 1,
+                "17": 1,
+                "20": 1,
+                "21": 162,
+                "22": 51,
+                "24": 10,
+                "3": 1,
+                "6": 3,
+                "7": 8,
+                "9": 74
+            }
+        },
+        "school_name": "KIBRIS ŞEHİDİ YÜZBAŞI CENGİZ TOPEL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1252,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19011_cb_1093580242_1684087483475396786.jpg",
+            "submission_id": 335339,
+            "total_vote": 340,
+            "votes": {
+                "1": 98,
+                "2": 0,
+                "3": 221,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19011_mv_1083580242_1684087519537711701.jpg",
+            "submission_id": 336555,
+            "total_vote": 339,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 19,
+                "12": 15,
+                "15": 2,
+                "18": 1,
+                "21": 149,
+                "22": 51,
+                "23": 1,
+                "24": 14,
+                "3": 3,
+                "4": 1,
+                "6": 1,
+                "7": 3,
+                "8": 2,
+                "9": 72
+            }
+        },
+        "school_name": "KIBRIS ŞEHİDİ YÜZBAŞI CENGİZ TOPEL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1250,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19011_cb_1093580240_1684088607574703885.jpg",
+            "submission_id": 370830,
+            "total_vote": 351,
+            "votes": {
+                "1": 87,
+                "2": 1,
+                "3": 241,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19011_mv_1083580240_1684088635684936483.jpg",
+            "submission_id": 371769,
+            "total_vote": 342,
+            "votes": {
+                "10": 5,
+                "11": 18,
+                "12": 21,
+                "21": 157,
+                "22": 51,
+                "23": 1,
+                "24": 9,
+                "3": 2,
+                "4": 1,
+                "6": 2,
+                "7": 7,
+                "8": 1,
+                "9": 67
+            }
+        },
+        "school_name": "KIBRIS ŞEHİDİ YÜZBAŞI CENGİZ TOPEL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1248,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/18100_bulk_999999999_1684127227607242845.jpeg",
+            "submission_id": 1011146,
+            "total_vote": 342,
+            "votes": {
+                "1": 84,
+                "2": 2,
+                "3": 232,
+                "4": 24
+            }
+        },
+        "mv_result": null,
+        "school_name": "KIBRIS ŞEHİDİ YÜZBAŞI CENGİZ TOPEL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1249,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19011_cb_1093580239_1684088578069324293.jpg",
+            "submission_id": 369934,
+            "total_vote": 346,
+            "votes": {
+                "1": 98,
+                "2": 2,
+                "3": 218,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/18100_bulk_999999999_1684096054566576398.jpeg",
+            "submission_id": 509144,
+            "total_vote": 339,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 20,
+                "12": 20,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 133,
+                "22": 60,
+                "23": 0,
+                "24": 15,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 7,
+                "8": 2,
+                "9": 76
+            }
+        },
+        "school_name": "KIBRIS ŞEHİDİ YÜZBAŞI CENGİZ TOPEL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1243,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19011_cb_1093579713_1684090202206445916.jpg",
+            "submission_id": 414578,
+            "total_vote": 344,
+            "votes": {
+                "1": 117,
+                "2": 1,
+                "3": 209,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2d679b73-fd9a-4e32-84fa-138fa3658947-1684105498708790861.jpg",
+            "submission_id": 649045,
+            "total_vote": 341,
+            "votes": {
+                "10": 3,
+                "11": 16,
+                "12": 17,
+                "14": 1,
+                "16": 1,
+                "17": 1,
+                "21": 146,
+                "22": 45,
+                "23": 2,
+                "24": 9,
+                "3": 1,
+                "6": 1,
+                "7": 8,
+                "9": 90
+            }
+        },
+        "school_name": "KIBRIS ŞEHİDİ YÜZBAŞI CENGİZ TOPEL ORTAOKULU"
+    }
+]

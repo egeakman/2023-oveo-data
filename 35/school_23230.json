@@ -1,0 +1,212 @@
+[
+    {
+        "ballot_box_number": 1257,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28603_cb_1093800031_1684083443446879592.jpg",
+            "submission_id": 216717,
+            "total_vote": 290,
+            "votes": {
+                "1": 104,
+                "2": 1,
+                "3": 179,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28607_mv_1083800031_1684087607247504195.jpg",
+            "submission_id": 339305,
+            "total_vote": 287,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 12,
+                "12": 4,
+                "13": 11,
+                "14": 1,
+                "15": 0,
+                "16": 1,
+                "17": 2,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "21": 125,
+                "22": 38,
+                "23": 0,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "6": 0,
+                "7": 3,
+                "8": 1,
+                "9": 84
+            }
+        },
+        "school_name": "YUKARIKIZILCA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1255,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28603_cb_1093800029_1684079283888554184.jpg",
+            "submission_id": 176490,
+            "total_vote": 286,
+            "votes": {
+                "1": 84,
+                "2": 1,
+                "3": 192,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d22f64a3-8eaa-461a-a653-cf25cf1a0a76-1684106350995305775.jpg",
+            "submission_id": 774897,
+            "total_vote": 283,
+            "votes": {
+                "10": 2,
+                "11": 9,
+                "12": 2,
+                "13": 17,
+                "17": 1,
+                "21": 149,
+                "22": 27,
+                "23": 2,
+                "24": 6,
+                "6": 1,
+                "7": 1,
+                "8": 2,
+                "9": 64
+            }
+        },
+        "school_name": "YUKARIKIZILCA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1254,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28607_bulk_999999999_1684086230889722533.jpg",
+            "submission_id": 292442,
+            "total_vote": 279,
+            "votes": {
+                "1": 81,
+                "2": 1,
+                "3": 195,
+                "4": 2
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28607_mv_1083800028_1684089163479208498.jpg",
+            "submission_id": 387100,
+            "total_vote": 275,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 11,
+                "12": 6,
+                "13": 9,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 2,
+                "19": 0,
+                "2": 1,
+                "20": 1,
+                "21": 146,
+                "22": 21,
+                "23": 0,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 11,
+                "9": 59
+            }
+        },
+        "school_name": "YUKARIKIZILCA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1259,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28607_cb_1093800033_1684084125148018790.jpg",
+            "submission_id": 230984,
+            "total_vote": 291,
+            "votes": {
+                "1": 79,
+                "2": 2,
+                "3": 200,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/16c87507-cb11-4986-816a-8811be70ad98-1684106261020052055.jpg",
+            "submission_id": 762655,
+            "total_vote": 286,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 27,
+                "12": 1,
+                "13": 16,
+                "15": 1,
+                "17": 2,
+                "19": 1,
+                "20": 1,
+                "21": 150,
+                "22": 28,
+                "24": 2,
+                "3": 1,
+                "5": 1,
+                "9": 53
+            }
+        },
+        "school_name": "YUKARIKIZILCA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1258,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28603_cb_1093800032_1684082565366052604.jpg",
+            "submission_id": 201873,
+            "total_vote": 303,
+            "votes": {
+                "1": 68,
+                "2": 3,
+                "3": 222,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "YUKARIKIZILCA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1256,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28603_cb_1093800030_1684082334149075665.jpg",
+            "submission_id": 198839,
+            "total_vote": 296,
+            "votes": {
+                "1": 84,
+                "2": 1,
+                "3": 206,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28603_mv_1083800030_1684081762678990850.jpg",
+            "submission_id": 192035,
+            "total_vote": 291,
+            "votes": {
+                "10": 1,
+                "11": 11,
+                "12": 3,
+                "13": 18,
+                "15": 1,
+                "21": 160,
+                "22": 25,
+                "24": 1,
+                "7": 1,
+                "9": 70
+            }
+        },
+        "school_name": "YUKARIKIZILCA İLKOKULU"
+    }
+]

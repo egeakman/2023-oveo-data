@@ -1,0 +1,18 @@
+[
+    {
+        "ballot_box_number": 1439,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68866_cb_1093801293_1684079287074807645.jpg",
+            "submission_id": 176504,
+            "total_vote": 333,
+            "votes": {
+                "1": 174,
+                "2": 2,
+                "3": 129,
+                "4": 28
+            }
+        },
+        "mv_result": null,
+        "school_name": "YOĞURTCULAR İLKOKULU"
+    }
+]

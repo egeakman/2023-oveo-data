@@ -1,0 +1,18 @@
+[
+    {
+        "ballot_box_number": 1037,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/abfac4aa-472e-4d0e-a872-1632a9fd91c7-1684106101344751856.jpg",
+            "submission_id": 738261,
+            "total_vote": 81,
+            "votes": {
+                "1": 44,
+                "2": 3,
+                "3": 26,
+                "4": 8
+            }
+        },
+        "mv_result": null,
+        "school_name": "YAYLA KÖY KONAĞI"
+    }
+]

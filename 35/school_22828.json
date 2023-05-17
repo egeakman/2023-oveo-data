@@ -1,0 +1,18 @@
+[
+    {
+        "ballot_box_number": 1044,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f6fdabeb-52fd-456b-9171-4048e316f6c9-1684105630810638447.jpg",
+            "submission_id": 669852,
+            "total_vote": 205,
+            "votes": {
+                "1": 80,
+                "2": 2,
+                "3": 116,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "ESENTEPE İLKOKULU"
+    }
+]

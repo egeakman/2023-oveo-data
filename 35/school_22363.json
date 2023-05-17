@@ -1,0 +1,295 @@
+[
+    {
+        "ballot_box_number": 1111,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21838_cb_1093798175_1684086574244990505.jpg",
+            "submission_id": 304118,
+            "total_vote": 354,
+            "votes": {
+                "1": 51,
+                "2": 0,
+                "3": 290,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21838_mv_1083798175_1684087907150221569.jpg",
+            "submission_id": 348932,
+            "total_vote": 350,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 3,
+                "12": 14,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 208,
+                "22": 60,
+                "23": 1,
+                "24": 13,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 0,
+                "9": 46
+            }
+        },
+        "school_name": "AGAHEFENDİ İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1109,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21838_cb_1093797893_1684087059923441253.jpg",
+            "submission_id": 321071,
+            "total_vote": 358,
+            "votes": {
+                "1": 35,
+                "2": 3,
+                "3": 306,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21838_mv_1083797893_1684087104516333865.jpg",
+            "submission_id": 322718,
+            "total_vote": 354,
+            "votes": {
+                "10": 0,
+                "11": 7,
+                "12": 10,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 232,
+                "22": 64,
+                "23": 0,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 3,
+                "9": 27
+            }
+        },
+        "school_name": "AGAHEFENDİ İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1107,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/45314_cb_1093797891_1684088846660976462.jpg",
+            "submission_id": 377991,
+            "total_vote": 360,
+            "votes": {
+                "1": 44,
+                "2": 2,
+                "3": 301,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/45314_mv_1083797891_1684088865587856841.jpg",
+            "submission_id": 378495,
+            "total_vote": 353,
+            "votes": {
+                "10": 0,
+                "11": 6,
+                "12": 4,
+                "14": 0,
+                "15": 0,
+                "19": 3,
+                "20": 1,
+                "21": 230,
+                "22": 69,
+                "23": 0,
+                "24": 3,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 0,
+                "9": 33
+            }
+        },
+        "school_name": "AGAHEFENDİ İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1108,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21822_cb_1093797892_1684085246266418558.jpg",
+            "submission_id": 261190,
+            "total_vote": 347,
+            "votes": {
+                "1": 51,
+                "2": 2,
+                "3": 287,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21822_mv_1083797892_1684085270013146890.jpg",
+            "submission_id": 261873,
+            "total_vote": 344,
+            "votes": {
+                "10": 0,
+                "11": 10,
+                "12": 12,
+                "14": 0,
+                "15": 0,
+                "18": 0,
+                "19": 0,
+                "20": 0,
+                "21": 214,
+                "22": 52,
+                "23": 0,
+                "24": 9,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 7,
+                "8": 0,
+                "9": 39
+            }
+        },
+        "school_name": "AGAHEFENDİ İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1105,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68848_cb_1093797889_1684085918458410226.jpg",
+            "submission_id": 282387,
+            "total_vote": 314,
+            "votes": {
+                "1": 48,
+                "2": 1,
+                "3": 257,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68848_mv_1083797889_1684086958893371656.jpg",
+            "submission_id": 317526,
+            "total_vote": 312,
+            "votes": {
+                "10": 1,
+                "11": 5,
+                "12": 2,
+                "14": 1,
+                "15": 1,
+                "20": 1,
+                "21": 212,
+                "22": 42,
+                "23": 1,
+                "24": 1,
+                "3": 1,
+                "7": 2,
+                "8": 1,
+                "9": 41
+            }
+        },
+        "school_name": "AGAHEFENDİ İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1110,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21838_cb_1093797894_1684088059745461265.jpg",
+            "submission_id": 353902,
+            "total_vote": 345,
+            "votes": {
+                "1": 40,
+                "2": 1,
+                "3": 295,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21838_mv_1083797894_1684088099926733468.jpg",
+            "submission_id": 355157,
+            "total_vote": 345,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 7,
+                "12": 13,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 230,
+                "22": 55,
+                "23": 1,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 1,
+                "8": 2,
+                "9": 28
+            }
+        },
+        "school_name": "AGAHEFENDİ İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1106,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21838_cb_1093797890_1684088755846102891.jpg",
+            "submission_id": 375374,
+            "total_vote": 327,
+            "votes": {
+                "1": 39,
+                "2": 1,
+                "3": 284,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/33021_bulk_999999999_1684091732336412279.jpg",
+            "submission_id": 444932,
+            "total_vote": 327,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 7,
+                "12": 6,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 215,
+                "22": 55,
+                "23": 0,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 1,
+                "9": 33
+            }
+        },
+        "school_name": "AGAHEFENDİ İLKOKULU B BLOK"
+    }
+]

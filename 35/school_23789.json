@@ -1,0 +1,82 @@
+[
+    {
+        "ballot_box_number": 1231,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/53128_cb_1093758672_1684079852903130081.jpg",
+            "submission_id": 178627,
+            "total_vote": 296,
+            "votes": {
+                "1": 84,
+                "2": 5,
+                "3": 193,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/53128_mv_1083758672_1684087511205607463.jpg",
+            "submission_id": 336280,
+            "total_vote": 281,
+            "votes": {
+                "1": 2,
+                "10": 1,
+                "11": 12,
+                "12": 17,
+                "15": 1,
+                "21": 140,
+                "22": 28,
+                "24": 4,
+                "3": 1,
+                "6": 1,
+                "7": 4,
+                "8": 2,
+                "9": 68
+            }
+        },
+        "school_name": "SANCAKLI AHMETÇİK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1230,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/53128_cb_1093758671_1684084104928156912.jpg",
+            "submission_id": 230485,
+            "total_vote": 301,
+            "votes": {
+                "1": 86,
+                "2": 2,
+                "3": 206,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/53128_mv_1083758671_1684086314891436600.jpg",
+            "submission_id": 295259,
+            "total_vote": 293,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 7,
+                "12": 11,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 0,
+                "21": 152,
+                "22": 43,
+                "23": 1,
+                "24": 2,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 4,
+                "8": 3,
+                "9": 61
+            }
+        },
+        "school_name": "SANCAKLI AHMETÇİK İLKOKULU"
+    }
+]

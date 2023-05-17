@@ -1,0 +1,637 @@
+[
+    {
+        "ballot_box_number": 1135,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/11731_cb_1093575929_1684085848975100019.jpg",
+            "submission_id": 280085,
+            "total_vote": 336,
+            "votes": {
+                "1": 64,
+                "2": 1,
+                "3": 238,
+                "4": 33
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29706_cb_1093575929_1684085794636555565.jpg",
+            "submission_id": 278224,
+            "total_vote": 333,
+            "votes": {
+                "10": 1,
+                "11": 20,
+                "12": 7,
+                "21": 165,
+                "22": 58,
+                "23": 1,
+                "24": 24,
+                "6": 1,
+                "7": 8,
+                "8": 4,
+                "9": 44
+            }
+        },
+        "school_name": "BORSA İSTANBUL MESLEKİ VE TEKNİK ANADOLU LİSESİ (IMKB)"
+    },
+    {
+        "ballot_box_number": 1127,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/11731_cb_1093575921_1684089778018909354.jpg",
+            "submission_id": 403886,
+            "total_vote": 324,
+            "votes": {
+                "1": 65,
+                "2": 3,
+                "3": 230,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/11731_mv_1083575921_1684089837236296695.jpg",
+            "submission_id": 405466,
+            "total_vote": 324,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 20,
+                "12": 13,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 4,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 161,
+                "22": 53,
+                "23": 1,
+                "24": 16,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 5,
+                "8": 0,
+                "9": 46
+            }
+        },
+        "school_name": "BORSA İSTANBUL MESLEKİ VE TEKNİK ANADOLU LİSESİ (IMKB)"
+    },
+    {
+        "ballot_box_number": 1133,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/56798_bulk_999999999_1684084843984193266.jpeg",
+            "submission_id": 249740,
+            "total_vote": 341,
+            "votes": {
+                "1": 45,
+                "2": 2,
+                "3": 272,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/56798_bulk_999999999_1684085552801025702.jpeg",
+            "submission_id": 270218,
+            "total_vote": 337,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 13,
+                "12": 10,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 179,
+                "22": 76,
+                "23": 3,
+                "24": 12,
+                "3": 1,
+                "4": 0,
+                "5": 2,
+                "6": 0,
+                "7": 8,
+                "8": 1,
+                "9": 31
+            }
+        },
+        "school_name": "BORSA İSTANBUL MESLEKİ VE TEKNİK ANADOLU LİSESİ (IMKB)"
+    },
+    {
+        "ballot_box_number": 1124,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/11731_cb_1093575918_1684088448450473510.jpg",
+            "submission_id": 365872,
+            "total_vote": 341,
+            "votes": {
+                "1": 73,
+                "2": 1,
+                "3": 234,
+                "4": 33
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/11731_mv_1083575918_1684088608922696509.jpg",
+            "submission_id": 370874,
+            "total_vote": 338,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 14,
+                "12": 5,
+                "13": 0,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 170,
+                "22": 64,
+                "23": 0,
+                "24": 20,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 0,
+                "9": 54
+            }
+        },
+        "school_name": "BORSA İSTANBUL MESLEKİ VE TEKNİK ANADOLU LİSESİ (IMKB)"
+    },
+    {
+        "ballot_box_number": 1123,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/62896_cb_1093575917_1684082428285584777.jpg",
+            "submission_id": 199990,
+            "total_vote": 342,
+            "votes": {
+                "1": 73,
+                "2": 0,
+                "3": 238,
+                "4": 31
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/11731_mv_1083575917_1684092944752924156.jpg",
+            "submission_id": 463200,
+            "total_vote": 340,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 16,
+                "12": 9,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 146,
+                "22": 81,
+                "23": 0,
+                "24": 24,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 8,
+                "8": 0,
+                "9": 53
+            }
+        },
+        "school_name": "BORSA İSTANBUL MESLEKİ VE TEKNİK ANADOLU LİSESİ (IMKB)"
+    },
+    {
+        "ballot_box_number": 1121,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10072_cb_1093575915_1684090541547212534.jpg",
+            "submission_id": 422365,
+            "total_vote": 322,
+            "votes": {
+                "1": 54,
+                "2": 1,
+                "3": 261,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10072_mv_1083575915_1684090493044071688.jpg",
+            "submission_id": 421201,
+            "total_vote": 315,
+            "votes": {
+                "10": 4,
+                "11": 5,
+                "12": 2,
+                "19": 2,
+                "20": 1,
+                "21": 215,
+                "22": 35,
+                "24": 3,
+                "3": 2,
+                "9": 46
+            }
+        },
+        "school_name": "BORSA İSTANBUL MESLEKİ VE TEKNİK ANADOLU LİSESİ (IMKB)"
+    },
+    {
+        "ballot_box_number": 1126,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/11731_cb_1093575920_1684089726773469899.jpg",
+            "submission_id": 402529,
+            "total_vote": 336,
+            "votes": {
+                "1": 60,
+                "2": 2,
+                "3": 242,
+                "4": 32
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/11731_mv_1083575920_1684089668641089546.jpg",
+            "submission_id": 400925,
+            "total_vote": 334,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 22,
+                "12": 8,
+                "13": 0,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 164,
+                "22": 80,
+                "23": 0,
+                "24": 12,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 5,
+                "8": 0,
+                "9": 35
+            }
+        },
+        "school_name": "BORSA İSTANBUL MESLEKİ VE TEKNİK ANADOLU LİSESİ (IMKB)"
+    },
+    {
+        "ballot_box_number": 1134,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/11731_cb_1093575928_1684086178398749873.jpg",
+            "submission_id": 290735,
+            "total_vote": 327,
+            "votes": {
+                "1": 77,
+                "2": 0,
+                "3": 219,
+                "4": 31
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/11731_mv_1083575928_1684086494948311862.jpg",
+            "submission_id": 301323,
+            "total_vote": 327,
+            "votes": {
+                "10": 7,
+                "11": 13,
+                "12": 8,
+                "19": 2,
+                "21": 157,
+                "22": 57,
+                "24": 19,
+                "4": 1,
+                "6": 2,
+                "7": 1,
+                "8": 3,
+                "9": 57
+            }
+        },
+        "school_name": "BORSA İSTANBUL MESLEKİ VE TEKNİK ANADOLU LİSESİ (IMKB)"
+    },
+    {
+        "ballot_box_number": 1125,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/11731_cb_1093575919_1684088114891614741.jpg",
+            "submission_id": 355644,
+            "total_vote": 338,
+            "votes": {
+                "1": 90,
+                "2": 0,
+                "3": 231,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/11731_mv_1083575919_1684089603031795816.jpg",
+            "submission_id": 399156,
+            "total_vote": 336,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 16,
+                "12": 17,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 153,
+                "22": 61,
+                "24": 10,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 13,
+                "8": 2,
+                "9": 61
+            }
+        },
+        "school_name": "BORSA İSTANBUL MESLEKİ VE TEKNİK ANADOLU LİSESİ (IMKB)"
+    },
+    {
+        "ballot_box_number": 1132,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/11731_cb_1093575926_1684090362154945005.jpg",
+            "submission_id": 418281,
+            "total_vote": 336,
+            "votes": {
+                "1": 61,
+                "3": 260,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10072_mv_1083575926_1684090857392068089.jpg",
+            "submission_id": 428940,
+            "total_vote": 334,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 19,
+                "12": 5,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 188,
+                "22": 70,
+                "23": 0,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 2,
+                "9": 37
+            }
+        },
+        "school_name": "BORSA İSTANBUL MESLEKİ VE TEKNİK ANADOLU LİSESİ (IMKB)"
+    },
+    {
+        "ballot_box_number": 1128,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/11731_cb_1093575922_1684085950721751308.jpg",
+            "submission_id": 283419,
+            "total_vote": 333,
+            "votes": {
+                "1": 62,
+                "2": 1,
+                "3": 243,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/11731_mv_1083579652_1684086328936926126.jpg",
+            "submission_id": 295696,
+            "total_vote": 331,
+            "votes": {
+                "10": 1,
+                "11": 16,
+                "12": 5,
+                "14": 1,
+                "21": 180,
+                "22": 58,
+                "23": 1,
+                "24": 17,
+                "3": 1,
+                "7": 5,
+                "8": 1,
+                "9": 45
+            }
+        },
+        "school_name": "BORSA İSTANBUL MESLEKİ VE TEKNİK ANADOLU LİSESİ (IMKB)"
+    },
+    {
+        "ballot_box_number": 1130,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/11731_cb_1093575924_1684090067838920365.jpg",
+            "submission_id": 411389,
+            "total_vote": 329,
+            "votes": {
+                "1": 70,
+                "2": 0,
+                "3": 222,
+                "4": 37
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/11731_mv_1083575924_1684091529002761728.jpg",
+            "submission_id": 441688,
+            "total_vote": 321,
+            "votes": {
+                "10": 2,
+                "11": 15,
+                "12": 9,
+                "14": 0,
+                "2": 0,
+                "21": 151,
+                "22": 68,
+                "23": 0,
+                "24": 10,
+                "3": 3,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 2,
+                "8": 2,
+                "9": 57
+            }
+        },
+        "school_name": "BORSA İSTANBUL MESLEKİ VE TEKNİK ANADOLU LİSESİ (IMKB)"
+    },
+    {
+        "ballot_box_number": 1131,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/11731_cb_1093575925_1684090233593145867.jpg",
+            "submission_id": 415355,
+            "total_vote": 328,
+            "votes": {
+                "1": 72,
+                "2": 1,
+                "3": 232,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "BORSA İSTANBUL MESLEKİ VE TEKNİK ANADOLU LİSESİ (IMKB)"
+    },
+    {
+        "ballot_box_number": 1129,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/11731_cb_1093575923_1684089899934736856.jpg",
+            "submission_id": 407139,
+            "total_vote": 332,
+            "votes": {
+                "1": 61,
+                "2": 3,
+                "3": 248,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/00edb1eb-8f80-4cf5-9a63-721f9240fc0b-1684105627537862914.jpeg",
+            "submission_id": 669800,
+            "total_vote": 326,
+            "votes": {
+                "1": 1,
+                "10": 5,
+                "11": 16,
+                "12": 8,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 179,
+                "22": 58,
+                "23": 1,
+                "24": 12,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 2,
+                "9": 37
+            }
+        },
+        "school_name": "BORSA İSTANBUL MESLEKİ VE TEKNİK ANADOLU LİSESİ (IMKB)"
+    },
+    {
+        "ballot_box_number": 1122,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10072_cb_1093575916_1684090605512288147.jpg",
+            "submission_id": 423720,
+            "total_vote": 334,
+            "votes": {
+                "1": 66,
+                "2": 0,
+                "3": 252,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/593709d1-9abd-429b-b10e-603fe6868591-1684105489939066986.jpeg",
+            "submission_id": 648406,
+            "total_vote": 323,
+            "votes": {
+                "10": 2,
+                "11": 15,
+                "12": 6,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 187,
+                "22": 50,
+                "23": 0,
+                "24": 12,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 1,
+                "9": 46
+            }
+        },
+        "school_name": "BORSA İSTANBUL MESLEKİ VE TEKNİK ANADOLU LİSESİ (IMKB)"
+    },
+    {
+        "ballot_box_number": 1136,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10072_cb_1093575930_1684094406634548588.jpg",
+            "submission_id": 491618,
+            "total_vote": 340,
+            "votes": {
+                "1": 77,
+                "3": 235,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10072_mv_1083575930_1684099569685107882.jpg",
+            "submission_id": 533520,
+            "total_vote": 336,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 15,
+                "12": 9,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 169,
+                "22": 55,
+                "23": 0,
+                "24": 11,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 8,
+                "8": 3,
+                "9": 59
+            }
+        },
+        "school_name": "BORSA İSTANBUL MESLEKİ VE TEKNİK ANADOLU LİSESİ (IMKB)"
+    }
+]

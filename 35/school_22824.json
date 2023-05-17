@@ -1,0 +1,409 @@
+[
+    {
+        "ballot_box_number": 1503,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/44371_bulk_999999999_1684082173769027673.jpeg",
+            "submission_id": 196732,
+            "total_vote": 320,
+            "votes": {
+                "1": 125,
+                "2": 3,
+                "3": 157,
+                "4": 35
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/44371_bulk_999999999_1684088862127046829.jpeg",
+            "submission_id": 378417,
+            "total_vote": 314,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 22,
+                "12": 36,
+                "13": 10,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 88,
+                "22": 28,
+                "23": 1,
+                "24": 13,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 4,
+                "7": 5,
+                "8": 1,
+                "9": 102
+            }
+        },
+        "school_name": "ŞH.TĞ.MURAT ASLANTÜRK İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1500,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28128_bulk_999999999_1684093377015977473.jpeg",
+            "submission_id": 469132,
+            "total_vote": 317,
+            "votes": {
+                "1": 121,
+                "2": 2,
+                "3": 170,
+                "4": 24
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞH.TĞ.MURAT ASLANTÜRK İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1505,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28128_bulk_999999999_1684093377247619817.jpeg",
+            "submission_id": 469137,
+            "total_vote": 315,
+            "votes": {
+                "1": 97,
+                "2": 0,
+                "3": 190,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28128_bulk_999999999_1684093377161254777.jpeg",
+            "submission_id": 469135,
+            "total_vote": 310,
+            "votes": {
+                "1": 2,
+                "10": 5,
+                "11": 21,
+                "12": 45,
+                "13": 9,
+                "14": 1,
+                "15": 2,
+                "16": 0,
+                "17": 1,
+                "18": 1,
+                "19": 1,
+                "2": 1,
+                "20": 0,
+                "21": 91,
+                "22": 31,
+                "23": 0,
+                "24": 14,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 6,
+                "8": 1,
+                "9": 76
+            }
+        },
+        "school_name": "ŞH.TĞ.MURAT ASLANTÜRK İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1507,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/55496b99-8780-4312-830a-e5f6efb429f8-1684105534664782414.jpeg",
+            "submission_id": 655761,
+            "total_vote": 326,
+            "votes": {
+                "1": 121,
+                "2": 2,
+                "3": 181,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/1ae354ab-bb93-46be-a7f4-d84dc0a9b5a1-1684105531086579066.jpeg",
+            "submission_id": 653385,
+            "total_vote": 323,
+            "votes": {
+                "10": 4,
+                "11": 30,
+                "12": 54,
+                "13": 12,
+                "15": 1,
+                "21": 91,
+                "22": 28,
+                "23": 1,
+                "24": 7,
+                "6": 8,
+                "7": 3,
+                "9": 84
+            }
+        },
+        "school_name": "ŞH.TĞ.MURAT ASLANTÜRK İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1502,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28128_bulk_999999999_1684093377394783785.jpeg",
+            "submission_id": 469141,
+            "total_vote": 303,
+            "votes": {
+                "1": 109,
+                "2": 1,
+                "3": 172,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞH.TĞ.MURAT ASLANTÜRK İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1498,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28128_bulk_999999999_1684093377601875314.jpeg",
+            "submission_id": 469146,
+            "total_vote": 291,
+            "votes": {
+                "1": 107,
+                "2": 4,
+                "3": 156,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28128_bulk_999999999_1684233525226102879.jpeg",
+            "submission_id": 1027655,
+            "total_vote": 287,
+            "votes": {
+                "10": 4,
+                "11": 9,
+                "12": 41,
+                "13": 7,
+                "14": 1,
+                "15": 9,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 83,
+                "22": 27,
+                "23": 0,
+                "24": 9,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 0,
+                "9": 87
+            }
+        },
+        "school_name": "ŞH.TĞ.MURAT ASLANTÜRK İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1508,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28128_bulk_999999999_1684093402961436597.jpeg",
+            "submission_id": 469431,
+            "total_vote": 319,
+            "votes": {
+                "1": 120,
+                "3": 169,
+                "4": 30
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28128_bulk_999999999_1684093403054864285.jpeg",
+            "submission_id": 469432,
+            "total_vote": 317,
+            "votes": {
+                "1": 1,
+                "10": 9,
+                "11": 20,
+                "12": 37,
+                "13": 14,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 97,
+                "22": 28,
+                "23": 0,
+                "24": 19,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 4,
+                "7": 3,
+                "8": 1,
+                "9": 82
+            }
+        },
+        "school_name": "ŞH.TĞ.MURAT ASLANTÜRK İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1501,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/53285_bulk_999999999_1684085666352849083.jpeg",
+            "submission_id": 273917,
+            "total_vote": 320,
+            "votes": {
+                "1": 110,
+                "3": 195,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/53285_bulk_999999999_1684085500260185175.jpeg",
+            "submission_id": 268595,
+            "total_vote": 316,
+            "votes": {
+                "1": 2,
+                "10": 4,
+                "11": 17,
+                "12": 38,
+                "13": 19,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 95,
+                "22": 42,
+                "23": 1,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 2,
+                "8": 1,
+                "9": 81
+            }
+        },
+        "school_name": "ŞH.TĞ.MURAT ASLANTÜRK İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1499,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c9ed58c4-0dab-406c-8af0-8632fe280f0e-1684106196779731716.jpg",
+            "submission_id": 752423,
+            "total_vote": 314,
+            "votes": {
+                "1": 109,
+                "2": 5,
+                "3": 175,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8e1afd34-eee3-43db-98c6-f306f94f1e3f-1684105716921733945.jpeg",
+            "submission_id": 683634,
+            "total_vote": 310,
+            "votes": {
+                "10": 2,
+                "11": 13,
+                "12": 30,
+                "13": 8,
+                "21": 88,
+                "22": 55,
+                "23": 1,
+                "24": 10,
+                "5": 1,
+                "6": 3,
+                "7": 8,
+                "8": 3,
+                "9": 88
+            }
+        },
+        "school_name": "ŞH.TĞ.MURAT ASLANTÜRK İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1506,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3eaa4c31-a421-49e1-951b-9cebadfc8cfa-1684105347052005939.jpeg",
+            "submission_id": 621813,
+            "total_vote": 317,
+            "votes": {
+                "1": 90,
+                "2": 2,
+                "3": 186,
+                "4": 39
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/95271c14-c44c-4f48-a1b5-a6f48e797013-1684105339627142120.jpeg",
+            "submission_id": 620735,
+            "total_vote": 303,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 21,
+                "12": 2,
+                "13": 13,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 105,
+                "22": 63,
+                "23": 1,
+                "24": 15,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 8,
+                "8": 1,
+                "9": 61
+            }
+        },
+        "school_name": "ŞH.TĞ.MURAT ASLANTÜRK İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1504,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/13638213-d7ed-4288-b9c4-40fc293c6ab6-1684105544331889393.jpeg",
+            "submission_id": 657070,
+            "total_vote": 329,
+            "votes": {
+                "1": 116,
+                "2": 1,
+                "3": 193,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8acea83d-356c-435f-bda4-6d6dfe5d5b68-1684105406116848870.jpeg",
+            "submission_id": 633251,
+            "total_vote": 328,
+            "votes": {
+                "10": 5,
+                "11": 16,
+                "12": 31,
+                "13": 11,
+                "15": 1,
+                "21": 105,
+                "22": 47,
+                "24": 10,
+                "7": 5,
+                "8": 1,
+                "9": 96
+            }
+        },
+        "school_name": "ŞH.TĞ.MURAT ASLANTÜRK İLKOKULU B BLOK"
+    }
+]

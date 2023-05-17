@@ -1,0 +1,457 @@
+[
+    {
+        "ballot_box_number": 2130,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/52675_bulk_999999999_1684084685813028466.jpeg",
+            "submission_id": 245497,
+            "total_vote": 339,
+            "votes": {
+                "1": 99,
+                "3": 219,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/52675_bulk_999999999_1684084685854162324.jpeg",
+            "submission_id": 245499,
+            "total_vote": 336,
+            "votes": {
+                "10": 3,
+                "11": 20,
+                "12": 3,
+                "13": 26,
+                "15": 2,
+                "20": 1,
+                "21": 150,
+                "22": 39,
+                "23": 1,
+                "24": 9,
+                "6": 1,
+                "7": 4,
+                "8": 2,
+                "9": 75
+            }
+        },
+        "school_name": "SÜLEYMAN ECZACIBAŞI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2128,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/57299_cb_1093574674_1684086515881168609.jpg",
+            "submission_id": 302088,
+            "total_vote": 333,
+            "votes": {
+                "1": 113,
+                "2": 1,
+                "3": 196,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "SÜLEYMAN ECZACIBAŞI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2124,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/84907_cb_1093574670_1684080317622524027.jpg",
+            "submission_id": 180930,
+            "total_vote": 312,
+            "votes": {
+                "1": 94,
+                "2": 2,
+                "3": 207,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/83177_mv_1083574670_1684085423754582065.jpg",
+            "submission_id": 266371,
+            "total_vote": 298,
+            "votes": {
+                "11": 9,
+                "12": 1,
+                "13": 16,
+                "15": 1,
+                "16": 1,
+                "21": 147,
+                "22": 38,
+                "24": 2,
+                "3": 2,
+                "4": 1,
+                "6": 1,
+                "7": 4,
+                "8": 1,
+                "9": 74
+            }
+        },
+        "school_name": "SÜLEYMAN ECZACIBAŞI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2135,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52675_mv_1083575601_1684084233294501646.jpg",
+            "submission_id": 233797,
+            "total_vote": 338,
+            "votes": {
+                "10": 3,
+                "11": 18,
+                "12": 8,
+                "13": 18,
+                "21": 135,
+                "22": 34,
+                "23": 1,
+                "24": 12,
+                "6": 3,
+                "7": 9,
+                "9": 97
+            }
+        },
+        "school_name": "SÜLEYMAN ECZACIBAŞI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2125,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49233_cb_1093574671_1684077976932014948.jpg",
+            "submission_id": 173839,
+            "total_vote": 325,
+            "votes": {
+                "1": 84,
+                "2": 1,
+                "3": 215,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/83177_mv_1083574671_1684083691010024715.jpg",
+            "submission_id": 221681,
+            "total_vote": 324,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 8,
+                "12": 14,
+                "13": 24,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 2,
+                "21": 149,
+                "22": 39,
+                "23": 2,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 1,
+                "9": 64
+            }
+        },
+        "school_name": "SÜLEYMAN ECZACIBAŞI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2134,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/83177_cb_1093575600_1684086503405783541.jpg",
+            "submission_id": 301604,
+            "total_vote": 347,
+            "votes": {
+                "1": 121,
+                "2": 1,
+                "3": 202,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/83177_mv_1083575600_1684086421469785142.jpg",
+            "submission_id": 298730,
+            "total_vote": 344,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 20,
+                "12": 14,
+                "13": 10,
+                "20": 1,
+                "21": 117,
+                "22": 59,
+                "24": 19,
+                "6": 2,
+                "7": 3,
+                "8": 1,
+                "9": 94
+            }
+        },
+        "school_name": "SÜLEYMAN ECZACIBAŞI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2132,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/83177_mv_1083575598_1684086895170164491.jpg",
+            "submission_id": 315289,
+            "total_vote": 335,
+            "votes": {
+                "1": 99,
+                "2": 2,
+                "3": 222,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20600_bulk_999999999_1684090842515566268.jpg",
+            "submission_id": 428577,
+            "total_vote": 333,
+            "votes": {
+                "10": 2,
+                "11": 15,
+                "12": 16,
+                "13": 22,
+                "15": 1,
+                "20": 1,
+                "21": 146,
+                "22": 34,
+                "23": 1,
+                "24": 7,
+                "3": 1,
+                "7": 6,
+                "8": 1,
+                "9": 80
+            }
+        },
+        "school_name": "SÜLEYMAN ECZACIBAŞI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2136,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52675_cb_1093575602_1684084198229984613.jpg",
+            "submission_id": 232801,
+            "total_vote": 353,
+            "votes": {
+                "1": 112,
+                "2": 0,
+                "3": 219,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52675_mv_1083575602_1684084165225731638.jpg",
+            "submission_id": 231916,
+            "total_vote": 344,
+            "votes": {
+                "10": 5,
+                "11": 20,
+                "12": 8,
+                "13": 16,
+                "21": 133,
+                "22": 45,
+                "23": 1,
+                "24": 12,
+                "3": 3,
+                "6": 2,
+                "7": 11,
+                "8": 1,
+                "9": 87
+            }
+        },
+        "school_name": "SÜLEYMAN ECZACIBAŞI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2131,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/52675_bulk_999999999_1684084685773948768.jpeg",
+            "submission_id": 245496,
+            "total_vote": 337,
+            "votes": {
+                "1": 99,
+                "2": 5,
+                "3": 202,
+                "4": 31
+            }
+        },
+        "mv_result": null,
+        "school_name": "SÜLEYMAN ECZACIBAŞI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2123,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/83177_cb_1093574669_1684085781672643356.jpg",
+            "submission_id": 277807,
+            "total_vote": 310,
+            "votes": {
+                "1": 97,
+                "2": 2,
+                "3": 207,
+                "4": 4
+            }
+        },
+        "mv_result": null,
+        "school_name": "SÜLEYMAN ECZACIBAŞI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2133,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/67294_bulk_999999999_1684084863758107114.jpg",
+            "submission_id": 250276,
+            "total_vote": 334,
+            "votes": {
+                "1": 91,
+                "2": 2,
+                "3": 226,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/67294_bulk_999999999_1684085142806026381.jpg",
+            "submission_id": 258187,
+            "total_vote": 328,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 14,
+                "12": 1,
+                "13": 28,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 148,
+                "22": 48,
+                "23": 0,
+                "24": 15,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 69
+            }
+        },
+        "school_name": "SÜLEYMAN ECZACIBAŞI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2126,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/49233_bulk_999999999_1684084223094788414.jpg",
+            "submission_id": 233487,
+            "total_vote": 354,
+            "votes": {
+                "1": 102,
+                "2": 1,
+                "3": 224,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/83177_mv_1083574672_1684082729811990805.jpg",
+            "submission_id": 204316,
+            "total_vote": 352,
+            "votes": {
+                "1": 1,
+                "11": 15,
+                "12": 16,
+                "13": 21,
+                "15": 2,
+                "20": 1,
+                "21": 148,
+                "22": 36,
+                "23": 1,
+                "24": 15,
+                "3": 1,
+                "7": 7,
+                "8": 1,
+                "9": 87
+            }
+        },
+        "school_name": "SÜLEYMAN ECZACIBAŞI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2127,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/83177_cb_1093574673_1684084869302902404.jpg",
+            "submission_id": 250442,
+            "total_vote": 347,
+            "votes": {
+                "1": 98,
+                "2": 3,
+                "3": 227,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/57299_mv_1083574673_1684085620524872352.jpg",
+            "submission_id": 272425,
+            "total_vote": 341,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 14,
+                "12": 12,
+                "13": 28,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 154,
+                "23": 34,
+                "24": 2,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 3,
+                "7": 7,
+                "8": 3,
+                "9": 77
+            }
+        },
+        "school_name": "SÜLEYMAN ECZACIBAŞI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2129,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52675_cb_1093575595_1684087870999880417.jpg",
+            "submission_id": 347706,
+            "total_vote": 330,
+            "votes": {
+                "1": 76,
+                "2": 0,
+                "3": 242,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52675_mv_1083575595_1684087847251770127.jpg",
+            "submission_id": 347027,
+            "total_vote": 326,
+            "votes": {
+                "1": 1,
+                "11": 8,
+                "12": 14,
+                "13": 31,
+                "20": 3,
+                "21": 157,
+                "22": 29,
+                "24": 13,
+                "3": 1,
+                "6": 3,
+                "7": 3,
+                "9": 63
+            }
+        },
+        "school_name": "SÜLEYMAN ECZACIBAŞI İLKOKULU"
+    }
+]

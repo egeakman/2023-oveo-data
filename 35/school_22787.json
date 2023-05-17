@@ -1,0 +1,178 @@
+[
+    {
+        "ballot_box_number": 1361,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21158_bulk_999999999_1684084436813761206.jpg",
+            "submission_id": 238912,
+            "total_vote": 323,
+            "votes": {
+                "1": 51,
+                "2": 1,
+                "3": 261,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/bf509cf7-9d97-4560-8eb6-3ca967754ac2-1684106394559692413.jpg",
+            "submission_id": 781227,
+            "total_vote": 326,
+            "votes": {
+                "1": 2,
+                "10": 9,
+                "11": 10,
+                "12": 15,
+                "13": 27,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 168,
+                "22": 55,
+                "23": 0,
+                "24": 1,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 0,
+                "9": 35
+            }
+        },
+        "school_name": "DOKUZ EYLÜL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1360,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21448_cb_1093583673_1684089268070744208.jpg",
+            "submission_id": 390059,
+            "total_vote": 314,
+            "votes": {
+                "1": 29,
+                "3": 267,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21448_mv_1083583673_1684089297620801871.jpg",
+            "submission_id": 390845,
+            "total_vote": 312,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 7,
+                "12": 11,
+                "13": 38,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 162,
+                "22": 54,
+                "23": 0,
+                "24": 12,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 0,
+                "9": 18
+            }
+        },
+        "school_name": "DOKUZ EYLÜL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1359,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21448_cb_1093583672_1684087653730024376.jpg",
+            "submission_id": 340874,
+            "total_vote": 303,
+            "votes": {
+                "1": 57,
+                "2": 0,
+                "3": 240,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21448_mv_1083583672_1684087683991659729.jpg",
+            "submission_id": 341870,
+            "total_vote": 298,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 9,
+                "12": 4,
+                "13": 12,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 170,
+                "22": 41,
+                "23": 2,
+                "24": 7,
+                "3": 3,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 0,
+                "8": 0,
+                "9": 46
+            }
+        },
+        "school_name": "DOKUZ EYLÜL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1362,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/29361_bulk_999999999_1684091992785142146.jpeg",
+            "submission_id": 449160,
+            "total_vote": 312,
+            "votes": {
+                "1": 45,
+                "3": 254,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21448_mv_1083584295_1684089982702105293.jpg",
+            "submission_id": 409290,
+            "total_vote": 310,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 6,
+                "12": 11,
+                "13": 35,
+                "14": 0,
+                "15": 0,
+                "2": 0,
+                "21": 154,
+                "22": 48,
+                "24": 11,
+                "3": 3,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 2,
+                "8": 0,
+                "9": 37
+            }
+        },
+        "school_name": "DOKUZ EYLÜL İLKOKULU"
+    }
+]

@@ -1,0 +1,809 @@
+[
+    {
+        "ballot_box_number": 2378,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/17201_bulk_999999999_1684093714177683868.jpeg",
+            "submission_id": 473213,
+            "total_vote": 314,
+            "votes": {
+                "1": 79,
+                "2": 0,
+                "3": 224,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17188_mv_1083791984_1684095405426961798.jpg",
+            "submission_id": 502726,
+            "total_vote": 310,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 18,
+                "12": 61,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 137,
+                "22": 27,
+                "23": 0,
+                "24": 2,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 4,
+                "7": 6,
+                "8": 0,
+                "9": 52
+            }
+        },
+        "school_name": "AYBERS HİKMET KARABACAK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2371,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12703_cb_1093791977_1684087383971625711.jpg",
+            "submission_id": 332164,
+            "total_vote": 317,
+            "votes": {
+                "1": 57,
+                "2": 0,
+                "3": 243,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/31466_bulk_999999999_1684090953822676580.jpg",
+            "submission_id": 431004,
+            "total_vote": 266,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 8,
+                "12": 0,
+                "13": 0,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 162,
+                "22": 29,
+                "23": 0,
+                "24": 10,
+                "3": 3,
+                "4": 0,
+                "5": 2,
+                "6": 0,
+                "7": 5,
+                "8": 0,
+                "9": 42
+            }
+        },
+        "school_name": "AYBERS HİKMET KARABACAK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2376,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/13523_cb_1093791982_1684087319081599632.jpg",
+            "submission_id": 330019,
+            "total_vote": 314,
+            "votes": {
+                "1": 65,
+                "2": 0,
+                "3": 235,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/13523_mv_1083791982_1684087367773399279.jpg",
+            "submission_id": 331626,
+            "total_vote": 309,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 8,
+                "12": 44,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 146,
+                "22": 29,
+                "23": 0,
+                "24": 13,
+                "3": 2,
+                "4": 0,
+                "5": 3,
+                "6": 0,
+                "7": 4,
+                "8": 1,
+                "9": 51
+            }
+        },
+        "school_name": "AYBERS HİKMET KARABACAK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2379,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/17201_bulk_999999999_1684092498842735438.jpeg",
+            "submission_id": 457224,
+            "total_vote": 330,
+            "votes": {
+                "1": 72,
+                "3": 243,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17188_mv_1083791985_1684093415553661044.jpg",
+            "submission_id": 469565,
+            "total_vote": 322,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 13,
+                "12": 48,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "20": 1,
+                "21": 149,
+                "22": 36,
+                "23": 0,
+                "24": 12,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 1,
+                "9": 52
+            }
+        },
+        "school_name": "AYBERS HİKMET KARABACAK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2368,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/33627_bulk_999999999_1684086503523412283.jpg",
+            "submission_id": 301614,
+            "total_vote": 313,
+            "votes": {
+                "1": 59,
+                "2": 2,
+                "3": 238,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/33627_bulk_999999999_1684092317028736386.jpeg",
+            "submission_id": 454364,
+            "total_vote": 310,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 10,
+                "12": 64,
+                "21": 143,
+                "22": 30,
+                "24": 6,
+                "4": 1,
+                "5": 1,
+                "7": 4,
+                "9": 49
+            }
+        },
+        "school_name": "AYBERS HİKMET KARABACAK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2365,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22947_cb_1093791791_1684084012431679203.jpg",
+            "submission_id": 228391,
+            "total_vote": 321,
+            "votes": {
+                "1": 73,
+                "3": 239,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/17201_bulk_999999999_1684092713048408478.jpeg",
+            "submission_id": 460032,
+            "total_vote": 312,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 8,
+                "12": 48,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 146,
+                "22": 34,
+                "23": 0,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 2,
+                "8": 0,
+                "9": 59
+            }
+        },
+        "school_name": "AYBERS HİKMET KARABACAK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2375,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31127_cb_1093791981_1684086744581264442.jpg",
+            "submission_id": 310144,
+            "total_vote": 316,
+            "votes": {
+                "1": 69,
+                "2": 1,
+                "3": 235,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31127_mv_1083791981_1684086682672816878.jpg",
+            "submission_id": 307853,
+            "total_vote": 312,
+            "votes": {
+                "10": 3,
+                "11": 11,
+                "12": 46,
+                "15": 1,
+                "16": 1,
+                "21": 153,
+                "22": 22,
+                "23": 1,
+                "24": 10,
+                "3": 2,
+                "6": 3,
+                "7": 7,
+                "9": 52
+            }
+        },
+        "school_name": "AYBERS HİKMET KARABACAK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2381,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17301_cb_1093791987_1684087310486813094.jpg",
+            "submission_id": 329723,
+            "total_vote": 321,
+            "votes": {
+                "1": 70,
+                "2": 0,
+                "3": 235,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/17188_bulk_999999999_1684095809920621729.jpg",
+            "submission_id": 506936,
+            "total_vote": 321,
+            "votes": {
+                "11": 2,
+                "12": 47,
+                "21": 157,
+                "22": 32,
+                "23": 1,
+                "24": 9,
+                "3": 3,
+                "5": 1,
+                "6": 2,
+                "7": 4,
+                "8": 2,
+                "9": 61
+            }
+        },
+        "school_name": "AYBERS HİKMET KARABACAK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2366,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12703_cb_1093791792_1684085078778557398.jpg",
+            "submission_id": 256373,
+            "total_vote": 317,
+            "votes": {
+                "1": 62,
+                "2": 1,
+                "3": 243,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12703_mv_1083791792_1684085035869091562.jpg",
+            "submission_id": 255180,
+            "total_vote": 312,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 15,
+                "12": 67,
+                "14": 1,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 139,
+                "22": 31,
+                "23": 2,
+                "24": 6,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 7,
+                "8": 0,
+                "9": 40
+            }
+        },
+        "school_name": "AYBERS HİKMET KARABACAK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2363,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/17201_bulk_999999999_1684086123645202383.jpeg",
+            "submission_id": 288979,
+            "total_vote": 327,
+            "votes": {
+                "1": 74,
+                "2": 1,
+                "3": 243,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17201_mv_1083791789_1684093319406948362.jpg",
+            "submission_id": 468409,
+            "total_vote": 318,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 3,
+                "12": 43,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 167,
+                "22": 28,
+                "23": 1,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 61
+            }
+        },
+        "school_name": "AYBERS HİKMET KARABACAK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2370,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/46078_cb_1093791976_1684090496592806526.jpg",
+            "submission_id": 421288,
+            "total_vote": 323,
+            "votes": {
+                "1": 65,
+                "2": 1,
+                "3": 241,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/437838e6-f225-4997-821b-1d268a146be5-1684105445088306789.jpg",
+            "submission_id": 640610,
+            "total_vote": 321,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 3,
+                "12": 53,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 155,
+                "22": 30,
+                "23": 1,
+                "24": 11,
+                "3": 3,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 3,
+                "9": 51
+            }
+        },
+        "school_name": "AYBERS HİKMET KARABACAK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2369,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16950_cb_1093791975_1684084639201017214.jpg",
+            "submission_id": 244188,
+            "total_vote": 304,
+            "votes": {
+                "1": 54,
+                "2": 2,
+                "3": 234,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16950_mv_1083791975_1684085760120751466.jpg",
+            "submission_id": 277094,
+            "total_vote": 302,
+            "votes": {
+                "10": 2,
+                "11": 10,
+                "12": 53,
+                "19": 1,
+                "20": 1,
+                "21": 143,
+                "22": 33,
+                "23": 1,
+                "24": 7,
+                "5": 1,
+                "6": 2,
+                "7": 5,
+                "9": 43
+            }
+        },
+        "school_name": "AYBERS HİKMET KARABACAK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2373,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12703_cb_1093791979_1684087469365615810.jpg",
+            "submission_id": 334885,
+            "total_vote": 334,
+            "votes": {
+                "1": 58,
+                "2": 1,
+                "3": 259,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12703_mv_1083791979_1684087496264582555.jpg",
+            "submission_id": 335769,
+            "total_vote": 328,
+            "votes": {
+                "10": 2,
+                "11": 8,
+                "12": 49,
+                "2": 1,
+                "20": 1,
+                "21": 161,
+                "22": 34,
+                "24": 12,
+                "3": 2,
+                "6": 4,
+                "7": 3,
+                "9": 51
+            }
+        },
+        "school_name": "AYBERS HİKMET KARABACAK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2380,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/31466_bulk_999999999_1684091099509740224.jpg",
+            "submission_id": 433879,
+            "total_vote": 330,
+            "votes": {
+                "1": 70,
+                "3": 251,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/31466_bulk_999999999_1684091099356294716.jpg",
+            "submission_id": 433876,
+            "total_vote": 327,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 12,
+                "12": 55,
+                "15": 1,
+                "21": 160,
+                "22": 31,
+                "23": 1,
+                "24": 8,
+                "3": 3,
+                "7": 2,
+                "8": 1,
+                "9": 51
+            }
+        },
+        "school_name": "AYBERS HİKMET KARABACAK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2361,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/35674_cb_1093791787_1684084514319889929.jpg",
+            "submission_id": 240854,
+            "total_vote": 315,
+            "votes": {
+                "1": 71,
+                "3": 239,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/35674_mv_1083791787_1684084624466366200.jpg",
+            "submission_id": 243778,
+            "total_vote": 305,
+            "votes": {
+                "11": 4,
+                "12": 67,
+                "14": 1,
+                "21": 160,
+                "22": 11,
+                "5": 1,
+                "6": 1,
+                "8": 1,
+                "9": 59
+            }
+        },
+        "school_name": "AYBERS HİKMET KARABACAK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2374,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/18825_bulk_999999999_1684086947732441411.jpeg",
+            "submission_id": 317158,
+            "total_vote": 335,
+            "votes": {
+                "1": 88,
+                "2": 1,
+                "3": 227,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/18825_bulk_999999999_1684086947523570534.jpeg",
+            "submission_id": 317153,
+            "total_vote": 329,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 17,
+                "12": 66,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 120,
+                "22": 34,
+                "23": 1,
+                "24": 14,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 0,
+                "9": 69
+            }
+        },
+        "school_name": "AYBERS HİKMET KARABACAK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2372,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17188_cb_1093791978_1684091309007915247.jpg",
+            "submission_id": 437903,
+            "total_vote": 310,
+            "votes": {
+                "1": 48,
+                "3": 249,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17188_mv_1083791978_1684092831184507646.jpg",
+            "submission_id": 461749,
+            "total_vote": 307,
+            "votes": {
+                "10": 4,
+                "11": 6,
+                "12": 77,
+                "21": 132,
+                "22": 38,
+                "24": 7,
+                "3": 1,
+                "4": 1,
+                "6": 3,
+                "7": 4,
+                "9": 34
+            }
+        },
+        "school_name": "AYBERS HİKMET KARABACAK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2364,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17188_cb_1093791790_1684093167368696577.jpg",
+            "submission_id": 466328,
+            "total_vote": 317,
+            "votes": {
+                "1": 84,
+                "2": 0,
+                "3": 219,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17188_mv_1083791790_1684093201493041148.jpg",
+            "submission_id": 466821,
+            "total_vote": 310,
+            "votes": {
+                "10": 2,
+                "11": 15,
+                "12": 47,
+                "14": 0,
+                "15": 0,
+                "20": 0,
+                "21": 144,
+                "22": 30,
+                "23": 0,
+                "24": 11,
+                "6": 1,
+                "7": 4,
+                "8": 2,
+                "9": 54
+            }
+        },
+        "school_name": "AYBERS HİKMET KARABACAK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2367,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12703_cb_1093791793_1684086973211950004.jpg",
+            "submission_id": 318040,
+            "total_vote": 311,
+            "votes": {
+                "1": 57,
+                "2": 1,
+                "3": 239,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12703_mv_1083791793_1684087123985755495.jpg",
+            "submission_id": 323403,
+            "total_vote": 309,
+            "votes": {
+                "11": 6,
+                "12": 52,
+                "14": 1,
+                "21": 141,
+                "22": 36,
+                "23": 8,
+                "5": 2,
+                "6": 1,
+                "7": 7,
+                "8": 1,
+                "9": 54
+            }
+        },
+        "school_name": "AYBERS HİKMET KARABACAK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2377,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/13476_bulk_999999999_1684086401714337605.jpeg",
+            "submission_id": 298104,
+            "total_vote": 334,
+            "votes": {
+                "1": 58,
+                "2": 1,
+                "3": 261,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/13476_bulk_999999999_1684086429289017218.jpeg",
+            "submission_id": 299014,
+            "total_vote": 331,
+            "votes": {
+                "10": 1,
+                "11": 5,
+                "12": 46,
+                "18": 1,
+                "20": 2,
+                "21": 170,
+                "22": 43,
+                "24": 4,
+                "4": 1,
+                "6": 2,
+                "7": 7,
+                "9": 49
+            }
+        },
+        "school_name": "AYBERS HİKMET KARABACAK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2362,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/33889_bulk_999999999_1684084418641339458.jpg",
+            "submission_id": 238490,
+            "total_vote": 322,
+            "votes": {
+                "1": 76,
+                "2": 1,
+                "3": 240,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/33889_bulk_999999999_1684084479159123474.jpg",
+            "submission_id": 239991,
+            "total_vote": 310,
+            "votes": {
+                "10": 2,
+                "11": 8,
+                "12": 38,
+                "21": 178,
+                "22": 9,
+                "23": 1,
+                "24": 4,
+                "3": 2,
+                "4": 2,
+                "5": 2,
+                "7": 3,
+                "9": 61
+            }
+        },
+        "school_name": "AYBERS HİKMET KARABACAK ANADOLU LİSESİ"
+    }
+]

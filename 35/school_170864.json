@@ -1,0 +1,167 @@
+[
+    {
+        "ballot_box_number": 1292,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/511a59ce-8ec3-4988-8be8-517e2aa79c70-1684105461230846545.jpeg",
+            "submission_id": 643322,
+            "total_vote": 330,
+            "votes": {
+                "1": 117,
+                "2": 0,
+                "3": 178,
+                "4": 35
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5b1b33c6-e083-40a3-955c-ad05578744ed-1684105468353742629.jpeg",
+            "submission_id": 644815,
+            "total_vote": 316,
+            "votes": {
+                "10": 5,
+                "11": 35,
+                "12": 17,
+                "13": 6,
+                "2": 1,
+                "21": 90,
+                "22": 51,
+                "24": 22,
+                "6": 5,
+                "7": 8,
+                "8": 2,
+                "9": 74
+            }
+        },
+        "school_name": "MENEMEN HALK EĞİTİM MERKEZİ"
+    },
+    {
+        "ballot_box_number": 1289,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/aff07111-36c4-4ea9-a638-97f5971cf454-1684105623442147320.jpeg",
+            "submission_id": 668940,
+            "total_vote": 340,
+            "votes": {
+                "1": 97,
+                "3": 213,
+                "4": 30
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ce2cac54-673d-4d3f-9ce6-3c75909f4140-1684105607107975058.jpeg",
+            "submission_id": 666290,
+            "total_vote": 338,
+            "votes": {
+                "10": 1,
+                "11": 21,
+                "12": 26,
+                "13": 17,
+                "14": 1,
+                "19": 1,
+                "21": 115,
+                "22": 62,
+                "23": 2,
+                "24": 7,
+                "7": 7,
+                "9": 78
+            }
+        },
+        "school_name": "MENEMEN HALK EĞİTİM MERKEZİ"
+    },
+    {
+        "ballot_box_number": 1294,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "MENEMEN HALK EĞİTİM MERKEZİ"
+    },
+    {
+        "ballot_box_number": 1288,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21754_bulk_999999999_1684086723264066137.jpeg",
+            "submission_id": 309337,
+            "total_vote": 323,
+            "votes": {
+                "1": 112,
+                "2": 1,
+                "3": 198,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7c758da8-01bf-43b6-98cd-75e84243c554-1684105587738298545.jpeg",
+            "submission_id": 663242,
+            "total_vote": 313,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 25,
+                "12": 17,
+                "13": 12,
+                "14": 8,
+                "15": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 105,
+                "22": 54,
+                "23": 3,
+                "24": 1,
+                "3": 0,
+                "5": 0,
+                "6": 4,
+                "7": 1,
+                "8": 0,
+                "9": 79
+            }
+        },
+        "school_name": "MENEMEN HALK EĞİTİM MERKEZİ"
+    },
+    {
+        "ballot_box_number": 1290,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/6ccbe077-cbc6-45e6-b24e-fbdb2a48bc1e-1684105667451031074.jpeg",
+            "submission_id": 676443,
+            "total_vote": 327,
+            "votes": {
+                "1": 104,
+                "2": 6,
+                "3": 194,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "MENEMEN HALK EĞİTİM MERKEZİ"
+    },
+    {
+        "ballot_box_number": 1291,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d2b4b5e5-57d2-41af-b3e4-a7e9f18f7dc6-1684105704872040064.jpeg",
+            "submission_id": 682394,
+            "total_vote": 330,
+            "votes": {
+                "1": 116,
+                "2": 4,
+                "3": 187,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "MENEMEN HALK EĞİTİM MERKEZİ"
+    },
+    {
+        "ballot_box_number": 1293,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/1d2c32c2-1f77-42af-bc5f-e5ade08833b6-1684105554292704078.jpeg",
+            "submission_id": 658001,
+            "total_vote": 317,
+            "votes": {
+                "1": 97,
+                "2": 2,
+                "3": 199,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "MENEMEN HALK EĞİTİM MERKEZİ"
+    }
+]

@@ -1,0 +1,749 @@
+[
+    {
+        "ballot_box_number": 2175,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20634_cb_1093864629_1684085113266789791.jpg",
+            "submission_id": 257314,
+            "total_vote": 329,
+            "votes": {
+                "1": 30,
+                "2": 0,
+                "3": 287,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16359_mv_1083864629_1684088888785042553.jpg",
+            "submission_id": 379192,
+            "total_vote": 328,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 8,
+                "12": 12,
+                "13": 29,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 196,
+                "23": 51,
+                "24": 9,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 0,
+                "9": 21
+            }
+        },
+        "school_name": "ALİ KAYA ORTAOKULU."
+    },
+    {
+        "ballot_box_number": 2164,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19508_cb_1093864618_1684085649271054223.jpg",
+            "submission_id": 273378,
+            "total_vote": 362,
+            "votes": {
+                "1": 51,
+                "2": 1,
+                "3": 301,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16359_mv_1083864618_1684088417122223518.jpg",
+            "submission_id": 364967,
+            "total_vote": 359,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 10,
+                "12": 21,
+                "13": 36,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 204,
+                "22": 36,
+                "23": 0,
+                "24": 6,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 1,
+                "8": 0,
+                "9": 41
+            }
+        },
+        "school_name": "ALİ KAYA ORTAOKULU."
+    },
+    {
+        "ballot_box_number": 2171,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19508_cb_1093864625_1684080000566259877.jpg",
+            "submission_id": 179294,
+            "total_vote": 354,
+            "votes": {
+                "1": 52,
+                "3": 284,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19508_mv_1083864625_1684085143165439590.jpg",
+            "submission_id": 258198,
+            "total_vote": 350,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 7,
+                "12": 18,
+                "13": 36,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 199,
+                "22": 30,
+                "23": 1,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 44
+            }
+        },
+        "school_name": "ALİ KAYA ORTAOKULU."
+    },
+    {
+        "ballot_box_number": 2157,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16359_cb_1093864591_1684087124027408505.jpg",
+            "submission_id": 323405,
+            "total_vote": 325,
+            "votes": {
+                "1": 48,
+                "2": 1,
+                "3": 276,
+                "4": 0
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16359_mv_1083864591_1684087221018488900.jpg",
+            "submission_id": 326755,
+            "total_vote": 319,
+            "votes": {
+                "10": 3,
+                "11": 4,
+                "12": 12,
+                "13": 32,
+                "21": 202,
+                "22": 24,
+                "3": 2,
+                "6": 1,
+                "7": 1,
+                "9": 38
+            }
+        },
+        "school_name": "ALİ KAYA ORTAOKULU."
+    },
+    {
+        "ballot_box_number": 2161,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21871_cb_1093864615_1684084291720751595.jpg",
+            "submission_id": 235289,
+            "total_vote": 346,
+            "votes": {
+                "1": 51,
+                "3": 284,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21871_mv_1083864615_1684084761160615020.jpg",
+            "submission_id": 247504,
+            "total_vote": 346,
+            "votes": {
+                "10": 5,
+                "11": 8,
+                "12": 20,
+                "13": 28,
+                "14": 1,
+                "21": 190,
+                "22": 47,
+                "24": 2,
+                "3": 1,
+                "7": 3,
+                "9": 41
+            }
+        },
+        "school_name": "ALİ KAYA ORTAOKULU."
+    },
+    {
+        "ballot_box_number": 2172,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19508_cb_1093864626_1684084625074030219.jpg",
+            "submission_id": 243802,
+            "total_vote": 354,
+            "votes": {
+                "1": 70,
+                "2": 3,
+                "3": 270,
+                "4": 11
+            }
+        },
+        "mv_result": null,
+        "school_name": "ALİ KAYA ORTAOKULU."
+    },
+    {
+        "ballot_box_number": 2163,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16358_cb_1093864617_1684079916071674602.jpg",
+            "submission_id": 178908,
+            "total_vote": 353,
+            "votes": {
+                "1": 41,
+                "2": 1,
+                "3": 299,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "ALİ KAYA ORTAOKULU."
+    },
+    {
+        "ballot_box_number": 2176,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20635_cb_1093864630_1684084766562786721.jpg",
+            "submission_id": 247670,
+            "total_vote": 361,
+            "votes": {
+                "1": 59,
+                "2": 1,
+                "3": 282,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20635_mv_1083864630_1684084806825990110.jpg",
+            "submission_id": 248700,
+            "total_vote": 360,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 10,
+                "12": 12,
+                "13": 20,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 5,
+                "19": 0,
+                "2": 0,
+                "20": 2,
+                "21": 199,
+                "22": 50,
+                "23": 0,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 6,
+                "6": 0,
+                "7": 1,
+                "8": 1,
+                "9": 46
+            }
+        },
+        "school_name": "ALİ KAYA ORTAOKULU."
+    },
+    {
+        "ballot_box_number": 2165,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/16360_bulk_999999999_1684093158501700749.jpeg",
+            "submission_id": 466159,
+            "total_vote": 347,
+            "votes": {
+                "1": 45,
+                "2": 0,
+                "3": 291,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/53f2826a-7fc5-4a96-855a-ae3c577b9f7f-1684105948745314922.jpeg",
+            "submission_id": 718033,
+            "total_vote": 345,
+            "votes": {
+                "10": 2,
+                "11": 15,
+                "12": 23,
+                "13": 47,
+                "19": 1,
+                "21": 183,
+                "22": 30,
+                "24": 4,
+                "3": 2,
+                "7": 5,
+                "8": 2,
+                "9": 31
+            }
+        },
+        "school_name": "ALİ KAYA ORTAOKULU."
+    },
+    {
+        "ballot_box_number": 2156,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32433_cb_1093864590_1684086708885691423.jpg",
+            "submission_id": 308833,
+            "total_vote": 342,
+            "votes": {
+                "1": 37,
+                "3": 298,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/32433_mv_1083864590_1684086742913404171.jpg",
+            "submission_id": 310086,
+            "total_vote": 339,
+            "votes": {
+                "1": 1,
+                "11": 4,
+                "12": 15,
+                "13": 16,
+                "19": 1,
+                "20": 1,
+                "21": 231,
+                "22": 30,
+                "24": 7,
+                "3": 1,
+                "7": 1,
+                "9": 31
+            }
+        },
+        "school_name": "ALİ KAYA ORTAOKULU."
+    },
+    {
+        "ballot_box_number": 2166,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19508_cb_1093864620_1684085255912559682.jpg",
+            "submission_id": 261476,
+            "total_vote": 349,
+            "votes": {
+                "1": 31,
+                "2": 1,
+                "3": 308,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19508_mv_1083864620_1684085304730297489.jpg",
+            "submission_id": 262901,
+            "total_vote": 348,
+            "votes": {
+                "10": 2,
+                "11": 2,
+                "12": 8,
+                "13": 28,
+                "20": 1,
+                "21": 225,
+                "22": 49,
+                "24": 4,
+                "5": 1,
+                "6": 1,
+                "7": 3,
+                "8": 5,
+                "9": 19
+            }
+        },
+        "school_name": "ALİ KAYA ORTAOKULU."
+    },
+    {
+        "ballot_box_number": 2174,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19505_mv_1083864628_1684084793777857139.jpg",
+            "submission_id": 248366,
+            "total_vote": 348,
+            "votes": {
+                "1": 48,
+                "3": 287,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/171a559a-cb35-477c-b767-3c576661af73-1684106197278677833.jpeg",
+            "submission_id": 752410,
+            "total_vote": 348,
+            "votes": {
+                "11": 11,
+                "12": 25,
+                "13": 28,
+                "20": 1,
+                "21": 184,
+                "22": 44,
+                "24": 9,
+                "3": 1,
+                "7": 4,
+                "8": 2,
+                "9": 39
+            }
+        },
+        "school_name": "ALİ KAYA ORTAOKULU."
+    },
+    {
+        "ballot_box_number": 2177,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49878_cb_1093864631_1684088696013272945.jpg",
+            "submission_id": 373585,
+            "total_vote": 360,
+            "votes": {
+                "1": 46,
+                "2": 1,
+                "3": 302,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21653_mv_1083864631_1684089086397970959.jpg",
+            "submission_id": 384999,
+            "total_vote": 360,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 7,
+                "12": 18,
+                "13": 29,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 203,
+                "22": 52,
+                "23": 0,
+                "24": 9,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 0,
+                "9": 34
+            }
+        },
+        "school_name": "ALİ KAYA ORTAOKULU."
+    },
+    {
+        "ballot_box_number": 2169,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20635_cb_1093864623_1684085975328783715.jpg",
+            "submission_id": 284207,
+            "total_vote": 355,
+            "votes": {
+                "1": 22,
+                "2": 0,
+                "3": 324,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20635_mv_1083864623_1684086020856710077.jpg",
+            "submission_id": 285615,
+            "total_vote": 355,
+            "votes": {
+                "11": 2,
+                "12": 17,
+                "13": 30,
+                "14": 1,
+                "19": 1,
+                "21": 236,
+                "22": 45,
+                "24": 3,
+                "7": 1,
+                "8": 1,
+                "9": 18
+            }
+        },
+        "school_name": "ALİ KAYA ORTAOKULU."
+    },
+    {
+        "ballot_box_number": 2173,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19505_cb_1093864627_1684084517579026610.jpg",
+            "submission_id": 240921,
+            "total_vote": 351,
+            "votes": {
+                "1": 36,
+                "2": 0,
+                "3": 298,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19508_mv_1083864627_1684084792031954462.jpg",
+            "submission_id": 248315,
+            "total_vote": 352,
+            "votes": {
+                "10": 5,
+                "11": 2,
+                "12": 23,
+                "13": 32,
+                "19": 2,
+                "21": 201,
+                "22": 41,
+                "23": 2,
+                "24": 11,
+                "6": 2,
+                "9": 31
+            }
+        },
+        "school_name": "ALİ KAYA ORTAOKULU."
+    },
+    {
+        "ballot_box_number": 2159,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16359_cb_1093864593_1684083714789622889.jpg",
+            "submission_id": 222179,
+            "total_vote": 355,
+            "votes": {
+                "1": 50,
+                "2": 0,
+                "3": 286,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16359_mv_1083864593_1684083783167630266.jpg",
+            "submission_id": 223655,
+            "total_vote": 356,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 5,
+                "12": 24,
+                "13": 47,
+                "14": 1,
+                "15": 4,
+                "16": 4,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 172,
+                "22": 50,
+                "23": 1,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 0,
+                "8": 0,
+                "9": 36
+            }
+        },
+        "school_name": "ALİ KAYA ORTAOKULU."
+    },
+    {
+        "ballot_box_number": 2162,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20635_cb_1093864616_1684082441784499444.jpg",
+            "submission_id": 200189,
+            "total_vote": 362,
+            "votes": {
+                "1": 45,
+                "3": 304,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20635_mv_1083864616_1684083979172417707.jpg",
+            "submission_id": 227638,
+            "total_vote": 362,
+            "votes": {
+                "11": 5,
+                "12": 18,
+                "13": 34,
+                "19": 4,
+                "21": 193,
+                "22": 56,
+                "24": 9,
+                "3": 1,
+                "5": 1,
+                "7": 2,
+                "9": 39
+            }
+        },
+        "school_name": "ALİ KAYA ORTAOKULU."
+    },
+    {
+        "ballot_box_number": 2168,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21653_cb_1093864622_1684088531495644014.jpg",
+            "submission_id": 368501,
+            "total_vote": 355,
+            "votes": {
+                "1": 33,
+                "2": 3,
+                "3": 312,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16359_mv_1083864622_1684088650315086778.jpg",
+            "submission_id": 372200,
+            "total_vote": 355,
+            "votes": {
+                "10": 1,
+                "11": 7,
+                "12": 9,
+                "13": 43,
+                "18": 3,
+                "20": 1,
+                "21": 217,
+                "22": 39,
+                "24": 8,
+                "7": 6,
+                "9": 21
+            }
+        },
+        "school_name": "ALİ KAYA ORTAOKULU."
+    },
+    {
+        "ballot_box_number": 2158,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21871_cb_1093864592_1684084349016592718.jpg",
+            "submission_id": 236714,
+            "total_vote": 349,
+            "votes": {
+                "1": 38,
+                "2": 2,
+                "3": 304,
+                "4": 5
+            }
+        },
+        "mv_result": null,
+        "school_name": "ALİ KAYA ORTAOKULU."
+    },
+    {
+        "ballot_box_number": 2160,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49903_cb_1093864594_1684079620017246883.jpg",
+            "submission_id": 177680,
+            "total_vote": 347,
+            "votes": {
+                "1": 43,
+                "2": 0,
+                "3": 299,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49903_mv_1083864594_1684083368461892443.jpg",
+            "submission_id": 215276,
+            "total_vote": 346,
+            "votes": {
+                "10": 1,
+                "11": 3,
+                "12": 7,
+                "13": 34,
+                "16": 1,
+                "19": 1,
+                "21": 227,
+                "22": 34,
+                "24": 2,
+                "7": 1,
+                "8": 1,
+                "9": 34
+            }
+        },
+        "school_name": "ALİ KAYA ORTAOKULU."
+    },
+    {
+        "ballot_box_number": 2170,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19508_cb_1093864624_1684085032621140105.jpg",
+            "submission_id": 255083,
+            "total_vote": 346,
+            "votes": {
+                "1": 47,
+                "2": 0,
+                "3": 281,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19508_mv_1083864624_1684085092361992998.jpg",
+            "submission_id": 256762,
+            "total_vote": 344,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 6,
+                "12": 22,
+                "13": 23,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 210,
+                "22": 32,
+                "23": 1,
+                "24": 8,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 37
+            }
+        },
+        "school_name": "ALİ KAYA ORTAOKULU."
+    },
+    {
+        "ballot_box_number": 2167,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20633_cb_1093864621_1684079820014782828.jpg",
+            "submission_id": 178483,
+            "total_vote": 363,
+            "votes": {
+                "1": 48,
+                "2": 1,
+                "3": 300,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "ALİ KAYA ORTAOKULU."
+    }
+]

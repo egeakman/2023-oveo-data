@@ -1,0 +1,446 @@
+[
+    {
+        "ballot_box_number": 2336,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2461b53b-d0df-4f5f-af08-45d8edb060b7-1684105734955265742.jpg",
+            "submission_id": 686635,
+            "total_vote": 328,
+            "votes": {
+                "1": 104,
+                "2": 1,
+                "3": 207,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "KONAK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2330,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "KONAK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2324,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4a1b0d6f-e905-4676-ac5e-04ff02281819-1684106549608576414.jpeg",
+            "submission_id": 804510,
+            "total_vote": 292,
+            "votes": {
+                "10": 1,
+                "11": 6,
+                "12": 42,
+                "21": 97,
+                "22": 34,
+                "23": 2,
+                "24": 6,
+                "5": 1,
+                "6": 6,
+                "7": 6,
+                "8": 1,
+                "9": 90
+            }
+        },
+        "school_name": "KONAK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2332,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/51755_cb_1093800886_1684089231892168540.jpg",
+            "submission_id": 389011,
+            "total_vote": 332,
+            "votes": {
+                "1": 107,
+                "2": 2,
+                "3": 205,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17177_mv_1083800882_1684086803003565723.jpg",
+            "submission_id": 312144,
+            "total_vote": 328,
+            "votes": {
+                "10": 2,
+                "11": 11,
+                "12": 60,
+                "19": 1,
+                "21": 102,
+                "22": 41,
+                "23": 3,
+                "24": 13,
+                "6": 1,
+                "7": 9,
+                "8": 2,
+                "9": 83
+            }
+        },
+        "school_name": "KONAK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2322,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/17177_bulk_999999999_1684089086312433466.jpg",
+            "submission_id": 385001,
+            "total_vote": 306,
+            "votes": {
+                "1": 92,
+                "2": 1,
+                "3": 207,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3f9b0d3e-ccfd-45ae-baf2-a852ec8c53dd-1684106141134668354.jpg",
+            "submission_id": 744681,
+            "total_vote": 300,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 13,
+                "12": 43,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 5,
+                "2": 0,
+                "20": 0,
+                "21": 118,
+                "22": 34,
+                "23": 1,
+                "24": 2,
+                "3": 3,
+                "4": 1,
+                "5": 1,
+                "6": 3,
+                "7": 2,
+                "8": 2,
+                "9": 71
+            }
+        },
+        "school_name": "KONAK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2334,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "KONAK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2327,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17177_cb_1093800881_1684081941198333836.jpg",
+            "submission_id": 193938,
+            "total_vote": 312,
+            "votes": {
+                "1": 94,
+                "2": 2,
+                "3": 199,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25753_mv_1083800881_1684089591286459961.jpg",
+            "submission_id": 398853,
+            "total_vote": 311,
+            "votes": {
+                "1": 2,
+                "10": 2,
+                "11": 12,
+                "12": 38,
+                "14": 1,
+                "19": 1,
+                "21": 107,
+                "22": 50,
+                "24": 8,
+                "3": 1,
+                "6": 2,
+                "7": 5,
+                "8": 2,
+                "9": 80
+            }
+        },
+        "school_name": "KONAK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2325,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17177_cb_1093800879_1684088313973947069.jpg",
+            "submission_id": 361747,
+            "total_vote": 312,
+            "votes": {
+                "1": 85,
+                "2": 1,
+                "3": 209,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17177_mv_1083800879_1684088183140951481.jpg",
+            "submission_id": 357774,
+            "total_vote": 310,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 19,
+                "12": 42,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 2,
+                "21": 121,
+                "22": 35,
+                "23": 3,
+                "24": 15,
+                "3": 6,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 0,
+                "8": 0,
+                "9": 62
+            }
+        },
+        "school_name": "KONAK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2328,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17177_cb_1093800882_1684086725136140013.jpg",
+            "submission_id": 309413,
+            "total_vote": 308,
+            "votes": {
+                "1": 107,
+                "2": 0,
+                "3": 187,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "KONAK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2331,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/dd42c2d4-4a10-4f4c-a8c1-b98261702997-1684106114858362784.jpeg",
+            "submission_id": 740731,
+            "total_vote": 314,
+            "votes": {
+                "1": 86,
+                "2": 2,
+                "3": 209,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/581370eb-32a6-4b11-925a-b4b067aac08a-1684106333348814418.jpg",
+            "submission_id": 772638,
+            "total_vote": 308,
+            "votes": {
+                "10": 7,
+                "11": 8,
+                "12": 45,
+                "19": 1,
+                "20": 1,
+                "21": 119,
+                "22": 33,
+                "24": 14,
+                "3": 1,
+                "5": 2,
+                "6": 4,
+                "7": 4,
+                "9": 69
+            }
+        },
+        "school_name": "KONAK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2329,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52143_cb_1093800883_1684090611258987293.jpg",
+            "submission_id": 423832,
+            "total_vote": 327,
+            "votes": {
+                "1": 122,
+                "2": 2,
+                "3": 189,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52143_mv_1083800883_1684090572003244672.jpg",
+            "submission_id": 423075,
+            "total_vote": 319,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 15,
+                "12": 47,
+                "14": 2,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 0,
+                "21": 110,
+                "22": 41,
+                "23": 1,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 2,
+                "8": 1,
+                "9": 87
+            }
+        },
+        "school_name": "KONAK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2335,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/51755_cb_1093800889_1684090151697895614.jpg",
+            "submission_id": 413412,
+            "total_vote": 326,
+            "votes": {
+                "1": 109,
+                "3": 203,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/51755_mv_1083800889_1684090176406641782.jpg",
+            "submission_id": 413989,
+            "total_vote": 324,
+            "votes": {
+                "1": 0,
+                "10": 9,
+                "11": 7,
+                "12": 51,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 98,
+                "22": 43,
+                "23": 0,
+                "24": 7,
+                "3": 1,
+                "4": 2,
+                "5": 0,
+                "6": 6,
+                "7": 13,
+                "8": 3,
+                "9": 83
+            }
+        },
+        "school_name": "KONAK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2333,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/834c37b7-8a2c-46e5-9596-36be1341af55-1684105586782019696.jpg",
+            "submission_id": 663000,
+            "total_vote": 324,
+            "votes": {
+                "1": 99,
+                "2": 1,
+                "3": 208,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "KONAK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2337,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/b050b324-023e-4309-8895-71bef1242811-1684105790936179972.jpg",
+            "submission_id": 695984,
+            "total_vote": 335,
+            "votes": {
+                "1": 115,
+                "2": 2,
+                "3": 200,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "KONAK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2323,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/20f24776-7926-479b-98dd-d04475ffe8b4-1684106033996762744.jpg",
+            "submission_id": 729354,
+            "total_vote": 299,
+            "votes": {
+                "1": 96,
+                "2": 1,
+                "3": 191,
+                "4": 11
+            }
+        },
+        "mv_result": null,
+        "school_name": "KONAK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2326,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17177_cb_1093800880_1684088393767719297.jpg",
+            "submission_id": 364209,
+            "total_vote": 314,
+            "votes": {
+                "1": 101,
+                "3": 206,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17177_mv_1083800880_1684088525643861947.jpg",
+            "submission_id": 368295,
+            "total_vote": 310,
+            "votes": {
+                "1": 1,
+                "10": 5,
+                "11": 7,
+                "12": 54,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 117,
+                "22": 31,
+                "23": 0,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 0,
+                "9": 86
+            }
+        },
+        "school_name": "KONAK ANADOLU LİSESİ"
+    }
+]

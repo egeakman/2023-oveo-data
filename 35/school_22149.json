@@ -1,0 +1,39 @@
+[
+    {
+        "ballot_box_number": 1036,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/38024_bulk_999999999_1684091017380350368.jpg",
+            "submission_id": 432272,
+            "total_vote": 289,
+            "votes": {
+                "1": 76,
+                "2": 2,
+                "3": 204,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/38024_bulk_999999999_1684091055722261539.jpg",
+            "submission_id": 433017,
+            "total_vote": 280,
+            "votes": {
+                "1": 1,
+                "11": 20,
+                "12": 7,
+                "15": 2,
+                "19": 2,
+                "21": 149,
+                "22": 40,
+                "23": 2,
+                "24": 2,
+                "3": 3,
+                "4": 2,
+                "5": 1,
+                "7": 2,
+                "8": 1,
+                "9": 46
+            }
+        },
+        "school_name": "TEPEBOZ KÖY ODASI"
+    }
+]

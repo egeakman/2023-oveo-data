@@ -1,0 +1,48 @@
+[
+    {
+        "ballot_box_number": 1094,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684085194807767245.jpg",
+            "submission_id": 259740,
+            "total_vote": 292,
+            "votes": {
+                "1": 125,
+                "2": 9,
+                "3": 144,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684085194691029071.jpg",
+            "submission_id": 259737,
+            "total_vote": 283,
+            "votes": {
+                "1": 2,
+                "10": 1,
+                "11": 35,
+                "12": 0,
+                "13": 0,
+                "14": 2,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 121,
+                "22": 27,
+                "23": 1,
+                "24": 3,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 2,
+                "9": 80
+            }
+        },
+        "school_name": "EFEMÇUKURU İLKOKULU"
+    }
+]

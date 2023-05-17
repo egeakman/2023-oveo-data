@@ -1,0 +1,537 @@
+[
+    {
+        "ballot_box_number": 1156,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29282_cb_1093578357_1684088139034462508.jpg",
+            "submission_id": 356470,
+            "total_vote": 371,
+            "votes": {
+                "1": 66,
+                "3": 292,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29282_mv_1083578357_1684088220204817618.jpg",
+            "submission_id": 358870,
+            "total_vote": 367,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 6,
+                "12": 15,
+                "13": 25,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 197,
+                "22": 60,
+                "23": 0,
+                "24": 4,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 1,
+                "9": 55
+            }
+        },
+        "school_name": "DR.CAVİT ÖZYEĞİN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1148,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/77580_cb_1093577729_1684084151840915565.jpg",
+            "submission_id": 231567,
+            "total_vote": 342,
+            "votes": {
+                "1": 47,
+                "2": 1,
+                "3": 276,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21062_bulk_999999999_1684093003407274388.jpg",
+            "submission_id": 463952,
+            "total_vote": 339,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 6,
+                "12": 11,
+                "13": 29,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 182,
+                "22": 53,
+                "23": 0,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 38
+            }
+        },
+        "school_name": "DR.CAVİT ÖZYEĞİN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1150,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/77580_cb_1093577731_1684088993934212793.jpg",
+            "submission_id": 382371,
+            "total_vote": 342,
+            "votes": {
+                "1": 71,
+                "2": 1,
+                "3": 261,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/77580_mv_1083577731_1684089074617618182.jpg",
+            "submission_id": 384616,
+            "total_vote": 340,
+            "votes": {
+                "1": 1,
+                "11": 6,
+                "12": 9,
+                "13": 44,
+                "21": 170,
+                "22": 36,
+                "24": 2,
+                "3": 1,
+                "5": 1,
+                "6": 1,
+                "7": 6,
+                "9": 63
+            }
+        },
+        "school_name": "DR.CAVİT ÖZYEĞİN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1151,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/77580_cb_1093577732_1684086584298840002.jpg",
+            "submission_id": 304479,
+            "total_vote": 337,
+            "votes": {
+                "1": 53,
+                "3": 277,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/77580_mv_1083577732_1684086642166029070.jpg",
+            "submission_id": 306509,
+            "total_vote": 334,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 7,
+                "12": 7,
+                "13": 24,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 200,
+                "22": 48,
+                "23": 0,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 3,
+                "9": 37
+            }
+        },
+        "school_name": "DR.CAVİT ÖZYEĞİN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1154,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29282_cb_1093578355_1684087289537635105.jpg",
+            "submission_id": 329045,
+            "total_vote": 344,
+            "votes": {
+                "1": 55,
+                "3": 279,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/77580_mv_1083578355_1684086274361983489.jpg",
+            "submission_id": 293891,
+            "total_vote": 344,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 6,
+                "12": 13,
+                "13": 25,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 8,
+                "21": 195,
+                "22": 45,
+                "24": 0,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 1,
+                "8": 0,
+                "9": 45
+            }
+        },
+        "school_name": "DR.CAVİT ÖZYEĞİN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1143,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29282_cb_1093577724_1684086059108516993.jpg",
+            "submission_id": 286859,
+            "total_vote": 328,
+            "votes": {
+                "1": 48,
+                "3": 277,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29282_mv_1083577724_1684086629446315330.jpg",
+            "submission_id": 306029,
+            "total_vote": 320,
+            "votes": {
+                "11": 2,
+                "12": 8,
+                "13": 11,
+                "15": 2,
+                "19": 1,
+                "20": 1,
+                "21": 215,
+                "22": 31,
+                "23": 1,
+                "24": 5,
+                "5": 1,
+                "6": 1,
+                "8": 1,
+                "9": 40
+            }
+        },
+        "school_name": "DR.CAVİT ÖZYEĞİN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1144,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/77580_cb_1093577725_1684087578695181402.jpg",
+            "submission_id": 338409,
+            "total_vote": 347,
+            "votes": {
+                "1": 48,
+                "2": 2,
+                "3": 287,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/77580_mv_1083577725_1684088782888914559.jpg",
+            "submission_id": 376127,
+            "total_vote": 341,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 8,
+                "12": 12,
+                "13": 24,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 192,
+                "22": 60,
+                "23": 0,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 0,
+                "9": 35
+            }
+        },
+        "school_name": "DR.CAVİT ÖZYEĞİN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1146,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29282_cb_1093577727_1684084902478214639.jpg",
+            "submission_id": 251338,
+            "total_vote": 344,
+            "votes": {
+                "1": 42,
+                "2": 1,
+                "3": 288,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/77580_mv_1083577727_1684084758515840072.jpg",
+            "submission_id": 247433,
+            "total_vote": 342,
+            "votes": {
+                "10": 1,
+                "11": 7,
+                "12": 10,
+                "13": 30,
+                "21": 191,
+                "22": 57,
+                "23": 2,
+                "24": 5,
+                "4": 1,
+                "8": 1,
+                "9": 37
+            }
+        },
+        "school_name": "DR.CAVİT ÖZYEĞİN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1153,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/36003_bulk_999999999_1684084969526914696.jpeg",
+            "submission_id": 253229,
+            "total_vote": 343,
+            "votes": {
+                "1": 61,
+                "2": 1,
+                "3": 269,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21062_bulk_999999999_1684093053183477748.jpg",
+            "submission_id": 464642,
+            "total_vote": 343,
+            "votes": {
+                "10": 5,
+                "11": 6,
+                "12": 8,
+                "13": 21,
+                "19": 1,
+                "21": 193,
+                "22": 47,
+                "24": 10,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 47
+            }
+        },
+        "school_name": "DR.CAVİT ÖZYEĞİN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1145,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29282_cb_1093577726_1684084992267144401.jpg",
+            "submission_id": 253918,
+            "total_vote": 346,
+            "votes": {
+                "1": 32,
+                "2": 1,
+                "3": 298,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29282_mv_1083577726_1684087784160385378.jpg",
+            "submission_id": 345085,
+            "total_vote": 344,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 8,
+                "12": 14,
+                "13": 41,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 183,
+                "22": 57,
+                "23": 0,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 6,
+                "8": 1,
+                "9": 27
+            }
+        },
+        "school_name": "DR.CAVİT ÖZYEĞİN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1147,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/77580_cb_1093577728_1684082522782000644.jpg",
+            "submission_id": 201291,
+            "total_vote": 354,
+            "votes": {
+                "1": 54,
+                "2": 1,
+                "3": 290,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21062_bulk_999999999_1684092938931403991.jpg",
+            "submission_id": 463116,
+            "total_vote": 354,
+            "votes": {
+                "11": 9,
+                "12": 19,
+                "13": 28,
+                "21": 191,
+                "22": 53,
+                "24": 3,
+                "4": 4,
+                "7": 3,
+                "9": 44
+            }
+        },
+        "school_name": "DR.CAVİT ÖZYEĞİN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1155,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/64857_cb_1093578356_1684084171683634667.jpg",
+            "submission_id": 232094,
+            "total_vote": 339,
+            "votes": {
+                "1": 38,
+                "3": 289,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/77580_mv_1083578356_1684087414755863432.jpg",
+            "submission_id": 333169,
+            "total_vote": 341,
+            "votes": {
+                "11": 10,
+                "12": 11,
+                "13": 38,
+                "21": 202,
+                "22": 42,
+                "24": 7,
+                "3": 2,
+                "7": 3,
+                "9": 26
+            }
+        },
+        "school_name": "DR.CAVİT ÖZYEĞİN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1152,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/64867_cb_1093577733_1684081571228962265.jpg",
+            "submission_id": 190041,
+            "total_vote": 329,
+            "votes": {
+                "1": 40,
+                "2": 1,
+                "3": 276,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/64867_mv_1083577733_1684085629854815724.jpg",
+            "submission_id": 272726,
+            "total_vote": 326,
+            "votes": {
+                "10": 1,
+                "11": 8,
+                "12": 8,
+                "13": 28,
+                "21": 185,
+                "22": 56,
+                "24": 8,
+                "3": 1,
+                "7": 2,
+                "9": 29
+            }
+        },
+        "school_name": "DR.CAVİT ÖZYEĞİN İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1149,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29282_cb_1093577730_1684080246513398324.jpg",
+            "submission_id": 180519,
+            "total_vote": 349,
+            "votes": {
+                "1": 59,
+                "2": 1,
+                "3": 281,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29282_mv_1083577730_1684086208562162679.jpg",
+            "submission_id": 291726,
+            "total_vote": 347,
+            "votes": {
+                "10": 1,
+                "11": 9,
+                "12": 13,
+                "13": 26,
+                "19": 2,
+                "21": 198,
+                "22": 38,
+                "24": 7,
+                "3": 1,
+                "7": 2,
+                "8": 1,
+                "9": 49
+            }
+        },
+        "school_name": "DR.CAVİT ÖZYEĞİN İLKOKULU"
+    }
+]

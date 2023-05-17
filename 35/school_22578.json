@@ -1,0 +1,68 @@
+[
+    {
+        "ballot_box_number": 1085,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/75563_bulk_999999999_1684088164604367344.jpg",
+            "submission_id": 357269,
+            "total_vote": 183,
+            "votes": {
+                "1": 43,
+                "2": 2,
+                "3": 137,
+                "4": 1
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/75563_bulk_999999999_1684088164751127512.jpg",
+            "submission_id": 357273,
+            "total_vote": 177,
+            "votes": {
+                "10": 1,
+                "11": 7,
+                "12": 15,
+                "19": 1,
+                "21": 85,
+                "22": 30,
+                "23": 1,
+                "24": 1,
+                "3": 1,
+                "6": 1,
+                "9": 34
+            }
+        },
+        "school_name": "ESKİOBA ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1086,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/75563_bulk_999999999_1684088164977373049.jpg",
+            "submission_id": 357281,
+            "total_vote": 187,
+            "votes": {
+                "1": 49,
+                "2": 1,
+                "3": 132,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/75563_bulk_999999999_1684088164860694894.jpg",
+            "submission_id": 357277,
+            "total_vote": 186,
+            "votes": {
+                "10": 1,
+                "11": 10,
+                "12": 13,
+                "13": 1,
+                "19": 1,
+                "20": 2,
+                "21": 87,
+                "22": 27,
+                "24": 4,
+                "7": 1,
+                "9": 39
+            }
+        },
+        "school_name": "ESKİOBA ORTAOKULU"
+    }
+]

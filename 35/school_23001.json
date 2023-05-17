@@ -1,0 +1,159 @@
+[
+    {
+        "ballot_box_number": 1093,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/52329f3c-8c8c-415b-aa26-ca62713fd0f3-1684106421742456189.jpg",
+            "submission_id": 785543,
+            "total_vote": 298,
+            "votes": {
+                "1": 26,
+                "2": 0,
+                "3": 260,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "NAMIK KEMAL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1089,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d28f2b4d-9f2e-4b2e-a857-247aba603e87-1684106660038991862.jpg",
+            "submission_id": 820312,
+            "total_vote": 276,
+            "votes": {
+                "1": 49,
+                "2": 1,
+                "3": 221,
+                "4": 5
+            }
+        },
+        "mv_result": null,
+        "school_name": "NAMIK KEMAL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1094,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/9582_bulk_999999999_1684093596609433308.jpeg",
+            "submission_id": 471765,
+            "total_vote": 282,
+            "votes": {
+                "1": 35,
+                "2": 0,
+                "3": 233,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "NAMIK KEMAL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1091,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7ade402c-509c-4157-9d1e-ebbbe31dc93b-1684106454411693660.jpeg",
+            "submission_id": 790540,
+            "total_vote": 294,
+            "votes": {
+                "1": 54,
+                "2": 1,
+                "3": 234,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c87e25a3-cb80-4edc-9625-0fb933f27b26-1684106450463350126.jpeg",
+            "submission_id": 789951,
+            "total_vote": 284,
+            "votes": {
+                "10": 2,
+                "11": 7,
+                "12": 12,
+                "19": 1,
+                "21": 160,
+                "22": 51,
+                "24": 4,
+                "3": 1,
+                "6": 1,
+                "7": 4,
+                "9": 41
+            }
+        },
+        "school_name": "NAMIK KEMAL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1088,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e26ca386-d9a7-4f47-80bf-eb2284833c79-1684106644499455793.jpeg",
+            "submission_id": 817918,
+            "total_vote": 267,
+            "votes": {
+                "1": 35,
+                "2": 1,
+                "3": 220,
+                "4": 11
+            }
+        },
+        "mv_result": null,
+        "school_name": "NAMIK KEMAL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1092,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21262_bulk_999999999_1684090544371286747.jpeg",
+            "submission_id": 422451,
+            "total_vote": 314,
+            "votes": {
+                "1": 49,
+                "2": 1,
+                "3": 258,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21262_bulk_999999999_1684090754710407348.jpeg",
+            "submission_id": 426724,
+            "total_vote": 309,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 4,
+                "12": 11,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 192,
+                "22": 44,
+                "23": 0,
+                "24": 8,
+                "3": 6,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 0,
+                "9": 42
+            }
+        },
+        "school_name": "NAMIK KEMAL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1090,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3a041bb4-9e66-49d4-b2cf-62ccf89f006d-1684106699168470159.jpg",
+            "submission_id": 825612,
+            "total_vote": 295,
+            "votes": {
+                "1": 39,
+                "3": 242,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "NAMIK KEMAL İLKOKULU"
+    }
+]

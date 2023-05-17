@@ -1,0 +1,104 @@
+[
+    {
+        "ballot_box_number": 2186,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/62108_cb_1093799420_1684089456589920113.jpg",
+            "submission_id": 395034,
+            "total_vote": 282,
+            "votes": {
+                "1": 123,
+                "2": 2,
+                "3": 155,
+                "4": 2
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/62108_bulk_999999999_1684089290144589008.jpg",
+            "submission_id": 390652,
+            "total_vote": 271,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 2,
+                "12": 96,
+                "15": 1,
+                "17": 2,
+                "21": 48,
+                "22": 13,
+                "5": 2,
+                "7": 4,
+                "9": 99
+            }
+        },
+        "school_name": "MEHMETÇİK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2187,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/62108_bulk_999999999_1684089290051196599.jpg",
+            "submission_id": 390642,
+            "total_vote": 303,
+            "votes": {
+                "1": 152,
+                "2": 2,
+                "3": 146,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/62108_bulk_999999999_1684089289845976282.jpg",
+            "submission_id": 390637,
+            "total_vote": 298,
+            "votes": {
+                "10": 2,
+                "11": 4,
+                "12": 85,
+                "15": 1,
+                "19": 1,
+                "21": 45,
+                "22": 16,
+                "23": 1,
+                "24": 2,
+                "3": 1,
+                "5": 2,
+                "7": 8,
+                "8": 1,
+                "9": 129
+            }
+        },
+        "school_name": "MEHMETÇİK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2188,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/62108_bulk_999999999_1684089289798970321.jpg",
+            "submission_id": 390632,
+            "total_vote": 318,
+            "votes": {
+                "1": 162,
+                "2": 0,
+                "3": 149,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/62108_mv_1083799422_1684089642102807408.jpg",
+            "submission_id": 400197,
+            "total_vote": 318,
+            "votes": {
+                "10": 7,
+                "11": 9,
+                "12": 106,
+                "14": 1,
+                "21": 41,
+                "22": 5,
+                "24": 2,
+                "3": 1,
+                "6": 2,
+                "7": 2,
+                "9": 142
+            }
+        },
+        "school_name": "MEHMETÇİK İLKOKULU"
+    }
+]

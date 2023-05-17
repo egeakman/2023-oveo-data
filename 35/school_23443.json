@@ -1,0 +1,222 @@
+[
+    {
+        "ballot_box_number": 1023,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21066_cb_1093756104_1684093246079756671.jpeg",
+            "submission_id": 467494,
+            "total_vote": 351,
+            "votes": {
+                "1": 22,
+                "2": 0,
+                "3": 320,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21066_mv_1083756104_1684093258531263722.jpeg",
+            "submission_id": 467641,
+            "total_vote": 346,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 2,
+                "12": 36,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 243,
+                "22": 28,
+                "23": 0,
+                "24": 6,
+                "3": 5,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 6,
+                "8": 0,
+                "9": 19
+            }
+        },
+        "school_name": "BADEMLER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1020,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20099_bulk_999999999_1684082609272971605.jpeg",
+            "submission_id": 202480,
+            "total_vote": 341,
+            "votes": {
+                "1": 12,
+                "2": 0,
+                "3": 327,
+                "4": 2
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/84721584-08f4-42de-b7f1-50e34f9b5f89-1684105626137697191.jpg",
+            "submission_id": 669071,
+            "total_vote": 356,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 1,
+                "12": 22,
+                "14": 10,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 252,
+                "23": 37,
+                "24": 3,
+                "3": 3,
+                "4": 6,
+                "5": 2,
+                "6": 0,
+                "7": 1,
+                "8": 9,
+                "9": 8
+            }
+        },
+        "school_name": "BADEMLER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1022,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21066_cb_1093756103_1684093120045213726.jpeg",
+            "submission_id": 465671,
+            "total_vote": 345,
+            "votes": {
+                "1": 19,
+                "2": 0,
+                "3": 315,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21066_mv_1083756103_1684093142470163938.jpeg",
+            "submission_id": 465969,
+            "total_vote": 342,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 3,
+                "12": 34,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 234,
+                "22": 38,
+                "23": 0,
+                "24": 4,
+                "3": 7,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 2,
+                "9": 15
+            }
+        },
+        "school_name": "BADEMLER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1021,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20301_bulk_999999999_1684090272151685678.jpg",
+            "submission_id": 416238,
+            "total_vote": 342,
+            "votes": {
+                "1": 17,
+                "2": 0,
+                "3": 319,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9eed264d-fe70-4a40-b648-32d43df37f66-1684105404728616572.jpeg",
+            "submission_id": 633765,
+            "total_vote": 337,
+            "votes": {
+                "10": 0,
+                "11": 3,
+                "12": 25,
+                "14": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 251,
+                "22": 35,
+                "23": 0,
+                "24": 1,
+                "3": 5,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 0,
+                "9": 13
+            }
+        },
+        "school_name": "BADEMLER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1019,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/b77e42b5-2a30-4d4a-a5e0-31d58d39f91e-1684105293371949657.jpeg",
+            "submission_id": 612965,
+            "total_vote": 329,
+            "votes": {
+                "1": 9,
+                "2": 1,
+                "3": 317,
+                "4": 2
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5f3ddc16-9184-4583-aa2e-3837c6c7871d-1684105347383788354.jpg",
+            "submission_id": 622423,
+            "total_vote": 326,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 2,
+                "12": 17,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 270,
+                "22": 19,
+                "23": 0,
+                "24": 0,
+                "3": 8,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 1,
+                "9": 5
+            }
+        },
+        "school_name": "BADEMLER İLKOKULU"
+    }
+]

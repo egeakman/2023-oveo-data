@@ -1,0 +1,148 @@
+[
+    {
+        "ballot_box_number": 1059,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/8725_cb_1093571253_1684085177862478741.jpg",
+            "submission_id": 259194,
+            "total_vote": 320,
+            "votes": {
+                "1": 57,
+                "3": 257,
+                "4": 6
+            }
+        },
+        "mv_result": null,
+        "school_name": "YENİFOÇA REHA MİDİLLİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1060,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/8725_cb_1093571254_1684078305278989125.jpg",
+            "submission_id": 174257,
+            "total_vote": 326,
+            "votes": {
+                "1": 80,
+                "2": 1,
+                "3": 226,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/8725_mv_1083571254_1684082416805800097.jpg",
+            "submission_id": 199852,
+            "total_vote": 326,
+            "votes": {
+                "1": 1,
+                "11": 21,
+                "12": 11,
+                "13": 23,
+                "15": 2,
+                "19": 3,
+                "20": 1,
+                "21": 167,
+                "22": 26,
+                "23": 1,
+                "24": 7,
+                "3": 2,
+                "7": 2,
+                "9": 59
+            }
+        },
+        "school_name": "YENİFOÇA REHA MİDİLLİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1061,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/69092_cb_1093572455_1684080393800718913.jpg",
+            "submission_id": 181391,
+            "total_vote": 331,
+            "votes": {
+                "1": 60,
+                "3": 261,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/69092_mv_1083572455_1684081195775710918.jpg",
+            "submission_id": 186799,
+            "total_vote": 327,
+            "votes": {
+                "10": 3,
+                "11": 10,
+                "12": 23,
+                "13": 20,
+                "21": 173,
+                "22": 46,
+                "23": 1,
+                "24": 6,
+                "3": 2,
+                "4": 1,
+                "7": 5,
+                "8": 1,
+                "9": 36
+            }
+        },
+        "school_name": "YENİFOÇA REHA MİDİLLİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1063,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/8725_cb_1093572457_1684084632814382755.jpg",
+            "submission_id": 244027,
+            "total_vote": 341,
+            "votes": {
+                "1": 68,
+                "2": 4,
+                "3": 257,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "YENİFOÇA REHA MİDİLLİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1062,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/8725_cb_1093572456_1684082456806975173.jpg",
+            "submission_id": 200403,
+            "total_vote": 334,
+            "votes": {
+                "1": 78,
+                "3": 244,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/8725_mv_1083572456_1684084462978523501.jpg",
+            "submission_id": 239546,
+            "total_vote": 327,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 19,
+                "12": 21,
+                "13": 21,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 4,
+                "21": 165,
+                "22": 30,
+                "23": 2,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 46
+            }
+        },
+        "school_name": "YENİFOÇA REHA MİDİLLİ İLKOKULU"
+    }
+]

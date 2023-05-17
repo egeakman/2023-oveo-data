@@ -1,0 +1,444 @@
+[
+    {
+        "ballot_box_number": 1221,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/84494_bulk_999999999_1684086668757467892.jpg",
+            "submission_id": 307395,
+            "total_vote": 344,
+            "votes": {
+                "1": 95,
+                "2": 3,
+                "3": 236,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞHT. MUSTAFA YAMAN ANADOLU İMAMHATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1212,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/84494_bulk_999999999_1684086873623853738.jpg",
+            "submission_id": 314601,
+            "total_vote": 347,
+            "votes": {
+                "1": 101,
+                "2": 3,
+                "3": 222,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10114_mv_1083578268_1684090148682604211.jpg",
+            "submission_id": 413317,
+            "total_vote": 350,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 21,
+                "12": 7,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 122,
+                "22": 43,
+                "23": 1,
+                "24": 73,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 0,
+                "8": 1,
+                "9": 78
+            }
+        },
+        "school_name": "ŞHT. MUSTAFA YAMAN ANADOLU İMAMHATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1213,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/84494_bulk_999999999_1684086669500377546.jpg",
+            "submission_id": 307426,
+            "total_vote": 347,
+            "votes": {
+                "1": 95,
+                "3": 238,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/84494_bulk_999999999_1684086669550410311.jpg",
+            "submission_id": 307433,
+            "total_vote": 341,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 17,
+                "12": 22,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 155,
+                "22": 49,
+                "23": 3,
+                "24": 7,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 8,
+                "7": 0,
+                "8": 0,
+                "9": 72
+            }
+        },
+        "school_name": "ŞHT. MUSTAFA YAMAN ANADOLU İMAMHATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1216,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10114_cb_1093578272_1684090438373370299.jpg",
+            "submission_id": 419882,
+            "total_vote": 352,
+            "votes": {
+                "1": 95,
+                "2": 1,
+                "3": 238,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5d95f63d-dfa4-4b49-8b3c-a6f42a567617-1684105489290175292.jpeg",
+            "submission_id": 648482,
+            "total_vote": 349,
+            "votes": {
+                "10": 1,
+                "11": 17,
+                "12": 16,
+                "2": 1,
+                "21": 154,
+                "22": 66,
+                "24": 12,
+                "4": 1,
+                "6": 1,
+                "7": 7,
+                "8": 1,
+                "9": 72
+            }
+        },
+        "school_name": "ŞHT. MUSTAFA YAMAN ANADOLU İMAMHATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1214,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12844_cb_1093578270_1684085590870924259.jpg",
+            "submission_id": 271457,
+            "total_vote": 347,
+            "votes": {
+                "1": 90,
+                "2": 1,
+                "3": 234,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/12844_mv_1083578270_1684086082693050190.jpg",
+            "submission_id": 287591,
+            "total_vote": 344,
+            "votes": {
+                "10": 2,
+                "11": 13,
+                "12": 16,
+                "21": 176,
+                "22": 50,
+                "23": 1,
+                "24": 11,
+                "3": 1,
+                "4": 1,
+                "7": 3,
+                "8": 2,
+                "9": 68
+            }
+        },
+        "school_name": "ŞHT. MUSTAFA YAMAN ANADOLU İMAMHATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1217,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source1-secim-images.oyveotesi.org/raw/1002308_cb_3578273_1684085038.jpeg",
+            "submission_id": 255336,
+            "total_vote": 348,
+            "votes": {
+                "1": 99,
+                "2": 0,
+                "3": 219,
+                "4": 30
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10114_mv_1083578273_1684090523153371547.jpg",
+            "submission_id": 421901,
+            "total_vote": 344,
+            "votes": {
+                "10": 1,
+                "11": 15,
+                "12": 16,
+                "21": 146,
+                "22": 56,
+                "23": 5,
+                "24": 16,
+                "3": 1,
+                "5": 1,
+                "6": 3,
+                "7": 3,
+                "8": 1,
+                "9": 80
+            }
+        },
+        "school_name": "ŞHT. MUSTAFA YAMAN ANADOLU İMAMHATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1209,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10114_cb_1093578265_1684089929614133469.jpg",
+            "submission_id": 407873,
+            "total_vote": 314,
+            "votes": {
+                "1": 100,
+                "2": 1,
+                "3": 205,
+                "4": 8
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞHT. MUSTAFA YAMAN ANADOLU İMAMHATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1220,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/74670_cb_1093578976_1684084761643093635.jpg",
+            "submission_id": 247507,
+            "total_vote": 345,
+            "votes": {
+                "1": 72,
+                "2": 3,
+                "3": 243,
+                "4": 27
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞHT. MUSTAFA YAMAN ANADOLU İMAMHATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1222,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/18641_bulk_999999999_1684082108320183343.jpg",
+            "submission_id": 195944,
+            "total_vote": 346,
+            "votes": {
+                "1": 101,
+                "2": 1,
+                "3": 223,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18641_mv_1083578978_1684084270213109047.jpg",
+            "submission_id": 234785,
+            "total_vote": 344,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 21,
+                "12": 16,
+                "14": 1,
+                "21": 135,
+                "22": 68,
+                "23": 2,
+                "24": 11,
+                "3": 2,
+                "6": 3,
+                "7": 4,
+                "9": 79
+            }
+        },
+        "school_name": "ŞHT. MUSTAFA YAMAN ANADOLU İMAMHATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1210,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/84494_bulk_999999999_1684086669305791721.jpg",
+            "submission_id": 307417,
+            "total_vote": 340,
+            "votes": {
+                "1": 104,
+                "2": 0,
+                "3": 223,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/84494_bulk_999999999_1684086669406878574.jpg",
+            "submission_id": 307423,
+            "total_vote": 337,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 15,
+                "12": 6,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 157,
+                "22": 55,
+                "23": 1,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 5,
+                "8": 2,
+                "9": 85
+            }
+        },
+        "school_name": "ŞHT. MUSTAFA YAMAN ANADOLU İMAMHATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1219,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/74670_cb_1093578975_1684085037122849474.jpg",
+            "submission_id": 255223,
+            "total_vote": 347,
+            "votes": {
+                "1": 105,
+                "2": 1,
+                "3": 231,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞHT. MUSTAFA YAMAN ANADOLU İMAMHATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1218,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source1-secim-images.oyveotesi.org/raw/1029549_cb_3578274_1684080763.jpeg",
+            "submission_id": 183678,
+            "total_vote": 342,
+            "votes": {
+                "1": 116,
+                "2": 2,
+                "3": 196,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4293c59a-719d-4746-b927-ad02ff453cbe-1684105297561986978.jpg",
+            "submission_id": 613397,
+            "total_vote": 341,
+            "votes": {
+                "1": 1,
+                "10": 5,
+                "11": 27,
+                "12": 12,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 132,
+                "22": 55,
+                "23": 1,
+                "24": 15,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 7,
+                "8": 3,
+                "9": 82
+            }
+        },
+        "school_name": "ŞHT. MUSTAFA YAMAN ANADOLU İMAMHATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1211,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10114_cb_1093578267_1684090059405628134.jpg",
+            "submission_id": 411199,
+            "total_vote": 359,
+            "votes": {
+                "1": 107,
+                "2": 1,
+                "3": 231,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0b13b9e9-1291-44cb-b020-777b964f102a-1684105862765243474.jpeg",
+            "submission_id": 705962,
+            "total_vote": 351,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 11,
+                "12": 17,
+                "14": 2,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 164,
+                "22": 51,
+                "23": 0,
+                "24": 10,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 2,
+                "7": 1,
+                "8": 0,
+                "9": 86
+            }
+        },
+        "school_name": "ŞHT. MUSTAFA YAMAN ANADOLU İMAMHATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1215,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/10114_bulk_999999999_1684091692378388991.jpg",
+            "submission_id": 444314,
+            "total_vote": 342,
+            "votes": {
+                "1": 84,
+                "2": 4,
+                "3": 238,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞHT. MUSTAFA YAMAN ANADOLU İMAMHATİP LİSESİ"
+    }
+]

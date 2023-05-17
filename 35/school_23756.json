@@ -1,0 +1,46 @@
+[
+    {
+        "ballot_box_number": 1004,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9f6dcae0-7c39-446b-b269-db42171b0fc7-1684105380867421764.jpg",
+            "submission_id": 629021,
+            "total_vote": 279,
+            "votes": {
+                "1": 151,
+                "2": 0,
+                "3": 116,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/79eb5c2b-26f9-445e-b88b-697d40ae0345-1684105369264775542.jpg",
+            "submission_id": 626737,
+            "total_vote": 271,
+            "votes": {
+                "10": 4,
+                "11": 23,
+                "12": 27,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 73,
+                "22": 11,
+                "23": 0,
+                "24": 5,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 2,
+                "9": 119
+            }
+        },
+        "school_name": "AKÇAKÖY İLKÖĞRETİM OKULU"
+    }
+]

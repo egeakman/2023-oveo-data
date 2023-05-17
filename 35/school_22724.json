@@ -1,0 +1,315 @@
+[
+    {
+        "ballot_box_number": 1315,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/39901_bulk_999999999_1684093892749617408.jpeg",
+            "submission_id": 476678,
+            "total_vote": 289,
+            "votes": {
+                "1": 74,
+                "2": 0,
+                "3": 204,
+                "4": 11
+            }
+        },
+        "mv_result": null,
+        "school_name": "MEVLANA ORTAOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1323,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/39901_bulk_999999999_1684093633729235941.jpeg",
+            "submission_id": 472256,
+            "total_vote": 319,
+            "votes": {
+                "1": 99,
+                "3": 201,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "MEVLANA ORTAOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1321,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/319fe555-3bbc-4897-85f8-a9f6f98aedb4-1684105731848656821.jpeg",
+            "submission_id": 686520,
+            "total_vote": 334,
+            "votes": {
+                "1": 92,
+                "2": 0,
+                "3": 222,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "MEVLANA ORTAOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1322,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49992_cb_1093582237_1684086637208653046.jpg",
+            "submission_id": 306286,
+            "total_vote": 320,
+            "votes": {
+                "1": 110,
+                "2": 2,
+                "3": 176,
+                "4": 32
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49992_mv_1083582237_1684086753333592424.jpg",
+            "submission_id": 310448,
+            "total_vote": 317,
+            "votes": {
+                "10": 2,
+                "11": 21,
+                "12": 14,
+                "13": 22,
+                "14": 1,
+                "15": 2,
+                "21": 105,
+                "22": 41,
+                "23": 1,
+                "24": 10,
+                "6": 3,
+                "7": 6,
+                "8": 1,
+                "9": 88
+            }
+        },
+        "school_name": "MEVLANA ORTAOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1317,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49992_cb_1093581552_1684087278954233991.jpg",
+            "submission_id": 328707,
+            "total_vote": 327,
+            "votes": {
+                "1": 118,
+                "2": 1,
+                "3": 189,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "MEVLANA ORTAOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1324,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49992_cb_1093582239_1684086554329474239.jpg",
+            "submission_id": 303396,
+            "total_vote": 328,
+            "votes": {
+                "1": 96,
+                "3": 206,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/39901_bulk_999999999_1684094034577815950.jpeg",
+            "submission_id": 483214,
+            "total_vote": 329,
+            "votes": {
+                "10": 2,
+                "11": 10,
+                "12": 34,
+                "13": 14,
+                "2": 1,
+                "21": 135,
+                "22": 26,
+                "24": 14,
+                "3": 1,
+                "5": 2,
+                "6": 1,
+                "7": 5,
+                "8": 3,
+                "9": 81
+            }
+        },
+        "school_name": "MEVLANA ORTAOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1318,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49992_cb_1093581553_1684086865567424754.jpg",
+            "submission_id": 314304,
+            "total_vote": 327,
+            "votes": {
+                "1": 94,
+                "3": 212,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/39901_bulk_999999999_1684094034347134267.jpeg",
+            "submission_id": 483210,
+            "total_vote": 306,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 15,
+                "12": 33,
+                "13": 71,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 2,
+                "21": 110,
+                "22": 30,
+                "23": 0,
+                "24": 0,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 3,
+                "8": 2,
+                "9": 33
+            }
+        },
+        "school_name": "MEVLANA ORTAOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1320,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/39901_bulk_999999999_1684090445576164992.jpeg",
+            "submission_id": 420050,
+            "total_vote": 323,
+            "votes": {
+                "1": 113,
+                "2": 3,
+                "3": 185,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49992_mv_1083582235_1684087541855788926.jpg",
+            "submission_id": 337241,
+            "total_vote": 318,
+            "votes": {
+                "10": 3,
+                "11": 19,
+                "12": 6,
+                "13": 23,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "20": 0,
+                "21": 113,
+                "22": 39,
+                "23": 1,
+                "24": 14,
+                "5": 0,
+                "6": 2,
+                "7": 5,
+                "8": 5,
+                "9": 87
+            }
+        },
+        "school_name": "MEVLANA ORTAOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1316,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/39901_bulk_999999999_1684093892426984186.jpeg",
+            "submission_id": 476659,
+            "total_vote": 312,
+            "votes": {
+                "1": 101,
+                "2": 1,
+                "3": 195,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/86a9ee2e-3a5d-4bb9-86d8-661cf40076e6-1684105848718842489.jpeg",
+            "submission_id": 703639,
+            "total_vote": 313,
+            "votes": {
+                "1": 1,
+                "10": 5,
+                "11": 11,
+                "12": 24,
+                "13": 13,
+                "14": 1,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 117,
+                "22": 43,
+                "23": 1,
+                "24": 11,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 0,
+                "8": 0,
+                "9": 82
+            }
+        },
+        "school_name": "MEVLANA ORTAOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1319,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/49992_cb_1093581554_1684083067359752951.jpg",
+            "submission_id": 209853,
+            "total_vote": 326,
+            "votes": {
+                "1": 97,
+                "2": 1,
+                "3": 213,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/39901_bulk_999999999_1684093892833182378.jpeg",
+            "submission_id": 476684,
+            "total_vote": 323,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 16,
+                "12": 22,
+                "13": 22,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 112,
+                "22": 50,
+                "23": 1,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 3,
+                "9": 79
+            }
+        },
+        "school_name": "MEVLANA ORTAOKULU B BLOK"
+    }
+]

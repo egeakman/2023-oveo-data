@@ -1,0 +1,436 @@
+[
+    {
+        "ballot_box_number": 1148,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26914_cb_1093798468_1684087324960855450.jpg",
+            "submission_id": 330216,
+            "total_vote": 345,
+            "votes": {
+                "1": 78,
+                "2": 2,
+                "3": 250,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26914_mv_1083798468_1684087405968473454.jpg",
+            "submission_id": 332857,
+            "total_vote": 341,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 19,
+                "12": 26,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 167,
+                "22": 46,
+                "23": 1,
+                "24": 11,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 3,
+                "8": 0,
+                "9": 61
+            }
+        },
+        "school_name": "AHMET RAGIP ÜZÜMCÜ İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1145,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/26914_bulk_999999999_1684089497638007183.jpg",
+            "submission_id": 396131,
+            "total_vote": 331,
+            "votes": {
+                "1": 63,
+                "2": 1,
+                "3": 249,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67427_mv_1083798465_1684086660374254937.jpg",
+            "submission_id": 307115,
+            "total_vote": 325,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 9,
+                "12": 13,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 2,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 187,
+                "22": 46,
+                "23": 0,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 1,
+                "9": 55
+            }
+        },
+        "school_name": "AHMET RAGIP ÜZÜMCÜ İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1153,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/45791_bulk_999999999_1684085576698594931.jpg",
+            "submission_id": 270976,
+            "total_vote": 352,
+            "votes": {
+                "1": 99,
+                "2": 0,
+                "3": 235,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26914_mv_1083798473_1684086286220197890.jpg",
+            "submission_id": 294270,
+            "total_vote": 348,
+            "votes": {
+                "10": 5,
+                "11": 14,
+                "12": 12,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 156,
+                "22": 65,
+                "23": 2,
+                "24": 14,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 6,
+                "8": 1,
+                "9": 70
+            }
+        },
+        "school_name": "AHMET RAGIP ÜZÜMCÜ İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1144,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/55468_cb_1093798464_1684085174464985683.jpg",
+            "submission_id": 259108,
+            "total_vote": 312,
+            "votes": {
+                "1": 87,
+                "2": 5,
+                "3": 210,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/909f4734-99b4-44f6-949e-6374e1c236c4-1684105577324597180.jpg",
+            "submission_id": 661006,
+            "total_vote": 308,
+            "votes": {
+                "1": 1,
+                "11": 12,
+                "12": 9,
+                "14": 2,
+                "15": 1,
+                "17": 1,
+                "18": 1,
+                "2": 1,
+                "21": 156,
+                "22": 40,
+                "23": 1,
+                "24": 5,
+                "7": 4,
+                "9": 74
+            }
+        },
+        "school_name": "AHMET RAGIP ÜZÜMCÜ İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1152,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26914_cb_1093798472_1684090641638618981.jpg",
+            "submission_id": 424379,
+            "total_vote": 345,
+            "votes": {
+                "1": 54,
+                "2": 3,
+                "3": 273,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26914_mv_1083798472_1684091757100465054.jpg",
+            "submission_id": 445293,
+            "total_vote": 340,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 10,
+                "12": 29,
+                "14": 0,
+                "15": 0,
+                "17": 0,
+                "2": 0,
+                "21": 178,
+                "22": 68,
+                "23": 0,
+                "24": 2,
+                "3": 1,
+                "4": 0,
+                "6": 1,
+                "7": 8,
+                "8": 0,
+                "9": 42
+            }
+        },
+        "school_name": "AHMET RAGIP ÜZÜMCÜ İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1146,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67427_cb_1093798466_1684078573831590756.jpg",
+            "submission_id": 174728,
+            "total_vote": 356,
+            "votes": {
+                "1": 80,
+                "2": 1,
+                "3": 258,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67427_mv_1083798466_1684083446396478511.jpg",
+            "submission_id": 216770,
+            "total_vote": 352,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 13,
+                "12": 13,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 180,
+                "22": 59,
+                "23": 1,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 3,
+                "8": 0,
+                "9": 69
+            }
+        },
+        "school_name": "AHMET RAGIP ÜZÜMCÜ İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1150,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26914_cb_1093798470_1684085268492136341.jpg",
+            "submission_id": 261823,
+            "total_vote": 343,
+            "votes": {
+                "1": 98,
+                "2": 1,
+                "3": 232,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26914_mv_1083798470_1684085101018159874.jpg",
+            "submission_id": 257007,
+            "total_vote": 343,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 8,
+                "12": 10,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 153,
+                "22": 63,
+                "23": 0,
+                "24": 15,
+                "3": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 86
+            }
+        },
+        "school_name": "AHMET RAGIP ÜZÜMCÜ İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1151,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/26914_bulk_999999999_1684089595192422306.jpg",
+            "submission_id": 398979,
+            "total_vote": 334,
+            "votes": {
+                "1": 54,
+                "2": 0,
+                "3": 260,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26914_mv_1083798471_1684086490832872219.jpg",
+            "submission_id": 301192,
+            "total_vote": 336,
+            "votes": {
+                "1": 4,
+                "10": 3,
+                "11": 5,
+                "12": 15,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 179,
+                "22": 58,
+                "23": 2,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 1,
+                "7": 10,
+                "8": 3,
+                "9": 41
+            }
+        },
+        "school_name": "AHMET RAGIP ÜZÜMCÜ İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1147,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/45791_bulk_999999999_1684088081579217158.jpg",
+            "submission_id": 354631,
+            "total_vote": 342,
+            "votes": {
+                "1": 61,
+                "2": 2,
+                "3": 266,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67427_mv_1083798467_1684088159503106065.jpg",
+            "submission_id": 357099,
+            "total_vote": 345,
+            "votes": {
+                "1": 2,
+                "10": 0,
+                "11": 9,
+                "12": 19,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 177,
+                "22": 64,
+                "23": 0,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 7,
+                "6": 2,
+                "7": 3,
+                "8": 0,
+                "9": 52
+            }
+        },
+        "school_name": "AHMET RAGIP ÜZÜMCÜ İLKOKULU B BLOK"
+    },
+    {
+        "ballot_box_number": 1149,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67427_mv_1083798469_1684079583222035995.jpg",
+            "submission_id": 177531,
+            "total_vote": 345,
+            "votes": {
+                "1": 76,
+                "2": 0,
+                "3": 253,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67473_mv_1083798469_1684085646123922377.jpg",
+            "submission_id": 273294,
+            "total_vote": 343,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 15,
+                "12": 19,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 168,
+                "22": 58,
+                "23": 0,
+                "24": 8,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 6,
+                "8": 1,
+                "9": 64
+            }
+        },
+        "school_name": "AHMET RAGIP ÜZÜMCÜ İLKOKULU B BLOK"
+    }
+]

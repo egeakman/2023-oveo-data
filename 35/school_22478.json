@@ -1,0 +1,41 @@
+[
+    {
+        "ballot_box_number": 1092,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/fd2c92cb-e3a7-47b3-aa00-2472f2a0183d-1684106498610416059.jpg",
+            "submission_id": 797228,
+            "total_vote": 352,
+            "votes": {
+                "1": 189,
+                "2": 4,
+                "3": 133,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/72401d0d-60a9-49d2-944c-2f13ec4d9625-1684106496406950241.jpg",
+            "submission_id": 796928,
+            "total_vote": 335,
+            "votes": {
+                "1": 2,
+                "10": 3,
+                "11": 30,
+                "12": 2,
+                "13": 4,
+                "15": 1,
+                "17": 1,
+                "18": 1,
+                "20": 1,
+                "21": 87,
+                "22": 31,
+                "23": 4,
+                "24": 8,
+                "5": 1,
+                "6": 4,
+                "7": 6,
+                "9": 149
+            }
+        },
+        "school_name": "BURUNCUK İLKOKULU"
+    }
+]

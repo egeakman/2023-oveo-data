@@ -1,0 +1,29 @@
+[
+    {
+        "ballot_box_number": 1208,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22109_cb_1093861422_1684075951771074947.jpg",
+            "submission_id": 172825,
+            "total_vote": 20,
+            "votes": {
+                "1": 8,
+                "3": 10,
+                "4": 2
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22109_mv_1083861422_1684076867983897783.jpg",
+            "submission_id": 173005,
+            "total_vote": 19,
+            "votes": {
+                "12": 1,
+                "21": 5,
+                "22": 5,
+                "24": 1,
+                "8": 1,
+                "9": 6
+            }
+        },
+        "school_name": "GÜZELYURT MAH. 927 SOKAK NO:52/54"
+    }
+]

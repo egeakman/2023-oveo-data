@@ -1,0 +1,222 @@
+[
+    {
+        "ballot_box_number": 1003,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/64150_cb_1093754012_1684086844152513645.jpg",
+            "submission_id": 313551,
+            "total_vote": 348,
+            "votes": {
+                "1": 113,
+                "2": 2,
+                "3": 223,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/64150_bulk_999999999_1684089136842334697.jpg",
+            "submission_id": 386306,
+            "total_vote": 339,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 31,
+                "12": 47,
+                "13": 0,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 130,
+                "22": 40,
+                "23": 1,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 6,
+                "8": 1,
+                "9": 77
+            }
+        },
+        "school_name": "14 MAYIS MAH-8 EYLÜL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1006,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10192_cb_1093754555_1684086834640562294.jpg",
+            "submission_id": 313235,
+            "total_vote": 344,
+            "votes": {
+                "1": 104,
+                "2": 1,
+                "3": 225,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10192_mv_1083754555_1684087542480745374.jpg",
+            "submission_id": 337261,
+            "total_vote": 336,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 24,
+                "12": 57,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 125,
+                "22": 46,
+                "23": 1,
+                "24": 7,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 71
+            }
+        },
+        "school_name": "14 MAYIS MAH-8 EYLÜL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1002,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10192_cb_1093754011_1684089376238416417.jpg",
+            "submission_id": 392810,
+            "total_vote": 337,
+            "votes": {
+                "1": 87,
+                "2": 1,
+                "3": 240,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/64150_mv_1083754011_1684089306904488293.jpg",
+            "submission_id": 391037,
+            "total_vote": 332,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 20,
+                "12": 57,
+                "21": 129,
+                "22": 51,
+                "23": 1,
+                "24": 2,
+                "6": 5,
+                "7": 3,
+                "9": 59
+            }
+        },
+        "school_name": "14 MAYIS MAH-8 EYLÜL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1001,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10192_cb_1093754010_1684089072658011201.jpg",
+            "submission_id": 384557,
+            "total_vote": 312,
+            "votes": {
+                "1": 90,
+                "2": 1,
+                "3": 209,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10192_mv_1083754010_1684089116418543582.jpg",
+            "submission_id": 385790,
+            "total_vote": 296,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 13,
+                "12": 33,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 141,
+                "22": 31,
+                "23": 1,
+                "24": 4,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 65
+            }
+        },
+        "school_name": "14 MAYIS MAH-8 EYLÜL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1005,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10192_cb_1093754014_1684083428334123728.jpg",
+            "submission_id": 216428,
+            "total_vote": 345,
+            "votes": {
+                "1": 117,
+                "2": 2,
+                "3": 222,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10192_mv_1083754014_1684088480969424067.jpg",
+            "submission_id": 366875,
+            "total_vote": 336,
+            "votes": {
+                "1": 2,
+                "10": 3,
+                "11": 18,
+                "12": 59,
+                "15": 1,
+                "21": 121,
+                "22": 36,
+                "23": 1,
+                "24": 2,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 90
+            }
+        },
+        "school_name": "14 MAYIS MAH-8 EYLÜL ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1004,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/64135_bulk_999999999_1684088407046582801.jpg",
+            "submission_id": 364613,
+            "total_vote": 328,
+            "votes": {
+                "1": 108,
+                "2": 2,
+                "3": 208,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "14 MAYIS MAH-8 EYLÜL ORTAOKULU"
+    }
+]

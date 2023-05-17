@@ -1,0 +1,137 @@
+[
+    {
+        "ballot_box_number": 1001,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/19671_bulk_999999999_1684079981052887254.jpeg",
+            "submission_id": 179191,
+            "total_vote": 273,
+            "votes": {
+                "1": 154,
+                "2": 2,
+                "3": 107,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/19671_bulk_999999999_1684082959201401141.jpeg",
+            "submission_id": 208044,
+            "total_vote": 271,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 23,
+                "12": 0,
+                "13": 0,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 84,
+                "22": 25,
+                "23": 2,
+                "24": 4,
+                "3": 0,
+                "5": 1,
+                "6": 0,
+                "7": 0,
+                "8": 3,
+                "9": 121
+            }
+        },
+        "school_name": "AKALAN DENEN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1002,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/19671_bulk_999999999_1684081436377229123.jpeg",
+            "submission_id": 188807,
+            "total_vote": 271,
+            "votes": {
+                "1": 124,
+                "2": 2,
+                "3": 132,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/19671_bulk_999999999_1684083034215071807.jpeg",
+            "submission_id": 209325,
+            "total_vote": 261,
+            "votes": {
+                "10": 1,
+                "11": 12,
+                "12": 3,
+                "13": 1,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "21": 98,
+                "22": 33,
+                "23": 1,
+                "24": 4,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 0,
+                "9": 103
+            }
+        },
+        "school_name": "AKALAN DENEN ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1003,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/19671_bulk_999999999_1684080025813571577.jpeg",
+            "submission_id": 179421,
+            "total_vote": 262,
+            "votes": {
+                "1": 114,
+                "2": 2,
+                "3": 128,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/19671_bulk_999999999_1684084198367723513.jpeg",
+            "submission_id": 232805,
+            "total_vote": 257,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 9,
+                "12": 3,
+                "13": 2,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 2,
+                "21": 103,
+                "22": 27,
+                "23": 1,
+                "24": 9,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 1,
+                "9": 95
+            }
+        },
+        "school_name": "AKALAN DENEN ORTAOKULU"
+    }
+]

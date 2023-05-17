@@ -1,0 +1,457 @@
+[
+    {
+        "ballot_box_number": 1317,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20037_bulk_999999999_1684096369847368173.jpg",
+            "submission_id": 511996,
+            "total_vote": 325,
+            "votes": {
+                "1": 81,
+                "2": 1,
+                "3": 231,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "GÜRÇEŞME KANUNİ SULTAN SÜLEYMAN ANADOLU LİSESİ (A BLOK)"
+    },
+    {
+        "ballot_box_number": 1325,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20037_bulk_999999999_1684096369543241422.jpg",
+            "submission_id": 511989,
+            "total_vote": 315,
+            "votes": {
+                "1": 94,
+                "2": 1,
+                "3": 200,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20037_bulk_999999999_1684096369233351377.jpg",
+            "submission_id": 511985,
+            "total_vote": 313,
+            "votes": {
+                "1": 0,
+                "10": 8,
+                "11": 15,
+                "12": 25,
+                "13": 0,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 132,
+                "22": 45,
+                "23": 0,
+                "24": 10,
+                "3": 0,
+                "4": 2,
+                "5": 1,
+                "6": 1,
+                "7": 4,
+                "8": 0,
+                "9": 68
+            }
+        },
+        "school_name": "GÜRÇEŞME KANUNİ SULTAN SÜLEYMAN ANADOLU LİSESİ (A BLOK)"
+    },
+    {
+        "ballot_box_number": 1326,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "GÜRÇEŞME KANUNİ SULTAN SÜLEYMAN ANADOLU LİSESİ (A BLOK)"
+    },
+    {
+        "ballot_box_number": 1324,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d2464d9f-f426-4287-a3f5-d2d8dea78b02-1684105335778436685.jpeg",
+            "submission_id": 620751,
+            "total_vote": 326,
+            "votes": {
+                "1": 93,
+                "2": 2,
+                "3": 205,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/cdc67110-9b7e-41ac-b606-0c4a151174f4-1684105339387665934.jpeg",
+            "submission_id": 621451,
+            "total_vote": 318,
+            "votes": {
+                "10": 3,
+                "11": 14,
+                "12": 18,
+                "14": 1,
+                "15": 1,
+                "18": 1,
+                "21": 138,
+                "22": 47,
+                "23": 2,
+                "24": 7,
+                "6": 1,
+                "7": 5,
+                "9": 80
+            }
+        },
+        "school_name": "GÜRÇEŞME KANUNİ SULTAN SÜLEYMAN ANADOLU LİSESİ (A BLOK)"
+    },
+    {
+        "ballot_box_number": 1320,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20037_bulk_999999999_1684096193856856844.jpg",
+            "submission_id": 510274,
+            "total_vote": 332,
+            "votes": {
+                "1": 75,
+                "3": 239,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20037_bulk_999999999_1684096193751355898.jpg",
+            "submission_id": 510273,
+            "total_vote": 328,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 16,
+                "12": 14,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 167,
+                "22": 56,
+                "23": 1,
+                "24": 7,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 5,
+                "7": 2,
+                "8": 1,
+                "9": 57
+            }
+        },
+        "school_name": "GÜRÇEŞME KANUNİ SULTAN SÜLEYMAN ANADOLU LİSESİ (A BLOK)"
+    },
+    {
+        "ballot_box_number": 1313,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/46915_bulk_999999999_1684088581033417619.jpg",
+            "submission_id": 370036,
+            "total_vote": 326,
+            "votes": {
+                "1": 102,
+                "2": 2,
+                "3": 207,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/46915_bulk_999999999_1684088333297632898.jpg",
+            "submission_id": 362297,
+            "total_vote": 320,
+            "votes": {
+                "10": 4,
+                "11": 18,
+                "12": 4,
+                "21": 138,
+                "22": 57,
+                "23": 1,
+                "24": 11,
+                "6": 3,
+                "7": 3,
+                "8": 1,
+                "9": 80
+            }
+        },
+        "school_name": "GÜRÇEŞME KANUNİ SULTAN SÜLEYMAN ANADOLU LİSESİ (A BLOK)"
+    },
+    {
+        "ballot_box_number": 1322,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/75855_cb_1093582536_1684085664702001350.jpg",
+            "submission_id": 273845,
+            "total_vote": 323,
+            "votes": {
+                "1": 100,
+                "2": 1,
+                "3": 202,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "GÜRÇEŞME KANUNİ SULTAN SÜLEYMAN ANADOLU LİSESİ (A BLOK)"
+    },
+    {
+        "ballot_box_number": 1315,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/99ada9d5-f4de-4fba-850e-c91a5441dac9-1684105315727048836.jpg",
+            "submission_id": 617257,
+            "total_vote": 330,
+            "votes": {
+                "1": 92,
+                "2": 2,
+                "3": 215,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2b2b11b2-199d-4fda-b496-8b743d53f79f-1684105298232863716.jpg",
+            "submission_id": 613922,
+            "total_vote": 329,
+            "votes": {
+                "10": 3,
+                "11": 12,
+                "12": 19,
+                "15": 1,
+                "21": 153,
+                "22": 50,
+                "23": 1,
+                "24": 10,
+                "4": 2,
+                "6": 1,
+                "7": 3,
+                "8": 4,
+                "9": 70
+            }
+        },
+        "school_name": "GÜRÇEŞME KANUNİ SULTAN SÜLEYMAN ANADOLU LİSESİ (A BLOK)"
+    },
+    {
+        "ballot_box_number": 1314,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20037_bulk_999999999_1684096247913007811.jpg",
+            "submission_id": 510762,
+            "total_vote": 324,
+            "votes": {
+                "1": 81,
+                "2": 1,
+                "3": 221,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/551b909c-cdbb-48ce-919c-66bf78ace8cc-1684105307765626663.jpg",
+            "submission_id": 615825,
+            "total_vote": 323,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 11,
+                "12": 13,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 2,
+                "20": 1,
+                "21": 156,
+                "22": 52,
+                "23": 1,
+                "24": 6,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 73
+            }
+        },
+        "school_name": "GÜRÇEŞME KANUNİ SULTAN SÜLEYMAN ANADOLU LİSESİ (A BLOK)"
+    },
+    {
+        "ballot_box_number": 1318,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/260_bulk_999999999_1684099790303705645.jpg",
+            "submission_id": 534420,
+            "total_vote": 322,
+            "votes": {
+                "1": 79,
+                "2": 1,
+                "3": 217,
+                "4": 25
+            }
+        },
+        "mv_result": null,
+        "school_name": "GÜRÇEŞME KANUNİ SULTAN SÜLEYMAN ANADOLU LİSESİ (A BLOK)"
+    },
+    {
+        "ballot_box_number": 1312,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "GÜRÇEŞME KANUNİ SULTAN SÜLEYMAN ANADOLU LİSESİ (A BLOK)"
+    },
+    {
+        "ballot_box_number": 1316,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/62275_bulk_999999999_1684086725686390408.jpg",
+            "submission_id": 309440,
+            "total_vote": 323,
+            "votes": {
+                "1": 84,
+                "2": 1,
+                "3": 208,
+                "4": 30
+            }
+        },
+        "mv_result": null,
+        "school_name": "GÜRÇEŞME KANUNİ SULTAN SÜLEYMAN ANADOLU LİSESİ (A BLOK)"
+    },
+    {
+        "ballot_box_number": 1311,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/19661_bulk_999999999_1684099314181046707.jpeg",
+            "submission_id": 532390,
+            "total_vote": 304,
+            "votes": {
+                "1": 95,
+                "2": 2,
+                "3": 201,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/512e6d8c-6e7a-4e20-a42c-dcbbd67022ac-1684105632098063590.jpg",
+            "submission_id": 670471,
+            "total_vote": 291,
+            "votes": {
+                "1": 3,
+                "10": 1,
+                "11": 9,
+                "12": 5,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 146,
+                "22": 32,
+                "23": 0,
+                "24": 7,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 81
+            }
+        },
+        "school_name": "GÜRÇEŞME KANUNİ SULTAN SÜLEYMAN ANADOLU LİSESİ (A BLOK)"
+    },
+    {
+        "ballot_box_number": 1321,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/75855_bulk_999999999_1684080725472022702.jpg",
+            "submission_id": 183388,
+            "total_vote": 329,
+            "votes": {
+                "1": 127,
+                "2": 2,
+                "3": 183,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/75855_bulk_999999999_1684086171826792462.jpg",
+            "submission_id": 290567,
+            "total_vote": 317,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 14,
+                "12": 16,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 134,
+                "22": 27,
+                "23": 1,
+                "24": 11,
+                "3": 2,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 0,
+                "9": 106
+            }
+        },
+        "school_name": "GÜRÇEŞME KANUNİ SULTAN SÜLEYMAN ANADOLU LİSESİ (A BLOK)"
+    },
+    {
+        "ballot_box_number": 1319,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "GÜRÇEŞME KANUNİ SULTAN SÜLEYMAN ANADOLU LİSESİ (A BLOK)"
+    },
+    {
+        "ballot_box_number": 1323,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20037_bulk_999999999_1684096193927140173.jpg",
+            "submission_id": 510275,
+            "total_vote": 319,
+            "votes": {
+                "1": 75,
+                "2": 1,
+                "3": 219,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e31a7394-bce8-4536-a1f2-0d687947f35e-1684105325386324095.jpeg",
+            "submission_id": 619089,
+            "total_vote": 320,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 7,
+                "12": 14,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 161,
+                "22": 47,
+                "23": 0,
+                "24": 12,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 3,
+                "8": 1,
+                "9": 64
+            }
+        },
+        "school_name": "GÜRÇEŞME KANUNİ SULTAN SÜLEYMAN ANADOLU LİSESİ (A BLOK)"
+    }
+]

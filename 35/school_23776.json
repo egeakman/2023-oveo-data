@@ -1,0 +1,36 @@
+[
+    {
+        "ballot_box_number": 1058,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684088692774664886.jpg",
+            "submission_id": 373482,
+            "total_vote": 299,
+            "votes": {
+                "1": 89,
+                "2": 4,
+                "3": 193,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇAMÖNÜ NAİLE KARADENİZ İLK-ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1057,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "ÇAMÖNÜ NAİLE KARADENİZ İLK-ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1059,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "ÇAMÖNÜ NAİLE KARADENİZ İLK-ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1056,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "ÇAMÖNÜ NAİLE KARADENİZ İLK-ORTAOKULU"
+    }
+]

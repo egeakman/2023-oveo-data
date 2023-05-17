@@ -1,0 +1,79 @@
+[
+    {
+        "ballot_box_number": 1086,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31510_cb_1093859920_1684081089768430431.jpg",
+            "submission_id": 185997,
+            "total_vote": 160,
+            "votes": {
+                "1": 53,
+                "3": 104,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31510_mv_1083859920_1684081040919807469.jpg",
+            "submission_id": 185624,
+            "total_vote": 159,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 3,
+                "12": 10,
+                "21": 69,
+                "22": 18,
+                "24": 3,
+                "3": 1,
+                "6": 1,
+                "7": 5,
+                "9": 44
+            }
+        },
+        "school_name": "HALİTBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1087,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31510_cb_1093859921_1684084945502155783.jpg",
+            "submission_id": 252541,
+            "total_vote": 157,
+            "votes": {
+                "1": 49,
+                "2": 2,
+                "3": 97,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22079_cb_1093859921_1684084077238417522.jpg",
+            "submission_id": 229859,
+            "total_vote": 153,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 4,
+                "12": 5,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 4,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 62,
+                "22": 26,
+                "23": 0,
+                "24": 0,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 0,
+                "8": 2,
+                "9": 41
+            }
+        },
+        "school_name": "HALİTBEY İLKOKULU"
+    }
+]

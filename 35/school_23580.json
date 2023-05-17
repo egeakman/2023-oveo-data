@@ -1,0 +1,319 @@
+[
+    {
+        "ballot_box_number": 1160,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4e6ddefc-6d05-4ed1-9d91-e9a265da9496-1684106419721788242.jpg",
+            "submission_id": 784909,
+            "total_vote": 327,
+            "votes": {
+                "1": 107,
+                "2": 1,
+                "3": 208,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/68086757-2139-4af8-ae29-f1c9159561dd-1684106053877957874.jpg",
+            "submission_id": 731975,
+            "total_vote": 325,
+            "votes": {
+                "10": 2,
+                "11": 14,
+                "12": 20,
+                "17": 1,
+                "19": 1,
+                "21": 127,
+                "22": 50,
+                "24": 7,
+                "3": 6,
+                "5": 1,
+                "6": 3,
+                "7": 5,
+                "8": 1,
+                "9": 87
+            }
+        },
+        "school_name": "ŞEHİT TEĞMEN SERDAR GENÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1153,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52819_cb_1093797827_1684090803923512128.jpeg",
+            "submission_id": 427736,
+            "total_vote": 337,
+            "votes": {
+                "1": 87,
+                "3": 228,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT TEĞMEN SERDAR GENÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1151,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52819_cb_1093797825_1684090374541336946.jpeg",
+            "submission_id": 418512,
+            "total_vote": 320,
+            "votes": {
+                "1": 93,
+                "2": 2,
+                "3": 222,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/afde6870-5d07-4403-979d-c5ad64d93686-1684106093903086172.jpeg",
+            "submission_id": 737389,
+            "total_vote": 309,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 17,
+                "12": 26,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 144,
+                "22": 44,
+                "23": 1,
+                "24": 2,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 3,
+                "9": 65
+            }
+        },
+        "school_name": "ŞEHİT TEĞMEN SERDAR GENÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1152,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52819_cb_1093797826_1684090406954847142.jpeg",
+            "submission_id": 419233,
+            "total_vote": 338,
+            "votes": {
+                "1": 97,
+                "3": 217,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52819_mv_1083797826_1684090641778704623.jpeg",
+            "submission_id": 424382,
+            "total_vote": 334,
+            "votes": {
+                "10": 3,
+                "11": 13,
+                "12": 21,
+                "15": 1,
+                "21": 153,
+                "22": 46,
+                "24": 10,
+                "3": 1,
+                "6": 2,
+                "7": 4,
+                "8": 4,
+                "9": 76
+            }
+        },
+        "school_name": "ŞEHİT TEĞMEN SERDAR GENÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1154,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52819_cb_1093797828_1684090467481024151.jpeg",
+            "submission_id": 420597,
+            "total_vote": 329,
+            "votes": {
+                "1": 77,
+                "2": 1,
+                "3": 226,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/78e1a027-9a5f-4989-9839-30e0a05c8503-1684106181500627044.jpeg",
+            "submission_id": 750377,
+            "total_vote": 326,
+            "votes": {
+                "10": 1,
+                "11": 21,
+                "12": 34,
+                "21": 140,
+                "22": 46,
+                "23": 1,
+                "24": 12,
+                "5": 1,
+                "7": 4,
+                "8": 1,
+                "9": 65
+            }
+        },
+        "school_name": "ŞEHİT TEĞMEN SERDAR GENÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1157,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ead36c18-2579-4867-9423-4878ad16d5f5-1684105826738416354.jpg",
+            "submission_id": 701256,
+            "total_vote": 313,
+            "votes": {
+                "1": 110,
+                "2": 0,
+                "3": 184,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT TEĞMEN SERDAR GENÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1158,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52819_cb_1093797832_1684090508986749339.jpeg",
+            "submission_id": 421559,
+            "total_vote": 327,
+            "votes": {
+                "1": 95,
+                "2": 0,
+                "3": 207,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52819_mv_1083797832_1684090594173708927.jpeg",
+            "submission_id": 423531,
+            "total_vote": 319,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 10,
+                "12": 29,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 135,
+                "22": 46,
+                "23": 0,
+                "24": 14,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 1,
+                "8": 2,
+                "9": 72
+            }
+        },
+        "school_name": "ŞEHİT TEĞMEN SERDAR GENÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1156,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/46829_bulk_999999999_1684078861603835481.jpeg",
+            "submission_id": 175333,
+            "total_vote": 323,
+            "votes": {
+                "1": 86,
+                "2": 0,
+                "3": 218,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/46829_bulk_999999999_1684083714627211264.jpeg",
+            "submission_id": 222178,
+            "total_vote": 318,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 11,
+                "12": 29,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 4,
+                "21": 131,
+                "22": 62,
+                "23": 4,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 2,
+                "8": 2,
+                "9": 62
+            }
+        },
+        "school_name": "ŞEHİT TEĞMEN SERDAR GENÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1155,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0311b149-020e-4ef4-993f-1b0532f7cddf-1684106336402712172.jpg",
+            "submission_id": 773078,
+            "total_vote": 330,
+            "votes": {
+                "1": 88,
+                "2": 2,
+                "3": 214,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/20e53b18-b5dc-47c5-b32d-49f09e2ba423-1684106272895265493.jpg",
+            "submission_id": 764772,
+            "total_vote": 324,
+            "votes": {
+                "10": 1,
+                "11": 18,
+                "12": 26,
+                "19": 1,
+                "21": 133,
+                "22": 59,
+                "24": 9,
+                "3": 1,
+                "6": 2,
+                "7": 5,
+                "8": 3,
+                "9": 66
+            }
+        },
+        "school_name": "ŞEHİT TEĞMEN SERDAR GENÇ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1159,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21469_cb_1093797833_1684086468034352023.jpg",
+            "submission_id": 300327,
+            "total_vote": 323,
+            "votes": {
+                "1": 102,
+                "3": 193,
+                "4": 28
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT TEĞMEN SERDAR GENÇ İLKOKULU"
+    }
+]

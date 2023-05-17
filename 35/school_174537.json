@@ -1,0 +1,24 @@
+[
+    {
+        "ballot_box_number": 1319,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "80. YIL ÇAYBAŞI İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1318,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/68746_bulk_999999999_1684137538064655400.jpeg",
+            "submission_id": 1017142,
+            "total_vote": 328,
+            "votes": {
+                "1": 146,
+                "2": 2,
+                "3": 177,
+                "4": 3
+            }
+        },
+        "mv_result": null,
+        "school_name": "80. YIL ÇAYBAŞI İLKOKULU"
+    }
+]

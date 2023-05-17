@@ -1,0 +1,476 @@
+[
+    {
+        "ballot_box_number": 1287,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/1024b707-fd23-40f4-9103-be622fb5a2e9-1684105412461560784.jpg",
+            "submission_id": 634720,
+            "total_vote": 317,
+            "votes": {
+                "1": 73,
+                "2": 3,
+                "3": 232,
+                "4": 9
+            }
+        },
+        "mv_result": null,
+        "school_name": "AHMET ADNAN SAYGUN SAĞLIK MESLEK LİSESİ"
+    },
+    {
+        "ballot_box_number": 1290,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ae6667e7-01f6-4abe-b3da-bef1cc512df7-1684106563367346367.jpeg",
+            "submission_id": 806274,
+            "total_vote": 330,
+            "votes": {
+                "1": 70,
+                "2": 1,
+                "3": 242,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "AHMET ADNAN SAYGUN SAĞLIK MESLEK LİSESİ"
+    },
+    {
+        "ballot_box_number": 1285,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0442846b-7ff8-4d2a-8e13-326a1d7420df-1684105424217364868.jpg",
+            "submission_id": 636934,
+            "total_vote": 327,
+            "votes": {
+                "1": 84,
+                "2": 4,
+                "3": 227,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "AHMET ADNAN SAYGUN SAĞLIK MESLEK LİSESİ"
+    },
+    {
+        "ballot_box_number": 1291,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/74381_cb_1093580805_1684089636096410319.jpg",
+            "submission_id": 400031,
+            "total_vote": 338,
+            "votes": {
+                "1": 97,
+                "2": 1,
+                "3": 226,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/74381_mv_1083580805_1684089509937696516.jpg",
+            "submission_id": 396480,
+            "total_vote": 328,
+            "votes": {
+                "10": 3,
+                "11": 12,
+                "12": 15,
+                "13": 16,
+                "21": 157,
+                "22": 35,
+                "24": 10,
+                "3": 1,
+                "5": 1,
+                "7": 3,
+                "8": 3,
+                "9": 72
+            }
+        },
+        "school_name": "AHMET ADNAN SAYGUN SAĞLIK MESLEK LİSESİ"
+    },
+    {
+        "ballot_box_number": 1299,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/92da071c-2465-45c3-8537-805acf76f094-1684106441407788943.jpg",
+            "submission_id": 789020,
+            "total_vote": 324,
+            "votes": {
+                "1": 90,
+                "2": 1,
+                "3": 219,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/47f2ada5-aac0-4143-9870-773ad6c39ad9-1684106379089965023.jpg",
+            "submission_id": 779537,
+            "total_vote": 321,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 12,
+                "12": 6,
+                "13": 28,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 138,
+                "22": 40,
+                "23": 0,
+                "24": 9,
+                "3": 0,
+                "4": 7,
+                "5": 1,
+                "6": 2,
+                "7": 5,
+                "8": 0,
+                "9": 71
+            }
+        },
+        "school_name": "AHMET ADNAN SAYGUN SAĞLIK MESLEK LİSESİ"
+    },
+    {
+        "ballot_box_number": 1292,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/eda78266-7bc4-43c0-92cd-a4a51e433656-1684106154162655769.jpg",
+            "submission_id": 746374,
+            "total_vote": 336,
+            "votes": {
+                "1": 93,
+                "3": 226,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/26545a53-9c06-4bf4-87a0-4acd171eaae1-1684106113525224583.jpg",
+            "submission_id": 740691,
+            "total_vote": 332,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 18,
+                "12": 16,
+                "13": 31,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 134,
+                "22": 34,
+                "23": 1,
+                "24": 12,
+                "3": 1,
+                "4": 0,
+                "5": 3,
+                "6": 1,
+                "7": 8,
+                "8": 0,
+                "9": 71
+            }
+        },
+        "school_name": "AHMET ADNAN SAYGUN SAĞLIK MESLEK LİSESİ"
+    },
+    {
+        "ballot_box_number": 1293,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28988_cb_1093580807_1684082843880440465.jpg",
+            "submission_id": 206122,
+            "total_vote": 330,
+            "votes": {
+                "1": 89,
+                "2": 7,
+                "3": 215,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28988_mv_1083580807_1684088689213648683.jpg",
+            "submission_id": 373392,
+            "total_vote": 326,
+            "votes": {
+                "10": 3,
+                "11": 20,
+                "12": 18,
+                "13": 22,
+                "15": 1,
+                "17": 1,
+                "2": 1,
+                "20": 1,
+                "21": 141,
+                "22": 36,
+                "24": 7,
+                "3": 1,
+                "6": 2,
+                "7": 8,
+                "8": 2,
+                "9": 62
+            }
+        },
+        "school_name": "AHMET ADNAN SAYGUN SAĞLIK MESLEK LİSESİ"
+    },
+    {
+        "ballot_box_number": 1295,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/6f1890f1-07df-41dd-bea0-6bf13e80c72f-1684106480440964430.jpg",
+            "submission_id": 794287,
+            "total_vote": 330,
+            "votes": {
+                "1": 70,
+                "3": 240,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/6569311f-ad11-40dd-89a9-20c77a52fb56-1684106460512346803.jpg",
+            "submission_id": 791476,
+            "total_vote": 329,
+            "votes": {
+                "1": 2,
+                "10": 5,
+                "11": 16,
+                "12": 16,
+                "13": 30,
+                "20": 1,
+                "21": 149,
+                "22": 48,
+                "23": 1,
+                "24": 7,
+                "3": 2,
+                "6": 1,
+                "7": 3,
+                "9": 48
+            }
+        },
+        "school_name": "AHMET ADNAN SAYGUN SAĞLIK MESLEK LİSESİ"
+    },
+    {
+        "ballot_box_number": 1298,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3be76a41-6f4a-4519-94ed-5171f15a6a3c-1684106568485903095.jpeg",
+            "submission_id": 807196,
+            "total_vote": 318,
+            "votes": {
+                "1": 97,
+                "2": 1,
+                "3": 201,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4098b99a-536b-40a9-b31e-24fde7afded1-1684106530704997165.jpeg",
+            "submission_id": 801722,
+            "total_vote": 317,
+            "votes": {
+                "10": 1,
+                "11": 23,
+                "12": 15,
+                "13": 19,
+                "15": 1,
+                "21": 128,
+                "22": 31,
+                "23": 1,
+                "24": 10,
+                "3": 1,
+                "5": 1,
+                "6": 2,
+                "7": 6,
+                "8": 1,
+                "9": 77
+            }
+        },
+        "school_name": "AHMET ADNAN SAYGUN SAĞLIK MESLEK LİSESİ"
+    },
+    {
+        "ballot_box_number": 1296,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c5ce17b8-d403-47da-9092-767490b527fc-1684106417487146034.jpg",
+            "submission_id": 784865,
+            "total_vote": 326,
+            "votes": {
+                "1": 93,
+                "3": 209,
+                "4": 24
+            }
+        },
+        "mv_result": null,
+        "school_name": "AHMET ADNAN SAYGUN SAĞLIK MESLEK LİSESİ"
+    },
+    {
+        "ballot_box_number": 1288,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9056d39c-0c0c-46ee-976c-e1d5dd82db43-1684106214749863468.jpg",
+            "submission_id": 755435,
+            "total_vote": 328,
+            "votes": {
+                "1": 67,
+                "2": 2,
+                "3": 240,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0e9c9c9b-174e-4bf9-a309-ade011d2e5c5-1684106209078171719.jpg",
+            "submission_id": 754588,
+            "total_vote": 325,
+            "votes": {
+                "10": 2,
+                "11": 13,
+                "12": 16,
+                "13": 27,
+                "17": 2,
+                "21": 153,
+                "22": 34,
+                "23": 1,
+                "24": 14,
+                "3": 3,
+                "5": 1,
+                "6": 1,
+                "7": 3,
+                "8": 2,
+                "9": 53
+            }
+        },
+        "school_name": "AHMET ADNAN SAYGUN SAĞLIK MESLEK LİSESİ"
+    },
+    {
+        "ballot_box_number": 1289,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31658_cb_1093580803_1684086855911149958.jpg",
+            "submission_id": 313953,
+            "total_vote": 326,
+            "votes": {
+                "1": 97,
+                "3": 213,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ac778d2b-9efb-4e27-ae7a-f25f280b9925-1684106033065638495.jpg",
+            "submission_id": 729267,
+            "total_vote": 326,
+            "votes": {
+                "10": 2,
+                "11": 21,
+                "12": 8,
+                "13": 19,
+                "21": 146,
+                "22": 37,
+                "24": 12,
+                "3": 2,
+                "6": 1,
+                "8": 1,
+                "9": 77
+            }
+        },
+        "school_name": "AHMET ADNAN SAYGUN SAĞLIK MESLEK LİSESİ"
+    },
+    {
+        "ballot_box_number": 1297,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/675c692a-45d7-45b1-893c-582442c46c0f-1684105953652438961.jpg",
+            "submission_id": 718127,
+            "total_vote": 328,
+            "votes": {
+                "1": 75,
+                "3": 238,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/46bbf66d-ab06-4f1b-9091-64bf57cc800d-1684105947416608920.jpg",
+            "submission_id": 717030,
+            "total_vote": 328,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 7,
+                "12": 17,
+                "13": 26,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 134,
+                "22": 48,
+                "23": 14,
+                "24": 0,
+                "3": 4,
+                "4": 2,
+                "5": 1,
+                "6": 2,
+                "7": 4,
+                "8": 1,
+                "9": 68
+            }
+        },
+        "school_name": "AHMET ADNAN SAYGUN SAĞLIK MESLEK LİSESİ"
+    },
+    {
+        "ballot_box_number": 1286,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/6aa0b594-1d13-4b91-9323-bd0a326b34fd-1684106200017119163.jpg",
+            "submission_id": 753210,
+            "total_vote": 318,
+            "votes": {
+                "1": 63,
+                "2": 0,
+                "3": 250,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/804673ff-bd65-4d30-b2de-9c924c1f4c74-1684105463563860479.jpg",
+            "submission_id": 643440,
+            "total_vote": 308,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 15,
+                "12": 18,
+                "13": 8,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 1,
+                "20": 2,
+                "21": 178,
+                "22": 30,
+                "23": 2,
+                "24": 4,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 0,
+                "9": 44
+            }
+        },
+        "school_name": "AHMET ADNAN SAYGUN SAĞLIK MESLEK LİSESİ"
+    },
+    {
+        "ballot_box_number": 1294,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/83068_mv_1083580808_1684086014393194846.jpg",
+            "submission_id": 285391,
+            "total_vote": 328,
+            "votes": {
+                "1": 78,
+                "2": 1,
+                "3": 237,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "AHMET ADNAN SAYGUN SAĞLIK MESLEK LİSESİ"
+    }
+]

@@ -1,0 +1,483 @@
+[
+    {
+        "ballot_box_number": 1012,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/45297_bulk_999999999_1684088687243304911.jpeg",
+            "submission_id": 373339,
+            "total_vote": 322,
+            "votes": {
+                "1": 69,
+                "2": 1,
+                "3": 233,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/45297_bulk_999999999_1684088665925987007.jpeg",
+            "submission_id": 372701,
+            "total_vote": 322,
+            "votes": {
+                "10": 4,
+                "11": 13,
+                "12": 16,
+                "17": 1,
+                "21": 170,
+                "22": 39,
+                "24": 16,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "9": 59
+            }
+        },
+        "school_name": "AHMET KUTSİ TECER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1010,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/45979_cb_1093568533_1684085249443920171.jpg",
+            "submission_id": 261284,
+            "total_vote": 331,
+            "votes": {
+                "1": 69,
+                "3": 236,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/45297_bulk_999999999_1684089403454880900.jpeg",
+            "submission_id": 393532,
+            "total_vote": 326,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 15,
+                "12": 19,
+                "22": 139,
+                "23": 70,
+                "24": 20,
+                "7": 6,
+                "8": 1,
+                "9": 53
+            }
+        },
+        "school_name": "AHMET KUTSİ TECER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1001,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/15463_bulk_999999999_1684086585346683473.jpeg",
+            "submission_id": 304515,
+            "total_vote": 298,
+            "votes": {
+                "1": 85,
+                "2": 1,
+                "3": 206,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/15463_bulk_999999999_1684086585426340407.jpeg",
+            "submission_id": 304520,
+            "total_vote": 297,
+            "votes": {
+                "10": 4,
+                "11": 10,
+                "12": 6,
+                "14": 0,
+                "15": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 142,
+                "22": 51,
+                "23": 0,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 6,
+                "8": 2,
+                "9": 66
+            }
+        },
+        "school_name": "AHMET KUTSİ TECER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1003,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/45297_bulk_999999999_1684091648695629242.jpeg",
+            "submission_id": 443570,
+            "total_vote": 336,
+            "votes": {
+                "1": 70,
+                "2": 0,
+                "3": 245,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/45297_bulk_999999999_1684091648781338800.jpeg",
+            "submission_id": 443571,
+            "total_vote": 330,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 7,
+                "12": 23,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 170,
+                "22": 56,
+                "23": 0,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 8,
+                "8": 1,
+                "9": 52
+            }
+        },
+        "school_name": "AHMET KUTSİ TECER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1002,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15463_cb_1093568525_1684083779012854945.jpg",
+            "submission_id": 223543,
+            "total_vote": 319,
+            "votes": {
+                "1": 64,
+                "2": 1,
+                "3": 236,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "AHMET KUTSİ TECER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1009,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/35526_cb_1093568532_1684082321563541031.jpg",
+            "submission_id": 198664,
+            "total_vote": 319,
+            "votes": {
+                "1": 78,
+                "2": 3,
+                "3": 214,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/35526_mv_1083568532_1684083507841888030.jpg",
+            "submission_id": 217949,
+            "total_vote": 316,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 20,
+                "12": 16,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 2,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 146,
+                "22": 48,
+                "23": 0,
+                "24": 12,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 8,
+                "8": 1,
+                "9": 59
+            }
+        },
+        "school_name": "AHMET KUTSİ TECER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1005,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15463_cb_1093568528_1684085528713452603.jpg",
+            "submission_id": 269486,
+            "total_vote": 321,
+            "votes": {
+                "1": 71,
+                "2": 0,
+                "3": 227,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/45297_mv_1083568528_1684086517629830423.jpg",
+            "submission_id": 302162,
+            "total_vote": 316,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 11,
+                "12": 13,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 149,
+                "22": 55,
+                "23": 1,
+                "24": 17,
+                "3": 1,
+                "4": 0,
+                "5": 2,
+                "6": 1,
+                "7": 10,
+                "8": 0,
+                "9": 53
+            }
+        },
+        "school_name": "AHMET KUTSİ TECER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1006,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/45297_bulk_999999999_1684086414692379942.jpeg",
+            "submission_id": 298540,
+            "total_vote": 322,
+            "votes": {
+                "1": 64,
+                "2": 2,
+                "3": 232,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/45297_bulk_999999999_1684088340633491778.jpeg",
+            "submission_id": 362536,
+            "total_vote": 321,
+            "votes": {
+                "10": 2,
+                "11": 17,
+                "12": 20,
+                "18": 1,
+                "21": 157,
+                "22": 55,
+                "23": 1,
+                "24": 15,
+                "3": 1,
+                "6": 1,
+                "7": 4,
+                "9": 47
+            }
+        },
+        "school_name": "AHMET KUTSİ TECER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1013,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/57914_bulk_999999999_1684087957920386515.jpeg",
+            "submission_id": 350497,
+            "total_vote": 321,
+            "votes": {
+                "1": 61,
+                "2": 0,
+                "3": 241,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/57914_bulk_999999999_1684087958006052871.jpeg",
+            "submission_id": 350505,
+            "total_vote": 319,
+            "votes": {
+                "10": 1,
+                "11": 6,
+                "12": 22,
+                "14": 1,
+                "21": 145,
+                "22": 58,
+                "23": 1,
+                "24": 14,
+                "3": 3,
+                "5": 2,
+                "6": 3,
+                "7": 10,
+                "9": 53
+            }
+        },
+        "school_name": "AHMET KUTSİ TECER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1011,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/51617_bulk_999999999_1684086822930794796.jpg",
+            "submission_id": 312868,
+            "total_vote": 317,
+            "votes": {
+                "1": 82,
+                "3": 214,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/51617_bulk_999999999_1684086678603811757.jpg",
+            "submission_id": 307722,
+            "total_vote": 313,
+            "votes": {
+                "10": 5,
+                "11": 9,
+                "12": 16,
+                "16": 1,
+                "21": 152,
+                "22": 45,
+                "24": 9,
+                "3": 2,
+                "6": 2,
+                "7": 7,
+                "8": 1,
+                "9": 64
+            }
+        },
+        "school_name": "AHMET KUTSİ TECER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1008,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/15463_bulk_999999999_1684085129063294078.jpeg",
+            "submission_id": 257758,
+            "total_vote": 327,
+            "votes": {
+                "1": 87,
+                "2": 5,
+                "3": 215,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/15463_bulk_999999999_1684085128962142941.jpeg",
+            "submission_id": 257752,
+            "total_vote": 324,
+            "votes": {
+                "11": 26,
+                "12": 18,
+                "21": 142,
+                "22": 42,
+                "24": 17,
+                "3": 1,
+                "5": 1,
+                "7": 11,
+                "9": 66
+            }
+        },
+        "school_name": "AHMET KUTSİ TECER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1004,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/33523_cb_1093568527_1684082360692277821.jpg",
+            "submission_id": 199134,
+            "total_vote": 321,
+            "votes": {
+                "1": 53,
+                "2": 1,
+                "3": 247,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/33523_mv_1083568527_1684083667249380824.jpg",
+            "submission_id": 221186,
+            "total_vote": 323,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 15,
+                "12": 18,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 163,
+                "22": 57,
+                "23": 0,
+                "24": 15,
+                "3": 3,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 6,
+                "8": 0,
+                "9": 41
+            }
+        },
+        "school_name": "AHMET KUTSİ TECER İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1007,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20013_bulk_999999999_1684084573737956649.jpeg",
+            "submission_id": 242418,
+            "total_vote": 331,
+            "votes": {
+                "1": 77,
+                "2": 2,
+                "3": 230,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20013_bulk_999999999_1684084597913539869.jpeg",
+            "submission_id": 243074,
+            "total_vote": 332,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 13,
+                "12": 12,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 2,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 149,
+                "22": 65,
+                "23": 0,
+                "24": 21,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 0,
+                "8": 1,
+                "9": 62
+            }
+        },
+        "school_name": "AHMET KUTSİ TECER İLKOKULU"
+    }
+]

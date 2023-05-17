@@ -1,0 +1,64 @@
+[
+    {
+        "ballot_box_number": 1335,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ee0046ec-c583-4a44-931c-c962088d703b-1684106309623834814.jpg",
+            "submission_id": 769299,
+            "total_vote": 174,
+            "votes": {
+                "1": 108,
+                "2": 3,
+                "3": 53,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "SÜLEYMANLI KÖY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1336,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/44df3340-9d63-494a-b8ba-bb40c22bd20a-1684106384666562644.jpg",
+            "submission_id": 779946,
+            "total_vote": 188,
+            "votes": {
+                "1": 91,
+                "2": 6,
+                "3": 77,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a8eb9f49-5280-470b-b8c6-3068c3b0c9a9-1684106382101352571.jpg",
+            "submission_id": 779682,
+            "total_vote": 182,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 41,
+                "12": 5,
+                "13": 0,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 53,
+                "22": 19,
+                "23": 1,
+                "24": 2,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 2,
+                "9": 54
+            }
+        },
+        "school_name": "SÜLEYMANLI KÖY İLKOKULU"
+    }
+]

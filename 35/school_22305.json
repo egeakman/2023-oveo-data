@@ -1,0 +1,36 @@
+[
+    {
+        "ballot_box_number": 1080,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/271_bulk_999999999_1684084289846043733.jpg",
+            "submission_id": 235249,
+            "total_vote": 215,
+            "votes": {
+                "1": 59,
+                "2": 1,
+                "3": 153,
+                "4": 2
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/271_bulk_999999999_1684084360740983684.jpg",
+            "submission_id": 236995,
+            "total_vote": 207,
+            "votes": {
+                "10": 1,
+                "11": 16,
+                "12": 26,
+                "13": 23,
+                "15": 1,
+                "21": 82,
+                "22": 18,
+                "23": 2,
+                "24": 3,
+                "5": 1,
+                "8": 1,
+                "9": 33
+            }
+        },
+        "school_name": "YENİKÖY İLKOKULU"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "ballot_box_number": 1027,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/53416_cb_1093796581_1684085306371839302.jpg",
+            "submission_id": 262970,
+            "total_vote": 255,
+            "votes": {
+                "1": 124,
+                "2": 4,
+                "3": 105,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/53416_mv_1083796581_1684085241667191354.jpg",
+            "submission_id": 261062,
+            "total_vote": 236,
+            "votes": {
+                "10": 2,
+                "11": 18,
+                "12": 3,
+                "13": 6,
+                "14": 3,
+                "17": 1,
+                "2": 1,
+                "20": 1,
+                "21": 67,
+                "22": 18,
+                "23": 3,
+                "24": 10,
+                "3": 1,
+                "4": 1,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 96
+            }
+        },
+        "school_name": "KARAOBA İLKOKULU"
+    }
+]

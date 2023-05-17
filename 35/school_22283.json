@@ -1,0 +1,48 @@
+[
+    {
+        "ballot_box_number": 1026,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/4364_bulk_999999999_1684089119143997146.jpeg",
+            "submission_id": 385846,
+            "total_vote": 307,
+            "votes": {
+                "1": 71,
+                "2": 2,
+                "3": 219,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/4364_bulk_999999999_1684087296095568534.jpeg",
+            "submission_id": 329252,
+            "total_vote": 295,
+            "votes": {
+                "1": 2,
+                "10": 3,
+                "11": 19,
+                "12": 0,
+                "13": 2,
+                "14": 2,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 4,
+                "2": 2,
+                "20": 0,
+                "21": 171,
+                "22": 37,
+                "23": 1,
+                "24": 0,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 3,
+                "7": 1,
+                "8": 0,
+                "9": 47
+            }
+        },
+        "school_name": "HALIKÖY İLKOKULU"
+    }
+]

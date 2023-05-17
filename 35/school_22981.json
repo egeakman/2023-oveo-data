@@ -1,0 +1,185 @@
+[
+    {
+        "ballot_box_number": 1186,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/65978_bulk_999999999_1684082060822052795.jpeg",
+            "submission_id": 195363,
+            "total_vote": 317,
+            "votes": {
+                "1": 54,
+                "2": 1,
+                "3": 253,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/43813_mv_1083860883_1684084633115366842.jpg",
+            "submission_id": 244037,
+            "total_vote": 314,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 8,
+                "12": 2,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 217,
+                "22": 37,
+                "23": 2,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 1,
+                "9": 39
+            }
+        },
+        "school_name": "MÜDAFAA-İ HUKUK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1188,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/12730_bulk_999999999_1684089418963614426.jpeg",
+            "submission_id": 394007,
+            "total_vote": 338,
+            "votes": {
+                "1": 34,
+                "3": 300,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/12730_bulk_999999999_1684089242261389004.jpeg",
+            "submission_id": 389323,
+            "total_vote": 342,
+            "votes": {
+                "10": 28,
+                "11": 1,
+                "12": 6,
+                "14": 14,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 231,
+                "22": 46,
+                "23": 0,
+                "24": 5,
+                "3": 0,
+                "4": 2,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 6,
+                "9": 0
+            }
+        },
+        "school_name": "MÜDAFAA-İ HUKUK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1189,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65978_cb_1093860886_1684081374518573939.jpg",
+            "submission_id": 188299,
+            "total_vote": 344,
+            "votes": {
+                "1": 42,
+                "2": 3,
+                "3": 288,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/65978_bulk_999999999_1684087342068269464.jpeg",
+            "submission_id": 330744,
+            "total_vote": 341,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 9,
+                "12": 12,
+                "21": 225,
+                "22": 44,
+                "24": 9,
+                "3": 1,
+                "6": 4,
+                "7": 5,
+                "8": 1,
+                "9": 28
+            }
+        },
+        "school_name": "MÜDAFAA-İ HUKUK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1187,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d0592779-a3e7-45e5-b750-a29ad87320c3-1684106262036376460.jpeg",
+            "submission_id": 762971,
+            "total_vote": 346,
+            "votes": {
+                "1": 37,
+                "2": 2,
+                "3": 300,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "MÜDAFAA-İ HUKUK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1190,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/43813_cb_1093860887_1684083848699544639.jpg",
+            "submission_id": 225064,
+            "total_vote": 346,
+            "votes": {
+                "1": 34,
+                "2": 3,
+                "3": 295,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/12730_bulk_999999999_1684089322490569617.jpeg",
+            "submission_id": 391458,
+            "total_vote": 340,
+            "votes": {
+                "1": 0,
+                "10": 28,
+                "11": 1,
+                "12": 5,
+                "14": 17,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 213,
+                "22": 56,
+                "23": 1,
+                "24": 12,
+                "3": 0,
+                "4": 3,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 4,
+                "9": 0
+            }
+        },
+        "school_name": "MÜDAFAA-İ HUKUK İLKOKULU"
+    }
+]

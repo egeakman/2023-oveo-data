@@ -1,0 +1,515 @@
+[
+    {
+        "ballot_box_number": 2366,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/35352_cb_1093801320_1684088371036702912.jpg",
+            "submission_id": 363447,
+            "total_vote": 318,
+            "votes": {
+                "1": 128,
+                "2": 2,
+                "3": 170,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/35352_mv_1083801320_1684088403467783309.jpg",
+            "submission_id": 364513,
+            "total_vote": 306,
+            "votes": {
+                "10": 8,
+                "11": 20,
+                "12": 50,
+                "14": 1,
+                "21": 77,
+                "22": 40,
+                "23": 1,
+                "24": 9,
+                "6": 1,
+                "7": 4,
+                "9": 95
+            }
+        },
+        "school_name": "50.YIL ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2365,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/24025_cb_1093801319_1684084368315114092.jpg",
+            "submission_id": 237176,
+            "total_vote": 330,
+            "votes": {
+                "1": 152,
+                "2": 2,
+                "3": 157,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/24025_mv_1083801318_1684083356703859707.jpg",
+            "submission_id": 215010,
+            "total_vote": 320,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 36,
+                "12": 41,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 92,
+                "22": 18,
+                "23": 0,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 6,
+                "8": 3,
+                "9": 106
+            }
+        },
+        "school_name": "50.YIL ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2353,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/70840_mv_1083801127_1684082982169344746.jpg",
+            "submission_id": 208402,
+            "total_vote": 278,
+            "votes": {
+                "1": 146,
+                "3": 123,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/70840_cb_1093801127_1684082950389798118.jpg",
+            "submission_id": 207899,
+            "total_vote": 267,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 14,
+                "12": 26,
+                "13": 0,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 79,
+                "22": 23,
+                "23": 1,
+                "24": 0,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 1,
+                "9": 109
+            }
+        },
+        "school_name": "50.YIL ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2355,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/35352_cb_1093801129_1684092289425695256.jpg",
+            "submission_id": 453963,
+            "total_vote": 315,
+            "votes": {
+                "1": 150,
+                "2": 2,
+                "3": 147,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/35352_mv_1083801129_1684092232987746856.jpg",
+            "submission_id": 453061,
+            "total_vote": 312,
+            "votes": {
+                "10": 4,
+                "11": 32,
+                "12": 38,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "2": 1,
+                "20": 0,
+                "21": 78,
+                "22": 25,
+                "23": 0,
+                "24": 8,
+                "3": 0,
+                "4": 2,
+                "5": 0,
+                "6": 2,
+                "7": 4,
+                "8": 2,
+                "9": 115
+            }
+        },
+        "school_name": "50.YIL ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2358,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28952_cb_1093801132_1684082701824594674.jpg",
+            "submission_id": 203894,
+            "total_vote": 325,
+            "votes": {
+                "1": 148,
+                "2": 2,
+                "3": 156,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c5cddfcc-12eb-4042-a7d8-f76689ea1bb3-1684105242996010342.jpg",
+            "submission_id": 602918,
+            "total_vote": 317,
+            "votes": {
+                "1": 0,
+                "10": 11,
+                "11": 30,
+                "12": 38,
+                "14": 1,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 90,
+                "22": 27,
+                "23": 1,
+                "24": 8,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 3,
+                "9": 100
+            }
+        },
+        "school_name": "50.YIL ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2364,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/35352_cb_1093801318_1684089261791073540.jpg",
+            "submission_id": 389857,
+            "total_vote": 326,
+            "votes": {
+                "1": 151,
+                "2": 2,
+                "3": 158,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "50.YIL ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2356,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/35352_cb_1093801130_1684092678493299470.jpg",
+            "submission_id": 459546,
+            "total_vote": 305,
+            "votes": {
+                "1": 141,
+                "3": 143,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/35352_mv_1083801130_1684092737892057865.jpg",
+            "submission_id": 460340,
+            "total_vote": 301,
+            "votes": {
+                "10": 10,
+                "11": 19,
+                "12": 39,
+                "15": 1,
+                "19": 1,
+                "20": 1,
+                "21": 80,
+                "22": 22,
+                "24": 11,
+                "3": 1,
+                "6": 2,
+                "7": 1,
+                "8": 2,
+                "9": 111
+            }
+        },
+        "school_name": "50.YIL ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2363,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/35352_cb_1093801317_1684089824031776277.jpg",
+            "submission_id": 405095,
+            "total_vote": 326,
+            "votes": {
+                "1": 153,
+                "3": 156,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/35352_mv_1083801317_1684089852667955038.jpg",
+            "submission_id": 405850,
+            "total_vote": 325,
+            "votes": {
+                "10": 9,
+                "11": 37,
+                "12": 42,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 73,
+                "22": 37,
+                "23": 0,
+                "24": 9,
+                "3": 1,
+                "4": 0,
+                "5": 3,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 109
+            }
+        },
+        "school_name": "50.YIL ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2360,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22506_cb_1093801134_1684086596534779552.jpg",
+            "submission_id": 304910,
+            "total_vote": 318,
+            "votes": {
+                "1": 159,
+                "2": 1,
+                "3": 141,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22506_mv_1083801134_1684085584349690825.jpg",
+            "submission_id": 271221,
+            "total_vote": 305,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 25,
+                "12": 28,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 4,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 88,
+                "22": 22,
+                "23": 4,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 0,
+                "9": 119
+            }
+        },
+        "school_name": "50.YIL ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2354,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26533_cb_1093801128_1684087385739938714.jpg",
+            "submission_id": 332208,
+            "total_vote": 304,
+            "votes": {
+                "1": 153,
+                "2": 3,
+                "3": 134,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26533_mv_1083801128_1684087470696591559.jpg",
+            "submission_id": 334933,
+            "total_vote": 291,
+            "votes": {
+                "10": 6,
+                "11": 29,
+                "12": 19,
+                "14": 1,
+                "21": 88,
+                "22": 31,
+                "23": 3,
+                "24": 7,
+                "4": 1,
+                "6": 1,
+                "7": 3,
+                "9": 102
+            }
+        },
+        "school_name": "50.YIL ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2362,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/35352_cb_1093801316_1684092445786819054.jpg",
+            "submission_id": 456407,
+            "total_vote": 316,
+            "votes": {
+                "1": 134,
+                "2": 2,
+                "3": 157,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "50.YIL ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2359,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22506_cb_1093801133_1684088036000697030.jpg",
+            "submission_id": 353129,
+            "total_vote": 321,
+            "votes": {
+                "1": 131,
+                "3": 173,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22506_mv_1083801133_1684088281299481540.jpg",
+            "submission_id": 360751,
+            "total_vote": 318,
+            "votes": {
+                "1": 4,
+                "10": 5,
+                "11": 35,
+                "12": 24,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 108,
+                "22": 37,
+                "23": 0,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 4,
+                "8": 0,
+                "9": 93
+            }
+        },
+        "school_name": "50.YIL ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2352,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/35352_cb_1093801126_1684088472670909886.jpg",
+            "submission_id": 366642,
+            "total_vote": 292,
+            "votes": {
+                "1": 117,
+                "2": 1,
+                "3": 161,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "50.YIL ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2361,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/35352_cb_1093801315_1684091547510102506.jpg",
+            "submission_id": 441938,
+            "total_vote": 310,
+            "votes": {
+                "1": 145,
+                "2": 2,
+                "3": 145,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "50.YIL ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2357,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31306_cb_1093801131_1684087229049336704.jpg",
+            "submission_id": 327000,
+            "total_vote": 322,
+            "votes": {
+                "1": 135,
+                "2": 2,
+                "3": 173,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31306_mv_1083801131_1684085461682550264.jpg",
+            "submission_id": 267435,
+            "total_vote": 310,
+            "votes": {
+                "10": 4,
+                "11": 22,
+                "12": 36,
+                "14": 1,
+                "17": 2,
+                "21": 97,
+                "22": 26,
+                "23": 2,
+                "24": 5,
+                "3": 1,
+                "4": 1,
+                "5": 1,
+                "6": 2,
+                "7": 4,
+                "8": 2,
+                "9": 104
+            }
+        },
+        "school_name": "50.YIL ANADOLU LİSESİ"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "ballot_box_number": 1247,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "KOCATEPE MEHMET LÜTFİYE DÖNMEZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1250,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/40783_cb_1093861944_1684085364723414091.jpg",
+            "submission_id": 264602,
+            "total_vote": 269,
+            "votes": {
+                "1": 76,
+                "2": 4,
+                "3": 167,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "KOCATEPE MEHMET LÜTFİYE DÖNMEZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1248,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "KOCATEPE MEHMET LÜTFİYE DÖNMEZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1246,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "KOCATEPE MEHMET LÜTFİYE DÖNMEZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1249,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "KOCATEPE MEHMET LÜTFİYE DÖNMEZ İLKOKULU"
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "ballot_box_number": 1082,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/78f9593b-1efb-47e1-9ab4-16aee9c4fcce-1684105465583433112.jpg",
+            "submission_id": 643647,
+            "total_vote": 371,
+            "votes": {
+                "1": 105,
+                "2": 4,
+                "3": 229,
+                "4": 33
+            }
+        },
+        "mv_result": null,
+        "school_name": "İZMİR BÜYÜKŞEHİR BELEDİYESİ SOSYAL YAŞAM KAMPÜSÜ (HUZUREVİ)"
+    },
+    {
+        "ballot_box_number": 1081,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0b248682-5964-4382-a973-9cb38ca2005c-1684105504673414698.jpg",
+            "submission_id": 650019,
+            "total_vote": 344,
+            "votes": {
+                "1": 81,
+                "2": 2,
+                "3": 245,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/939e49ed-cf28-4a3c-8c66-1fe37b366f70-1684105475667926062.jpg",
+            "submission_id": 645493,
+            "total_vote": 344,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 5,
+                "12": 14,
+                "14": 3,
+                "19": 1,
+                "20": 1,
+                "21": 180,
+                "22": 38,
+                "24": 11,
+                "3": 5,
+                "6": 3,
+                "7": 2,
+                "8": 1,
+                "9": 75
+            }
+        },
+        "school_name": "İZMİR BÜYÜKŞEHİR BELEDİYESİ SOSYAL YAŞAM KAMPÜSÜ (HUZUREVİ)"
+    },
+    {
+        "ballot_box_number": 1080,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e858c2ba-b19a-4d12-b88c-35b860444155-1684105541565036079.jpg",
+            "submission_id": 655733,
+            "total_vote": 272,
+            "votes": {
+                "1": 76,
+                "2": 3,
+                "3": 191,
+                "4": 2
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f641726d-3e9f-47ad-8697-8b973d2dd62d-1684105534721733592.jpg",
+            "submission_id": 654363,
+            "total_vote": 261,
+            "votes": {
+                "10": 3,
+                "11": 9,
+                "12": 7,
+                "14": 1,
+                "17": 2,
+                "19": 2,
+                "2": 1,
+                "20": 2,
+                "21": 149,
+                "22": 24,
+                "23": 2,
+                "3": 1,
+                "5": 2,
+                "6": 1,
+                "7": 1,
+                "8": 2,
+                "9": 52
+            }
+        },
+        "school_name": "İZMİR BÜYÜKŞEHİR BELEDİYESİ SOSYAL YAŞAM KAMPÜSÜ (HUZUREVİ)"
+    }
+]

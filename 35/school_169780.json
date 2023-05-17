@@ -1,0 +1,624 @@
+[
+    {
+        "ballot_box_number": 2048,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16356_cb_1093864382_1684084826616667020.jpg",
+            "submission_id": 249226,
+            "total_vote": 361,
+            "votes": {
+                "1": 53,
+                "2": 2,
+                "3": 288,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e56b70f0-aeec-496f-a86b-76ae2bb3c8c8-1684105284948813625.jpg",
+            "submission_id": 611671,
+            "total_vote": 357,
+            "votes": {
+                "10": 5,
+                "11": 10,
+                "12": 6,
+                "13": 38,
+                "14": 1,
+                "20": 1,
+                "21": 188,
+                "22": 52,
+                "24": 7,
+                "3": 2,
+                "5": 3,
+                "6": 2,
+                "7": 2,
+                "8": 2,
+                "9": 38
+            }
+        },
+        "school_name": "ADNAN MENDERES AND. LİSESİ"
+    },
+    {
+        "ballot_box_number": 2051,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/39418_bulk_999999999_1684089040739752551.jpg",
+            "submission_id": 383690,
+            "total_vote": 374,
+            "votes": {
+                "1": 53,
+                "2": 0,
+                "3": 308,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/39418_bulk_999999999_1684087091017326969.jpg",
+            "submission_id": 322222,
+            "total_vote": 371,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 3,
+                "12": 18,
+                "13": 36,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 191,
+                "22": 60,
+                "23": 0,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 3,
+                "8": 1,
+                "9": 47
+            }
+        },
+        "school_name": "ADNAN MENDERES AND. LİSESİ"
+    },
+    {
+        "ballot_box_number": 2046,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16356_cb_1093864380_1684086046944333724.jpg",
+            "submission_id": 286495,
+            "total_vote": 352,
+            "votes": {
+                "1": 50,
+                "3": 289,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "ADNAN MENDERES AND. LİSESİ"
+    },
+    {
+        "ballot_box_number": 2033,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/76626_cb_1093864347_1684081261161046608.jpg",
+            "submission_id": 187310,
+            "total_vote": 332,
+            "votes": {
+                "1": 46,
+                "2": 1,
+                "3": 283,
+                "4": 2
+            }
+        },
+        "mv_result": null,
+        "school_name": "ADNAN MENDERES AND. LİSESİ"
+    },
+    {
+        "ballot_box_number": 2050,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9d8621e7-68b8-4415-b0a3-353d187e8ca2-1684105318155473225.jpg",
+            "submission_id": 617525,
+            "total_vote": 363,
+            "votes": {
+                "1": 47,
+                "2": 0,
+                "3": 309,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "ADNAN MENDERES AND. LİSESİ"
+    },
+    {
+        "ballot_box_number": 2038,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39424_cb_1093864352_1684084590274257584.jpg",
+            "submission_id": 242880,
+            "total_vote": 346,
+            "votes": {
+                "1": 41,
+                "2": 1,
+                "3": 289,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/21992c1d-821e-4dfa-b78f-5939c2842db2-1684105238221084177.jpg",
+            "submission_id": 601056,
+            "total_vote": 344,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 12,
+                "12": 8,
+                "13": 40,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 190,
+                "22": 51,
+                "23": 0,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 0,
+                "9": 25
+            }
+        },
+        "school_name": "ADNAN MENDERES AND. LİSESİ"
+    },
+    {
+        "ballot_box_number": 2032,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48351_cb_1093864346_1684083266734312192.jpg",
+            "submission_id": 213334,
+            "total_vote": 347,
+            "votes": {
+                "1": 69,
+                "2": 1,
+                "3": 270,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48351_mv_1083864346_1684087999476157887.jpg",
+            "submission_id": 351954,
+            "total_vote": 338,
+            "votes": {
+                "10": 1,
+                "11": 11,
+                "12": 5,
+                "13": 13,
+                "14": 1,
+                "19": 1,
+                "2": 1,
+                "21": 196,
+                "22": 53,
+                "23": 1,
+                "24": 2,
+                "6": 1,
+                "9": 52
+            }
+        },
+        "school_name": "ADNAN MENDERES AND. LİSESİ"
+    },
+    {
+        "ballot_box_number": 2042,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16356_cb_1093864376_1684084597791257229.jpg",
+            "submission_id": 243070,
+            "total_vote": 362,
+            "votes": {
+                "1": 46,
+                "3": 307,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16356_mv_1083864376_1684084637163222990.jpg",
+            "submission_id": 244142,
+            "total_vote": 361,
+            "votes": {
+                "10": 1,
+                "11": 9,
+                "12": 9,
+                "13": 37,
+                "15": 1,
+                "21": 205,
+                "22": 53,
+                "24": 8,
+                "5": 1,
+                "6": 1,
+                "7": 3,
+                "9": 33
+            }
+        },
+        "school_name": "ADNAN MENDERES AND. LİSESİ"
+    },
+    {
+        "ballot_box_number": 2035,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16356_cb_1093864349_1684086786695048798.jpg",
+            "submission_id": 311609,
+            "total_vote": 334,
+            "votes": {
+                "1": 47,
+                "2": 2,
+                "3": 274,
+                "4": 11
+            }
+        },
+        "mv_result": null,
+        "school_name": "ADNAN MENDERES AND. LİSESİ"
+    },
+    {
+        "ballot_box_number": 2043,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16356_cb_1093864377_1684079853410899935.jpg",
+            "submission_id": 178629,
+            "total_vote": 363,
+            "votes": {
+                "1": 61,
+                "3": 291,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16356_mv_1083864377_1684085637838038487.jpg",
+            "submission_id": 272981,
+            "total_vote": 357,
+            "votes": {
+                "1": 1,
+                "11": 13,
+                "12": 11,
+                "13": 56,
+                "17": 1,
+                "21": 174,
+                "22": 53,
+                "24": 5,
+                "6": 1,
+                "7": 2,
+                "9": 40
+            }
+        },
+        "school_name": "ADNAN MENDERES AND. LİSESİ"
+    },
+    {
+        "ballot_box_number": 2034,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f50aca00-c22e-499b-b917-28f0fea2241b-1684105200752742060.jpg",
+            "submission_id": 594129,
+            "total_vote": 328,
+            "votes": {
+                "1": 53,
+                "3": 264,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7eca4a50-79f2-46a7-a866-ea61eb51bc78-1684105216188894334.jpg",
+            "submission_id": 596120,
+            "total_vote": 319,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 9,
+                "12": 6,
+                "13": 15,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 191,
+                "22": 44,
+                "23": 0,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 3,
+                "8": 1,
+                "9": 41
+            }
+        },
+        "school_name": "ADNAN MENDERES AND. LİSESİ"
+    },
+    {
+        "ballot_box_number": 2044,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/73080_bulk_999999999_1684095712485208289.jpg",
+            "submission_id": 506019,
+            "total_vote": 354,
+            "votes": {
+                "1": 62,
+                "2": 2,
+                "3": 268,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "ADNAN MENDERES AND. LİSESİ"
+    },
+    {
+        "ballot_box_number": 2045,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/19483_cb_1093864379_1684078869938084078.jpg",
+            "submission_id": 175359,
+            "total_vote": 359,
+            "votes": {
+                "1": 47,
+                "2": 0,
+                "3": 300,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "ADNAN MENDERES AND. LİSESİ"
+    },
+    {
+        "ballot_box_number": 2047,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16356_cb_1093864381_1684084867007296324.jpg",
+            "submission_id": 250367,
+            "total_vote": 360,
+            "votes": {
+                "1": 69,
+                "2": 2,
+                "3": 281,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/72265_mv_1083864381_1684089936980420814.jpg",
+            "submission_id": 408112,
+            "total_vote": 358,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 14,
+                "12": 9,
+                "13": 29,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 199,
+                "22": 38,
+                "23": 1,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 0,
+                "9": 54
+            }
+        },
+        "school_name": "ADNAN MENDERES AND. LİSESİ"
+    },
+    {
+        "ballot_box_number": 2052,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/16356_bulk_999999999_1684086371015006968.jpg",
+            "submission_id": 297028,
+            "total_vote": 360,
+            "votes": {
+                "1": 53,
+                "3": 290,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8a86ccca-eb1e-4c41-9fac-e7bef6470340-1684105351490134989.jpg",
+            "submission_id": 623463,
+            "total_vote": 358,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 13,
+                "12": 20,
+                "13": 30,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 187,
+                "22": 45,
+                "23": 1,
+                "24": 9,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 8,
+                "8": 0,
+                "9": 43
+            }
+        },
+        "school_name": "ADNAN MENDERES AND. LİSESİ"
+    },
+    {
+        "ballot_box_number": 2049,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/74306_bulk_999999999_1684090654806736083.jpeg",
+            "submission_id": 424662,
+            "total_vote": 356,
+            "votes": {
+                "1": 38,
+                "2": 2,
+                "3": 294,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "ADNAN MENDERES AND. LİSESİ"
+    },
+    {
+        "ballot_box_number": 2041,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16356_cb_1093864375_1684084685885109112.jpg",
+            "submission_id": 245498,
+            "total_vote": 357,
+            "votes": {
+                "1": 50,
+                "2": 2,
+                "3": 300,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16356_mv_1083864375_1684085813143724223.jpg",
+            "submission_id": 278873,
+            "total_vote": 353,
+            "votes": {
+                "10": 1,
+                "11": 2,
+                "12": 20,
+                "13": 37,
+                "21": 195,
+                "22": 49,
+                "24": 8,
+                "7": 3,
+                "8": 1,
+                "9": 37
+            }
+        },
+        "school_name": "ADNAN MENDERES AND. LİSESİ"
+    },
+    {
+        "ballot_box_number": 2039,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41774_cb_1093864353_1684085404034994685.jpg",
+            "submission_id": 265763,
+            "total_vote": 352,
+            "votes": {
+                "1": 55,
+                "2": 2,
+                "3": 288,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "ADNAN MENDERES AND. LİSESİ"
+    },
+    {
+        "ballot_box_number": 2036,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "ADNAN MENDERES AND. LİSESİ"
+    },
+    {
+        "ballot_box_number": 2040,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39424_cb_1093864354_1684083640778819682.jpg",
+            "submission_id": 220581,
+            "total_vote": 362,
+            "votes": {
+                "1": 64,
+                "2": 1,
+                "3": 290,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39424_mv_1083864354_1684082056425917841.jpg",
+            "submission_id": 195303,
+            "total_vote": 361,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 9,
+                "12": 4,
+                "13": 40,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 194,
+                "22": 50,
+                "23": 0,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 4,
+                "8": 0,
+                "9": 55
+            }
+        },
+        "school_name": "ADNAN MENDERES AND. LİSESİ"
+    },
+    {
+        "ballot_box_number": 2037,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41774_cb_1093864351_1684082818558381421.jpg",
+            "submission_id": 205716,
+            "total_vote": 356,
+            "votes": {
+                "1": 59,
+                "2": 1,
+                "3": 277,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41774_mv_1083864347_1684082898539157151.jpg",
+            "submission_id": 207009,
+            "total_vote": 345,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 10,
+                "12": 0,
+                "13": 26,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 185,
+                "22": 53,
+                "23": 0,
+                "24": 10,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 4,
+                "7": 4,
+                "8": 1,
+                "9": 48
+            }
+        },
+        "school_name": "ADNAN MENDERES AND. LİSESİ"
+    }
+]

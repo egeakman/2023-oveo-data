@@ -1,0 +1,33 @@
+[
+    {
+        "ballot_box_number": 1109,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39054_cb_1093798523_1684088920202606137.jpg",
+            "submission_id": 380228,
+            "total_vote": 301,
+            "votes": {
+                "1": 146,
+                "2": 3,
+                "3": 138,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "GÖKÇEN ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1110,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39054_cb_1093798524_1684088942942523475.jpg",
+            "submission_id": 380874,
+            "total_vote": 326,
+            "votes": {
+                "1": 143,
+                "3": 165,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "GÖKÇEN ANADOLU LİSESİ"
+    }
+]

@@ -1,0 +1,129 @@
+[
+    {
+        "ballot_box_number": 1055,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/32695_bulk_999999999_1684095802718405259.jpg",
+            "submission_id": 506858,
+            "total_vote": 312,
+            "votes": {
+                "1": 95,
+                "2": 1,
+                "3": 205,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/42affc36-94bf-4917-a09d-a84be064c3ab-1684105172045232597.jpg",
+            "submission_id": 588622,
+            "total_vote": 307,
+            "votes": {
+                "10": 2,
+                "11": 18,
+                "12": 31,
+                "19": 1,
+                "21": 132,
+                "22": 38,
+                "24": 3,
+                "5": 2,
+                "7": 9,
+                "9": 71
+            }
+        },
+        "school_name": "CUMHURİYET MAH-ŞAHABETTİN SARIDEDE HALK EĞİTİM MERKEZİ"
+    },
+    {
+        "ballot_box_number": 1056,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/32695_bulk_999999999_1684095842809963607.jpg",
+            "submission_id": 507279,
+            "total_vote": 313,
+            "votes": {
+                "1": 109,
+                "2": 1,
+                "3": 189,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/32695_bulk_999999999_1684095159099780533.jpg",
+            "submission_id": 500263,
+            "total_vote": 309,
+            "votes": {
+                "10": 2,
+                "11": 31,
+                "12": 4,
+                "17": 1,
+                "21": 142,
+                "22": 42,
+                "23": 1,
+                "24": 6,
+                "6": 3,
+                "7": 4,
+                "8": 1,
+                "9": 72
+            }
+        },
+        "school_name": "CUMHURİYET MAH-ŞAHABETTİN SARIDEDE HALK EĞİTİM MERKEZİ"
+    },
+    {
+        "ballot_box_number": 1057,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/32695_bulk_999999999_1684094672943072392.jpg",
+            "submission_id": 494817,
+            "total_vote": 319,
+            "votes": {
+                "1": 97,
+                "2": 3,
+                "3": 204,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/32695_bulk_999999999_1684096120415057226.jpg",
+            "submission_id": 509610,
+            "total_vote": 315,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 18,
+                "12": 12,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 3,
+                "2": 0,
+                "20": 0,
+                "21": 143,
+                "22": 51,
+                "23": 1,
+                "24": 12,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 4,
+                "8": 0,
+                "9": 68
+            }
+        },
+        "school_name": "CUMHURİYET MAH-ŞAHABETTİN SARIDEDE HALK EĞİTİM MERKEZİ"
+    },
+    {
+        "ballot_box_number": 1054,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/32695_bulk_999999999_1684095671972270830.jpg",
+            "submission_id": 505593,
+            "total_vote": 317,
+            "votes": {
+                "1": 109,
+                "2": 4,
+                "3": 191,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "CUMHURİYET MAH-ŞAHABETTİN SARIDEDE HALK EĞİTİM MERKEZİ"
+    }
+]

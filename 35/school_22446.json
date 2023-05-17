@@ -1,0 +1,18 @@
+[
+    {
+        "ballot_box_number": 1194,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/694b76c1-5956-4599-bb12-c8cc02a2cf7e-1684106481011613278.jpg",
+            "submission_id": 795159,
+            "total_vote": 93,
+            "votes": {
+                "1": 63,
+                "2": 3,
+                "3": 20,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "İĞNEDERE KÖY KAHVESİ"
+    }
+]

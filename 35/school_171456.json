@@ -1,0 +1,756 @@
+[
+    {
+        "ballot_box_number": 1231,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61954_cb_1093799065_1684086926847709620.jpeg",
+            "submission_id": 316437,
+            "total_vote": 326,
+            "votes": {
+                "1": 144,
+                "2": 3,
+                "3": 156,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ONUR ENSAR AYANOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1236,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c697ccba-213c-47c1-8c44-80b7a35f783a-1684105314996557919.jpeg",
+            "submission_id": 616964,
+            "total_vote": 329,
+            "votes": {
+                "1": 138,
+                "2": 0,
+                "3": 167,
+                "4": 24
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ONUR ENSAR AYANOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1239,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/dccaf1ff-2cee-4e3b-9572-0e67f181b171-1684105189388560196.jpeg",
+            "submission_id": 591436,
+            "total_vote": 325,
+            "votes": {
+                "1": 168,
+                "3": 133,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/010bba2f-1645-46ad-a1ac-ca2cc65fb3bd-1684105512140537335.jpg",
+            "submission_id": 651772,
+            "total_vote": 323,
+            "votes": {
+                "10": 4,
+                "11": 30,
+                "12": 41,
+                "14": 2,
+                "21": 79,
+                "22": 24,
+                "24": 11,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 129
+            }
+        },
+        "school_name": "ŞEHİT ONUR ENSAR AYANOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1237,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61954_cb_1093799071_1684088374059339286.jpeg",
+            "submission_id": 363546,
+            "total_vote": 343,
+            "votes": {
+                "1": 180,
+                "2": 1,
+                "3": 146,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61954_mv_1083799071_1684088410302371240.jpeg",
+            "submission_id": 364752,
+            "total_vote": 342,
+            "votes": {
+                "10": 4,
+                "11": 25,
+                "12": 42,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "20": 0,
+                "21": 84,
+                "22": 22,
+                "23": 0,
+                "24": 8,
+                "5": 0,
+                "6": 2,
+                "7": 7,
+                "8": 0,
+                "9": 147
+            }
+        },
+        "school_name": "ŞEHİT ONUR ENSAR AYANOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1246,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61954_cb_1093799320_1684087431956402393.jpeg",
+            "submission_id": 333719,
+            "total_vote": 345,
+            "votes": {
+                "1": 158,
+                "2": 3,
+                "3": 166,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61954_mv_1083799320_1684087419683229803.jpeg",
+            "submission_id": 333328,
+            "total_vote": 342,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 28,
+                "12": 28,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 104,
+                "22": 30,
+                "23": 2,
+                "24": 8,
+                "3": 0,
+                "4": 2,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 2,
+                "9": 125
+            }
+        },
+        "school_name": "ŞEHİT ONUR ENSAR AYANOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1229,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61954_cb_1093799063_1684089038245169133.jpeg",
+            "submission_id": 383611,
+            "total_vote": 327,
+            "votes": {
+                "1": 152,
+                "2": 1,
+                "3": 144,
+                "4": 30
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4d43ae45-228e-43ee-adec-74366bec9817-1684105460648717467.jpeg",
+            "submission_id": 643367,
+            "total_vote": 320,
+            "votes": {
+                "1": 0,
+                "10": 8,
+                "11": 29,
+                "12": 36,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 80,
+                "22": 23,
+                "23": 0,
+                "24": 11,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 7,
+                "8": 2,
+                "9": 121
+            }
+        },
+        "school_name": "ŞEHİT ONUR ENSAR AYANOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1241,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61954_cb_1093799315_1684088183837551016.jpeg",
+            "submission_id": 357795,
+            "total_vote": 344,
+            "votes": {
+                "1": 155,
+                "2": 3,
+                "3": 153,
+                "4": 33
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a0b59ec7-3e79-4e70-a9cf-b01005fe5657-1684105505542608534.jpg",
+            "submission_id": 650580,
+            "total_vote": 341,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 34,
+                "12": 42,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "21": 93,
+                "22": 24,
+                "23": 0,
+                "24": 16,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 7,
+                "8": 2,
+                "9": 116
+            }
+        },
+        "school_name": "ŞEHİT ONUR ENSAR AYANOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1242,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61954_cb_1093799316_1684088331250465927.jpeg",
+            "submission_id": 362236,
+            "total_vote": 329,
+            "votes": {
+                "1": 177,
+                "2": 3,
+                "3": 129,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f60b7b9e-0fbe-4707-8592-256794c825fc-1684105931831952165.jpeg",
+            "submission_id": 714480,
+            "total_vote": 320,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 34,
+                "12": 30,
+                "14": 0,
+                "15": 1,
+                "16": 6,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 72,
+                "22": 32,
+                "23": 1,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 3,
+                "9": 122
+            }
+        },
+        "school_name": "ŞEHİT ONUR ENSAR AYANOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1233,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61954_cb_1093799067_1684086839431636258.jpeg",
+            "submission_id": 313400,
+            "total_vote": 330,
+            "votes": {
+                "1": 168,
+                "2": 0,
+                "3": 142,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61954_mv_1083799067_1684086793531172040.jpeg",
+            "submission_id": 311844,
+            "total_vote": 327,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 34,
+                "12": 31,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 84,
+                "22": 28,
+                "23": 1,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "8": 4,
+                "9": 127
+            }
+        },
+        "school_name": "ŞEHİT ONUR ENSAR AYANOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1238,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61954_cb_1093799072_1684088111373859112.jpeg",
+            "submission_id": 355520,
+            "total_vote": 349,
+            "votes": {
+                "1": 162,
+                "2": 1,
+                "3": 161,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61954_mv_1083799072_1684087991104322787.jpeg",
+            "submission_id": 351661,
+            "total_vote": 342,
+            "votes": {
+                "1": 2,
+                "10": 3,
+                "11": 28,
+                "12": 47,
+                "14": 1,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 85,
+                "22": 23,
+                "23": 1,
+                "24": 13,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 9,
+                "8": 4,
+                "9": 122
+            }
+        },
+        "school_name": "ŞEHİT ONUR ENSAR AYANOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1234,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61954_cb_1093799068_1684087183261861941.jpeg",
+            "submission_id": 325408,
+            "total_vote": 334,
+            "votes": {
+                "1": 151,
+                "2": 3,
+                "3": 159,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61954_mv_1083799068_1684087162102112928.jpeg",
+            "submission_id": 324670,
+            "total_vote": 337,
+            "votes": {
+                "10": 5,
+                "11": 34,
+                "12": 35,
+                "15": 1,
+                "21": 96,
+                "22": 37,
+                "24": 13,
+                "3": 2,
+                "5": 1,
+                "6": 2,
+                "7": 3,
+                "8": 1,
+                "9": 107
+            }
+        },
+        "school_name": "ŞEHİT ONUR ENSAR AYANOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1230,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/fcc06283-35a8-45d6-84d0-debdb3ad88b0-1684105425533660448.jpeg",
+            "submission_id": 637614,
+            "total_vote": 338,
+            "votes": {
+                "1": 155,
+                "2": 1,
+                "3": 160,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ONUR ENSAR AYANOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1240,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61954_cb_1093799074_1684089260069292676.jpeg",
+            "submission_id": 389800,
+            "total_vote": 334,
+            "votes": {
+                "1": 161,
+                "3": 154,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ONUR ENSAR AYANOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1226,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61954_cb_1093799060_1684086958432545375.jpeg",
+            "submission_id": 317506,
+            "total_vote": 315,
+            "votes": {
+                "1": 150,
+                "2": 1,
+                "3": 152,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ONUR ENSAR AYANOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1245,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61954_cb_1093799319_1684087266717058434.jpeg",
+            "submission_id": 328299,
+            "total_vote": 336,
+            "votes": {
+                "1": 145,
+                "2": 2,
+                "3": 168,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61954_mv_1083799319_1684087240576658450.jpeg",
+            "submission_id": 327368,
+            "total_vote": 334,
+            "votes": {
+                "10": 8,
+                "11": 22,
+                "12": 46,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "21": 91,
+                "22": 39,
+                "23": 1,
+                "24": 10,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 2,
+                "9": 110
+            }
+        },
+        "school_name": "ŞEHİT ONUR ENSAR AYANOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1227,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61954_cb_1093799061_1684086899415887285.jpeg",
+            "submission_id": 315432,
+            "total_vote": 324,
+            "votes": {
+                "1": 147,
+                "2": 3,
+                "3": 163,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c0d4aeb9-6e61-40f6-a242-572af0a8f798-1684105551594527275.jpg",
+            "submission_id": 657420,
+            "total_vote": 322,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 29,
+                "12": 23,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 92,
+                "22": 40,
+                "23": 1,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 5,
+                "8": 1,
+                "9": 116
+            }
+        },
+        "school_name": "ŞEHİT ONUR ENSAR AYANOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1244,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/75b44b38-af2c-4e7c-ac41-f974dae08ebb-1684105589257481391.jpeg",
+            "submission_id": 663489,
+            "total_vote": 340,
+            "votes": {
+                "1": 159,
+                "3": 154,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7f53e991-f1f3-46f2-8acb-7d2d051b6200-1684105603550062498.jpeg",
+            "submission_id": 665776,
+            "total_vote": 336,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 41,
+                "12": 23,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 2,
+                "21": 92,
+                "22": 30,
+                "23": 0,
+                "24": 13,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 8,
+                "7": 6,
+                "8": 1,
+                "9": 114
+            }
+        },
+        "school_name": "ŞEHİT ONUR ENSAR AYANOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1243,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61954_cb_1093799317_1684087664774883459.jpeg",
+            "submission_id": 341213,
+            "total_vote": 325,
+            "votes": {
+                "1": 145,
+                "2": 0,
+                "3": 157,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61954_mv_1083799317_1684087289719726395.jpeg",
+            "submission_id": 329049,
+            "total_vote": 316,
+            "votes": {
+                "1": 1,
+                "10": 5,
+                "11": 15,
+                "12": 42,
+                "14": 0,
+                "16": 0,
+                "17": 0,
+                "19": 0,
+                "2": 0,
+                "20": 6,
+                "21": 73,
+                "23": 38,
+                "24": 16,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 0,
+                "8": 3,
+                "9": 115
+            }
+        },
+        "school_name": "ŞEHİT ONUR ENSAR AYANOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1235,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61954_cb_1093799069_1684087131866298828.jpeg",
+            "submission_id": 323633,
+            "total_vote": 320,
+            "votes": {
+                "1": 153,
+                "2": 3,
+                "3": 151,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61954_mv_1083799069_1684087075405016760.jpeg",
+            "submission_id": 321649,
+            "total_vote": 314,
+            "votes": {
+                "10": 3,
+                "11": 23,
+                "12": 42,
+                "21": 76,
+                "22": 35,
+                "23": 1,
+                "24": 8,
+                "3": 1,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 120
+            }
+        },
+        "school_name": "ŞEHİT ONUR ENSAR AYANOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1232,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/638be28a-9c4a-42d5-896f-e3af775edd30-1684105646329103761.jpeg",
+            "submission_id": 673020,
+            "total_vote": 339,
+            "votes": {
+                "1": 149,
+                "2": 1,
+                "3": 166,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT ONUR ENSAR AYANOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1228,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61954_cb_1093799062_1684089431878457613.jpeg",
+            "submission_id": 394303,
+            "total_vote": 315,
+            "votes": {
+                "1": 142,
+                "3": 152,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/603fb758-d5bf-427f-a481-f622a53feacb-1684105545244892789.jpg",
+            "submission_id": 656632,
+            "total_vote": 315,
+            "votes": {
+                "10": 6,
+                "11": 25,
+                "12": 34,
+                "14": 1,
+                "21": 85,
+                "22": 32,
+                "24": 12,
+                "3": 1,
+                "4": 1,
+                "6": 2,
+                "7": 2,
+                "8": 1,
+                "9": 113
+            }
+        },
+        "school_name": "ŞEHİT ONUR ENSAR AYANOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1247,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2707bc13-1635-4a35-a58d-e03e22210c52-1684105614802114174.jpeg",
+            "submission_id": 667465,
+            "total_vote": 333,
+            "votes": {
+                "1": 149,
+                "2": 4,
+                "3": 152,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9b5ed68f-c982-4943-b24f-e0f06de6ffa1-1684105628851278830.jpeg",
+            "submission_id": 669766,
+            "total_vote": 327,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 38,
+                "12": 29,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 1,
+                "21": 78,
+                "22": 39,
+                "23": 3,
+                "24": 16,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 5,
+                "8": 0,
+                "9": 107
+            }
+        },
+        "school_name": "ŞEHİT ONUR ENSAR AYANOĞLU ORTAOKULU"
+    }
+]

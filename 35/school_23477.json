@@ -1,0 +1,640 @@
+[
+    {
+        "ballot_box_number": 1355,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/62306_cb_1093583229_1684086039490100793.jpg",
+            "submission_id": 286239,
+            "total_vote": 330,
+            "votes": {
+                "1": 70,
+                "2": 1,
+                "3": 246,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/62306_mv_1083583229_1684086128414793715.jpg",
+            "submission_id": 289125,
+            "total_vote": 324,
+            "votes": {
+                "10": 2,
+                "11": 13,
+                "12": 13,
+                "15": 1,
+                "2": 1,
+                "20": 1,
+                "21": 170,
+                "22": 53,
+                "23": 1,
+                "24": 6,
+                "3": 1,
+                "7": 6,
+                "8": 4,
+                "9": 52
+            }
+        },
+        "school_name": "MEŞKÜRE ŞAMLI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1346,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/61775_bulk_999999999_1684079507765994289.jpeg",
+            "submission_id": 177253,
+            "total_vote": 342,
+            "votes": {
+                "1": 73,
+                "3": 254,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/62306_mv_1083583220_1684088546328603768.jpg",
+            "submission_id": 368977,
+            "total_vote": 342,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 11,
+                "12": 9,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 179,
+                "22": 57,
+                "23": 0,
+                "24": 14,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 7,
+                "8": 1,
+                "9": 58
+            }
+        },
+        "school_name": "MEŞKÜRE ŞAMLI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1345,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61503_cb_1093583219_1684081656711230048.jpg",
+            "submission_id": 190959,
+            "total_vote": 352,
+            "votes": {
+                "1": 67,
+                "3": 264,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "MEŞKÜRE ŞAMLI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1342,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/61775_bulk_999999999_1684079507653829144.jpeg",
+            "submission_id": 177252,
+            "total_vote": 308,
+            "votes": {
+                "1": 68,
+                "2": 2,
+                "3": 230,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/62306_mv_1083583216_1684087480479641889.jpg",
+            "submission_id": 335238,
+            "total_vote": 305,
+            "votes": {
+                "1": 2,
+                "10": 2,
+                "11": 10,
+                "12": 8,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 3,
+                "2": 0,
+                "20": 1,
+                "21": 180,
+                "22": 37,
+                "23": 1,
+                "24": 2,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 7,
+                "8": 0,
+                "9": 51
+            }
+        },
+        "school_name": "MEŞKÜRE ŞAMLI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1356,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/11079_cb_1093583230_1684085264416601812.jpg",
+            "submission_id": 261715,
+            "total_vote": 348,
+            "votes": {
+                "1": 86,
+                "3": 245,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/11079_mv_1083583230_1684085705909563292.jpg",
+            "submission_id": 275255,
+            "total_vote": 343,
+            "votes": {
+                "10": 4,
+                "11": 21,
+                "12": 11,
+                "14": 0,
+                "20": 2,
+                "21": 174,
+                "22": 51,
+                "23": 2,
+                "24": 9,
+                "3": 5,
+                "4": 0,
+                "5": 2,
+                "6": 0,
+                "7": 1,
+                "8": 1,
+                "9": 60
+            }
+        },
+        "school_name": "MEŞKÜRE ŞAMLI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1344,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61775_cb_1093583218_1684079270114882170.jpg",
+            "submission_id": 176444,
+            "total_vote": 348,
+            "votes": {
+                "1": 52,
+                "2": 2,
+                "3": 278,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "MEŞKÜRE ŞAMLI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1351,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/62306_cb_1093583225_1684084984042409760.jpg",
+            "submission_id": 253677,
+            "total_vote": 343,
+            "votes": {
+                "1": 58,
+                "2": 1,
+                "3": 274,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61962_mv_1083583225_1684087148318244602.jpg",
+            "submission_id": 324231,
+            "total_vote": 363,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 0,
+                "12": 19,
+                "14": 0,
+                "15": 25,
+                "16": 0,
+                "17": 0,
+                "18": 4,
+                "19": 0,
+                "2": 0,
+                "21": 182,
+                "22": 70,
+                "23": 2,
+                "24": 8,
+                "3": 1,
+                "5": 0,
+                "6": 2,
+                "7": 5,
+                "8": 0,
+                "9": 42
+            }
+        },
+        "school_name": "MEŞKÜRE ŞAMLI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1348,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/62306_cb_1093583222_1684085052570186028.jpg",
+            "submission_id": 255679,
+            "total_vote": 343,
+            "votes": {
+                "1": 67,
+                "2": 0,
+                "3": 261,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/62306_mv_1083583222_1684090261137703731.jpg",
+            "submission_id": 416024,
+            "total_vote": 341,
+            "votes": {
+                "10": 1,
+                "11": 19,
+                "12": 22,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 180,
+                "22": 53,
+                "23": 1,
+                "24": 9,
+                "3": 4,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 5,
+                "8": 0,
+                "9": 45
+            }
+        },
+        "school_name": "MEŞKÜRE ŞAMLI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1352,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/61775_bulk_999999999_1684079967192449327.jpeg",
+            "submission_id": 179123,
+            "total_vote": 339,
+            "votes": {
+                "1": 48,
+                "2": 2,
+                "3": 268,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61962_mv_1083583226_1684087369956572548.jpg",
+            "submission_id": 331705,
+            "total_vote": 335,
+            "votes": {
+                "10": 2,
+                "11": 8,
+                "12": 11,
+                "21": 196,
+                "22": 54,
+                "23": 1,
+                "24": 15,
+                "3": 2,
+                "5": 1,
+                "6": 1,
+                "7": 6,
+                "8": 1,
+                "9": 37
+            }
+        },
+        "school_name": "MEŞKÜRE ŞAMLI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1341,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/62306_cb_1093583215_1684089629613751391.jpg",
+            "submission_id": 399842,
+            "total_vote": 316,
+            "votes": {
+                "1": 58,
+                "3": 246,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d6d09b06-357f-454d-ad4b-36937f250396-1684105713752266060.jpeg",
+            "submission_id": 683663,
+            "total_vote": 309,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 9,
+                "12": 7,
+                "17": 1,
+                "19": 1,
+                "21": 182,
+                "22": 49,
+                "24": 6,
+                "3": 2,
+                "4": 1,
+                "5": 1,
+                "7": 2,
+                "8": 1,
+                "9": 45
+            }
+        },
+        "school_name": "MEŞKÜRE ŞAMLI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1354,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61503_cb_1093583228_1684086079493703381.jpg",
+            "submission_id": 287484,
+            "total_vote": 339,
+            "votes": {
+                "1": 60,
+                "2": 2,
+                "3": 260,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/62306_mv_1083583228_1684086274429953131.jpg",
+            "submission_id": 293896,
+            "total_vote": 335,
+            "votes": {
+                "11": 8,
+                "12": 10,
+                "21": 173,
+                "22": 74,
+                "23": 1,
+                "24": 8,
+                "3": 1,
+                "6": 1,
+                "7": 9,
+                "8": 2,
+                "9": 48
+            }
+        },
+        "school_name": "MEŞKÜRE ŞAMLI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1347,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/61775_bulk_999999999_1684079931750418703.jpeg",
+            "submission_id": 178980,
+            "total_vote": 347,
+            "votes": {
+                "1": 81,
+                "2": 1,
+                "3": 252,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/62306_bulk_999999999_1684088918228867716.jpg",
+            "submission_id": 380179,
+            "total_vote": 343,
+            "votes": {
+                "1": 2,
+                "10": 3,
+                "11": 7,
+                "12": 18,
+                "13": 0,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 155,
+                "22": 76,
+                "23": 1,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 3,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 69
+            }
+        },
+        "school_name": "MEŞKÜRE ŞAMLI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1343,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61503_cb_1093583217_1684081753547239193.jpg",
+            "submission_id": 191939,
+            "total_vote": 348,
+            "votes": {
+                "1": 61,
+                "2": 0,
+                "3": 266,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/62306_mv_1083583217_1684087588159113144.jpg",
+            "submission_id": 338735,
+            "total_vote": 341,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 13,
+                "12": 18,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 188,
+                "22": 53,
+                "23": 2,
+                "24": 13,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 2,
+                "9": 46
+            }
+        },
+        "school_name": "MEŞKÜRE ŞAMLI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1350,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61503_cb_1093583224_1684081959816909793.jpg",
+            "submission_id": 194138,
+            "total_vote": 346,
+            "votes": {
+                "1": 79,
+                "2": 3,
+                "3": 240,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41215_mv_1083583224_1684086707313292294.jpg",
+            "submission_id": 308773,
+            "total_vote": 346,
+            "votes": {
+                "1": 1,
+                "10": 7,
+                "11": 15,
+                "12": 9,
+                "14": 0,
+                "15": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 173,
+                "21": 55,
+                "22": 0,
+                "23": 11,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 3,
+                "7": 8,
+                "8": 1,
+                "9": 62
+            }
+        },
+        "school_name": "MEŞKÜRE ŞAMLI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1353,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/62306_mv_1083583227_1684087930702432844.jpg",
+            "submission_id": 349625,
+            "total_vote": 337,
+            "votes": {
+                "1": 52,
+                "3": 278,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/62306_cb_1093583227_1684087889964700157.jpg",
+            "submission_id": 348353,
+            "total_vote": 336,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 5,
+                "12": 16,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 185,
+                "22": 65,
+                "23": 2,
+                "24": 1,
+                "3": 3,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 6,
+                "8": 0,
+                "9": 47
+            }
+        },
+        "school_name": "MEŞKÜRE ŞAMLI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1340,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/61775_bulk_999999999_1684079507564392408.jpeg",
+            "submission_id": 177251,
+            "total_vote": 317,
+            "votes": {
+                "1": 67,
+                "3": 244,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/62306_mv_1083582554_1684087769473237441.jpg",
+            "submission_id": 344633,
+            "total_vote": 311,
+            "votes": {
+                "10": 2,
+                "11": 8,
+                "12": 15,
+                "14": 1,
+                "21": 189,
+                "22": 32,
+                "24": 1,
+                "3": 1,
+                "6": 2,
+                "7": 4,
+                "8": 1,
+                "9": 55
+            }
+        },
+        "school_name": "MEŞKÜRE ŞAMLI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1349,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61962_cb_1093583223_1684087950435553305.jpg",
+            "submission_id": 350248,
+            "total_vote": 318,
+            "votes": {
+                "1": 49,
+                "3": 252,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61962_mv_1083583223_1684087898162871547.jpg",
+            "submission_id": 348601,
+            "total_vote": 315,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 11,
+                "12": 8,
+                "14": 1,
+                "15": 1,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 180,
+                "22": 53,
+                "23": 0,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 4,
+                "7": 7,
+                "8": 2,
+                "9": 33
+            }
+        },
+        "school_name": "MEŞKÜRE ŞAMLI ORTAOKULU"
+    }
+]

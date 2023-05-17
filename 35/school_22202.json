@@ -1,0 +1,512 @@
+[
+    {
+        "ballot_box_number": 1223,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/fc3b4c59-6f3b-4238-865e-31689b07f266-1684105427949543911.jpg",
+            "submission_id": 638155,
+            "total_vote": 326,
+            "votes": {
+                "1": 113,
+                "3": 187,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9951609b-9d9d-4edb-b0d9-85fca892db4e-1684105354752049714.jpg",
+            "submission_id": 623704,
+            "total_vote": 321,
+            "votes": {
+                "10": 2,
+                "11": 28,
+                "12": 7,
+                "13": 19,
+                "21": 116,
+                "22": 42,
+                "24": 17,
+                "5": 1,
+                "7": 2,
+                "8": 3,
+                "9": 84
+            }
+        },
+        "school_name": "GÜLEN KORA ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1228,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25582_cb_1093579618_1684082103694252753.jpg",
+            "submission_id": 195884,
+            "total_vote": 333,
+            "votes": {
+                "1": 99,
+                "2": 5,
+                "3": 207,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25582_mv_1083579618_1684083069175683562.jpg",
+            "submission_id": 209882,
+            "total_vote": 330,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 10,
+                "12": 10,
+                "13": 21,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 134,
+                "22": 45,
+                "23": 1,
+                "24": 10,
+                "3": 3,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 2,
+                "9": 86
+            }
+        },
+        "school_name": "GÜLEN KORA ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1227,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/68127_bulk_999999999_1684086438714691395.jpeg",
+            "submission_id": 299320,
+            "total_vote": 325,
+            "votes": {
+                "1": 109,
+                "2": 1,
+                "3": 203,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/b9dec3b2-4bf4-4a46-b044-f4f127ac615c-1684105575621012936.jpg",
+            "submission_id": 660976,
+            "total_vote": 223,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 18,
+                "12": 16,
+                "13": 13,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 37,
+                "22": 32,
+                "23": 0,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 5,
+                "8": 1,
+                "9": 92
+            }
+        },
+        "school_name": "GÜLEN KORA ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1218,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68132_cb_1093579068_1684088582825403106.jpg",
+            "submission_id": 370102,
+            "total_vote": 341,
+            "votes": {
+                "1": 90,
+                "3": 225,
+                "4": 26
+            }
+        },
+        "mv_result": null,
+        "school_name": "GÜLEN KORA ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1217,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/55267_cb_1093579067_1684079496770229114.jpg",
+            "submission_id": 177213,
+            "total_vote": 312,
+            "votes": {
+                "1": 119,
+                "2": 0,
+                "3": 175,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/55267_mv_1083579067_1684083874012613561.jpg",
+            "submission_id": 225592,
+            "total_vote": 306,
+            "votes": {
+                "1": 1,
+                "10": 6,
+                "11": 22,
+                "12": 6,
+                "13": 10,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 121,
+                "22": 40,
+                "23": 1,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 1,
+                "8": 2,
+                "9": 86
+            }
+        },
+        "school_name": "GÜLEN KORA ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1226,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/57847_cb_1093579616_1684083160277274887.jpg",
+            "submission_id": 211418,
+            "total_vote": 332,
+            "votes": {
+                "1": 107,
+                "2": 3,
+                "3": 206,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/57847_mv_1083579616_1684083195066486772.jpg",
+            "submission_id": 212056,
+            "total_vote": 332,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 16,
+                "12": 10,
+                "13": 18,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 131,
+                "22": 49,
+                "23": 0,
+                "24": 13,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 0,
+                "9": 89
+            }
+        },
+        "school_name": "GÜLEN KORA ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1222,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22329_mv_1083579072_1684088083422129294.jpg",
+            "submission_id": 354681,
+            "total_vote": 324,
+            "votes": {
+                "1": 95,
+                "2": 4,
+                "3": 201,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25582_mv_1083579072_1684092009559545623.jpg",
+            "submission_id": 449473,
+            "total_vote": 316,
+            "votes": {
+                "1": 2,
+                "11": 18,
+                "12": 14,
+                "13": 12,
+                "14": 1,
+                "21": 138,
+                "22": 38,
+                "23": 2,
+                "24": 14,
+                "3": 1,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "9": 72
+            }
+        },
+        "school_name": "GÜLEN KORA ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1216,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/55300_cb_1093579066_1684085139837397905.jpg",
+            "submission_id": 258104,
+            "total_vote": 310,
+            "votes": {
+                "1": 106,
+                "2": 0,
+                "3": 195,
+                "4": 9
+            }
+        },
+        "mv_result": null,
+        "school_name": "GÜLEN KORA ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1219,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/46244_cb_1093579069_1684082412952510358.jpg",
+            "submission_id": 199791,
+            "total_vote": 325,
+            "votes": {
+                "1": 88,
+                "3": 220,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/46244_mv_1083579069_1684085930257353650.jpg",
+            "submission_id": 282766,
+            "total_vote": 318,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 19,
+                "12": 16,
+                "13": 17,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 149,
+                "22": 35,
+                "23": 1,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 65
+            }
+        },
+        "school_name": "GÜLEN KORA ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1220,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/55300_cb_1093579070_1684086885003038872.jpg",
+            "submission_id": 314950,
+            "total_vote": 334,
+            "votes": {
+                "1": 96,
+                "3": 221,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/45805_mv_1083579070_1684088800666990240.jpg",
+            "submission_id": 376631,
+            "total_vote": 330,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 20,
+                "12": 9,
+                "13": 9,
+                "14": 2,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 158,
+                "22": 38,
+                "23": 0,
+                "24": 12,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 1,
+                "9": 77
+            }
+        },
+        "school_name": "GÜLEN KORA ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1225,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/63914_cb_1093579615_1684089805468930333.jpg",
+            "submission_id": 404646,
+            "total_vote": 332,
+            "votes": {
+                "1": 128,
+                "2": 2,
+                "3": 181,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/63914_cb_1093579615_1684088941925098324.jpg",
+            "submission_id": 380844,
+            "total_vote": 324,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 16,
+                "12": 8,
+                "13": 10,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 125,
+                "22": 34,
+                "23": 2,
+                "24": 9,
+                "3": 0,
+                "4": 1,
+                "5": 1,
+                "6": 4,
+                "7": 5,
+                "8": 1,
+                "9": 106
+            }
+        },
+        "school_name": "GÜLEN KORA ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1221,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/63892_bulk_999999999_1684080675572350397.jpg",
+            "submission_id": 183077,
+            "total_vote": 328,
+            "votes": {
+                "1": 88,
+                "2": 1,
+                "3": 215,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/63892_mv_1083579071_1684088661918737967.jpg",
+            "submission_id": 372554,
+            "total_vote": 315,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 23,
+                "12": 22,
+                "13": 14,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 131,
+                "22": 31,
+                "23": 3,
+                "24": 13,
+                "3": 2,
+                "4": 1,
+                "5": 0,
+                "6": 2,
+                "7": 5,
+                "8": 1,
+                "9": 63
+            }
+        },
+        "school_name": "GÜLEN KORA ORTA OKULU"
+    },
+    {
+        "ballot_box_number": 1224,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/55282_cb_1093579074_1684082669081678781.jpg",
+            "submission_id": 203359,
+            "total_vote": 322,
+            "votes": {
+                "1": 109,
+                "2": 2,
+                "3": 191,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/55282_mv_1083579074_1684085916700629509.jpg",
+            "submission_id": 282318,
+            "total_vote": 317,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 22,
+                "12": 8,
+                "13": 22,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "20": 0,
+                "21": 111,
+                "22": 51,
+                "23": 1,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 5,
+                "8": 1,
+                "9": 80
+            }
+        },
+        "school_name": "GÜLEN KORA ORTA OKULU"
+    }
+]

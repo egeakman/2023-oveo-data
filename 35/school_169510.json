@@ -1,0 +1,788 @@
+[
+    {
+        "ballot_box_number": 1334,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f420ee96-8d98-4c4e-8cb5-30af33a42068-1684105543437599569.jpg",
+            "submission_id": 656323,
+            "total_vote": 337,
+            "votes": {
+                "1": 86,
+                "2": 1,
+                "3": 220,
+                "4": 30
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/b2a46587-f8ff-4219-8a9f-88ad980c36c4-1684105541168527012.jpg",
+            "submission_id": 655991,
+            "total_vote": 336,
+            "votes": {
+                "10": 4,
+                "11": 17,
+                "12": 26,
+                "13": 29,
+                "21": 129,
+                "22": 35,
+                "23": 1,
+                "24": 19,
+                "3": 1,
+                "5": 2,
+                "6": 1,
+                "7": 5,
+                "8": 3,
+                "9": 64
+            }
+        },
+        "school_name": "ÖZEL KENT KOLEJİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1324,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f64ab5b5-e308-4668-b00c-f3b6c235c5fd-1684105401276437583.jpg",
+            "submission_id": 632917,
+            "total_vote": 331,
+            "votes": {
+                "1": 89,
+                "2": 1,
+                "3": 223,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/26705ddb-bfaa-4cb7-bd1e-8ef9c09d4155-1684105422488338417.jpg",
+            "submission_id": 636871,
+            "total_vote": 326,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 13,
+                "12": 25,
+                "13": 23,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 141,
+                "22": 33,
+                "23": 0,
+                "24": 15,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 1,
+                "9": 68
+            }
+        },
+        "school_name": "ÖZEL KENT KOLEJİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1321,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/64618_cb_1093582231_1684088209651406062.jpg",
+            "submission_id": 358535,
+            "total_vote": 341,
+            "votes": {
+                "1": 99,
+                "2": 2,
+                "3": 222,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÖZEL KENT KOLEJİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1323,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/43486_cb_1093582233_1684084649448584309.jpg",
+            "submission_id": 244476,
+            "total_vote": 340,
+            "votes": {
+                "1": 102,
+                "2": 2,
+                "3": 224,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/43486_mv_1083582233_1684086606801244292.jpg",
+            "submission_id": 305236,
+            "total_vote": 338,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 13,
+                "12": 21,
+                "13": 33,
+                "14": 1,
+                "15": 8,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 119,
+                "22": 43,
+                "23": 2,
+                "24": 0,
+                "3": 1,
+                "4": 1,
+                "5": 4,
+                "6": 0,
+                "7": 4,
+                "8": 0,
+                "9": 85
+            }
+        },
+        "school_name": "ÖZEL KENT KOLEJİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1341,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/43486_mv_1083582970_1684088451718650500.jpg",
+            "submission_id": 365977,
+            "total_vote": 345,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 13,
+                "12": 22,
+                "13": 28,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 126,
+                "22": 40,
+                "23": 0,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 5,
+                "8": 0,
+                "9": 94
+            }
+        },
+        "school_name": "ÖZEL KENT KOLEJİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1322,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/71365_cb_1093582232_1684086040074268319.jpg",
+            "submission_id": 286257,
+            "total_vote": 346,
+            "votes": {
+                "1": 87,
+                "2": 1,
+                "3": 242,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/71365_mv_1083582232_1684086067077456375.jpg",
+            "submission_id": 287077,
+            "total_vote": 338,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 12,
+                "12": 34,
+                "13": 28,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 137,
+                "22": 34,
+                "23": 0,
+                "24": 9,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 2,
+                "8": 0,
+                "9": 75
+            }
+        },
+        "school_name": "ÖZEL KENT KOLEJİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1338,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/71721_cb_1093582968_1684089751681767601.jpg",
+            "submission_id": 403134,
+            "total_vote": 334,
+            "votes": {
+                "1": 81,
+                "2": 2,
+                "3": 231,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/71721_mv_1083582968_1684089791479112992.jpg",
+            "submission_id": 404284,
+            "total_vote": 323,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 22,
+                "12": 16,
+                "13": 18,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 2,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 2,
+                "21": 153,
+                "22": 33,
+                "23": 0,
+                "24": 10,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 55
+            }
+        },
+        "school_name": "ÖZEL KENT KOLEJİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1329,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a9c50317-9226-41db-a545-cf94f706f08e-1684106393273429206.jpg",
+            "submission_id": 781635,
+            "total_vote": 332,
+            "votes": {
+                "1": 77,
+                "3": 236,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÖZEL KENT KOLEJİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1331,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28459_cb_1093582961_1684087759936487636.jpg",
+            "submission_id": 344331,
+            "total_vote": 337,
+            "votes": {
+                "1": 92,
+                "2": 0,
+                "3": 230,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0a095b33-5d44-46e7-9bef-a6303ea0bee6-1684106105247654242.jpg",
+            "submission_id": 739509,
+            "total_vote": 329,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 8,
+                "12": 27,
+                "13": 21,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 139,
+                "22": 34,
+                "23": 0,
+                "24": 11,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 82
+            }
+        },
+        "school_name": "ÖZEL KENT KOLEJİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1318,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28459_cb_1093582228_1684086881946420574.jpg",
+            "submission_id": 314870,
+            "total_vote": 314,
+            "votes": {
+                "1": 62,
+                "2": 0,
+                "3": 236,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3d9afcd7-2331-4e5d-bcd6-7726ee8f64f4-1684105805034802520.jpg",
+            "submission_id": 698056,
+            "total_vote": 303,
+            "votes": {
+                "1": 1,
+                "11": 8,
+                "12": 14,
+                "13": 23,
+                "18": 1,
+                "21": 164,
+                "22": 23,
+                "23": 2,
+                "24": 8,
+                "7": 2,
+                "8": 1,
+                "9": 56
+            }
+        },
+        "school_name": "ÖZEL KENT KOLEJİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1325,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8d141c2a-8b9f-4a05-b4a5-7dd2bf8befff-1684105764064606354.jpg",
+            "submission_id": 691637,
+            "total_vote": 335,
+            "votes": {
+                "1": 81,
+                "3": 244,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/65c3cbc6-cb0c-450a-8f4f-aed7b1ad4c73-1684105444757300435.jpg",
+            "submission_id": 640922,
+            "total_vote": 336,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 14,
+                "12": 24,
+                "13": 31,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 150,
+                "22": 34,
+                "23": 1,
+                "24": 9,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 3,
+                "7": 3,
+                "8": 0,
+                "9": 59
+            }
+        },
+        "school_name": "ÖZEL KENT KOLEJİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1328,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3f8240a2-e19b-4d25-9f3f-4c537e1fe228-1684105803373398097.jpg",
+            "submission_id": 697958,
+            "total_vote": 340,
+            "votes": {
+                "1": 92,
+                "3": 232,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e11e06d2-2652-49b1-8477-f4daef6cb5ea-1684105800921125724.jpg",
+            "submission_id": 697771,
+            "total_vote": 336,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 15,
+                "12": 29,
+                "13": 26,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 141,
+                "22": 24,
+                "23": 0,
+                "24": 14,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 2,
+                "8": 3,
+                "9": 75
+            }
+        },
+        "school_name": "ÖZEL KENT KOLEJİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1339,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/43486_cb_1093582969_1684088416785854569.jpg",
+            "submission_id": 364952,
+            "total_vote": 332,
+            "votes": {
+                "1": 85,
+                "3": 228,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÖZEL KENT KOLEJİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1342,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "ÖZEL KENT KOLEJİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1340,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28459_cb_1093582970_1684088367729220467.jpg",
+            "submission_id": 363337,
+            "total_vote": 332,
+            "votes": {
+                "1": 69,
+                "3": 229,
+                "4": 34
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28459_mv_1083582970_1684088667229963608.jpg",
+            "submission_id": 372742,
+            "total_vote": 329,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 11,
+                "12": 36,
+                "13": 28,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 127,
+                "22": 35,
+                "23": 0,
+                "24": 27,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 4,
+                "8": 1,
+                "9": 53
+            }
+        },
+        "school_name": "ÖZEL KENT KOLEJİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1319,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28459_cb_1093582229_1684086958161270045.jpg",
+            "submission_id": 317496,
+            "total_vote": 332,
+            "votes": {
+                "1": 116,
+                "2": 1,
+                "3": 205,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28459_mv_1083582229_1684087098831458455.jpg",
+            "submission_id": 322495,
+            "total_vote": 327,
+            "votes": {
+                "10": 1,
+                "11": 16,
+                "12": 15,
+                "13": 22,
+                "20": 2,
+                "21": 146,
+                "22": 14,
+                "24": 7,
+                "3": 2,
+                "4": 1,
+                "7": 3,
+                "8": 1,
+                "9": 97
+            }
+        },
+        "school_name": "ÖZEL KENT KOLEJİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1326,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/64472_cb_1093582956_1684084323339924317.jpg",
+            "submission_id": 236077,
+            "total_vote": 335,
+            "votes": {
+                "1": 106,
+                "2": 1,
+                "3": 205,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/64472_mv_1083582956_1684087179422919973.jpg",
+            "submission_id": 325294,
+            "total_vote": 332,
+            "votes": {
+                "1": 2,
+                "10": 8,
+                "11": 18,
+                "12": 39,
+                "13": 34,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 97,
+                "22": 40,
+                "23": 0,
+                "24": 10,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 4,
+                "8": 6,
+                "9": 71
+            }
+        },
+        "school_name": "ÖZEL KENT KOLEJİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1317,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28459_cb_1093582227_1684085111496721814.jpg",
+            "submission_id": 257273,
+            "total_vote": 318,
+            "votes": {
+                "1": 96,
+                "2": 0,
+                "3": 211,
+                "4": 11
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÖZEL KENT KOLEJİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1337,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/65408_cb_1093582967_1684086824183395989.jpg",
+            "submission_id": 312913,
+            "total_vote": 348,
+            "votes": {
+                "1": 100,
+                "2": 1,
+                "3": 235,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÖZEL KENT KOLEJİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1330,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28459_cb_1093582960_1684092189447139960.jpg",
+            "submission_id": 452329,
+            "total_vote": 336,
+            "votes": {
+                "1": 88,
+                "2": 1,
+                "3": 226,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÖZEL KENT KOLEJİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1336,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/43486_cb_1093582966_1684088222858882750.jpg",
+            "submission_id": 358966,
+            "total_vote": 354,
+            "votes": {
+                "1": 76,
+                "2": 1,
+                "3": 249,
+                "4": 28
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31861_mv_1083582966_1684088482439729376.jpg",
+            "submission_id": 366930,
+            "total_vote": 351,
+            "votes": {
+                "10": 8,
+                "11": 19,
+                "12": 29,
+                "13": 27,
+                "14": 1,
+                "17": 1,
+                "19": 1,
+                "21": 167,
+                "22": 34,
+                "24": 6,
+                "3": 2,
+                "6": 1,
+                "7": 4,
+                "9": 51
+            }
+        },
+        "school_name": "ÖZEL KENT KOLEJİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1332,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7739e460-1ca0-4436-85d8-1618ed614446-1684106614966123709.jpg",
+            "submission_id": 814213,
+            "total_vote": 329,
+            "votes": {
+                "1": 91,
+                "2": 2,
+                "3": 221,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/358b5e38-adbc-4ebd-b006-9667a624cb6e-1684105857314004492.jpg",
+            "submission_id": 704774,
+            "total_vote": 324,
+            "votes": {
+                "10": 1,
+                "11": 12,
+                "12": 22,
+                "13": 18,
+                "21": 136,
+                "22": 43,
+                "23": 1,
+                "24": 7,
+                "3": 1,
+                "4": 1,
+                "6": 3,
+                "7": 5,
+                "9": 74
+            }
+        },
+        "school_name": "ÖZEL KENT KOLEJİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1327,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/28ee51d2-7089-4540-8f70-8ba22f7a55aa-1684106384111691079.jpg",
+            "submission_id": 780204,
+            "total_vote": 332,
+            "votes": {
+                "1": 99,
+                "2": 2,
+                "3": 210,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÖZEL KENT KOLEJİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1333,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/816ca8a1-9f9a-4f9d-bf8a-7c5e8fb41b3e-1684106664893993515.jpg",
+            "submission_id": 820811,
+            "total_vote": 330,
+            "votes": {
+                "1": 69,
+                "3": 244,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÖZEL KENT KOLEJİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1335,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28459_cb_1093582965_1684090216559659312.jpg",
+            "submission_id": 414948,
+            "total_vote": 345,
+            "votes": {
+                "1": 90,
+                "2": 0,
+                "3": 227,
+                "4": 28
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÖZEL KENT KOLEJİ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1320,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/14cd3859-34a8-47b3-b9cd-ec23c11b71c3-1684105610126960585.jpg",
+            "submission_id": 666662,
+            "total_vote": 341,
+            "votes": {
+                "1": 69,
+                "2": 1,
+                "3": 237,
+                "4": 34
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÖZEL KENT KOLEJİ ANADOLU LİSESİ"
+    }
+]

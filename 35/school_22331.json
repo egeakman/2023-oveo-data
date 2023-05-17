@@ -1,0 +1,47 @@
+[
+    {
+        "ballot_box_number": 1034,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/36699_cb_1093796748_1684082845851718541.jpg",
+            "submission_id": 206139,
+            "total_vote": 286,
+            "votes": {
+                "1": 40,
+                "2": 0,
+                "3": 239,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/36699_mv_1083796748_1684083654698842521.jpg",
+            "submission_id": 220884,
+            "total_vote": 282,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 4,
+                "12": 8,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 180,
+                "22": 40,
+                "23": 2,
+                "24": 4,
+                "3": 4,
+                "4": 1,
+                "5": 2,
+                "6": 0,
+                "7": 0,
+                "8": 0,
+                "9": 34
+            }
+        },
+        "school_name": "ULUSOY MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    }
+]

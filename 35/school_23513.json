@@ -1,0 +1,487 @@
+[
+    {
+        "ballot_box_number": 2428,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23881_cb_1093792482_1684085525277021809.jpg",
+            "submission_id": 269379,
+            "total_vote": 319,
+            "votes": {
+                "1": 155,
+                "2": 1,
+                "3": 148,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23881_mv_1083792482_1684085683398060559.jpg",
+            "submission_id": 274511,
+            "total_vote": 312,
+            "votes": {
+                "10": 9,
+                "11": 21,
+                "12": 52,
+                "17": 1,
+                "21": 84,
+                "22": 17,
+                "24": 5,
+                "5": 3,
+                "6": 1,
+                "7": 4,
+                "8": 5,
+                "9": 110
+            }
+        },
+        "school_name": "ŞERİFE BACI MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2424,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/af97c387-b9e5-4e9b-b929-7d8390025502-1684106050080800907.jpeg",
+            "submission_id": 731571,
+            "total_vote": 308,
+            "votes": {
+                "1": 178,
+                "2": 2,
+                "3": 107,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/fa69b6f9-ba03-4b37-ab23-a28ed83a2a66-1684105821826912450.jpg",
+            "submission_id": 700613,
+            "total_vote": 302,
+            "votes": {
+                "10": 11,
+                "11": 29,
+                "12": 42,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 1,
+                "21": 48,
+                "22": 24,
+                "23": 1,
+                "24": 9,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 1,
+                "9": 133
+            }
+        },
+        "school_name": "ŞERİFE BACI MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2419,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9a1568e9-94ad-4799-ac46-d6867de073d3-1684105795204361395.jpeg",
+            "submission_id": 696733,
+            "total_vote": 310,
+            "votes": {
+                "1": 183,
+                "2": 2,
+                "3": 111,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞERİFE BACI MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2430,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/26982_bulk_999999999_1684086740188773427.jpeg",
+            "submission_id": 309979,
+            "total_vote": 326,
+            "votes": {
+                "1": 156,
+                "2": 2,
+                "3": 147,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/db7003de-cce1-4680-9de2-21fcbe26a668-1684105481861482280.jpeg",
+            "submission_id": 646923,
+            "total_vote": 322,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 23,
+                "12": 70,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 8,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 61,
+                "22": 11,
+                "23": 0,
+                "24": 12,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 5,
+                "9": 121
+            }
+        },
+        "school_name": "ŞERİFE BACI MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2421,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/70246_bulk_999999999_1684100476686144543.png",
+            "submission_id": 537191,
+            "total_vote": 323,
+            "votes": {
+                "1": 175,
+                "2": 0,
+                "3": 128,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/56e5f2ad-c270-4a74-b698-df56f36855bb-1684106595288124529.jpeg",
+            "submission_id": 811245,
+            "total_vote": 316,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 35,
+                "12": 58,
+                "14": 0,
+                "15": 0,
+                "16": 7,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 40,
+                "22": 15,
+                "23": 18,
+                "24": 9,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 3,
+                "8": 6,
+                "9": 116
+            }
+        },
+        "school_name": "ŞERİFE BACI MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2420,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4f283723-0068-42d2-b4d7-dacb269f1b4c-1684106647080882402.jpeg",
+            "submission_id": 818155,
+            "total_vote": 307,
+            "votes": {
+                "1": 162,
+                "2": 1,
+                "3": 122,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞERİFE BACI MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2429,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/643db823-6e19-40d7-bd47-645afa8de69f-1684105759588409480.jpeg",
+            "submission_id": 691079,
+            "total_vote": 330,
+            "votes": {
+                "1": 168,
+                "2": 2,
+                "3": 139,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/26982_bulk_999999999_1684086695374205341.jpeg",
+            "submission_id": 308358,
+            "total_vote": 330,
+            "votes": {
+                "10": 6,
+                "11": 31,
+                "12": 56,
+                "14": 1,
+                "19": 2,
+                "21": 66,
+                "22": 12,
+                "23": 5,
+                "24": 10,
+                "7": 7,
+                "8": 2,
+                "9": 132
+            }
+        },
+        "school_name": "ŞERİFE BACI MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2422,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/de4c3bab-8a32-45d6-83c3-6d5cda316563-1684105280586352548.jpeg",
+            "submission_id": 610690,
+            "total_vote": 314,
+            "votes": {
+                "1": 167,
+                "2": 1,
+                "3": 132,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞERİFE BACI MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2418,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/70246_bulk_999999999_1684100704312592971.jpeg",
+            "submission_id": 538172,
+            "total_vote": 296,
+            "votes": {
+                "1": 163,
+                "2": 2,
+                "3": 112,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞERİFE BACI MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2432,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26982_cb_1093792486_1684086401694389628.jpg",
+            "submission_id": 298097,
+            "total_vote": 328,
+            "votes": {
+                "1": 174,
+                "2": 0,
+                "3": 131,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/26982_bulk_999999999_1684086831973589099.jpeg",
+            "submission_id": 313143,
+            "total_vote": 320,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 42,
+                "12": 46,
+                "18": 1,
+                "2": 1,
+                "20": 1,
+                "21": 63,
+                "22": 25,
+                "23": 3,
+                "24": 8,
+                "8": 7,
+                "9": 119
+            }
+        },
+        "school_name": "ŞERİFE BACI MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2426,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/abfe0aa0-aabe-40a8-a0c2-0eda895195dc-1684106341887765585.jpeg",
+            "submission_id": 774348,
+            "total_vote": 324,
+            "votes": {
+                "1": 154,
+                "2": 1,
+                "3": 135,
+                "4": 34
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞERİFE BACI MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2427,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/61a08a9c-f902-420a-87c0-8b135ead41c7-1684105855521333474.jpg",
+            "submission_id": 704476,
+            "total_vote": 316,
+            "votes": {
+                "1": 176,
+                "2": 0,
+                "3": 130,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8dbf2145-f1e2-4571-9c3e-ef9ad0b2ed24-1684105390102233895.jpeg",
+            "submission_id": 630962,
+            "total_vote": 308,
+            "votes": {
+                "10": 8,
+                "11": 27,
+                "12": 66,
+                "14": 1,
+                "21": 47,
+                "22": 22,
+                "23": 1,
+                "24": 4,
+                "7": 1,
+                "8": 7,
+                "9": 124
+            }
+        },
+        "school_name": "ŞERİFE BACI MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2423,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/00702b72-23a3-43f4-9b0e-c49505e29056-1684105532021202161.jpeg",
+            "submission_id": 654488,
+            "total_vote": 308,
+            "votes": {
+                "1": 182,
+                "2": 1,
+                "3": 110,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/26c2b34f-af1d-405e-bf0e-dc58b9dfed73-1684105525955322806.jpeg",
+            "submission_id": 653301,
+            "total_vote": 303,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 31,
+                "12": 23,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 62,
+                "22": 25,
+                "23": 4,
+                "24": 6,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 1,
+                "8": 2,
+                "9": 143
+            }
+        },
+        "school_name": "ŞERİFE BACI MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2425,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e2b8c442-37f3-4ec7-a3b5-cb22f745596b-1684105226077377814.jpeg",
+            "submission_id": 598416,
+            "total_vote": 320,
+            "votes": {
+                "1": 182,
+                "3": 121,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/13f509f4-f41d-41dc-8f70-105c4dffb674-1684105225380084984.jpeg",
+            "submission_id": 598091,
+            "total_vote": 313,
+            "votes": {
+                "1": 0,
+                "10": 11,
+                "11": 31,
+                "12": 38,
+                "13": 0,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 63,
+                "22": 17,
+                "23": 2,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 5,
+                "8": 7,
+                "9": 124
+            }
+        },
+        "school_name": "ŞERİFE BACI MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 2431,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8815e7f3-4707-4474-b750-bdb0275658d0-1684105307311253175.jpeg",
+            "submission_id": 615632,
+            "total_vote": 313,
+            "votes": {
+                "1": 144,
+                "2": 1,
+                "3": 142,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/26982_bulk_999999999_1684090364229621740.jpeg",
+            "submission_id": 418317,
+            "total_vote": 302,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 30,
+                "12": 52,
+                "14": 0,
+                "15": 2,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 65,
+                "22": 20,
+                "23": 3,
+                "24": 14,
+                "3": 0,
+                "4": 0,
+                "5": 3,
+                "6": 2,
+                "7": 1,
+                "8": 5,
+                "9": 96
+            }
+        },
+        "school_name": "ŞERİFE BACI MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    }
+]

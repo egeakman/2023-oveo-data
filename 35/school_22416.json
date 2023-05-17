@@ -1,0 +1,290 @@
+[
+    {
+        "ballot_box_number": 1316,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67993_cb_1093800630_1684082525216358909.jpg",
+            "submission_id": 201323,
+            "total_vote": 350,
+            "votes": {
+                "1": 45,
+                "2": 1,
+                "3": 300,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67993_mv_1083800630_1684083307853404855.jpg",
+            "submission_id": 214083,
+            "total_vote": 348,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 3,
+                "12": 10,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "2": 0,
+                "21": 230,
+                "22": 49,
+                "23": 0,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 3,
+                "6": 1,
+                "7": 6,
+                "8": 1,
+                "9": 40
+            }
+        },
+        "school_name": "FEVZİ ÖZAKAT ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1313,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/44786_cb_1093800627_1684083899994205550.jpg",
+            "submission_id": 226092,
+            "total_vote": 346,
+            "votes": {
+                "1": 38,
+                "2": 0,
+                "3": 294,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/44786_mv_1083800627_1684084006198094142.jpg",
+            "submission_id": 228269,
+            "total_vote": 344,
+            "votes": {
+                "10": 1,
+                "11": 7,
+                "12": 13,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "2": 0,
+                "21": 208,
+                "22": 63,
+                "23": 2,
+                "24": 10,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 4,
+                "8": 2,
+                "9": 28
+            }
+        },
+        "school_name": "FEVZİ ÖZAKAT ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1315,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22934_cb_1093800629_1684085577683424832.jpg",
+            "submission_id": 271001,
+            "total_vote": 335,
+            "votes": {
+                "1": 49,
+                "2": 2,
+                "3": 267,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/74151_mv_1083800629_1684086439331255651.jpg",
+            "submission_id": 299330,
+            "total_vote": 333,
+            "votes": {
+                "11": 6,
+                "12": 12,
+                "21": 191,
+                "22": 63,
+                "24": 7,
+                "7": 8,
+                "9": 46
+            }
+        },
+        "school_name": "FEVZİ ÖZAKAT ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1314,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/44786_cb_1093800628_1684079465397285043.jpg",
+            "submission_id": 177111,
+            "total_vote": 354,
+            "votes": {
+                "1": 39,
+                "2": 1,
+                "3": 299,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/44786_mv_1083800628_1684084768777498280.jpg",
+            "submission_id": 247729,
+            "total_vote": 353,
+            "votes": {
+                "11": 8,
+                "12": 10,
+                "21": 240,
+                "22": 51,
+                "23": 2,
+                "24": 7,
+                "6": 1,
+                "7": 2,
+                "8": 2,
+                "9": 30
+            }
+        },
+        "school_name": "FEVZİ ÖZAKAT ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1309,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22934_cb_1093800623_1684085031096258535.jpg",
+            "submission_id": 255041,
+            "total_vote": 318,
+            "votes": {
+                "1": 36,
+                "3": 277,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22934_mv_1083800623_1684085079295095517.jpg",
+            "submission_id": 256383,
+            "total_vote": 314,
+            "votes": {
+                "10": 1,
+                "11": 5,
+                "12": 12,
+                "21": 230,
+                "22": 28,
+                "23": 2,
+                "24": 3,
+                "6": 2,
+                "7": 1,
+                "9": 30
+            }
+        },
+        "school_name": "FEVZİ ÖZAKAT ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1317,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22934_cb_1093800631_1684080126532505102.jpg",
+            "submission_id": 179892,
+            "total_vote": 351,
+            "votes": {
+                "1": 54,
+                "2": 2,
+                "3": 288,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22934_mv_1083800631_1684084298534464109.jpg",
+            "submission_id": 235462,
+            "total_vote": 347,
+            "votes": {
+                "10": 1,
+                "11": 3,
+                "12": 19,
+                "19": 5,
+                "21": 196,
+                "22": 56,
+                "23": 2,
+                "24": 8,
+                "3": 5,
+                "6": 1,
+                "7": 9,
+                "8": 1,
+                "9": 41
+            }
+        },
+        "school_name": "FEVZİ ÖZAKAT ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1311,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/77110_bulk_999999999_1684083695615837399.jpeg",
+            "submission_id": 221788,
+            "total_vote": 345,
+            "votes": {
+                "1": 55,
+                "2": 0,
+                "3": 275,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "FEVZİ ÖZAKAT ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1310,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22934_cb_1093800624_1684085382675805814.jpg",
+            "submission_id": 265186,
+            "total_vote": 331,
+            "votes": {
+                "1": 27,
+                "2": 2,
+                "3": 292,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/74151_mv_1083800624_1684087759154505168.jpg",
+            "submission_id": 344300,
+            "total_vote": 328,
+            "votes": {
+                "11": 4,
+                "12": 2,
+                "20": 1,
+                "21": 250,
+                "22": 38,
+                "24": 9,
+                "6": 1,
+                "8": 1,
+                "9": 22
+            }
+        },
+        "school_name": "FEVZİ ÖZAKAT ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1312,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/55062_cb_1093800626_1684087005612092825.jpg",
+            "submission_id": 319144,
+            "total_vote": 351,
+            "votes": {
+                "1": 32,
+                "2": 0,
+                "3": 307,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/74151_mv_1083800626_1684087987365988681.jpg",
+            "submission_id": 351537,
+            "total_vote": 348,
+            "votes": {
+                "10": 1,
+                "11": 8,
+                "12": 8,
+                "20": 1,
+                "21": 229,
+                "22": 49,
+                "24": 15,
+                "3": 4,
+                "7": 9,
+                "9": 24
+            }
+        },
+        "school_name": "FEVZİ ÖZAKAT ANADOLU LİSESİ"
+    }
+]

@@ -1,0 +1,231 @@
+[
+    {
+        "ballot_box_number": 1021,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/01c891a4-bf9b-40b3-acd3-c712ea99d318-1684105483207341183.jpg",
+            "submission_id": 647368,
+            "total_vote": 318,
+            "votes": {
+                "1": 56,
+                "2": 2,
+                "3": 257,
+                "4": 3
+            }
+        },
+        "mv_result": null,
+        "school_name": "KARABURUN ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1025,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28707_bulk_999999999_1684099451198486366.jpg",
+            "submission_id": 533044,
+            "total_vote": 305,
+            "votes": {
+                "1": 88,
+                "3": 201,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28707_bulk_999999999_1684098846349764099.jpg",
+            "submission_id": 529597,
+            "total_vote": 302,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 11,
+                "12": 11,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 158,
+                "22": 35,
+                "23": 2,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 3,
+                "8": 1,
+                "9": 71
+            }
+        },
+        "school_name": "KARABURUN ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1023,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d712c6b6-ff11-4105-b5d0-ac56970d8291-1684105511231032013.jpg",
+            "submission_id": 651915,
+            "total_vote": 310,
+            "votes": {
+                "1": 70,
+                "2": 1,
+                "3": 234,
+                "4": 5
+            }
+        },
+        "mv_result": null,
+        "school_name": "KARABURUN ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1020,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28707_bulk_999999999_1684098845940214426.jpg",
+            "submission_id": 529589,
+            "total_vote": 299,
+            "votes": {
+                "1": 72,
+                "2": 1,
+                "3": 220,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28707_bulk_999999999_1684167763116556919.jpg",
+            "submission_id": 1023790,
+            "total_vote": 292,
+            "votes": {
+                "10": 5,
+                "11": 9,
+                "12": 4,
+                "19": 2,
+                "21": 182,
+                "22": 26,
+                "23": 1,
+                "24": 2,
+                "7": 4,
+                "9": 57
+            }
+        },
+        "school_name": "KARABURUN ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1019,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9e1b65e7-0031-4d38-b853-232aa4cdba75-1684105357462036330.jpg",
+            "submission_id": 624689,
+            "total_vote": 275,
+            "votes": {
+                "1": 55,
+                "2": 2,
+                "3": 214,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7818ab1f-613b-44c8-bbf9-d803f5291036-1684105356535419512.jpg",
+            "submission_id": 624536,
+            "total_vote": 272,
+            "votes": {
+                "10": 1,
+                "11": 6,
+                "12": 13,
+                "19": 0,
+                "21": 174,
+                "22": 26,
+                "23": 0,
+                "24": 2,
+                "4": 1,
+                "9": 49
+            }
+        },
+        "school_name": "KARABURUN ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1024,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28707_bulk_999999999_1684099451281982155.jpg",
+            "submission_id": 533045,
+            "total_vote": 302,
+            "votes": {
+                "1": 92,
+                "3": 196,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28707_bulk_999999999_1684099450927942941.jpg",
+            "submission_id": 533038,
+            "total_vote": 300,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 20,
+                "12": 15,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 148,
+                "22": 29,
+                "23": 2,
+                "24": 8,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 1,
+                "9": 71
+            }
+        },
+        "school_name": "KARABURUN ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "ballot_box_number": 1022,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28707_bulk_999999999_1684146912096471215.jpg",
+            "submission_id": 1019925,
+            "total_vote": 293,
+            "votes": {
+                "1": 89,
+                "2": 1,
+                "3": 200,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/1411dfdf-5997-4bc7-abaa-26f0a0549c58-1684105300753957896.jpg",
+            "submission_id": 613482,
+            "total_vote": 292,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 18,
+                "12": 24,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 151,
+                "22": 24,
+                "23": 2,
+                "24": 2,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 2,
+                "8": 1,
+                "9": 64
+            }
+        },
+        "school_name": "KARABURUN ANADOLU İMAM HATİP LİSESİ"
+    }
+]

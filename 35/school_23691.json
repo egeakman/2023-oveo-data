@@ -1,0 +1,373 @@
+[
+    {
+        "ballot_box_number": 1026,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10074_cb_1093570180_1684093573721568979.jpg",
+            "submission_id": 471515,
+            "total_vote": 340,
+            "votes": {
+                "1": 196,
+                "2": 1,
+                "3": 112,
+                "4": 31
+            }
+        },
+        "mv_result": null,
+        "school_name": "DEDEOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1023,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10074_cb_1093570177_1684093361472958018.jpg",
+            "submission_id": 468918,
+            "total_vote": 337,
+            "votes": {
+                "1": 178,
+                "2": 3,
+                "3": 123,
+                "4": 33
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/1921627f-ed8c-415a-b4d9-81445f25bc19-1684105599630119824.jpeg",
+            "submission_id": 665327,
+            "total_vote": 332,
+            "votes": {
+                "1": 2,
+                "10": 10,
+                "11": 38,
+                "12": 15,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 85,
+                "22": 28,
+                "23": 0,
+                "24": 10,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 5,
+                "7": 5,
+                "8": 3,
+                "9": 131
+            }
+        },
+        "school_name": "DEDEOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1020,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10074_cb_1093568294_1684093626402387285.jpg",
+            "submission_id": 472180,
+            "total_vote": 351,
+            "votes": {
+                "1": 166,
+                "2": 3,
+                "3": 158,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/15585a08-50dc-42cd-8be5-f5e50c25023a-1684105931953515345.jpeg",
+            "submission_id": 714800,
+            "total_vote": 343,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 25,
+                "12": 24,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 95,
+                "22": 34,
+                "23": 1,
+                "24": 8,
+                "3": 2,
+                "4": 2,
+                "5": 2,
+                "6": 4,
+                "7": 7,
+                "8": 5,
+                "9": 127
+            }
+        },
+        "school_name": "DEDEOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1017,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10074_cb_1093568291_1684093777692408755.jpg",
+            "submission_id": 474134,
+            "total_vote": 319,
+            "votes": {
+                "1": 154,
+                "2": 4,
+                "3": 135,
+                "4": 26
+            }
+        },
+        "mv_result": null,
+        "school_name": "DEDEOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1018,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29705_cb_1093568292_1684084669325954313.jpg",
+            "submission_id": 245072,
+            "total_vote": 344,
+            "votes": {
+                "1": 205,
+                "2": 1,
+                "3": 113,
+                "4": 25
+            }
+        },
+        "mv_result": null,
+        "school_name": "DEDEOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1019,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25509_cb_1093568293_1684087004572026118.jpg",
+            "submission_id": 319110,
+            "total_vote": 335,
+            "votes": {
+                "1": 187,
+                "2": 1,
+                "3": 120,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25509_mv_1083568293_1684085639627240310.jpg",
+            "submission_id": 273056,
+            "total_vote": 328,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 37,
+                "12": 6,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 2,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 83,
+                "22": 30,
+                "23": 1,
+                "24": 18,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 4,
+                "7": 5,
+                "8": 2,
+                "9": 134
+            }
+        },
+        "school_name": "DEDEOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1024,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/48717_bulk_999999999_1684092099056714721.jpeg",
+            "submission_id": 450921,
+            "total_vote": 331,
+            "votes": {
+                "1": 175,
+                "2": 2,
+                "3": 117,
+                "4": 37
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/48717_bulk_999999999_1684092132399748130.jpeg",
+            "submission_id": 451449,
+            "total_vote": 331,
+            "votes": {
+                "10": 4,
+                "11": 43,
+                "12": 20,
+                "14": 1,
+                "15": 1,
+                "17": 1,
+                "18": 1,
+                "21": 58,
+                "22": 32,
+                "23": 4,
+                "24": 17,
+                "4": 2,
+                "6": 4,
+                "7": 11,
+                "9": 132
+            }
+        },
+        "school_name": "DEDEOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1021,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/34523_cb_1093570175_1684083750911054483.jpg",
+            "submission_id": 222928,
+            "total_vote": 325,
+            "votes": {
+                "1": 170,
+                "2": 0,
+                "3": 128,
+                "4": 27
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/34523_cb_1093570175_1684083685577013702.jpg",
+            "submission_id": 221570,
+            "total_vote": 315,
+            "votes": {
+                "1": 1,
+                "10": 8,
+                "11": 34,
+                "12": 18,
+                "14": 2,
+                "21": 83,
+                "22": 30,
+                "23": 1,
+                "24": 12,
+                "6": 1,
+                "7": 4,
+                "8": 3,
+                "9": 118
+            }
+        },
+        "school_name": "DEDEOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1016,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10074_cb_1093568290_1684093312956532812.jpg",
+            "submission_id": 468339,
+            "total_vote": 316,
+            "votes": {
+                "1": 180,
+                "2": 2,
+                "3": 115,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10074_mv_1083568290_1684093335111604656.jpg",
+            "submission_id": 468630,
+            "total_vote": 298,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 39,
+                "12": 10,
+                "14": 134,
+                "15": 1,
+                "2": 2,
+                "20": 1,
+                "21": 71,
+                "22": 20,
+                "23": 7,
+                "5": 1,
+                "6": 2,
+                "7": 5,
+                "8": 1
+            }
+        },
+        "school_name": "DEDEOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1025,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/9964_bulk_999999999_1684089734450455959.jpg",
+            "submission_id": 402714,
+            "total_vote": 342,
+            "votes": {
+                "1": 193,
+                "2": 3,
+                "3": 126,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f5419a45-80af-4b8c-9a53-e78c2a3beaa2-1684105611626325075.jpeg",
+            "submission_id": 667213,
+            "total_vote": 333,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 50,
+                "12": 18,
+                "14": 3,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 73,
+                "22": 22,
+                "23": 1,
+                "24": 9,
+                "3": 7,
+                "4": 0,
+                "5": 0,
+                "6": 6,
+                "7": 10,
+                "8": 1,
+                "9": 125
+            }
+        },
+        "school_name": "DEDEOĞLU ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1022,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/10118_bulk_999999999_1684089411551362279.jpeg",
+            "submission_id": 393752,
+            "total_vote": 342,
+            "votes": {
+                "1": 193,
+                "2": 1,
+                "3": 122,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d8d2e5aa-9af0-4bb0-8c31-624de7b9d13d-1684105809641869941.jpeg",
+            "submission_id": 698776,
+            "total_vote": 335,
+            "votes": {
+                "10": 2,
+                "11": 40,
+                "12": 10,
+                "21": 101,
+                "22": 18,
+                "24": 8,
+                "3": 2,
+                "5": 1,
+                "6": 1,
+                "7": 7,
+                "8": 1,
+                "9": 144
+            }
+        },
+        "school_name": "DEDEOĞLU ORTAOKULU"
+    }
+]

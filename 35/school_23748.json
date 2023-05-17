@@ -1,0 +1,753 @@
+[
+    {
+        "ballot_box_number": 1329,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29052_cb_1093864923_1684087925014223641.jpg",
+            "submission_id": 349451,
+            "total_vote": 342,
+            "votes": {
+                "1": 61,
+                "3": 272,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29052_mv_1083864923_1684087952565978593.jpg",
+            "submission_id": 350334,
+            "total_vote": 341,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 20,
+                "12": 8,
+                "14": 38,
+                "15": 0,
+                "16": 0,
+                "17": 178,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 0,
+                "22": 44,
+                "23": 1,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 2,
+                "8": 1,
+                "9": 39
+            }
+        },
+        "school_name": "MÜRŞİDE AKYÜZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1314,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41953_cb_1093864888_1684082812055375577.jpg",
+            "submission_id": 205606,
+            "total_vote": 306,
+            "votes": {
+                "1": 55,
+                "3": 245,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41953_mv_1083864888_1684086658330290382.jpg",
+            "submission_id": 307004,
+            "total_vote": 309,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 4,
+                "12": 10,
+                "13": 18,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 7,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 186,
+                "22": 34,
+                "23": 0,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 0,
+                "9": 43
+            }
+        },
+        "school_name": "MÜRŞİDE AKYÜZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1326,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/76607_cb_1093864920_1684080741850272553.jpg",
+            "submission_id": 183490,
+            "total_vote": 344,
+            "votes": {
+                "1": 67,
+                "2": 3,
+                "3": 262,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/76607_mv_1083864920_1684089155763046830.jpg",
+            "submission_id": 386879,
+            "total_vote": 342,
+            "votes": {
+                "10": 4,
+                "11": 16,
+                "12": 16,
+                "13": 36,
+                "21": 168,
+                "22": 45,
+                "23": 2,
+                "24": 7,
+                "7": 4,
+                "9": 44
+            }
+        },
+        "school_name": "MÜRŞİDE AKYÜZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1328,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29052_cb_1093864922_1684083623030591546.jpg",
+            "submission_id": 220201,
+            "total_vote": 317,
+            "votes": {
+                "1": 79,
+                "2": 3,
+                "3": 220,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29052_mv_1083864922_1684084660829626720.jpg",
+            "submission_id": 244814,
+            "total_vote": 309,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 18,
+                "12": 5,
+                "13": 25,
+                "15": 1,
+                "21": 162,
+                "22": 29,
+                "24": 6,
+                "7": 6,
+                "8": 1,
+                "9": 53
+            }
+        },
+        "school_name": "MÜRŞİDE AKYÜZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1317,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/41957_bulk_999999999_1684086181163633965.jpeg",
+            "submission_id": 290803,
+            "total_vote": 339,
+            "votes": {
+                "1": 42,
+                "2": 0,
+                "3": 283,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41957_cb_1093864891_1684084809506132997.jpg",
+            "submission_id": 248774,
+            "total_vote": 333,
+            "votes": {
+                "11": 7,
+                "12": 12,
+                "13": 20,
+                "21": 211,
+                "22": 34,
+                "24": 9,
+                "6": 3,
+                "7": 1,
+                "8": 1,
+                "9": 35
+            }
+        },
+        "school_name": "MÜRŞİDE AKYÜZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1322,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/41957_bulk_999999999_1684083734224775181.jpeg",
+            "submission_id": 222588,
+            "total_vote": 337,
+            "votes": {
+                "1": 52,
+                "2": 2,
+                "3": 274,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/41957_bulk_999999999_1684085112903773946.jpeg",
+            "submission_id": 257310,
+            "total_vote": 337,
+            "votes": {
+                "10": 3,
+                "11": 8,
+                "12": 4,
+                "13": 37,
+                "14": 1,
+                "21": 181,
+                "22": 54,
+                "23": 2,
+                "24": 2,
+                "3": 1,
+                "6": 3,
+                "7": 2,
+                "9": 39
+            }
+        },
+        "school_name": "MÜRŞİDE AKYÜZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1318,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41957_cb_1093864892_1684088667736056108.jpg",
+            "submission_id": 372754,
+            "total_vote": 329,
+            "votes": {
+                "1": 49,
+                "2": 2,
+                "3": 268,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41957_cb_1093864892_1684088575204055699.jpg",
+            "submission_id": 369833,
+            "total_vote": 328,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 10,
+                "12": 11,
+                "13": 35,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 182,
+                "22": 44,
+                "23": 1,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 1,
+                "9": 38
+            }
+        },
+        "school_name": "MÜRŞİDE AKYÜZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1324,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/76607_cb_1093864918_1684083502326933141.jpg",
+            "submission_id": 217817,
+            "total_vote": 335,
+            "votes": {
+                "1": 69,
+                "2": 3,
+                "3": 249,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "MÜRŞİDE AKYÜZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1312,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21613_cb_1093864886_1684086219346956596.jpg",
+            "submission_id": 292087,
+            "total_vote": 300,
+            "votes": {
+                "1": 48,
+                "2": 5,
+                "3": 245,
+                "4": 2
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21613_mv_1083864886_1684087351208526536.jpg",
+            "submission_id": 331051,
+            "total_vote": 296,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 6,
+                "12": 7,
+                "13": 17,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 3,
+                "2": 0,
+                "20": 1,
+                "21": 187,
+                "22": 27,
+                "23": 1,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 1,
+                "9": 38
+            }
+        },
+        "school_name": "MÜRŞİDE AKYÜZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1327,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29109_cb_1093864921_1684087032934544233.jpg",
+            "submission_id": 320118,
+            "total_vote": 327,
+            "votes": {
+                "1": 45,
+                "2": 1,
+                "3": 272,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29109_mv_1083864921_1684087065903483953.jpg",
+            "submission_id": 321304,
+            "total_vote": 327,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 11,
+                "12": 12,
+                "13": 35,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 184,
+                "22": 37,
+                "23": 0,
+                "24": 5,
+                "3": 4,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 9,
+                "9": 29
+            }
+        },
+        "school_name": "MÜRŞİDE AKYÜZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1320,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/77875_cb_1093864894_1684079463286711858.jpg",
+            "submission_id": 177104,
+            "total_vote": 324,
+            "votes": {
+                "1": 63,
+                "2": 1,
+                "3": 251,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/77875_mv_1083864894_1684088089723407427.jpg",
+            "submission_id": 354856,
+            "total_vote": 321,
+            "votes": {
+                "1": 1,
+                "11": 13,
+                "12": 8,
+                "13": 26,
+                "19": 1,
+                "21": 183,
+                "22": 32,
+                "23": 2,
+                "24": 10,
+                "3": 1,
+                "7": 1,
+                "9": 43
+            }
+        },
+        "school_name": "MÜRŞİDE AKYÜZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1323,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/76607_cb_1093864917_1684089353547588373.jpg",
+            "submission_id": 392192,
+            "total_vote": 340,
+            "votes": {
+                "1": 42,
+                "2": 3,
+                "3": 282,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29052_mv_1083864917_1684090345956920814.jpg",
+            "submission_id": 417887,
+            "total_vote": 340,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 4,
+                "12": 16,
+                "13": 92,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 3,
+                "2": 0,
+                "20": 0,
+                "21": 131,
+                "22": 49,
+                "23": 0,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 0,
+                "9": 37
+            }
+        },
+        "school_name": "MÜRŞİDE AKYÜZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1316,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21594_cb_1093864890_1684086301486890167.jpg",
+            "submission_id": 294792,
+            "total_vote": 337,
+            "votes": {
+                "1": 65,
+                "2": 0,
+                "3": 258,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29052_mv_1083864890_1684090187470780871.jpg",
+            "submission_id": 414235,
+            "total_vote": 333,
+            "votes": {
+                "1": 0,
+                "11": 14,
+                "12": 15,
+                "13": 24,
+                "21": 176,
+                "22": 44,
+                "23": 1,
+                "24": 5,
+                "3": 1,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 49
+            }
+        },
+        "school_name": "MÜRŞİDE AKYÜZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1325,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/76607_cb_1093864919_1684080358214007442.jpg",
+            "submission_id": 181175,
+            "total_vote": 345,
+            "votes": {
+                "1": 57,
+                "3": 277,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/76607_mv_1083864919_1684086199883094562.jpg",
+            "submission_id": 291428,
+            "total_vote": 365,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 10,
+                "12": 16,
+                "13": 35,
+                "14": 7,
+                "15": 7,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 7,
+                "2": 0,
+                "20": 0,
+                "21": 177,
+                "22": 49,
+                "23": 0,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 1,
+                "7": 4,
+                "8": 0,
+                "9": 43
+            }
+        },
+        "school_name": "MÜRŞİDE AKYÜZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1315,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21594_cb_1093864889_1684085427404207217.jpg",
+            "submission_id": 266478,
+            "total_vote": 320,
+            "votes": {
+                "1": 38,
+                "2": 2,
+                "3": 277,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21594_mv_1083864889_1684086248185832407.jpg",
+            "submission_id": 293001,
+            "total_vote": 320,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 7,
+                "12": 2,
+                "13": 16,
+                "14": 0,
+                "15": 1,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 3,
+                "2": 0,
+                "20": 0,
+                "21": 200,
+                "22": 52,
+                "23": 0,
+                "24": 3,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 0,
+                "9": 26
+            }
+        },
+        "school_name": "MÜRŞİDE AKYÜZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1313,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41953_cb_1093864887_1684082868570468018.jpg",
+            "submission_id": 206488,
+            "total_vote": 312,
+            "votes": {
+                "1": 67,
+                "2": 4,
+                "3": 237,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41953_mv_1083864887_1684090649137677615.jpg",
+            "submission_id": 424556,
+            "total_vote": 310,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 6,
+                "12": 8,
+                "13": 2,
+                "14": 0,
+                "15": 7,
+                "16": 0,
+                "17": 14,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 170,
+                "22": 37,
+                "24": 3,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 6,
+                "8": 1,
+                "9": 50
+            }
+        },
+        "school_name": "MÜRŞİDE AKYÜZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1321,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/41957_bulk_999999999_1684083698266195446.jpeg",
+            "submission_id": 221837,
+            "total_vote": 337,
+            "votes": {
+                "1": 55,
+                "2": 1,
+                "3": 269,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/29112_bulk_999999999_1684086359624618828.jpeg",
+            "submission_id": 296668,
+            "total_vote": 332,
+            "votes": {
+                "10": 1,
+                "11": 13,
+                "12": 16,
+                "13": 35,
+                "21": 183,
+                "22": 35,
+                "24": 5,
+                "3": 2,
+                "6": 1,
+                "7": 2,
+                "9": 39
+            }
+        },
+        "school_name": "MÜRŞİDE AKYÜZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1319,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/77875_cb_1093864893_1684079406426308913.jpg",
+            "submission_id": 176889,
+            "total_vote": 323,
+            "votes": {
+                "1": 51,
+                "2": 0,
+                "3": 256,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/77875_mv_1083864893_1684086141325656203.jpg",
+            "submission_id": 289482,
+            "total_vote": 318,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 11,
+                "12": 18,
+                "13": 40,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 148,
+                "22": 41,
+                "23": 1,
+                "24": 7,
+                "3": 2,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 11,
+                "8": 1,
+                "9": 33
+            }
+        },
+        "school_name": "MÜRŞİDE AKYÜZ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1311,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21613_cb_1093864885_1684079582113305362.jpg",
+            "submission_id": 177527,
+            "total_vote": 312,
+            "votes": {
+                "1": 45,
+                "2": 1,
+                "3": 264,
+                "4": 2
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21613_mv_1083864885_1684085540047326843.jpg",
+            "submission_id": 269845,
+            "total_vote": 303,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 8,
+                "12": 4,
+                "13": 15,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 198,
+                "22": 38,
+                "23": 0,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 2,
+                "8": 0,
+                "9": 33
+            }
+        },
+        "school_name": "MÜRŞİDE AKYÜZ İLKOKULU"
+    }
+]

@@ -1,0 +1,160 @@
+[
+    {
+        "ballot_box_number": 2283,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/29349_bulk_999999999_1684089352066989085.jpg",
+            "submission_id": 392166,
+            "total_vote": 282,
+            "votes": {
+                "1": 93,
+                "2": 1,
+                "3": 175,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/29349_bulk_999999999_1684089351845603882.jpg",
+            "submission_id": 392161,
+            "total_vote": 278,
+            "votes": {
+                "10": 1,
+                "11": 8,
+                "12": 4,
+                "19": 2,
+                "2": 1,
+                "21": 132,
+                "22": 30,
+                "24": 7,
+                "4": 1,
+                "6": 2,
+                "7": 8,
+                "8": 1,
+                "9": 81
+            }
+        },
+        "school_name": "BOĞAZİÇİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2282,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/29349_bulk_999999999_1684089351696684451.jpg",
+            "submission_id": 392151,
+            "total_vote": 283,
+            "votes": {
+                "1": 97,
+                "2": 1,
+                "3": 170,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/29349_bulk_999999999_1684089351940763629.jpg",
+            "submission_id": 392162,
+            "total_vote": 284,
+            "votes": {
+                "1": 0,
+                "11": 16,
+                "12": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "21": 117,
+                "22": 47,
+                "23": 5,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 4,
+                "6": 2,
+                "7": 1,
+                "8": 2,
+                "9": 83
+            }
+        },
+        "school_name": "BOĞAZİÇİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2281,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/29349_bulk_999999999_1684089351759858076.jpg",
+            "submission_id": 392158,
+            "total_vote": 284,
+            "votes": {
+                "1": 88,
+                "2": 1,
+                "3": 182,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/29349_bulk_999999999_1684089351505711326.jpg",
+            "submission_id": 392150,
+            "total_vote": 275,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 6,
+                "12": 0,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 4,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 119,
+                "22": 49,
+                "23": 0,
+                "24": 4,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 4,
+                "8": 0,
+                "9": 81
+            }
+        },
+        "school_name": "BOĞAZİÇİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2280,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/29349_bulk_999999999_1684089351988498790.jpg",
+            "submission_id": 392164,
+            "total_vote": 261,
+            "votes": {
+                "1": 97,
+                "2": 0,
+                "3": 156,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/29349_bulk_999999999_1684089352179939743.jpg",
+            "submission_id": 392169,
+            "total_vote": 240,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 15,
+                "12": 2,
+                "19": 2,
+                "21": 107,
+                "22": 30,
+                "23": 2,
+                "24": 1,
+                "3": 1,
+                "6": 3,
+                "7": 4,
+                "8": 1,
+                "9": 69
+            }
+        },
+        "school_name": "BOĞAZİÇİ İLKOKULU"
+    }
+]

@@ -1,0 +1,418 @@
+[
+    {
+        "ballot_box_number": 1075,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22263_cb_1093755422_1684089066290012527.jpg",
+            "submission_id": 384383,
+            "total_vote": 318,
+            "votes": {
+                "1": 38,
+                "2": 1,
+                "3": 263,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22263_mv_1083755422_1684089024613026725.jpg",
+            "submission_id": 383237,
+            "total_vote": 317,
+            "votes": {
+                "10": 1,
+                "11": 7,
+                "12": 7,
+                "20": 1,
+                "21": 188,
+                "22": 63,
+                "23": 1,
+                "24": 8,
+                "3": 1,
+                "4": 1,
+                "5": 1,
+                "7": 3,
+                "9": 35
+            }
+        },
+        "school_name": "ARKAS NARLIDERE MES.VE TEK.AND.LİSESİ"
+    },
+    {
+        "ballot_box_number": 1067,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22263_cb_1093755034_1684086399479164945.jpg",
+            "submission_id": 298004,
+            "total_vote": 290,
+            "votes": {
+                "1": 29,
+                "2": 1,
+                "3": 256,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22263_mv_1083755034_1684090595426497065.jpg",
+            "submission_id": 423564,
+            "total_vote": 285,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 3,
+                "12": 5,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 228,
+                "22": 19,
+                "23": 0,
+                "24": 1,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 26
+            }
+        },
+        "school_name": "ARKAS NARLIDERE MES.VE TEK.AND.LİSESİ"
+    },
+    {
+        "ballot_box_number": 1073,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26572_cb_1093755420_1684084575722807556.jpg",
+            "submission_id": 242488,
+            "total_vote": 322,
+            "votes": {
+                "1": 45,
+                "3": 262,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22263_mv_1083755420_1684084878771656632.jpg",
+            "submission_id": 250709,
+            "total_vote": 319,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 4,
+                "12": 17,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 5,
+                "21": 195,
+                "22": 50,
+                "23": 0,
+                "24": 1,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 6,
+                "8": 1,
+                "9": 34
+            }
+        },
+        "school_name": "ARKAS NARLIDERE MES.VE TEK.AND.LİSESİ"
+    },
+    {
+        "ballot_box_number": 1066,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22263_cb_1093755033_1684086364486649456.jpg",
+            "submission_id": 296820,
+            "total_vote": 310,
+            "votes": {
+                "1": 39,
+                "2": 2,
+                "3": 265,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22263_mv_1083755033_1684096074131902987.jpg",
+            "submission_id": 509270,
+            "total_vote": 306,
+            "votes": {
+                "11": 3,
+                "12": 9,
+                "19": 1,
+                "21": 211,
+                "22": 37,
+                "23": 1,
+                "24": 5,
+                "6": 1,
+                "7": 2,
+                "9": 36
+            }
+        },
+        "school_name": "ARKAS NARLIDERE MES.VE TEK.AND.LİSESİ"
+    },
+    {
+        "ballot_box_number": 1074,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26641_cb_1093755421_1684083057350316148.jpg",
+            "submission_id": 209666,
+            "total_vote": 316,
+            "votes": {
+                "1": 32,
+                "2": 1,
+                "3": 273,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26641_mv_1083755421_1684083993592071820.jpg",
+            "submission_id": 227975,
+            "total_vote": 316,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 7,
+                "12": 8,
+                "21": 208,
+                "22": 60,
+                "24": 7,
+                "3": 1,
+                "7": 1,
+                "8": 1,
+                "9": 21
+            }
+        },
+        "school_name": "ARKAS NARLIDERE MES.VE TEK.AND.LİSESİ"
+    },
+    {
+        "ballot_box_number": 1071,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22263_cb_1093755418_1684087235429323495.jpg",
+            "submission_id": 327208,
+            "total_vote": 319,
+            "votes": {
+                "1": 33,
+                "2": 1,
+                "3": 262,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "ARKAS NARLIDERE MES.VE TEK.AND.LİSESİ"
+    },
+    {
+        "ballot_box_number": 1072,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22263_cb_1093755419_1684084695349769370.jpg",
+            "submission_id": 245768,
+            "total_vote": 338,
+            "votes": {
+                "1": 40,
+                "2": 1,
+                "3": 281,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22263_mv_1083755419_1684084727018348006.jpg",
+            "submission_id": 246623,
+            "total_vote": 336,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 10,
+                "12": 13,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 206,
+                "22": 64,
+                "23": 1,
+                "24": 4,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 7,
+                "8": 0,
+                "9": 26
+            }
+        },
+        "school_name": "ARKAS NARLIDERE MES.VE TEK.AND.LİSESİ"
+    },
+    {
+        "ballot_box_number": 1076,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22263_cb_1093755423_1684088839537974904.jpg",
+            "submission_id": 377784,
+            "total_vote": 323,
+            "votes": {
+                "1": 27,
+                "2": 2,
+                "3": 272,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22263_mv_1083755423_1684089318914510158.jpg",
+            "submission_id": 391364,
+            "total_vote": 320,
+            "votes": {
+                "10": 2,
+                "11": 9,
+                "12": 4,
+                "21": 211,
+                "22": 51,
+                "23": 1,
+                "24": 12,
+                "3": 4,
+                "7": 7,
+                "9": 19
+            }
+        },
+        "school_name": "ARKAS NARLIDERE MES.VE TEK.AND.LİSESİ"
+    },
+    {
+        "ballot_box_number": 1069,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22263_cb_1093755416_1684087662940485333.jpg",
+            "submission_id": 341141,
+            "total_vote": 321,
+            "votes": {
+                "1": 48,
+                "2": 3,
+                "3": 254,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22263_mv_1083755416_1684087628625971960.jpg",
+            "submission_id": 339978,
+            "total_vote": 319,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 10,
+                "12": 15,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 2,
+                "21": 183,
+                "22": 49,
+                "23": 0,
+                "24": 10,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 7,
+                "8": 1,
+                "9": 36
+            }
+        },
+        "school_name": "ARKAS NARLIDERE MES.VE TEK.AND.LİSESİ"
+    },
+    {
+        "ballot_box_number": 1068,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22263_cb_1093755415_1684083189368942058.jpg",
+            "submission_id": 211945,
+            "total_vote": 326,
+            "votes": {
+                "1": 36,
+                "3": 278,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22263_mv_1083755415_1684084212846380598.jpg",
+            "submission_id": 233192,
+            "total_vote": 323,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 3,
+                "12": 5,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 214,
+                "22": 56,
+                "23": 0,
+                "24": 12,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 0,
+                "9": 31
+            }
+        },
+        "school_name": "ARKAS NARLIDERE MES.VE TEK.AND.LİSESİ"
+    },
+    {
+        "ballot_box_number": 1070,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22263_cb_1093755417_1684087004327872362.jpg",
+            "submission_id": 319106,
+            "total_vote": 327,
+            "votes": {
+                "1": 40,
+                "2": 0,
+                "3": 269,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22263_mv_1083755417_1684087115426416923.jpg",
+            "submission_id": 323088,
+            "total_vote": 326,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 7,
+                "12": 7,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 195,
+                "22": 64,
+                "23": 0,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 0,
+                "9": 33
+            }
+        },
+        "school_name": "ARKAS NARLIDERE MES.VE TEK.AND.LİSESİ"
+    }
+]

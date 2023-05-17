@@ -1,0 +1,30 @@
+[
+    {
+        "ballot_box_number": 1282,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8740ad6e-04eb-4f17-a46b-383e2d8d81e4-1684106276923649342.jpg",
+            "submission_id": 765496,
+            "total_vote": 136,
+            "votes": {
+                "1": 10,
+                "3": 124,
+                "4": 2
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/59028bc8-9820-4cdf-9e33-f4f0d8945572-1684106272900314810.jpg",
+            "submission_id": 764882,
+            "total_vote": 135,
+            "votes": {
+                "11": 1,
+                "12": 1,
+                "13": 2,
+                "21": 108,
+                "22": 12,
+                "7": 2,
+                "9": 9
+            }
+        },
+        "school_name": "YERLİTAHTACI MAH. YERLİTAHTACI İLKOKULU"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "ballot_box_number": 1263,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "MUSTAFA AYŞE YANBASTI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1256,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "MUSTAFA AYŞE YANBASTI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1260,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "MUSTAFA AYŞE YANBASTI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1262,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "MUSTAFA AYŞE YANBASTI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1261,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/52979_bulk_999999999_1684086546474953641.jpg",
+            "submission_id": 303173,
+            "total_vote": 308,
+            "votes": {
+                "1": 96,
+                "2": 1,
+                "3": 184,
+                "4": 27
+            }
+        },
+        "mv_result": null,
+        "school_name": "MUSTAFA AYŞE YANBASTI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1259,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "MUSTAFA AYŞE YANBASTI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1257,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "MUSTAFA AYŞE YANBASTI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1258,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "MUSTAFA AYŞE YANBASTI ORTAOKULU"
+    }
+]

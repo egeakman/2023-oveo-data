@@ -1,0 +1,246 @@
+[
+    {
+        "ballot_box_number": 1029,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684091297273969344.jpg",
+            "submission_id": 437674,
+            "total_vote": 348,
+            "votes": {
+                "1": 118,
+                "2": 0,
+                "3": 209,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "SÜLEYMANÇEVİK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1025,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684091325604747337.jpg",
+            "submission_id": 438217,
+            "total_vote": 336,
+            "votes": {
+                "1": 113,
+                "3": 203,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684091325893024366.jpg",
+            "submission_id": 438222,
+            "total_vote": 336,
+            "votes": {
+                "10": 1,
+                "11": 23,
+                "12": 30,
+                "20": 1,
+                "21": 127,
+                "22": 44,
+                "24": 10,
+                "6": 3,
+                "7": 5,
+                "8": 1,
+                "9": 91
+            }
+        },
+        "school_name": "SÜLEYMANÇEVİK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1023,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4660d3ef-542f-45c9-9ca4-97fc55da8bac-1684106605856712979.jpg",
+            "submission_id": 812707,
+            "total_vote": 339,
+            "votes": {
+                "1": 100,
+                "3": 217,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684091297107922056.jpg",
+            "submission_id": 437667,
+            "total_vote": 333,
+            "votes": {
+                "1": 0,
+                "11": 17,
+                "12": 33,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 7,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "22": 144,
+                "23": 36,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 1,
+                "9": 81
+            }
+        },
+        "school_name": "SÜLEYMANÇEVİK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1024,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684091297463073594.jpg",
+            "submission_id": 437681,
+            "total_vote": 352,
+            "votes": {
+                "1": 92,
+                "2": 0,
+                "3": 241,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684091297377126418.jpg",
+            "submission_id": 437677,
+            "total_vote": 348,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 11,
+                "12": 18,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 172,
+                "22": 54,
+                "23": 0,
+                "24": 10,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 5,
+                "7": 3,
+                "8": 2,
+                "9": 67
+            }
+        },
+        "school_name": "SÜLEYMANÇEVİK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1026,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684091325714066644.jpg",
+            "submission_id": 438219,
+            "total_vote": 339,
+            "votes": {
+                "1": 92,
+                "2": 0,
+                "3": 231,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "SÜLEYMANÇEVİK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1027,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684091325570457557.jpg",
+            "submission_id": 438210,
+            "total_vote": 336,
+            "votes": {
+                "1": 118,
+                "2": 0,
+                "3": 207,
+                "4": 11
+            }
+        },
+        "mv_result": null,
+        "school_name": "SÜLEYMANÇEVİK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1022,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684091297033425503.jpg",
+            "submission_id": 437666,
+            "total_vote": 345,
+            "votes": {
+                "1": 113,
+                "2": 3,
+                "3": 211,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684090247856525002.jpg",
+            "submission_id": 415699,
+            "total_vote": 344,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 14,
+                "12": 31,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 133,
+                "22": 50,
+                "23": 1,
+                "24": 11,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 2,
+                "9": 92
+            }
+        },
+        "school_name": "SÜLEYMANÇEVİK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1021,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684091325382508417.jpg",
+            "submission_id": 438202,
+            "total_vote": 347,
+            "votes": {
+                "1": 114,
+                "2": 2,
+                "3": 222,
+                "4": 9
+            }
+        },
+        "mv_result": null,
+        "school_name": "SÜLEYMANÇEVİK ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1028,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684090248064929725.jpg",
+            "submission_id": 415708,
+            "total_vote": 349,
+            "votes": {
+                "1": 129,
+                "2": 5,
+                "3": 198,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "SÜLEYMANÇEVİK ORTAOKULU"
+    }
+]

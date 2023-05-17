@@ -1,0 +1,80 @@
+[
+    {
+        "ballot_box_number": 1142,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21983_cb_1093576376_1684080527936794682.jpg",
+            "submission_id": 182226,
+            "total_vote": 264,
+            "votes": {
+                "1": 28,
+                "2": 1,
+                "3": 225,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21983_mv_1083576376_1684080779140435468.jpg",
+            "submission_id": 183721,
+            "total_vote": 262,
+            "votes": {
+                "1": 1,
+                "11": 5,
+                "12": 3,
+                "13": 25,
+                "21": 151,
+                "22": 47,
+                "24": 6,
+                "7": 2,
+                "8": 1,
+                "9": 21
+            }
+        },
+        "school_name": "BORNOVA MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1141,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21719_cb_1093576375_1684085595774276780.jpg",
+            "submission_id": 271612,
+            "total_vote": 263,
+            "votes": {
+                "1": 36,
+                "2": 1,
+                "3": 220,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21719_mv_1083576375_1684085630231031358.jpg",
+            "submission_id": 272738,
+            "total_vote": 261,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 10,
+                "12": 3,
+                "13": 23,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 153,
+                "22": 35,
+                "23": 0,
+                "24": 1,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 0,
+                "9": 29
+            }
+        },
+        "school_name": "BORNOVA MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    }
+]

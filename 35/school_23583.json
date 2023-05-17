@@ -1,0 +1,82 @@
+[
+    {
+        "ballot_box_number": 1138,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68167_cb_1093797532_1684083631146978266.jpg",
+            "submission_id": 220372,
+            "total_vote": 325,
+            "votes": {
+                "1": 151,
+                "2": 3,
+                "3": 162,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68167_mv_1083797532_1684083705067045167.jpg",
+            "submission_id": 221981,
+            "total_vote": 306,
+            "votes": {
+                "10": 10,
+                "11": 18,
+                "12": 72,
+                "14": 1,
+                "19": 1,
+                "21": 64,
+                "22": 27,
+                "23": 2,
+                "24": 1,
+                "5": 2,
+                "6": 1,
+                "7": 2,
+                "9": 105
+            }
+        },
+        "school_name": "EĞERCİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1137,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68167_cb_1093797531_1684087094442539529.jpg",
+            "submission_id": 322350,
+            "total_vote": 316,
+            "votes": {
+                "1": 133,
+                "2": 4,
+                "3": 165,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/68167_mv_1083797531_1684086861526462212.jpg",
+            "submission_id": 314168,
+            "total_vote": 307,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 15,
+                "12": 55,
+                "14": 1,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 75,
+                "22": 27,
+                "23": 0,
+                "24": 5,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 2,
+                "7": 7,
+                "8": 1,
+                "9": 111
+            }
+        },
+        "school_name": "EĞERCİ İLKOKULU"
+    }
+]

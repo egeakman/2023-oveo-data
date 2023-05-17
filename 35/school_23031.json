@@ -1,0 +1,321 @@
+[
+    {
+        "ballot_box_number": 2129,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/b754c765-2dc3-4a38-bf47-164bd305eec3-1684105395416425716.jpg",
+            "submission_id": 631849,
+            "total_vote": 299,
+            "votes": {
+                "1": 3,
+                "10": 8,
+                "11": 11,
+                "12": 15,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 91,
+                "22": 32,
+                "23": 0,
+                "24": 6,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 4,
+                "8": 1,
+                "9": 121
+            }
+        },
+        "school_name": "VASIF ÇINAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2121,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16463_cb_1093798389_1684079884412147049.jpg",
+            "submission_id": 178761,
+            "total_vote": 292,
+            "votes": {
+                "1": 139,
+                "3": 144,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7a6e11e5-b65f-423e-95fa-77bf9d1b4aa5-1684106185584866842.jpg",
+            "submission_id": 751207,
+            "total_vote": 279,
+            "votes": {
+                "10": 6,
+                "11": 11,
+                "12": 13,
+                "17": 1,
+                "19": 1,
+                "21": 97,
+                "22": 29,
+                "24": 5,
+                "6": 3,
+                "7": 3,
+                "8": 1,
+                "9": 109
+            }
+        },
+        "school_name": "VASIF ÇINAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2127,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/babb7299-e073-4ec3-a6aa-9a68b6a8d5a3-1684106081817147652.jpg",
+            "submission_id": 735933,
+            "total_vote": 317,
+            "votes": {
+                "1": 142,
+                "2": 1,
+                "3": 163,
+                "4": 11
+            }
+        },
+        "mv_result": null,
+        "school_name": "VASIF ÇINAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2125,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/cf0ab902-312a-4d20-b6e1-a8cd20e25b01-1684106446949064646.jpg",
+            "submission_id": 789270,
+            "total_vote": 322,
+            "votes": {
+                "1": 161,
+                "2": 1,
+                "3": 155,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/721b36d4-47a5-47b3-8e50-2fd54800b489-1684106421774820777.jpg",
+            "submission_id": 785498,
+            "total_vote": 312,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 16,
+                "12": 36,
+                "14": 2,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 1,
+                "21": 89,
+                "22": 28,
+                "23": 1,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 0,
+                "9": 124
+            }
+        },
+        "school_name": "VASIF ÇINAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2124,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/24985_cb_1093798388_1684083580722017253.jpg",
+            "submission_id": 219379,
+            "total_vote": 331,
+            "votes": {
+                "1": 145,
+                "2": 1,
+                "3": 176,
+                "4": 9
+            }
+        },
+        "mv_result": null,
+        "school_name": "VASIF ÇINAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2128,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9514896f-25e4-4017-95d6-fd61895afd19-1684106158520320368.jpg",
+            "submission_id": 747056,
+            "total_vote": 299,
+            "votes": {
+                "1": 137,
+                "2": 1,
+                "3": 152,
+                "4": 9
+            }
+        },
+        "mv_result": null,
+        "school_name": "VASIF ÇINAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2120,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/31085_cb_1093798388_1684087318896641204.jpg",
+            "submission_id": 330013,
+            "total_vote": 293,
+            "votes": {
+                "1": 132,
+                "2": 1,
+                "3": 158,
+                "4": 2
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16463_mv_1083798388_1684086106696280777.jpg",
+            "submission_id": 288350,
+            "total_vote": 283,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 13,
+                "12": 6,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 105,
+                "22": 40,
+                "23": 0,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 106
+            }
+        },
+        "school_name": "VASIF ÇINAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2122,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2731bb6a-644e-498e-9570-3c506b72e931-1684106352146372827.jpg",
+            "submission_id": 775577,
+            "total_vote": 322,
+            "votes": {
+                "1": 143,
+                "2": 1,
+                "3": 171,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/88623_bulk_999999999_1684240801244795452.jpg",
+            "submission_id": 1028794,
+            "total_vote": 314,
+            "votes": {
+                "10": 2,
+                "11": 10,
+                "12": 30,
+                "14": 1,
+                "21": 112,
+                "22": 23,
+                "23": 3,
+                "24": 5,
+                "3": 2,
+                "6": 9,
+                "7": 3,
+                "9": 114
+            }
+        },
+        "school_name": "VASIF ÇINAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2126,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/1b46c069-be71-48fb-9538-32b21d7a5b06-1684106142502367619.jpg",
+            "submission_id": 744676,
+            "total_vote": 310,
+            "votes": {
+                "1": 128,
+                "2": 1,
+                "3": 172,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/08923807-ab56-473e-9ce2-ac3726096042-1684106131129322234.jpg",
+            "submission_id": 743205,
+            "total_vote": 304,
+            "votes": {
+                "1": 1,
+                "10": 7,
+                "11": 13,
+                "12": 37,
+                "17": 1,
+                "21": 103,
+                "22": 28,
+                "24": 5,
+                "6": 2,
+                "7": 4,
+                "8": 3,
+                "9": 100
+            }
+        },
+        "school_name": "VASIF ÇINAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2123,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/b1a1f337-858a-4a6e-96da-bcdce9155e3a-1684106387299631998.jpg",
+            "submission_id": 780726,
+            "total_vote": 331,
+            "votes": {
+                "1": 146,
+                "2": 3,
+                "3": 171,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/88623_bulk_999999999_1684240800959779473.jpg",
+            "submission_id": 1028792,
+            "total_vote": 330,
+            "votes": {
+                "1": 0,
+                "10": 7,
+                "11": 16,
+                "12": 32,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 101,
+                "22": 39,
+                "23": 0,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 3,
+                "7": 2,
+                "8": 0,
+                "9": 122
+            }
+        },
+        "school_name": "VASIF ÇINAR İLKOKULU"
+    }
+]

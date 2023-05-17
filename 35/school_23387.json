@@ -1,0 +1,58 @@
+[
+    {
+        "ballot_box_number": 1170,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ac687d3b-ba29-448c-bdcf-faf5cb1d41f3-1684105587962274515.jpg",
+            "submission_id": 662985,
+            "total_vote": 354,
+            "votes": {
+                "1": 153,
+                "2": 6,
+                "3": 175,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7dbde5f8-eaa7-4c91-8e00-83afb5d5ef2e-1684106073331596740.jpg",
+            "submission_id": 733708,
+            "total_vote": 346,
+            "votes": {
+                "10": 3,
+                "11": 26,
+                "12": 1,
+                "13": 6,
+                "21": 107,
+                "22": 59,
+                "24": 14,
+                "4": 1,
+                "5": 1,
+                "7": 10,
+                "8": 1,
+                "9": 117
+            }
+        },
+        "school_name": "İNKILAP MAH. ŞEHİT ÜST.CEMİL CANAN ÇİÇEK İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1168,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "İNKILAP MAH. ŞEHİT ÜST.CEMİL CANAN ÇİÇEK İMAM HATİP ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1169,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c19d662c-ae1d-4beb-a9c9-11cce235216d-1684106272193214115.jpg",
+            "submission_id": 764288,
+            "total_vote": 343,
+            "votes": {
+                "1": 137,
+                "2": 3,
+                "3": 191,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "İNKILAP MAH. ŞEHİT ÜST.CEMİL CANAN ÇİÇEK İMAM HATİP ORTAOKULU"
+    }
+]

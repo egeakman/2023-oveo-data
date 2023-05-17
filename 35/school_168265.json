@@ -1,0 +1,70 @@
+[
+    {
+        "ballot_box_number": 1064,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67283_cb_1093797058_1684081958102651447.jpg",
+            "submission_id": 194126,
+            "total_vote": 198,
+            "votes": {
+                "1": 63,
+                "2": 3,
+                "3": 125,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67283_mv_1083797058_1684082168194884537.jpg",
+            "submission_id": 196657,
+            "total_vote": 190,
+            "votes": {
+                "10": 1,
+                "11": 9,
+                "13": 15,
+                "14": 2,
+                "21": 103,
+                "22": 4,
+                "23": 2,
+                "24": 3,
+                "7": 2,
+                "8": 1,
+                "9": 48
+            }
+        },
+        "school_name": "ÇAMAVLU MAH. ÇAMAVLU İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1065,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67283_cb_1093797058_1684079884527691692.jpg",
+            "submission_id": 178762,
+            "total_vote": 203,
+            "votes": {
+                "1": 56,
+                "2": 2,
+                "3": 139,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67283_mv_1083797059_1684081054787299643.jpg",
+            "submission_id": 185723,
+            "total_vote": 201,
+            "votes": {
+                "10": 4,
+                "11": 6,
+                "12": 2,
+                "13": 14,
+                "14": 1,
+                "20": 1,
+                "21": 105,
+                "22": 14,
+                "23": 1,
+                "24": 3,
+                "3": 2,
+                "7": 2,
+                "9": 46
+            }
+        },
+        "school_name": "ÇAMAVLU MAH. ÇAMAVLU İLKOKULU"
+    }
+]

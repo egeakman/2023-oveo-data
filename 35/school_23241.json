@@ -1,0 +1,33 @@
+[
+    {
+        "ballot_box_number": 1047,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4b699877-e836-4a12-8dd5-eaeac7f16bae-1684106550909157131.jpg",
+            "submission_id": 804453,
+            "total_vote": 143,
+            "votes": {
+                "1": 106,
+                "2": 2,
+                "3": 24,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/b8dababd-3a74-48be-bc1a-e0483d50987b-1684106540232570281.jpg",
+            "submission_id": 803061,
+            "total_vote": 138,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 19,
+                "13": 2,
+                "21": 19,
+                "22": 4,
+                "24": 2,
+                "8": 2,
+                "9": 88
+            }
+        },
+        "school_name": "KAPUKAYA KÖY KONAĞI"
+    }
+]

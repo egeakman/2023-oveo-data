@@ -1,0 +1,165 @@
+[
+    {
+        "ballot_box_number": 1366,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/27965_cb_1093862860_1684084411918552390.jpg",
+            "submission_id": 238309,
+            "total_vote": 297,
+            "votes": {
+                "1": 101,
+                "2": 2,
+                "3": 186,
+                "4": 8
+            }
+        },
+        "mv_result": null,
+        "school_name": "ZAFER ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1367,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/27965_cb_1093862861_1684083916451276352.jpg",
+            "submission_id": 226397,
+            "total_vote": 292,
+            "votes": {
+                "1": 120,
+                "2": 3,
+                "3": 164,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/27965_bulk_999999999_1684092366165701018.jpg",
+            "submission_id": 455163,
+            "total_vote": 283,
+            "votes": {
+                "10": 1,
+                "11": 13,
+                "12": 84,
+                "19": 1,
+                "21": 61,
+                "22": 17,
+                "24": 2,
+                "3": 1,
+                "4": 1,
+                "5": 2,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 95
+            }
+        },
+        "school_name": "ZAFER ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1365,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/27965_cb_1093862859_1684089447866962871.jpg",
+            "submission_id": 394789,
+            "total_vote": 326,
+            "votes": {
+                "1": 95,
+                "2": 2,
+                "3": 224,
+                "4": 5
+            }
+        },
+        "mv_result": null,
+        "school_name": "ZAFER ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1363,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/27965_cb_1093862857_1684089636383271604.jpg",
+            "submission_id": 400035,
+            "total_vote": 289,
+            "votes": {
+                "1": 86,
+                "2": 1,
+                "3": 198,
+                "4": 4
+            }
+        },
+        "mv_result": null,
+        "school_name": "ZAFER ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1364,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/27965_cb_1093862858_1684089527525475764.jpg",
+            "submission_id": 397015,
+            "total_vote": 289,
+            "votes": {
+                "1": 95,
+                "3": 189,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/27965_mv_1083862858_1684089489375266418.jpg",
+            "submission_id": 395935,
+            "total_vote": 277,
+            "votes": {
+                "10": 1,
+                "11": 7,
+                "12": 83,
+                "21": 80,
+                "22": 11,
+                "23": 1,
+                "24": 5,
+                "3": 1,
+                "4": 1,
+                "5": 1,
+                "6": 5,
+                "7": 5,
+                "9": 76
+            }
+        },
+        "school_name": "ZAFER ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1368,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/27965_cb_1093862862_1684080766358879919.jpg",
+            "submission_id": 183631,
+            "total_vote": 305,
+            "votes": {
+                "1": 105,
+                "2": 1,
+                "3": 185,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/27965_mv_1083862862_1684084861231911213.jpg",
+            "submission_id": 250200,
+            "total_vote": 303,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 8,
+                "12": 128,
+                "14": 1,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 0,
+                "21": 47,
+                "22": 11,
+                "23": 2,
+                "24": 3,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 4,
+                "7": 6,
+                "8": 0,
+                "9": 87
+            }
+        },
+        "school_name": "ZAFER ORTAOKULU"
+    }
+]

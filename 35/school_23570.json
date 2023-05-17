@@ -1,0 +1,440 @@
+[
+    {
+        "ballot_box_number": 1068,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/38503_bulk_999999999_1684083733565529946.jpeg",
+            "submission_id": 222570,
+            "total_vote": 333,
+            "votes": {
+                "1": 149,
+                "2": 1,
+                "3": 163,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/38503_bulk_999999999_1684083760237709691.jpeg",
+            "submission_id": 223151,
+            "total_vote": 333,
+            "votes": {
+                "1": 1,
+                "10": 6,
+                "11": 16,
+                "12": 24,
+                "14": 3,
+                "15": 1,
+                "19": 1,
+                "21": 108,
+                "22": 38,
+                "23": 1,
+                "24": 5,
+                "3": 3,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 121
+            }
+        },
+        "school_name": "AYRANCILAR EGE KOOP. İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1070,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/38503_cb_1093796500_1684083509585794681.jpg",
+            "submission_id": 217981,
+            "total_vote": 332,
+            "votes": {
+                "1": 123,
+                "2": 0,
+                "3": 186,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/38503_mv_1083796500_1684085012093499407.jpg",
+            "submission_id": 254502,
+            "total_vote": 326,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 25,
+                "12": 34,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 114,
+                "22": 29,
+                "23": 1,
+                "24": 13,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 1,
+                "8": 2,
+                "9": 99
+            }
+        },
+        "school_name": "AYRANCILAR EGE KOOP. İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1071,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/38503_cb_1093796501_1684085411415554236.jpg",
+            "submission_id": 265966,
+            "total_vote": 341,
+            "votes": {
+                "1": 132,
+                "2": 5,
+                "3": 175,
+                "4": 29
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/38503_mv_1083796501_1684084768350054376.jpg",
+            "submission_id": 247718,
+            "total_vote": 336,
+            "votes": {
+                "1": 2,
+                "10": 3,
+                "11": 28,
+                "12": 46,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 95,
+                "22": 35,
+                "23": 0,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 10,
+                "8": 1,
+                "9": 102
+            }
+        },
+        "school_name": "AYRANCILAR EGE KOOP. İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1069,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/38503_cb_1093796499_1684087573547346775.jpg",
+            "submission_id": 338257,
+            "total_vote": 334,
+            "votes": {
+                "1": 139,
+                "3": 188,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/38503_mv_1083796499_1684086262458038443.jpg",
+            "submission_id": 293507,
+            "total_vote": 333,
+            "votes": {
+                "10": 4,
+                "11": 28,
+                "12": 12,
+                "14": 1,
+                "21": 130,
+                "22": 40,
+                "23": 2,
+                "24": 4,
+                "4": 1,
+                "5": 2,
+                "6": 2,
+                "7": 4,
+                "8": 1,
+                "9": 102
+            }
+        },
+        "school_name": "AYRANCILAR EGE KOOP. İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1075,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/52469_bulk_999999999_1684087557297154260.jpeg",
+            "submission_id": 337749,
+            "total_vote": 342,
+            "votes": {
+                "1": 141,
+                "2": 1,
+                "3": 170,
+                "4": 30
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52469_mv_1083796505_1684091144040711270.jpg",
+            "submission_id": 434760,
+            "total_vote": 339,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 22,
+                "12": 25,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 103,
+                "22": 38,
+                "23": 2,
+                "24": 13,
+                "3": 3,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 5,
+                "8": 3,
+                "9": 116
+            }
+        },
+        "school_name": "AYRANCILAR EGE KOOP. İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1067,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/38503_bulk_999999999_1684083675909292500.jpeg",
+            "submission_id": 221359,
+            "total_vote": 325,
+            "votes": {
+                "1": 143,
+                "2": 1,
+                "3": 171,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/38503_bulk_999999999_1684083631839018412.jpeg",
+            "submission_id": 220386,
+            "total_vote": 316,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 23,
+                "12": 21,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 1,
+                "20": 0,
+                "21": 112,
+                "22": 32,
+                "23": 2,
+                "24": 8,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 2,
+                "8": 1,
+                "9": 103
+            }
+        },
+        "school_name": "AYRANCILAR EGE KOOP. İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1074,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/38503_bulk_999999999_1684086347701202561.jpeg",
+            "submission_id": 296317,
+            "total_vote": 337,
+            "votes": {
+                "1": 125,
+                "2": 5,
+                "3": 183,
+                "4": 24
+            }
+        },
+        "mv_result": null,
+        "school_name": "AYRANCILAR EGE KOOP. İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1076,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21504_cb_1093796506_1684079241322184518.jpg",
+            "submission_id": 176356,
+            "total_vote": 332,
+            "votes": {
+                "1": 138,
+                "2": 1,
+                "3": 173,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/38503_mv_1083796506_1684084896690047527.jpg",
+            "submission_id": 251189,
+            "total_vote": 325,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 25,
+                "12": 20,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 122,
+                "22": 32,
+                "23": 0,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 6,
+                "8": 3,
+                "9": 104
+            }
+        },
+        "school_name": "AYRANCILAR EGE KOOP. İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1073,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/52469_bulk_999999999_1684085768914636900.jpeg",
+            "submission_id": 277392,
+            "total_vote": 332,
+            "votes": {
+                "1": 115,
+                "3": 200,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/52469_bulk_999999999_1684085723346277371.jpeg",
+            "submission_id": 275853,
+            "total_vote": 329,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 13,
+                "12": 37,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 2,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 120,
+                "22": 39,
+                "23": 0,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 4,
+                "8": 0,
+                "9": 95
+            }
+        },
+        "school_name": "AYRANCILAR EGE KOOP. İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1077,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/38503_cb_1093796507_1684084862914165804.jpg",
+            "submission_id": 250253,
+            "total_vote": 333,
+            "votes": {
+                "1": 142,
+                "2": 1,
+                "3": 170,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52469_mv_1083796507_1684091015551159901.jpg",
+            "submission_id": 432245,
+            "total_vote": 327,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 34,
+                "12": 33,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 101,
+                "22": 31,
+                "23": 0,
+                "24": 10,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 5,
+                "7": 6,
+                "8": 1,
+                "9": 101
+            }
+        },
+        "school_name": "AYRANCILAR EGE KOOP. İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1072,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/38503_cb_1093796502_1684083357568016597.jpg",
+            "submission_id": 215030,
+            "total_vote": 348,
+            "votes": {
+                "1": 166,
+                "2": 1,
+                "3": 157,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/52469_mv_1083796502_1684090530018586524.jpg",
+            "submission_id": 422057,
+            "total_vote": 343,
+            "votes": {
+                "10": 9,
+                "11": 21,
+                "12": 25,
+                "15": 2,
+                "21": 103,
+                "22": 26,
+                "23": 2,
+                "24": 9,
+                "3": 2,
+                "5": 1,
+                "7": 9,
+                "8": 6,
+                "9": 128
+            }
+        },
+        "school_name": "AYRANCILAR EGE KOOP. İLKOKULU"
+    }
+]

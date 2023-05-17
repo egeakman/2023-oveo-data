@@ -1,0 +1,346 @@
+[
+    {
+        "ballot_box_number": 1163,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21258_cb_1093576383_1684084773956956384.jpg",
+            "submission_id": 247871,
+            "total_vote": 344,
+            "votes": {
+                "1": 62,
+                "2": 1,
+                "3": 268,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21258_mv_1083576383_1684084813632717425.jpg",
+            "submission_id": 248885,
+            "total_vote": 336,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 7,
+                "12": 16,
+                "13": 25,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 176,
+                "22": 44,
+                "23": 1,
+                "24": 7,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 7,
+                "8": 1,
+                "9": 48
+            }
+        },
+        "school_name": "MELİH TUNÇAY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1171,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21020_bulk_999999999_1684089718386409002.jpg",
+            "submission_id": 402266,
+            "total_vote": 345,
+            "votes": {
+                "1": 62,
+                "2": 1,
+                "3": 262,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "MELİH TUNÇAY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1172,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21020_bulk_999999999_1684101449813860169.jpg",
+            "submission_id": 541226,
+            "total_vote": 354,
+            "votes": {
+                "1": 61,
+                "3": 271,
+                "4": 22
+            }
+        },
+        "mv_result": null,
+        "school_name": "MELİH TUNÇAY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1168,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21258_cb_1093576388_1684085071762751345.jpg",
+            "submission_id": 256190,
+            "total_vote": 329,
+            "votes": {
+                "1": 63,
+                "2": 1,
+                "3": 245,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "MELİH TUNÇAY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1167,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29146_cb_1093576387_1684087090926841920.jpg",
+            "submission_id": 322213,
+            "total_vote": 354,
+            "votes": {
+                "1": 79,
+                "3": 254,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29146_mv_1083576387_1684087342571023415.jpg",
+            "submission_id": 330756,
+            "total_vote": 355,
+            "votes": {
+                "10": 1,
+                "11": 15,
+                "12": 16,
+                "13": 43,
+                "14": 1,
+                "15": 1,
+                "21": 134,
+                "22": 64,
+                "24": 12,
+                "7": 4,
+                "8": 2,
+                "9": 62
+            }
+        },
+        "school_name": "MELİH TUNÇAY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1170,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21258_cb_1093576390_1684085294781464422.jpg",
+            "submission_id": 262577,
+            "total_vote": 355,
+            "votes": {
+                "1": 48,
+                "2": 1,
+                "3": 285,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21020_bulk_999999999_1684158819939529296.jpg",
+            "submission_id": 1022738,
+            "total_vote": 160,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 7,
+                "12": 72,
+                "14": 28,
+                "2": 8,
+                "3": 0,
+                "6": 2,
+                "7": 4,
+                "9": 35
+            }
+        },
+        "school_name": "MELİH TUNÇAY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1166,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/10aea0ac-f0f2-4f99-9022-a97d08c67fbb-1684105139587550653.jpg",
+            "submission_id": 582254,
+            "total_vote": 350,
+            "votes": {
+                "1": 59,
+                "2": 4,
+                "3": 272,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21092_mv_1083576386_1684088524544363420.jpg",
+            "submission_id": 368254,
+            "total_vote": 347,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 13,
+                "12": 14,
+                "13": 39,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 162,
+                "22": 58,
+                "23": 0,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 5,
+                "8": 1,
+                "9": 44
+            }
+        },
+        "school_name": "MELİH TUNÇAY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1169,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21258_cb_1093576389_1684084655656306528.jpg",
+            "submission_id": 244646,
+            "total_vote": 346,
+            "votes": {
+                "1": 68,
+                "2": 2,
+                "3": 261,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21258_mv_1083576389_1684084711817237046.jpg",
+            "submission_id": 246205,
+            "total_vote": 352,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 11,
+                "12": 13,
+                "13": 22,
+                "21": 175,
+                "22": 57,
+                "23": 1,
+                "24": 15,
+                "7": 2,
+                "9": 54
+            }
+        },
+        "school_name": "MELİH TUNÇAY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1164,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21258_cb_1093576384_1684086227210123823.jpg",
+            "submission_id": 292328,
+            "total_vote": 341,
+            "votes": {
+                "1": 66,
+                "2": 0,
+                "3": 258,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d50ef2be-acca-4dc8-8267-9ddd28bb7e0a-1684105170824135853.jpg",
+            "submission_id": 588145,
+            "total_vote": 334,
+            "votes": {
+                "10": 3,
+                "11": 10,
+                "12": 5,
+                "13": 29,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 172,
+                "22": 49,
+                "23": 0,
+                "24": 10,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 0,
+                "9": 48
+            }
+        },
+        "school_name": "MELİH TUNÇAY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1162,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21258_cb_1093576382_1684078793260717997.jpg",
+            "submission_id": 175184,
+            "total_vote": 319,
+            "votes": {
+                "1": 60,
+                "2": 1,
+                "3": 244,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "MELİH TUNÇAY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1165,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21258_cb_1093576385_1684086550058946480.jpg",
+            "submission_id": 303278,
+            "total_vote": 342,
+            "votes": {
+                "1": 54,
+                "2": 1,
+                "3": 274,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2c8960b7-e32d-45e6-ba45-b92297aa2e86-1684105884097569746.jpg",
+            "submission_id": 709059,
+            "total_vote": 340,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 5,
+                "12": 3,
+                "13": 38,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 169,
+                "22": 57,
+                "23": 1,
+                "24": 9,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 47
+            }
+        },
+        "school_name": "MELİH TUNÇAY İLKOKULU"
+    }
+]

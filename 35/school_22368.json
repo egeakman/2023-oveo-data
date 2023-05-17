@@ -1,0 +1,798 @@
+[
+    {
+        "ballot_box_number": 1248,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28740_cb_1093800002_1684085845697301611.jpg",
+            "submission_id": 279973,
+            "total_vote": 325,
+            "votes": {
+                "1": 119,
+                "2": 1,
+                "3": 185,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28740_mv_1083800002_1684085901724137422.jpg",
+            "submission_id": 281852,
+            "total_vote": 315,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 11,
+                "12": 18,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 118,
+                "22": 40,
+                "23": 3,
+                "24": 13,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 3,
+                "8": 0,
+                "9": 101
+            }
+        },
+        "school_name": "VALİ NEVZAT AYAZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1256,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48096_cb_1093800010_1684084779295774387.jpg",
+            "submission_id": 247980,
+            "total_vote": 331,
+            "votes": {
+                "1": 89,
+                "2": 1,
+                "3": 220,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48096_mv_1083800010_1684084809339810665.jpg",
+            "submission_id": 248768,
+            "total_vote": 324,
+            "votes": {
+                "10": 2,
+                "11": 12,
+                "12": 23,
+                "20": 1,
+                "21": 135,
+                "22": 48,
+                "23": 1,
+                "24": 14,
+                "4": 3,
+                "5": 2,
+                "6": 1,
+                "7": 5,
+                "8": 5,
+                "9": 72
+            }
+        },
+        "school_name": "VALİ NEVZAT AYAZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1240,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48096_cb_1093799794_1684088664718146780.jpg",
+            "submission_id": 372662,
+            "total_vote": 311,
+            "votes": {
+                "1": 84,
+                "2": 0,
+                "3": 218,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48096_mv_1083799794_1684088688881045916.jpg",
+            "submission_id": 373382,
+            "total_vote": 304,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 10,
+                "12": 19,
+                "14": 2,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 150,
+                "22": 45,
+                "23": 2,
+                "24": 1,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 2,
+                "9": 64
+            }
+        },
+        "school_name": "VALİ NEVZAT AYAZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1251,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48096_cb_1093800005_1684084401708799480.jpg",
+            "submission_id": 238017,
+            "total_vote": 320,
+            "votes": {
+                "1": 96,
+                "2": 0,
+                "3": 203,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48096_mv_1083800005_1684086310430257455.jpg",
+            "submission_id": 295130,
+            "total_vote": 319,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 12,
+                "12": 35,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 4,
+                "19": 4,
+                "2": 0,
+                "20": 1,
+                "21": 125,
+                "22": 42,
+                "23": 1,
+                "24": 5,
+                "3": 7,
+                "4": 1,
+                "5": 0,
+                "6": 3,
+                "7": 0,
+                "8": 4,
+                "9": 73
+            }
+        },
+        "school_name": "VALİ NEVZAT AYAZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1239,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/72596_bulk_999999999_1684083789454328002.jpg",
+            "submission_id": 223778,
+            "total_vote": 284,
+            "votes": {
+                "1": 89,
+                "2": 2,
+                "3": 184,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28740_mv_1083799793_1684086321299717055.jpg",
+            "submission_id": 295462,
+            "total_vote": 276,
+            "votes": {
+                "10": 1,
+                "11": 14,
+                "12": 13,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 128,
+                "22": 24,
+                "23": 2,
+                "24": 9,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 8,
+                "8": 1,
+                "9": 72
+            }
+        },
+        "school_name": "VALİ NEVZAT AYAZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1254,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48096_cb_1093800008_1684084359811511745.jpg",
+            "submission_id": 236965,
+            "total_vote": 318,
+            "votes": {
+                "1": 122,
+                "2": 0,
+                "3": 179,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source2-secim-images.oyveotesi.org/raw/kilo/a66c45ec-052d-4255-a3ae-4cba0dcbcd37.jpg",
+            "submission_id": 453594,
+            "total_vote": 311,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 17,
+                "12": 10,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 114,
+                "22": 38,
+                "23": 1,
+                "24": 14,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 3,
+                "7": 7,
+                "8": 0,
+                "9": 96
+            }
+        },
+        "school_name": "VALİ NEVZAT AYAZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1246,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48096_cb_1093800000_1684088349110733916.jpg",
+            "submission_id": 362781,
+            "total_vote": 326,
+            "votes": {
+                "1": 107,
+                "2": 0,
+                "3": 194,
+                "4": 25
+            }
+        },
+        "mv_result": null,
+        "school_name": "VALİ NEVZAT AYAZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1250,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/72596_bulk_999999999_1684082600662507610.jpg",
+            "submission_id": 202347,
+            "total_vote": 323,
+            "votes": {
+                "1": 90,
+                "2": 1,
+                "3": 209,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48096_mv_1083800004_1684084432787440101.jpg",
+            "submission_id": 238833,
+            "total_vote": 316,
+            "votes": {
+                "10": 4,
+                "11": 11,
+                "12": 22,
+                "15": 1,
+                "20": 2,
+                "21": 131,
+                "22": 50,
+                "23": 3,
+                "24": 14,
+                "3": 2,
+                "6": 1,
+                "7": 5,
+                "8": 1,
+                "9": 69
+            }
+        },
+        "school_name": "VALİ NEVZAT AYAZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1243,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48096_cb_1093799997_1684084600464064242.jpg",
+            "submission_id": 243152,
+            "total_vote": 335,
+            "votes": {
+                "1": 101,
+                "2": 0,
+                "3": 216,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48096_mv_1083799997_1684084631817643957.jpg",
+            "submission_id": 244001,
+            "total_vote": 333,
+            "votes": {
+                "10": 8,
+                "11": 12,
+                "12": 9,
+                "15": 2,
+                "20": 1,
+                "21": 146,
+                "22": 55,
+                "24": 11,
+                "6": 1,
+                "7": 5,
+                "8": 2,
+                "9": 81
+            }
+        },
+        "school_name": "VALİ NEVZAT AYAZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1242,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48096_cb_1093799996_1684084686385166855.jpg",
+            "submission_id": 245519,
+            "total_vote": 336,
+            "votes": {
+                "1": 104,
+                "3": 215,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28740_mv_1083799996_1684085118489468033.jpg",
+            "submission_id": 257458,
+            "total_vote": 335,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 12,
+                "12": 14,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 5,
+                "2": 0,
+                "20": 0,
+                "21": 109,
+                "22": 54,
+                "23": 0,
+                "24": 43,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 4,
+                "7": 1,
+                "8": 5,
+                "9": 86
+            }
+        },
+        "school_name": "VALİ NEVZAT AYAZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1253,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67436_cb_1093800007_1684086698250284514.jpg",
+            "submission_id": 308444,
+            "total_vote": 330,
+            "votes": {
+                "1": 109,
+                "2": 2,
+                "3": 198,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48096_mv_1083800007_1684086787590702654.jpg",
+            "submission_id": 311650,
+            "total_vote": 328,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 8,
+                "12": 24,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 2,
+                "21": 135,
+                "22": 41,
+                "23": 0,
+                "24": 8,
+                "3": 1,
+                "4": 0,
+                "5": 2,
+                "6": 2,
+                "7": 7,
+                "8": 1,
+                "9": 94
+            }
+        },
+        "school_name": "VALİ NEVZAT AYAZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1257,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48096_cb_1093800011_1684083167196426334.jpg",
+            "submission_id": 211534,
+            "total_vote": 331,
+            "votes": {
+                "1": 103,
+                "3": 209,
+                "4": 19
+            }
+        },
+        "mv_result": null,
+        "school_name": "VALİ NEVZAT AYAZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1244,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28740_cb_1093799998_1684085614585758540.jpg",
+            "submission_id": 272276,
+            "total_vote": 334,
+            "votes": {
+                "1": 107,
+                "2": 0,
+                "3": 204,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48096_mv_1083799998_1684088591659370571.jpg",
+            "submission_id": 370364,
+            "total_vote": 325,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 16,
+                "12": 20,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 129,
+                "22": 50,
+                "23": 0,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 4,
+                "7": 8,
+                "8": 1,
+                "9": 86
+            }
+        },
+        "school_name": "VALİ NEVZAT AYAZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1252,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48123_cb_1093800006_1684084632834633621.jpg",
+            "submission_id": 244028,
+            "total_vote": 333,
+            "votes": {
+                "1": 128,
+                "3": 176,
+                "4": 29
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48123_mv_1083800006_1684084957930298215.jpg",
+            "submission_id": 252910,
+            "total_vote": 330,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 16,
+                "12": 12,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 4,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 122,
+                "22": 44,
+                "23": 0,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 5,
+                "8": 2,
+                "9": 108
+            }
+        },
+        "school_name": "VALİ NEVZAT AYAZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1255,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48096_cb_1093800009_1684082947125328736.jpg",
+            "submission_id": 207843,
+            "total_vote": 335,
+            "votes": {
+                "1": 105,
+                "2": 1,
+                "3": 209,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48096_mv_1083800009_1684083320047510133.jpg",
+            "submission_id": 214313,
+            "total_vote": 329,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 16,
+                "12": 21,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 137,
+                "22": 47,
+                "23": 1,
+                "24": 18,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 0,
+                "9": 84
+            }
+        },
+        "school_name": "VALİ NEVZAT AYAZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1249,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28740_cb_1093800003_1684084432082239466.jpg",
+            "submission_id": 238818,
+            "total_vote": 331,
+            "votes": {
+                "1": 133,
+                "2": 1,
+                "3": 178,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28740_mv_1083800003_1684084490792814031.jpg",
+            "submission_id": 240306,
+            "total_vote": 331,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 21,
+                "12": 8,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 124,
+                "22": 49,
+                "23": 1,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 5,
+                "8": 0,
+                "9": 108
+            }
+        },
+        "school_name": "VALİ NEVZAT AYAZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1247,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48096_cb_1093800001_1684084519126510380.jpg",
+            "submission_id": 240968,
+            "total_vote": 325,
+            "votes": {
+                "1": 115,
+                "2": 2,
+                "3": 191,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48096_mv_1083800001_1684084549836090754.jpg",
+            "submission_id": 241773,
+            "total_vote": 321,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 6,
+                "12": 15,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 9,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 109,
+                "22": 65,
+                "23": 2,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 2,
+                "9": 96
+            }
+        },
+        "school_name": "VALİ NEVZAT AYAZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1258,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67436_cb_1093800012_1684086997400478999.jpg",
+            "submission_id": 318857,
+            "total_vote": 336,
+            "votes": {
+                "1": 112,
+                "2": 1,
+                "3": 202,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "VALİ NEVZAT AYAZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1238,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48096_cb_1093799792_1684086476489376692.jpg",
+            "submission_id": 300658,
+            "total_vote": 311,
+            "votes": {
+                "1": 122,
+                "2": 3,
+                "3": 174,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "VALİ NEVZAT AYAZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1241,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48096_cb_1093799995_1684084999322525302.jpg",
+            "submission_id": 254118,
+            "total_vote": 323,
+            "votes": {
+                "1": 128,
+                "2": 2,
+                "3": 170,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/28740_mv_1083799995_1684084912395707163.jpg",
+            "submission_id": 251614,
+            "total_vote": 316,
+            "votes": {
+                "1": 2,
+                "10": 2,
+                "11": 17,
+                "12": 19,
+                "14": 0,
+                "15": 1,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 116,
+                "22": 34,
+                "23": 1,
+                "24": 15,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 3,
+                "8": 3,
+                "9": 100
+            }
+        },
+        "school_name": "VALİ NEVZAT AYAZ ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1245,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48096_cb_1093799999_1684089062012660048.jpg",
+            "submission_id": 384277,
+            "total_vote": 329,
+            "votes": {
+                "1": 101,
+                "2": 0,
+                "3": 209,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/67436_mv_1083799999_1684091168136715084.jpg",
+            "submission_id": 435240,
+            "total_vote": 324,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 11,
+                "12": 16,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 142,
+                "22": 39,
+                "23": 0,
+                "24": 8,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 4,
+                "8": 1,
+                "9": 92
+            }
+        },
+        "school_name": "VALİ NEVZAT AYAZ ANADOLU LİSESİ"
+    }
+]

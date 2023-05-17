@@ -1,0 +1,253 @@
+[
+    {
+        "ballot_box_number": 1245,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/4364_bulk_999999999_1684094386598405065.jpeg",
+            "submission_id": 491379,
+            "total_vote": 298,
+            "votes": {
+                "1": 119,
+                "2": 3,
+                "3": 166,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "80. YIL EFE İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1255,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/4364_bulk_999999999_1684094407677587249.jpeg",
+            "submission_id": 491629,
+            "total_vote": 317,
+            "votes": {
+                "1": 112,
+                "2": 5,
+                "3": 180,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "80. YIL EFE İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1251,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/4364_bulk_999999999_1684094386322565578.jpeg",
+            "submission_id": 491370,
+            "total_vote": 304,
+            "votes": {
+                "1": 111,
+                "2": 2,
+                "3": 173,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "80. YIL EFE İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1253,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/4364_bulk_999999999_1684094385962419969.jpeg",
+            "submission_id": 491360,
+            "total_vote": 307,
+            "votes": {
+                "1": 124,
+                "2": 1,
+                "3": 153,
+                "4": 29
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/4364_bulk_999999999_1684094407912112089.jpeg",
+            "submission_id": 491633,
+            "total_vote": 285,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 30,
+                "12": 7,
+                "13": 11,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 91,
+                "22": 36,
+                "23": 0,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 8,
+                "8": 4,
+                "9": 82
+            }
+        },
+        "school_name": "80. YIL EFE İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1246,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/4364_bulk_999999999_1684094386231508097.jpeg",
+            "submission_id": 491369,
+            "total_vote": 308,
+            "votes": {
+                "1": 91,
+                "2": 2,
+                "3": 191,
+                "4": 24
+            }
+        },
+        "mv_result": null,
+        "school_name": "80. YIL EFE İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1254,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/4364_bulk_999999999_1684094386362406313.jpeg",
+            "submission_id": 491374,
+            "total_vote": 311,
+            "votes": {
+                "1": 113,
+                "2": 1,
+                "3": 161,
+                "4": 36
+            }
+        },
+        "mv_result": null,
+        "school_name": "80. YIL EFE İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1252,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "80. YIL EFE İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1249,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/4364_bulk_999999999_1684094385757299396.jpeg",
+            "submission_id": 491355,
+            "total_vote": 303,
+            "votes": {
+                "1": 104,
+                "2": 2,
+                "3": 181,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/4364_bulk_999999999_1684094407606888860.jpeg",
+            "submission_id": 491627,
+            "total_vote": 285,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 12,
+                "12": 3,
+                "13": 10,
+                "14": 1,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 124,
+                "22": 41,
+                "23": 3,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 79
+            }
+        },
+        "school_name": "80. YIL EFE İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1247,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/4364_bulk_999999999_1684094408065608667.jpeg",
+            "submission_id": 491635,
+            "total_vote": 321,
+            "votes": {
+                "1": 122,
+                "2": 2,
+                "3": 173,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/4364_bulk_999999999_1684094407977256008.jpeg",
+            "submission_id": 491634,
+            "total_vote": 312,
+            "votes": {
+                "10": 6,
+                "11": 21,
+                "12": 2,
+                "13": 8,
+                "15": 1,
+                "21": 113,
+                "22": 45,
+                "24": 19,
+                "7": 9,
+                "8": 4,
+                "9": 84
+            }
+        },
+        "school_name": "80. YIL EFE İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1248,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/4364_bulk_999999999_1684094408185011208.jpeg",
+            "submission_id": 491639,
+            "total_vote": 308,
+            "votes": {
+                "1": 4,
+                "10": 3,
+                "11": 26,
+                "12": 2,
+                "13": 6,
+                "15": 2,
+                "21": 126,
+                "22": 33,
+                "23": 1,
+                "24": 7,
+                "7": 11,
+                "9": 87
+            }
+        },
+        "school_name": "80. YIL EFE İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1250,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/4364_bulk_999999999_1684094407822506988.jpeg",
+            "submission_id": 491632,
+            "total_vote": 325,
+            "votes": {
+                "1": 118,
+                "2": 6,
+                "3": 191,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "80. YIL EFE İLKOKULU"
+    }
+]

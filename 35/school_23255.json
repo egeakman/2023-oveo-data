@@ -1,0 +1,63 @@
+[
+    {
+        "ballot_box_number": 1087,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21339_cb_1093574137_1684083424918440723.jpg",
+            "submission_id": 216366,
+            "total_vote": 215,
+            "votes": {
+                "1": 53,
+                "3": 147,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39829_mv_1083574137_1684084529317619545.jpg",
+            "submission_id": 241235,
+            "total_vote": 214,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 4,
+                "12": 14,
+                "13": 16,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 111,
+                "22": 5,
+                "23": 2,
+                "24": 1,
+                "3": 2,
+                "4": 0,
+                "5": 5,
+                "6": 0,
+                "7": 8,
+                "8": 0,
+                "9": 45
+            }
+        },
+        "school_name": "80. YIL ÇAMLIK İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1088,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/39829_cb_1093574138_1684085032900725794.jpg",
+            "submission_id": 255092,
+            "total_vote": 222,
+            "votes": {
+                "1": 36,
+                "2": 1,
+                "3": 177,
+                "4": 8
+            }
+        },
+        "mv_result": null,
+        "school_name": "80. YIL ÇAMLIK İLKOKULU"
+    }
+]

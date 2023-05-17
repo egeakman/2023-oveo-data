@@ -1,0 +1,756 @@
+[
+    {
+        "ballot_box_number": 2012,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2cff7f69-f0bb-4822-aeda-468884102aee-1684106390478041660.jpeg",
+            "submission_id": 780834,
+            "total_vote": 314,
+            "votes": {
+                "1": 83,
+                "2": 1,
+                "3": 214,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/607c53ed-27e7-4e05-8ee8-e91432cccdd6-1684106364678907255.jpeg",
+            "submission_id": 777614,
+            "total_vote": 309,
+            "votes": {
+                "10": 1,
+                "11": 6,
+                "12": 30,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "20": 0,
+                "21": 140,
+                "22": 38,
+                "23": 2,
+                "24": 14,
+                "4": 1,
+                "5": 1,
+                "6": 2,
+                "7": 2,
+                "8": 3,
+                "9": 67
+            }
+        },
+        "school_name": "ALİ RIZA EFENDİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2011,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c3fa2591-b31b-48f5-9a86-de0032781921-1684106077743284083.jpeg",
+            "submission_id": 735293,
+            "total_vote": 304,
+            "votes": {
+                "1": 95,
+                "3": 192,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e4936afd-8ba2-46a0-a635-9b560549fb22-1684106088817362388.jpeg",
+            "submission_id": 737044,
+            "total_vote": 299,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 11,
+                "12": 29,
+                "14": 1,
+                "21": 122,
+                "22": 30,
+                "23": 9,
+                "6": 2,
+                "7": 6,
+                "8": 2,
+                "9": 82
+            }
+        },
+        "school_name": "ALİ RIZA EFENDİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2006,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0041fdf6-3d5b-4a70-a7c4-aa4753bdc5a2-1684105079945732921.jpg",
+            "submission_id": 566950,
+            "total_vote": 314,
+            "votes": {
+                "1": 93,
+                "2": 1,
+                "3": 201,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0df26066-389e-41cb-afa0-814aaa68a0f2-1684105078694908628.jpg",
+            "submission_id": 568102,
+            "total_vote": 311,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 11,
+                "12": 42,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 121,
+                "22": 33,
+                "23": 0,
+                "24": 14,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 5,
+                "8": 3,
+                "9": 76
+            }
+        },
+        "school_name": "ALİ RIZA EFENDİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2010,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ba34fed9-e214-4b69-8b9a-dd42809e4ebc-1684105078984596788.jpg",
+            "submission_id": 566662,
+            "total_vote": 321,
+            "votes": {
+                "1": 95,
+                "2": 1,
+                "3": 210,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5368c0cf-cdec-467c-a9f8-a4e6016c3fc8-1684105077701265242.jpg",
+            "submission_id": 567591,
+            "total_vote": 315,
+            "votes": {
+                "10": 6,
+                "11": 16,
+                "12": 25,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 141,
+                "22": 37,
+                "23": 1,
+                "24": 10,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 3,
+                "8": 0,
+                "9": 71
+            }
+        },
+        "school_name": "ALİ RIZA EFENDİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2017,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d2d3cd6d-b6a7-4987-b088-57f014d017a6-1684105079836932888.jpeg",
+            "submission_id": 568215,
+            "total_vote": 322,
+            "votes": {
+                "1": 104,
+                "2": 2,
+                "3": 206,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8271d76f-445f-4d23-b71d-ecdf0db775f7-1684105079698456580.jpeg",
+            "submission_id": 568274,
+            "total_vote": 316,
+            "votes": {
+                "10": 4,
+                "11": 23,
+                "12": 35,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "2": 0,
+                "21": 128,
+                "22": 42,
+                "23": 0,
+                "24": 2,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 8,
+                "8": 2,
+                "9": 68
+            }
+        },
+        "school_name": "ALİ RIZA EFENDİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2021,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/88ccfc1f-a167-4187-9c96-748e67553da7-1684106446957781714.jpeg",
+            "submission_id": 789466,
+            "total_vote": 313,
+            "votes": {
+                "1": 105,
+                "2": 1,
+                "3": 191,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "ALİ RIZA EFENDİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2009,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/9f1d622d-6ef1-4f6e-aa24-d4a19d812591-1684106139314158277.jpeg",
+            "submission_id": 744291,
+            "total_vote": 310,
+            "votes": {
+                "1": 89,
+                "3": 187,
+                "4": 34
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ba335935-f436-417c-9b56-7583a7089302-1684106149507850248.jpeg",
+            "submission_id": 745870,
+            "total_vote": 308,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 7,
+                "12": 31,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 119,
+                "22": 43,
+                "23": 0,
+                "24": 20,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 0,
+                "9": 80
+            }
+        },
+        "school_name": "ALİ RIZA EFENDİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2008,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/15891_bulk_999999999_1684080150581999939.jpg",
+            "submission_id": 180041,
+            "total_vote": 320,
+            "votes": {
+                "1": 107,
+                "2": 1,
+                "3": 194,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/85526bad-afdc-4693-8b6a-d8e4df2dc0f8-1684106268675480175.jpeg",
+            "submission_id": 764195,
+            "total_vote": 321,
+            "votes": {
+                "10": 2,
+                "11": 11,
+                "12": 35,
+                "15": 1,
+                "17": 1,
+                "21": 124,
+                "22": 38,
+                "24": 10,
+                "6": 2,
+                "7": 6,
+                "8": 4,
+                "9": 87
+            }
+        },
+        "school_name": "ALİ RIZA EFENDİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2004,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/dc3d578a-8d24-460b-b439-65bb999c7ed2-1684106378659936485.jpeg",
+            "submission_id": 779244,
+            "total_vote": 324,
+            "votes": {
+                "1": 130,
+                "2": 1,
+                "3": 182,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20144_bulk_999999999_1684129943270701929.jpg",
+            "submission_id": 1011781,
+            "total_vote": 307,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 18,
+                "12": 31,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 1,
+                "21": 116,
+                "22": 25,
+                "23": 1,
+                "24": 2,
+                "3": 0,
+                "4": 4,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 0,
+                "9": 96
+            }
+        },
+        "school_name": "ALİ RIZA EFENDİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2014,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/cb052e85-0ee4-4830-9f25-abf08be44f17-1684105077905830653.jpg",
+            "submission_id": 566469,
+            "total_vote": 312,
+            "votes": {
+                "1": 111,
+                "2": 2,
+                "3": 187,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "ALİ RIZA EFENDİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2016,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/11103_cb_1093789410_1684093536719402187.jpg",
+            "submission_id": 471019,
+            "total_vote": 331,
+            "votes": {
+                "1": 90,
+                "2": 3,
+                "3": 224,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/dd7ae9d9-7eff-4351-9cd8-af3f010e5c66-1684105080192980503.jpeg",
+            "submission_id": 568068,
+            "total_vote": 327,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 10,
+                "12": 50,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 124,
+                "22": 42,
+                "23": 1,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 7,
+                "8": 3,
+                "9": 73
+            }
+        },
+        "school_name": "ALİ RIZA EFENDİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2020,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20144_bulk_999999999_1684129766876975806.jpg",
+            "submission_id": 1011688,
+            "total_vote": 325,
+            "votes": {
+                "1": 108,
+                "2": 0,
+                "3": 199,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20144_mv_1083789414_1684147163152215198.jpg",
+            "submission_id": 1020008,
+            "total_vote": 322,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 70,
+                "12": 27,
+                "14": 1,
+                "15": 7,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 132,
+                "22": 0,
+                "23": 11,
+                "24": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 6,
+                "8": 1,
+                "9": 64
+            }
+        },
+        "school_name": "ALİ RIZA EFENDİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2018,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/51313d0b-3635-496e-898e-2a355537c07f-1684106173422296299.jpg",
+            "submission_id": 748615,
+            "total_vote": 307,
+            "votes": {
+                "1": 108,
+                "2": 1,
+                "3": 181,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/02ad5677-50a5-4def-af54-841900177ff2-1684106153427825809.jpg",
+            "submission_id": 745690,
+            "total_vote": 304,
+            "votes": {
+                "10": 1,
+                "11": 16,
+                "12": 25,
+                "21": 114,
+                "22": 31,
+                "24": 7,
+                "3": 3,
+                "6": 4,
+                "7": 7,
+                "8": 1,
+                "9": 95
+            }
+        },
+        "school_name": "ALİ RIZA EFENDİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2013,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/db2ab927-6b5d-4c94-afa6-806b713061f8-1684106245931753042.jpg",
+            "submission_id": 760167,
+            "total_vote": 320,
+            "votes": {
+                "1": 91,
+                "2": 1,
+                "3": 207,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0dfb323e-3402-48e9-997a-70a44b661434-1684106039277945687.jpeg",
+            "submission_id": 730041,
+            "total_vote": 316,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 4,
+                "12": 40,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 9,
+                "2": 0,
+                "20": 0,
+                "21": 122,
+                "22": 44,
+                "23": 1,
+                "24": 10,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 5,
+                "8": 1,
+                "9": 72
+            }
+        },
+        "school_name": "ALİ RIZA EFENDİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2019,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/1e95b1db-0831-45af-b631-2f71f1531637-1684105079421708428.jpeg",
+            "submission_id": 567998,
+            "total_vote": 321,
+            "votes": {
+                "1": 107,
+                "2": 1,
+                "3": 195,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20144_bulk_999999999_1684129806095514382.jpg",
+            "submission_id": 1011709,
+            "total_vote": 315,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 15,
+                "12": 36,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 109,
+                "22": 50,
+                "23": 1,
+                "24": 12,
+                "3": 0,
+                "4": 0,
+                "6": 1,
+                "7": 5,
+                "8": 2,
+                "9": 82
+            }
+        },
+        "school_name": "ALİ RIZA EFENDİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2007,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15891_cb_1093789401_1684079246219793751.jpg",
+            "submission_id": 176368,
+            "total_vote": 302,
+            "votes": {
+                "1": 89,
+                "2": 2,
+                "3": 191,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c598ba95-9559-4a47-b64a-5bcec2a543f8-1684106102952375185.jpeg",
+            "submission_id": 738837,
+            "total_vote": 298,
+            "votes": {
+                "11": 13,
+                "12": 23,
+                "19": 2,
+                "20": 1,
+                "21": 130,
+                "22": 37,
+                "23": 2,
+                "24": 8,
+                "6": 1,
+                "7": 6,
+                "8": 1,
+                "9": 74
+            }
+        },
+        "school_name": "ALİ RIZA EFENDİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2015,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/044662c2-d04f-42ea-a465-d582ab9933ac-1684105081101795319.jpeg",
+            "submission_id": 567225,
+            "total_vote": 317,
+            "votes": {
+                "1": 90,
+                "2": 3,
+                "3": 202,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20144_bulk_999999999_1684131494278705288.jpg",
+            "submission_id": 1012413,
+            "total_vote": 311,
+            "votes": {
+                "1": 1,
+                "10": 5,
+                "11": 9,
+                "12": 36,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 1,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 121,
+                "22": 43,
+                "23": 0,
+                "24": 12,
+                "3": 4,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 2,
+                "9": 75
+            }
+        },
+        "school_name": "ALİ RIZA EFENDİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2022,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/b57f479c-a353-41d6-968f-f1f7acaf7810-1684106475148844169.jpeg",
+            "submission_id": 793635,
+            "total_vote": 309,
+            "votes": {
+                "1": 94,
+                "2": 1,
+                "3": 202,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20144_bulk_999999999_1684129805745523939.jpg",
+            "submission_id": 1011706,
+            "total_vote": 301,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 11,
+                "12": 42,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 122,
+                "22": 29,
+                "23": 0,
+                "24": 9,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 9,
+                "8": 0,
+                "9": 74
+            }
+        },
+        "school_name": "ALİ RIZA EFENDİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2023,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/15891_cb_1093789497_1684079192642980426.jpg",
+            "submission_id": 176220,
+            "total_vote": 299,
+            "votes": {
+                "1": 80,
+                "2": 0,
+                "3": 204,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "ALİ RIZA EFENDİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2005,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20144_bulk_999999999_1684131357471393445.jpg",
+            "submission_id": 1012320,
+            "total_vote": 309,
+            "votes": {
+                "1": 127,
+                "2": 2,
+                "3": 167,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/6c3ae794-5488-4e01-bad9-81f244b3a32c-1684105080451135084.jpg",
+            "submission_id": 568074,
+            "total_vote": 308,
+            "votes": {
+                "1": 0,
+                "10": 8,
+                "11": 15,
+                "12": 21,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 118,
+                "22": 25,
+                "24": 7,
+                "3": 1,
+                "4": 0,
+                "6": 1,
+                "7": 3,
+                "8": 0,
+                "9": 108
+            }
+        },
+        "school_name": "ALİ RIZA EFENDİ İLKOKULU"
+    }
+]

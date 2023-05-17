@@ -1,0 +1,524 @@
+[
+    {
+        "ballot_box_number": 1065,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61834_cb_1093755032_1684083460195735269.jpg",
+            "submission_id": 217027,
+            "total_vote": 345,
+            "votes": {
+                "1": 26,
+                "3": 311,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/61834_mv_1083755032_1684084996881776220.jpg",
+            "submission_id": 254045,
+            "total_vote": 336,
+            "votes": {
+                "11": 2,
+                "12": 35,
+                "19": 1,
+                "21": 234,
+                "22": 34,
+                "24": 3,
+                "3": 2,
+                "7": 3,
+                "9": 22
+            }
+        },
+        "school_name": "ÖZEL NARLIDERE UĞUR İLK-ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1055,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22230_cb_1093755022_1684086140037075231.jpg",
+            "submission_id": 289435,
+            "total_vote": 332,
+            "votes": {
+                "1": 34,
+                "2": 1,
+                "3": 294,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3047df08-64d2-4478-8472-1fb831c78649-1684106024245553652.jpg",
+            "submission_id": 727553,
+            "total_vote": 320,
+            "votes": {
+                "11": 5,
+                "12": 33,
+                "21": 206,
+                "22": 39,
+                "24": 2,
+                "3": 1,
+                "5": 3,
+                "6": 1,
+                "7": 4,
+                "8": 1,
+                "9": 25
+            }
+        },
+        "school_name": "ÖZEL NARLIDERE UĞUR İLK-ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1061,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22230_cb_1093755028_1684085205855800174.jpg",
+            "submission_id": 260052,
+            "total_vote": 340,
+            "votes": {
+                "1": 31,
+                "2": 1,
+                "3": 294,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22230_mv_1083755028_1684085265482631331.jpg",
+            "submission_id": 261748,
+            "total_vote": 338,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 4,
+                "12": 34,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 215,
+                "22": 41,
+                "23": 1,
+                "24": 7,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 7,
+                "8": 1,
+                "9": 25
+            }
+        },
+        "school_name": "ÖZEL NARLIDERE UĞUR İLK-ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1059,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22230_cb_1093755026_1684086595782217375.jpg",
+            "submission_id": 304883,
+            "total_vote": 330,
+            "votes": {
+                "1": 43,
+                "3": 281,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22235_mv_1083755026_1684089538048357642.jpg",
+            "submission_id": 397352,
+            "total_vote": 327,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 4,
+                "12": 41,
+                "13": 0,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 209,
+                "22": 29,
+                "23": 0,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 1,
+                "9": 37
+            }
+        },
+        "school_name": "ÖZEL NARLIDERE UĞUR İLK-ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1064,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22230_cb_1093755031_1684084119335531210.jpg",
+            "submission_id": 230874,
+            "total_vote": 332,
+            "votes": {
+                "1": 47,
+                "2": 0,
+                "3": 279,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22230_mv_1083755031_1684084159656518036.jpg",
+            "submission_id": 231766,
+            "total_vote": 324,
+            "votes": {
+                "10": 1,
+                "11": 3,
+                "12": 23,
+                "21": 207,
+                "22": 44,
+                "24": 5,
+                "6": 1,
+                "7": 3,
+                "9": 37
+            }
+        },
+        "school_name": "ÖZEL NARLIDERE UĞUR İLK-ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1054,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22230_cb_1093755021_1684085299262806313.jpg",
+            "submission_id": 262722,
+            "total_vote": 338,
+            "votes": {
+                "1": 35,
+                "2": 0,
+                "3": 293,
+                "4": 10
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÖZEL NARLIDERE UĞUR İLK-ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1058,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22297_cb_1093755025_1684080670970314964.jpg",
+            "submission_id": 183039,
+            "total_vote": 340,
+            "votes": {
+                "1": 40,
+                "2": 0,
+                "3": 294,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22297_mv_1083755025_1684085543785839685.jpg",
+            "submission_id": 269939,
+            "total_vote": 337,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 7,
+                "12": 33,
+                "13": 0,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 1,
+                "21": 221,
+                "22": 34,
+                "23": 0,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 33
+            }
+        },
+        "school_name": "ÖZEL NARLIDERE UĞUR İLK-ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1052,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22230_cb_1093755019_1684088764664493894.jpg",
+            "submission_id": 375600,
+            "total_vote": 289,
+            "votes": {
+                "1": 44,
+                "2": 1,
+                "3": 241,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22230_mv_1083755019_1684088804634029792.jpg",
+            "submission_id": 376745,
+            "total_vote": 283,
+            "votes": {
+                "10": 1,
+                "11": 3,
+                "12": 21,
+                "14": 2,
+                "20": 1,
+                "21": 192,
+                "22": 20,
+                "24": 1,
+                "3": 2,
+                "4": 1,
+                "6": 3,
+                "7": 2,
+                "9": 34
+            }
+        },
+        "school_name": "ÖZEL NARLIDERE UĞUR İLK-ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1062,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22230_cb_1093755029_1684086073141392991.jpg",
+            "submission_id": 287277,
+            "total_vote": 333,
+            "votes": {
+                "1": 35,
+                "2": 0,
+                "3": 291,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22235_mv_1083755029_1684088954371870698.jpg",
+            "submission_id": 381196,
+            "total_vote": 332,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 6,
+                "12": 35,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 207,
+                "22": 47,
+                "23": 0,
+                "24": 2,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 0,
+                "9": 28
+            }
+        },
+        "school_name": "ÖZEL NARLIDERE UĞUR İLK-ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1063,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22230_cb_1093755030_1684081762868823394.jpg",
+            "submission_id": 192039,
+            "total_vote": 327,
+            "votes": {
+                "1": 40,
+                "3": 278,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22230_mv_1083755030_1684082390132510097.jpg",
+            "submission_id": 199527,
+            "total_vote": 326,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 5,
+                "12": 37,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 202,
+                "22": 41,
+                "23": 1,
+                "24": 4,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 1,
+                "8": 1,
+                "9": 29
+            }
+        },
+        "school_name": "ÖZEL NARLIDERE UĞUR İLK-ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1056,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22297_cb_1093755023_1684080982602422159.jpg",
+            "submission_id": 185178,
+            "total_vote": 333,
+            "votes": {
+                "1": 22,
+                "2": 0,
+                "3": 302,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22297_mv_1083755023_1684084593029733406.jpg",
+            "submission_id": 242948,
+            "total_vote": 331,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 9,
+                "12": 23,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 236,
+                "22": 37,
+                "23": 1,
+                "24": 3,
+                "3": 2,
+                "4": 0,
+                "5": 2,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 15
+            }
+        },
+        "school_name": "ÖZEL NARLIDERE UĞUR İLK-ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1057,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/83521_cb_1093755024_1684094851096503896.jpeg",
+            "submission_id": 496893,
+            "total_vote": 351,
+            "votes": {
+                "1": 49,
+                "2": 1,
+                "3": 297,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/83521_mv_1083755024_1684094867718554648.jpeg",
+            "submission_id": 497070,
+            "total_vote": 349,
+            "votes": {
+                "10": 39,
+                "11": 7,
+                "12": 30,
+                "21": 217,
+                "23": 46,
+                "24": 3,
+                "3": 4,
+                "6": 1,
+                "7": 2
+            }
+        },
+        "school_name": "ÖZEL NARLIDERE UĞUR İLK-ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1051,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22230_cb_1093755018_1684082011020669928.jpg",
+            "submission_id": 194712,
+            "total_vote": 312,
+            "votes": {
+                "1": 34,
+                "2": 1,
+                "3": 272,
+                "4": 5
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÖZEL NARLIDERE UĞUR İLK-ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1053,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22230_cb_1093755020_1684087614489645356.jpg",
+            "submission_id": 339548,
+            "total_vote": 342,
+            "votes": {
+                "1": 31,
+                "3": 307,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22230_mv_1083755020_1684088861987196801.jpg",
+            "submission_id": 378413,
+            "total_vote": 337,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 3,
+                "12": 33,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 236,
+                "22": 29,
+                "23": 0,
+                "24": 4,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 3,
+                "7": 1,
+                "8": 0,
+                "9": 26
+            }
+        },
+        "school_name": "ÖZEL NARLIDERE UĞUR İLK-ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1060,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/22230_cb_1093755027_1684090248442242428.jpg",
+            "submission_id": 415713,
+            "total_vote": 339,
+            "votes": {
+                "1": 27,
+                "2": 1,
+                "3": 307,
+                "4": 4
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÖZEL NARLIDERE UĞUR İLK-ORTAOKULU"
+    }
+]

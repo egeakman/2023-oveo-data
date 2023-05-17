@@ -1,0 +1,79 @@
+[
+    {
+        "ballot_box_number": 1112,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/66738_mv_1083756536_1684084214964639214.jpg",
+            "submission_id": 233254,
+            "total_vote": 318,
+            "votes": {
+                "1": 118,
+                "2": 3,
+                "3": 174,
+                "4": 23
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT BARIŞ DEMİR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1114,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/66738_cb_1093756538_1684079779597104795.jpg",
+            "submission_id": 178305,
+            "total_vote": 330,
+            "votes": {
+                "1": 130,
+                "2": 5,
+                "3": 181,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/66738_mv_1083756538_1684084054867076724.jpg",
+            "submission_id": 229314,
+            "total_vote": 328,
+            "votes": {
+                "10": 3,
+                "11": 24,
+                "12": 8,
+                "13": 11,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 124,
+                "22": 42,
+                "23": 1,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 8,
+                "8": 5,
+                "9": 93
+            }
+        },
+        "school_name": "ŞEHİT BARIŞ DEMİR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1113,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/66738_cb_1093756537_1684085903226216822.jpg",
+            "submission_id": 281907,
+            "total_vote": 325,
+            "votes": {
+                "1": 117,
+                "2": 3,
+                "3": 189,
+                "4": 16
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT BARIŞ DEMİR İLKOKULU"
+    }
+]

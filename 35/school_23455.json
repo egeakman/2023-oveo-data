@@ -1,0 +1,48 @@
+[
+    {
+        "ballot_box_number": 1136,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47894_cb_1093759336_1684082266615036476.jpg",
+            "submission_id": 197939,
+            "total_vote": 221,
+            "votes": {
+                "1": 20,
+                "3": 197,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/dbbb0465-8ce4-4ec6-a07d-d58b12e7687f-1684105712894409891.jpg",
+            "submission_id": 683696,
+            "total_vote": 217,
+            "votes": {
+                "11": 4,
+                "12": 27,
+                "21": 143,
+                "22": 20,
+                "24": 3,
+                "3": 1,
+                "7": 3,
+                "8": 1,
+                "9": 15
+            }
+        },
+        "school_name": "YAĞCILAR İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1135,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/47894_mv_1083759336_1684082562241086228.jpg",
+            "submission_id": 201812,
+            "total_vote": 215,
+            "votes": {
+                "1": 26,
+                "2": 0,
+                "3": 185,
+                "4": 4
+            }
+        },
+        "mv_result": null,
+        "school_name": "YAĞCILAR İLKOKULU"
+    }
+]

@@ -1,0 +1,243 @@
+[
+    {
+        "ballot_box_number": 1062,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20315_cb_1093757203_1684081793336681596.jpg",
+            "submission_id": 192353,
+            "total_vote": 336,
+            "votes": {
+                "1": 44,
+                "2": 2,
+                "3": 276,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "P.M.C. DEMİRGÜREŞ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1057,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20315_cb_1093757198_1684085132608208797.jpg",
+            "submission_id": 257886,
+            "total_vote": 347,
+            "votes": {
+                "1": 55,
+                "2": 1,
+                "3": 286,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26291_mv_1083757198_1684090211142083446.jpg",
+            "submission_id": 414783,
+            "total_vote": 340,
+            "votes": {
+                "11": 5,
+                "12": 1,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "19": 1,
+                "2": 1,
+                "21": 228,
+                "22": 48,
+                "23": 1,
+                "24": 5,
+                "3": 2,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 1,
+                "9": 43
+            }
+        },
+        "school_name": "P.M.C. DEMİRGÜREŞ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1056,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20315_cb_1093757197_1684085382810325761.jpg",
+            "submission_id": 265192,
+            "total_vote": 324,
+            "votes": {
+                "1": 46,
+                "3": 274,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20315_mv_1083757197_1684085429056404104.jpg",
+            "submission_id": 266521,
+            "total_vote": 322,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 7,
+                "12": 7,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 227,
+                "22": 31,
+                "23": 0,
+                "24": 3,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 3,
+                "8": 0,
+                "9": 39
+            }
+        },
+        "school_name": "P.M.C. DEMİRGÜREŞ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1061,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20315_cb_1093757202_1684088825256292874.jpg",
+            "submission_id": 377324,
+            "total_vote": 338,
+            "votes": {
+                "1": 58,
+                "2": 0,
+                "3": 273,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20315_mv_1083757202_1684088774430064327.jpg",
+            "submission_id": 375890,
+            "total_vote": 335,
+            "votes": {
+                "10": 1,
+                "11": 11,
+                "12": 13,
+                "19": 1,
+                "21": 219,
+                "22": 37,
+                "23": 1,
+                "24": 4,
+                "3": 1,
+                "4": 1,
+                "6": 3,
+                "7": 2,
+                "9": 41
+            }
+        },
+        "school_name": "P.M.C. DEMİRGÜREŞ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1058,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20315_cb_1093757199_1684084998921617534.jpg",
+            "submission_id": 254107,
+            "total_vote": 329,
+            "votes": {
+                "1": 44,
+                "2": 2,
+                "3": 276,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "P.M.C. DEMİRGÜREŞ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1059,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0eb7ede4-48b0-4d14-9f62-05f7a80ca955-1684105462988437602.jpg",
+            "submission_id": 643875,
+            "total_vote": 340,
+            "votes": {
+                "1": 44,
+                "2": 0,
+                "3": 285,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3074eecd-826a-428f-a822-1acd89c09c0c-1684105336735060438.jpg",
+            "submission_id": 623854,
+            "total_vote": 339,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 7,
+                "12": 8,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 237,
+                "22": 37,
+                "23": 0,
+                "24": 7,
+                "3": 1,
+                "4": 1,
+                "5": 1,
+                "6": 0,
+                "7": 1,
+                "8": 0,
+                "9": 36
+            }
+        },
+        "school_name": "P.M.C. DEMİRGÜREŞ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1060,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20315_cb_1093757201_1684083437757172673.jpg",
+            "submission_id": 216617,
+            "total_vote": 338,
+            "votes": {
+                "1": 62,
+                "2": 1,
+                "3": 269,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20315_mv_1083757203_1684083605479883771.jpg",
+            "submission_id": 219862,
+            "total_vote": 329,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 10,
+                "12": 21,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 202,
+                "22": 39,
+                "23": 0,
+                "24": 6,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 1,
+                "9": 44
+            }
+        },
+        "school_name": "P.M.C. DEMİRGÜREŞ İLKOKULU"
+    }
+]

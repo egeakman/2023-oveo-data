@@ -1,0 +1,590 @@
+[
+    {
+        "ballot_box_number": 2476,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/84240_cb_1093792819_1684083665538982837.jpg",
+            "submission_id": 221144,
+            "total_vote": 332,
+            "votes": {
+                "1": 118,
+                "2": 2,
+                "3": 187,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/84240_mv_1083792819_1684084879798371066.jpg",
+            "submission_id": 250736,
+            "total_vote": 325,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 11,
+                "12": 31,
+                "13": 0,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 107,
+                "22": 47,
+                "23": 1,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 4,
+                "7": 11,
+                "8": 1,
+                "9": 99
+            }
+        },
+        "school_name": "ŞEHİT SELİM TOPAL ORTAOKULU (ALİ KUŞÇU ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 2468,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4ec49785-82f4-41ce-989a-0afc09f7b736-1684106162866235431.jpeg",
+            "submission_id": 747688,
+            "total_vote": 297,
+            "votes": {
+                "1": 112,
+                "2": 1,
+                "3": 178,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/24074_bulk_999999999_1684090146779748512.jpg",
+            "submission_id": 413273,
+            "total_vote": 294,
+            "votes": {
+                "11": 16,
+                "12": 18,
+                "14": 1,
+                "15": 1,
+                "19": 2,
+                "21": 113,
+                "22": 46,
+                "23": 1,
+                "24": 1,
+                "3": 3,
+                "5": 1,
+                "6": 1,
+                "8": 1,
+                "9": 89
+            }
+        },
+        "school_name": "ŞEHİT SELİM TOPAL ORTAOKULU (ALİ KUŞÇU ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 2477,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/84240_cb_1093792820_1684084956179754206.jpg",
+            "submission_id": 252862,
+            "total_vote": 329,
+            "votes": {
+                "1": 103,
+                "3": 206,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT SELİM TOPAL ORTAOKULU (ALİ KUŞÇU ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 2480,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d9e958bc-920c-4b0e-baeb-1ba15cb5c0e8-1684105713460839966.jpeg",
+            "submission_id": 683584,
+            "total_vote": 339,
+            "votes": {
+                "1": 114,
+                "2": 3,
+                "3": 198,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5bc9b7dc-82d3-461f-8d54-379a35f381d9-1684106218091905761.jpeg",
+            "submission_id": 756354,
+            "total_vote": 333,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 18,
+                "12": 22,
+                "15": 1,
+                "2": 1,
+                "21": 132,
+                "22": 47,
+                "23": 1,
+                "24": 11,
+                "3": 2,
+                "6": 2,
+                "7": 4,
+                "8": 5,
+                "9": 84
+            }
+        },
+        "school_name": "ŞEHİT SELİM TOPAL ORTAOKULU (ALİ KUŞÇU ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 2482,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/84240_cb_1093792825_1684086090424269542.jpg",
+            "submission_id": 287845,
+            "total_vote": 336,
+            "votes": {
+                "1": 96,
+                "2": 0,
+                "3": 216,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/84240_mv_1083792825_1684086124679506320.jpg",
+            "submission_id": 289019,
+            "total_vote": 329,
+            "votes": {
+                "10": 2,
+                "11": 15,
+                "12": 22,
+                "15": 1,
+                "21": 136,
+                "23": 48,
+                "24": 16,
+                "4": 1,
+                "5": 1,
+                "6": 1,
+                "7": 5,
+                "8": 1,
+                "9": 80
+            }
+        },
+        "school_name": "ŞEHİT SELİM TOPAL ORTAOKULU (ALİ KUŞÇU ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 2469,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/84240_bulk_999999999_1684085599029915033.jpg",
+            "submission_id": 271726,
+            "total_vote": 332,
+            "votes": {
+                "1": 136,
+                "2": 2,
+                "3": 171,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/24074_bulk_999999999_1684089750953928555.jpg",
+            "submission_id": 403123,
+            "total_vote": 331,
+            "votes": {
+                "10": 8,
+                "11": 25,
+                "12": 21,
+                "14": 1,
+                "15": 1,
+                "21": 109,
+                "22": 41,
+                "23": 1,
+                "24": 12,
+                "6": 2,
+                "7": 6,
+                "9": 104
+            }
+        },
+        "school_name": "ŞEHİT SELİM TOPAL ORTAOKULU (ALİ KUŞÇU ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 2478,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/24074_bulk_999999999_1684115532758924232.jpg",
+            "submission_id": 1010301,
+            "total_vote": 316,
+            "votes": {
+                "1": 118,
+                "2": 1,
+                "3": 172,
+                "4": 25
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT SELİM TOPAL ORTAOKULU (ALİ KUŞÇU ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 2470,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/84240_cb_1093792653_1684085261199455790.jpg",
+            "submission_id": 261635,
+            "total_vote": 313,
+            "votes": {
+                "1": 105,
+                "2": 0,
+                "3": 187,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/24074_bulk_999999999_1684090146293332952.jpg",
+            "submission_id": 413259,
+            "total_vote": 308,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 23,
+                "12": 39,
+                "14": 0,
+                "15": 4,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 107,
+                "22": 35,
+                "23": 0,
+                "24": 1,
+                "3": 0,
+                "4": 4,
+                "5": 1,
+                "6": 1,
+                "7": 5,
+                "8": 3,
+                "9": 81
+            }
+        },
+        "school_name": "ŞEHİT SELİM TOPAL ORTAOKULU (ALİ KUŞÇU ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 2474,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/84240_cb_1093792817_1684082160649704252.jpg",
+            "submission_id": 196572,
+            "total_vote": 328,
+            "votes": {
+                "1": 121,
+                "3": 194,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/84240_mv_1083792817_1684084068775332149.jpg",
+            "submission_id": 229653,
+            "total_vote": 323,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 21,
+                "12": 25,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 1,
+                "20": 4,
+                "21": 126,
+                "22": 37,
+                "23": 0,
+                "24": 13,
+                "3": 1,
+                "4": 1,
+                "5": 1,
+                "6": 2,
+                "7": 1,
+                "8": 1,
+                "9": 86
+            }
+        },
+        "school_name": "ŞEHİT SELİM TOPAL ORTAOKULU (ALİ KUŞÇU ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 2483,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/43483124-2630-4a2b-8412-0e6c45154b53-1684106180530125277.jpeg",
+            "submission_id": 750381,
+            "total_vote": 324,
+            "votes": {
+                "1": 100,
+                "2": 2,
+                "3": 206,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4883c849-4ee5-433e-abdc-a7997e9eae56-1684105655460716480.jpeg",
+            "submission_id": 675639,
+            "total_vote": 318,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 14,
+                "12": 39,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 127,
+                "22": 40,
+                "23": 1,
+                "24": 8,
+                "3": 3,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 2,
+                "9": 75
+            }
+        },
+        "school_name": "ŞEHİT SELİM TOPAL ORTAOKULU (ALİ KUŞÇU ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 2475,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/84240_cb_1093792818_1684084132590547046.jpg",
+            "submission_id": 231128,
+            "total_vote": 335,
+            "votes": {
+                "1": 120,
+                "2": 1,
+                "3": 193,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/84240_mv_1083792818_1684084922561380981.jpg",
+            "submission_id": 251921,
+            "total_vote": 332,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 25,
+                "12": 18,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 125,
+                "22": 42,
+                "23": 2,
+                "24": 15,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 4,
+                "8": 1,
+                "9": 91
+            }
+        },
+        "school_name": "ŞEHİT SELİM TOPAL ORTAOKULU (ALİ KUŞÇU ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 2481,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/11e257e5-6764-499c-a0f9-e333aa1eae53-1684105398262000858.jpeg",
+            "submission_id": 632602,
+            "total_vote": 334,
+            "votes": {
+                "1": 114,
+                "2": 1,
+                "3": 193,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d39e509c-2a91-4f99-b08d-f3c257609a0f-1684105429143212661.jpeg",
+            "submission_id": 638436,
+            "total_vote": 332,
+            "votes": {
+                "10": 7,
+                "11": 23,
+                "12": 18,
+                "14": 1,
+                "15": 2,
+                "18": 1,
+                "21": 120,
+                "22": 55,
+                "23": 1,
+                "24": 14,
+                "3": 1,
+                "7": 2,
+                "8": 2,
+                "9": 85
+            }
+        },
+        "school_name": "ŞEHİT SELİM TOPAL ORTAOKULU (ALİ KUŞÇU ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 2471,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/7220d4ef-e87f-4c77-951d-34a77a3a09fe-1684105706550801586.jpg",
+            "submission_id": 684985,
+            "total_vote": 328,
+            "votes": {
+                "1": 114,
+                "2": 2,
+                "3": 188,
+                "4": 24
+            }
+        },
+        "mv_result": null,
+        "school_name": "ŞEHİT SELİM TOPAL ORTAOKULU (ALİ KUŞÇU ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 2473,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/84240_cb_1093792816_1684084660406356802.jpg",
+            "submission_id": 244805,
+            "total_vote": 335,
+            "votes": {
+                "1": 110,
+                "3": 205,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/992671d2-433f-40b1-a390-10a8decf616f-1684105888749431920.jpeg",
+            "submission_id": 710480,
+            "total_vote": 328,
+            "votes": {
+                "10": 2,
+                "11": 17,
+                "12": 35,
+                "20": 1,
+                "21": 125,
+                "22": 37,
+                "23": 1,
+                "24": 12,
+                "7": 3,
+                "9": 95
+            }
+        },
+        "school_name": "ŞEHİT SELİM TOPAL ORTAOKULU (ALİ KUŞÇU ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 2467,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/053a7401-77e1-48d2-8ede-bbaff2d9dd48-1684105782683278963.jpeg",
+            "submission_id": 694829,
+            "total_vote": 312,
+            "votes": {
+                "1": 128,
+                "2": 1,
+                "3": 175,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/ae4dff0c-4135-4987-bd70-03cbd1eec45b-1684105753110281809.jpeg",
+            "submission_id": 689926,
+            "total_vote": 303,
+            "votes": {
+                "1": 1,
+                "10": 5,
+                "11": 14,
+                "12": 9,
+                "16": 2,
+                "17": 1,
+                "21": 119,
+                "22": 35,
+                "23": 2,
+                "24": 7,
+                "3": 1,
+                "6": 3,
+                "7": 5,
+                "8": 1,
+                "9": 98
+            }
+        },
+        "school_name": "ŞEHİT SELİM TOPAL ORTAOKULU (ALİ KUŞÇU ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 2472,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/24074_bulk_999999999_1684090146661238094.jpg",
+            "submission_id": 413271,
+            "total_vote": 308,
+            "votes": {
+                "1": 119,
+                "2": 1,
+                "3": 169,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/24074_bulk_999999999_1684090146567167405.jpg",
+            "submission_id": 413268,
+            "total_vote": 303,
+            "votes": {
+                "10": 5,
+                "11": 13,
+                "12": 52,
+                "14": 1,
+                "21": 92,
+                "22": 24,
+                "23": 1,
+                "24": 16,
+                "3": 1,
+                "5": 1,
+                "6": 2,
+                "7": 3,
+                "8": 1,
+                "9": 91
+            }
+        },
+        "school_name": "ŞEHİT SELİM TOPAL ORTAOKULU (ALİ KUŞÇU ORTAOKULU)"
+    },
+    {
+        "ballot_box_number": 2479,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f344da6f-dca1-47a8-972c-643f40ff8bc9-1684105366617925221.jpeg",
+            "submission_id": 626344,
+            "total_vote": 322,
+            "votes": {
+                "1": 122,
+                "2": 1,
+                "3": 179,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/b5cee386-36c0-4cb8-a3b5-db6409d72853-1684105357813702848.jpeg",
+            "submission_id": 624955,
+            "total_vote": 318,
+            "votes": {
+                "10": 7,
+                "11": 16,
+                "12": 28,
+                "19": 1,
+                "21": 122,
+                "22": 28,
+                "23": 2,
+                "24": 10,
+                "3": 1,
+                "7": 5,
+                "8": 2,
+                "9": 96
+            }
+        },
+        "school_name": "ŞEHİT SELİM TOPAL ORTAOKULU (ALİ KUŞÇU ORTAOKULU)"
+    }
+]

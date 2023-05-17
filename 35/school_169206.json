@@ -1,0 +1,189 @@
+[
+    {
+        "ballot_box_number": 1041,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/8610_bulk_999999999_1684090008686454380.jpg",
+            "submission_id": 409985,
+            "total_vote": 320,
+            "votes": {
+                "1": 44,
+                "2": 1,
+                "3": 253,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/8610_bulk_999999999_1684089930161061172.jpg",
+            "submission_id": 407898,
+            "total_vote": 316,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 14,
+                "12": 9,
+                "13": 37,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 188,
+                "22": 22,
+                "23": 0,
+                "24": 13,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 23
+            }
+        },
+        "school_name": "HALİM FOÇALI MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1042,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/8610_bulk_999999999_1684089690579304287.jpg",
+            "submission_id": 401533,
+            "total_vote": 315,
+            "votes": {
+                "1": 69,
+                "3": 222,
+                "4": 24
+            }
+        },
+        "mv_result": null,
+        "school_name": "HALİM FOÇALI MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1040,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/8610_bulk_999999999_1684089534721541634.jpg",
+            "submission_id": 397248,
+            "total_vote": 312,
+            "votes": {
+                "1": 50,
+                "3": 247,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/8610_mv_1083569811_1684090318738781125.jpg",
+            "submission_id": 417302,
+            "total_vote": 313,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 22,
+                "12": 11,
+                "13": 29,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 172,
+                "22": 40,
+                "23": 0,
+                "24": 9,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 1,
+                "9": 26
+            }
+        },
+        "school_name": "HALİM FOÇALI MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1043,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/40376_mv_1083569814_1684081425126558604.jpg",
+            "submission_id": 188723,
+            "total_vote": 310,
+            "votes": {
+                "1": 117,
+                "2": 1,
+                "3": 84,
+                "4": 108
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/40376_mv_1083569814_1684081917967692757.jpg",
+            "submission_id": 193687,
+            "total_vote": 309,
+            "votes": {
+                "10": 4,
+                "11": 41,
+                "12": 1,
+                "13": 2,
+                "20": 1,
+                "21": 54,
+                "22": 25,
+                "23": 1,
+                "24": 87,
+                "6": 1,
+                "7": 11,
+                "8": 1,
+                "9": 80
+            }
+        },
+        "school_name": "HALİM FOÇALI MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1039,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/8610_bulk_999999999_1684089297007590124.jpg",
+            "submission_id": 390833,
+            "total_vote": 307,
+            "votes": {
+                "1": 36,
+                "2": 1,
+                "3": 266,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/8610_bulk_999999999_1684089403460059014.jpg",
+            "submission_id": 393534,
+            "total_vote": 307,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 4,
+                "12": 4,
+                "13": 17,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 218,
+                "22": 29,
+                "23": 0,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 1,
+                "8": 0,
+                "9": 31
+            }
+        },
+        "school_name": "HALİM FOÇALI MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    }
+]

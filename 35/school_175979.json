@@ -1,0 +1,32 @@
+[
+    {
+        "ballot_box_number": 1252,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23926_mv_1083861946_1684079455606252851.jpg",
+            "submission_id": 177068,
+            "total_vote": 70,
+            "votes": {
+                "1": 46,
+                "3": 22,
+                "4": 2
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23926_cb_1093861946_1684079440289868089.jpg",
+            "submission_id": 177017,
+            "total_vote": 67,
+            "votes": {
+                "10": 1,
+                "11": 2,
+                "12": 6,
+                "21": 10,
+                "22": 6,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 38
+            }
+        },
+        "school_name": "KONAK ÖZEL EĞİTİM MESLEK OKULU"
+    }
+]

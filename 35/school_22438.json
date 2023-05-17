@@ -1,0 +1,122 @@
+[
+    {
+        "ballot_box_number": 1178,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/16f34610-ba76-4466-ab05-8492c91e15f5-1684106453211156815.jpg",
+            "submission_id": 790366,
+            "total_vote": 256,
+            "votes": {
+                "1": 110,
+                "2": 2,
+                "3": 119,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/71c592ac-a0c4-41b6-88d4-60d047d32be9-1684106463246575832.jpg",
+            "submission_id": 791781,
+            "total_vote": 250,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 17,
+                "12": 2,
+                "13": 16,
+                "14": 1,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 2,
+                "21": 66,
+                "22": 32,
+                "23": 1,
+                "24": 10,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 8,
+                "8": 4,
+                "9": 81
+            }
+        },
+        "school_name": "HAYKIRAN ADEM SAATÇİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1176,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/803e3d65-39b8-4e33-a415-22e6aace583a-1684106524531379603.jpg",
+            "submission_id": 800883,
+            "total_vote": 233,
+            "votes": {
+                "1": 133,
+                "2": 2,
+                "3": 93,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c3d24a8c-aba6-4b66-99a5-9dd82cdbc095-1684106510399715251.jpg",
+            "submission_id": 798997,
+            "total_vote": 219,
+            "votes": {
+                "1": 1,
+                "11": 15,
+                "12": 1,
+                "13": 5,
+                "15": 1,
+                "19": 1,
+                "2": 3,
+                "20": 2,
+                "21": 47,
+                "22": 33,
+                "23": 2,
+                "24": 1,
+                "6": 1,
+                "7": 2,
+                "8": 2,
+                "9": 102
+            }
+        },
+        "school_name": "HAYKIRAN ADEM SAATÇİ ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1177,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d41651b9-27ee-4c48-afa8-c5282175287d-1684106480741798825.jpg",
+            "submission_id": 794420,
+            "total_vote": 245,
+            "votes": {
+                "1": 1,
+                "10": 5,
+                "11": 21,
+                "12": 0,
+                "13": 5,
+                "14": 1,
+                "15": 1,
+                "16": 1,
+                "17": 1,
+                "18": 1,
+                "19": 0,
+                "2": 1,
+                "20": 0,
+                "21": 51,
+                "22": 23,
+                "23": 2,
+                "24": 14,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 11,
+                "8": 1,
+                "9": 103
+            }
+        },
+        "school_name": "HAYKIRAN ADEM SAATÇİ ORTAOKULU"
+    }
+]

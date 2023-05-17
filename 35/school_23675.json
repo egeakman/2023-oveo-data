@@ -1,0 +1,369 @@
+[
+    {
+        "ballot_box_number": 1036,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/45346_cb_1093571679_1684086140772021323.jpg",
+            "submission_id": 289459,
+            "total_vote": 351,
+            "votes": {
+                "1": 95,
+                "2": 1,
+                "3": 236,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/45346_mv_1083571679_1684086165096523015.jpg",
+            "submission_id": 290305,
+            "total_vote": 350,
+            "votes": {
+                "10": 2,
+                "11": 12,
+                "12": 17,
+                "21": 176,
+                "22": 49,
+                "23": 1,
+                "24": 8,
+                "7": 6,
+                "9": 79
+            }
+        },
+        "school_name": "KİPA 10.YIL ANADOLU LİSESİ A BLOK"
+    },
+    {
+        "ballot_box_number": 1027,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10073_cb_1093570190_1684085230460693217.jpg",
+            "submission_id": 260725,
+            "total_vote": 313,
+            "votes": {
+                "1": 78,
+                "3": 223,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "KİPA 10.YIL ANADOLU LİSESİ A BLOK"
+    },
+    {
+        "ballot_box_number": 1033,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/45346_cb_1093571676_1684086705971229695.jpg",
+            "submission_id": 308728,
+            "total_vote": 346,
+            "votes": {
+                "1": 80,
+                "2": 1,
+                "3": 251,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/45346_mv_1083571676_1684086735381845747.jpg",
+            "submission_id": 309788,
+            "total_vote": 345,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 16,
+                "12": 12,
+                "16": 1,
+                "20": 1,
+                "21": 181,
+                "22": 50,
+                "23": 1,
+                "24": 6,
+                "3": 1,
+                "6": 2,
+                "7": 8,
+                "8": 3,
+                "9": 61
+            }
+        },
+        "school_name": "KİPA 10.YIL ANADOLU LİSESİ A BLOK"
+    },
+    {
+        "ballot_box_number": 1034,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/45346_cb_1093571677_1684086677263317598.jpg",
+            "submission_id": 307673,
+            "total_vote": 355,
+            "votes": {
+                "1": 104,
+                "2": 1,
+                "3": 233,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/45346_mv_1083571677_1684086655526447403.jpg",
+            "submission_id": 306928,
+            "total_vote": 350,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 19,
+                "12": 14,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 165,
+                "22": 53,
+                "23": 3,
+                "24": 7,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 79
+            }
+        },
+        "school_name": "KİPA 10.YIL ANADOLU LİSESİ A BLOK"
+    },
+    {
+        "ballot_box_number": 1030,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/45346_cb_1093570193_1684089160557711930.jpg",
+            "submission_id": 387011,
+            "total_vote": 346,
+            "votes": {
+                "1": 101,
+                "2": 0,
+                "3": 226,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/45346_mv_1083570193_1684089179592849049.jpg",
+            "submission_id": 387543,
+            "total_vote": 345,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 6,
+                "12": 2,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 159,
+                "22": 64,
+                "23": 3,
+                "24": 11,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 1,
+                "9": 89
+            }
+        },
+        "school_name": "KİPA 10.YIL ANADOLU LİSESİ A BLOK"
+    },
+    {
+        "ballot_box_number": 1032,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/54746_cb_1093571675_1684087128861153053.jpg",
+            "submission_id": 323547,
+            "total_vote": 342,
+            "votes": {
+                "1": 80,
+                "2": 2,
+                "3": 236,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/54746_mv_1083571675_1684085861395220436.jpg",
+            "submission_id": 280522,
+            "total_vote": 340,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 16,
+                "12": 21,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 2,
+                "21": 164,
+                "22": 45,
+                "23": 2,
+                "24": 19,
+                "3": 0,
+                "4": 2,
+                "5": 0,
+                "6": 1,
+                "7": 9,
+                "8": 0,
+                "9": 56
+            }
+        },
+        "school_name": "KİPA 10.YIL ANADOLU LİSESİ A BLOK"
+    },
+    {
+        "ballot_box_number": 1029,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/45346_cb_1093570192_1684088551134765555.jpg",
+            "submission_id": 369098,
+            "total_vote": 353,
+            "votes": {
+                "1": 83,
+                "2": 2,
+                "3": 253,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10073_mv_1083570192_1684090932484420715.jpg",
+            "submission_id": 430503,
+            "total_vote": 344,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 7,
+                "12": 11,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 165,
+                "22": 76,
+                "23": 0,
+                "24": 7,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 0,
+                "8": 1,
+                "9": 72
+            }
+        },
+        "school_name": "KİPA 10.YIL ANADOLU LİSESİ A BLOK"
+    },
+    {
+        "ballot_box_number": 1031,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/54746_cb_1093570194_1684085772762900303.jpg",
+            "submission_id": 277499,
+            "total_vote": 359,
+            "votes": {
+                "1": 100,
+                "2": 1,
+                "3": 238,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/54746_mv_1083570194_1684085810820754552.jpg",
+            "submission_id": 278790,
+            "total_vote": 356,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 26,
+                "12": 5,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 165,
+                "22": 62,
+                "23": 0,
+                "24": 12,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 6,
+                "8": 0,
+                "9": 71
+            }
+        },
+        "school_name": "KİPA 10.YIL ANADOLU LİSESİ A BLOK"
+    },
+    {
+        "ballot_box_number": 1028,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10073_cb_1093570191_1684090795885040385.jpg",
+            "submission_id": 427590,
+            "total_vote": 359,
+            "votes": {
+                "1": 90,
+                "3": 243,
+                "4": 26
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/10073_mv_1083570191_1684091242522050552.jpg",
+            "submission_id": 436657,
+            "total_vote": 353,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 13,
+                "12": 19,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 3,
+                "2": 0,
+                "20": 2,
+                "21": 151,
+                "22": 62,
+                "23": 0,
+                "24": 16,
+                "3": 4,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 0,
+                "8": 1,
+                "9": 75
+            }
+        },
+        "school_name": "KİPA 10.YIL ANADOLU LİSESİ A BLOK"
+    },
+    {
+        "ballot_box_number": 1035,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/45346_cb_1093571678_1684092521640520384.jpg",
+            "submission_id": 457606,
+            "total_vote": 350,
+            "votes": {
+                "1": 84,
+                "3": 235,
+                "4": 31
+            }
+        },
+        "mv_result": null,
+        "school_name": "KİPA 10.YIL ANADOLU LİSESİ A BLOK"
+    }
+]

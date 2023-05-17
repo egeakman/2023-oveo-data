@@ -1,0 +1,471 @@
+[
+    {
+        "ballot_box_number": 2066,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/27150_bulk_999999999_1684080781007477970.jpeg",
+            "submission_id": 183745,
+            "total_vote": 329,
+            "votes": {
+                "1": 49,
+                "2": 1,
+                "3": 268,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16390_mv_1083864430_1684093265582515970.jpg",
+            "submission_id": 467732,
+            "total_vote": 329,
+            "votes": {
+                "10": 1,
+                "11": 2,
+                "12": 15,
+                "13": 41,
+                "19": 1,
+                "21": 163,
+                "22": 49,
+                "23": 1,
+                "24": 5,
+                "3": 1,
+                "5": 2,
+                "7": 8,
+                "8": 1,
+                "9": 39
+            }
+        },
+        "school_name": "FAİK MUHİTTİN ADAM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2057,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16393_cb_1093864421_1684085427176634514.jpg",
+            "submission_id": 266474,
+            "total_vote": 338,
+            "votes": {
+                "1": 39,
+                "2": 0,
+                "3": 290,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16393_mv_1083864421_1684085662680940419.jpg",
+            "submission_id": 273786,
+            "total_vote": 331,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 0,
+                "12": 14,
+                "13": 28,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 5,
+                "2": 0,
+                "20": 0,
+                "21": 174,
+                "22": 65,
+                "23": 1,
+                "24": 0,
+                "3": 1,
+                "4": 0,
+                "5": 9,
+                "6": 6,
+                "7": 2,
+                "8": 0,
+                "9": 24
+            }
+        },
+        "school_name": "FAİK MUHİTTİN ADAM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2061,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16391_cb_1093864425_1684086187363662359.jpg",
+            "submission_id": 291002,
+            "total_vote": 340,
+            "votes": {
+                "1": 56,
+                "2": 3,
+                "3": 271,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16391_mv_1083864425_1684087061490923006.jpg",
+            "submission_id": 321127,
+            "total_vote": 337,
+            "votes": {
+                "10": 4,
+                "11": 11,
+                "12": 12,
+                "13": 29,
+                "15": 1,
+                "19": 1,
+                "21": 179,
+                "22": 42,
+                "23": 2,
+                "24": 4,
+                "3": 2,
+                "7": 8,
+                "9": 42
+            }
+        },
+        "school_name": "FAİK MUHİTTİN ADAM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2059,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/27150_cb_1093864423_1684084047598876958.jpg",
+            "submission_id": 229151,
+            "total_vote": 323,
+            "votes": {
+                "1": 42,
+                "2": 0,
+                "3": 261,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/27150_mv_1083864423_1684083736179865226.jpg",
+            "submission_id": 222620,
+            "total_vote": 318,
+            "votes": {
+                "11": 7,
+                "12": 8,
+                "13": 26,
+                "21": 175,
+                "22": 50,
+                "24": 13,
+                "7": 5,
+                "8": 1,
+                "9": 33
+            }
+        },
+        "school_name": "FAİK MUHİTTİN ADAM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2056,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16393_cb_1093864420_1684085796558763036.jpg",
+            "submission_id": 278283,
+            "total_vote": 334,
+            "votes": {
+                "1": 40,
+                "2": 1,
+                "3": 269,
+                "4": 24
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16393_mv_1083864420_1684086824360759595.jpg",
+            "submission_id": 312920,
+            "total_vote": 331,
+            "votes": {
+                "10": 2,
+                "11": 11,
+                "12": 12,
+                "13": 27,
+                "14": 1,
+                "15": 1,
+                "19": 1,
+                "21": 183,
+                "22": 47,
+                "24": 9,
+                "3": 1,
+                "6": 3,
+                "7": 1,
+                "9": 32
+            }
+        },
+        "school_name": "FAİK MUHİTTİN ADAM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2055,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/27150_cb_1093864419_1684084662169604292.jpg",
+            "submission_id": 244855,
+            "total_vote": 342,
+            "votes": {
+                "1": 54,
+                "2": 0,
+                "3": 278,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16390_mv_1083864419_1684093509373091134.jpg",
+            "submission_id": 470717,
+            "total_vote": 336,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 0,
+                "12": 0,
+                "13": 23,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 185,
+                "22": 44,
+                "23": 1,
+                "24": 5,
+                "3": 1,
+                "4": 10,
+                "5": 1,
+                "6": 2,
+                "7": 3,
+                "9": 60
+            }
+        },
+        "school_name": "FAİK MUHİTTİN ADAM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2063,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/27150_cb_1093864427_1684079925954078022.jpg",
+            "submission_id": 178955,
+            "total_vote": 339,
+            "votes": {
+                "1": 49,
+                "3": 282,
+                "4": 8
+            }
+        },
+        "mv_result": null,
+        "school_name": "FAİK MUHİTTİN ADAM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2053,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16390_cb_1093864417_1684092785393717208.jpg",
+            "submission_id": 461044,
+            "total_vote": 304,
+            "votes": {
+                "1": 54,
+                "2": 2,
+                "3": 244,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16390_mv_1083864417_1684092897062244457.jpg",
+            "submission_id": 462626,
+            "total_vote": 291,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 9,
+                "12": 3,
+                "13": 20,
+                "14": 0,
+                "15": 3,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 166,
+                "22": 41,
+                "23": 0,
+                "24": 1,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 6,
+                "8": 0,
+                "9": 40
+            }
+        },
+        "school_name": "FAİK MUHİTTİN ADAM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2060,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16391_cb_1093864424_1684083866832249842.jpg",
+            "submission_id": 225435,
+            "total_vote": 336,
+            "votes": {
+                "1": 53,
+                "3": 265,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16391_mv_1083864424_1684086233266958678.jpg",
+            "submission_id": 292502,
+            "total_vote": 328,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 6,
+                "12": 9,
+                "13": 42,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 172,
+                "22": 40,
+                "23": 0,
+                "24": 11,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 4,
+                "8": 2,
+                "9": 40
+            }
+        },
+        "school_name": "FAİK MUHİTTİN ADAM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2065,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16390_cb_1093864429_1684094253029586379.jpg",
+            "submission_id": 489781,
+            "total_vote": 334,
+            "votes": {
+                "1": 66,
+                "3": 255,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "FAİK MUHİTTİN ADAM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2064,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16392_cb_1093864428_1684087105412220634.jpg",
+            "submission_id": 322733,
+            "total_vote": 341,
+            "votes": {
+                "1": 52,
+                "2": 3,
+                "3": 277,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16392_cb_1093864428_1684086985362484581.jpg",
+            "submission_id": 318415,
+            "total_vote": 331,
+            "votes": {
+                "10": 2,
+                "11": 9,
+                "12": 11,
+                "13": 42,
+                "19": 1,
+                "21": 168,
+                "22": 50,
+                "24": 3,
+                "7": 6,
+                "9": 39
+            }
+        },
+        "school_name": "FAİK MUHİTTİN ADAM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2062,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/39389_bulk_999999999_1684092510482602631.jpeg",
+            "submission_id": 457446,
+            "total_vote": 340,
+            "votes": {
+                "1": 37,
+                "2": 2,
+                "3": 286,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "FAİK MUHİTTİN ADAM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2054,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16390_cb_1093864418_1684092851501113539.jpg",
+            "submission_id": 461955,
+            "total_vote": 321,
+            "votes": {
+                "1": 50,
+                "2": 1,
+                "3": 263,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16390_mv_1083864418_1684092928460397284.jpg",
+            "submission_id": 462969,
+            "total_vote": 309,
+            "votes": {
+                "11": 7,
+                "12": 8,
+                "13": 18,
+                "14": 1,
+                "15": 2,
+                "19": 3,
+                "21": 191,
+                "22": 37,
+                "23": 1,
+                "24": 2,
+                "3": 1,
+                "6": 2,
+                "7": 2,
+                "9": 34
+            }
+        },
+        "school_name": "FAİK MUHİTTİN ADAM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2058,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/27150_cb_1093864422_1684078876501546693.jpg",
+            "submission_id": 175374,
+            "total_vote": 336,
+            "votes": {
+                "1": 56,
+                "2": 3,
+                "3": 262,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/27150_mv_1083864422_1684085940997513647.jpg",
+            "submission_id": 283113,
+            "total_vote": 331,
+            "votes": {
+                "11": 10,
+                "12": 12,
+                "13": 35,
+                "17": 1,
+                "21": 176,
+                "22": 36,
+                "24": 6,
+                "3": 1,
+                "5": 1,
+                "6": 1,
+                "7": 8,
+                "8": 1,
+                "9": 43
+            }
+        },
+        "school_name": "FAİK MUHİTTİN ADAM İLKOKULU"
+    }
+]

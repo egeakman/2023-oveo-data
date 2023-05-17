@@ -1,0 +1,832 @@
+[
+    {
+        "ballot_box_number": 2325,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/21645_bulk_999999999_1684091235840809627.jpeg",
+            "submission_id": 436554,
+            "total_vote": 349,
+            "votes": {
+                "1": 41,
+                "2": 0,
+                "3": 298,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/2a045ba4-ff16-4e02-990b-cc99887af99a-1684105349912925727.jpeg",
+            "submission_id": 622949,
+            "total_vote": 348,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 7,
+                "12": 10,
+                "13": 35,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 205,
+                "22": 50,
+                "23": 0,
+                "24": 2,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 4,
+                "8": 0,
+                "9": 34
+            }
+        },
+        "school_name": "MEHMET SENİYE ÖZBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2326,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16453_cb_1093864906_1684087052353829934.jpg",
+            "submission_id": 320790,
+            "total_vote": 345,
+            "votes": {
+                "1": 41,
+                "3": 292,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16453_mv_1083864906_1684088848585769454.jpg",
+            "submission_id": 378046,
+            "total_vote": 344,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 6,
+                "12": 14,
+                "13": 52,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 185,
+                "22": 39,
+                "23": 0,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 2,
+                "6": 0,
+                "7": 4,
+                "8": 0,
+                "9": 35
+            }
+        },
+        "school_name": "MEHMET SENİYE ÖZBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2309,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48519_cb_1093864869_1684087799104965046.jpg",
+            "submission_id": 345549,
+            "total_vote": 321,
+            "votes": {
+                "1": 60,
+                "2": 1,
+                "3": 252,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48519_mv_1083864869_1684087997947012541.jpg",
+            "submission_id": 351886,
+            "total_vote": 320,
+            "votes": {
+                "10": 3,
+                "11": 7,
+                "12": 10,
+                "13": 15,
+                "19": 2,
+                "21": 192,
+                "22": 33,
+                "23": 2,
+                "24": 3,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "9": 49
+            }
+        },
+        "school_name": "MEHMET SENİYE ÖZBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2317,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20228_mv_1083864897_1684088287334244195.jpg",
+            "submission_id": 360909,
+            "total_vote": 334,
+            "votes": {
+                "1": 44,
+                "2": 0,
+                "3": 278,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20228_cb_1093864897_1684088243023592577.jpg",
+            "submission_id": 359562,
+            "total_vote": 331,
+            "votes": {
+                "10": 3,
+                "11": 5,
+                "12": 8,
+                "13": 33,
+                "20": 1,
+                "21": 173,
+                "22": 54,
+                "24": 9,
+                "3": 4,
+                "4": 1,
+                "7": 8,
+                "9": 32
+            }
+        },
+        "school_name": "MEHMET SENİYE ÖZBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2320,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/14386_cb_1093864900_1684089707366774352.jpg",
+            "submission_id": 401928,
+            "total_vote": 348,
+            "votes": {
+                "1": 45,
+                "2": 0,
+                "3": 289,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "MEHMET SENİYE ÖZBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2323,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41950_cb_1093864903_1684087506031465910.jpg",
+            "submission_id": 336123,
+            "total_vote": 342,
+            "votes": {
+                "1": 38,
+                "2": 1,
+                "3": 291,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41950_mv_1083864903_1684087297509468241.jpg",
+            "submission_id": 329290,
+            "total_vote": 342,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 2,
+                "12": 7,
+                "13": 40,
+                "14": 6,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 213,
+                "22": 31,
+                "23": 0,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 4,
+                "7": 1,
+                "8": 0,
+                "9": 32
+            }
+        },
+        "school_name": "MEHMET SENİYE ÖZBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2311,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/54142_cb_1093864871_1684085588833233875.jpg",
+            "submission_id": 271385,
+            "total_vote": 348,
+            "votes": {
+                "1": 49,
+                "2": 1,
+                "3": 289,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/54142_mv_1083864871_1684085751649206587.jpg",
+            "submission_id": 276728,
+            "total_vote": 287,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 0,
+                "12": 10,
+                "13": 46,
+                "14": 1,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 1,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 184,
+                "22": 5,
+                "23": 0,
+                "24": 0,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 1,
+                "9": 34
+            }
+        },
+        "school_name": "MEHMET SENİYE ÖZBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2307,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20229_cb_1093864867_1684083239360032164.jpg",
+            "submission_id": 212864,
+            "total_vote": 313,
+            "votes": {
+                "1": 45,
+                "2": 0,
+                "3": 259,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20229_mv_1083864867_1684083186532171958.jpg",
+            "submission_id": 211907,
+            "total_vote": 305,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 8,
+                "12": 5,
+                "13": 15,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 205,
+                "22": 29,
+                "23": 0,
+                "24": 1,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 0,
+                "9": 34
+            }
+        },
+        "school_name": "MEHMET SENİYE ÖZBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2319,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/14386_cb_1093864899_1684087230262961273.jpg",
+            "submission_id": 327044,
+            "total_vote": 338,
+            "votes": {
+                "1": 24,
+                "2": 2,
+                "3": 309,
+                "4": 3
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/14386_mv_1083864899_1684089748819715587.jpg",
+            "submission_id": 403068,
+            "total_vote": 332,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 0,
+                "12": 17,
+                "13": 48,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 195,
+                "22": 45,
+                "23": 0,
+                "24": 3,
+                "3": 1,
+                "4": 0,
+                "5": 2,
+                "6": 1,
+                "7": 7,
+                "8": 0,
+                "9": 13
+            }
+        },
+        "school_name": "MEHMET SENİYE ÖZBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2308,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21428_cb_1093864868_1684080734711849137.jpg",
+            "submission_id": 183447,
+            "total_vote": 322,
+            "votes": {
+                "1": 33,
+                "3": 284,
+                "4": 5
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21428_mv_1083864868_1684087916075394219.jpg",
+            "submission_id": 349214,
+            "total_vote": 319,
+            "votes": {
+                "10": 1,
+                "11": 4,
+                "12": 4,
+                "13": 8,
+                "14": 1,
+                "15": 2,
+                "20": 1,
+                "21": 232,
+                "22": 32,
+                "23": 1,
+                "24": 4,
+                "7": 1,
+                "9": 28
+            }
+        },
+        "school_name": "MEHMET SENİYE ÖZBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2328,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21645_cb_1093864908_1684081078542898481.jpg",
+            "submission_id": 185903,
+            "total_vote": 347,
+            "votes": {
+                "1": 45,
+                "2": 1,
+                "3": 290,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20244_mv_1083864908_1684085175754847384.jpg",
+            "submission_id": 259139,
+            "total_vote": 347,
+            "votes": {
+                "10": 1,
+                "11": 10,
+                "12": 16,
+                "13": 36,
+                "21": 205,
+                "22": 33,
+                "24": 6,
+                "7": 10,
+                "9": 30
+            }
+        },
+        "school_name": "MEHMET SENİYE ÖZBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2321,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20233_cb_1093864901_1684084899413309637.jpg",
+            "submission_id": 251258,
+            "total_vote": 338,
+            "votes": {
+                "1": 62,
+                "2": 0,
+                "3": 261,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20233_mv_1083864901_1684094794396327639.jpg",
+            "submission_id": 496238,
+            "total_vote": 332,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 9,
+                "12": 6,
+                "13": 41,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 178,
+                "22": 35,
+                "23": 0,
+                "24": 4,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 3,
+                "8": 3,
+                "9": 47
+            }
+        },
+        "school_name": "MEHMET SENİYE ÖZBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2322,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16452_cb_1093864902_1684085516233257721.jpg",
+            "submission_id": 269116,
+            "total_vote": 348,
+            "votes": {
+                "1": 51,
+                "2": 0,
+                "3": 275,
+                "4": 22
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/4e87c91c-8bc0-4fa3-9825-8e916c794a30-1684105133917147729.jpeg",
+            "submission_id": 579855,
+            "total_vote": 341,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 8,
+                "12": 10,
+                "13": 28,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 195,
+                "22": 39,
+                "23": 0,
+                "24": 11,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 6,
+                "8": 0,
+                "9": 39
+            }
+        },
+        "school_name": "MEHMET SENİYE ÖZBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2310,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48519_cb_1093864870_1684085921104174625.jpg",
+            "submission_id": 282490,
+            "total_vote": 319,
+            "votes": {
+                "1": 51,
+                "2": 0,
+                "3": 254,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/48519_mv_1083864870_1684085953273651072.jpg",
+            "submission_id": 283509,
+            "total_vote": 312,
+            "votes": {
+                "10": 2,
+                "11": 14,
+                "12": 6,
+                "13": 19,
+                "19": 4,
+                "20": 1,
+                "21": 194,
+                "22": 28,
+                "23": 1,
+                "24": 3,
+                "3": 5,
+                "7": 2,
+                "8": 1,
+                "9": 32
+            }
+        },
+        "school_name": "MEHMET SENİYE ÖZBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2316,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/54142_cb_1093864896_1684082560487490673.jpg",
+            "submission_id": 201787,
+            "total_vote": 340,
+            "votes": {
+                "1": 46,
+                "2": 1,
+                "3": 287,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/54142_mv_1083864896_1684082798895018669.jpg",
+            "submission_id": 205417,
+            "total_vote": 341,
+            "votes": {
+                "1": 0,
+                "10": 2,
+                "11": 7,
+                "12": 14,
+                "13": 34,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 196,
+                "22": 43,
+                "23": 0,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 3,
+                "8": 0,
+                "9": 34
+            }
+        },
+        "school_name": "MEHMET SENİYE ÖZBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2315,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/17965_cb_1093864895_1684084790170974826.jpg",
+            "submission_id": 248261,
+            "total_vote": 339,
+            "votes": {
+                "1": 35,
+                "3": 290,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21645_mv_1083864895_1684089712305458570.jpg",
+            "submission_id": 402080,
+            "total_vote": 336,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 4,
+                "12": 8,
+                "13": 37,
+                "14": 0,
+                "15": 0,
+                "16": 1,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 205,
+                "22": 37,
+                "23": 1,
+                "24": 10,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 0,
+                "9": 30
+            }
+        },
+        "school_name": "MEHMET SENİYE ÖZBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2327,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20244_cb_1093864907_1684080886632306087.jpg",
+            "submission_id": 184479,
+            "total_vote": 354,
+            "votes": {
+                "1": 68,
+                "2": 0,
+                "3": 269,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "MEHMET SENİYE ÖZBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2324,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41950_cb_1093864904_1684087457316694694.jpg",
+            "submission_id": 334504,
+            "total_vote": 344,
+            "votes": {
+                "1": 35,
+                "2": 1,
+                "3": 291,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41950_mv_1083864904_1684087208897080845.jpg",
+            "submission_id": 326380,
+            "total_vote": 341,
+            "votes": {
+                "11": 3,
+                "12": 9,
+                "13": 38,
+                "15": 1,
+                "16": 1,
+                "21": 205,
+                "22": 34,
+                "24": 10,
+                "3": 3,
+                "7": 6,
+                "9": 31
+            }
+        },
+        "school_name": "MEHMET SENİYE ÖZBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2314,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/f29a4631-fc1f-443e-8f84-28ad06c411ab-1684106247435337028.jpg",
+            "submission_id": 760875,
+            "total_vote": 350,
+            "votes": {
+                "1": 45,
+                "2": 1,
+                "3": 298,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d066e613-260c-423b-90b2-c08c38ca4304-1684106224784493289.jpg",
+            "submission_id": 757509,
+            "total_vote": 346,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 5,
+                "12": 0,
+                "13": 31,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 206,
+                "22": 51,
+                "23": 2,
+                "24": 3,
+                "3": 5,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 0,
+                "9": 35
+            }
+        },
+        "school_name": "MEHMET SENİYE ÖZBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2313,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/54142_cb_1093864873_1684085818977697898.jpg",
+            "submission_id": 279067,
+            "total_vote": 353,
+            "votes": {
+                "1": 37,
+                "2": 2,
+                "3": 299,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "MEHMET SENİYE ÖZBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2312,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21645_cb_1093864872_1684089456046810177.jpg",
+            "submission_id": 395018,
+            "total_vote": 348,
+            "votes": {
+                "1": 41,
+                "2": 1,
+                "3": 297,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/21645_mv_1083864872_1684089405202048659.jpg",
+            "submission_id": 393575,
+            "total_vote": 345,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 5,
+                "12": 13,
+                "13": 32,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 201,
+                "22": 52,
+                "23": 0,
+                "24": 8,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 1,
+                "8": 0,
+                "9": 27
+            }
+        },
+        "school_name": "MEHMET SENİYE ÖZBEY İLKOKULU"
+    },
+    {
+        "ballot_box_number": 2318,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20228_mv_1083864897_1684085783868029164.jpg",
+            "submission_id": 277887,
+            "total_vote": 346,
+            "votes": {
+                "1": 52,
+                "3": 286,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20228_cb_1093864897_1684085746524179478.jpg",
+            "submission_id": 276558,
+            "total_vote": 343,
+            "votes": {
+                "11": 9,
+                "12": 12,
+                "13": 34,
+                "21": 185,
+                "22": 54,
+                "24": 5,
+                "7": 2,
+                "9": 42
+            }
+        },
+        "school_name": "MEHMET SENİYE ÖZBEY İLKOKULU"
+    }
+]

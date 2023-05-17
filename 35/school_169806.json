@@ -1,0 +1,517 @@
+[
+    {
+        "ballot_box_number": 2379,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/50117_bulk_999999999_1684088244932635418.jpg",
+            "submission_id": 359621,
+            "total_vote": 302,
+            "votes": {
+                "1": 143,
+                "2": 1,
+                "3": 144,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/50117_mv_1083801273_1684089056744809691.jpg",
+            "submission_id": 384118,
+            "total_vote": 294,
+            "votes": {
+                "10": 2,
+                "11": 23,
+                "12": 41,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 1,
+                "20": 0,
+                "21": 72,
+                "22": 24,
+                "23": 1,
+                "24": 10,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 1,
+                "8": 2,
+                "9": 111
+            }
+        },
+        "school_name": "NAZİRE MERZECİ İLKOKULU A-B BLOK"
+    },
+    {
+        "ballot_box_number": 2384,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25629_cb_1093801478_1684087463890467569.jpg",
+            "submission_id": 334728,
+            "total_vote": 323,
+            "votes": {
+                "1": 115,
+                "2": 1,
+                "3": 184,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25629_mv_1083801478_1684087412071326159.jpg",
+            "submission_id": 333090,
+            "total_vote": 325,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 17,
+                "12": 61,
+                "14": 1,
+                "15": 0,
+                "16": 1,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 2,
+                "20": 0,
+                "21": 86,
+                "22": 32,
+                "23": 2,
+                "24": 5,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 3,
+                "8": 1,
+                "9": 106
+            }
+        },
+        "school_name": "NAZİRE MERZECİ İLKOKULU A-B BLOK"
+    },
+    {
+        "ballot_box_number": 2377,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/58198_cb_1093801271_1684080600815000655.jpg",
+            "submission_id": 182612,
+            "total_vote": 290,
+            "votes": {
+                "1": 137,
+                "2": 1,
+                "3": 138,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/58198_mv_1083801271_1684086964656236318.jpg",
+            "submission_id": 317733,
+            "total_vote": 278,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 21,
+                "12": 25,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 74,
+                "22": 29,
+                "23": 1,
+                "24": 5,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 2,
+                "7": 4,
+                "8": 2,
+                "9": 106
+            }
+        },
+        "school_name": "NAZİRE MERZECİ İLKOKULU A-B BLOK"
+    },
+    {
+        "ballot_box_number": 2378,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25629_cb_1093801272_1684083451213054022.jpg",
+            "submission_id": 216851,
+            "total_vote": 296,
+            "votes": {
+                "1": 127,
+                "2": 1,
+                "3": 156,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/50117_mv_1083801272_1684089142509216552.jpg",
+            "submission_id": 386445,
+            "total_vote": 299,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 13,
+                "12": 38,
+                "14": 4,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 93,
+                "22": 0,
+                "23": 28,
+                "24": 0,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 7,
+                "9": 109
+            }
+        },
+        "school_name": "NAZİRE MERZECİ İLKOKULU A-B BLOK"
+    },
+    {
+        "ballot_box_number": 2380,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/51148_cb_1093801274_1684088339509795539.jpg",
+            "submission_id": 362496,
+            "total_vote": 308,
+            "votes": {
+                "1": 128,
+                "2": 2,
+                "3": 155,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/50117_bulk_999999999_1684089021751828888.jpg",
+            "submission_id": 383172,
+            "total_vote": 304,
+            "votes": {
+                "10": 3,
+                "11": 10,
+                "12": 35,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 98,
+                "22": 14,
+                "23": 0,
+                "24": 11,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 3,
+                "7": 9,
+                "8": 3,
+                "9": 113
+            }
+        },
+        "school_name": "NAZİRE MERZECİ İLKOKULU A-B BLOK"
+    },
+    {
+        "ballot_box_number": 2387,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25629_mv_1083801481_1684087014112775189.jpg",
+            "submission_id": 319453,
+            "total_vote": 300,
+            "votes": {
+                "1": 145,
+                "2": 4,
+                "3": 130,
+                "4": 21
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/51148_mv_1083801481_1684089532583332952.jpg",
+            "submission_id": 397153,
+            "total_vote": 294,
+            "votes": {
+                "1": 0,
+                "10": 8,
+                "11": 17,
+                "12": 50,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 68,
+                "22": 14,
+                "23": 0,
+                "24": 14,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 2,
+                "7": 5,
+                "8": 0,
+                "9": 114
+            }
+        },
+        "school_name": "NAZİRE MERZECİ İLKOKULU A-B BLOK"
+    },
+    {
+        "ballot_box_number": 2381,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/51148_cb_1093801475_1684086881956296916.jpg",
+            "submission_id": 314872,
+            "total_vote": 324,
+            "votes": {
+                "1": 161,
+                "2": 2,
+                "3": 144,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/51148_mv_1083801475_1684087194898348830.jpg",
+            "submission_id": 325841,
+            "total_vote": 316,
+            "votes": {
+                "10": 2,
+                "11": 17,
+                "12": 38,
+                "14": 1,
+                "21": 67,
+                "22": 33,
+                "23": 1,
+                "24": 5,
+                "5": 2,
+                "6": 3,
+                "7": 2,
+                "8": 1,
+                "9": 144
+            }
+        },
+        "school_name": "NAZİRE MERZECİ İLKOKULU A-B BLOK"
+    },
+    {
+        "ballot_box_number": 2386,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25629_cb_1093801480_1684083349525200603.jpg",
+            "submission_id": 214852,
+            "total_vote": 326,
+            "votes": {
+                "1": 148,
+                "2": 0,
+                "3": 163,
+                "4": 15
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/50117_mv_1083801480_1684089528426971037.jpg",
+            "submission_id": 397037,
+            "total_vote": 322,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 25,
+                "12": 47,
+                "14": 0,
+                "15": 1,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 86,
+                "22": 23,
+                "23": 0,
+                "24": 4,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 2,
+                "8": 5,
+                "9": 120
+            }
+        },
+        "school_name": "NAZİRE MERZECİ İLKOKULU A-B BLOK"
+    },
+    {
+        "ballot_box_number": 2382,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/51148_cb_1093801476_1684091007599814044.jpg",
+            "submission_id": 432079,
+            "total_vote": 314,
+            "votes": {
+                "1": 141,
+                "2": 1,
+                "3": 154,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/51148_bulk_999999999_1684091034558647617.jpeg",
+            "submission_id": 432589,
+            "total_vote": 312,
+            "votes": {
+                "1": 1,
+                "10": 7,
+                "11": 19,
+                "12": 25,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 1,
+                "20": 0,
+                "21": 97,
+                "22": 28,
+                "23": 0,
+                "24": 9,
+                "3": 2,
+                "4": 0,
+                "5": 3,
+                "6": 1,
+                "7": 2,
+                "8": 0,
+                "9": 115
+            }
+        },
+        "school_name": "NAZİRE MERZECİ İLKOKULU A-B BLOK"
+    },
+    {
+        "ballot_box_number": 2385,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e9f9fc67-2d21-4666-98c1-11fe273a725f-1684105272041833924.jpg",
+            "submission_id": 608871,
+            "total_vote": 311,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 14,
+                "12": 45,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "2": 0,
+                "21": 87,
+                "22": 23,
+                "23": 1,
+                "24": 15,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 1,
+                "8": 2,
+                "9": 115
+            }
+        },
+        "school_name": "NAZİRE MERZECİ İLKOKULU A-B BLOK"
+    },
+    {
+        "ballot_box_number": 2388,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25629_cb_1093801482_1684085358795195241.jpg",
+            "submission_id": 264434,
+            "total_vote": 311,
+            "votes": {
+                "1": 150,
+                "2": 2,
+                "3": 144,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "NAZİRE MERZECİ İLKOKULU A-B BLOK"
+    },
+    {
+        "ballot_box_number": 2389,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25629_cb_1093801483_1684083076875791458.jpg",
+            "submission_id": 210011,
+            "total_vote": 319,
+            "votes": {
+                "1": 125,
+                "2": 3,
+                "3": 166,
+                "4": 25
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/25629_mv_1083801483_1684083175138710074.jpg",
+            "submission_id": 211693,
+            "total_vote": 312,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 21,
+                "12": 41,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 1,
+                "21": 98,
+                "22": 27,
+                "23": 1,
+                "24": 6,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 8,
+                "8": 1,
+                "9": 100
+            }
+        },
+        "school_name": "NAZİRE MERZECİ İLKOKULU A-B BLOK"
+    },
+    {
+        "ballot_box_number": 2383,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/51148_bulk_999999999_1684089980411441927.jpeg",
+            "submission_id": 409236,
+            "total_vote": 314,
+            "votes": {
+                "1": 121,
+                "2": 2,
+                "3": 168,
+                "4": 23
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/51148_mv_1083801477_1684090572383151086.jpg",
+            "submission_id": 423084,
+            "total_vote": 302,
+            "votes": {
+                "10": 7,
+                "11": 14,
+                "12": 56,
+                "17": 1,
+                "21": 78,
+                "22": 29,
+                "23": 3,
+                "24": 9,
+                "4": 1,
+                "7": 4,
+                "8": 1,
+                "9": 99
+            }
+        },
+        "school_name": "NAZİRE MERZECİ İLKOKULU A-B BLOK"
+    }
+]

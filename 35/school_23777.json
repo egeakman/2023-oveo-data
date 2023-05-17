@@ -1,0 +1,52 @@
+[
+    {
+        "ballot_box_number": 1063,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/289_bulk_999999999_1684086736011992532.jpg",
+            "submission_id": 309820,
+            "total_vote": 241,
+            "votes": {
+                "1": 51,
+                "2": 3,
+                "3": 178,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5c0012e1-c248-4237-bbe0-80b4517a01ff-1684106084063851649.jpeg",
+            "submission_id": 736911,
+            "total_vote": 231,
+            "votes": {
+                "10": 3,
+                "11": 14,
+                "12": 7,
+                "14": 1,
+                "21": 132,
+                "22": 31,
+                "23": 2,
+                "24": 3,
+                "5": 2,
+                "6": 1,
+                "7": 1,
+                "9": 34
+            }
+        },
+        "school_name": "ÇİLE İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1062,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/5114d1e8-3880-4ea9-bd43-8b6b47e522d5-1684106081951322229.jpeg",
+            "submission_id": 735903,
+            "total_vote": 227,
+            "votes": {
+                "1": 59,
+                "2": 2,
+                "3": 4,
+                "4": 162
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇİLE İLKOKULU"
+    }
+]

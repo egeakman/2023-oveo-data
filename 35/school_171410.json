@@ -1,0 +1,68 @@
+[
+    {
+        "ballot_box_number": 1265,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/df564d80-4aa4-4db8-9e53-1703c5fdd41f-1684106310104565578.jpg",
+            "submission_id": 769767,
+            "total_vote": 326,
+            "votes": {
+                "1": 115,
+                "3": 182,
+                "4": 29
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/51b62c01-1cd0-4ab6-8d94-2ea0684e5fe5-1684106305566566419.jpg",
+            "submission_id": 769069,
+            "total_vote": 312,
+            "votes": {
+                "10": 1,
+                "11": 23,
+                "12": 1,
+                "13": 13,
+                "15": 1,
+                "20": 1,
+                "21": 118,
+                "22": 51,
+                "24": 9,
+                "6": 1,
+                "7": 3,
+                "8": 1,
+                "9": 89
+            }
+        },
+        "school_name": "ŞEHİT GÖKHAN KİRAZLI ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 1264,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/64a68e39-142c-4c31-9695-4d7f48a3042c-1684106266912245779.jpg",
+            "submission_id": 763657,
+            "total_vote": 331,
+            "votes": {
+                "1": 116,
+                "3": 197,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e1088950-1ec1-487a-b1ec-84fc326917a2-1684106284534725853.jpg",
+            "submission_id": 766259,
+            "total_vote": 317,
+            "votes": {
+                "10": 2,
+                "11": 21,
+                "12": 1,
+                "13": 16,
+                "15": 2,
+                "21": 127,
+                "22": 38,
+                "24": 15,
+                "7": 5,
+                "8": 3,
+                "9": 87
+            }
+        },
+        "school_name": "ŞEHİT GÖKHAN KİRAZLI ORTAOKULU"
+    }
+]

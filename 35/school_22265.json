@@ -1,0 +1,315 @@
+[
+    {
+        "ballot_box_number": 2229,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41233_cb_1093578792_1684083157975358750.jpg",
+            "submission_id": 211381,
+            "total_vote": 332,
+            "votes": {
+                "1": 136,
+                "2": 1,
+                "3": 183,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "CEMİL ATLAS ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2231,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41233_cb_1093578794_1684079327928017631.jpg",
+            "submission_id": 176634,
+            "total_vote": 321,
+            "votes": {
+                "1": 150,
+                "2": 1,
+                "3": 152,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41233_mv_1083578794_1684086570864827191.jpg",
+            "submission_id": 304001,
+            "total_vote": 315,
+            "votes": {
+                "1": 2,
+                "10": 1,
+                "11": 15,
+                "12": 69,
+                "13": 14,
+                "21": 46,
+                "22": 19,
+                "23": 1,
+                "24": 8,
+                "3": 2,
+                "4": 3,
+                "5": 2,
+                "7": 5,
+                "8": 5,
+                "9": 123
+            }
+        },
+        "school_name": "CEMİL ATLAS ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2228,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41233_cb_1093578791_1684087258621779165.jpg",
+            "submission_id": 327983,
+            "total_vote": 309,
+            "votes": {
+                "1": 151,
+                "2": 1,
+                "3": 149,
+                "4": 8
+            }
+        },
+        "mv_result": null,
+        "school_name": "CEMİL ATLAS ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2227,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41233_cb_1093578790_1684080508296059428.jpg",
+            "submission_id": 182097,
+            "total_vote": 335,
+            "votes": {
+                "1": 158,
+                "2": 2,
+                "3": 164,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41233_mv_1083578790_1684086021608362609.jpg",
+            "submission_id": 285648,
+            "total_vote": 325,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 17,
+                "12": 92,
+                "13": 6,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 52,
+                "22": 16,
+                "23": 0,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 0,
+                "8": 0,
+                "9": 128
+            }
+        },
+        "school_name": "CEMİL ATLAS ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2224,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41233_cb_1093578787_1684079144338809320.jpg",
+            "submission_id": 176078,
+            "total_vote": 291,
+            "votes": {
+                "1": 131,
+                "3": 152,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41233_mv_1083578787_1684083788745369370.jpg",
+            "submission_id": 223763,
+            "total_vote": 284,
+            "votes": {
+                "1": 1,
+                "10": 0,
+                "11": 20,
+                "12": 61,
+                "13": 8,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 1,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 70,
+                "22": 16,
+                "23": 0,
+                "24": 2,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 3,
+                "7": 0,
+                "8": 0,
+                "9": 100
+            }
+        },
+        "school_name": "CEMİL ATLAS ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2223,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41233_cb_1093578786_1684078975182839155.jpg",
+            "submission_id": 175640,
+            "total_vote": 307,
+            "votes": {
+                "1": 140,
+                "2": 2,
+                "3": 153,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41233_mv_1083578786_1684083501258079103.jpg",
+            "submission_id": 217801,
+            "total_vote": 301,
+            "votes": {
+                "1": 2,
+                "10": 2,
+                "11": 21,
+                "12": 72,
+                "13": 4,
+                "17": 1,
+                "21": 59,
+                "22": 12,
+                "23": 2,
+                "24": 4,
+                "5": 2,
+                "6": 1,
+                "7": 1,
+                "8": 3,
+                "9": 115
+            }
+        },
+        "school_name": "CEMİL ATLAS ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2230,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41233_cb_1093578793_1684085239644675189.jpg",
+            "submission_id": 261012,
+            "total_vote": 327,
+            "votes": {
+                "1": 160,
+                "2": 0,
+                "3": 149,
+                "4": 18
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41233_mv_1083578793_1684086207509721305.jpg",
+            "submission_id": 291679,
+            "total_vote": 316,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 17,
+                "12": 73,
+                "13": 9,
+                "14": 2,
+                "21": 61,
+                "22": 14,
+                "23": 1,
+                "24": 13,
+                "3": 1,
+                "7": 1,
+                "9": 121
+            }
+        },
+        "school_name": "CEMİL ATLAS ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2225,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41233_cb_1093578788_1684082322009283248.jpg",
+            "submission_id": 198676,
+            "total_vote": 329,
+            "votes": {
+                "1": 166,
+                "2": 1,
+                "3": 154,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41233_mv_1083578788_1684084206810520641.jpg",
+            "submission_id": 233025,
+            "total_vote": 317,
+            "votes": {
+                "10": 3,
+                "11": 22,
+                "12": 77,
+                "13": 19,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "20": 0,
+                "21": 43,
+                "22": 10,
+                "23": 2,
+                "24": 8,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 0,
+                "9": 131
+            }
+        },
+        "school_name": "CEMİL ATLAS ORTAOKULU"
+    },
+    {
+        "ballot_box_number": 2226,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41233_cb_1093578789_1684087965373859719.jpg",
+            "submission_id": 350756,
+            "total_vote": 311,
+            "votes": {
+                "1": 145,
+                "2": 0,
+                "3": 156,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/41233_mv_1083578789_1684088226271350669.jpg",
+            "submission_id": 359060,
+            "total_vote": 310,
+            "votes": {
+                "10": 4,
+                "11": 27,
+                "12": 95,
+                "13": 2,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "20": 1,
+                "21": 52,
+                "22": 7,
+                "23": 0,
+                "24": 4,
+                "5": 0,
+                "6": 1,
+                "7": 8,
+                "8": 1,
+                "9": 108
+            }
+        },
+        "school_name": "CEMİL ATLAS ORTAOKULU"
+    }
+]

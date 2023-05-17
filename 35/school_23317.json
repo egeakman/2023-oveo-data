@@ -1,0 +1,81 @@
+[
+    {
+        "ballot_box_number": 1254,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/73423_bulk_999999999_1684087287410973276.jpg",
+            "submission_id": 328997,
+            "total_vote": 286,
+            "votes": {
+                "1": 142,
+                "2": 5,
+                "3": 126,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/73423_bulk_999999999_1684087287272062238.jpg",
+            "submission_id": 328996,
+            "total_vote": 285,
+            "votes": {
+                "10": 6,
+                "11": 21,
+                "13": 3,
+                "21": 86,
+                "22": 41,
+                "23": 2,
+                "24": 5,
+                "6": 2,
+                "7": 5,
+                "8": 2,
+                "9": 112
+            }
+        },
+        "school_name": "TALATPAŞA MAH. ONDÖRT EYLÜL İLKOKULU GİRİŞ KATI"
+    },
+    {
+        "ballot_box_number": 1253,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26445_cb_1093799107_1684086419815996016.jpg",
+            "submission_id": 298692,
+            "total_vote": 261,
+            "votes": {
+                "1": 133,
+                "2": 4,
+                "3": 117,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/26445_mv_1083799107_1684090284641355302.jpg",
+            "submission_id": 416555,
+            "total_vote": 248,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 32,
+                "12": 1,
+                "13": 9,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 71,
+                "22": 35,
+                "23": 3,
+                "24": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 5,
+                "8": 1,
+                "9": 83
+            }
+        },
+        "school_name": "TALATPAŞA MAH. ONDÖRT EYLÜL İLKOKULU GİRİŞ KATI"
+    }
+]

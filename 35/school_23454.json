@@ -1,0 +1,175 @@
+[
+    {
+        "ballot_box_number": 1097,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20818_cb_1093758258_1684091803294900519.jpg",
+            "submission_id": 446042,
+            "total_vote": 329,
+            "votes": {
+                "1": 125,
+                "2": 1,
+                "3": 192,
+                "4": 11
+            }
+        },
+        "mv_result": null,
+        "school_name": "KUŞÇULAR OVA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1096,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20119_bulk_999999999_1684094249261060479.jpeg",
+            "submission_id": 489732,
+            "total_vote": 315,
+            "votes": {
+                "1": 140,
+                "2": 1,
+                "3": 170,
+                "4": 4
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20119_bulk_999999999_1684094249366546608.jpeg",
+            "submission_id": 489736,
+            "total_vote": 309,
+            "votes": {
+                "1": 0,
+                "10": 5,
+                "11": 13,
+                "12": 7,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 1,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 136,
+                "22": 25,
+                "23": 0,
+                "24": 3,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 114
+            }
+        },
+        "school_name": "KUŞÇULAR OVA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1099,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/35072_cb_1093758260_1684083614421624990.jpg",
+            "submission_id": 220032,
+            "total_vote": 328,
+            "votes": {
+                "1": 112,
+                "2": 1,
+                "3": 206,
+                "4": 9
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/35072_mv_1083758260_1684090233901671810.jpg",
+            "submission_id": 415362,
+            "total_vote": 325,
+            "votes": {
+                "10": 4,
+                "11": 20,
+                "12": 6,
+                "14": 1,
+                "15": 1,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 162,
+                "22": 34,
+                "23": 0,
+                "24": 5,
+                "3": 2,
+                "4": 0,
+                "5": 0,
+                "6": 3,
+                "7": 0,
+                "8": 3,
+                "9": 84
+            }
+        },
+        "school_name": "KUŞÇULAR OVA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1100,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/20818_bulk_999999999_1684080098542294955.jpeg",
+            "submission_id": 179743,
+            "total_vote": 336,
+            "votes": {
+                "1": 100,
+                "2": 3,
+                "3": 222,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20818_mv_1083758261_1684088545464850793.jpg",
+            "submission_id": 368953,
+            "total_vote": 330,
+            "votes": {
+                "1": 1,
+                "10": 1,
+                "11": 23,
+                "12": 9,
+                "15": 1,
+                "19": 1,
+                "21": 165,
+                "22": 45,
+                "24": 7,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 74
+            }
+        },
+        "school_name": "KUŞÇULAR OVA İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1098,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20122_cb_1093758259_1684088717418574226.jpg",
+            "submission_id": 374195,
+            "total_vote": 332,
+            "votes": {
+                "1": 127,
+                "2": 1,
+                "3": 193,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/20122_mv_1083758259_1684090919574944397.jpg",
+            "submission_id": 430256,
+            "total_vote": 327,
+            "votes": {
+                "10": 4,
+                "11": 26,
+                "12": 14,
+                "15": 1,
+                "21": 149,
+                "22": 35,
+                "23": 1,
+                "24": 5,
+                "7": 2,
+                "8": 3,
+                "9": 87
+            }
+        },
+        "school_name": "KUŞÇULAR OVA İLKOKULU"
+    }
+]

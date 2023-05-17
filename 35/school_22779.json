@@ -1,0 +1,559 @@
+[
+    {
+        "ballot_box_number": 1235,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/3b23c008-6dd4-402e-87fe-61a6dfec441a-1684106661746881346.jpg",
+            "submission_id": 820809,
+            "total_vote": 329,
+            "votes": {
+                "1": 70,
+                "3": 239,
+                "4": 20
+            }
+        },
+        "mv_result": null,
+        "school_name": "YUNUS EMRE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1240,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/29156_bulk_999999999_1684086977486448402.jpg",
+            "submission_id": 318174,
+            "total_vote": 333,
+            "votes": {
+                "1": 68,
+                "2": 2,
+                "3": 242,
+                "4": 21
+            }
+        },
+        "mv_result": null,
+        "school_name": "YUNUS EMRE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1238,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28893_bulk_999999999_1684248509263799520.jpg",
+            "submission_id": 1031635,
+            "total_vote": 323,
+            "votes": {
+                "1": 60,
+                "3": 252,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/1ff25d01-02ad-4769-962a-06c85e9a2f4b-1684105953264225236.jpg",
+            "submission_id": 718348,
+            "total_vote": 317,
+            "votes": {
+                "11": 4,
+                "12": 13,
+                "13": 29,
+                "15": 1,
+                "21": 155,
+                "22": 53,
+                "23": 2,
+                "24": 6,
+                "7": 7,
+                "9": 47
+            }
+        },
+        "school_name": "YUNUS EMRE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1236,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/880ba578-e809-4318-9a9e-0433dfdf1f96-1684105290596869626.jpg",
+            "submission_id": 612745,
+            "total_vote": 342,
+            "votes": {
+                "1": 66,
+                "2": 4,
+                "3": 253,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e9d44b63-50b1-41d8-b09c-55b6e1a50149-1684105297940032026.jpg",
+            "submission_id": 614231,
+            "total_vote": 334,
+            "votes": {
+                "10": 2,
+                "11": 1,
+                "12": 10,
+                "13": 33,
+                "19": 4,
+                "20": 1,
+                "21": 162,
+                "22": 50,
+                "24": 10,
+                "3": 2,
+                "5": 1,
+                "6": 1,
+                "7": 7,
+                "9": 50
+            }
+        },
+        "school_name": "YUNUS EMRE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1242,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/28893_bulk_999999999_1684084852900697320.jpg",
+            "submission_id": 249979,
+            "total_vote": 338,
+            "votes": {
+                "1": 52,
+                "2": 1,
+                "3": 265,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d2e4bccd-0760-4078-bdd5-17a1ea2183ca-1684106476325097373.jpeg",
+            "submission_id": 793839,
+            "total_vote": 329,
+            "votes": {
+                "11": 10,
+                "12": 7,
+                "13": 18,
+                "21": 191,
+                "22": 48,
+                "23": 1,
+                "24": 11,
+                "7": 5,
+                "9": 38
+            }
+        },
+        "school_name": "YUNUS EMRE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1239,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/29309_bulk_999999999_1684087464797377026.jpg",
+            "submission_id": 334755,
+            "total_vote": 345,
+            "votes": {
+                "1": 59,
+                "2": 1,
+                "3": 271,
+                "4": 14
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/094ec0ef-196e-4600-854e-fe85464f5854-1684105946400286115.jpg",
+            "submission_id": 716947,
+            "total_vote": 342,
+            "votes": {
+                "11": 6,
+                "12": 21,
+                "13": 24,
+                "19": 2,
+                "21": 185,
+                "22": 37,
+                "24": 7,
+                "4": 2,
+                "5": 2,
+                "7": 4,
+                "9": 52
+            }
+        },
+        "school_name": "YUNUS EMRE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1233,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/29329_bulk_999999999_1684087643581342479.jpeg",
+            "submission_id": 340537,
+            "total_vote": 339,
+            "votes": {
+                "1": 62,
+                "2": 2,
+                "3": 258,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/29329_bulk_999999999_1684087643655739230.jpeg",
+            "submission_id": 340539,
+            "total_vote": 334,
+            "votes": {
+                "10": 3,
+                "11": 9,
+                "12": 8,
+                "13": 37,
+                "15": 1,
+                "16": 1,
+                "21": 153,
+                "22": 48,
+                "23": 1,
+                "24": 12,
+                "3": 3,
+                "4": 1,
+                "6": 1,
+                "7": 4,
+                "8": 3,
+                "9": 49
+            }
+        },
+        "school_name": "YUNUS EMRE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1231,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/50603_cb_1093578374_1684091981210462467.jpg",
+            "submission_id": 448913,
+            "total_vote": 331,
+            "votes": {
+                "1": 63,
+                "3": 256,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/50603_cb_1093578374_1684091901099140245.jpg",
+            "submission_id": 447588,
+            "total_vote": 328,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 7,
+                "12": 9,
+                "13": 32,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 178,
+                "22": 36,
+                "23": 1,
+                "24": 3,
+                "3": 1,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 0,
+                "8": 1,
+                "9": 57
+            }
+        },
+        "school_name": "YUNUS EMRE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1246,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source1-secim-images.oyveotesi.org/raw/1029264_cb_3579009_1684090746.jpeg",
+            "submission_id": 426569,
+            "total_vote": 330,
+            "votes": {
+                "1": 66,
+                "2": 0,
+                "3": 250,
+                "4": 14
+            }
+        },
+        "mv_result": null,
+        "school_name": "YUNUS EMRE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1234,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/211df5ac-255e-40b8-8f00-360665ccb6f0-1684106515744034925.jpg",
+            "submission_id": 799918,
+            "total_vote": 342,
+            "votes": {
+                "1": 67,
+                "2": 1,
+                "3": 257,
+                "4": 17
+            }
+        },
+        "mv_result": null,
+        "school_name": "YUNUS EMRE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1229,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/1d1d0fc7-8325-4ac8-bcba-ff6c7d1faeb9-1684106674696473034.jpg",
+            "submission_id": 822437,
+            "total_vote": 315,
+            "votes": {
+                "1": 68,
+                "2": 2,
+                "3": 240,
+                "4": 5
+            }
+        },
+        "mv_result": null,
+        "school_name": "YUNUS EMRE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1244,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29276_cb_1093579007_1684086492525214813.jpg",
+            "submission_id": 301242,
+            "total_vote": 334,
+            "votes": {
+                "1": 55,
+                "2": 1,
+                "3": 270,
+                "4": 8
+            }
+        },
+        "mv_result": null,
+        "school_name": "YUNUS EMRE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1232,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/50603_cb_1093578995_1684091756408494744.jpg",
+            "submission_id": 445282,
+            "total_vote": 339,
+            "votes": {
+                "1": 54,
+                "2": 1,
+                "3": 273,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/50603_mv_1083578995_1684091682527802569.jpg",
+            "submission_id": 444104,
+            "total_vote": 336,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 12,
+                "12": 9,
+                "13": 31,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 2,
+                "2": 0,
+                "20": 0,
+                "21": 184,
+                "22": 46,
+                "23": 0,
+                "24": 6,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 6,
+                "8": 1,
+                "9": 38
+            }
+        },
+        "school_name": "YUNUS EMRE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1230,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/88e98bc2-860d-47e9-949c-a0e4b490f6ac-1684106667038072822.jpg",
+            "submission_id": 821325,
+            "total_vote": 305,
+            "votes": {
+                "1": 53,
+                "2": 2,
+                "3": 239,
+                "4": 11
+            }
+        },
+        "mv_result": null,
+        "school_name": "YUNUS EMRE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1241,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/29156_bulk_999999999_1684086873131214121.jpg",
+            "submission_id": 314587,
+            "total_vote": 343,
+            "votes": {
+                "1": 55,
+                "2": 0,
+                "3": 272,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/29156_bulk_999999999_1684086911765938034.jpg",
+            "submission_id": 315844,
+            "total_vote": 340,
+            "votes": {
+                "1": 1,
+                "10": 4,
+                "11": 4,
+                "12": 13,
+                "13": 35,
+                "14": 0,
+                "15": 2,
+                "16": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 169,
+                "22": 50,
+                "23": 0,
+                "24": 15,
+                "3": 3,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 1,
+                "9": 41
+            }
+        },
+        "school_name": "YUNUS EMRE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1237,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23172_cb_1093578372_1684086379625693804.jpg",
+            "submission_id": 297332,
+            "total_vote": 327,
+            "votes": {
+                "1": 74,
+                "2": 1,
+                "3": 233,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/23172_mv_1083579000_1684086426740102290.jpg",
+            "submission_id": 298919,
+            "total_vote": 324,
+            "votes": {
+                "1": 0,
+                "10": 3,
+                "11": 9,
+                "12": 17,
+                "13": 24,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 155,
+                "22": 43,
+                "23": 1,
+                "24": 6,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3,
+                "8": 1,
+                "9": 61
+            }
+        },
+        "school_name": "YUNUS EMRE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1243,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29276_cb_1093579006_1684084288233660710.jpg",
+            "submission_id": 235221,
+            "total_vote": 332,
+            "votes": {
+                "1": 69,
+                "3": 246,
+                "4": 17
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29276_mv_1083579006_1684085808302131128.jpg",
+            "submission_id": 278687,
+            "total_vote": 331,
+            "votes": {
+                "10": 2,
+                "11": 10,
+                "12": 8,
+                "13": 16,
+                "14": 1,
+                "20": 1,
+                "21": 161,
+                "22": 61,
+                "24": 9,
+                "4": 1,
+                "7": 2,
+                "9": 59
+            }
+        },
+        "school_name": "YUNUS EMRE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1247,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e6221311-7377-40b8-b1d6-4d539bf08f76-1684105116258430291.jpg",
+            "submission_id": 575942,
+            "total_vote": 343,
+            "votes": {
+                "1": 80,
+                "2": 1,
+                "3": 255,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "YUNUS EMRE ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1245,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29276_mv_1083579008_1684083798639437846.jpg",
+            "submission_id": 223995,
+            "total_vote": 342,
+            "votes": {
+                "1": 45,
+                "2": 1,
+                "3": 277,
+                "4": 19
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/29276_cb_1093579008_1684083757111632471.jpg",
+            "submission_id": 223085,
+            "total_vote": 342,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 6,
+                "12": 11,
+                "13": 34,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 0,
+                "21": 181,
+                "22": 53,
+                "23": 1,
+                "24": 11,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 1,
+                "9": 37
+            }
+        },
+        "school_name": "YUNUS EMRE ANADOLU LİSESİ"
+    }
+]

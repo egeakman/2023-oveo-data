@@ -1,0 +1,534 @@
+[
+    {
+        "ballot_box_number": 1143,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16361_cb_1093576607_1684086009309164325.jpg",
+            "submission_id": 285206,
+            "total_vote": 344,
+            "votes": {
+                "1": 57,
+                "3": 279,
+                "4": 8
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16361_mv_1083576607_1684086033684452850.jpg",
+            "submission_id": 286045,
+            "total_vote": 341,
+            "votes": {
+                "10": 1,
+                "11": 9,
+                "12": 12,
+                "13": 20,
+                "14": 1,
+                "19": 1,
+                "21": 194,
+                "22": 52,
+                "24": 4,
+                "4": 1,
+                "7": 1,
+                "8": 1,
+                "9": 44
+            }
+        },
+        "school_name": "AZERBAYCAN HALK CUMHURİYETİ 100.YIL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1130,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16361_cb_1093575734_1684078619756445014.jpg",
+            "submission_id": 174807,
+            "total_vote": 326,
+            "votes": {
+                "1": 52,
+                "3": 268,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16361_mv_1083575734_1684084491735996898.jpg",
+            "submission_id": 240327,
+            "total_vote": 326,
+            "votes": {
+                "11": 6,
+                "12": 2,
+                "13": 12,
+                "15": 3,
+                "21": 227,
+                "22": 30,
+                "23": 2,
+                "3": 1,
+                "6": 1,
+                "9": 42
+            }
+        },
+        "school_name": "AZERBAYCAN HALK CUMHURİYETİ 100.YIL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1133,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/37830_cb_1093576597_1684082157540881397.jpg",
+            "submission_id": 196540,
+            "total_vote": 354,
+            "votes": {
+                "1": 51,
+                "2": 2,
+                "3": 285,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/37830_mv_1083576597_1684088135496188124.jpg",
+            "submission_id": 356328,
+            "total_vote": 348,
+            "votes": {
+                "1": 1,
+                "11": 10,
+                "12": 10,
+                "13": 28,
+                "21": 185,
+                "22": 53,
+                "24": 7,
+                "3": 3,
+                "7": 3,
+                "8": 2,
+                "9": 46
+            }
+        },
+        "school_name": "AZERBAYCAN HALK CUMHURİYETİ 100.YIL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1131,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16361_cb_1093576595_1684082064729558966.jpg",
+            "submission_id": 195413,
+            "total_vote": 333,
+            "votes": {
+                "1": 68,
+                "2": 1,
+                "3": 257,
+                "4": 7
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16361_mv_1083576595_1684082092711704474.jpg",
+            "submission_id": 195751,
+            "total_vote": 329,
+            "votes": {
+                "10": 2,
+                "11": 7,
+                "12": 7,
+                "13": 13,
+                "19": 1,
+                "21": 188,
+                "22": 50,
+                "24": 4,
+                "9": 57
+            }
+        },
+        "school_name": "AZERBAYCAN HALK CUMHURİYETİ 100.YIL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1135,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/16361_bulk_999999999_1684097298712781939.jpg",
+            "submission_id": 519729,
+            "total_vote": 341,
+            "votes": {
+                "1": 45,
+                "2": 1,
+                "3": 283,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16361_mv_1083576599_1684088495841997181.jpg",
+            "submission_id": 367359,
+            "total_vote": 340,
+            "votes": {
+                "10": 1,
+                "11": 3,
+                "12": 9,
+                "13": 40,
+                "21": 185,
+                "22": 46,
+                "23": 1,
+                "24": 8,
+                "3": 2,
+                "5": 1,
+                "6": 1,
+                "7": 3,
+                "9": 40
+            }
+        },
+        "school_name": "AZERBAYCAN HALK CUMHURİYETİ 100.YIL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1141,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16361_cb_1093576605_1684083333351325610.jpg",
+            "submission_id": 214545,
+            "total_vote": 353,
+            "votes": {
+                "1": 48,
+                "2": 2,
+                "3": 291,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16361_mv_1083576605_1684083306115587383.jpg",
+            "submission_id": 214055,
+            "total_vote": 352,
+            "votes": {
+                "1": 1,
+                "11": 10,
+                "12": 6,
+                "13": 45,
+                "20": 1,
+                "21": 184,
+                "22": 45,
+                "24": 11,
+                "3": 2,
+                "6": 4,
+                "7": 6,
+                "9": 37
+            }
+        },
+        "school_name": "AZERBAYCAN HALK CUMHURİYETİ 100.YIL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1138,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/16361_bulk_999999999_1684083738627801706.jpg",
+            "submission_id": 222671,
+            "total_vote": 350,
+            "votes": {
+                "1": 78,
+                "2": 1,
+                "3": 251,
+                "4": 20
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/16361_bulk_999999999_1684083843208749941.jpg",
+            "submission_id": 224957,
+            "total_vote": 349,
+            "votes": {
+                "11": 18,
+                "12": 4,
+                "13": 28,
+                "19": 1,
+                "21": 176,
+                "22": 45,
+                "23": 3,
+                "24": 12,
+                "3": 2,
+                "6": 1,
+                "9": 59
+            }
+        },
+        "school_name": "AZERBAYCAN HALK CUMHURİYETİ 100.YIL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1134,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/53741_mv_1083576598_1684086247818271536.jpg",
+            "submission_id": 292991,
+            "total_vote": 343,
+            "votes": {
+                "1": 60,
+                "3": 271,
+                "4": 12
+            }
+        },
+        "mv_result": null,
+        "school_name": "AZERBAYCAN HALK CUMHURİYETİ 100.YIL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1142,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/16361_bulk_999999999_1684085193385163530.jpg",
+            "submission_id": 259687,
+            "total_vote": 348,
+            "votes": {
+                "1": 57,
+                "2": 1,
+                "3": 274,
+                "4": 16
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16361_mv_1083576606_1684084762869469934.jpg",
+            "submission_id": 247565,
+            "total_vote": 345,
+            "votes": {
+                "10": 2,
+                "11": 5,
+                "12": 6,
+                "13": 31,
+                "21": 180,
+                "22": 44,
+                "24": 12,
+                "3": 1,
+                "6": 9,
+                "7": 3,
+                "8": 1,
+                "9": 51
+            }
+        },
+        "school_name": "AZERBAYCAN HALK CUMHURİYETİ 100.YIL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1129,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/16361_bulk_999999999_1684083108852765383.jpg",
+            "submission_id": 210550,
+            "total_vote": 333,
+            "votes": {
+                "1": 68,
+                "2": 2,
+                "3": 252,
+                "4": 11
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/16361_bulk_999999999_1684084410639955768.jpg",
+            "submission_id": 238277,
+            "total_vote": 327,
+            "votes": {
+                "11": 9,
+                "13": 16,
+                "15": 1,
+                "20": 1,
+                "21": 190,
+                "22": 43,
+                "23": 2,
+                "24": 7,
+                "7": 1,
+                "8": 2,
+                "9": 55
+            }
+        },
+        "school_name": "AZERBAYCAN HALK CUMHURİYETİ 100.YIL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1139,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0919d023-4774-4ec9-b5b1-c55b7bd9a60a-1684106168690755320.jpeg",
+            "submission_id": 748423,
+            "total_vote": 351,
+            "votes": {
+                "1": 57,
+                "2": 3,
+                "3": 260,
+                "4": 31
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/d29d0058-3f69-4677-896a-239830fae70a-1684106157167899646.jpeg",
+            "submission_id": 746878,
+            "total_vote": 346,
+            "votes": {
+                "1": 1,
+                "10": 3,
+                "11": 5,
+                "12": 5,
+                "13": 34,
+                "14": 1,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 172,
+                "22": 48,
+                "23": 1,
+                "24": 19,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 5,
+                "8": 0,
+                "9": 47
+            }
+        },
+        "school_name": "AZERBAYCAN HALK CUMHURİYETİ 100.YIL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1137,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16361_cb_1093576601_1684084686281840677.jpg",
+            "submission_id": 245514,
+            "total_vote": 347,
+            "votes": {
+                "1": 66,
+                "3": 268,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16361_mv_1083576601_1684085393679457397.jpg",
+            "submission_id": 265490,
+            "total_vote": 347,
+            "votes": {
+                "1": 0,
+                "10": 1,
+                "11": 17,
+                "12": 10,
+                "13": 33,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 1,
+                "2": 0,
+                "20": 1,
+                "21": 170,
+                "22": 52,
+                "23": 2,
+                "24": 7,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 5,
+                "8": 0,
+                "9": 48
+            }
+        },
+        "school_name": "AZERBAYCAN HALK CUMHURİYETİ 100.YIL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1136,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16361_cb_1093576600_1684084610350981340.jpg",
+            "submission_id": 243413,
+            "total_vote": 345,
+            "votes": {
+                "1": 64,
+                "2": 0,
+                "3": 271,
+                "4": 10
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/16361_mv_1083576600_1684084640545207410.jpg",
+            "submission_id": 244231,
+            "total_vote": 343,
+            "votes": {
+                "10": 1,
+                "11": 4,
+                "12": 6,
+                "13": 25,
+                "15": 1,
+                "21": 192,
+                "22": 45,
+                "23": 1,
+                "24": 9,
+                "3": 2,
+                "6": 1,
+                "7": 1,
+                "8": 2,
+                "9": 53
+            }
+        },
+        "school_name": "AZERBAYCAN HALK CUMHURİYETİ 100.YIL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1140,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18820_cb_1093576604_1684078723094219591.jpg",
+            "submission_id": 175034,
+            "total_vote": 352,
+            "votes": {
+                "1": 41,
+                "2": 2,
+                "3": 297,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/18820_mv_1083576604_1684082833549487404.jpg",
+            "submission_id": 205945,
+            "total_vote": 352,
+            "votes": {
+                "1": 0,
+                "10": 0,
+                "11": 5,
+                "12": 6,
+                "13": 40,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 199,
+                "22": 49,
+                "23": 1,
+                "24": 12,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 6,
+                "8": 0,
+                "9": 32
+            }
+        },
+        "school_name": "AZERBAYCAN HALK CUMHURİYETİ 100.YIL İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1132,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/59983_cb_1093576596_1684079593995749500.jpg",
+            "submission_id": 177565,
+            "total_vote": 354,
+            "votes": {
+                "1": 48,
+                "2": 1,
+                "3": 292,
+                "4": 13
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/client/59983_mv_1083576596_1684084929680574692.jpg",
+            "submission_id": 252104,
+            "total_vote": 351,
+            "votes": {
+                "1": 0,
+                "10": 4,
+                "11": 11,
+                "12": 6,
+                "13": 47,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "2": 0,
+                "20": 0,
+                "21": 193,
+                "22": 48,
+                "23": 0,
+                "24": 5,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 0,
+                "9": 33
+            }
+        },
+        "school_name": "AZERBAYCAN HALK CUMHURİYETİ 100.YIL İLKOKULU"
+    }
+]

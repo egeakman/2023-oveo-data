@@ -1,0 +1,18 @@
+[
+    {
+        "ballot_box_number": 1036,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/1731_bulk_999999999_1684097135435039658.JPG",
+            "submission_id": 518554,
+            "total_vote": 150,
+            "votes": {
+                "1": 67,
+                "2": 0,
+                "3": 74,
+                "4": 9
+            }
+        },
+        "mv_result": null,
+        "school_name": "BARUTÇU MAH-(KÖY ODASI)"
+    }
+]
