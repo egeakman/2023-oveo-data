@@ -1,0 +1,18 @@
+[
+    {
+        "ballot_box_number": 1135,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/1881_bulk_999999999_1684097071833062181.jpg",
+            "submission_id": 518026,
+            "total_vote": 117,
+            "votes": {
+                "1": 95,
+                "2": 2,
+                "3": 16,
+                "4": 4
+            }
+        },
+        "mv_result": null,
+        "school_name": "IŞIKKAYA İLKOKULU"
+    }
+]

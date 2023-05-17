@@ -1,0 +1,17 @@
+[
+    {
+        "ballot_box_number": 2284,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source1-secim-images.oyveotesi.org/raw/1018489_cb_3577738_1684103447.jpeg",
+            "submission_id": 548750,
+            "total_vote": 190,
+            "votes": {
+                "1": 85,
+                "3": 97,
+                "4": 8
+            }
+        },
+        "mv_result": null,
+        "school_name": "KAZIM KARABEKİR OTİSTİK ÇOCUKLAR EĞİTİM MERKEZİ"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "ballot_box_number": 1013,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/368a286b-5eab-43e5-a35b-412f1a14ca5f-1684105824355839263.jpeg",
+            "submission_id": 701765,
+            "total_vote": 155,
+            "votes": {
+                "1": 73,
+                "2": 2,
+                "3": 74,
+                "4": 6
+            }
+        },
+        "mv_result": null,
+        "school_name": "GÖBELLİ İLKÖĞRETİM OKULU"
+    }
+]

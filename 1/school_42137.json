@@ -1,0 +1,18 @@
+[
+    {
+        "ballot_box_number": 1023,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/c8eec2cb-950f-41e4-8b48-d59e9030707e-1684105405287297505.jpg",
+            "submission_id": 633894,
+            "total_vote": 93,
+            "votes": {
+                "1": 29,
+                "2": 0,
+                "3": 63,
+                "4": 1
+            }
+        },
+        "mv_result": null,
+        "school_name": "DOĞANBEYLİ KÖYÜ ÇİFLİK MEZRASI İLKOKULU"
+    }
+]

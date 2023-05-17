@@ -1,0 +1,18 @@
+[
+    {
+        "ballot_box_number": 1191,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/1881_bulk_999999999_1684094569284950303.jpg",
+            "submission_id": 493573,
+            "total_vote": 182,
+            "votes": {
+                "1": 140,
+                "2": 0,
+                "3": 29,
+                "4": 13
+            }
+        },
+        "mv_result": null,
+        "school_name": "MARANKEÇİLİ İLKOKULU YEMEKHANESİ"
+    }
+]

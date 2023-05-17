@@ -1,0 +1,24 @@
+[
+    {
+        "ballot_box_number": 1034,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "ETEKLİ ŞHT.FATİH İLKÖĞR.OK."
+    },
+    {
+        "ballot_box_number": 1033,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/256_bulk_999999999_1684097200022726249.jpeg",
+            "submission_id": 518985,
+            "total_vote": 232,
+            "votes": {
+                "1": 195,
+                "2": 4,
+                "3": 27,
+                "4": 6
+            }
+        },
+        "mv_result": null,
+        "school_name": "ETEKLİ ŞHT.FATİH İLKÖĞR.OK."
+    }
+]

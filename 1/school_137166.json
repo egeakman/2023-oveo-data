@@ -1,0 +1,18 @@
+[
+    {
+        "ballot_box_number": 1034,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/1881_bulk_999999999_1684094007720816145.jpg",
+            "submission_id": 481758,
+            "total_vote": 52,
+            "votes": {
+                "1": 15,
+                "2": 2,
+                "3": 33,
+                "4": 2
+            }
+        },
+        "mv_result": null,
+        "school_name": "BİRKENT-CELİLUŞAĞI-MAH. ODASI"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "ballot_box_number": 1009,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/80d38a3b-19b5-4b5c-a637-a63f772d6680-1684105200377089686.jpg",
+            "submission_id": 593240,
+            "total_vote": 149,
+            "votes": {
+                "1": 70,
+                "3": 72,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇAĞŞIRLI MAHALLESİ KÖY KONAĞI"
+    }
+]

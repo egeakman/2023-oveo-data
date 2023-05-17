@@ -1,0 +1,24 @@
+[
+    {
+        "ballot_box_number": 1047,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/256_bulk_999999999_1684095484086636412.jpg",
+            "submission_id": 503572,
+            "total_vote": 198,
+            "votes": {
+                "1": 161,
+                "2": 1,
+                "3": 31,
+                "4": 5
+            }
+        },
+        "mv_result": null,
+        "school_name": "MALIHIDIRLI MAH. İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1046,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "MALIHIDIRLI MAH. İLKOKULU"
+    }
+]

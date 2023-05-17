@@ -1,0 +1,33 @@
+[
+    {
+        "ballot_box_number": 2347,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source2-secim-images.oyveotesi.org/raw/Adana OveO Tutanak/WhatsApp Image 2023-05-14 at 20.03.53.jpeg",
+            "submission_id": 544463,
+            "total_vote": 208,
+            "votes": {
+                "1": 5,
+                "2": 0,
+                "3": 202,
+                "4": 1
+            }
+        },
+        "mv_result": null,
+        "school_name": "YALMANLI İLK OKULU"
+    },
+    {
+        "ballot_box_number": 2346,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source1-secim-images.oyveotesi.org/raw/rotated/1001480_cb_3579400_1684088010.jpeg",
+            "submission_id": 478459,
+            "total_vote": 225,
+            "votes": {
+                "1": 4,
+                "3": 219,
+                "4": 2
+            }
+        },
+        "mv_result": null,
+        "school_name": "YALMANLI İLK OKULU"
+    }
+]

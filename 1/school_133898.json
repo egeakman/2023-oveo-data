@@ -1,0 +1,131 @@
+[
+    {
+        "ballot_box_number": 4351,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/0f0e3f0b-0eed-4d42-8e77-c4a4ad0f6965-1684105721479375669.jpg",
+            "submission_id": 684699,
+            "total_vote": 263,
+            "votes": {
+                "1": 100,
+                "2": 1,
+                "3": 156,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/e9fe98e7-3247-40c7-a8b1-3c28e88963d8-1684105681889758349.jpg",
+            "submission_id": 678867,
+            "total_vote": 258,
+            "votes": {
+                "1": 0,
+                "10": 6,
+                "11": 13,
+                "12": 18,
+                "13": 7,
+                "14": 1,
+                "17": 0,
+                "19": 0,
+                "2": 0,
+                "21": 112,
+                "22": 23,
+                "24": 2,
+                "3": 2,
+                "4": 0,
+                "5": 2,
+                "6": 1,
+                "7": 0,
+                "8": 0,
+                "9": 71
+            }
+        },
+        "school_name": "BEŞOCAK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 4354,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/aa960aec-0e15-4961-99fd-5a47514d5060-1684106681994091107.jpg",
+            "submission_id": 823774,
+            "total_vote": 278,
+            "votes": {
+                "1": 127,
+                "3": 145,
+                "4": 6
+            }
+        },
+        "mv_result": null,
+        "school_name": "BEŞOCAK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 4352,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/8bd66725-26a8-4753-bfdb-3ba149954390-1684105708650315718.jpg",
+            "submission_id": 682862,
+            "total_vote": 297,
+            "votes": {
+                "1": 131,
+                "2": 0,
+                "3": 154,
+                "4": 12
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/395aa4bd-a559-407e-a6af-002276e66476-1684105671425820512.jpg",
+            "submission_id": 677285,
+            "total_vote": 289,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 17,
+                "12": 14,
+                "13": 10,
+                "14": 0,
+                "17": 0,
+                "19": 0,
+                "2": 0,
+                "21": 113,
+                "22": 20,
+                "24": 7,
+                "3": 1,
+                "4": 0,
+                "5": 2,
+                "6": 2,
+                "7": 0,
+                "8": 2,
+                "9": 98
+            }
+        },
+        "school_name": "BEŞOCAK ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 4353,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/bded692e-a82f-4720-87d2-dab4d631f364-1684105699580618148.jpg",
+            "submission_id": 681664,
+            "total_vote": 265,
+            "votes": {
+                "1": 101,
+                "2": 2,
+                "3": 156,
+                "4": 6
+            }
+        },
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/60b5e382-b749-4151-9d17-0241a3f0f494-1684105665462896745.jpg",
+            "submission_id": 676081,
+            "total_vote": 262,
+            "votes": {
+                "10": 3,
+                "11": 11,
+                "12": 26,
+                "13": 9,
+                "21": 118,
+                "22": 12,
+                "24": 3,
+                "6": 1,
+                "8": 1,
+                "9": 78
+            }
+        },
+        "school_name": "BEŞOCAK ANADOLU LİSESİ"
+    }
+]

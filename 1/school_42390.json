@@ -1,0 +1,23 @@
+[
+    {
+        "ballot_box_number": 1022,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/bc878ab9-d4d4-447f-bbdb-d2cb44bfc762-1684105119062336099.jpeg",
+            "submission_id": 575664,
+            "total_vote": 234,
+            "votes": {
+                "1": 180,
+                "3": 52,
+                "4": 2
+            }
+        },
+        "mv_result": null,
+        "school_name": "GERDİBİ MAHALLESİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1021,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "GERDİBİ MAHALLESİ İLKOKULU"
+    }
+]

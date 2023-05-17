@@ -1,0 +1,17 @@
+[
+    {
+        "ballot_box_number": 1005,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/1881_bulk_999999999_1684095559959314296.jpg",
+            "submission_id": 504408,
+            "total_vote": 192,
+            "votes": {
+                "1": 150,
+                "3": 24,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "AĞZIKARACA MAH. MİSAFİR ODASI"
+    }
+]

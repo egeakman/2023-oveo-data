@@ -1,0 +1,17 @@
+[
+    {
+        "ballot_box_number": 1086,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/a9cc3887-f7d2-4cdb-b9d3-7ea17e352b9f-1684106087875203831.jpg",
+            "submission_id": 736849,
+            "total_vote": 166,
+            "votes": {
+                "1": 72,
+                "3": 86,
+                "4": 8
+            }
+        },
+        "mv_result": null,
+        "school_name": "ÇOKAK KÖY KONAĞI"
+    }
+]

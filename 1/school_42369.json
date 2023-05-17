@@ -1,0 +1,24 @@
+[
+    {
+        "ballot_box_number": 1024,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "KARACAOĞLAN İLKÖĞRETİM OKULU"
+    },
+    {
+        "ballot_box_number": 1023,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/1881_bulk_999999999_1684093819233847970.jpg",
+            "submission_id": 474708,
+            "total_vote": 244,
+            "votes": {
+                "1": 120,
+                "2": 2,
+                "3": 104,
+                "4": 18
+            }
+        },
+        "mv_result": null,
+        "school_name": "KARACAOĞLAN İLKÖĞRETİM OKULU"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "ballot_box_number": 1017,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/1881_bulk_999999999_1684094835539597822.jpg",
+            "submission_id": 496701,
+            "total_vote": 199,
+            "votes": {
+                "1": 82,
+                "2": 1,
+                "3": 110,
+                "4": 6
+            }
+        },
+        "mv_result": null,
+        "school_name": "DÖLEKLİ MAHALLESİ İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1018,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "DÖLEKLİ MAHALLESİ İLKOKULU"
+    }
+]

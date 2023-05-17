@@ -1,0 +1,24 @@
+[
+    {
+        "ballot_box_number": 1014,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "ATATÜRK MH-M.ORHUN YAYLACI ANADOLU LİSESİ"
+    },
+    {
+        "ballot_box_number": 1013,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/1881_bulk_999999999_1684095488140452543.jpg",
+            "submission_id": 503652,
+            "total_vote": 301,
+            "votes": {
+                "1": 121,
+                "2": 4,
+                "3": 161,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "ATATÜRK MH-M.ORHUN YAYLACI ANADOLU LİSESİ"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "ballot_box_number": 1039,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/bce6dc50-0f04-41d8-a8f5-f396c4a09e2d-1684105126732545338.jpeg",
+            "submission_id": 577813,
+            "total_vote": 169,
+            "votes": {
+                "1": 1,
+                "10": 2,
+                "11": 35,
+                "12": 1,
+                "13": 1,
+                "14": 1,
+                "17": 0,
+                "19": 0,
+                "2": 0,
+                "21": 15,
+                "22": 19,
+                "24": 0,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 2,
+                "9": 91
+            }
+        },
+        "school_name": "YAZICAK MAH. MUHTARLIK BİNASI TOPLANTI SALONU"
+    }
+]

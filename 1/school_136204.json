@@ -1,0 +1,18 @@
+[
+    {
+        "ballot_box_number": 1031,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/1881_bulk_999999999_1684096961769835197.jpg",
+            "submission_id": 517268,
+            "total_vote": 281,
+            "votes": {
+                "1": 214,
+                "2": 2,
+                "3": 50,
+                "4": 15
+            }
+        },
+        "mv_result": null,
+        "school_name": "EĞLENCE İLKÖĞRETİM OKULU"
+    }
+]

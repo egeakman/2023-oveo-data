@@ -1,0 +1,18 @@
+[
+    {
+        "ballot_box_number": 4306,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/23c9c11f-5145-44d7-81a7-7053707f6226-1684106747304265294.jpeg",
+            "submission_id": 833333,
+            "total_vote": 237,
+            "votes": {
+                "1": 123,
+                "2": 0,
+                "3": 107,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "YENİDAM İLK ÖĞRT.OKULU"
+    }
+]

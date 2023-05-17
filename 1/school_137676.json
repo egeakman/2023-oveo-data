@@ -1,0 +1,18 @@
+[
+    {
+        "ballot_box_number": 1009,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/1881_bulk_999999999_1684096347138318934.jpg",
+            "submission_id": 511721,
+            "total_vote": 307,
+            "votes": {
+                "1": 210,
+                "2": 5,
+                "3": 85,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "BEKİRLİ İLKÖĞRETİM OKULU"
+    }
+]

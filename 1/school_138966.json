@@ -1,0 +1,18 @@
+[
+    {
+        "ballot_box_number": 1047,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/source3-secim-images.oyveotesi.org/raw/bulk_download/v2/cb29a9b5-81ea-4032-b077-38371036810d-1684105111588901026.jpeg",
+            "submission_id": 575482,
+            "total_vote": 203,
+            "votes": {
+                "1": 82,
+                "2": 4,
+                "3": 108,
+                "4": 9
+            }
+        },
+        "mv_result": null,
+        "school_name": "KÜÇÜK YUMURTALIK KÖY KONAĞI"
+    }
+]

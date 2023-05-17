@@ -1,0 +1,18 @@
+[
+    {
+        "ballot_box_number": 1107,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/1881_bulk_999999999_1684093511012759308.jpg",
+            "submission_id": 470740,
+            "total_vote": 80,
+            "votes": {
+                "1": 5,
+                "2": 0,
+                "3": 73,
+                "4": 2
+            }
+        },
+        "mv_result": null,
+        "school_name": "DURHASANDEDE İLKOKULU"
+    }
+]

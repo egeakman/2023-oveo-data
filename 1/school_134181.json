@@ -1,0 +1,24 @@
+[
+    {
+        "ballot_box_number": 1130,
+        "cm_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/256_bulk_999999999_1684096789436741887.jpg",
+            "submission_id": 515795,
+            "total_vote": 203,
+            "votes": {
+                "1": 88,
+                "2": 2,
+                "3": 106,
+                "4": 7
+            }
+        },
+        "mv_result": null,
+        "school_name": "HAMAM KÖYÜ ŞEHİT.ÖĞR.ALİ YILDIRIM İLKOKULU"
+    },
+    {
+        "ballot_box_number": 1131,
+        "cm_result": null,
+        "mv_result": null,
+        "school_name": "HAMAM KÖYÜ ŞEHİT.ÖĞR.ALİ YILDIRIM İLKOKULU"
+    }
+]

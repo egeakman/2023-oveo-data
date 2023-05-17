@@ -1,0 +1,21 @@
+[
+    {
+        "ballot_box_number": 1008,
+        "cm_result": null,
+        "mv_result": {
+            "image_url": "https://api-secim.oyveotesi.org/image/secim-images.oyveotesi.org/oyveotesi/raw/server/1881_bulk_999999999_1684093780180965477.jpg",
+            "submission_id": 474155,
+            "total_vote": 84,
+            "votes": {
+                "10": 12,
+                "11": 11,
+                "21": 14,
+                "22": 10,
+                "24": 2,
+                "8": 4,
+                "9": 31
+            }
+        },
+        "school_name": "ÇÜRÜKLER İLKÖĞRETİM OKULU"
+    }
+]
